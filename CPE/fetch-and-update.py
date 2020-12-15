@@ -21,12 +21,12 @@ cpes = {}
 counters = {'cpes': 0, 'vendors': 0, 'products': 0}
 counters_diff = {'cpes': 0}
 
-print("[+] Backup old files")
-try:
-    shutil.move(BASEDIR+'/data/cpes.json', BASEDIR+'/data/cpes.json.old')
-    has_backup = True
-except Exception:
-    has_backup = False
+# print("[+] Backup old files")
+# try:
+#     shutil.move(BASEDIR+'/data/cpes.json', BASEDIR+'/data/cpes.json.old')
+#     has_backup = True
+# except Exception:
+#     has_backup = False
 
 print("[+] Downloading CPE dictionary from NVD")
 r = requests.get('https://nvd.nist.gov/feeds/xml/cpe/dictionary/'+CPE_FILENAME_ZIP, stream=True)
@@ -59,7 +59,7 @@ for xcpe in tqdm(root.findall('{http://cpe.mitre.org/dictionary/2.0}cpe-item')):
         cpes[cpe_vendor][cpe_product].update({cpe_vector: cpe_title})
         counters.update({'cpes': counters['cpes']+1})
 
-# Process NVD match CPE dictionnary
+# Process NVD CPE matches
 print("[+] Downloading CPE matches from NVD")
 r = requests.get('https://nvd.nist.gov/feeds/json/cpematch/1.0/'+CPEMATCH_FILENAME_ZIP, stream=True)
 with open(BASEDIR+"/nvd/"+CPEMATCH_FILENAME_ZIP, 'wb') as f:
@@ -89,49 +89,48 @@ for cpe in tqdm(cpes_dict['matches']):
         cpes[cpe_vendor][cpe_product].update({cpe_vector: cpe_title})
         counters.update({'cpes': counters['cpes']+1})
 
-with open(BASEDIR+'/data/cpes.json', "w") as jf:
+with open(BASEDIR+'/data/cpes-latest.json', "w") as jf:
     jf.write(json.dumps({
         'cpes': cpes
     }))
     print(counters)
 
-with zipfile.ZipFile(BASEDIR+'/data/cpes.json.zip', 'w', zipfile.ZIP_DEFLATED) as zf:
-    zf.write(BASEDIR+'/data/cpes.json', arcname='cpes.json')
+# with zipfile.ZipFile(BASEDIR+'/data/cpes.json.zip', 'w', zipfile.ZIP_DEFLATED) as zf:
+#     zf.write(BASEDIR+'/data/cpes.json', arcname='cpes.json')
 
-if has_backup:
-    print("[+] Building diff file from latest CPE references")
-    with open(BASEDIR+'/data/cpes.json.old', "r") as jfo:
-        cpes_oldies = json.loads(jfo.read())['cpes']
-        cpes_diffs = {}
+print("[+] Building diff file from latest CPE references")
+with open(BASEDIR+'/data/cpes-base.json', "r") as jfo:
+    cpes_oldies = json.loads(jfo.read())['cpes']
+    cpes_diffs = {}
 
-        # Loop over new vendors list
-        for n_vendor in cpes.keys():
-            for n_product in cpes[n_vendor].keys():
-                for n_cpe in cpes[n_vendor][n_product].keys():
-                    try:
-                        cpes_oldies[n_vendor][n_product][n_cpe]
-                        is_new = False
-                    except KeyError:  # Fuck les jaloux
-                        is_new = True
+    # Loop over new vendors list
+    for n_vendor in cpes.keys():
+        for n_product in cpes[n_vendor].keys():
+            for n_cpe in cpes[n_vendor][n_product].keys():
+                try:
+                    cpes_oldies[n_vendor][n_product][n_cpe]
+                    is_new = False
+                except KeyError:  # Fuck les jaloux
+                    is_new = True
 
-                    if is_new:
-                        cpes_diffs = {
-                            **cpes_diffs,
-                            **{
-                                n_vendor: {
-                                    n_product: {
-                                        n_cpe: cpes[n_vendor][n_product][n_cpe]
-                                    }
+                if is_new:
+                    cpes_diffs = {
+                        **cpes_diffs,
+                        **{
+                            n_vendor: {
+                                n_product: {
+                                    n_cpe: cpes[n_vendor][n_product][n_cpe]
                                 }
                             }
                         }
-                        counters_diff.update({'cpes': counters_diff['cpes']+1})
+                    }
+                    counters_diff.update({'cpes': counters_diff['cpes']+1})
 
-        print(counters_diff)
+    print(counters_diff)
 
-        with open(BASEDIR+'/data/cpes-diff.json', "w") as jf:
-            jf.write(json.dumps({
-                'cpes': cpes_diffs
-            }))
-        with zipfile.ZipFile(BASEDIR+'/data/cpes-diff.json.zip', 'w', zipfile.ZIP_DEFLATED) as zf:
-            zf.write(BASEDIR+'/data/cpes-diff.json', arcname='cpes-diff.json')
+    with open(BASEDIR+'/data/cpes-diff.json', "w") as jf:
+        jf.write(json.dumps({
+            'cpes': cpes_diffs
+        }))
+    # with zipfile.ZipFile(BASEDIR+'/data/cpes-diff.json.zip', 'w', zipfile.ZIP_DEFLATED) as zf:
+    #     zf.write(BASEDIR+'/data/cpes-diff.json', arcname='cpes-diff.json')

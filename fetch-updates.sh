@@ -5,7 +5,7 @@ display_usage() {
 }
 
 
-python CWE/fetch-and-update.py
+# python CWE/fetch-and-update.py
 # python CPE/fetch-and-update.py
 # python CVE/fetch-and-update.py
 python VIA/fetch-and-update.py
