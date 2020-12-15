@@ -18,6 +18,7 @@ root = ET.fromstring(xmlfile.read())
 
 cwes = []
 
+print("[+] Downloading latest CWE references")
 for w in root.find('{http://cwe.mitre.org/cwe-6}Weaknesses'):
     desc = ""
     if w.find('{http://cwe.mitre.org/cwe-6}Description') is not None:
@@ -33,9 +34,16 @@ for w in root.find('{http://cwe.mitre.org/cwe-6}Weaknesses'):
     }
     cwes.append(cwe)
 
-with open(BASEDIR+'/data/cwes.json', "w") as cwe_json_file:
+with open(BASEDIR+'/data/cwes-latest.json', "w") as cwe_json_file:
     cwe_json_file.write(json.dumps({
         'cwes': cwes
     }))
-with zipfile.ZipFile(BASEDIR+'/data/cwes.json.zip', 'w', zipfile.ZIP_DEFLATED) as zf:
-    zf.write(BASEDIR+'/data/cwes.json', arcname='cwes.json')
+# with zipfile.ZipFile(BASEDIR+'/data/cwes-latest.json.zip', 'w', zipfile.ZIP_DEFLATED) as zf:
+#     zf.write(BASEDIR+'/data/cwes-latest.json', arcname='cwes.json')
+
+
+print("[+] Building diff file from latest CWE references. no diff by default")
+with open(BASEDIR+'/data/cwes-diff.json', "w") as cwe_json_file:
+    cwe_json_file.write(json.dumps({
+        'cwes': []
+    }))
