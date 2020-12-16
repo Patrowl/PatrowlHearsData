@@ -18,7 +18,7 @@ echo "${current_datetime}" > lastupdate.txt
 git add .
 git commit -m "data-update-${current_datetime}"
 git push origin :refs/tags/$current_date
-git tag -fa $current_date
+git tag -f $current_date
 git push && git push --tags
 
 end_time="$(date -u +%s)"
