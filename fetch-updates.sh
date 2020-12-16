@@ -17,6 +17,7 @@ echo "${current_datetime}" > lastupdate.txt
 
 git add .
 git commit -m "data-update-${current_datetime}"
+git push
 
 end_time="$(date -u +%s)"
 elapsed="$(($end_time-$start_time))"
