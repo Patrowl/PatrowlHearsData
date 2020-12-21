@@ -5,7 +5,7 @@ display_usage() {
 }
 
 DO_DATA_UPDATE=1
-DO_PUSH=1
+DO_PUSH=0
 
 while (( "$#" )); do
   case "$1" in
@@ -13,24 +13,17 @@ while (( "$#" )); do
       DO_DATA_UPDATE=0
       shift
       ;;
-    -l|--no-data-push)
-      DO_PUSH=0
+    -p|--push-data)
+      DO_PUSH=1
       shift
       ;;
-    # -b|--my-flag-with-argument)
-    #   if [ -n "$2" ] && [ ${2:0:1} != "-" ]; then
-    #     MY_FLAG_ARG=$2
-    #     shift 2
-    #   else
-    #     echo "Error: Argument for $1 is missing" >&2
-    #     exit 1
-    #   fi
-    #   ;;
+
     -*|--*=) # unsupported flags
       echo "Error: Unsupported flag $1" >&2
+			display_usage
       exit 1
       ;;
-    *) # preserve positional arguments
+    *)
       display_usage
       exit 1
       ;;
@@ -43,10 +36,10 @@ current_datetime=$(python -c 'from datetime import datetime as dt; print(dt.toda
 
 
 [ $DO_DATA_UPDATE -eq 1 ] && {
-	python CWE/fetch-and-update.py
-	python CPE/fetch-and-update.py
-	python CVE/fetch-and-update.py
-	python VIA/fetch-and-update.py
+	env/bin/python CWE/fetch-and-update.py
+	env/bin/python CPE/fetch-and-update.py
+	env/bin/python CVE/fetch-and-update.py
+	env/bin/python VIA/fetch-and-update.py
 }
 
 echo "${current_datetime}" > lastupdate.txt
