@@ -1,6 +1,6 @@
 #!/bin/bash
 
-python -mplatform | grep -qi Ubuntu && {
+python -mplatform | grep -qiE 'Ubuntu|Linux' && {
   sudo apt-get install -y python3 python3-pip git
   pip3 install virtualenv
 }

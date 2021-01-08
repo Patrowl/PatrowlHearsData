@@ -20,22 +20,22 @@ if not os.path.exists(BASEDIR+'/data/'):
 #     has_backup = False
 
 
-try:
-    print("[+] Download latest VIA references")
-    r = requests.get('https://www.cve-search.org/feeds/via4.json', stream=True)
-    with open(BASEDIR+"/data/via-latest.json", 'wb') as f:
-        pbar = tqdm(unit="B", unit_scale=True, total=int(r.headers['Content-Length']), desc="Download VIA.json")
-        for chunk in r.iter_content(chunk_size=1024):
-            f.write(chunk)
-            pbar.update(1024)
-        pbar.close()
-
-    # with zipfile.ZipFile(BASEDIR+'/data/via.json.zip', 'w', zipfile.ZIP_DEFLATED) as zf:
-    #     zf.write(BASEDIR+'/data/via.json', arcname='via.json')
-
-except Exception as e:
-    print(e)
-    pass
+# try:
+#     print("[+] Download latest VIA references")
+#     r = requests.get('https://www.cve-search.org/feeds/via4.json', stream=True)
+#     with open(BASEDIR+"/data/via-latest.json", 'wb') as f:
+#         pbar = tqdm(unit="B", unit_scale=True, total=int(r.headers['Content-Length']), desc="Download VIA.json")
+#         for chunk in r.iter_content(chunk_size=1024):
+#             f.write(chunk)
+#             pbar.update(1024)
+#         pbar.close()
+#
+#     # with zipfile.ZipFile(BASEDIR+'/data/via.json.zip', 'w', zipfile.ZIP_DEFLATED) as zf:
+#     #     zf.write(BASEDIR+'/data/via.json', arcname='via.json')
+#
+# except Exception as e:
+#     print(e)
+#     pass
 
 
 print("[+] Building diff file from latest VIA references")
@@ -48,13 +48,20 @@ with open(BASEDIR+'/data/via-base.json', "r") as jfo:
 
         # Loop over CVES from new VIA
         for cve_id in vias_news.keys():
+
+            # if cve_id == 'CVE-2020-13935':
+            #     print(vias_news[cve_id])
+            #     break
             if cve_id not in vias_oldies.keys():
                 # New CVE:
                 vias_diffs.update({cve_id: vias_news[cve_id]})
             else:
                 for subitem in vias_news[cve_id]:
                     if subitem not in vias_oldies[cve_id].keys() or vias_oldies[cve_id][subitem] != vias_news[cve_id][subitem]:
-                        vias_diffs = {**vias_diffs, **{cve_id: vias_news[cve_id][subitem]}}
+                        vias_diffs = {
+                            **vias_diffs,
+                            **{cve_id: vias_news[cve_id][subitem]}
+                        }
 
 with open(BASEDIR+'/data/via-diff.json', "w") as jf:
     jf.write(json.dumps({
