@@ -6,6 +6,9 @@ display_usage() {
 
 DO_DATA_UPDATE=1
 DO_PUSH=0
+GIT_USERNAME=${GIT_USERNAME:-}
+GIT_PASSWORD=${GIT_PASSWORD:-}
+GIT_ORIGIN="origin"
 
 while (( "$#" )); do
   case "$1" in
@@ -17,7 +20,18 @@ while (( "$#" )); do
       DO_PUSH=1
       shift
       ;;
-
+    -u|--username)
+      echo "Username: $2"
+			GIT_USERNAME=$2
+			shift
+			shift
+      ;;
+    -w|--password)
+      echo "password: $2"
+			GIT_PASSWORD=$2
+			shift
+			shift
+      ;;
     -*|--*=) # unsupported flags
       echo "Error: Unsupported flag $1" >&2
 			display_usage
@@ -29,6 +43,12 @@ while (( "$#" )); do
       ;;
   esac
 done
+
+[[ ${GIT_USERNAME} -ne "" && ${GIT_PASSWORD} -ne "" ]] && {
+	GIT_ORIGIN="https://${GIT_USERNAME}:${GIT_USERNAME}@github.com/Patrowl/PatrowlHearsData"
+}
+
+echo 'GIT_CREDZ'$GIT_CREDZ
 
 start_time="$(date -u +%s)"
 current_date=$(python -c 'from datetime import datetime as dt; print(dt.today().strftime("%Y-%m-%d"))')
@@ -47,7 +67,8 @@ echo "${current_datetime}" > lastupdate.txt
 [ $DO_PUSH -eq 1 ] && {
 	git add .
 	git commit -m "data-update-${current_datetime}"
-	git push origin :refs/tags/$current_date
+	# git push origin :refs/tags/$current_date
+	git push ${GIT_ORIGIN} :refs/tags/$current_date
 	git tag -f $current_date
 	git push && git push --tags
 }
