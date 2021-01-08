@@ -20,22 +20,22 @@ if not os.path.exists(BASEDIR+'/data/'):
 #     has_backup = False
 
 
-# try:
-#     print("[+] Download latest VIA references")
-#     r = requests.get('https://www.cve-search.org/feeds/via4.json', stream=True)
-#     with open(BASEDIR+"/data/via-latest.json", 'wb') as f:
-#         pbar = tqdm(unit="B", unit_scale=True, total=int(r.headers['Content-Length']), desc="Download VIA.json")
-#         for chunk in r.iter_content(chunk_size=1024):
-#             f.write(chunk)
-#             pbar.update(1024)
-#         pbar.close()
-#
-#     # with zipfile.ZipFile(BASEDIR+'/data/via.json.zip', 'w', zipfile.ZIP_DEFLATED) as zf:
-#     #     zf.write(BASEDIR+'/data/via.json', arcname='via.json')
-#
-# except Exception as e:
-#     print(e)
-#     pass
+try:
+    print("[+] Download latest VIA references")
+    r = requests.get('https://www.cve-search.org/feeds/via4.json', stream=True)
+    with open(BASEDIR+"/data/via-latest.json", 'wb') as f:
+        pbar = tqdm(unit="B", unit_scale=True, total=int(r.headers['Content-Length']), desc="Download VIA.json")
+        for chunk in r.iter_content(chunk_size=1024):
+            f.write(chunk)
+            pbar.update(1024)
+        pbar.close()
+
+    # with zipfile.ZipFile(BASEDIR+'/data/via.json.zip', 'w', zipfile.ZIP_DEFLATED) as zf:
+    #     zf.write(BASEDIR+'/data/via.json', arcname='via.json')
+
+except Exception as e:
+    print(e)
+    pass
 
 
 print("[+] Building diff file from latest VIA references")
