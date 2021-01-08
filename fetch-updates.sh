@@ -48,8 +48,6 @@ done
 	GIT_ORIGIN="https://${GIT_USERNAME}:${GIT_USERNAME}@github.com/Patrowl/PatrowlHearsData"
 }
 
-echo 'GIT_CREDZ'$GIT_CREDZ
-
 start_time="$(date -u +%s)"
 current_date=$(python -c 'from datetime import datetime as dt; print(dt.today().strftime("%Y-%m-%d"))')
 current_datetime=$(python -c 'from datetime import datetime as dt; print(dt.today().strftime("%Y-%m-%d %H:%M:%S"))')
