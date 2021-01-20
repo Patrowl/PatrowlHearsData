@@ -1,13 +1,13 @@
 #!/bin/bash
 
-python -mplatform | grep -qiE 'Ubuntu|Linux' && {
+python3 -mplatform | grep -qiE 'Ubuntu|Linux' && {
   sudo apt-get install -y python3 python3-pip git
   pip3 install virtualenv
 }
-python -mplatform | grep -qi centos && {
+python3 -mplatform | grep -qi centos && {
   sudo yum install -y git python3 python3-pip python3-virtualenv
 }
-python -mplatform | grep -qi macOS && {
+python3 -mplatform | grep -qi macOS && {
   brew update
   brew install python3 git
   python -m ensurepip
