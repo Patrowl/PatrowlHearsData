@@ -49,8 +49,8 @@ done
 }
 
 start_time="$(date -u +%s)"
-current_date=$(python -c 'from datetime import datetime as dt; print(dt.today().strftime("%Y-%m-%d"))')
-current_datetime=$(python -c 'from datetime import datetime as dt; print(dt.today().strftime("%Y-%m-%d %H:%M:%S"))')
+current_date=$(python3 -c 'from datetime import datetime as dt; print(dt.today().strftime("%Y-%m-%d"))')
+current_datetime=$(python3 -c 'from datetime import datetime as dt; print(dt.today().strftime("%Y-%m-%d %H:%M:%S"))')
 
 
 [ $DO_DATA_UPDATE -eq 1 ] && {
