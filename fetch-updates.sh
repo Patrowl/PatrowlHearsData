@@ -49,6 +49,8 @@ done
 }
 
 start_time="$(date -u +%s)"
+echo "[+] Started at $start_time"
+
 current_date=$(python3 -c 'from datetime import datetime as dt; print(dt.today().strftime("%Y-%m-%d"))')
 current_datetime=$(python3 -c 'from datetime import datetime as dt; print(dt.today().strftime("%Y-%m-%d %H:%M:%S"))')
 
