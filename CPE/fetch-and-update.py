@@ -89,11 +89,11 @@ for cpe in tqdm(cpes_dict['matches']):
         cpes[cpe_vendor][cpe_product].update({cpe_vector: cpe_title})
         counters.update({'cpes': counters['cpes']+1})
 
-with open(BASEDIR+'/data/cpes-latest.json', "w") as jf:
-    jf.write(json.dumps({
-        'cpes': cpes
-    }))
-    print(counters)
+# with open(BASEDIR+'/data/cpes-latest.json', "w") as jf:
+#     jf.write(json.dumps({
+#         'cpes': cpes
+#     }))
+#     print(counters)
 
 # with zipfile.ZipFile(BASEDIR+'/data/cpes.json.zip', 'w', zipfile.ZIP_DEFLATED) as zf:
 #     zf.write(BASEDIR+'/data/cpes.json', arcname='cpes.json')
