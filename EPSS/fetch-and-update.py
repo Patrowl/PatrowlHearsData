@@ -28,6 +28,7 @@ import requests
 import gzip
 import os
 import json
+import shutil
 from tqdm import tqdm
 BASEDIR = os.path.dirname(os.path.realpath(__file__))
 EPSS_FILENAME = "epss_scores-current.csv.gz"
@@ -43,7 +44,21 @@ with open(f"{BASEDIR}/data/{EPSS_FILENAME}", 'wb') as f:
         f.write(chunk)
         pbar.update(1024)
 
+
 epss_data = {}
+epss_data_previous = {}
+epss_data_diff = {}
+
+print("[+] Archiving and loading previous EPSS data (if any)")
+has_previous = False
+if os.path.isfile(BASEDIR+'/data/epss-latest.json'):
+    shutil.copyfile(
+        BASEDIR+'/data/epss-latest.json',
+        BASEDIR+'/data/epss-previous.json'
+    )
+    has_previous = True
+    with open(BASEDIR+'/data/epss-previous.json', 'r') as f_previous:
+        epss_data_previous = json.load(f_previous)['epss']
 
 print("[+] Checking latest EPSS data")
 with gzip.open(f"{BASEDIR}/data/{EPSS_FILENAME}",'r') as fin:
@@ -51,11 +66,23 @@ with gzip.open(f"{BASEDIR}/data/{EPSS_FILENAME}",'r') as fin:
     print(epss_score_date)
     next(fin) # Skip the header line
     for line in fin:        
-        cve, epss, percentile = line.strip().decode("utf-8").split(',')
-        epss_data[cve] = {'epss': epss, 'percentile': percentile, 'date': epss_score_date}
+        cve_id, epss, percentile = line.strip().decode("utf-8").split(',')
+        epss_data[cve_id] = {'epss': epss, 'percentile': percentile, 'date': epss_score_date}
+        
+        if has_previous and cve_id in epss_data_previous.keys() and (
+                epss != epss_data_previous[cve_id]['epss'] or
+                percentile != epss_data_previous[cve_id]['percentile']
+            ):
+            epss_data_diff[cve_id] = {'epss': epss, 'percentile': percentile, 'date': epss_score_date}
 
 print("[+] Storing latest EPSS data")
 with open(BASEDIR+'/data/epss-latest.json', "w") as epss_json_file:
     epss_json_file.write(json.dumps({
         'epss': epss_data
+    }))
+
+print("[+] Storing diff EPSS data")
+with open(BASEDIR+'/data/epss-diff.json', "w") as epss_json_file:
+    epss_json_file.write(json.dumps({
+        'epss': epss_data_diff
     }))
