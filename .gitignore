@@ -134,5 +134,6 @@ mitre/cti
 nohup.out
 nohup.*.out
 **/nvd/*
+EPSS/data/*.gz
 #**/data/*.json
 #**/data/*.json.old
