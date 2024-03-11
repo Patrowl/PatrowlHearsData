@@ -1,6 +1,7 @@
 #!/bin/bash
+
 display_usage() {
-	echo "This script fetch update, create dump and diffs as json files."
+	echo "This script fetches updates, creates dumps, and diffs as JSON files."
 	echo -e "\nUsage: $0 \n"
 }
 
@@ -14,23 +15,15 @@ while (( "$#" )); do
   case "$1" in
     -n|--no-data-update)
       DO_DATA_UPDATE=0
-      shift
       ;;
     -p|--push-data)
       DO_PUSH=1
-      shift
       ;;
     -u|--username)
-      echo "Username: $2"
-			GIT_USERNAME=$2
-			shift
-			shift
+      GIT_USERNAME=$2
       ;;
     -w|--password)
-      echo "password: $2"
-			GIT_PASSWORD=$2
-			shift
-			shift
+      GIT_PASSWORD=$2
       ;;
     -*|--*=) # unsupported flags
       echo "Error: Unsupported flag $1" >&2
@@ -42,11 +35,12 @@ while (( "$#" )); do
       exit 1
       ;;
   esac
+  shift
 done
 
-[[ ${GIT_USERNAME} -ne "" && ${GIT_PASSWORD} -ne "" ]] && {
-	GIT_ORIGIN="https://${GIT_USERNAME}:${GIT_USERNAME}@github.com/Patrowl/PatrowlHearsData"
-}
+if [[ -n ${GIT_USERNAME} && -n ${GIT_PASSWORD} ]]; then
+	GIT_ORIGIN="https://${GIT_USERNAME}:${GIT_PASSWORD}@github.com/Patrowl/PatrowlHearsData"
+fi
 
 start_time="$(date -u +%s)"
 echo "[+] Started at $start_time"
@@ -57,25 +51,22 @@ current_datetime=$(python3 -c 'from datetime import datetime as dt; print(dt.tod
 echo "[+] Pull latest updates from Github"
 git pull
 
-[ $DO_DATA_UPDATE -eq 1 ] && {
-	env/bin/python CWE/fetch-and-update.py
-	env/bin/python CPE/fetch-and-update.py
-	env/bin/python CVE/fetch-and-update.py
-	env/bin/python VIA/fetch-and-update.py
-	env/bin/python EPSS/fetch-and-update.py
-}
+if [ $DO_DATA_UPDATE -eq 1 ]; then
+	for dir in CWE CPE CVE VIA EPSS; do
+		env/bin/python $dir/fetch-and-update.py
+	done
+fi
 
 echo "${current_datetime}" > lastupdate.txt
 
-[ $DO_PUSH -eq 1 ] && {
+if [ $DO_PUSH -eq 1 ]; then
 	git add .
 	git commit -m "data-update-${current_datetime}"
-	# git push origin :refs/tags/$current_date
 	git push ${GIT_ORIGIN} :refs/tags/$current_date
 	git tag -f $current_date
 	git push && git push --tags
-}
+fi
 
 end_time="$(date -u +%s)"
 elapsed="$(($end_time-$start_time))"
-echo "Total of $elapsed seconds elapsed"
+echo "Total of $elapsed seconds elapsed for process"
