@@ -4,3 +4,4 @@ exclude_paths:
   - "CVE/data/**"  
   - "CWE/data/**"  
   - "VIA/data/**"
+  - "EPSS/data/**"
