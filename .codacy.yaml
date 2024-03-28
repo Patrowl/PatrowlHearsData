@@ -1,0 +1,6 @@
+---
+exclude_paths:
+  - "CPE/data/**"
+  - "CVE/data/**"  
+  - "CWE/data/**"  
+  - "VIA/data/**"
