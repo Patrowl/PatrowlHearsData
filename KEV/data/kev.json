@@ -1,8 +1,8 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.06.03",
-    "dateReleased": "2024-06-03T14:00:02.6158Z",
-    "count": 1118,
+    "catalogVersion": "2024.06.12",
+    "dateReleased": "2024-06-12T14:00:13.9284Z",
+    "count": 1120,
     "vulnerabilities": [
         {
             "cveID": "CVE-2021-27104",
@@ -13419,6 +13419,30 @@
             "dueDate": "2024-06-24",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/www.oracle.com\/security-alerts\/cpuapr2017.html"
+        },
+        {
+            "cveID": "CVE-2024-4577",
+            "vendorProject": "PHP Group",
+            "product": "PHP",
+            "vulnerabilityName": "PHP-CGI OS Command Injection Vulnerability",
+            "dateAdded": "2024-06-12",
+            "shortDescription": "PHP, specifically Windows-based PHP used in CGI mode, contains an OS command injection vulnerability that allows for arbitrary code execution. This vulnerability is a patch bypass for CVE-2012-1823.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-07-03",
+            "knownRansomwareCampaignUse": "Known",
+            "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. Please check with specific vendors for information on patching status. For more information, please see:  https:\/\/www.php.net\/ChangeLog-8.php#"
+        },
+        {
+            "cveID": "CVE-2024-4610",
+            "vendorProject": "Arm",
+            "product": "Mali GPU Kernel Driver",
+            "vulnerabilityName": "Arm Mali GPU Kernel Driver Use-After-Free Vulnerability",
+            "dateAdded": "2024-06-12",
+            "shortDescription": "Arm Bifrost and Valhall GPU kernel drivers contain a use-after-free vulnerability that allows a local, non-privileged user to make improper GPU memory processing operations to gain access to already freed memory.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-07-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/developer.arm.com\/Arm%20Security%20Center\/Mali%20GPU%20Driver%20Vulnerabilities"
         }
     ]
 }
