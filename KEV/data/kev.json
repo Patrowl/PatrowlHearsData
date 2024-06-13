@@ -1,8 +1,8 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.06.12",
-    "dateReleased": "2024-06-12T14:00:13.9284Z",
-    "count": 1120,
+    "catalogVersion": "2024.06.13",
+    "dateReleased": "2024-06-13T14:00:51.4353Z",
+    "count": 1123,
     "vulnerabilities": [
         {
             "cveID": "CVE-2021-27104",
@@ -13443,6 +13443,42 @@
             "dueDate": "2024-07-03",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/developer.arm.com\/Arm%20Security%20Center\/Mali%20GPU%20Driver%20Vulnerabilities"
+        },
+        {
+            "cveID": "CVE-2024-4358",
+            "vendorProject": "Progress",
+            "product": "Telerik Report Server",
+            "vulnerabilityName": "Progress Telerik Report Server Authentication Bypass by Spoofing Vulnerability",
+            "dateAdded": "2024-06-13",
+            "shortDescription": "Progress Telerik Report Server contains an authorization bypass by spoofing vulnerability that allows an attacker to obtain unauthorized access.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-07-04",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/docs.telerik.com\/report-server\/knowledge-base\/registration-auth-bypass-cve-2024-4358"
+        },
+        {
+            "cveID": "CVE-2024-26169",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Error Reporting Service Improper Privilege Management Vulnerability",
+            "dateAdded": "2024-06-13",
+            "shortDescription": "Microsoft Windows Error Reporting Service contains an improper privilege management vulnerability that allows a local attacker with user permissions to gain SYSTEM privileges.",
+            "requiredAction": "Apply updates per vendor instructions or discontinue use of the product if updates are unavailable.",
+            "dueDate": "2024-07-04",
+            "knownRansomwareCampaignUse": "Known",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-26169"
+        },
+        {
+            "cveID": "CVE-2024-32896",
+            "vendorProject": "Android",
+            "product": "Pixel",
+            "vulnerabilityName": "Android Pixel Privilege Escalation Vulnerability",
+            "dateAdded": "2024-06-13",
+            "shortDescription": "Android Pixel contains an unspecified vulnerability in the firmware that allows for privilege escalation.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-07-04",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/source.android.com\/docs\/security\/bulletin\/pixel\/2024-06-01"
         }
     ]
 }
