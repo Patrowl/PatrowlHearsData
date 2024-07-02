@@ -1,8 +1,8 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.06.26",
-    "dateReleased": "2024-06-26T14:00:54.8942Z",
-    "count": 1126,
+    "catalogVersion": "2024.07.02",
+    "dateReleased": "2024-07-02T14:09:06.1164Z",
+    "count": 1127,
     "vulnerabilities": [
         {
             "cveID": "CVE-2021-27104",
@@ -14640,6 +14640,19 @@
             "dueDate": "2024-07-17",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. The patched JAI-EXT is version 1.1.22: https:\/\/github.com\/geosolutions-it\/jai-ext\/releases\/tag\/1.1.22, https:\/\/github.com\/geosolutions-it\/jai-ext\/security\/advisories\/GHSA-v92f-jx6p-73rx",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-20399",
+            "vendorProject": "Cisco",
+            "product": "NX-OS",
+            "vulnerabilityName": "Cisco NX-OS Command Injection Vulnerability",
+            "dateAdded": "2024-07-02",
+            "shortDescription": "Cisco NX-OS contains a command injection vulnerability in the command line interface (CLI) that could allow an authenticated, local attacker to execute commands as root on the underlying operating system of an affected device.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-07-23",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/sec.cloudapps.cisco.com\/security\/center\/content\/CiscoSecurityAdvisory\/cisco-sa-nxos-cmd-injection-xD9OhyOP",
             "cwes": []
         }
     ]
