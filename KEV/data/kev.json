@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2024.07.08",
-    "dateReleased": "2024-07-08T13:04:56.2562Z",
+    "dateReleased": "2024-07-08T15:48:15.0847Z",
     "count": 1127,
     "vulnerabilities": [
         {
@@ -2029,7 +2029,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-07-20",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "Reference CISA's ED 21-04 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-04-mitigate-windows-print-spooler-service-vulnerability) for further guidance and requirements.",
+            "notes": "Reference CISA's ED 21-04 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-04-mitigate-windows-print-spooler-service-vulnerability) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-04.",
             "cwes": []
         },
         {
@@ -2094,7 +2094,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2020-07-24",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "Reference CISA's ED 20-03 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-20-03-mitigate-windows-dns-server-remote-code-execution-vulnerability-july-2020-patch-tuesday) for further guidance and requirements.",
+            "notes": "Reference CISA's ED 20-03 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-20-03-mitigate-windows-dns-server-remote-code-execution-vulnerability-july-2020-patch-tuesday) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 20-03.",
             "cwes": []
         },
         {
@@ -2406,7 +2406,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2020-09-21",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "Reference CISA's ED 20-04 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-20-04-mitigate-netlogon-elevation-privilege-vulnerability-august-2020-patch-tuesday) for further guidance and requirements.",
+            "notes": "Reference CISA's ED 20-04 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-20-04-mitigate-netlogon-elevation-privilege-vulnerability-august-2020-patch-tuesday) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 20-04.",
             "cwes": []
         },
         {
@@ -2419,7 +2419,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-04-16",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "Reference CISA's ED 21-02 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-02-mitigate-microsoft-exchange-premises-product-vulnerabilities) for further guidance and requirements.",
+            "notes": "Reference CISA's ED 21-02 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-02-mitigate-microsoft-exchange-premises-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-02.",
             "cwes": []
         },
         {
@@ -2432,7 +2432,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-04-16",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "Reference CISA's ED 21-02 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-02-mitigate-microsoft-exchange-premises-product-vulnerabilities) for further guidance and requirements.",
+            "notes": "Reference CISA's ED 21-02 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-02-mitigate-microsoft-exchange-premises-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-02.",
             "cwes": []
         },
         {
@@ -2445,7 +2445,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-04-16",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "Reference CISA's ED 21-02 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-02-mitigate-microsoft-exchange-premises-product-vulnerabilities) for further guidance and requirements.",
+            "notes": "Reference CISA's ED 21-02 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-02-mitigate-microsoft-exchange-premises-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-02.",
             "cwes": []
         },
         {
@@ -2497,7 +2497,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2020-01-29",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "Reference CISA's ED 20-02 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-20-02-mitigate-windows-vulnerabilities-january-2020-patch-tuesday) for further guidance and requirements.",
+            "notes": "Reference CISA's ED 20-02 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-20-02-mitigate-windows-vulnerabilities-january-2020-patch-tuesday) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 20-02.",
             "cwes": []
         },
         {
@@ -2549,7 +2549,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-04-16",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "Reference CISA's ED 21-02 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-02-mitigate-microsoft-exchange-premises-product-vulnerabilities) for further guidance and requirements.",
+            "notes": "Reference CISA's ED 21-02 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-02-mitigate-microsoft-exchange-premises-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-02.",
             "cwes": []
         },
         {
@@ -2835,7 +2835,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-04-23",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "Reference CISA's ED 21-03 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-03-mitigate-pulse-connect-secure-product-vulnerabilities) for further guidance and requirements.",
+            "notes": "Reference CISA's ED 21-03 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-03-mitigate-pulse-connect-secure-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-03.",
             "cwes": []
         },
         {
@@ -2848,7 +2848,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-04-23",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "Reference CISA's ED 21-03 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-03-mitigate-pulse-connect-secure-product-vulnerabilities) for further guidance and requirements.",
+            "notes": "Reference CISA's ED 21-03 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-03-mitigate-pulse-connect-secure-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-03.",
             "cwes": []
         },
         {
@@ -2861,7 +2861,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-04-23",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "Reference CISA's ED 21-03 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-03-mitigate-pulse-connect-secure-product-vulnerabilities) for further guidance and requirements.",
+            "notes": "Reference CISA's ED 21-03 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-03-mitigate-pulse-connect-secure-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-03.",
             "cwes": []
         },
         {
@@ -2874,7 +2874,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-04-23",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "Reference CISA's ED 21-03 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-03-mitigate-pulse-connect-secure-product-vulnerabilities) for further guidance and requirements.",
+            "notes": "Reference CISA's ED 21-03 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-03-mitigate-pulse-connect-secure-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-03.",
             "cwes": []
         },
         {
@@ -2887,7 +2887,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-04-23",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "Reference CISA's ED 21-03 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-03-mitigate-pulse-connect-secure-product-vulnerabilities) for further guidance and requirements.",
+            "notes": "Reference CISA's ED 21-03 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-03-mitigate-pulse-connect-secure-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-03.",
             "cwes": []
         },
         {
@@ -2900,7 +2900,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-04-23",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "Reference CISA's ED 21-03 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-03-mitigate-pulse-connect-secure-product-vulnerabilities) for further guidance and requirements.",
+            "notes": "Reference CISA's ED 21-03 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-03-mitigate-pulse-connect-secure-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-03.",
             "cwes": []
         },
         {
@@ -2913,7 +2913,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-04-23",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "Reference CISA's ED 21-03 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-03-mitigate-pulse-connect-secure-product-vulnerabilities) for further guidance and requirements.",
+            "notes": "Reference CISA's ED 21-03 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-03-mitigate-pulse-connect-secure-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-03.",
             "cwes": []
         },
         {
