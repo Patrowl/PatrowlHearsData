@@ -1,8 +1,8 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.07.08",
-    "dateReleased": "2024-07-08T15:48:15.0847Z",
-    "count": 1127,
+    "catalogVersion": "2024.07.09",
+    "dateReleased": "2024-07-09T20:00:35.785Z",
+    "count": 1130,
     "vulnerabilities": [
         {
             "cveID": "CVE-2021-27104",
@@ -14653,6 +14653,45 @@
             "dueDate": "2024-07-23",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/sec.cloudapps.cisco.com\/security\/center\/content\/CiscoSecurityAdvisory\/cisco-sa-nxos-cmd-injection-xD9OhyOP",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-23692",
+            "vendorProject": "Rejetto",
+            "product": "HTTP File Server",
+            "vulnerabilityName": "Rejetto HTTP File Server Improper Neutralization of Special Elements Used in a Template Engine Vulnerability",
+            "dateAdded": "2024-07-09",
+            "shortDescription": "Rejetto HTTP File Server contains an improper neutralization of special elements used in a template engine vulnerability. This allows a remote, unauthenticated attacker to execute commands on the affected system by sending a specially crafted HTTP request.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-07-30",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "The patched Rejetto HTTP File Server (HFS) is version 3: https:\/\/github.com\/rejetto\/hfs?tab=readme-ov-file#installation, https:\/\/www.rejetto.com\/hfs\/",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-38080",
+            "vendorProject": "Microsoft",
+            "product": "Windows ",
+            "vulnerabilityName": "Microsoft Windows Hyper-V Privilege Escalation Vulnerability",
+            "dateAdded": "2024-07-09",
+            "shortDescription": "Microsoft Windows Hyper-V contains a privilege escalation vulnerability that allows a local attacker with user permissions to gain SYSTEM privileges.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-07-30",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2024-38080",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-38112",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows MSHTML Platform Spoofing Vulnerability",
+            "dateAdded": "2024-07-09",
+            "shortDescription": "Microsoft Windows MSHTML Platform contains a spoofing vulnerability that has a high impact to confidentiality, integrity, and availability.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-07-30",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-38112",
             "cwes": []
         }
     ]
