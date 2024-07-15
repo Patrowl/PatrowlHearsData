@@ -1,8 +1,8 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.07.09",
-    "dateReleased": "2024-07-09T20:50:24.7925Z",
-    "count": 1130,
+    "catalogVersion": "2024.07.15",
+    "dateReleased": "2024-07-15T14:00:52.3838Z",
+    "count": 1131,
     "vulnerabilities": [
         {
             "cveID": "CVE-2021-27104",
@@ -14631,11 +14631,11 @@
         },
         {
             "cveID": "CVE-2022-24816",
-            "vendorProject": "GeoSolutionsGroup",
+            "vendorProject": "OSGeo",
             "product": "JAI-EXT",
-            "vulnerabilityName": "GeoSolutionsGroup JAI-EXT Code Injection Vulnerability",
+            "vulnerabilityName": "OSGeo GeoServer JAI-EXT Code Injection Vulnerability",
             "dateAdded": "2024-06-26",
-            "shortDescription": "GeoSolutionsGroup JAI-EXT, a component of GeoSolutions GeoServer, contains a code injection vulnerability that, when programs use jt-jiffle and allow Jiffle script to be provided via network request, could allow remote code execution.",
+            "shortDescription": "OSGeo GeoServer JAI-EXT contains a code injection vulnerability that, when programs use jt-jiffle and allow Jiffle script to be provided via network request, could allow remote code execution.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-07-17",
             "knownRansomwareCampaignUse": "Unknown",
@@ -14692,6 +14692,19 @@
             "dueDate": "2024-07-30",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-38112",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-36401",
+            "vendorProject": "OSGeo",
+            "product": "GeoServer",
+            "vulnerabilityName": "OSGeo GeoServer GeoTools Eval Injection Vulnerability",
+            "dateAdded": "2024-07-15",
+            "shortDescription": "OSGeo GeoServer GeoTools contains an improper neutralization of directives in dynamically evaluated code vulnerability due to unsafely evaluating property names as XPath expressions. This allows unauthenticated attackers to conduct remote code execution via specially crafted input.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-08-05",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "This vulnerability affects an open-source component, third-party library, or a protocol used by different products. For more information, please see: https:\/\/github.com\/geoserver\/geoserver\/security\/advisories\/GHSA-6jj6-gm7p-fcvv, https:\/\/github.com\/geotools\/geotools\/pull\/4797",
             "cwes": []
         }
     ]
