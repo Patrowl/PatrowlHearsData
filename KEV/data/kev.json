@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2024.07.15",
-    "dateReleased": "2024-07-15T14:00:52.3838Z",
+    "dateReleased": "2024-07-15T19:18:15.7006Z",
     "count": 1131,
     "vulnerabilities": [
         {
@@ -12792,7 +12792,7 @@
             "shortDescription": "Ivanti Sentry, formerly known as MobileIron Sentry, contains an authentication bypass vulnerability that may allow an attacker to bypass authentication controls on the administrative interface due to an insufficiently restrictive Apache HTTPD configuration.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2023-09-12",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/forums.ivanti.com\/s\/article\/CVE-2023-38035-API-Authentication-Bypass-on-Sentry-Administrator-Interface?language=en_US",
             "cwes": []
         },
