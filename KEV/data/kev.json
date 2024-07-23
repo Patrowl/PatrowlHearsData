@@ -1,8 +1,8 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.07.17",
-    "dateReleased": "2024-07-17T14:52:49.3947Z",
-    "count": 1134,
+    "catalogVersion": "2024.07.23",
+    "dateReleased": "2024-07-23T14:01:05.1793Z",
+    "count": 1136,
     "vulnerabilities": [
         {
             "cveID": "CVE-2021-27104",
@@ -14744,6 +14744,32 @@
             "dueDate": "2024-08-07",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/helpx.adobe.com\/security\/products\/magento\/apsb24-40.html",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-39891",
+            "vendorProject": "Twilio",
+            "product": "Authy",
+            "vulnerabilityName": "Twilio Authy Information Disclosure Vulnerability",
+            "dateAdded": "2024-07-23",
+            "shortDescription": "Twilio Authy contains an information disclosure vulnerability in its API that allows an unauthenticated endpoint to accept a request containing a phone number and respond with information about whether the phone number was registered with Authy.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-08-13",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.twilio.com\/en-us\/changelog\/Security_Alert_Authy_App_Android_iOS",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2012-4792",
+            "vendorProject": "Microsoft",
+            "product": "Internet Explorer",
+            "vulnerabilityName": "Microsoft Internet Explorer Use-After-Free Vulnerability",
+            "dateAdded": "2024-07-23",
+            "shortDescription": "Microsoft Internet Explorer contains a use-after-free vulnerability that allows a remote attacker to execute arbitrary code via a crafted web site that triggers access to an object that (1) was not properly allocated or (2) is deleted, as demonstrated by a CDwnBindInfo object.",
+            "requiredAction": "The impacted product is end-of-life and should be disconnected if still in use.",
+            "dueDate": "2024-08-13",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/learn.microsoft.com\/en-us\/lifecycle\/products\/internet-explorer-11",
             "cwes": []
         }
     ]
