@@ -1,8 +1,8 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.07.23",
-    "dateReleased": "2024-07-23T14:01:05.1793Z",
-    "count": 1136,
+    "catalogVersion": "2024.07.29",
+    "dateReleased": "2024-07-29T14:01:50.2007Z",
+    "count": 1139,
     "vulnerabilities": [
         {
             "cveID": "CVE-2021-27104",
@@ -14770,6 +14770,45 @@
             "dueDate": "2024-08-13",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/learn.microsoft.com\/en-us\/lifecycle\/products\/internet-explorer-11",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2023-45249",
+            "vendorProject": "Acronis",
+            "product": "Cyber Infrastructure (ACI)",
+            "vulnerabilityName": "Acronis Cyber Infrastructure (ACI) Insecure Default Password Vulnerability",
+            "dateAdded": "2024-07-29",
+            "shortDescription": "Acronis Cyber Infrastructure (ACI) allows an unauthenticated user to execute commands remotely due to the use of default passwords.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-08-19",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/security-advisory.acronis.com\/advisories\/SEC-6452",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-5217",
+            "vendorProject": "ServiceNow",
+            "product": "Utah, Vancouver, and Washington DC Now",
+            "vulnerabilityName": "ServiceNow Incomplete List of Disallowed Inputs Vulnerability",
+            "dateAdded": "2024-07-29",
+            "shortDescription": "ServiceNow Washington DC, Vancouver, and earlier Now Platform releases contain an incomplete list of disallowed inputs vulnerability in the GlideExpression script. An unauthenticated user could exploit this vulnerability to execute code remotely.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-08-19",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/support.servicenow.com\/kb?id=kb_article_view&sysparm_article=KB1648313",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-4879",
+            "vendorProject": "ServiceNow",
+            "product": "Utah, Vancouver, and Washington DC Now",
+            "vulnerabilityName": "ServiceNow Improper Input Validation Vulnerability",
+            "dateAdded": "2024-07-29",
+            "shortDescription": "ServiceNow Utah, Vancouver, and Washington DC Now releases contain a jelly template injection vulnerability in UI macros. An unauthenticated user could exploit this vulnerability to execute code remotely. ",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-08-19",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/support.servicenow.com\/kb?id=kb_article_view&sysparm_article=KB1645154",
             "cwes": []
         }
     ]
