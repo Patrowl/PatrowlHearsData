@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2024.08.07",
-    "dateReleased": "2024-08-07T14:01:52.4073Z",
+    "dateReleased": "2024-08-07T17:31:38.8549Z",
     "count": 1143,
     "vulnerabilities": [
         {
@@ -14856,11 +14856,11 @@
             "product": "Kernel",
             "vulnerabilityName": "Android Kernel Remote Code Execution Vulnerability",
             "dateAdded": "2024-08-07",
-            "shortDescription": "Android contains an unspecified vulnerability in the kernel that allows for remote code execution.",
+            "shortDescription": "Android contains an unspecified vulnerability in the kernel that allows for remote code execution. This vulnerability resides in Linux Kernel and could impact other products, including but not limited to Android OS.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-08-28",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/source.android.com\/docs\/security\/bulletin\/2024-08-01",
+            "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. Please check with specific vendors for information on patching status. For more information, please see:   https:\/\/source.android.com\/docs\/security\/bulletin\/2024-08-01,  https:\/\/lore.kernel.org\/linux-cve-announce\/20240610090330.1347021-2-lee@kernel.org\/T\/#u   ",
             "cwes": []
         }
     ]
