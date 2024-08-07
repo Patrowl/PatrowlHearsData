@@ -1,8 +1,8 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.08.05",
-    "dateReleased": "2024-08-05T14:01:42.951Z",
-    "count": 1141,
+    "catalogVersion": "2024.08.07",
+    "dateReleased": "2024-08-07T14:01:52.4073Z",
+    "count": 1143,
     "vulnerabilities": [
         {
             "cveID": "CVE-2021-27104",
@@ -14835,6 +14835,32 @@
             "dueDate": "2024-08-26",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/advisory\/CVE-2018-0824",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-32113",
+            "vendorProject": "Apache",
+            "product": "OFBiz",
+            "vulnerabilityName": "Apache OFBiz Path Traversal Vulnerability",
+            "dateAdded": "2024-08-07",
+            "shortDescription": "Apache OFBiz contains a path traversal vulnerability that could allow for remote code execution.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-08-28",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. Please check with specific vendors for information on patching status. For more information, please see: https:\/\/lists.apache.org\/thread\/w6s60okgkxp2th1sr8vx0ndmgk68fqrd",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-36971",
+            "vendorProject": "Android",
+            "product": "Kernel",
+            "vulnerabilityName": "Android Kernel Remote Code Execution Vulnerability",
+            "dateAdded": "2024-08-07",
+            "shortDescription": "Android contains an unspecified vulnerability in the kernel that allows for remote code execution.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-08-28",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/source.android.com\/docs\/security\/bulletin\/2024-08-01",
             "cwes": []
         }
     ]
