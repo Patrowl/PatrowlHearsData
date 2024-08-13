@@ -1,8 +1,8 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.08.07",
-    "dateReleased": "2024-08-07T17:31:38.8549Z",
-    "count": 1143,
+    "catalogVersion": "2024.08.13",
+    "dateReleased": "2024-08-13T18:37:05.7322Z",
+    "count": 1149,
     "vulnerabilities": [
         {
             "cveID": "CVE-2021-27104",
@@ -14861,6 +14861,84 @@
             "dueDate": "2024-08-28",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. Please check with specific vendors for information on patching status. For more information, please see:   https:\/\/source.android.com\/docs\/security\/bulletin\/2024-08-01,  https:\/\/lore.kernel.org\/linux-cve-announce\/20240610090330.1347021-2-lee@kernel.org\/T\/#u   ",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-38107",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Power Dependency Coordinator Privilege Escalation Vulnerability",
+            "dateAdded": "2024-08-13",
+            "shortDescription": "Microsoft Windows Power Dependency Coordinator contains an unspecified vulnerability that allows for privilege escalation, enabling a local attacker to obtain SYSTEM privileges.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-09-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-38107",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-38106",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Kernel Privilege Escalation Vulnerability",
+            "dateAdded": "2024-08-13",
+            "shortDescription": "Microsoft Windows Kernel contains an unspecified vulnerability that allows for privilege escalation, enabling a local attacker to gain SYSTEM privileges. Successful exploitation of this vulnerability requires an attacker to win a race condition.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-09-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-38106",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-38193",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Ancillary Function Driver for WinSock Privilege Escalation Vulnerability",
+            "dateAdded": "2024-08-13",
+            "shortDescription": "Microsoft Windows Ancillary Function Driver for WinSock contains an unspecified vulnerability that allows for privilege escalation, enabling a local attacker to gain SYSTEM privileges.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-09-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-38193",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-38213",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows SmartScreen Security Feature Bypass Vulnerability",
+            "dateAdded": "2024-08-13",
+            "shortDescription": "Microsoft Windows SmartScreen contains a security feature bypass vulnerability that allows an attacker to bypass the SmartScreen user experience via a malicious file.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-09-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-38213",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-38178",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Scripting Engine Memory Corruption Vulnerability",
+            "dateAdded": "2024-08-13",
+            "shortDescription": "Microsoft Windows Scripting Engine contains a memory corruption vulnerability that allows unauthenticated attacker to initiate remote code execution via a specially crafted URL.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-09-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-38178",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-38189",
+            "vendorProject": "Microsoft",
+            "product": "Project",
+            "vulnerabilityName": "Microsoft Project Remote Code Execution Vulnerability ",
+            "dateAdded": "2024-08-13",
+            "shortDescription": "Microsoft Project contains an unspecified vulnerability that allows for remote code execution via a malicious file.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-09-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-38189",
             "cwes": []
         }
     ]
