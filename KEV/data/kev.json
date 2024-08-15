@@ -1,8 +1,8 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2024.08.15",
-    "dateReleased": "2024-08-15T14:06:19.6956Z",
-    "count": 1149,
+    "dateReleased": "2024-08-15T17:00:59.1904Z",
+    "count": 1150,
     "vulnerabilities": [
         {
             "cveID": "CVE-2021-27104",
@@ -14939,6 +14939,19 @@
             "dueDate": "2024-09-03",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-38189",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-28986",
+            "vendorProject": "SolarWinds",
+            "product": "Web Help Desk",
+            "vulnerabilityName": "SolarWinds Web Help Desk Deserialization of Untrusted Data Vulnerability",
+            "dateAdded": "2024-08-15",
+            "shortDescription": "SolarWinds Web Help Desk contains a deserialization of untrusted data vulnerability that could allow for remote code execution.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-09-05",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.solarwinds.com\/trust-center\/security-advisories\/cve-2024-28986",
             "cwes": []
         }
     ]
