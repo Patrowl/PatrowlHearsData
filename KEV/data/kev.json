@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.08.19",
-    "dateReleased": "2024-08-19T14:50:54.624Z",
+    "catalogVersion": "2024.08.20",
+    "dateReleased": "2024-08-20T12:09:39.4498Z",
     "count": 1151,
     "vulnerabilities": [
         {
@@ -14963,7 +14963,7 @@
             "shortDescription": "Jenkins Command Line Interface (CLI) contains a path traversal vulnerability that allows attackers limited read access to certain files, which can lead to code execution.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-09-09",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/www.jenkins.io\/security\/advisory\/2024-01-24\/#SECURITY-3314",
             "cwes": []
         }
