@@ -1,8 +1,8 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.08.20",
-    "dateReleased": "2024-08-20T12:09:39.4498Z",
-    "count": 1151,
+    "catalogVersion": "2024.08.21",
+    "dateReleased": "2024-08-21T14:01:44.5031Z",
+    "count": 1155,
     "vulnerabilities": [
         {
             "cveID": "CVE-2021-27104",
@@ -14965,6 +14965,58 @@
             "dueDate": "2024-09-09",
             "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/www.jenkins.io\/security\/advisory\/2024-01-24\/#SECURITY-3314",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2021-31196",
+            "vendorProject": "Microsoft",
+            "product": "Exchange Server",
+            "vulnerabilityName": "Microsoft Exchange Server Information Disclosure Vulnerability",
+            "dateAdded": "2024-08-21",
+            "shortDescription": "Microsoft Exchange Server contains an information disclosure vulnerability that allows for remote code execution.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-09-11",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/advisory\/CVE-2021-31196",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2022-0185",
+            "vendorProject": "Linux",
+            "product": "Kernel",
+            "vulnerabilityName": "Linux Kernel Heap-Based Buffer Overflow",
+            "dateAdded": "2024-08-21",
+            "shortDescription": "Linux kernel contains a heap-based buffer overflow vulnerability in the legacy_parse_param function in the Filesystem Context functionality. This allows an attacker to open a filesystem that does not support the Filesystem Context API and ultimately escalate privileges.",
+            "requiredAction": "Apply updates per vendor instructions or discontinue use of the product if updates are unavailable.",
+            "dueDate": "2024-09-11",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. For more information, please see: https:\/\/git.kernel.org\/pub\/scm\/linux\/kernel\/git\/torvalds\/linux.git\/commit?id=722d94847de2",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2021-33045",
+            "vendorProject": "Dahua",
+            "product": "IP Camera Firmware",
+            "vulnerabilityName": "Dahua IP Camera Authentication Bypass Vulnerability",
+            "dateAdded": "2024-08-21",
+            "shortDescription": "Dahua IP cameras and related products contain an authentication bypass vulnerability when the loopback device is specified by the client during authentication.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-09-11",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.dahuasecurity.com\/aboutUs\/trustedCenter\/details\/582",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2021-33044",
+            "vendorProject": "Dahua",
+            "product": "IP Camera Firmware",
+            "vulnerabilityName": "Dahua IP Camera Authentication Bypass Vulnerability",
+            "dateAdded": "2024-08-21",
+            "shortDescription": "Dahua IP cameras and related products contain an authentication bypass vulnerability when the NetKeyboard type argument is specified by the client during authentication.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-09-11",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.dahuasecurity.com\/aboutUs\/trustedCenter\/details\/582",
             "cwes": []
         }
     ]
