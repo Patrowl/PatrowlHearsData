@@ -1,8 +1,8 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.08.21",
-    "dateReleased": "2024-08-21T14:01:44.5031Z",
-    "count": 1155,
+    "catalogVersion": "2024.08.23",
+    "dateReleased": "2024-08-23T23:22:22.3834Z",
+    "count": 1156,
     "vulnerabilities": [
         {
             "cveID": "CVE-2021-27104",
@@ -15017,6 +15017,19 @@
             "dueDate": "2024-09-11",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/www.dahuasecurity.com\/aboutUs\/trustedCenter\/details\/582",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-39717",
+            "vendorProject": "Versa",
+            "product": "Director",
+            "vulnerabilityName": "Versa Director Dangerous File Type Upload Vulnerability",
+            "dateAdded": "2024-08-23",
+            "shortDescription": "The Versa Director GUI contains an unrestricted upload of file with dangerous type vulnerability that allows administrators with Provider-Data-Center-Admin or Provider-Data-Center-System-Admin privileges to customize the user interface. The \u201cChange Favicon\u201d (Favorite Icon) enables the upload of a .png file, which can be exploited to upload a malicious file with a .png extension disguised as an image.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-09-13",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "Customers may download the update from the vendor at following link (note, a customer account is required):  https:\/\/support.versa-networks.com\/support\/solutions\/articles\/23000026724-versa-director-ha-port-exploit-discovery-remediation  ",
             "cwes": []
         }
     ]
