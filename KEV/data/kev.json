@@ -1,8 +1,8 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.08.23",
-    "dateReleased": "2024-08-23T23:22:22.3834Z",
-    "count": 1156,
+    "catalogVersion": "2024.08.26",
+    "dateReleased": "2024-08-26T18:04:42.9159Z",
+    "count": 1157,
     "vulnerabilities": [
         {
             "cveID": "CVE-2021-27104",
@@ -15030,6 +15030,19 @@
             "dueDate": "2024-09-13",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "Customers may download the update from the vendor at following link (note, a customer account is required):  https:\/\/support.versa-networks.com\/support\/solutions\/articles\/23000026724-versa-director-ha-port-exploit-discovery-remediation  ",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-7971",
+            "vendorProject": "Google",
+            "product": "Chromium V8",
+            "vulnerabilityName": "Google Chromium V8 Type Confusion Vulnerability",
+            "dateAdded": "2024-08-26",
+            "shortDescription": "Google Chromium V8 contains a type confusion vulnerability that allows a remote attacker to exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-09-16",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/chromereleases.googleblog.com\/2024\/08\/stable-channel-update-for-desktop_21.html",
             "cwes": []
         }
     ]
