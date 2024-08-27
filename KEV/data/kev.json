@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.08.26",
-    "dateReleased": "2024-08-26T18:04:42.9159Z",
+    "catalogVersion": "2024.08.27",
+    "dateReleased": "2024-08-27T12:44:13.3825Z",
     "count": 1157,
     "vulnerabilities": [
         {
@@ -15029,7 +15029,7 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-09-13",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "Customers may download the update from the vendor at following link (note, a customer account is required):  https:\/\/support.versa-networks.com\/support\/solutions\/articles\/23000026724-versa-director-ha-port-exploit-discovery-remediation  ",
+            "notes": "https:\/\/versa-networks.com\/blog\/versa-security-bulletin-update-on-cve-2024-39717-versa-director-dangerous-file-type-upload-vulnerability\/",
             "cwes": []
         },
         {
