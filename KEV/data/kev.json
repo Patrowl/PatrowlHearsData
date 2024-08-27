@@ -1,8 +1,8 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2024.08.27",
-    "dateReleased": "2024-08-27T12:44:13.3825Z",
-    "count": 1157,
+    "dateReleased": "2024-08-27T14:01:51.9809Z",
+    "count": 1158,
     "vulnerabilities": [
         {
             "cveID": "CVE-2021-27104",
@@ -15043,6 +15043,19 @@
             "dueDate": "2024-09-16",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/chromereleases.googleblog.com\/2024\/08\/stable-channel-update-for-desktop_21.html",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-38856",
+            "vendorProject": "Apache",
+            "product": "OFBiz",
+            "vulnerabilityName": "Apache OFBiz Incorrect Authorization Vulnerability",
+            "dateAdded": "2024-08-27",
+            "shortDescription": "Apache OFBiz contains an incorrect authorization vulnerability that could allow remote code execution via a Groovy payload in the context of the OFBiz user process by an unauthenticated attacker.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-09-17",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. Please check with specific vendors for information on patching status. For more information, please see: https:\/\/lists.apache.org\/list?user@ofbiz.apache.org:lte=1M:CVE-2024-38856",
             "cwes": []
         }
     ]
