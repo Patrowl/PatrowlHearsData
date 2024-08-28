@@ -1,8 +1,8 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.08.27",
-    "dateReleased": "2024-08-27T14:01:51.9809Z",
-    "count": 1158,
+    "catalogVersion": "2024.08.28",
+    "dateReleased": "2024-08-28T14:02:52.0217Z",
+    "count": 1159,
     "vulnerabilities": [
         {
             "cveID": "CVE-2021-27104",
@@ -15056,6 +15056,19 @@
             "dueDate": "2024-09-17",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. Please check with specific vendors for information on patching status. For more information, please see: https:\/\/lists.apache.org\/list?user@ofbiz.apache.org:lte=1M:CVE-2024-38856",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-7965",
+            "vendorProject": "Google",
+            "product": "Chromium V8",
+            "vulnerabilityName": "Google Chromium V8 Inappropriate Implementation Vulnerability",
+            "dateAdded": "2024-08-28",
+            "shortDescription": "Google Chromium V8 contains an inappropriate implementation vulnerability that allows a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-09-18",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/chromereleases.googleblog.com\/2024\/08\/stable-channel-update-for-desktop_21.html",
             "cwes": []
         }
     ]
