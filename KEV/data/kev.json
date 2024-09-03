@@ -1,8 +1,8 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.08.28",
-    "dateReleased": "2024-08-28T14:02:52.0217Z",
-    "count": 1159,
+    "catalogVersion": "2024.09.03",
+    "dateReleased": "2024-09-03T14:58:39.1329Z",
+    "count": 1162,
     "vulnerabilities": [
         {
             "cveID": "CVE-2021-27104",
@@ -14984,7 +14984,7 @@
             "cveID": "CVE-2022-0185",
             "vendorProject": "Linux",
             "product": "Kernel",
-            "vulnerabilityName": "Linux Kernel Heap-Based Buffer Overflow",
+            "vulnerabilityName": "Linux Kernel Heap-Based Buffer Overflow Vulnerability",
             "dateAdded": "2024-08-21",
             "shortDescription": "Linux kernel contains a heap-based buffer overflow vulnerability in the legacy_parse_param function in the Filesystem Context functionality. This allows an attacker to open a filesystem that does not support the Filesystem Context API and ultimately escalate privileges.",
             "requiredAction": "Apply updates per vendor instructions or discontinue use of the product if updates are unavailable.",
@@ -15069,6 +15069,45 @@
             "dueDate": "2024-09-18",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/chromereleases.googleblog.com\/2024\/08\/stable-channel-update-for-desktop_21.html",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-7262",
+            "vendorProject": "Kingsoft",
+            "product": "WPS Office",
+            "vulnerabilityName": "Kingsoft WPS Office Path Traversal Vulnerability",
+            "dateAdded": "2024-09-03",
+            "shortDescription": "Kingsoft WPS Office contains a path traversal vulnerability in promecefpluginhost.exe on Windows that allows an attacker to load an arbitrary Windows library.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-09-24",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "While CISA cannot confirm the effectiveness of patches at this time, it is recommended that mitigations be applied per vendor instructions if available. If these instructions cannot be located or if mitigations are unavailable, discontinue the use of the product.",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2021-20124",
+            "vendorProject": "DrayTek",
+            "product": "VigorConnect",
+            "vulnerabilityName": "Draytek VigorConnect Path Traversal Vulnerability ",
+            "dateAdded": "2024-09-03",
+            "shortDescription": "Draytek VigorConnect contains a path traversal vulnerability in the file download functionality of the WebServlet endpoint. An unauthenticated attacker could leverage this vulnerability to download arbitrary files from the underlying operating system with root privileges.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-09-24",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.draytek.com\/about\/security-advisory\/vigorconnect-software-security-vulnerability-(cve-2021-20123-cve-2021-20129)",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2021-20123",
+            "vendorProject": "DrayTek",
+            "product": "VigorConnect",
+            "vulnerabilityName": "Draytek VigorConnect Path Traversal Vulnerability ",
+            "dateAdded": "2024-09-03",
+            "shortDescription": "Draytek VigorConnect contains a path traversal vulnerability in the DownloadFileServlet endpoint. An unauthenticated attacker could leverage this vulnerability to download arbitrary files from the underlying operating system with root privileges. ",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-09-24",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.draytek.com\/about\/security-advisory\/vigorconnect-software-security-vulnerability-(cve-2021-20123-cve-2021-20129)",
             "cwes": []
         }
     ]
