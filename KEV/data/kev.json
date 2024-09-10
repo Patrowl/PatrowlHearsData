@@ -1,8 +1,8 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.09.09",
-    "dateReleased": "2024-09-09T14:02:53.1073Z",
-    "count": 1165,
+    "catalogVersion": "2024.09.10",
+    "dateReleased": "2024-09-10T17:17:33.1829Z",
+    "count": 1169,
     "vulnerabilities": [
         {
             "cveID": "CVE-2021-27104",
@@ -14,8 +14,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-27104",
+            "cwes": [
+                "CWE-20",
+                "CWE-78"
+            ]
         },
         {
             "cveID": "CVE-2021-27102",
@@ -27,8 +30,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-27102",
+            "cwes": [
+                "CWE-20",
+                "CWE-78"
+            ]
         },
         {
             "cveID": "CVE-2021-27101",
@@ -40,8 +46,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-27101",
+            "cwes": [
+                "CWE-89",
+                "CWE-138"
+            ]
         },
         {
             "cveID": "CVE-2021-27103",
@@ -53,8 +62,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-27103",
+            "cwes": [
+                "CWE-918"
+            ]
         },
         {
             "cveID": "CVE-2021-21017",
@@ -66,8 +77,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-21017",
+            "cwes": [
+                "CWE-122"
+            ]
         },
         {
             "cveID": "CVE-2021-28550",
@@ -79,8 +92,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-28550",
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2018-4939",
@@ -328,8 +343,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-30858",
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2019-6223",
@@ -354,8 +371,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-30860",
+            "cwes": [
+                "CWE-20",
+                "CWE-190"
+            ]
         },
         {
             "cveID": "CVE-2020-27930",
@@ -382,8 +402,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-30807",
+            "cwes": [
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2020-27950",
@@ -425,8 +447,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-05-03",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2020-9818",
+            "cwes": [
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2020-9819",
@@ -438,8 +462,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-05-03",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2020-9819",
+            "cwes": [
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2021-30762",
@@ -451,8 +477,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-30762",
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2021-1782",
@@ -464,8 +492,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-1782",
+            "cwes": [
+                "CWE-362",
+                "CWE-667"
+            ]
         },
         {
             "cveID": "CVE-2021-1870",
@@ -477,8 +508,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-1870",
+            "cwes": [
+                "CWE-1173"
+            ]
         },
         {
             "cveID": "CVE-2021-1871",
@@ -490,8 +523,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-1871",
+            "cwes": [
+                "CWE-1173"
+            ]
         },
         {
             "cveID": "CVE-2021-1879",
@@ -503,8 +538,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-1879",
+            "cwes": [
+                "CWE-79"
+            ]
         },
         {
             "cveID": "CVE-2021-30661",
@@ -516,8 +553,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-30661",
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2021-30666",
@@ -529,8 +568,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-30666",
+            "cwes": [
+                "CWE-119"
+            ]
         },
         {
             "cveID": "CVE-2021-30713",
@@ -542,8 +583,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-30713",
+            "cwes": [
+                "CWE-862"
+            ]
         },
         {
             "cveID": "CVE-2021-30657",
@@ -555,8 +598,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-30657",
+            "cwes": [
+                "CWE-862"
+            ]
         },
         {
             "cveID": "CVE-2021-30665",
@@ -568,8 +613,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-30665",
+            "cwes": [
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2021-30663",
@@ -581,8 +628,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-30663",
+            "cwes": [
+                "CWE-20",
+                "CWE-190"
+            ]
         },
         {
             "cveID": "CVE-2021-30761",
@@ -594,8 +644,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-30761",
+            "cwes": [
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2021-30869",
@@ -607,8 +659,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-30869",
+            "cwes": [
+                "CWE-843"
+            ]
         },
         {
             "cveID": "CVE-2020-9859",
@@ -620,8 +674,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-05-03",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2020-9859",
+            "cwes": [
+                "CWE-415"
+            ]
         },
         {
             "cveID": "CVE-2021-20090",
@@ -633,8 +689,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-20090",
+            "cwes": [
+                "CWE-22"
+            ]
         },
         {
             "cveID": "CVE-2021-27562",
@@ -646,8 +704,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-27562",
+            "cwes": [
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2021-28664",
@@ -659,8 +719,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-28664",
+            "cwes": [
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2021-28663",
@@ -672,8 +734,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-28663",
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2019-3398",
@@ -700,8 +764,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-26084",
+            "cwes": [
+                "CWE-917"
+            ]
         },
         {
             "cveID": "CVE-2019-11580",
@@ -780,12 +846,14 @@
             "product": "HyperFlex HX",
             "vulnerabilityName": "Cisco HyperFlex HX Installer Virtual Machine Command Injection Vulnerability",
             "dateAdded": "2021-11-03",
-            "shortDescription": "Cisco HyperFlex HX Installer Virtual Machine contains an insufficient input validation vulnerability which could allow an attacker to execute commands on an affected device as the\ufffdroot\ufffduser.",
+            "shortDescription": "Cisco HyperFlex HX Installer Virtual Machine contains an insufficient input validation vulnerability which could allow an attacker to execute commands on an affected device as the root user.",
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-1497",
+            "cwes": [
+                "CWE-78"
+            ]
         },
         {
             "cveID": "CVE-2021-1498",
@@ -797,8 +865,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-1498",
+            "cwes": [
+                "CWE-78"
+            ]
         },
         {
             "cveID": "CVE-2018-0171",
@@ -1123,8 +1193,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-22205",
+            "cwes": [
+                "CWE-20",
+                "CWE-95"
+            ]
         },
         {
             "cveID": "CVE-2018-6789",
@@ -1151,8 +1224,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-05-03",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2020-8657",
+            "cwes": [
+                "CWE-798"
+            ]
         },
         {
             "cveID": "CVE-2020-8655",
@@ -1194,8 +1269,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-22986",
+            "cwes": [
+                "CWE-863"
+            ]
         },
         {
             "cveID": "CVE-2021-35464",
@@ -1207,8 +1284,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-35464",
+            "cwes": [
+                "CWE-502"
+            ]
         },
         {
             "cveID": "CVE-2019-5591",
@@ -1296,8 +1375,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-21166",
+            "cwes": [
+                "CWE-122",
+                "CWE-362"
+            ]
         },
         {
             "cveID": "CVE-2020-16017",
@@ -1324,8 +1406,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-37976",
+            "cwes": [
+                "CWE-862"
+            ]
         },
         {
             "cveID": "CVE-2020-16009",
@@ -1353,8 +1437,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-30632",
+            "cwes": [
+                "CWE-122"
+            ]
         },
         {
             "cveID": "CVE-2020-16013",
@@ -1381,8 +1467,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-30633",
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2021-21148",
@@ -1394,8 +1482,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-21148",
+            "cwes": [
+                "CWE-122"
+            ]
         },
         {
             "cveID": "CVE-2021-37973",
@@ -1407,8 +1497,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-37973",
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2021-30551",
@@ -1420,8 +1512,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-30551",
+            "cwes": [
+                "CWE-122",
+                "CWE-843"
+            ]
         },
         {
             "cveID": "CVE-2021-37975",
@@ -1433,8 +1528,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-37975",
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2020-6418",
@@ -1461,8 +1558,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-30554",
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2021-21206",
@@ -1474,8 +1573,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-21206",
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2021-38000",
@@ -1487,8 +1588,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-38000",
+            "cwes": [
+                "CWE-20"
+            ]
         },
         {
             "cveID": "CVE-2021-38003",
@@ -1500,8 +1603,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-38003",
+            "cwes": [
+                "CWE-122",
+                "CWE-755"
+            ]
         },
         {
             "cveID": "CVE-2021-21224",
@@ -1513,8 +1619,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-21224",
+            "cwes": [
+                "CWE-843"
+            ]
         },
         {
             "cveID": "CVE-2021-21193",
@@ -1526,8 +1634,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-21193",
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2021-21220",
@@ -1539,8 +1649,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-21220",
+            "cwes": [
+                "CWE-20",
+                "CWE-122"
+            ]
         },
         {
             "cveID": "CVE-2021-30563",
@@ -1552,8 +1665,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-30563",
+            "cwes": [
+                "CWE-122",
+                "CWE-843"
+            ]
         },
         {
             "cveID": "CVE-2020-4430",
@@ -1668,8 +1784,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-30116",
+            "cwes": [
+                "CWE-522"
+            ]
         },
         {
             "cveID": "CVE-2020-7961",
@@ -1696,8 +1814,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-23874",
+            "cwes": [
+                "CWE-284"
+            ]
         },
         {
             "cveID": "CVE-2021-22506",
@@ -1709,7 +1829,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-22506",
             "cwes": []
         },
         {
@@ -1722,8 +1842,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-22502",
+            "cwes": [
+                "CWE-20",
+                "CWE-78"
+            ]
         },
         {
             "cveID": "CVE-2014-1812",
@@ -1793,8 +1916,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-31955",
+            "cwes": [
+                "CWE-497"
+            ]
         },
         {
             "cveID": "CVE-2021-1647",
@@ -1806,8 +1931,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-1647",
+            "cwes": [
+                "CWE-122",
+                "CWE-1285"
+            ]
         },
         {
             "cveID": "CVE-2021-33739",
@@ -1819,7 +1947,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-33739",
             "cwes": []
         },
         {
@@ -1875,8 +2003,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-33742",
+            "cwes": [
+                "CWE-787",
+                "CWE-823"
+            ]
         },
         {
             "cveID": "CVE-2021-31199",
@@ -1888,7 +2019,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-31199",
             "cwes": []
         },
         {
@@ -1901,8 +2032,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-33771",
+            "cwes": [
+                "CWE-119"
+            ]
         },
         {
             "cveID": "CVE-2021-31956",
@@ -1914,8 +2047,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-31956",
+            "cwes": [
+                "CWE-191",
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2021-31201",
@@ -1927,7 +2063,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-31201",
             "cwes": []
         },
         {
@@ -1940,8 +2076,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-31979",
+            "cwes": [
+                "CWE-119"
+            ]
         },
         {
             "cveID": "CVE-2020-0938",
@@ -2026,8 +2164,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-34523",
+            "cwes": [
+                "CWE-287"
+            ]
         },
         {
             "cveID": "CVE-2017-7269",
@@ -2054,7 +2194,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-36948",
             "cwes": []
         },
         {
@@ -2140,8 +2280,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-34473",
+            "cwes": [
+                "CWE-918"
+            ]
         },
         {
             "cveID": "CVE-2020-1464",
@@ -2168,8 +2310,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-1732",
+            "cwes": [
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2021-34527",
@@ -2181,8 +2325,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-07-20",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "Reference CISA's ED 21-04 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-04-mitigate-windows-print-spooler-service-vulnerability) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-04.",
-            "cwes": []
+            "notes": "Reference CISA's ED 21-04 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-04-mitigate-windows-print-spooler-service-vulnerability) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-04. https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-34527",
+            "cwes": [
+                "CWE-269"
+            ]
         },
         {
             "cveID": "CVE-2021-31207",
@@ -2194,8 +2340,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-31207",
+            "cwes": [
+                "CWE-20",
+                "CWE-434"
+            ]
         },
         {
             "cveID": "CVE-2019-0803",
@@ -2235,8 +2384,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-28310",
+            "cwes": [
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2020-1350",
@@ -2261,8 +2412,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-26411",
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2019-0859",
@@ -2343,8 +2496,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-36942",
+            "cwes": [
+                "CWE-749"
+            ]
         },
         {
             "cveID": "CVE-2019-1215",
@@ -2429,7 +2584,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-27085",
             "cwes": []
         },
         {
@@ -2487,7 +2642,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-27059",
             "cwes": []
         },
         {
@@ -2604,8 +2759,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-04-16",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "Reference CISA's ED 21-02 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-02-mitigate-microsoft-exchange-premises-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-02.",
-            "cwes": []
+            "notes": "Reference CISA's ED 21-02 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-02-mitigate-microsoft-exchange-premises-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-02. https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-26855",
+            "cwes": [
+                "CWE-918"
+            ]
         },
         {
             "cveID": "CVE-2021-26858",
@@ -2617,7 +2774,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-04-16",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "Reference CISA's ED 21-02 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-02-mitigate-microsoft-exchange-premises-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-02.",
+            "notes": "Reference CISA's ED 21-02 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-02-mitigate-microsoft-exchange-premises-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-02. https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-26858",
             "cwes": []
         },
         {
@@ -2630,8 +2787,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-04-16",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "Reference CISA's ED 21-02 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-02-mitigate-microsoft-exchange-premises-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-02.",
-            "cwes": []
+            "notes": "Reference CISA's ED 21-02 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-02-mitigate-microsoft-exchange-premises-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-02. https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-27065",
+            "cwes": [
+                "CWE-39"
+            ]
         },
         {
             "cveID": "CVE-2020-1054",
@@ -2658,8 +2817,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-1675",
+            "cwes": [
+                "CWE-285"
+            ]
         },
         {
             "cveID": "CVE-2021-34448",
@@ -2671,8 +2832,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-34448",
+            "cwes": [
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2020-0601",
@@ -2742,8 +2905,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-04-16",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "Reference CISA's ED 21-02 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-02-mitigate-microsoft-exchange-premises-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-02.",
-            "cwes": []
+            "notes": "Reference CISA's ED 21-02 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-02-mitigate-microsoft-exchange-premises-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-02. https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-26857",
+            "cwes": [
+                "CWE-502"
+            ]
         },
         {
             "cveID": "CVE-2020-1147",
@@ -2809,7 +2974,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-36955",
             "cwes": []
         },
         {
@@ -3051,8 +3216,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-04-23",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "Reference CISA's ED 21-03 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-03-mitigate-pulse-connect-secure-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-03.",
-            "cwes": []
+            "notes": "Reference CISA's ED 21-03 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-03-mitigate-pulse-connect-secure-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-03. https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-22893",
+            "cwes": [
+                "CWE-287"
+            ]
         },
         {
             "cveID": "CVE-2020-8243",
@@ -3079,8 +3246,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-04-23",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "Reference CISA's ED 21-03 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-03-mitigate-pulse-connect-secure-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-03.",
-            "cwes": []
+            "notes": "Reference CISA's ED 21-03 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-03-mitigate-pulse-connect-secure-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-03. https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-22900",
+            "cwes": [
+                "CWE-94"
+            ]
         },
         {
             "cveID": "CVE-2021-22894",
@@ -3092,8 +3261,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-04-23",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "Reference CISA's ED 21-03 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-03-mitigate-pulse-connect-secure-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-03.",
-            "cwes": []
+            "notes": "Reference CISA's ED 21-03 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-03-mitigate-pulse-connect-secure-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-03. https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-22894",
+            "cwes": [
+                "CWE-94"
+            ]
         },
         {
             "cveID": "CVE-2020-8260",
@@ -3120,8 +3291,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-04-23",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "Reference CISA's ED 21-03 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-03-mitigate-pulse-connect-secure-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-03.",
-            "cwes": []
+            "notes": "Reference CISA's ED 21-03 (https:\/\/www.cisa.gov\/news-events\/directives\/ed-21-03-mitigate-pulse-connect-secure-product-vulnerabilities) for further guidance and requirements. Note: The due date for addressing this vulnerability aligns with the requirements outlined in ED 21-03. https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-22899",
+            "cwes": [
+                "CWE-77"
+            ]
         },
         {
             "cveID": "CVE-2019-11510",
@@ -3163,8 +3336,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-1906",
+            "cwes": [
+                "CWE-390"
+            ]
         },
         {
             "cveID": "CVE-2021-1905",
@@ -3176,8 +3351,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-05-03",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-1905",
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2020-10221",
@@ -3200,12 +3377,15 @@
             "product": "AP-Router SDK",
             "vulnerabilityName": "Realtek AP-Router SDK Buffer Overflow Vulnerability",
             "dateAdded": "2021-11-03",
-            "shortDescription": "Realtek AP-Router SDK HTTP web server \ufffdboa\ufffd contains a buffer overflow vulnerability due to unsafe copies of some overly long parameters submitted in the form that lead to denial-of-service (DoS).",
+            "shortDescription": "Realtek AP-Router SDK HTTP web server boa contains a buffer overflow vulnerability due to unsafe copies of some overly long parameters submitted in the form that lead to denial-of-service (DoS).",
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-35395",
+            "cwes": [
+                "CWE-20",
+                "CWE-122"
+            ]
         },
         {
             "cveID": "CVE-2017-16651",
@@ -3391,8 +3571,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-35211",
+            "cwes": [
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2016-3643",
@@ -3434,8 +3616,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-20021",
+            "cwes": [
+                "CWE-306"
+            ]
         },
         {
             "cveID": "CVE-2019-7481",
@@ -3462,8 +3646,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-20022",
+            "cwes": [
+                "CWE-434"
+            ]
         },
         {
             "cveID": "CVE-2021-20023",
@@ -3475,8 +3661,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-20023",
+            "cwes": [
+                "CWE-22"
+            ]
         },
         {
             "cveID": "CVE-2021-20016",
@@ -3488,8 +3676,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-20016",
+            "cwes": [
+                "CWE-89"
+            ]
         },
         {
             "cveID": "CVE-2020-12271",
@@ -3576,8 +3766,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-31755",
+            "cwes": [
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2020-10987",
@@ -3719,8 +3911,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/success.trendmicro.com\/dcx\/s\/solution\/000287819?language=en_US, https:\/\/success.trendmicro.com\/dcx\/s\/solution\/000287820?language=en_US",
-            "cwes": []
+            "notes": "https:\/\/success.trendmicro.com\/dcx\/s\/solution\/000287819?language=en_US, https:\/\/success.trendmicro.com\/dcx\/s\/solution\/000287820?language=en_US; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-36742",
+            "cwes": [
+                "CWE-20"
+            ]
         },
         {
             "cveID": "CVE-2021-36741",
@@ -3732,8 +3926,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/success.trendmicro.com\/dcx\/s\/solution\/000287819?language=en_US, https:\/\/success.trendmicro.com\/dcx\/s\/solution\/000287820?language=en_US",
-            "cwes": []
+            "notes": "https:\/\/success.trendmicro.com\/dcx\/s\/solution\/000287819?language=en_US, https:\/\/success.trendmicro.com\/dcx\/s\/solution\/000287820?language=en_US; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-36741",
+            "cwes": [
+                "CWE-22"
+            ]
         },
         {
             "cveID": "CVE-2019-20085",
@@ -3864,8 +4060,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-22005",
+            "cwes": [
+                "CWE-23"
+            ]
         },
         {
             "cveID": "CVE-2020-3952",
@@ -3892,8 +4090,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-21972",
+            "cwes": [
+                "CWE-23"
+            ]
         },
         {
             "cveID": "CVE-2021-21985",
@@ -3905,8 +4105,12 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-21985",
+            "cwes": [
+                "CWE-20",
+                "CWE-470",
+                "CWE-918"
+            ]
         },
         {
             "cveID": "CVE-2020-4006",
@@ -3978,8 +4182,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-27561",
+            "cwes": [
+                "CWE-78"
+            ]
         },
         {
             "cveID": "CVE-2021-40539",
@@ -4049,8 +4255,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-12-01",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-22204",
+            "cwes": [
+                "CWE-95"
+            ]
         },
         {
             "cveID": "CVE-2021-40449",
@@ -4131,8 +4339,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-12-15",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-37415",
+            "cwes": [
+                "CWE-306"
+            ]
         },
         {
             "cveID": "CVE-2021-40438",
@@ -4198,8 +4408,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-12-24",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-35394",
+            "cwes": [
+                "CWE-78",
+                "CWE-138"
+            ]
         },
         {
             "cveID": "CVE-2019-7238",
@@ -4312,8 +4525,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-06-10",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2020-8816",
+            "cwes": [
+                "CWE-78"
+            ]
         },
         {
             "cveID": "CVE-2019-10758",
@@ -4377,8 +4592,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-01-24",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-22017",
+            "cwes": [
+                "CWE-23"
+            ]
         },
         {
             "cveID": "CVE-2021-36260",
@@ -4390,8 +4607,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-01-24",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-36260",
+            "cwes": [
+                "CWE-78"
+            ]
         },
         {
             "cveID": "CVE-2020-6572",
@@ -4581,8 +4800,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-01-24",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-27860",
+            "cwes": [
+                "CWE-434"
+            ]
         },
         {
             "cveID": "CVE-2021-32648",
@@ -4594,8 +4815,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-02-01",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-32648",
+            "cwes": [
+                "CWE-287"
+            ]
         },
         {
             "cveID": "CVE-2021-25296",
@@ -4607,8 +4830,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-02-01",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-25296",
+            "cwes": [
+                "CWE-78",
+                "CWE-138"
+            ]
         },
         {
             "cveID": "CVE-2021-25297",
@@ -4620,8 +4846,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-02-01",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-25297",
+            "cwes": [
+                "CWE-78",
+                "CWE-138"
+            ]
         },
         {
             "cveID": "CVE-2021-25298",
@@ -4633,8 +4862,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-02-01",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-25298",
+            "cwes": [
+                "CWE-78",
+                "CWE-138"
+            ]
         },
         {
             "cveID": "CVE-2021-40870",
@@ -4659,8 +4891,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-02-01",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-33766",
+            "cwes": [
+                "CWE-287"
+            ]
         },
         {
             "cveID": "CVE-2021-21975",
@@ -4672,8 +4906,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-02-01",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-21975",
+            "cwes": [
+                "CWE-918"
+            ]
         },
         {
             "cveID": "CVE-2021-21315",
@@ -4685,8 +4921,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-02-01",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-21315",
+            "cwes": [
+                "CWE-78"
+            ]
         },
         {
             "cveID": "CVE-2021-22991",
@@ -4698,8 +4936,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-02-01",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-22991",
+            "cwes": [
+                "CWE-119"
+            ]
         },
         {
             "cveID": "CVE-2020-14864",
@@ -4815,8 +5055,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-02-04",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-35247",
+            "cwes": [
+                "CWE-20"
+            ]
         },
         {
             "cveID": "CVE-2022-22587",
@@ -4841,8 +5083,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-02-11",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-20038",
+            "cwes": [
+                "CWE-121"
+            ]
         },
         {
             "cveID": "CVE-2020-5722",
@@ -4956,8 +5200,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-02-24",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-36934",
+            "cwes": [
+                "CWE-1220"
+            ]
         },
         {
             "cveID": "CVE-2020-0796",
@@ -6806,8 +7052,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-03-21",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-21973",
+            "cwes": [
+                "CWE-20",
+                "CWE-918"
+            ]
         },
         {
             "cveID": "CVE-2020-8218",
@@ -7208,8 +7457,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-04-15",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-22941",
+            "cwes": [
+                "CWE-284"
+            ]
         },
         {
             "cveID": "CVE-2020-9377",
@@ -7221,8 +7472,10 @@
             "requiredAction": "The impacted product is end-of-life and should be disconnected if still in use.",
             "dueDate": "2022-04-15",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2020-9377",
+            "cwes": [
+                "CWE-78"
+            ]
         },
         {
             "cveID": "CVE-2020-9054",
@@ -7234,8 +7487,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-04-15",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2020-9054",
+            "cwes": [
+                "CWE-78"
+            ]
         },
         {
             "cveID": "CVE-2020-7247",
@@ -8163,8 +8418,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-04-18",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-34486",
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2021-26085",
@@ -8176,8 +8433,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-04-18",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-26085",
+            "cwes": [
+                "CWE-425"
+            ]
         },
         {
             "cveID": "CVE-2021-20028",
@@ -8189,8 +8448,10 @@
             "requiredAction": "The impacted product is end-of-life and should be disconnected if still in use.",
             "dueDate": "2022-04-18",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-20028",
+            "cwes": [
+                "CWE-89"
+            ]
         },
         {
             "cveID": "CVE-2019-7483",
@@ -8610,8 +8871,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-04-21",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-34484",
+            "cwes": [
+                "CWE-269"
+            ]
         },
         {
             "cveID": "CVE-2021-28799",
@@ -8623,8 +8886,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-04-21",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-28799",
+            "cwes": [
+                "CWE-285"
+            ]
         },
         {
             "cveID": "CVE-2021-21551",
@@ -8636,8 +8901,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-04-21",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-21551",
+            "cwes": [
+                "CWE-782"
+            ]
         },
         {
             "cveID": "CVE-2018-10562",
@@ -8731,8 +8998,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-04-27",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-3156",
+            "cwes": [
+                "CWE-122",
+                "CWE-193"
+            ]
         },
         {
             "cveID": "CVE-2021-31166",
@@ -8744,8 +9014,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-04-27",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-31166",
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2017-0148",
@@ -8824,8 +9096,10 @@
             "requiredAction": "Versions 6 and earlier for this product are end-of-life and must be removed from agency networks. Versions 7 and later are not considered vulnerable.",
             "dueDate": "2022-05-02",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-27852",
+            "cwes": [
+                "CWE-502"
+            ]
         },
         {
             "cveID": "CVE-2021-22600",
@@ -8837,8 +9111,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-05-02",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-22600",
+            "cwes": [
+                "CWE-415"
+            ]
         },
         {
             "cveID": "CVE-2020-2509",
@@ -9208,8 +9484,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-05-16",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-29464",
+            "cwes": [
+                "CWE-22"
+            ]
         },
         {
             "cveID": "CVE-2022-26904",
@@ -9299,8 +9577,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-05-25",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-1789",
+            "cwes": [
+                "CWE-843"
+            ]
         },
         {
             "cveID": "CVE-2019-8506",
@@ -9385,8 +9665,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-06-06",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-30525",
+            "cwes": [
+                "CWE-78"
+            ]
         },
         {
             "cveID": "CVE-2022-22947",
@@ -9424,8 +9706,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-06-13",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-1048",
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2021-0920",
@@ -9437,8 +9721,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-06-13",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-0920",
+            "cwes": [
+                "CWE-362",
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2021-30883",
@@ -9450,8 +9737,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-06-13",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-30883",
+            "cwes": [
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2020-1027",
@@ -11038,8 +11327,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-06-30",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-38163",
+            "cwes": [
+                "CWE-23"
+            ]
         },
         {
             "cveID": "CVE-2016-2386",
@@ -11081,8 +11372,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-07-05",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-30190",
+            "cwes": [
+                "CWE-610"
+            ]
         },
         {
             "cveID": "CVE-2022-29499",
@@ -11094,8 +11387,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-07-18",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-29499",
+            "cwes": [
+                "CWE-20"
+            ]
         },
         {
             "cveID": "CVE-2021-30533",
@@ -11107,8 +11402,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-07-18",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-30533",
+            "cwes": [
+                "CWE-863"
+            ]
         },
         {
             "cveID": "CVE-2021-4034",
@@ -11133,8 +11430,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-07-18",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-30983",
+            "cwes": [
+                "CWE-119"
+            ]
         },
         {
             "cveID": "CVE-2020-3837",
@@ -11161,8 +11460,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-07-18",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "",
-            "cwes": []
+            "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2020-9907",
+            "cwes": [
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2019-8605",
@@ -11243,8 +11544,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-08-25",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/wiki.zimbra.com\/wiki\/Zimbra_Releases\/9.0.0\/P24.1#Security_Fixes",
-            "cwes": []
+            "notes": "https:\/\/wiki.zimbra.com\/wiki\/Zimbra_Releases\/9.0.0\/P24.1#Security_Fixes;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-27924",
+            "cwes": [
+                "CWE-93"
+            ]
         },
         {
             "cveID": "CVE-2022-34713",
@@ -11256,7 +11559,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-08-30",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2022-34713",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2022-34713;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-34713",
             "cwes": []
         },
         {
@@ -11269,8 +11572,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-08-30",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "Vulnerability updated with version 6.12. Accessing link will download update information: https:\/\/www.rarlab.com\/rar\/rarlinux-x32-612.tar.gz",
-            "cwes": []
+            "notes": "Vulnerability updated with version 6.12. Accessing link will download update information: https:\/\/www.rarlab.com\/rar\/rarlinux-x32-612.tar.gz;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-30333",
+            "cwes": [
+                "CWE-22",
+                "CWE-59"
+            ]
         },
         {
             "cveID": "CVE-2022-27925",
@@ -11282,8 +11588,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-09-01",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/blog.zimbra.com\/2022\/08\/authentication-bypass-in-mailboximportservlet-vulnerability\/",
-            "cwes": []
+            "notes": "https:\/\/blog.zimbra.com\/2022\/08\/authentication-bypass-in-mailboximportservlet-vulnerability\/;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-27925",
+            "cwes": [
+                "CWE-22"
+            ]
         },
         {
             "cveID": "CVE-2022-37042",
@@ -11295,8 +11603,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-09-01",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/blog.zimbra.com\/2022\/08\/authentication-bypass-in-mailboximportservlet-vulnerability\/",
-            "cwes": []
+            "notes": "https:\/\/blog.zimbra.com\/2022\/08\/authentication-bypass-in-mailboximportservlet-vulnerability\/;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-37042",
+            "cwes": [
+                "CWE-23"
+            ]
         },
         {
             "cveID": "CVE-2022-22536",
@@ -11321,8 +11631,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-09-08",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/support.apple.com\/en-gb\/HT213412, https:\/\/support.apple.com\/en-gb\/HT213413",
-            "cwes": []
+            "notes": "https:\/\/support.apple.com\/en-gb\/HT213412, https:\/\/support.apple.com\/en-gb\/HT213413;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-32894",
+            "cwes": [
+                "CWE-20",
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2022-32893",
@@ -11334,8 +11647,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-09-08",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/support.apple.com\/en-gb\/HT213412, https:\/\/support.apple.com\/en-gb\/HT213413",
-            "cwes": []
+            "notes": "https:\/\/support.apple.com\/en-gb\/HT213412, https:\/\/support.apple.com\/en-gb\/HT213413;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-32893",
+            "cwes": [
+                "CWE-20",
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2022-2856",
@@ -11347,8 +11663,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-09-08",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/chromereleases.googleblog.com\/2022\/08\/stable-channel-update-for-desktop_16.html",
-            "cwes": []
+            "notes": "https:\/\/chromereleases.googleblog.com\/2022\/08\/stable-channel-update-for-desktop_16.html;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-2856",
+            "cwes": [
+                "CWE-20"
+            ]
         },
         {
             "cveID": "CVE-2022-26923",
@@ -11503,8 +11821,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-09-15",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/support.apple.com\/en-us\/HT212804, https:\/\/support.apple.com\/en-us\/HT212805, https:\/\/support.apple.com\/en-us\/HT212806, https:\/\/support.apple.com\/en-us\/HT212807, https:\/\/support.apple.com\/en-us\/HT212824",
-            "cwes": []
+            "notes": "https:\/\/support.apple.com\/en-us\/HT212804, https:\/\/support.apple.com\/en-us\/HT212805, https:\/\/support.apple.com\/en-us\/HT212806, https:\/\/support.apple.com\/en-us\/HT212807, https:\/\/support.apple.com\/en-us\/HT212824; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-31010",
+            "cwes": [
+                "CWE-20",
+                "CWE-502"
+            ]
         },
         {
             "cveID": "CVE-2020-36193",
@@ -11547,8 +11868,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-09-29",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/chromereleases.googleblog.com\/2022\/09\/stable-channel-update-for-desktop.html, https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2022-3075",
-            "cwes": []
+            "notes": "https:\/\/chromereleases.googleblog.com\/2022\/09\/stable-channel-update-for-desktop.html, https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2022-3075;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-3075",
+            "cwes": [
+                "CWE-20"
+            ]
         },
         {
             "cveID": "CVE-2022-27593",
@@ -11560,8 +11883,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-09-29",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/www.qnap.com\/en\/security-advisory\/qsa-22-24",
-            "cwes": []
+            "notes": "https:\/\/www.qnap.com\/en\/security-advisory\/qsa-22-24;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-27593",
+            "cwes": [
+                "CWE-610"
+            ]
         },
         {
             "cveID": "CVE-2022-26258",
@@ -11586,7 +11911,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-09-29",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/support.apple.com\/en-us\/HT211288, https:\/\/support.apple.com\/en-us\/HT211289",
+            "notes": "https:\/\/support.apple.com\/en-us\/HT211288, https:\/\/support.apple.com\/en-us\/HT211289; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2020-9934",
             "cwes": []
         },
         {
@@ -11704,8 +12029,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-10-05",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2022-37969",
-            "cwes": []
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2022-37969;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-37969",
+            "cwes": [
+                "CWE-20",
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2022-32917",
@@ -11717,8 +12045,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-10-05",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/support.apple.com\/en-us\/HT213445, https:\/\/support.apple.com\/en-us\/HT213444",
-            "cwes": []
+            "notes": "https:\/\/support.apple.com\/en-us\/HT213445, https:\/\/support.apple.com\/en-us\/HT213444;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-32917",
+            "cwes": [
+                "CWE-20",
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2022-40139",
@@ -11730,8 +12061,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-10-06",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/success.trendmicro.com\/dcx\/s\/solution\/000291528?language=en_US",
-            "cwes": []
+            "notes": "https:\/\/success.trendmicro.com\/dcx\/s\/solution\/000291528?language=en_US;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-40139",
+            "cwes": [
+                "CWE-353",
+                "CWE-641"
+            ]
         },
         {
             "cveID": "CVE-2013-6282",
@@ -11818,8 +12152,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-10-13",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/www.manageengine.com\/products\/passwordmanagerpro\/advisory\/cve-2022-35405.html",
-            "cwes": []
+            "notes": "https:\/\/www.manageengine.com\/products\/passwordmanagerpro\/advisory\/cve-2022-35405.html;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-35405",
+            "cwes": [
+                "CWE-502"
+            ]
         },
         {
             "cveID": "CVE-2022-3236",
@@ -11831,8 +12167,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-10-14",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/www.sophos.com\/en-us\/security-advisories\/sophos-sa-20220923-sfos-rce",
-            "cwes": []
+            "notes": "https:\/\/www.sophos.com\/en-us\/security-advisories\/sophos-sa-20220923-sfos-rce;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-3236",
+            "cwes": [
+                "CWE-94"
+            ]
         },
         {
             "cveID": "CVE-2022-41082",
@@ -11844,8 +12182,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-10-21",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/msrc-blog.microsoft.com\/2022\/09\/29\/customer-guidance-for-reported-zero-day-vulnerabilities-in-microsoft-exchange-server\/",
-            "cwes": []
+            "notes": "https:\/\/msrc-blog.microsoft.com\/2022\/09\/29\/customer-guidance-for-reported-zero-day-vulnerabilities-in-microsoft-exchange-server\/;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-41082",
+            "cwes": [
+                "CWE-502"
+            ]
         },
         {
             "cveID": "CVE-2022-41040",
@@ -11857,8 +12197,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-10-21",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/msrc-blog.microsoft.com\/2022\/09\/29\/customer-guidance-for-reported-zero-day-vulnerabilities-in-microsoft-exchange-server\/",
-            "cwes": []
+            "notes": "https:\/\/msrc-blog.microsoft.com\/2022\/09\/29\/customer-guidance-for-reported-zero-day-vulnerabilities-in-microsoft-exchange-server\/;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-41040",
+            "cwes": [
+                "CWE-918"
+            ]
         },
         {
             "cveID": "CVE-2022-36804",
@@ -11870,8 +12212,12 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-10-21",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/jira.atlassian.com\/browse\/BSERV-13438",
-            "cwes": []
+            "notes": "https:\/\/jira.atlassian.com\/browse\/BSERV-13438;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-36804",
+            "cwes": [
+                "CWE-78",
+                "CWE-88",
+                "CWE-158"
+            ]
         },
         {
             "cveID": "CVE-2022-40684",
@@ -11883,8 +12229,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-11-01",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/www.fortiguard.com\/psirt\/FG-IR-22-377",
-            "cwes": []
+            "notes": "https:\/\/www.fortiguard.com\/psirt\/FG-IR-22-377;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-40684",
+            "cwes": [
+                "CWE-288"
+            ]
         },
         {
             "cveID": "CVE-2022-41033",
@@ -11896,8 +12244,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-11-01",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2022-41033",
-            "cwes": []
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2022-41033;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-41033",
+            "cwes": [
+                "CWE-843"
+            ]
         },
         {
             "cveID": "CVE-2022-41352",
@@ -11909,8 +12259,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-11-10",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/wiki.zimbra.com\/wiki\/Security_Center",
-            "cwes": []
+            "notes": "https:\/\/wiki.zimbra.com\/wiki\/Security_Center;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-41352",
+            "cwes": [
+                "CWE-22"
+            ]
         },
         {
             "cveID": "CVE-2021-3493",
@@ -11922,8 +12274,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-11-10",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/git.kernel.org\/pub\/scm\/linux\/kernel\/git\/torvalds\/linux.git\/commit\/?id=7c03e2cda4a584cadc398e8f6641ca9988a39d52",
-            "cwes": []
+            "notes": "https:\/\/git.kernel.org\/pub\/scm\/linux\/kernel\/git\/torvalds\/linux.git\/commit\/?id=7c03e2cda4a584cadc398e8f6641ca9988a39d52; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-3493",
+            "cwes": [
+                "CWE-862"
+            ]
         },
         {
             "cveID": "CVE-2020-3433",
@@ -12019,8 +12373,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-11-15",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/support.apple.com\/en-us\/HT213489",
-            "cwes": []
+            "notes": "https:\/\/support.apple.com\/en-us\/HT213489;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-42827",
+            "cwes": [
+                "CWE-20",
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2022-3723",
@@ -12032,8 +12389,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-11-18",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/chromereleases.googleblog.com\/2022\/10\/stable-channel-update-for-desktop_27.html",
-            "cwes": []
+            "notes": "https:\/\/chromereleases.googleblog.com\/2022\/10\/stable-channel-update-for-desktop_27.html;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-3723",
+            "cwes": [
+                "CWE-122",
+                "CWE-843"
+            ]
         },
         {
             "cveID": "CVE-2022-41091",
@@ -12045,8 +12405,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-12-09",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/portal.msrc.microsoft.com\/en-US\/security-guidance\/advisory\/CVE-2022-41091",
-            "cwes": []
+            "notes": "https:\/\/portal.msrc.microsoft.com\/en-US\/security-guidance\/advisory\/CVE-2022-41091;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-41091",
+            "cwes": [
+                "CWE-863"
+            ]
         },
         {
             "cveID": "CVE-2022-41073",
@@ -12058,8 +12420,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-12-09",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/portal.msrc.microsoft.com\/en-US\/security-guidance\/advisory\/CVE-2022-41073",
-            "cwes": []
+            "notes": "https:\/\/portal.msrc.microsoft.com\/en-US\/security-guidance\/advisory\/CVE-2022-41073;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-41073",
+            "cwes": [
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2022-41125",
@@ -12071,8 +12435,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-12-09",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/portal.msrc.microsoft.com\/en-US\/security-guidance\/advisory\/CVE-2022-41125",
-            "cwes": []
+            "notes": "https:\/\/portal.msrc.microsoft.com\/en-US\/security-guidance\/advisory\/CVE-2022-41125;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-41125",
+            "cwes": [
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2022-41128",
@@ -12084,8 +12450,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-12-09",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2022-41128",
-            "cwes": []
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2022-41128;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-41128",
+            "cwes": [
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2021-25337",
@@ -12097,8 +12465,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-11-29",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/security.samsungmobile.com\/securityUpdate.smsb",
-            "cwes": []
+            "notes": "https:\/\/security.samsungmobile.com\/securityUpdate.smsb; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-25337",
+            "cwes": [
+                "CWE-269"
+            ]
         },
         {
             "cveID": "CVE-2021-25369",
@@ -12110,8 +12480,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-11-29",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/security.samsungmobile.com\/securityUpdate.smsb",
-            "cwes": []
+            "notes": "https:\/\/security.samsungmobile.com\/securityUpdate.smsb; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-25369",
+            "cwes": [
+                "CWE-200"
+            ]
         },
         {
             "cveID": "CVE-2021-25370",
@@ -12123,8 +12495,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-11-29",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/security.samsungmobile.com\/securityUpdate.smsb",
-            "cwes": []
+            "notes": "https:\/\/security.samsungmobile.com\/securityUpdate.smsb; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-25370",
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2022-41049",
@@ -12136,8 +12510,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-12-09",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2022-41049",
-            "cwes": []
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2022-41049;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-41049",
+            "cwes": [
+                "CWE-274"
+            ]
         },
         {
             "cveID": "CVE-2021-35587",
@@ -12149,8 +12525,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-12-19",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/www.oracle.com\/security-alerts\/cpujan2022.html",
-            "cwes": []
+            "notes": "https:\/\/www.oracle.com\/security-alerts\/cpujan2022.html; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-35587",
+            "cwes": [
+                "CWE-502",
+                "CWE-790"
+            ]
         },
         {
             "cveID": "CVE-2022-4135",
@@ -12162,8 +12541,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-12-19",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/chromereleases.googleblog.com\/2022\/11\/stable-channel-update-for-desktop_24.html",
-            "cwes": []
+            "notes": "https:\/\/chromereleases.googleblog.com\/2022\/11\/stable-channel-update-for-desktop_24.html;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-4135",
+            "cwes": [
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2022-4262",
@@ -12175,8 +12556,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-12-26",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/chromereleases.googleblog.com\/2022\/12\/stable-channel-update-for-desktop.html",
-            "cwes": []
+            "notes": "https:\/\/chromereleases.googleblog.com\/2022\/12\/stable-channel-update-for-desktop.html;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-4262",
+            "cwes": [
+                "CWE-122",
+                "CWE-843"
+            ]
         },
         {
             "cveID": "CVE-2022-42475",
@@ -12188,8 +12572,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-01-03",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/www.fortiguard.com\/psirt\/FG-IR-22-398",
-            "cwes": []
+            "notes": "https:\/\/www.fortiguard.com\/psirt\/FG-IR-22-398;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-42475",
+            "cwes": [
+                "CWE-197"
+            ]
         },
         {
             "cveID": "CVE-2022-44698",
@@ -12201,8 +12587,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-01-03",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2022-44698",
-            "cwes": []
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2022-44698;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-44698",
+            "cwes": [
+                "CWE-755"
+            ]
         },
         {
             "cveID": "CVE-2022-27518",
@@ -12253,8 +12641,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-01-04",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/support.apple.com\/en-us\/HT213516",
-            "cwes": []
+            "notes": "https:\/\/support.apple.com\/en-us\/HT213516;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-42856",
+            "cwes": [
+                "CWE-843"
+            ]
         },
         {
             "cveID": "CVE-2018-5430",
@@ -12296,7 +12686,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-01-31",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2022-41080",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2022-41080;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-41080",
             "cwes": []
         },
         {
@@ -12309,8 +12699,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-01-31",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2023-21674",
-            "cwes": []
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2023-21674;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-21674",
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2022-44877",
@@ -12322,8 +12714,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-02-07",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/control-webpanel.com\/changelog#1669855527714-450fb335-6194",
-            "cwes": []
+            "notes": "https:\/\/control-webpanel.com\/changelog#1669855527714-450fb335-6194;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-44877",
+            "cwes": [
+                "CWE-78"
+            ]
         },
         {
             "cveID": "CVE-2022-47966",
@@ -12335,7 +12729,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-02-13",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/www.manageengine.com\/security\/advisory\/CVE\/cve-2022-47966.html",
+            "notes": "https:\/\/www.manageengine.com\/security\/advisory\/CVE\/cve-2022-47966.html;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-47966",
             "cwes": []
         },
         {
@@ -12376,8 +12770,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-02-23",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/support.sugarcrm.com\/Resources\/Security\/sugarcrm-sa-2023-001\/",
-            "cwes": []
+            "notes": "https:\/\/support.sugarcrm.com\/Resources\/Security\/sugarcrm-sa-2023-001\/;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-22952",
+            "cwes": [
+                "CWE-20"
+            ]
         },
         {
             "cveID": "CVE-2015-2291",
@@ -12417,8 +12813,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-03-03",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "This CVE has a CISA AA located here: https:\/\/www.cisa.gov\/news-events\/cybersecurity-advisories\/aa23-158a. Please see the AA for associated IOCs. Additional information is available at: https:\/\/my.goanywhere.com\/webclient\/DownloadProductFiles.xhtml. Fortra users must have an account in order to login and access the patch.",
-            "cwes": []
+            "notes": "This CVE has a CISA AA located here: https:\/\/www.cisa.gov\/news-events\/cybersecurity-advisories\/aa23-158a. Please see the AA for associated IOCs. Additional information is available at: https:\/\/my.goanywhere.com\/webclient\/DownloadProductFiles.xhtml. Fortra users must have an account in order to login and access the patch.;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-0669",
+            "cwes": [
+                "CWE-502"
+            ]
         },
         {
             "cveID": "CVE-2023-21715",
@@ -12430,8 +12828,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-03-07",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2023-21715",
-            "cwes": []
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2023-21715;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-21715",
+            "cwes": [
+                "CWE-863"
+            ]
         },
         {
             "cveID": "CVE-2023-23376",
@@ -12443,8 +12843,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-03-07",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2023-23376",
-            "cwes": []
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2023-23376;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-23376",
+            "cwes": [
+                "CWE-122"
+            ]
         },
         {
             "cveID": "CVE-2023-23529",
@@ -12456,8 +12858,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-03-07",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/support.apple.com\/en-us\/HT213635, https:\/\/support.apple.com\/en-us\/HT213633, https:\/\/support.apple.com\/en-us\/HT213638",
-            "cwes": []
+            "notes": "https:\/\/support.apple.com\/en-us\/HT213635, https:\/\/support.apple.com\/en-us\/HT213633, https:\/\/support.apple.com\/en-us\/HT213638;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-23529",
+            "cwes": [
+                "CWE-843"
+            ]
         },
         {
             "cveID": "CVE-2023-21823",
@@ -12469,8 +12873,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-03-07",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2023-21823",
-            "cwes": []
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2023-21823;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-21823",
+            "cwes": [
+                "CWE-190"
+            ]
         },
         {
             "cveID": "CVE-2022-46169",
@@ -12482,8 +12888,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-03-09",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/github.com\/Cacti\/cacti\/security\/advisories\/GHSA-6p93-p743-35gf",
-            "cwes": []
+            "notes": "https:\/\/github.com\/Cacti\/cacti\/security\/advisories\/GHSA-6p93-p743-35gf;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-46169",
+            "cwes": [
+                "CWE-74"
+            ]
         },
         {
             "cveID": "CVE-2022-47986",
@@ -12495,8 +12903,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-03-14",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/exchange.xforce.ibmcloud.com\/vulnerabilities\/243512?_ga=2.189195179.1800390251.1676559338-700333034.1676325890",
-            "cwes": []
+            "notes": "https:\/\/exchange.xforce.ibmcloud.com\/vulnerabilities\/243512?_ga=2.189195179.1800390251.1676559338-700333034.1676325890;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-47986",
+            "cwes": [
+                "CWE-502"
+            ]
         },
         {
             "cveID": "CVE-2022-41223",
@@ -12508,8 +12918,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-03-14",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/www.mitel.com\/support\/security-advisories\/mitel-product-security-advisory-22-0008",
-            "cwes": []
+            "notes": "https:\/\/www.mitel.com\/support\/security-advisories\/mitel-product-security-advisory-22-0008;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-41223",
+            "cwes": [
+                "CWE-94"
+            ]
         },
         {
             "cveID": "CVE-2022-40765",
@@ -12521,8 +12933,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-03-14",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/www.mitel.com\/support\/security-advisories\/mitel-product-security-advisory-22-0007",
-            "cwes": []
+            "notes": "https:\/\/www.mitel.com\/support\/security-advisories\/mitel-product-security-advisory-22-0007;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-40765",
+            "cwes": [
+                "CWE-77"
+            ]
         },
         {
             "cveID": "CVE-2022-36537",
@@ -12534,8 +12948,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-03-20",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/tracker.zkoss.org\/browse\/ZK-5150",
-            "cwes": []
+            "notes": "https:\/\/tracker.zkoss.org\/browse\/ZK-5150;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-36537",
+            "cwes": [
+                "CWE-441"
+            ]
         },
         {
             "cveID": "CVE-2022-28810",
@@ -12547,8 +12963,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-03-28",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/www.manageengine.com\/products\/self-service-password\/advisory\/CVE-2022-28810.html",
-            "cwes": []
+            "notes": "https:\/\/www.manageengine.com\/products\/self-service-password\/advisory\/CVE-2022-28810.html;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-28810",
+            "cwes": [
+                "CWE-78",
+                "CWE-259"
+            ]
         },
         {
             "cveID": "CVE-2022-33891",
@@ -12560,8 +12979,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-03-28",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/lists.apache.org\/thread\/p847l3kopoo5bjtmxrcwk21xp6tjxqlc",
-            "cwes": []
+            "notes": "https:\/\/lists.apache.org\/thread\/p847l3kopoo5bjtmxrcwk21xp6tjxqlc;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-33891",
+            "cwes": [
+                "CWE-78"
+            ]
         },
         {
             "cveID": "CVE-2022-35914",
@@ -12573,8 +12994,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-03-28",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/glpi-project.org\/fr\/glpi-10-0-3-disponible\/, http:\/\/www.bioinformatics.org\/phplabware\/sourceer\/sourceer.php?&Sfs=htmLawedTest.php&Sl=.%2Finternal_utilities%2FhtmLawed.",
-            "cwes": []
+            "notes": "https:\/\/glpi-project.org\/fr\/glpi-10-0-3-disponible\/, http:\/\/www.bioinformatics.org\/phplabware\/sourceer\/sourceer.php?&Sfs=htmLawedTest.php&Sl=.%2Finternal_utilities%2FhtmLawed.;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-35914",
+            "cwes": [
+                "CWE-74"
+            ]
         },
         {
             "cveID": "CVE-2021-39144",
@@ -12614,8 +13037,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-04-04",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2023-23397, https:\/\/msrc.microsoft.com\/blog\/2023\/03\/microsoft-mitigates-outlook-elevation-of-privilege-vulnerability\/,",
-            "cwes": []
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2023-23397, https:\/\/msrc.microsoft.com\/blog\/2023\/03\/microsoft-mitigates-outlook-elevation-of-privilege-vulnerability\/, ;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-23397",
+            "cwes": [
+                "CWE-294"
+            ]
         },
         {
             "cveID": "CVE-2023-24880",
@@ -12627,8 +13052,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-04-04",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2023-24880",
-            "cwes": []
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2023-24880;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-24880",
+            "cwes": [
+                "CWE-863"
+            ]
         },
         {
             "cveID": "CVE-2022-41328",
@@ -12640,8 +13067,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-04-04",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/www.fortiguard.com\/psirt\/FG-IR-22-369",
-            "cwes": []
+            "notes": "https:\/\/www.fortiguard.com\/psirt\/FG-IR-22-369;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-41328",
+            "cwes": [
+                "CWE-22"
+            ]
         },
         {
             "cveID": "CVE-2023-26360",
@@ -12653,8 +13082,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-04-05",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/helpx.adobe.com\/security\/products\/coldfusion\/apsb23-25.html",
-            "cwes": []
+            "notes": "https:\/\/helpx.adobe.com\/security\/products\/coldfusion\/apsb23-25.html;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-26360",
+            "cwes": [
+                "CWE-284"
+            ]
         },
         {
             "cveID": "CVE-2013-3163",
@@ -12696,8 +13127,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-04-20",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/www.cobaltstrike.com\/blog\/out-of-band-update-cobalt-strike-4-7-2\/",
-            "cwes": []
+            "notes": "https:\/\/www.cobaltstrike.com\/blog\/out-of-band-update-cobalt-strike-4-7-2\/;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-42948",
+            "cwes": [
+                "CWE-79",
+                "CWE-116"
+            ]
         },
         {
             "cveID": "CVE-2022-39197",
@@ -12709,8 +13143,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-04-20",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/www.cobaltstrike.com\/blog\/out-of-band-update-cobalt-strike-4-7-1\/",
-            "cwes": []
+            "notes": "https:\/\/www.cobaltstrike.com\/blog\/out-of-band-update-cobalt-strike-4-7-1\/;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-39197",
+            "cwes": [
+                "CWE-20",
+                "CWE-79"
+            ]
         },
         {
             "cveID": "CVE-2021-30900",
@@ -12722,8 +13159,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-04-20",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/support.apple.com\/en-us\/HT21286, https:\/\/support.apple.com\/en-us\/HT212868, https:\/\/support.apple.com\/kb\/HT212872",
-            "cwes": []
+            "notes": "https:\/\/support.apple.com\/en-us\/HT21286, https:\/\/support.apple.com\/en-us\/HT212868, https:\/\/support.apple.com\/kb\/HT212872; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-30900",
+            "cwes": [
+                "CWE-20",
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2022-38181",
@@ -12735,8 +13175,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-04-20",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/developer.arm.com\/Arm%20Security%20Center\/Mali%20GPU%20Driver%20Vulnerabilities",
-            "cwes": []
+            "notes": "https:\/\/developer.arm.com\/Arm%20Security%20Center\/Mali%20GPU%20Driver%20Vulnerabilities;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-38181",
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2023-0266",
@@ -12748,8 +13190,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-04-20",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/git.kernel.org\/pub\/scm\/linux\/kernel\/git\/stable\/stable-queue.git\/tree\/queue-5.10\/alsa-pcm-move-rwsem-lock-inside-snd_ctl_elem_read-to-prevent-uaf.patch?id=72783cf35e6c55bca84c4bb7b776c58152856fd4",
-            "cwes": []
+            "notes": "https:\/\/git.kernel.org\/pub\/scm\/linux\/kernel\/git\/stable\/stable-queue.git\/tree\/queue-5.10\/alsa-pcm-move-rwsem-lock-inside-snd_ctl_elem_read-to-prevent-uaf.patch?id=72783cf35e6c55bca84c4bb7b776c58152856fd4;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-0266",
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2022-3038",
@@ -12761,8 +13205,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-04-20",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/chromereleases.googleblog.com\/2022\/08\/stable-channel-update-for-desktop_30.html",
-            "cwes": []
+            "notes": "https:\/\/chromereleases.googleblog.com\/2022\/08\/stable-channel-update-for-desktop_30.html;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-3038",
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2022-22706",
@@ -12787,8 +13233,11 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-04-24",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/wiki.zimbra.com\/wiki\/Security_Center",
-            "cwes": []
+            "notes": "https:\/\/wiki.zimbra.com\/wiki\/Security_Center;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-27926",
+            "cwes": [
+                "CWE-79",
+                "CWE-138"
+            ]
         },
         {
             "cveID": "CVE-2021-27876",
@@ -12800,8 +13249,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-04-28",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/www.veritas.com\/support\/en_US\/security\/VTS21-001",
-            "cwes": []
+            "notes": "https:\/\/www.veritas.com\/support\/en_US\/security\/VTS21-001; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-27876",
+            "cwes": [
+                "CWE-287"
+            ]
         },
         {
             "cveID": "CVE-2021-27877",
@@ -12813,8 +13264,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-04-28",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/www.veritas.com\/support\/en_US\/security\/VTS21-001",
-            "cwes": []
+            "notes": "https:\/\/www.veritas.com\/support\/en_US\/security\/VTS21-001; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-27877",
+            "cwes": [
+                "CWE-287"
+            ]
         },
         {
             "cveID": "CVE-2021-27878",
@@ -12826,8 +13279,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-04-28",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/www.veritas.com\/support\/en_US\/security\/VTS21-001",
-            "cwes": []
+            "notes": "https:\/\/www.veritas.com\/support\/en_US\/security\/VTS21-001; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-27878",
+            "cwes": [
+                "CWE-287"
+            ]
         },
         {
             "cveID": "CVE-2019-1388",
@@ -12854,8 +13309,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-04-28",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/developer.arm.com\/Arm%20Security%20Center\/Mali%20GPU%20Driver%20Vulnerabilities",
-            "cwes": []
+            "notes": "https:\/\/developer.arm.com\/Arm%20Security%20Center\/Mali%20GPU%20Driver%20Vulnerabilities;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-26083",
+            "cwes": [
+                "CWE-401"
+            ]
         },
         {
             "cveID": "CVE-2023-28205",
@@ -12912,8 +13369,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-05-04",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/source.android.com\/docs\/security\/bulletin\/2023-03-01",
-            "cwes": []
+            "notes": "https:\/\/source.android.com\/docs\/security\/bulletin\/2023-03-01;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-20963",
+            "cwes": [
+                "CWE-295"
+            ]
         },
         {
             "cveID": "CVE-2023-29492",
@@ -12955,8 +13414,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-05-08",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/chromereleases.googleblog.com\/2023\/04\/stable-channel-update-for-desktop_14.html",
-            "cwes": []
+            "notes": "https:\/\/chromereleases.googleblog.com\/2023\/04\/stable-channel-update-for-desktop_14.html;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-2033",
+            "cwes": [
+                "CWE-843"
+            ]
         },
         {
             "cveID": "CVE-2017-6742",
@@ -12998,8 +13459,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-05-12",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/www.papercut.com\/kb\/Main\/PO-1216-and-PO-1219",
-            "cwes": []
+            "notes": "https:\/\/www.papercut.com\/kb\/Main\/PO-1216-and-PO-1219;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-27350",
+            "cwes": [
+                "CWE-284"
+            ]
         },
         {
             "cveID": "CVE-2023-2136",
@@ -13011,8 +13474,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-05-12",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/chromereleases.googleblog.com\/2023\/04\/stable-channel-update-for-desktop_18.html",
-            "cwes": []
+            "notes": "https:\/\/chromereleases.googleblog.com\/2023\/04\/stable-channel-update-for-desktop_18.html;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-2136",
+            "cwes": [
+                "CWE-190"
+            ]
         },
         {
             "cveID": "CVE-2023-1389",
@@ -13024,8 +13489,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-05-22",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/www.tp-link.com\/us\/support\/download\/archer-ax21\/v3\/#Firmware",
-            "cwes": []
+            "notes": "https:\/\/www.tp-link.com\/us\/support\/download\/archer-ax21\/v3\/#Firmware;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-1389",
+            "cwes": [
+                "CWE-77"
+            ]
         },
         {
             "cveID": "CVE-2021-45046",
@@ -13050,7 +13517,7 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-05-22",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/www.oracle.com\/security-alerts\/cpujan2023.html",
+            "notes": "https:\/\/www.oracle.com\/security-alerts\/cpujan2023.html;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-21839",
             "cwes": []
         },
         {
@@ -13078,8 +13545,10 @@
             "requiredAction": "Apply updates per vendor instructions or disconnect product if it is end-of-life.",
             "dueDate": "2023-06-02",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/support.ruckuswireless.com\/security_bulletins\/315",
-            "cwes": []
+            "notes": "https:\/\/support.ruckuswireless.com\/security_bulletins\/315;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-25717",
+            "cwes": [
+                "CWE-94"
+            ]
         },
         {
             "cveID": "CVE-2021-3560",
@@ -13091,8 +13560,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-06-02",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/bugzilla.redhat.com\/show_bug.cgi?id=1961710",
-            "cwes": []
+            "notes": "https:\/\/bugzilla.redhat.com\/show_bug.cgi?id=1961710; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-3560",
+            "cwes": [
+                "CWE-863"
+            ]
         },
         {
             "cveID": "CVE-2014-0196",
@@ -13205,8 +13676,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-06-09",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/security.samsungmobile.com\/securityUpdate.smsb",
-            "cwes": []
+            "notes": "https:\/\/security.samsungmobile.com\/securityUpdate.smsb;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-21492",
+            "cwes": [
+                "CWE-532"
+            ]
         },
         {
             "cveID": "CVE-2023-32409",
@@ -13366,8 +13839,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-07-13",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/www.vmware.com\/security\/advisories\/VMSA-2023-0012.html",
-            "cwes": []
+            "notes": "https:\/\/www.vmware.com\/security\/advisories\/VMSA-2023-0012.html;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-20887",
+            "cwes": [
+                "CWE-77"
+            ]
         },
         {
             "cveID": "CVE-2020-35730",
@@ -13497,8 +13972,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-07-14",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/www.vmware.com\/security\/advisories\/VMSA-2023-0013.html",
-            "cwes": []
+            "notes": "https:\/\/www.vmware.com\/security\/advisories\/VMSA-2023-0013.html;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-20867",
+            "cwes": [
+                "CWE-287"
+            ]
         },
         {
             "cveID": "CVE-2023-27992",
@@ -13510,8 +13987,10 @@
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-07-14",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/www.zyxel.com\/global\/en\/support\/security-advisories\/zyxel-security-advisory-for-pre-authentication-command-injection-vulnerability-in-nas-products",
-            "cwes": []
+            "notes": "https:\/\/www.zyxel.com\/global\/en\/support\/security-advisories\/zyxel-security-advisory-for-pre-authentication-command-injection-vulnerability-in-nas-products;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-27992",
+            "cwes": [
+                "CWE-78"
+            ]
         },
         {
             "cveID": "CVE-2019-17621",
@@ -13553,8 +14032,10 @@
             "requiredAction": "Apply updates per vendor instructions or discontinue use of the product if updates are unavailable",
             "dueDate": "2023-07-20",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/security.samsungmobile.com\/securityUpdate.smsb?year=2021&month=10",
-            "cwes": []
+            "notes": "https:\/\/security.samsungmobile.com\/securityUpdate.smsb?year=2021&month=10; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-25487",
+            "cwes": [
+                "CWE-125"
+            ]
         },
         {
             "cveID": "CVE-2021-25489",
@@ -13566,8 +14047,10 @@
             "requiredAction": "Apply updates per vendor instructions or discontinue use of the product if updates are unavailable",
             "dueDate": "2023-07-20",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/security.samsungmobile.com\/securityUpdate.smsb?year=2021&month=10",
-            "cwes": []
+            "notes": "https:\/\/security.samsungmobile.com\/securityUpdate.smsb?year=2021&month=10; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-25489",
+            "cwes": [
+                "CWE-20"
+            ]
         },
         {
             "cveID": "CVE-2021-25394",
@@ -13579,8 +14062,10 @@
             "requiredAction": "Apply updates per vendor instructions or discontinue use of the product if updates are unavailable",
             "dueDate": "2023-07-20",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/security.samsungmobile.com\/securityUpdate.smsb?year=2021&month=5",
-            "cwes": []
+            "notes": "https:\/\/security.samsungmobile.com\/securityUpdate.smsb?year=2021&month=5; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-25394",
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2021-25395",
@@ -13592,8 +14077,10 @@
             "requiredAction": "Apply updates per vendor instructions or discontinue use of the product if updates are unavailable",
             "dueDate": "2023-07-20",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/security.samsungmobile.com\/securityUpdate.smsb?year=2021&month=5",
-            "cwes": []
+            "notes": "https:\/\/security.samsungmobile.com\/securityUpdate.smsb?year=2021&month=5; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-25395",
+            "cwes": [
+                "CWE-362"
+            ]
         },
         {
             "cveID": "CVE-2021-25371",
@@ -13605,8 +14092,10 @@
             "requiredAction": "Apply updates per vendor instructions or discontinue use of the product if updates are unavailable",
             "dueDate": "2023-07-20",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/security.samsungmobile.com\/securityUpdate.smsb?year=2021&month=3",
-            "cwes": []
+            "notes": "https:\/\/security.samsungmobile.com\/securityUpdate.smsb?year=2021&month=3; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-25371",
+            "cwes": [
+                "CWE-912"
+            ]
         },
         {
             "cveID": "CVE-2021-25372",
@@ -13618,8 +14107,10 @@
             "requiredAction": "Apply updates per vendor instructions or discontinue use of the product if updates are unavailable",
             "dueDate": "2023-07-20",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/security.samsungmobile.com\/securityUpdate.smsb?year=2021&month=3",
-            "cwes": []
+            "notes": "https:\/\/security.samsungmobile.com\/securityUpdate.smsb?year=2021&month=3; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-25372",
+            "cwes": [
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2021-29256",
@@ -13631,8 +14122,10 @@
             "requiredAction": "Apply updates per vendor instructions or discontinue use of the product if updates are unavailable.",
             "dueDate": "2023-07-28",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/developer.arm.com\/Arm%20Security%20Center\/Mali%20GPU%20Driver%20Vulnerabilities",
-            "cwes": []
+            "notes": "https:\/\/developer.arm.com\/Arm%20Security%20Center\/Mali%20GPU%20Driver%20Vulnerabilities; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-29256",
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2023-32046",
@@ -13700,8 +14193,11 @@
             "requiredAction": "Apply updates per vendor instructions or discontinue use of the product if updates are unavailable.",
             "dueDate": "2023-08-01",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "Patch application requires login to customer portal: https:\/\/security.netwrix.com\/Account\/SignIn?ReturnUrl=%2FAdvisories%2FADV-2022-003",
-            "cwes": []
+            "notes": "Patch application requires login to customer portal: https:\/\/security.netwrix.com\/Account\/SignIn?ReturnUrl=%2FAdvisories%2FADV-2022-003;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-31199",
+            "cwes": [
+                "CWE-502",
+                "CWE-122"
+            ]
         },
         {
             "cveID": "CVE-2022-29303",
@@ -13713,8 +14209,10 @@
             "requiredAction": "Apply updates per vendor instructions or discontinue use of the product if updates are unavailable.",
             "dueDate": "2023-08-03",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/jvn.jp\/en\/vu\/JVNVU92327282\/",
-            "cwes": []
+            "notes": "https:\/\/jvn.jp\/en\/vu\/JVNVU92327282\/;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-29303",
+            "cwes": [
+                "CWE-78"
+            ]
         },
         {
             "cveID": "CVE-2023-37450",
@@ -13885,8 +14383,10 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2023-09-06",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/support.citrix.com\/article\/CTX559517\/sharefile-storagezones-controller-security-update-for-cve202324489",
-            "cwes": []
+            "notes": "https:\/\/support.citrix.com\/article\/CTX559517\/sharefile-storagezones-controller-security-update-for-cve202324489;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-24489",
+            "cwes": [
+                "CWE-284"
+            ]
         },
         {
             "cveID": "CVE-2023-26359",
@@ -13898,8 +14398,10 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2023-09-11",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/helpx.adobe.com\/security\/products\/coldfusion\/apsb23-25.html",
-            "cwes": []
+            "notes": "https:\/\/helpx.adobe.com\/security\/products\/coldfusion\/apsb23-25.html;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-26359",
+            "cwes": [
+                "CWE-502"
+            ]
         },
         {
             "cveID": "CVE-2023-38035",
@@ -13926,8 +14428,10 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2023-09-12",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/www.veeam.com\/kb4424",
-            "cwes": []
+            "notes": "https:\/\/www.veeam.com\/kb4424;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-27532",
+            "cwes": [
+                "CWE-306"
+            ]
         },
         {
             "cveID": "CVE-2023-38831",
@@ -14055,8 +14559,10 @@
             "requiredAction": "Apply mitigations per vendor instructions for group-lock and vpn-simultaneous-logins or discontinue use of the product for unsupported devices.",
             "dueDate": "2023-10-04",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/sec.cloudapps.cisco.com\/security\/center\/content\/CiscoSecurityAdvisory\/cisco-sa-asaftd-ravpn-auth-8LyfCkeC",
-            "cwes": []
+            "notes": "https:\/\/sec.cloudapps.cisco.com\/security\/center\/content\/CiscoSecurityAdvisory\/cisco-sa-asaftd-ravpn-auth-8LyfCkeC;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-20269",
+            "cwes": [
+                "CWE-288"
+            ]
         },
         {
             "cveID": "CVE-2023-4863",
@@ -14083,8 +14589,10 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2023-10-05",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/helpx.adobe.com\/security\/products\/acrobat\/apsb23-34.html",
-            "cwes": []
+            "notes": "https:\/\/helpx.adobe.com\/security\/products\/acrobat\/apsb23-34.html;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-26369",
+            "cwes": [
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2022-22265",
@@ -14139,7 +14647,7 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2023-10-09",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/github.com\/facade\/ignition\/releases\/tag\/2.5.2",
+            "notes": "https:\/\/github.com\/facade\/ignition\/releases\/tag\/2.5.2; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-3129",
             "cwes": []
         },
         {
@@ -14300,7 +14808,7 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable. Check all affected Confluence instances for evidence of compromise per vendor instructions and report any positive findings to CISA.",
             "dueDate": "2023-10-13",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/confluence.atlassian.com\/security\/cve-2023-22515-privilege-escalation-vulnerability-in-confluence-data-center-and-server-1295682276.html",
+            "notes": "https:\/\/confluence.atlassian.com\/security\/cve-2023-22515-privilege-escalation-vulnerability-in-confluence-data-center-and-server-1295682276.html;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-22515",
             "cwes": []
         },
         {
@@ -14341,8 +14849,10 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2023-10-31",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/helpx.adobe.com\/security\/products\/acrobat\/apsb23-01.html",
-            "cwes": []
+            "notes": "https:\/\/helpx.adobe.com\/security\/products\/acrobat\/apsb23-01.html;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-21608",
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2023-20109",
@@ -14354,8 +14864,10 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2023-10-31",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/sec.cloudapps.cisco.com\/security\/center\/content\/CiscoSecurityAdvisory\/cisco-sa-getvpn-rce-g8qR68sx",
-            "cwes": []
+            "notes": "https:\/\/sec.cloudapps.cisco.com\/security\/center\/content\/CiscoSecurityAdvisory\/cisco-sa-getvpn-rce-g8qR68sx;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-20109",
+            "cwes": [
+                "CWE-787"
+            ]
         },
         {
             "cveID": "CVE-2023-41763",
@@ -14412,8 +14924,10 @@
             "requiredAction": "Verify that instances of Cisco IOS XE Web UI are in compliance with BOD 23-02 and apply mitigations per vendor instructions. For affected products (Cisco IOS XE Web UI exposed to the internet or to untrusted networks), follow vendor instructions to determine if a system may have been compromised and immediately report positive findings to CISA.",
             "dueDate": "2023-10-20",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/www.cisco.com\/c\/en\/us\/support\/docs\/ios-nx-os-software\/ios-xe-dublin-17121\/221128-software-fix-availability-for-cisco-ios.html",
-            "cwes": []
+            "notes": "https:\/\/www.cisco.com\/c\/en\/us\/support\/docs\/ios-nx-os-software\/ios-xe-dublin-17121\/221128-software-fix-availability-for-cisco-ios.html;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-20198",
+            "cwes": [
+                "CWE-420"
+            ]
         },
         {
             "cveID": "CVE-2023-4966",
@@ -14440,8 +14954,10 @@
             "requiredAction": "Verify that instances of Cisco IOS XE Web UI are in compliance with BOD 23-02 and apply mitigations per vendor instructions. For affected products (Cisco IOS XE Web UI exposed to the internet or to untrusted networks), follow vendor instructions to determine if a system may have been compromised and immediately report positive findings to CISA.",
             "dueDate": "2023-10-27",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/sec.cloudapps.cisco.com\/security\/center\/content\/CiscoSecurityAdvisory\/cisco-sa-iosxe-webui-privesc-j22SaA4z",
-            "cwes": []
+            "notes": "https:\/\/sec.cloudapps.cisco.com\/security\/center\/content\/CiscoSecurityAdvisory\/cisco-sa-iosxe-webui-privesc-j22SaA4z;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-20273",
+            "cwes": [
+                "CWE-78"
+            ]
         },
         {
             "cveID": "CVE-2023-5631",
@@ -14513,8 +15029,10 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2023-11-28",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/confluence.atlassian.com\/security\/cve-2023-22518-improper-authorization-vulnerability-in-confluence-data-center-and-server-1311473907.html",
-            "cwes": []
+            "notes": "https:\/\/confluence.atlassian.com\/security\/cve-2023-22518-improper-authorization-vulnerability-in-confluence-data-center-and-server-1311473907.html;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-22518",
+            "cwes": [
+                "CWE-863"
+            ]
         },
         {
             "cveID": "CVE-2023-29552",
@@ -14685,8 +15203,10 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2023-12-07",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/www.sophos.com\/en-us\/security-advisories\/sophos-sa-20230404-swa-rce",
-            "cwes": []
+            "notes": "https:\/\/www.sophos.com\/en-us\/security-advisories\/sophos-sa-20230404-swa-rce;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-1671",
+            "cwes": [
+                "CWE-77"
+            ]
         },
         {
             "cveID": "CVE-2020-2551",
@@ -14947,8 +15467,10 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-01-29",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/developer.joomla.org\/security-centre\/894-20230201-core-improper-access-check-in-webservice-endpoints.html",
-            "cwes": []
+            "notes": "https:\/\/developer.joomla.org\/security-centre\/894-20230201-core-improper-access-check-in-webservice-endpoints.html;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-23752",
+            "cwes": [
+                "CWE-284"
+            ]
         },
         {
             "cveID": "CVE-2016-20017",
@@ -14988,8 +15510,10 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-01-29",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/lists.apache.org\/thread\/n0ftx60sllf527j7g11kmt24wvof8xyk",
-            "cwes": []
+            "notes": "https:\/\/lists.apache.org\/thread\/n0ftx60sllf527j7g11kmt24wvof8xyk;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-27524",
+            "cwes": [
+                "CWE-1188"
+            ]
         },
         {
             "cveID": "CVE-2023-29300",
@@ -15181,8 +15705,10 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-02-14",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/confluence.atlassian.com\/security\/cve-2023-22527-rce-remote-code-execution-vulnerability-in-confluence-data-center-and-confluence-server-1333990257.html",
-            "cwes": []
+            "notes": "https:\/\/confluence.atlassian.com\/security\/cve-2023-22527-rce-remote-code-execution-vulnerability-in-confluence-data-center-and-confluence-server-1333990257.html;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-22527",
+            "cwes": [
+                "CWE-74"
+            ]
         },
         {
             "cveID": "CVE-2022-48618",
@@ -15194,8 +15720,10 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-02-21",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/support.apple.com\/en-us\/HT213530, https:\/\/support.apple.com\/en-us\/HT213532, https:\/\/support.apple.com\/en-us\/HT213535, https:\/\/support.apple.com\/en-us\/HT213536",
-            "cwes": []
+            "notes": "https:\/\/support.apple.com\/en-us\/HT213530, https:\/\/support.apple.com\/en-us\/HT213532, https:\/\/support.apple.com\/en-us\/HT213535, https:\/\/support.apple.com\/en-us\/HT213536;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-48618",
+            "cwes": [
+                "CWE-367"
+            ]
         },
         {
             "cveID": "CVE-2024-21893",
@@ -15372,8 +15900,10 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-03-26",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/source.android.com\/docs\/security\/bulletin\/pixel\/2023-06-01",
-            "cwes": []
+            "notes": "https:\/\/source.android.com\/docs\/security\/bulletin\/pixel\/2023-06-01;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-21237",
+            "cwes": [
+                "CWE-200"
+            ]
         },
         {
             "cveID": "CVE-2021-36380",
@@ -15385,8 +15915,10 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-03-26",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/www.sunhillo.com\/fb011\/",
-            "cwes": []
+            "notes": "https:\/\/www.sunhillo.com\/fb011\/; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-36380",
+            "cwes": [
+                "CWE-78"
+            ]
         },
         {
             "cveID": "CVE-2024-23225",
@@ -15486,8 +16018,10 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-04-16",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2023-24955",
-            "cwes": []
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2023-24955;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-24955",
+            "cwes": [
+                "CWE-94"
+            ]
         },
         {
             "cveID": "CVE-2024-29748",
@@ -15572,10 +16106,10 @@
             "vulnerabilityName": "Microsoft Windows Print Spooler Privilege Escalation Vulnerability ",
             "dateAdded": "2024-04-23",
             "shortDescription": "Microsoft Windows Print Spooler service contains a privilege escalation vulnerability. An attacker may modify a JavaScript constraints file and execute it with SYSTEM-level permissions.",
-            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.  ",
             "dueDate": "2024-05-14",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2022-38028",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2022-38028;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-38028",
             "cwes": []
         },
         {
@@ -16360,7 +16894,7 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-09-11",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/advisory\/CVE-2021-31196",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/advisory\/CVE-2021-31196; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-31196",
             "cwes": []
         },
         {
@@ -16386,8 +16920,10 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-09-11",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/www.dahuasecurity.com\/aboutUs\/trustedCenter\/details\/582",
-            "cwes": []
+            "notes": "https:\/\/www.dahuasecurity.com\/aboutUs\/trustedCenter\/details\/582; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-33045",
+            "cwes": [
+                "CWE-287"
+            ]
         },
         {
             "cveID": "CVE-2021-33044",
@@ -16399,8 +16935,10 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-09-11",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/www.dahuasecurity.com\/aboutUs\/trustedCenter\/details\/582",
-            "cwes": []
+            "notes": "https:\/\/www.dahuasecurity.com\/aboutUs\/trustedCenter\/details\/582; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-33044",
+            "cwes": [
+                "CWE-287"
+            ]
         },
         {
             "cveID": "CVE-2024-39717",
@@ -16487,8 +17025,10 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-09-24",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/www.draytek.com\/about\/security-advisory\/vigorconnect-software-security-vulnerability-(cve-2021-20123-cve-2021-20129)",
-            "cwes": []
+            "notes": "https:\/\/www.draytek.com\/about\/security-advisory\/vigorconnect-software-security-vulnerability-(cve-2021-20123-cve-2021-20129); https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-20124",
+            "cwes": [
+                "CWE-22"
+            ]
         },
         {
             "cveID": "CVE-2021-20123",
@@ -16500,8 +17040,10 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-09-24",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/www.draytek.com\/about\/security-advisory\/vigorconnect-software-security-vulnerability-(cve-2021-20123-cve-2021-20129)",
-            "cwes": []
+            "notes": "https:\/\/www.draytek.com\/about\/security-advisory\/vigorconnect-software-security-vulnerability-(cve-2021-20123-cve-2021-20129); https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-20123",
+            "cwes": [
+                "CWE-22"
+            ]
         },
         {
             "cveID": "CVE-2024-40766",
@@ -16547,6 +17089,58 @@
             "cwes": [
                 "CWE-20"
             ]
+        },
+        {
+            "cveID": "CVE-2024-38217",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Mark of the Web (MOTW) Security Feature Bypass Vulnerability",
+            "dateAdded": "2024-09-10",
+            "shortDescription": "Microsoft Windows Mark of the Web (MOTW) contains a security feature bypass vulnerability that allows an attacker to bypass MOTW-based defenses. This can result in a limited loss of integrity and availability of security features such as Protected View in Microsoft Office, which rely on MOTW tagging.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-10-01",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-38217; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-38217",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-38014",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Installer Privilege Escalation Vulnerability ",
+            "dateAdded": "2024-09-10",
+            "shortDescription": "Microsoft Windows Installer contains a privilege escalation vulnerability that could allow an attacker to gain SYSTEM privileges.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-10-01",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-38014; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-38014",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-43491",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Update Remote Code Execution Vulnerability",
+            "dateAdded": "2024-09-10",
+            "shortDescription": "Microsoft Windows Update contains an unspecified vulnerability that allows for remote code execution.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-10-01",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-43491; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-43491",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-38226",
+            "vendorProject": "Microsoft",
+            "product": "Publisher",
+            "vulnerabilityName": "Microsoft Publisher Security Feature Bypass Vulnerability",
+            "dateAdded": "2024-09-10",
+            "shortDescription": "Microsoft Publisher contains a security feature bypass vulnerability that allows attacker to bypass Office macro policies used to block untrusted or malicious files.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-10-01",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-38226; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-38226",
+            "cwes": []
         }
     ]
 }
