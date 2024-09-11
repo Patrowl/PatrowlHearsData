@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2024.09.11",
-    "dateReleased": "2024-09-11T14:26:54.9846Z",
+    "dateReleased": "2024-09-11T15:51:49.5767Z",
     "count": 1169,
     "vulnerabilities": [
         {
@@ -17289,53 +17289,61 @@
             "cveID": "CVE-2024-38217",
             "vendorProject": "Microsoft",
             "product": "Windows",
-            "vulnerabilityName": "Microsoft Windows Mark of the Web (MOTW) Security Feature Bypass Vulnerability",
+            "vulnerabilityName": "Microsoft Windows Mark of the Web (MOTW) Protection Mechanism Failure Vulnerability",
             "dateAdded": "2024-09-10",
-            "shortDescription": "Microsoft Windows Mark of the Web (MOTW) contains a security feature bypass vulnerability that allows an attacker to bypass MOTW-based defenses. This can result in a limited loss of integrity and availability of security features such as Protected View in Microsoft Office, which rely on MOTW tagging.",
+            "shortDescription": "Microsoft Windows Mark of the Web (MOTW) contains a protection mechanism failure vulnerability that allows an attacker to bypass MOTW-based defenses. This can result in a limited loss of integrity and availability of security features such as Protected View in Microsoft Office, which rely on MOTW tagging.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-10-01",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-38217; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-38217",
-            "cwes": []
+            "cwes": [
+                "CWE-693"
+            ]
         },
         {
             "cveID": "CVE-2024-38014",
             "vendorProject": "Microsoft",
             "product": "Windows",
-            "vulnerabilityName": "Microsoft Windows Installer Privilege Escalation Vulnerability ",
+            "vulnerabilityName": "Microsoft Windows Installer Improper Privilege Management Vulnerability",
             "dateAdded": "2024-09-10",
-            "shortDescription": "Microsoft Windows Installer contains a privilege escalation vulnerability that could allow an attacker to gain SYSTEM privileges.",
+            "shortDescription": "Microsoft Windows Installer contains an improper privilege management vulnerability that could allow an attacker to gain SYSTEM privileges.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-10-01",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-38014; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-38014",
-            "cwes": []
+            "cwes": [
+                "CWE-269"
+            ]
         },
         {
             "cveID": "CVE-2024-43491",
             "vendorProject": "Microsoft",
             "product": "Windows",
-            "vulnerabilityName": "Microsoft Windows Update Remote Code Execution Vulnerability",
+            "vulnerabilityName": "Microsoft Windows Update Use-After-Free Vulnerability",
             "dateAdded": "2024-09-10",
-            "shortDescription": "Microsoft Windows Update contains an unspecified vulnerability that allows for remote code execution.",
+            "shortDescription": "Microsoft Windows Update contains a use-after-free vulnerability that allows for remote code execution.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-10-01",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-43491; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-43491",
-            "cwes": []
+            "cwes": [
+                "CWE-416"
+            ]
         },
         {
             "cveID": "CVE-2024-38226",
             "vendorProject": "Microsoft",
             "product": "Publisher",
-            "vulnerabilityName": "Microsoft Publisher Security Feature Bypass Vulnerability",
+            "vulnerabilityName": "Microsoft Publisher Protection Mechanism Failure Vulnerability",
             "dateAdded": "2024-09-10",
-            "shortDescription": "Microsoft Publisher contains a security feature bypass vulnerability that allows attacker to bypass Office macro policies used to block untrusted or malicious files.",
+            "shortDescription": "Microsoft Publisher contains a protection mechanism failure vulnerability that allows attacker to bypass Office macro policies used to block untrusted or malicious files.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-10-01",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-38226; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-38226",
-            "cwes": []
+            "cwes": [
+                "CWE-693"
+            ]
         }
     ]
 }
