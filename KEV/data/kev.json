@@ -1,8 +1,8 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.09.11",
-    "dateReleased": "2024-09-11T15:51:49.5767Z",
-    "count": 1169,
+    "catalogVersion": "2024.09.13",
+    "dateReleased": "2024-09-13T15:39:30.0876Z",
+    "count": 1170,
     "vulnerabilities": [
         {
             "cveID": "CVE-2021-27104",
@@ -17343,6 +17343,21 @@
             "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-38226; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-38226",
             "cwes": [
                 "CWE-693"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-8190",
+            "vendorProject": "Ivanti",
+            "product": "Cloud Services Appliance",
+            "vulnerabilityName": "Ivanti Cloud Services Appliance OS Command Injection Vulnerability",
+            "dateAdded": "2024-09-13",
+            "shortDescription": "Ivanti Cloud Services Appliance (CSA) contains an OS command injection vulnerability in the administrative console which can allow an authenticated attacker with application admin privileges to pass commands to the underlying OS.",
+            "requiredAction": "As Ivanti CSA has reached End-of-Life status, users are urged to remove CSA 4.6.x from service or upgrade to the 5.0.x line of supported solutions, as future vulnerabilities on the 4.6.x version of CSA are unlikely to receive future security updates.",
+            "dueDate": "2024-10-04",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/forums.ivanti.com\/s\/article\/Security-Advisory-Ivanti-Cloud-Service-Appliance-CSA-CVE-2024-8190; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-8190",
+            "cwes": [
+                "CWE-78"
             ]
         }
     ]
