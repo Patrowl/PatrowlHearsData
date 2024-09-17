@@ -1,8 +1,8 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.09.16",
-    "dateReleased": "2024-09-16T13:59:31.539Z",
-    "count": 1172,
+    "catalogVersion": "2024.09.17",
+    "dateReleased": "2024-09-17T14:00:05.5177Z",
+    "count": 1176,
     "vulnerabilities": [
         {
             "cveID": "CVE-2021-27104",
@@ -17388,6 +17388,64 @@
             "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-43461 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-43461",
             "cwes": [
                 "CWE-451"
+            ]
+        },
+        {
+            "cveID": "CVE-2014-0502",
+            "vendorProject": "Adobe",
+            "product": "Flash Player",
+            "vulnerabilityName": "Adobe Flash Player Double Free Vulnerablity",
+            "dateAdded": "2024-09-17",
+            "shortDescription": "Adobe Flash Player contains a double free vulnerability that allows a remote attacker to execute arbitrary code.",
+            "requiredAction": "The impacted product is end-of-life (EoL) and\/or end-of-service (EoS). Users should discontinue utilization of the product.",
+            "dueDate": "2024-10-08",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.adobe.com\/products\/flashplayer\/end-of-life-alternative.html#eol-alternative-faq ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2014-0502",
+            "cwes": [
+                "CWE-399"
+            ]
+        },
+        {
+            "cveID": "CVE-2013-0648",
+            "vendorProject": "Adobe",
+            "product": "Flash Player",
+            "vulnerabilityName": "Adobe Flash Player Code Execution Vulnerability",
+            "dateAdded": "2024-09-17",
+            "shortDescription": "Adobe Flash Player contains an unspecified vulnerability in the ExternalInterface ActionScript functionality that allows a remote attacker to execute arbitrary code via crafted SWF content.",
+            "requiredAction": "The impacted product is end-of-life (EoL) and\/or end-of-service (EoS). Users should discontinue utilization of the product.",
+            "dueDate": "2024-10-08",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.adobe.com\/products\/flashplayer\/end-of-life-alternative.html#eol-alternative-faq ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2013-0648",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2013-0643",
+            "vendorProject": "Adobe",
+            "product": "Flash Player",
+            "vulnerabilityName": "Adobe Flash Player Incorrect Default Permissions Vulnerability",
+            "dateAdded": "2024-09-17",
+            "shortDescription": "Adobe Flash Player contains an incorrect default permissions vulnerability in the Firefox sandbox that allows a remote attacker to execute arbitrary code via crafted SWF content. ",
+            "requiredAction": "The impacted product is end-of-life (EoL) and\/or end-of-service (EoS). Users should discontinue utilization of the product.",
+            "dueDate": "2024-10-08",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.adobe.com\/products\/flashplayer\/end-of-life-alternative.html#eol-alternative-faq ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2013-0643",
+            "cwes": [
+                "CWE-264"
+            ]
+        },
+        {
+            "cveID": "CVE-2014-0497",
+            "vendorProject": "Adobe",
+            "product": "Flash Player",
+            "vulnerabilityName": "Adobe Flash Player Integer Underflow Vulnerablity",
+            "dateAdded": "2024-09-17",
+            "shortDescription": "Adobe Flash Player contains an integer underflow vulnerability that allows a remote attacker to execute arbitrary code.",
+            "requiredAction": "The impacted product is end-of-life (EoL) and\/or end-of-service (EoS). Users should discontinue utilization of the product.",
+            "dueDate": "2024-10-08",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.adobe.com\/products\/flashplayer\/end-of-life-alternative.html#eol-alternative-faq ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2014-0497",
+            "cwes": [
+                "CWE-191"
             ]
         }
     ]
