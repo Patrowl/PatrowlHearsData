@@ -1,8 +1,8 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.09.17",
-    "dateReleased": "2024-09-17T14:00:05.5177Z",
-    "count": 1176,
+    "catalogVersion": "2024.09.18",
+    "dateReleased": "2024-09-18T14:05:34.7103Z",
+    "count": 1181,
     "vulnerabilities": [
         {
             "cveID": "CVE-2021-27104",
@@ -17446,6 +17446,73 @@
             "notes": "https:\/\/www.adobe.com\/products\/flashplayer\/end-of-life-alternative.html#eol-alternative-faq ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2014-0497",
             "cwes": [
                 "CWE-191"
+            ]
+        },
+        {
+            "cveID": "CVE-2020-14644",
+            "vendorProject": "Oracle",
+            "product": "WebLogic Server",
+            "vulnerabilityName": "Oracle WebLogic Server Remote Code Execution Vulnerability",
+            "dateAdded": "2024-09-18",
+            "shortDescription": "Oracle WebLogic Server, a product within the Fusion Middleware suite, contains a deserialization vulnerability. Unauthenticated attackers with network access via T3 or IIOP can exploit this vulnerability to achieve remote code execution.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-10-09",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.oracle.com\/security-alerts\/cpujul2020.html  ;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2020-14644",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2022-21445",
+            "vendorProject": "Oracle",
+            "product": "JDeveloper",
+            "vulnerabilityName": "Oracle JDeveloper Remote Code Execution Vulnerability",
+            "dateAdded": "2024-09-18",
+            "shortDescription": "Oracle JDeveloper, a product within the Fusion Middleware suite, contains an deserialization vulnerability the ADF Faces component, leading to unauthenticated remote code execution.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-10-09",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.oracle.com\/security-alerts\/cpuapr2022.html  ;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-21445",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2019-1069",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Task Scheduler Privilege Escalation Vulnerability",
+            "dateAdded": "2024-09-18",
+            "shortDescription": "Microsoft Windows Task Scheduler contains a privilege escalation vulnerability in the way that the SetJobFileSecurityByName() function is used that can allow an authenticated attacker to gain SYSTEM privileges on an affected system.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-10-09",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/advisory\/CVE-2019-1069  ;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2019-1069",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2020-0618",
+            "vendorProject": "Microsoft",
+            "product": "SQL Server",
+            "vulnerabilityName": "Microsoft SQL Server Reporting Services Remote Code Execution Vulnerability",
+            "dateAdded": "2024-09-18",
+            "shortDescription": "Microsoft SQL Server Reporting Services contains a deserialization vulnerability when handling page requests incorrectly. An authenticated attacker can exploit this vulnerability to execute code in the context of the Report Server service account.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-10-09",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/advisory\/CVE-2020-0618  ;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2020-0618",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-27348",
+            "vendorProject": "Apache",
+            "product": "HugeGraph-Server",
+            "vulnerabilityName": "Apache HugeGraph-Server Improper Access Control Vulnerability",
+            "dateAdded": "2024-09-18",
+            "shortDescription": "Apache HugeGraph-Server contains an improper access control vulnerability that could allow a remote attacker to execute arbitrary code.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-10-09",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. For more information, please see:  https:\/\/lists.apache.org\/thread\/nx6g6htyhpgtzsocybm242781o8w5kq9  ;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-27348",
+            "cwes": [
+                "CWE-284"
             ]
         }
     ]
