@@ -1,8 +1,8 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.09.18",
-    "dateReleased": "2024-09-18T14:05:34.7103Z",
-    "count": 1181,
+    "catalogVersion": "2024.09.19",
+    "dateReleased": "2024-09-19T15:37:36.7179Z",
+    "count": 1180,
     "vulnerabilities": [
         {
             "cveID": "CVE-2021-27104",
@@ -17472,19 +17472,6 @@
             "dueDate": "2024-10-09",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/www.oracle.com\/security-alerts\/cpuapr2022.html  ;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-21445",
-            "cwes": []
-        },
-        {
-            "cveID": "CVE-2019-1069",
-            "vendorProject": "Microsoft",
-            "product": "Windows",
-            "vulnerabilityName": "Microsoft Windows Task Scheduler Privilege Escalation Vulnerability",
-            "dateAdded": "2024-09-18",
-            "shortDescription": "Microsoft Windows Task Scheduler contains a privilege escalation vulnerability in the way that the SetJobFileSecurityByName() function is used that can allow an authenticated attacker to gain SYSTEM privileges on an affected system.",
-            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
-            "dueDate": "2024-10-09",
-            "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/advisory\/CVE-2019-1069  ;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2019-1069",
             "cwes": []
         },
         {
