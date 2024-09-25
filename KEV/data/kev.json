@@ -1,8 +1,8 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.09.24",
-    "dateReleased": "2024-09-24T13:50:39.354Z",
-    "count": 1182,
+    "catalogVersion": "2024.09.25",
+    "dateReleased": "2024-09-25T14:07:52.5709Z",
+    "count": 1181,
     "vulnerabilities": [
         {
             "cveID": "CVE-2021-27104",
@@ -17313,21 +17313,6 @@
             "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-38014; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-38014",
             "cwes": [
                 "CWE-269"
-            ]
-        },
-        {
-            "cveID": "CVE-2024-43491",
-            "vendorProject": "Microsoft",
-            "product": "Windows",
-            "vulnerabilityName": "Microsoft Windows Update Use-After-Free Vulnerability",
-            "dateAdded": "2024-09-10",
-            "shortDescription": "Microsoft Windows Update contains a use-after-free vulnerability that allows for remote code execution.",
-            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
-            "dueDate": "2024-10-01",
-            "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-43491; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-43491",
-            "cwes": [
-                "CWE-416"
             ]
         },
         {
