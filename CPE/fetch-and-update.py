@@ -1,12 +1,11 @@
 #!/bin/python3
-import requests
-import os
-import shutil
-import zipfile
 import json
+import os
 import xml.etree.ElementTree as ET
-from tqdm import tqdm
+import zipfile
 
+import requests
+from tqdm import tqdm
 
 CPE_FILENAME_ZIP = "official-cpe-dictionary_v2.3.xml.zip"
 CPEMATCH_FILENAME_ZIP = "nvdcpematch-1.0.json.zip"
@@ -30,7 +29,9 @@ counters_diff = {"cpes": 0}
 
 print("[+] Downloading CPE dictionary from NVD")
 r = requests.get(
-    "https://nvd.nist.gov/feeds/xml/cpe/dictionary/" + CPE_FILENAME_ZIP, stream=True
+    "https://nvd.nist.gov/feeds/xml/cpe/dictionary/" + CPE_FILENAME_ZIP,
+    stream=True,
+    timeout=300,
 )
 with open(BASEDIR + "/nvd/" + CPE_FILENAME_ZIP, "wb") as f:
     pbar = tqdm(unit="B", unit_scale=True, total=int(r.headers["Content-Length"]))
@@ -53,13 +54,13 @@ for xcpe in tqdm(root.findall("{http://cpe.mitre.org/dictionary/2.0}cpe-item")):
     cpe_vendor = cpe_vector.split(":")[3]
     cpe_product = cpe_vector.split(":")[4]
 
-    if cpe_vendor not in cpes.keys():
+    if cpe_vendor not in cpes:
         cpes.update({cpe_vendor: {}})
         counters.update({"vendors": counters["vendors"] + 1})
-    if cpe_product not in cpes[cpe_vendor].keys():
+    if cpe_product not in cpes[cpe_vendor]:
         cpes[cpe_vendor].update({cpe_product: {}})
         counters.update({"products": counters["products"] + 1})
-    if cpe_vector not in cpes[cpe_vendor][cpe_product].keys():
+    if cpe_vector not in cpes[cpe_vendor][cpe_product]:
         cpes[cpe_vendor][cpe_product].update({cpe_vector: cpe_title})
         counters.update({"cpes": counters["cpes"] + 1})
 
@@ -107,14 +108,14 @@ for xcpe in tqdm(root.findall("{http://cpe.mitre.org/dictionary/2.0}cpe-item")):
 #     zf.write(BASEDIR+'/data/cpes.json', arcname='cpes.json')
 
 print("[+] Building diff file from latest CPE references")
-with open(BASEDIR + "/data/cpes-base.json", "r") as jfo:
+with open(BASEDIR + "/data/cpes-base.json") as jfo:
     cpes_oldies = json.loads(jfo.read())["cpes"]
     cpes_diffs = {}
 
     # Loop over new vendors list
-    for n_vendor in cpes.keys():
-        for n_product in cpes[n_vendor].keys():
-            for n_cpe in cpes[n_vendor][n_product].keys():
+    for n_vendor in cpes:
+        for n_product in cpes[n_vendor]:
+            for n_cpe in cpes[n_vendor][n_product]:
                 try:
                     cpes_oldies[n_vendor][n_product][n_cpe]
                     is_new = False
@@ -124,10 +125,8 @@ with open(BASEDIR + "/data/cpes-base.json", "r") as jfo:
                 if is_new:
                     cpes_diffs = {
                         **cpes_diffs,
-                        **{
-                            n_vendor: {
-                                n_product: {n_cpe: cpes[n_vendor][n_product][n_cpe]}
-                            }
+                        n_vendor: {
+                            n_product: {n_cpe: cpes[n_vendor][n_product][n_cpe]}
                         },
                     }
                     counters_diff.update({"cpes": counters_diff["cpes"] + 1})
