@@ -3,6 +3,7 @@ import json
 import os
 import xml.etree.ElementTree as ET
 import zipfile
+from collections import defaultdict
 
 import requests
 from tqdm import tqdm
@@ -110,30 +111,21 @@ for xcpe in tqdm(root.findall("{http://cpe.mitre.org/dictionary/2.0}cpe-item")):
 print("[+] Building diff file from latest CPE references")
 with open(BASEDIR + "/data/cpes-base.json") as jfo:
     cpes_oldies = json.loads(jfo.read())["cpes"]
-    cpes_diffs = {}
+    new_cpes = defaultdict(lambda: defaultdict(dict))
 
     # Loop over new vendors list
-    for n_vendor in cpes:
-        for n_product in cpes[n_vendor]:
-            for n_cpe in cpes[n_vendor][n_product]:
+    for vendor, products in cpes.items():
+        for product, cpes in products.items():
+            for cpe, title in cpes.items():
                 try:
-                    cpes_oldies[n_vendor][n_product][n_cpe]
-                    is_new = False
-                except KeyError:  # Fuck les jaloux
-                    is_new = True
-
-                if is_new:
-                    cpes_diffs = {
-                        **cpes_diffs,
-                        n_vendor: {
-                            n_product: {n_cpe: cpes[n_vendor][n_product][n_cpe]}
-                        },
-                    }
+                    cpes_oldies[vendor][product][cpe]
+                except KeyError:
+                    new_cpes[vendor][product][cpe] = title
                     counters_diff.update({"cpes": counters_diff["cpes"] + 1})
 
     print(counters_diff)
 
     with open(BASEDIR + "/data/cpes-diff.json", "w") as jf:
-        jf.write(json.dumps({"cpes": cpes_diffs}))
+        jf.write(json.dumps({"cpes": new_cpes}))
     # with zipfile.ZipFile(BASEDIR+'/data/cpes-diff.json.zip', 'w', zipfile.ZIP_DEFLATED) as zf:
     #     zf.write(BASEDIR+'/data/cpes-diff.json', arcname='cpes-diff.json')
