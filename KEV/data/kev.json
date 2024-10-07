@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.10.03",
-    "dateReleased": "2024-10-03T17:02:39.8186Z",
+    "catalogVersion": "2024.10.07",
+    "dateReleased": "2024-10-07T20:40:12.8044Z",
     "count": 1187,
     "vulnerabilities": [
         {
@@ -14187,7 +14187,7 @@
             "shortDescription": "Cisco Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD) contain an insufficient input validation vulnerability for user-supplied input by the web services interface.  Successful exploitation could allow an attacker to perform cross-site scripting (XSS) in the context of the interface or access sensitive browser-based information.",
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-05-03",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2020-3580",
             "cwes": [
                 "CWE-79"
