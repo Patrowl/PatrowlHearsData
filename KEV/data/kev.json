@@ -1,9 +1,50 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2024.10.08",
-    "dateReleased": "2024-10-08T17:22:15.3356Z",
-    "count": 1187,
+    "dateReleased": "2024-10-08T17:39:45.8307Z",
+    "count": 1190,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2024-43573",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows MSHTML Platform Spoofing Vulnerability",
+            "dateAdded": "2024-10-08",
+            "shortDescription": "Microsoft Windows MSHTML Platform contains an unspecified spoofing vulnerability which can lead to a loss of confidentiality.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-10-29",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-43573 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-43573",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-43572",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Management Console Remote Code Execution Vulnerability",
+            "dateAdded": "2024-10-08",
+            "shortDescription": "Microsoft Windows Management Console contains unspecified vulnerability that allows for remote code execution.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-10-29",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/advisory\/CVE-2024-43572 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-43572",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-43047",
+            "vendorProject": "Qualcomm",
+            "product": "Multiple Chipsets ",
+            "vulnerabilityName": "Qualcomm Multiple Chipsets Use-After-Free Vulnerability",
+            "dateAdded": "2024-10-08",
+            "shortDescription": "Multiple Qualcomm chipsets contain a use-after-free vulnerability due to memory corruption in DSP Services while maintaining memory maps of HLOS memory. ",
+            "requiredAction": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+            "dueDate": "2024-10-29",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/git.codelinaro.org\/clo\/la\/platform\/vendor\/qcom\/opensource\/dsp-kernel\/-\/commit\/0e27b6c7d2bd8d0453e4465ac2ca49a8f8c440e2 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-43047",
+            "cwes": [
+                "CWE-416"
+            ]
+        },
         {
             "cveID": "CVE-2024-45519",
             "vendorProject": "Synacor",
