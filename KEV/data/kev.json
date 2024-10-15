@@ -1,9 +1,54 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.10.09",
-    "dateReleased": "2024-10-09T14:00:37.7242Z",
-    "count": 1193,
+    "catalogVersion": "2024.10.15",
+    "dateReleased": "2024-10-15T13:59:05.1354Z",
+    "count": 1196,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2024-28987",
+            "vendorProject": "SolarWinds",
+            "product": "Web Help Desk",
+            "vulnerabilityName": "SolarWinds Web Help Desk Hardcoded Credential Vulnerability",
+            "dateAdded": "2024-10-15",
+            "shortDescription": "SolarWinds Web Help Desk contains a hardcoded credential vulnerability that could allow a remote, unauthenticated user to access internal functionality and modify data.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-11-05",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.solarwinds.com\/trust-center\/security-advisories\/cve-2024-28987 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-28987",
+            "cwes": [
+                "CWE-798"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-9680",
+            "vendorProject": "Mozilla",
+            "product": "Firefox",
+            "vulnerabilityName": "Mozilla Firefox Use-After-Free Vulnerability",
+            "dateAdded": "2024-10-15",
+            "shortDescription": "Mozilla Firefox and Firefox ESR contain a use-after-free vulnerability in Animation timelines that allows for code execution in the content process.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-11-05",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.mozilla.org\/en-US\/security\/advisories\/mfsa2024-51\/ ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-9680",
+            "cwes": [
+                "CWE-416"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-30088",
+            "vendorProject": "Microsoft",
+            "product": "Windows ",
+            "vulnerabilityName": "Microsoft Windows Kernel TOCTOU Race Condition Vulnerability",
+            "dateAdded": "2024-10-15",
+            "shortDescription": "Microsoft Windows Kernel contains a time-of-check to time-of-use (TOCTOU) race condition vulnerability that could allow for privilege escalation. ",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-11-05",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2024-30088 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-30088",
+            "cwes": [
+                "CWE-367"
+            ]
+        },
         {
             "cveID": "CVE-2024-9380",
             "vendorProject": "Ivanti",
