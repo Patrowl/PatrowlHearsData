@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2024.10.15",
-    "dateReleased": "2024-10-15T13:59:05.1354Z",
+    "dateReleased": "2024-10-15T15:56:03.5048Z",
     "count": 1196,
     "vulnerabilities": [
         {
@@ -1677,7 +1677,7 @@
             "shortDescription": "Microsoft Windows Kernel contains an exposed IOCTL with insufficient access control vulnerability within the IOCTL (input and output control) dispatcher in appid.sys that allows a local attacker to achieve privilege escalation.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-03-25",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-21338; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-21338",
             "cwes": [
                 "CWE-822"
@@ -2080,7 +2080,7 @@
             "shortDescription": "Adobe ColdFusion contains a deserialization of untrusted data vulnerability that allows for code execution.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-01-29",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/helpx.adobe.com\/security\/products\/coldfusion\/apsb23-40.html; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-29300",
             "cwes": [
                 "CWE-502"
@@ -2095,7 +2095,7 @@
             "shortDescription": "Adobe ColdFusion contains a deserialization of untrusted data vulnerability that allows for code execution.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-01-29",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/helpx.adobe.com\/security\/products\/coldfusion\/apsb23-41.html ;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-38203",
             "cwes": [
                 "CWE-502"
