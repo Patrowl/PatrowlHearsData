@@ -1,9 +1,67 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.11.04",
-    "dateReleased": "2024-11-04T15:00:28.7299Z",
-    "count": 1204,
+    "catalogVersion": "2024.11.07",
+    "dateReleased": "2024-11-07T15:00:13.7752Z",
+    "count": 1207,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2019-16278",
+            "vendorProject": "Nostromo",
+            "product": "nhttpd",
+            "vulnerabilityName": "Nostromo nhttpd Directory Traversal Vulnerability",
+            "dateAdded": "2024-11-07",
+            "shortDescription": "Nostromo nhttpd contains a directory traversal vulnerability in the http_verify() function in a non-chrooted nhttpd server allowing for remote code execution.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-11-28",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.nazgul.ch\/dev\/nostromo_cl.txt ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2019-16278",
+            "cwes": [
+                "CWE-22"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-51567",
+            "vendorProject": "CyberPersons",
+            "product": "CyberPanel",
+            "vulnerabilityName": "CyberPanel Incorrect Default Permissions Vulnerability",
+            "dateAdded": "2024-11-07",
+            "shortDescription": "CyberPanel contains an incorrect default permissions vulnerability that allows a remote, unauthenticated attacker to execute commands as root.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-11-28",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/cyberpanel.net\/blog\/detials-and-fix-of-recent-security-issue-and-patch-of-cyberpanel ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-51567",
+            "cwes": [
+                "CWE-276"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-43093",
+            "vendorProject": "Android",
+            "product": "Framework",
+            "vulnerabilityName": "Android Framework Privilege Escalation Vulnerability",
+            "dateAdded": "2024-11-07",
+            "shortDescription": "Android Framework contains an unspecified vulnerability that allows for privilege escalation.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-11-28",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/source.android.com\/docs\/security\/bulletin\/2024-11-01 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-43093",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-5910",
+            "vendorProject": "Palo Alto",
+            "product": "Expedition",
+            "vulnerabilityName": "Palo Alto Expedition Missing Authentication Vulnerability",
+            "dateAdded": "2024-11-07",
+            "shortDescription": "Palo Alto Expedition contains a missing authentication vulnerability that allows an attacker with network access to takeover an Expedition admin account and potentially access configuration secrets, credentials, and other data.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-11-28",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/security.paloaltonetworks.com\/CVE-2024-5910 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-5910",
+            "cwes": [
+                "CWE-306"
+            ]
+        },
         {
             "cveID": "CVE-2024-8956",
             "vendorProject": "PTZOptics",
@@ -294,21 +352,6 @@
             "notes": "https:\/\/web.archive.org\/web\/20191214053020\/https:\/\/wiki.scn.sap.com\/wiki\/pages\/viewpage.action?pageId=523998017 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2019-0344",
             "cwes": [
                 "CWE-502"
-            ]
-        },
-        {
-            "cveID": "CVE-2021-4043",
-            "vendorProject": "Motion Spell",
-            "product": "GPAC",
-            "vulnerabilityName": "Motion Spell GPAC Null Pointer Dereference Vulnerability",
-            "dateAdded": "2024-09-30",
-            "shortDescription": "Motion Spell GPAC contains a null pointer dereference vulnerability that could allow a local attacker to cause a denial-of-service (DoS) condition.",
-            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
-            "dueDate": "2024-10-21",
-            "knownRansomwareCampaignUse": "Unknown",
-            "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. For more information, please see: https:\/\/github.com\/gpac\/gpac\/commit\/64a2e1b799352ac7d7aad1989bc06e7b0f2b01db ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-4043",
-            "cwes": [
-                "CWE-476"
             ]
         },
         {
