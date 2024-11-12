@@ -1,9 +1,80 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.11.07",
-    "dateReleased": "2024-11-07T15:00:13.7752Z",
-    "count": 1207,
+    "catalogVersion": "2024.11.12",
+    "dateReleased": "2024-11-12T18:03:08.7369Z",
+    "count": 1212,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2021-26086",
+            "vendorProject": "Atlassian",
+            "product": "Jira Server and Data Center",
+            "vulnerabilityName": "Atlassian Jira Server and Data Center Path Traversal Vulnerability",
+            "dateAdded": "2024-11-12",
+            "shortDescription": "Atlassian Jira Server and Data Center contain a path traversal vulnerability that allows a remote attacker to read particular files in the \/WEB-INF\/web.xml endpoint.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-12-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/jira.atlassian.com\/browse\/JRASERVER-72695 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-26086",
+            "cwes": [
+                "CWE-22"
+            ]
+        },
+        {
+            "cveID": "CVE-2014-2120",
+            "vendorProject": "Cisco",
+            "product": "Adaptive Security Appliance (ASA)",
+            "vulnerabilityName": "Cisco Adaptive Security Appliance (ASA) Cross-Site Scripting (XSS) Vulnerability",
+            "dateAdded": "2024-11-12",
+            "shortDescription": "Cisco Adaptive Security Appliance (ASA) contains a cross-site scripting (XSS) vulnerability in the WebVPN login page. This vulnerability allows remote attackers to inject arbitrary web script or HTML via an unspecified parameter.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-12-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/web.archive.org\/web\/20140403043510\/http:\/\/tools.cisco.com\/security\/center\/content\/CiscoSecurityNotice\/CVE-2014-2120 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2014-2120",
+            "cwes": [
+                "CWE-79"
+            ]
+        },
+        {
+            "cveID": "CVE-2021-41277",
+            "vendorProject": "Metabase",
+            "product": "Metabase",
+            "vulnerabilityName": "Metabase GeoJSON API Local File Inclusion Vulnerability",
+            "dateAdded": "2024-11-12",
+            "shortDescription": "Metabase contains a local file inclusion vulnerability in the custom map support in the API to read GeoJSON formatted data.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-12-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/github.com\/metabase\/metabase\/security\/advisories\/GHSA-w73v-6p7p-fpfr ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-41277",
+            "cwes": [
+                "CWE-200"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-43451",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows NTLMv2 Hash Disclosure Spoofing Vulnerability",
+            "dateAdded": "2024-11-12",
+            "shortDescription": "Microsoft Windows contains an NTLMv2 hash spoofing vulnerability that could result in disclosing a user's NTLMv2 hash to an attacker via a file open operation. The attacker could then leverage this hash to impersonate that user.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-12-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-43451 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-43451",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-49039",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Task Scheduler Privilege Escalation Vulnerability",
+            "dateAdded": "2024-11-12",
+            "shortDescription": "Microsoft Windows Task Scheduler contains a privilege escalation vulnerability that can allow an attacker-provided, local application to escalate privileges outside of its AppContainer, and access privileged RPC functions.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-12-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2024-49039 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-49039",
+            "cwes": []
+        },
         {
             "cveID": "CVE-2019-16278",
             "vendorProject": "Nostromo",
