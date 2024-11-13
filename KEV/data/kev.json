@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.11.12",
-    "dateReleased": "2024-11-12T18:03:08.7369Z",
+    "catalogVersion": "2024.11.13",
+    "dateReleased": "2024-11-13T14:58:50.1705Z",
     "count": 1212,
     "vulnerabilities": [
         {
@@ -60,7 +60,9 @@
             "dueDate": "2024-12-03",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-43451 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-43451",
-            "cwes": []
+            "cwes": [
+                "CWE-73"
+            ]
         },
         {
             "cveID": "CVE-2024-49039",
@@ -73,7 +75,9 @@
             "dueDate": "2024-12-03",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2024-49039 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-49039",
-            "cwes": []
+            "cwes": [
+                "CWE-287"
+            ]
         },
         {
             "cveID": "CVE-2019-16278",
@@ -352,7 +356,9 @@
             "dueDate": "2024-10-29",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-43573 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-43573",
-            "cwes": []
+            "cwes": [
+                "CWE-79"
+            ]
         },
         {
             "cveID": "CVE-2024-43572",
@@ -365,7 +371,9 @@
             "dueDate": "2024-10-29",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/msrc.microsoft.com\/update-guide\/advisory\/CVE-2024-43572 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-43572",
-            "cwes": []
+            "cwes": [
+                "CWE-707"
+            ]
         },
         {
             "cveID": "CVE-2024-43047",
@@ -393,7 +401,9 @@
             "dueDate": "2024-10-24",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/wiki.zimbra.com\/wiki\/Zimbra_Security_Advisories ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-45519",
-            "cwes": []
+            "cwes": [
+                "CWE-284"
+            ]
         },
         {
             "cveID": "CVE-2024-29824",
@@ -510,7 +520,9 @@
             "dueDate": "2024-10-09",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/www.oracle.com\/security-alerts\/cpuapr2022.html  ;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-21445",
-            "cwes": []
+            "cwes": [
+                "CWE-502"
+            ]
         },
         {
             "cveID": "CVE-2020-0618",
@@ -523,7 +535,9 @@
             "dueDate": "2024-10-09",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/advisory\/CVE-2020-0618  ;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2020-0618",
-            "cwes": []
+            "cwes": [
+                "CWE-502"
+            ]
         },
         {
             "cveID": "CVE-2024-27348",
