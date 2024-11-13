@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2024.11.13",
-    "dateReleased": "2024-11-13T14:58:50.1705Z",
+    "dateReleased": "2024-11-13T19:51:23.1999Z",
     "count": 1212,
     "vulnerabilities": [
         {
@@ -124,11 +124,11 @@
         },
         {
             "cveID": "CVE-2024-5910",
-            "vendorProject": "Palo Alto",
+            "vendorProject": "Palo Alto Networks",
             "product": "Expedition",
-            "vulnerabilityName": "Palo Alto Expedition Missing Authentication Vulnerability",
+            "vulnerabilityName": "Palo Alto Networks Expedition Missing Authentication Vulnerability",
             "dateAdded": "2024-11-07",
-            "shortDescription": "Palo Alto Expedition contains a missing authentication vulnerability that allows an attacker with network access to takeover an Expedition admin account and potentially access configuration secrets, credentials, and other data.",
+            "shortDescription": "Palo Alto Networks Expedition contains a missing authentication vulnerability that allows an attacker with network access to takeover an Expedition admin account and potentially access configuration secrets, credentials, and other data.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-11-28",
             "knownRansomwareCampaignUse": "Unknown",
