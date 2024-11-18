@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.11.14",
-    "dateReleased": "2024-11-14T18:00:41.2557Z",
+    "catalogVersion": "2024.11.18",
+    "dateReleased": "2024-11-18T15:08:00.3908Z",
     "count": 1214,
     "vulnerabilities": [
         {
