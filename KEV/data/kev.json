@@ -1,9 +1,467 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.10.09",
-    "dateReleased": "2024-10-09T14:00:37.7242Z",
-    "count": 1193,
+    "catalogVersion": "2024.11.27",
+    "dateReleased": "2024-11-27T16:35:36.744Z",
+    "count": 1223,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2023-28461",
+            "vendorProject": "Array Networks ",
+            "product": "AG\/vxAG ArrayOS",
+            "vulnerabilityName": "Array Networks AG and vxAG ArrayOS Missing Authentication for Critical Function Vulnerability",
+            "dateAdded": "2024-11-25",
+            "shortDescription": "Array Networks AG and vxAG ArrayOS contain a missing authentication for critical function vulnerability that allows an attacker to read local files and execute code on the SSL VPN gateway.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-12-16",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/support.arraynetworks.net\/prx\/001\/http\/supportportal.arraynetworks.net\/documentation\/FieldNotice\/Array_Networks_Security_Advisory_for_Remote_Code_Execution_Vulnerability_AG.pdf ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-28461",
+            "cwes": [
+                "CWE-306"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-21287",
+            "vendorProject": "Oracle",
+            "product": "Agile Product Lifecycle Management (PLM)",
+            "vulnerabilityName": "Oracle Agile Product Lifecycle Management (PLM) Incorrect Authorization Vulnerability",
+            "dateAdded": "2024-11-21",
+            "shortDescription": "Oracle Agile Product Lifecycle Management (PLM) contains an incorrect authorization vulnerability in the Process Extension component of the Software Development Kit. Successful exploitation of this vulnerability may result in unauthenticated file disclosure.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-12-12",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.oracle.com\/security-alerts\/alert-cve-2024-21287.html ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-21287",
+            "cwes": [
+                "CWE-863"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-44309",
+            "vendorProject": "Apple",
+            "product": "Multiple Products",
+            "vulnerabilityName": "Apple Multiple Products Cross-Site Scripting (XSS) Vulnerability",
+            "dateAdded": "2024-11-21",
+            "shortDescription": "Apple iOS, macOS, and other Apple products contain an unspecified vulnerability when processing maliciously crafted web content that may lead to a cross-site scripting (XSS) attack.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-12-12",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/support.apple.com\/en-us\/121752, https:\/\/support.apple.com\/en-us\/121753, https:\/\/support.apple.com\/en-us\/121754, https:\/\/support.apple.com\/en-us\/121755, https:\/\/support.apple.com\/en-us\/121756 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-44309",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-44308",
+            "vendorProject": "Apple",
+            "product": "Multiple Products",
+            "vulnerabilityName": "Apple Multiple Products Code Execution Vulnerability",
+            "dateAdded": "2024-11-21",
+            "shortDescription": "Apple iOS, macOS, and other Apple products contain an unspecified vulnerability when processing maliciously crafted web content that may lead to arbitrary code execution.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-12-12",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/support.apple.com\/en-us\/121752, https:\/\/support.apple.com\/en-us\/121753, https:\/\/support.apple.com\/en-us\/121754, https:\/\/support.apple.com\/en-us\/121755, https:\/\/support.apple.com\/en-us\/121756 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-44308",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-38813",
+            "vendorProject": "VMware",
+            "product": "vCenter Server",
+            "vulnerabilityName": "VMware vCenter Server Privilege Escalation Vulnerability",
+            "dateAdded": "2024-11-20",
+            "shortDescription": "VMware vCenter contains an improper check for dropped privileges vulnerability. This vulnerability could allow an attacker with network access to the vCenter Server to escalate privileges to root by sending a specially crafted packet.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-12-11",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/support.broadcom.com\/web\/ecx\/support-content-notification\/-\/external\/content\/SecurityAdvisories\/0\/24968 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-38813",
+            "cwes": [
+                "CWE-250",
+                "CWE-273"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-38812",
+            "vendorProject": "VMware",
+            "product": "vCenter Server",
+            "vulnerabilityName": "VMware vCenter Server Heap-Based Buffer Overflow Vulnerability",
+            "dateAdded": "2024-11-20",
+            "shortDescription": "VMware vCenter Server contains a heap-based buffer overflow vulnerability in the implementation of the DCERPC protocol. This vulnerability could allow an attacker with network access to the vCenter Server to execute remote code by sending a specially crafted packet.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-12-11",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/support.broadcom.com\/web\/ecx\/support-content-notification\/-\/external\/content\/SecurityAdvisories\/0\/24968 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-38812",
+            "cwes": [
+                "CWE-122"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-9474",
+            "vendorProject": "Palo Alto Networks",
+            "product": "PAN-OS",
+            "vulnerabilityName": "Palo Alto Networks PAN-OS Management Interface OS Command Injection Vulnerability",
+            "dateAdded": "2024-11-18",
+            "shortDescription": "Palo Alto Networks PAN-OS contains an OS command injection vulnerability that allows for privilege escalation through the web-based management interface for several PAN products, including firewalls and VPN concentrators.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable. Additionally, the management interfaces for affected devices should not be exposed to untrusted networks, including the internet.",
+            "dueDate": "2024-12-09",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/security.paloaltonetworks.com\/CVE-2024-9474 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-9474",
+            "cwes": [
+                "CWE-77"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-0012",
+            "vendorProject": "Palo Alto Networks",
+            "product": "PAN-OS",
+            "vulnerabilityName": "Palo Alto Networks PAN-OS Management Interface Authentication Bypass Vulnerability",
+            "dateAdded": "2024-11-18",
+            "shortDescription": "Palo Alto Networks PAN-OS contains an authentication bypass vulnerability in the web-based management interface for several PAN-OS products, including firewalls and VPN concentrators.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable. Additionally, management interface for affected devices should not be exposed to untrusted networks, including the internet.",
+            "dueDate": "2024-12-09",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/security.paloaltonetworks.com\/CVE-2024-0012 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-0012",
+            "cwes": [
+                "CWE-306"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-1212",
+            "vendorProject": "Progress",
+            "product": "Kemp LoadMaster",
+            "vulnerabilityName": "Progress Kemp LoadMaster OS Command Injection Vulnerability",
+            "dateAdded": "2024-11-18",
+            "shortDescription": "Progress Kemp LoadMaster contains an OS command injection vulnerability that allows an unauthenticated, remote attacker to access the system through the LoadMaster management interface, enabling arbitrary system command execution.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-12-09",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/community.progress.com\/s\/article\/Release-Notice-LMOS-7-2-59-2-7-2-54-8-7-2-48-10-CVE-2024-1212 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-1212",
+            "cwes": [
+                "CWE-78"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-9465",
+            "vendorProject": "Palo Alto Networks",
+            "product": "Expedition",
+            "vulnerabilityName": "Palo Alto Networks Expedition SQL Injection Vulnerability",
+            "dateAdded": "2024-11-14",
+            "shortDescription": "Palo Alto Networks Expedition contains a SQL injection vulnerability that allows an unauthenticated attacker to reveal Expedition database contents, such as password hashes, usernames, device configurations, and device API keys. With this, attackers can also create and read arbitrary files on the Expedition system.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-12-05",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/security.paloaltonetworks.com\/PAN-SA-2024-0010 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-9465",
+            "cwes": [
+                "CWE-89"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-9463",
+            "vendorProject": "Palo Alto Networks",
+            "product": "Expedition",
+            "vulnerabilityName": "Palo Alto Networks Expedition OS Command Injection Vulnerability",
+            "dateAdded": "2024-11-14",
+            "shortDescription": "Palo Alto Networks Expedition contains an OS command injection vulnerability that allows an unauthenticated attacker to run arbitrary OS commands as root in Expedition, resulting in disclosure of usernames, cleartext passwords, device configurations, and device API keys of PAN-OS firewalls.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-12-05",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/security.paloaltonetworks.com\/PAN-SA-2024-0010 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-9463",
+            "cwes": [
+                "CWE-78"
+            ]
+        },
+        {
+            "cveID": "CVE-2021-26086",
+            "vendorProject": "Atlassian",
+            "product": "Jira Server and Data Center",
+            "vulnerabilityName": "Atlassian Jira Server and Data Center Path Traversal Vulnerability",
+            "dateAdded": "2024-11-12",
+            "shortDescription": "Atlassian Jira Server and Data Center contain a path traversal vulnerability that allows a remote attacker to read particular files in the \/WEB-INF\/web.xml endpoint.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-12-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/jira.atlassian.com\/browse\/JRASERVER-72695 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-26086",
+            "cwes": [
+                "CWE-22"
+            ]
+        },
+        {
+            "cveID": "CVE-2014-2120",
+            "vendorProject": "Cisco",
+            "product": "Adaptive Security Appliance (ASA)",
+            "vulnerabilityName": "Cisco Adaptive Security Appliance (ASA) Cross-Site Scripting (XSS) Vulnerability",
+            "dateAdded": "2024-11-12",
+            "shortDescription": "Cisco Adaptive Security Appliance (ASA) contains a cross-site scripting (XSS) vulnerability in the WebVPN login page. This vulnerability allows remote attackers to inject arbitrary web script or HTML via an unspecified parameter.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-12-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/web.archive.org\/web\/20140403043510\/http:\/\/tools.cisco.com\/security\/center\/content\/CiscoSecurityNotice\/CVE-2014-2120 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2014-2120",
+            "cwes": [
+                "CWE-79"
+            ]
+        },
+        {
+            "cveID": "CVE-2021-41277",
+            "vendorProject": "Metabase",
+            "product": "Metabase",
+            "vulnerabilityName": "Metabase GeoJSON API Local File Inclusion Vulnerability",
+            "dateAdded": "2024-11-12",
+            "shortDescription": "Metabase contains a local file inclusion vulnerability in the custom map support in the API to read GeoJSON formatted data.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-12-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/github.com\/metabase\/metabase\/security\/advisories\/GHSA-w73v-6p7p-fpfr ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-41277",
+            "cwes": [
+                "CWE-200"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-43451",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows NTLMv2 Hash Disclosure Spoofing Vulnerability",
+            "dateAdded": "2024-11-12",
+            "shortDescription": "Microsoft Windows contains an NTLMv2 hash spoofing vulnerability that could result in disclosing a user's NTLMv2 hash to an attacker via a file open operation. The attacker could then leverage this hash to impersonate that user.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-12-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-43451 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-43451",
+            "cwes": [
+                "CWE-73"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-49039",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Task Scheduler Privilege Escalation Vulnerability",
+            "dateAdded": "2024-11-12",
+            "shortDescription": "Microsoft Windows Task Scheduler contains a privilege escalation vulnerability that can allow an attacker-provided, local application to escalate privileges outside of its AppContainer, and access privileged RPC functions.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-12-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2024-49039 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-49039",
+            "cwes": [
+                "CWE-287"
+            ]
+        },
+        {
+            "cveID": "CVE-2019-16278",
+            "vendorProject": "Nostromo",
+            "product": "nhttpd",
+            "vulnerabilityName": "Nostromo nhttpd Directory Traversal Vulnerability",
+            "dateAdded": "2024-11-07",
+            "shortDescription": "Nostromo nhttpd contains a directory traversal vulnerability in the http_verify() function in a non-chrooted nhttpd server allowing for remote code execution.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-11-28",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.nazgul.ch\/dev\/nostromo_cl.txt ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2019-16278",
+            "cwes": [
+                "CWE-22"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-51567",
+            "vendorProject": "CyberPersons",
+            "product": "CyberPanel",
+            "vulnerabilityName": "CyberPanel Incorrect Default Permissions Vulnerability",
+            "dateAdded": "2024-11-07",
+            "shortDescription": "CyberPanel contains an incorrect default permissions vulnerability that allows a remote, unauthenticated attacker to execute commands as root.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-11-28",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/cyberpanel.net\/blog\/detials-and-fix-of-recent-security-issue-and-patch-of-cyberpanel ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-51567",
+            "cwes": [
+                "CWE-276"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-43093",
+            "vendorProject": "Android",
+            "product": "Framework",
+            "vulnerabilityName": "Android Framework Privilege Escalation Vulnerability",
+            "dateAdded": "2024-11-07",
+            "shortDescription": "Android Framework contains an unspecified vulnerability that allows for privilege escalation.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-11-28",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/source.android.com\/docs\/security\/bulletin\/2024-11-01 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-43093",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-5910",
+            "vendorProject": "Palo Alto Networks",
+            "product": "Expedition",
+            "vulnerabilityName": "Palo Alto Networks Expedition Missing Authentication Vulnerability",
+            "dateAdded": "2024-11-07",
+            "shortDescription": "Palo Alto Networks Expedition contains a missing authentication vulnerability that allows an attacker with network access to takeover an Expedition admin account and potentially access configuration secrets, credentials, and other data.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-11-28",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/security.paloaltonetworks.com\/CVE-2024-5910 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-5910",
+            "cwes": [
+                "CWE-306"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-8956",
+            "vendorProject": "PTZOptics",
+            "product": "PT30X-SDI\/NDI Cameras",
+            "vulnerabilityName": "PTZOptics PT30X-SDI\/NDI Cameras Authentication Bypass Vulnerability",
+            "dateAdded": "2024-11-04",
+            "shortDescription": "PTZOptics PT30X-SDI\/NDI cameras contain an insecure direct object reference (IDOR) vulnerability that allows a remote, attacker to bypass authentication for the \/cgi-bin\/param.cgi CGI script. If combined with CVE-2024-8957, this can lead to remote code execution as root.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-11-25",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/ptzoptics.com\/firmware-changelog\/ ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-8956",
+            "cwes": [
+                "CWE-287"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-8957",
+            "vendorProject": "PTZOptics",
+            "product": "PT30X-SDI\/NDI Cameras",
+            "vulnerabilityName": "PTZOptics PT30X-SDI\/NDI Cameras OS Command Injection Vulnerability",
+            "dateAdded": "2024-11-04",
+            "shortDescription": "PTZOptics PT30X-SDI\/NDI cameras contain an OS command injection vulnerability that allows a remote, authenticated attacker to escalate privileges to root via a crafted payload with the ntp_addr parameter of the \/cgi-bin\/param.cgi CGI script. ",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-11-25",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/ptzoptics.com\/firmware-changelog\/ ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-8957",
+            "cwes": [
+                "CWE-78"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-37383",
+            "vendorProject": "Roundcube",
+            "product": "Webmail",
+            "vulnerabilityName": "RoundCube Webmail Cross-Site Scripting (XSS) Vulnerability",
+            "dateAdded": "2024-10-24",
+            "shortDescription": "RoundCube Webmail contains a cross-site scripting (XSS) vulnerability in the handling of SVG animate attributes that allows a remote attacker to run malicious JavaScript code.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-11-14",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/github.com\/roundcube\/roundcubemail\/releases\/tag\/1.5.7, https:\/\/github.com\/roundcube\/roundcubemail\/releases\/tag\/1.6.7 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-37383",
+            "cwes": [
+                "CWE-79"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-20481",
+            "vendorProject": "Cisco",
+            "product": "Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD)",
+            "vulnerabilityName": "Cisco ASA and FTD Denial-of-Service Vulnerability",
+            "dateAdded": "2024-10-24",
+            "shortDescription": "Cisco Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD) contain a missing release of resource after effective lifetime vulnerability that could allow an unauthenticated, remote attacker to cause a denial-of-service (DoS) of the RAVPN service.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-11-14",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/sec.cloudapps.cisco.com\/security\/center\/content\/CiscoSecurityAdvisory\/cisco-sa-asaftd-bf-dos-vDZhLqrW ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-20481",
+            "cwes": [
+                "CWE-772"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-47575",
+            "vendorProject": "Fortinet",
+            "product": "FortiManager",
+            "vulnerabilityName": "Fortinet FortiManager Missing Authentication Vulnerability",
+            "dateAdded": "2024-10-23",
+            "shortDescription": "Fortinet FortiManager contains a missing authentication vulnerability in the fgfmd daemon that allows a remote, unauthenticated attacker to execute arbitrary code or commands via specially crafted requests.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-11-13",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/fortiguard.fortinet.com\/psirt\/FG-IR-24-423 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-47575",
+            "cwes": [
+                "CWE-306"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-38094",
+            "vendorProject": "Microsoft",
+            "product": "SharePoint",
+            "vulnerabilityName": "Microsoft SharePoint Deserialization Vulnerability",
+            "dateAdded": "2024-10-22",
+            "shortDescription": "Microsoft SharePoint contains a deserialization vulnerability that allows for remote code execution.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-11-12",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-38094 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-38094",
+            "cwes": [
+                "CWE-502"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-9537",
+            "vendorProject": "ScienceLogic",
+            "product": "SL1",
+            "vulnerabilityName": "ScienceLogic SL1 Unspecified Vulnerability",
+            "dateAdded": "2024-10-21",
+            "shortDescription": "ScienceLogic SL1 (formerly EM7) is affected by an unspecified vulnerability involving an unspecified third-party component.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-11-11",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/support.sciencelogic.com\/s\/article\/15527 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-9537",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-40711",
+            "vendorProject": "Veeam",
+            "product": "Backup & Replication",
+            "vulnerabilityName": "Veeam Backup and Replication Deserialization Vulnerability",
+            "dateAdded": "2024-10-17",
+            "shortDescription": "Veeam Backup and Replication contains a deserialization vulnerability allowing an unauthenticated user to perform remote code execution.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-11-07",
+            "knownRansomwareCampaignUse": "Known",
+            "notes": "https:\/\/www.veeam.com\/kb4649 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-40711",
+            "cwes": [
+                "CWE-502"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-28987",
+            "vendorProject": "SolarWinds",
+            "product": "Web Help Desk",
+            "vulnerabilityName": "SolarWinds Web Help Desk Hardcoded Credential Vulnerability",
+            "dateAdded": "2024-10-15",
+            "shortDescription": "SolarWinds Web Help Desk contains a hardcoded credential vulnerability that could allow a remote, unauthenticated user to access internal functionality and modify data.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-11-05",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.solarwinds.com\/trust-center\/security-advisories\/cve-2024-28987 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-28987",
+            "cwes": [
+                "CWE-798"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-9680",
+            "vendorProject": "Mozilla",
+            "product": "Firefox",
+            "vulnerabilityName": "Mozilla Firefox Use-After-Free Vulnerability",
+            "dateAdded": "2024-10-15",
+            "shortDescription": "Mozilla Firefox and Firefox ESR contain a use-after-free vulnerability in Animation timelines that allows for code execution in the content process.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-11-05",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.mozilla.org\/en-US\/security\/advisories\/mfsa2024-51\/ ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-9680",
+            "cwes": [
+                "CWE-416"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-30088",
+            "vendorProject": "Microsoft",
+            "product": "Windows ",
+            "vulnerabilityName": "Microsoft Windows Kernel TOCTOU Race Condition Vulnerability",
+            "dateAdded": "2024-10-15",
+            "shortDescription": "Microsoft Windows Kernel contains a time-of-check to time-of-use (TOCTOU) race condition vulnerability that could allow for privilege escalation. ",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-11-05",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2024-30088 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-30088",
+            "cwes": [
+                "CWE-367"
+            ]
+        },
         {
             "cveID": "CVE-2024-9380",
             "vendorProject": "Ivanti",
@@ -60,7 +518,9 @@
             "dueDate": "2024-10-29",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-43573 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-43573",
-            "cwes": []
+            "cwes": [
+                "CWE-79"
+            ]
         },
         {
             "cveID": "CVE-2024-43572",
@@ -73,7 +533,9 @@
             "dueDate": "2024-10-29",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/msrc.microsoft.com\/update-guide\/advisory\/CVE-2024-43572 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-43572",
-            "cwes": []
+            "cwes": [
+                "CWE-707"
+            ]
         },
         {
             "cveID": "CVE-2024-43047",
@@ -101,7 +563,9 @@
             "dueDate": "2024-10-24",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/wiki.zimbra.com\/wiki\/Zimbra_Security_Advisories ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-45519",
-            "cwes": []
+            "cwes": [
+                "CWE-284"
+            ]
         },
         {
             "cveID": "CVE-2024-29824",
@@ -131,21 +595,6 @@
             "notes": "https:\/\/web.archive.org\/web\/20191214053020\/https:\/\/wiki.scn.sap.com\/wiki\/pages\/viewpage.action?pageId=523998017 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2019-0344",
             "cwes": [
                 "CWE-502"
-            ]
-        },
-        {
-            "cveID": "CVE-2021-4043",
-            "vendorProject": "Motion Spell",
-            "product": "GPAC",
-            "vulnerabilityName": "Motion Spell GPAC Null Pointer Dereference Vulnerability",
-            "dateAdded": "2024-09-30",
-            "shortDescription": "Motion Spell GPAC contains a null pointer dereference vulnerability that could allow a local attacker to cause a denial-of-service (DoS) condition.",
-            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
-            "dueDate": "2024-10-21",
-            "knownRansomwareCampaignUse": "Unknown",
-            "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. For more information, please see: https:\/\/github.com\/gpac\/gpac\/commit\/64a2e1b799352ac7d7aad1989bc06e7b0f2b01db ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-4043",
-            "cwes": [
-                "CWE-476"
             ]
         },
         {
@@ -233,7 +682,9 @@
             "dueDate": "2024-10-09",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/www.oracle.com\/security-alerts\/cpuapr2022.html  ;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-21445",
-            "cwes": []
+            "cwes": [
+                "CWE-502"
+            ]
         },
         {
             "cveID": "CVE-2020-0618",
@@ -246,7 +697,9 @@
             "dueDate": "2024-10-09",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/advisory\/CVE-2020-0618  ;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2020-0618",
-            "cwes": []
+            "cwes": [
+                "CWE-502"
+            ]
         },
         {
             "cveID": "CVE-2024-27348",
@@ -1632,7 +2085,7 @@
             "shortDescription": "Microsoft Windows Kernel contains an exposed IOCTL with insufficient access control vulnerability within the IOCTL (input and output control) dispatcher in appid.sys that allows a local attacker to achieve privilege escalation.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-03-25",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-21338; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-21338",
             "cwes": [
                 "CWE-822"
@@ -2035,7 +2488,7 @@
             "shortDescription": "Adobe ColdFusion contains a deserialization of untrusted data vulnerability that allows for code execution.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-01-29",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/helpx.adobe.com\/security\/products\/coldfusion\/apsb23-40.html; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-29300",
             "cwes": [
                 "CWE-502"
@@ -2050,7 +2503,7 @@
             "shortDescription": "Adobe ColdFusion contains a deserialization of untrusted data vulnerability that allows for code execution.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-01-29",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/helpx.adobe.com\/security\/products\/coldfusion\/apsb23-41.html ;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-38203",
             "cwes": [
                 "CWE-502"
@@ -2535,7 +2988,7 @@
             "shortDescription": "F5 BIG-IP Configuration utility contains an authentication bypass using an alternate path or channel vulnerability due to undisclosed requests that may allow an unauthenticated attacker with network access to the BIG-IP system through the management port and\/or self IP addresses to execute system commands. This vulnerability can be used in conjunction with CVE-2023-46748.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2023-11-21",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/my.f5.com\/manage\/s\/article\/K000137353;   https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-46747",
             "cwes": [
                 "CWE-288"
@@ -3699,7 +4152,7 @@
             "shortDescription": "Fortinet FortiOS and FortiProxy SSL-VPN contain a heap-based buffer overflow vulnerability which can allow an unauthenticated, remote attacker to execute code or commands via specifically crafted requests.",
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-07-04",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/www.fortiguard.com\/psirt\/FG-IR-23-097;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-27997",
             "cwes": [
                 "CWE-122"
