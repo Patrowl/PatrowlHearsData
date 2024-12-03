@@ -1,9 +1,54 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.12.02",
-    "dateReleased": "2024-12-02T14:18:22.1756Z",
-    "count": 1223,
+    "catalogVersion": "2024.12.03",
+    "dateReleased": "2024-12-03T15:00:56.816Z",
+    "count": 1226,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2024-11667",
+            "vendorProject": "Zyxel",
+            "product": "Multiple Firewalls",
+            "vulnerabilityName": "Zyxel Multiple Firewalls Path Traversal Vulnerability",
+            "dateAdded": "2024-12-03",
+            "shortDescription": "Multiple Zyxel firewalls contain a path traversal vulnerability in the web management interface that could allow an attacker to download or upload files via a crafted URL.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-12-24",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.zyxel.com\/global\/en\/support\/security-advisories\/zyxel-security-advisory-protecting-against-recent-firewall-threats-11-21-2024 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-11667",
+            "cwes": [
+                "CWE-22"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-11680",
+            "vendorProject": "ProjectSend",
+            "product": "ProjectSend",
+            "vulnerabilityName": "ProjectSend Improper Authentication Vulnerability",
+            "dateAdded": "2024-12-03",
+            "shortDescription": "ProjectSend contains an improper authentication vulnerability that allows a remote, unauthenticated attacker to enable unauthorized modification of the application's configuration via crafted HTTP requests to options.php. Successful exploitation allows attackers to create accounts, upload webshells, and embed malicious JavaScript.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-12-24",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/github.com\/projectsend\/projectsend\/commit\/193367d937b1a59ed5b68dd4e60bd53317473744 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-11680",
+            "cwes": [
+                "CWE-287"
+            ]
+        },
+        {
+            "cveID": "CVE-2023-45727",
+            "vendorProject": "North Grid",
+            "product": "Proself",
+            "vulnerabilityName": "North Grid Proself Improper Restriction of XML External Entity (XEE) Reference Vulnerability",
+            "dateAdded": "2024-12-03",
+            "shortDescription": "North Grid Proself Enterprise\/Standard, Gateway, and Mail Sanitize contain an improper restriction of XML External Entity (XXE) reference vulnerability, which could allow a remote, unauthenticated attacker to conduct an XXE attack.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-12-24",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.proself.jp\/information\/153\/ ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-45727",
+            "cwes": [
+                "CWE-611"
+            ]
+        },
         {
             "cveID": "CVE-2023-28461",
             "vendorProject": "Array Networks ",
