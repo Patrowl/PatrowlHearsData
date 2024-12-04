@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2024.12.04",
-    "dateReleased": "2024-12-04T16:04:28.3941Z",
+    "dateReleased": "2024-12-04T17:12:50.5311Z",
     "count": 1227,
     "vulnerabilities": [
         {
@@ -28,7 +28,7 @@
             "shortDescription": "Multiple Zyxel firewalls contain a path traversal vulnerability in the web management interface that could allow an attacker to download or upload files via a crafted URL.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-12-24",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/www.zyxel.com\/global\/en\/support\/security-advisories\/zyxel-security-advisory-protecting-against-recent-firewall-threats-11-21-2024 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-11667",
             "cwes": [
                 "CWE-22"
