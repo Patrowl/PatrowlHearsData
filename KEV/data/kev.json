@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2024.12.04",
-    "dateReleased": "2024-12-04T15:01:25.3736Z",
+    "dateReleased": "2024-12-04T16:04:28.3941Z",
     "count": 1227,
     "vulnerabilities": [
         {
@@ -13,7 +13,7 @@
             "shortDescription": "CyberPanel contains an incorrect default permissions vulnerability that allows for authentication bypass and the execution of arbitrary commands using shell metacharacters in the statusfile property.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-12-25",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/cyberpanel.net\/KnowledgeBase\/home\/change-logs\/ ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-51378",
             "cwes": [
                 "CWE-276"
