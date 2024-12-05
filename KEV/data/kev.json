@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.12.04",
-    "dateReleased": "2024-12-04T17:12:50.5311Z",
+    "catalogVersion": "2024.12.05",
+    "dateReleased": "2024-12-05T16:38:31.1946Z",
     "count": 1227,
     "vulnerabilities": [
         {
@@ -53,7 +53,7 @@
             "cveID": "CVE-2023-45727",
             "vendorProject": "North Grid",
             "product": "Proself",
-            "vulnerabilityName": "North Grid Proself Improper Restriction of XML External Entity (XEE) Reference Vulnerability",
+            "vulnerabilityName": "North Grid Proself Improper Restriction of XML External Entity (XXE) Reference Vulnerability",
             "dateAdded": "2024-12-03",
             "shortDescription": "North Grid Proself Enterprise\/Standard, Gateway, and Mail Sanitize contain an improper restriction of XML External Entity (XXE) reference vulnerability, which could allow a remote, unauthenticated attacker to conduct an XXE attack.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
