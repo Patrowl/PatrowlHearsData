@@ -19,13 +19,13 @@ root = ET.fromstring(xmlfile.read())
 cwes = []
 
 print("[+] Downloading latest CWE references")
-for w in root.find('{http://cwe.mitre.org/cwe-6}Weaknesses'):
+for w in root.find('{http://cwe.mitre.org/cwe-7}Weaknesses'):
     desc = ""
-    if w.find('{http://cwe.mitre.org/cwe-6}Description') is not None:
-        desc += re.sub(' +', ' ', w.find('{http://cwe.mitre.org/cwe-6}Description').text.strip().replace('\t', ' ').replace('\n', ' '))
-    if w.find('{http://cwe.mitre.org/cwe-6}Extended_Description') is not None and w.find('{http://cwe.mitre.org/cwe-6}Extended_Description').text is not None:
+    if w.find('{http://cwe.mitre.org/cwe-7}Description') is not None:
+        desc += re.sub(' +', ' ', w.find('{http://cwe.mitre.org/cwe-7}Description').text.strip().replace('\t', ' ').replace('\n', ' '))
+    if w.find('{http://cwe.mitre.org/cwe-7}Extended_Description') is not None and w.find('{http://cwe.mitre.org/cwe-7}Extended_Description').text is not None:
         desc += " "
-        desc += re.sub(' +', ' ', w.find('{http://cwe.mitre.org/cwe-6}Extended_Description').text.strip().replace('\t', ' ').replace('\n', ' '))
+        desc += re.sub(' +', ' ', w.find('{http://cwe.mitre.org/cwe-7}Extended_Description').text.strip().replace('\t', ' ').replace('\n', ' '))
 
     cwe = {
         'id': w.attrib['ID'],
