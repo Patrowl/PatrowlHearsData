@@ -1,9 +1,69 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.12.17",
-    "dateReleased": "2024-12-17T15:01:47.8969Z",
-    "count": 1232,
+    "catalogVersion": "2024.12.18",
+    "dateReleased": "2024-12-18T15:00:50.713Z",
+    "count": 1236,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2021-40407",
+            "vendorProject": "Reolink",
+            "product": "RLC-410W IP Camera",
+            "vulnerabilityName": "Reolink RLC-410W IP Camera OS Command Injection Vulnerability ",
+            "dateAdded": "2024-12-18",
+            "shortDescription": "Reolink RLC-410W IP cameras contain an authenticated OS command injection vulnerability in the device network settings functionality.",
+            "requiredAction": "The impacted product could be end-of-life (EoL) and\/or end-of-service (EoS). Users should discontinue product utilization if a current mitigation is unavailable.",
+            "dueDate": "2025-01-08",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/reolink.com\/product-eol\/ ; https:\/\/reolink.com\/download-center\/ ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-40407",
+            "cwes": [
+                "CWE-78"
+            ]
+        },
+        {
+            "cveID": "CVE-2019-11001",
+            "vendorProject": "Reolink",
+            "product": "Multiple IP Cameras",
+            "vulnerabilityName": "Reolink Multiple IP Cameras OS Command Injection Vulnerability",
+            "dateAdded": "2024-12-18",
+            "shortDescription": "Reolink RLC-410W, C1 Pro, C2 Pro, RLC-422W, and RLC-511W IP cameras contain an authenticated OS command injection vulnerability. This vulnerability allows an authenticated admin to use the \"TestEmail\" functionality to inject and run OS commands as root.",
+            "requiredAction": "The impacted product could be end-of-life (EoL) and\/or end-of-service (EoS). Users should discontinue product utilization if a current mitigation is unavailable.",
+            "dueDate": "2025-01-08",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/reolink.com\/product-eol\/ ; https:\/\/reolink.com\/download-center\/ ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2019-11001",
+            "cwes": [
+                "CWE-78"
+            ]
+        },
+        {
+            "cveID": "CVE-2022-23227",
+            "vendorProject": "NUUO",
+            "product": "NVRmini2 Devices",
+            "vulnerabilityName": "NUUO NVRmini 2 Devices Missing Authentication Vulnerability ",
+            "dateAdded": "2024-12-18",
+            "shortDescription": "NUUO NVRmini 2 devices contain a missing authentication vulnerability that allows an unauthenticated attacker to upload an encrypted TAR archive, which can be abused to add arbitrary users. ",
+            "requiredAction": "The impacted product is end-of-life (EoL) and\/or end-of-service (EoS). Users should discontinue utilization of the product.",
+            "dueDate": "2025-01-08",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/nuuo.com\/wp-content\/uploads\/2023\/03\/NUUO-EOL-letter\uff3fNVRmini-2-and-NVRsolo-series.pdf ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-23227",
+            "cwes": [
+                "CWE-306"
+            ]
+        },
+        {
+            "cveID": "CVE-2018-14933",
+            "vendorProject": "NUUO",
+            "product": "NVRmini Devices",
+            "vulnerabilityName": "NUUO NVRmini Devices OS Command Injection Vulnerability ",
+            "dateAdded": "2024-12-18",
+            "shortDescription": "NUUO NVRmini devices contain an OS command injection vulnerability. This vulnerability allows remote command execution via shell metacharacters in the uploaddir parameter for a writeuploaddir command.",
+            "requiredAction": "The impacted product is end-of-life (EoL) and\/or end-of-service (EoS). Users should discontinue utilization of the product.",
+            "dueDate": "2025-01-08",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/nuuo.com\/wp-content\/uploads\/2023\/03\/NUUO-EOL-letter\uff3fNVRmini-2-and-NVRsolo-series.pdf ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2018-14933",
+            "cwes": [
+                "CWE-78"
+            ]
+        },
         {
             "cveID": "CVE-2024-55956",
             "vendorProject": "Cleo",
