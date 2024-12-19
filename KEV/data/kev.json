@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2024.12.19",
-    "dateReleased": "2024-12-19T18:01:58.7681Z",
+    "dateReleased": "2024-12-19T20:30:05.2063Z",
     "count": 1237,
     "vulnerabilities": [
         {
@@ -74,7 +74,7 @@
             "requiredAction": "The impacted product is end-of-life (EoL) and\/or end-of-service (EoS). Users should discontinue utilization of the product.",
             "dueDate": "2025-01-08",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/nuuo.com\/wp-content\/uploads\/2023\/03\/NUUO-EOL-letter\uff3fNVRmini-2-and-NVRsolo-series.pdf ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2018-14933",
+            "notes": "https:\/\/nuuo.com\/wp-content\/uploads\/2023\/03\/NUUO-EOL-letter%EF%BC%BFNVRmini-2-and-NVRsolo-series.pdf ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2018-14933",
             "cwes": [
                 "CWE-78"
             ]
