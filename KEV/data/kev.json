@@ -1,9 +1,24 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.12.18",
-    "dateReleased": "2024-12-18T17:28:24.7207Z",
-    "count": 1236,
+    "catalogVersion": "2024.12.19",
+    "dateReleased": "2024-12-19T18:01:58.7681Z",
+    "count": 1237,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2024-12356",
+            "vendorProject": "BeyondTrust",
+            "product": "Privileged Remote Access (PRA) and Remote Support (RS) ",
+            "vulnerabilityName": "BeyondTrust Privileged Remote Access (PRA) and Remote Support (RS) Command Injection Vulnerability ",
+            "dateAdded": "2024-12-19",
+            "shortDescription": "BeyondTrust Privileged Remote Access (PRA) and Remote Support (RS) contain a command injection vulnerability, which can allow an unauthenticated attacker to inject commands that are run as a site user. ",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2024-12-27",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.beyondtrust.com\/trust-center\/security-advisories\/bt24-10 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-12356",
+            "cwes": [
+                "CWE-77"
+            ]
+        },
         {
             "cveID": "CVE-2021-40407",
             "vendorProject": "Reolink",
