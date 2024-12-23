@@ -1,9 +1,24 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.12.19",
-    "dateReleased": "2024-12-19T20:30:05.2063Z",
-    "count": 1237,
+    "catalogVersion": "2024.12.23",
+    "dateReleased": "2024-12-23T14:59:07.8457Z",
+    "count": 1238,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2021-44207",
+            "vendorProject": "Acclaim Systems",
+            "product": "USAHERDS",
+            "vulnerabilityName": "Acclaim Systems USAHERDS Use of Hard-Coded Credentials Vulnerability ",
+            "dateAdded": "2024-12-23",
+            "shortDescription": "Acclaim Systems USAHERDS contains a hard-coded credentials vulnerability that could allow an attacker to achieve remote code execution on the system that runs the application. The MachineKey must be obtained via a separate vulnerability or other channel.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable. Please contact the product developer for support and vulnerability mitigation.",
+            "dueDate": "2025-01-13",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.acclaimsystems.com\/#contact ; https:\/\/www.tnatc.org\/#contact ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-44207",
+            "cwes": [
+                "CWE-798"
+            ]
+        },
         {
             "cveID": "CVE-2024-12356",
             "vendorProject": "BeyondTrust",
