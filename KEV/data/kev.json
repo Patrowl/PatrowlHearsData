@@ -1,9 +1,24 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.12.23",
-    "dateReleased": "2024-12-23T14:59:07.8457Z",
-    "count": 1238,
+    "catalogVersion": "2024.12.30",
+    "dateReleased": "2024-12-30T15:01:44.4476Z",
+    "count": 1239,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2024-3393",
+            "vendorProject": "Palo Alto Networks",
+            "product": "PAN-OS",
+            "vulnerabilityName": "Palo Alto Networks PAN-OS Malformed DNS Packet Vulnerability",
+            "dateAdded": "2024-12-30",
+            "shortDescription": "Palo Alto Networks PAN-OS contains a vulnerability in parsing and logging malformed DNS packets in the DNS Security feature that, when exploited, allows an unauthenticated attacker to remotely reboot the firewall. Repeated attempts to trigger this condition will cause the firewall to enter maintenance mode.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-01-20",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/security.paloaltonetworks.com\/CVE-2024-3393 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-3393",
+            "cwes": [
+                "CWE-754"
+            ]
+        },
         {
             "cveID": "CVE-2021-44207",
             "vendorProject": "Acclaim Systems",
