@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.12.30",
-    "dateReleased": "2024-12-30T15:01:44.4476Z",
+    "catalogVersion": "2025.01.02",
+    "dateReleased": "2025-01-02T14:21:28.9506Z",
     "count": 1239,
     "vulnerabilities": [
         {
@@ -83,9 +83,9 @@
             "cveID": "CVE-2022-23227",
             "vendorProject": "NUUO",
             "product": "NVRmini2 Devices",
-            "vulnerabilityName": "NUUO NVRmini 2 Devices Missing Authentication Vulnerability ",
+            "vulnerabilityName": "NUUO NVRmini2 Devices Missing Authentication Vulnerability ",
             "dateAdded": "2024-12-18",
-            "shortDescription": "NUUO NVRmini 2 devices contain a missing authentication vulnerability that allows an unauthenticated attacker to upload an encrypted TAR archive, which can be abused to add arbitrary users. ",
+            "shortDescription": "NUUO NVRmini2 devices contain a missing authentication vulnerability that allows an unauthenticated attacker to upload an encrypted TAR archive, which can be abused to add arbitrary users. ",
             "requiredAction": "The impacted product is end-of-life (EoL) and\/or end-of-service (EoS). Users should discontinue utilization of the product.",
             "dueDate": "2025-01-08",
             "knownRansomwareCampaignUse": "Unknown",
