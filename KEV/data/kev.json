@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2025.01.08",
-    "dateReleased": "2025-01-08T22:40:21.5601Z",
+    "dateReleased": "2025-01-08T23:14:48.1212Z",
     "count": 1243,
     "vulnerabilities": [
         {
@@ -14,7 +14,7 @@
             "requiredAction": "Apply mitigations as set forth in the CISA instructions linked below to include conducting hunt activities, taking remediation actions if applicable, and applying updates prior to returning a device to service.",
             "dueDate": "2025-01-15",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/www.cisa.gov\/cisa-mitigation-instructions-CVE-2025-0282 ; https:\/\/forums.ivanti.com\/s\/article\/Security-Advisory-Ivanti-Connect-Secure-Policy-Secure-ZTA-Gateways-CVE-2025-0282-CVE-2025-0283 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-0282",
+            "notes": "CISA Mitigation Instructions: https:\/\/www.cisa.gov\/cisa-mitigation-instructions-CVE-2025-0282 Additional References: https:\/\/forums.ivanti.com\/s\/article\/Security-Advisory-Ivanti-Connect-Secure-Policy-Secure-ZTA-Gateways-CVE-2025-0282-CVE-2025-0283 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-0282",
             "cwes": [
                 "CWE-121"
             ]
