@@ -1,9 +1,39 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.01.08",
-    "dateReleased": "2025-01-08T23:14:48.1212Z",
-    "count": 1243,
+    "catalogVersion": "2025.01.13",
+    "dateReleased": "2025-01-13T15:00:21.3648Z",
+    "count": 1245,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2023-48365",
+            "vendorProject": "Qlik",
+            "product": "Sense",
+            "vulnerabilityName": "Qlik Sense HTTP Tunneling Vulnerability",
+            "dateAdded": "2025-01-13",
+            "shortDescription": "Qlik Sense contains an HTTP tunneling vulnerability that allows an attacker to escalate privileges and execute HTTP requests on the backend server hosting the software.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-02-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/community.qlik.com\/t5\/Official-Support-Articles\/Critical-Security-fixes-for-Qlik-Sense-Enterprise-for-Windows\/tac-p\/2120510 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-48365",
+            "cwes": [
+                "CWE-444"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-12686",
+            "vendorProject": "BeyondTrust",
+            "product": "Privileged Remote Access (PRA) and Remote Support (RS)",
+            "vulnerabilityName": "BeyondTrust Privileged Remote Access (PRA) and Remote Support (RS) OS Command Injection Vulnerability",
+            "dateAdded": "2025-01-13",
+            "shortDescription": "BeyondTrust Privileged Remote Access (PRA) and Remote Support (RS) contain an OS command injection vulnerability that can be exploited by an attacker with existing administrative privileges to upload a malicious file. Successful exploitation of this vulnerability can allow a remote attacker to execute underlying operating system commands within the context of the site user.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-02-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.beyondtrust.com\/trust-center\/security-advisories\/bt24-11 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-12686",
+            "cwes": [
+                "CWE-78"
+            ]
+        },
         {
             "cveID": "CVE-2025-0282",
             "vendorProject": "Ivanti",
