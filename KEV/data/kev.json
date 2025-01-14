@@ -1,9 +1,69 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.01.13",
-    "dateReleased": "2025-01-13T15:00:21.3648Z",
-    "count": 1245,
+    "catalogVersion": "2025.01.14",
+    "dateReleased": "2025-01-14T19:09:06.4021Z",
+    "count": 1249,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-21335",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Hyper-V NT Kernel Integration VSP Use-After-Free Vulnerability",
+            "dateAdded": "2025-01-14",
+            "shortDescription": "Microsoft Windows Hyper-V NT Kernel Integration VSP contains a use-after-free vulnerability that allows a local attacker to gain SYSTEM privileges.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-02-04",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2025-21335 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-21335",
+            "cwes": [
+                "CWE-416"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-21334",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Hyper-V NT Kernel Integration VSP Use-After-Free Vulnerability",
+            "dateAdded": "2025-01-14",
+            "shortDescription": "Microsoft Windows Hyper-V NT Kernel Integration VSP contains a use-after-free vulnerability that allows a local attacker to gain SYSTEM privileges.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-02-04",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2025-21334 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-21334",
+            "cwes": [
+                "CWE-416"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-21333",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Hyper-V NT Kernel Integration VSP Heap-based Buffer Overflow Vulnerability",
+            "dateAdded": "2025-01-14",
+            "shortDescription": "Microsoft Windows Hyper-V NT Kernel Integration VSP contains a heap-based buffer overflow vulnerability that allows a local attacker to gain SYSTEM privileges.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-02-04",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2025-21333 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-21333",
+            "cwes": [
+                "CWE-122"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-55591",
+            "vendorProject": "Fortinet",
+            "product": "FortiOS",
+            "vulnerabilityName": "Fortinet FortiOS Authorization Bypass Vulnerability",
+            "dateAdded": "2025-01-14",
+            "shortDescription": "Fortinet FortiOS contains an authorization bypass vulnerability that may allow an unauthenticated remote attacker to gain super-admin privileges via crafted requests to Node.js websocket module.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-01-21",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/fortiguard.fortinet.com\/psirt\/FG-IR-24-535 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-55591",
+            "cwes": [
+                "CWE-288"
+            ]
+        },
         {
             "cveID": "CVE-2023-48365",
             "vendorProject": "Qlik",
