@@ -1,9 +1,187 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2024.12.23",
-    "dateReleased": "2024-12-23T14:59:07.8457Z",
-    "count": 1238,
+    "catalogVersion": "2025.01.16",
+    "dateReleased": "2025-01-16T15:00:56.7822Z",
+    "count": 1250,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2024-50603",
+            "vendorProject": "Aviatrix",
+            "product": "Controllers",
+            "vulnerabilityName": "Aviatrix Controllers OS Command Injection Vulnerability",
+            "dateAdded": "2025-01-16",
+            "shortDescription": "Aviatrix Controllers contain an OS command injection vulnerability that could allow an unauthenticated attacker to execute arbitrary code. Shell metacharacters can be sent to \/v1\/api in cloud_type for list_flightpath_destination_instances, or src_cloud_type for flightpath_connection_test.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-02-06",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/docs.aviatrix.com\/documentation\/latest\/release-notices\/psirt-advisories\/psirt-advisories.html?expand=true ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-50603",
+            "cwes": [
+                "CWE-78"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-21335",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Hyper-V NT Kernel Integration VSP Use-After-Free Vulnerability",
+            "dateAdded": "2025-01-14",
+            "shortDescription": "Microsoft Windows Hyper-V NT Kernel Integration VSP contains a use-after-free vulnerability that allows a local attacker to gain SYSTEM privileges.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-02-04",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2025-21335 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-21335",
+            "cwes": [
+                "CWE-416"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-21334",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Hyper-V NT Kernel Integration VSP Use-After-Free Vulnerability",
+            "dateAdded": "2025-01-14",
+            "shortDescription": "Microsoft Windows Hyper-V NT Kernel Integration VSP contains a use-after-free vulnerability that allows a local attacker to gain SYSTEM privileges.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-02-04",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2025-21334 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-21334",
+            "cwes": [
+                "CWE-416"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-21333",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Hyper-V NT Kernel Integration VSP Heap-based Buffer Overflow Vulnerability",
+            "dateAdded": "2025-01-14",
+            "shortDescription": "Microsoft Windows Hyper-V NT Kernel Integration VSP contains a heap-based buffer overflow vulnerability that allows a local attacker to gain SYSTEM privileges.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-02-04",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2025-21333 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-21333",
+            "cwes": [
+                "CWE-122"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-55591",
+            "vendorProject": "Fortinet",
+            "product": "FortiOS",
+            "vulnerabilityName": "Fortinet FortiOS Authorization Bypass Vulnerability",
+            "dateAdded": "2025-01-14",
+            "shortDescription": "Fortinet FortiOS contains an authorization bypass vulnerability that may allow an unauthenticated remote attacker to gain super-admin privileges via crafted requests to Node.js websocket module.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-01-21",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/fortiguard.fortinet.com\/psirt\/FG-IR-24-535 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-55591",
+            "cwes": [
+                "CWE-288"
+            ]
+        },
+        {
+            "cveID": "CVE-2023-48365",
+            "vendorProject": "Qlik",
+            "product": "Sense",
+            "vulnerabilityName": "Qlik Sense HTTP Tunneling Vulnerability",
+            "dateAdded": "2025-01-13",
+            "shortDescription": "Qlik Sense contains an HTTP tunneling vulnerability that allows an attacker to escalate privileges and execute HTTP requests on the backend server hosting the software.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-02-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/community.qlik.com\/t5\/Official-Support-Articles\/Critical-Security-fixes-for-Qlik-Sense-Enterprise-for-Windows\/tac-p\/2120510 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-48365",
+            "cwes": [
+                "CWE-444"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-12686",
+            "vendorProject": "BeyondTrust",
+            "product": "Privileged Remote Access (PRA) and Remote Support (RS)",
+            "vulnerabilityName": "BeyondTrust Privileged Remote Access (PRA) and Remote Support (RS) OS Command Injection Vulnerability",
+            "dateAdded": "2025-01-13",
+            "shortDescription": "BeyondTrust Privileged Remote Access (PRA) and Remote Support (RS) contain an OS command injection vulnerability that can be exploited by an attacker with existing administrative privileges to upload a malicious file. Successful exploitation of this vulnerability can allow a remote attacker to execute underlying operating system commands within the context of the site user.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-02-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.beyondtrust.com\/trust-center\/security-advisories\/bt24-11 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-12686",
+            "cwes": [
+                "CWE-78"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-0282",
+            "vendorProject": "Ivanti",
+            "product": "Connect Secure, Policy Secure, and ZTA Gateways",
+            "vulnerabilityName": "Ivanti Connect Secure, Policy Secure, and ZTA Gateways Stack-Based Buffer Overflow Vulnerability",
+            "dateAdded": "2025-01-08",
+            "shortDescription": "Ivanti Connect Secure, Policy Secure, and ZTA Gateways contain a stack-based buffer overflow which can lead to unauthenticated remote code execution.",
+            "requiredAction": "Apply mitigations as set forth in the CISA instructions linked below to include conducting hunt activities, taking remediation actions if applicable, and applying updates prior to returning a device to service.",
+            "dueDate": "2025-01-15",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "CISA Mitigation Instructions: https:\/\/www.cisa.gov\/cisa-mitigation-instructions-CVE-2025-0282 Additional References: https:\/\/forums.ivanti.com\/s\/article\/Security-Advisory-Ivanti-Connect-Secure-Policy-Secure-ZTA-Gateways-CVE-2025-0282-CVE-2025-0283 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-0282",
+            "cwes": [
+                "CWE-121"
+            ]
+        },
+        {
+            "cveID": "CVE-2020-2883",
+            "vendorProject": "Oracle",
+            "product": "WebLogic Server",
+            "vulnerabilityName": "Oracle WebLogic Server Unspecified Vulnerability",
+            "dateAdded": "2025-01-07",
+            "shortDescription": "Oracle WebLogic Server, a product within the Fusion Middleware suite, contains an unspecified vulnerability exploitable by an unauthenticated attacker with network access via IIOP or T3.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-01-28",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.oracle.com\/security-alerts\/cpuapr2020.html ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2020-2883",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2024-55550",
+            "vendorProject": "Mitel",
+            "product": "MiCollab",
+            "vulnerabilityName": "Mitel MiCollab Path Traversal Vulnerability",
+            "dateAdded": "2025-01-07",
+            "shortDescription": "Mitel MiCollab contains a path traversal vulnerability that could allow an authenticated attacker with administrative privileges to read local files within the system due to insufficient input sanitization. This vulnerability can be chained with CVE-2024-41713, which allows an unauthenticated, remote attacker to read arbitrary files on the server.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-01-28",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.mitel.com\/support\/security-advisories\/mitel-product-security-advisory-misa-2024-0029 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-55550",
+            "cwes": [
+                "CWE-22"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-41713",
+            "vendorProject": "Mitel",
+            "product": "MiCollab",
+            "vulnerabilityName": "Mitel MiCollab Path Traversal Vulnerability",
+            "dateAdded": "2025-01-07",
+            "shortDescription": "Mitel MiCollab contains a path traversal vulnerability that could allow an attacker to gain unauthorized and unauthenticated access. This vulnerability can be chained with CVE-2024-55550, which allows an unauthenticated, remote attacker to read arbitrary files on the server.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-01-28",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.mitel.com\/support\/security-advisories\/mitel-product-security-advisory-misa-2024-0029 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-41713 ",
+            "cwes": [
+                "CWE-22"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-3393",
+            "vendorProject": "Palo Alto Networks",
+            "product": "PAN-OS",
+            "vulnerabilityName": "Palo Alto Networks PAN-OS Malicious DNS Packet Vulnerability",
+            "dateAdded": "2024-12-30",
+            "shortDescription": "Palo Alto Networks PAN-OS contains a vulnerability in parsing and logging malicious DNS packets in the DNS Security feature that, when exploited, allows an unauthenticated attacker to remotely reboot the firewall. Repeated attempts to trigger this condition will cause the firewall to enter maintenance mode.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-01-20",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/security.paloaltonetworks.com\/CVE-2024-3393 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-3393",
+            "cwes": [
+                "CWE-754"
+            ]
+        },
         {
             "cveID": "CVE-2021-44207",
             "vendorProject": "Acclaim Systems",
@@ -68,9 +246,9 @@
             "cveID": "CVE-2022-23227",
             "vendorProject": "NUUO",
             "product": "NVRmini2 Devices",
-            "vulnerabilityName": "NUUO NVRmini 2 Devices Missing Authentication Vulnerability ",
+            "vulnerabilityName": "NUUO NVRmini2 Devices Missing Authentication Vulnerability ",
             "dateAdded": "2024-12-18",
-            "shortDescription": "NUUO NVRmini 2 devices contain a missing authentication vulnerability that allows an unauthenticated attacker to upload an encrypted TAR archive, which can be abused to add arbitrary users. ",
+            "shortDescription": "NUUO NVRmini2 devices contain a missing authentication vulnerability that allows an unauthenticated attacker to upload an encrypted TAR archive, which can be abused to add arbitrary users. ",
             "requiredAction": "The impacted product is end-of-life (EoL) and\/or end-of-service (EoS). Users should discontinue utilization of the product.",
             "dueDate": "2025-01-08",
             "knownRansomwareCampaignUse": "Unknown",
