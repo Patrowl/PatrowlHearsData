@@ -203,9 +203,17 @@ for cve_file in tqdm(cve_files):
     cve_id = probe(cve_dict, ["cveMetadata", "cveId"])
 
     try:
+        cve_published_date_raw = probe(cve_dict, ["cveMetadata", "datePublished"])
+        if cve_published_date_raw != "":
+            cve_published_date = parse(cve_published_date_raw).strftime("%Y-%m-%dT%H:%MZ")
+        
+        cve_last_modified_date_raw = probe(cve_dict, ["cveMetadata", "dateUpdated"])
+        if cve_last_modified_date_raw != "":
+            cve_last_modified_date = parse(cve_last_modified_date_raw).strftime("%Y-%m-%dT%H:%MZ")
+
         cve_content = {
-            "publishedDate": probe(cve_dict, ["cveMetadata", "datePublished"]),
-            "lastModifiedDate": probe(cve_dict, ["cveMetadata", "dateUpdated"]),
+            "publishedDate": cve_published_date,
+            "lastModifiedDate": cve_last_modified_date,
             "cve": {
                 "data_type": "CVE",
                 "data_format": "MITRE",
