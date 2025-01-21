@@ -8,7 +8,7 @@ from datetime import datetime, timedelta, timezone
 from dateutil.parser import parse
 from tqdm import tqdm
 BASEDIR = os.path.dirname(os.path.realpath(__file__))
-
+DAYS_BEFORE = int(os.environ.get("DAYS_BEFORE", 2))
 
 def probe(dictionary, path, default=""):
     value = default
@@ -104,18 +104,25 @@ def format_cpes(data):
     cpe_matches = []
 
     for affected_product in data:
+        
         if set(['vendor', 'product', 'versions']).issubset(affected_product.keys()):
             try:
+                # print(affected_product)
                 vendor = str(affected_product["vendor"]).lower()
                 product = str(affected_product["product"]).lower()
                 versions = []
                 for version in affected_product["versions"]:
                     if "lessThan" in version.keys():
                         versions.append(version["lessThan"])
+                    if "lessThanOrEqual" in version.keys():
+                        versions.append(version["lessThanOrEqual"])
                 
                 for version in versions:
                     cpes_list.append(f"cpe:2.3:a:{vendor}:{product}:{version}:*:*:*:*:*:*:*",)
-
+                
+                if "cpes" in affected_product.keys():
+                    cpes_list.extend(affected_product["cpes"])
+                cpes_list = list(set(cpes_list))
 
             except Exception as e:
                 print("Unable to format CPE. Missing keys on", affected_product)
@@ -159,11 +166,10 @@ git.Repo.clone_from(
 # Check if folders exists
 cve_files = []
 cves_dir = BASEDIR+"/tmp/cves/"
-last_check_date = datetime.now() - timedelta(days=2)
+last_check_date = datetime.now() - timedelta(days=DAYS_BEFORE)
 
 # Look for CVE candidates
 for year_dir in sorted(os.listdir(cves_dir)):
-
     if year_dir not in ["2025", "2024"]:
         continue
 
@@ -239,7 +245,6 @@ for cve_file in tqdm(cve_files):
         print(probe(cve_dict, ["cveMetadata", "cveId"]))
         print(e)
         continue
-        # break
 
     cve_year = cve_id.split('-')[1]
     if not os.path.exists(BASEDIR+'/data/'+cve_year):
