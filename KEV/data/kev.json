@@ -1,9 +1,54 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.01.16",
-    "dateReleased": "2025-01-16T15:00:56.7822Z",
-    "count": 1250,
+    "catalogVersion": "2025.01.29",
+    "dateReleased": "2025-01-29T17:02:51.9769Z",
+    "count": 1253,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-24085",
+            "vendorProject": "Apple",
+            "product": "Multiple Products",
+            "vulnerabilityName": "Apple Multiple Products Use-After-Free Vulnerability",
+            "dateAdded": "2025-01-29",
+            "shortDescription": "Apple iOS, macOS, and other Apple products contain a user-after-free vulnerability that could allow a malicious application to elevate privileges.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-02-19",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/support.apple.com\/en-us\/122066 ; https:\/\/support.apple.com\/en-us\/122068 ; https:\/\/support.apple.com\/en-us\/122071 ; https:\/\/support.apple.com\/en-us\/122072 ; https:\/\/support.apple.com\/en-us\/122073 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-24085",
+            "cwes": [
+                "CWE-416"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-23006",
+            "vendorProject": "SonicWall",
+            "product": "SMA1000 Appliances",
+            "vulnerabilityName": "SonicWall SMA1000 Appliances Deserialization Vulnerability",
+            "dateAdded": "2025-01-24",
+            "shortDescription": "SonicWall SMA1000 Appliance Management Console (AMC) and Central Management Console (CMC) contain a deserialization of untrusted data vulnerability, which can enable a remote, unauthenticated attacker to execute arbitrary OS commands.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-02-14",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/psirt.global.sonicwall.com\/vuln-detail\/SNWLID-2025-0002 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-23006",
+            "cwes": [
+                "CWE-502"
+            ]
+        },
+        {
+            "cveID": "CVE-2020-11023",
+            "vendorProject": "JQuery",
+            "product": "JQuery",
+            "vulnerabilityName": "JQuery Cross-Site Scripting (XSS) Vulnerability",
+            "dateAdded": "2025-01-23",
+            "shortDescription": "JQuery contains a persistent cross-site scripting (XSS) vulnerability. When passing maliciously formed, untrusted input enclosed in HTML tags, JQuery's DOM manipulators can execute untrusted code in the context of the user's browser.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-02-13",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/blog.jquery.com\/2020\/04\/10\/jquery-3-5-0-released\/ ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2020-11023",
+            "cwes": [
+                "CWE-79"
+            ]
+        },
         {
             "cveID": "CVE-2024-50603",
             "vendorProject": "Aviatrix",
@@ -67,10 +112,10 @@
         {
             "cveID": "CVE-2024-55591",
             "vendorProject": "Fortinet",
-            "product": "FortiOS",
-            "vulnerabilityName": "Fortinet FortiOS Authorization Bypass Vulnerability",
+            "product": "FortiOS and FortiProxy",
+            "vulnerabilityName": "Fortinet FortiOS and FortiProxy Authentication Bypass Vulnerability",
             "dateAdded": "2025-01-14",
-            "shortDescription": "Fortinet FortiOS contains an authorization bypass vulnerability that may allow an unauthenticated remote attacker to gain super-admin privileges via crafted requests to Node.js websocket module.",
+            "shortDescription": "Fortinet FortiOS and FortiProxy contain an authentication bypass vulnerability that may allow an unauthenticated, remote attacker to gain super-admin privileges via crafted requests to Node.js websocket module.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-01-21",
             "knownRansomwareCampaignUse": "Unknown",
