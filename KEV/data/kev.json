@@ -1,9 +1,67 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.01.29",
-    "dateReleased": "2025-01-29T17:02:51.9769Z",
-    "count": 1253,
+    "catalogVersion": "2025.02.04",
+    "dateReleased": "2025-02-04T15:00:47.717Z",
+    "count": 1257,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2018-19410",
+            "vendorProject": "Paessler",
+            "product": "PTRG Network Monitor",
+            "vulnerabilityName": "Paessler PRTG Network Monitor Local File Inclusion Vulnerability",
+            "dateAdded": "2025-02-04",
+            "shortDescription": "Paessler PRTG Network Monitor contains a local file inclusion vulnerability that allows a remote, unauthenticated attacker to create users with read-write privileges (including administrator).",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-02-25",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.paessler.com\/prtg\/history\/prtg-18#18.2.41.1652 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2018-19410",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2018-9276",
+            "vendorProject": "Paessler",
+            "product": "PRTG Network Monitor",
+            "vulnerabilityName": "Paessler PRTG Network Monitor OS Command Injection Vulnerability",
+            "dateAdded": "2025-02-04",
+            "shortDescription": "Paessler PRTG Network Monitor contains an OS command injection vulnerability that allows an attacker with administrative privileges to execute commands via the PRTG System Administrator web console.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-02-25",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.paessler.com\/prtg\/history\/prtg-18#18.2.39 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2018-9276",
+            "cwes": [
+                "CWE-78"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-29059",
+            "vendorProject": "Microsoft",
+            "product": ".NET Framework",
+            "vulnerabilityName": "Microsoft .NET Framework Information Disclosure Vulnerability",
+            "dateAdded": "2025-02-04",
+            "shortDescription": "Microsoft .NET Framework contains an information disclosure vulnerability that exposes the ObjRef URI to an attacker, ultimately enabling remote code execution.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-02-25",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-29059 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-29059",
+            "cwes": [
+                "CWE-209"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-45195",
+            "vendorProject": "Apache",
+            "product": "OFBiz",
+            "vulnerabilityName": "Apache OFBiz Forced Browsing Vulnerability",
+            "dateAdded": "2025-02-04",
+            "shortDescription": "Apache OFBiz contains a forced browsing vulnerability that allows a remote attacker to obtain unauthorized access.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-02-25",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/ofbiz.apache.org\/security.html ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-45195",
+            "cwes": [
+                "CWE-425"
+            ]
+        },
         {
             "cveID": "CVE-2025-24085",
             "vendorProject": "Apple",
