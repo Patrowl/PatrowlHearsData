@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2025.02.05",
-    "dateReleased": "2025-02-05T15:00:41.5754Z",
+    "dateReleased": "2025-02-05T18:21:14.6764Z",
     "count": 1258,
     "vulnerabilities": [
         {
@@ -401,7 +401,9 @@
             "dueDate": "2025-01-07",
             "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/support.cleo.com\/hc\/en-us\/articles\/28408134019735-Cleo-Product-Security-Update-CVE-2024-55956 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-55956",
-            "cwes": []
+            "cwes": [
+                "CWE-276"
+            ]
         },
         {
             "cveID": "CVE-2024-35250",
