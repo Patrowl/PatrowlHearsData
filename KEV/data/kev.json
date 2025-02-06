@@ -1,9 +1,84 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.02.05",
-    "dateReleased": "2025-02-05T18:21:14.6764Z",
-    "count": 1258,
+    "catalogVersion": "2025.02.06",
+    "dateReleased": "2025-02-06T16:38:38.9778Z",
+    "count": 1263,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2020-15069",
+            "vendorProject": "Sophos",
+            "product": "XG Firewall",
+            "vulnerabilityName": "Sophos XG Firewall Buffer Overflow Vulnerability",
+            "dateAdded": "2025-02-06",
+            "shortDescription": "Sophos XG Firewall contains a buffer overflow vulnerability that allows for remote code execution via the \"HTTP\/S bookmark\" feature.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-02-27",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/community.sophos.com\/b\/security-blog\/posts\/advisory-buffer-overflow-vulnerability-in-user-portal ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2020-15069",
+            "cwes": [
+                "CWE-120"
+            ]
+        },
+        {
+            "cveID": "CVE-2020-29574",
+            "vendorProject": "Sophos",
+            "product": "CyberoamOS",
+            "vulnerabilityName": "CyberoamOS (CROS) SQL Injection Vulnerability",
+            "dateAdded": "2025-02-06",
+            "shortDescription": "CyberoamOS (CROS) contains a SQL injection vulnerability in the WebAdmin that allows an unauthenticated attacker to execute arbitrary SQL statements remotely.",
+            "requiredAction": "The impacted product is end-of-life (EoL) and\/or end-of-service (EoS). Users should discontinue utilization of the product.",
+            "dueDate": "2025-02-27",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/support.sophos.com\/support\/s\/article\/KBA-000007526 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2020-29574",
+            "cwes": [
+                "CWE-89"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-21413",
+            "vendorProject": "Microsoft",
+            "product": "Office Outlook",
+            "vulnerabilityName": "Microsoft Outlook Improper Input Validation Vulnerability",
+            "dateAdded": "2025-02-06",
+            "shortDescription": "Microsoft Outlook contains an improper input validation vulnerability that allows for remote code execution. Successful exploitation of this vulnerability would allow an attacker to bypass the Office Protected View and open in editing mode rather than protected mode.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-02-27",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-21413 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-21413",
+            "cwes": [
+                "CWE-20"
+            ]
+        },
+        {
+            "cveID": "CVE-2022-23748",
+            "vendorProject": "Audinate",
+            "product": "Dante Discovery",
+            "vulnerabilityName": "Dante Discovery Process Control Vulnerability",
+            "dateAdded": "2025-02-06",
+            "shortDescription": "Dante Discovery contains a process control vulnerability in mDNSResponder.exe that all allows for a DLL sideloading attack. A local attacker can leverage this vulnerability in the Dante Application Library to execute arbitrary code.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-02-27",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.getdante.com\/support\/faq\/audinate-response-to-dante-discovery-mdnsresponder-exe-security-issue-cve-2022-23748\/ ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-23748",
+            "cwes": [
+                "CWE-114"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-0411",
+            "vendorProject": "7-Zip",
+            "product": "7-Zip",
+            "vulnerabilityName": "7-Zip Mark of the Web Bypass Vulnerability",
+            "dateAdded": "2025-02-06",
+            "shortDescription": "7-Zip contains a protection mechanism failure vulnerability that allows remote attackers to bypass the Mark-of-the-Web security feature to execute arbitrary code in the context of the current user.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-02-27",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.7-zip.org\/history.txt ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-0411",
+            "cwes": [
+                "CWE-693"
+            ]
+        },
         {
             "cveID": "CVE-2024-53104",
             "vendorProject": "Linux",
