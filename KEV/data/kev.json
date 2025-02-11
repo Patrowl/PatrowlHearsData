@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2025.02.11",
-    "dateReleased": "2025-02-11T18:20:55.2675Z",
+    "dateReleased": "2025-02-11T19:20:49.4567Z",
     "count": 1268,
     "vulnerabilities": [
         {
@@ -14,7 +14,7 @@
             "requiredAction": "The impacted product could be end-of-life (EoL) and\/or end-of-service (EoS). Users should discontinue product utilization if a current mitigation is unavailable.",
             "dueDate": "2025-03-04",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/www.zyxel.com\/global\/en\/support\/security-advisories\/zyxel-security-advisory-for-command-injection-and-insecure-default-credentials-vulnerabilities-in-certain-legacy-dsl-cpe-02-04-2025 ; https:\/www.zyxel.com\/service-provider\/global\/en\/security-advisories\/zyxel-security-advisory-command-injection-insecure-in-certain-legacy-dsl-cpe-02-04-2025 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-40891",
+            "notes": "https:\/\/www.zyxel.com\/global\/en\/support\/security-advisories\/zyxel-security-advisory-for-command-injection-and-insecure-default-credentials-vulnerabilities-in-certain-legacy-dsl-cpe-02-04-2025 ; https:\/\/www.zyxel.com\/service-provider\/global\/en\/security-advisories\/zyxel-security-advisory-command-injection-insecure-in-certain-legacy-dsl-cpe-02-04-2025 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-40891",
             "cwes": [
                 "CWE-78"
             ]
@@ -29,7 +29,7 @@
             "requiredAction": "The impacted product could be end-of-life (EoL) and\/or end-of-service (EoS). Users should discontinue product utilization if a current mitigation is unavailable.",
             "dueDate": "2025-03-04",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/www.zyxel.com\/global\/en\/support\/security-advisories\/zyxel-security-advisory-for-command-injection-and-insecure-default-credentials-vulnerabilities-in-certain-legacy-dsl-cpe-02-04-2025 ; https:\/www.zyxel.com\/service-provider\/global\/en\/security-advisories\/zyxel-security-advisory-command-injection-insecure-in-certain-legacy-dsl-cpe-02-04-2025 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-40890",
+            "notes": "https:\/\/www.zyxel.com\/global\/en\/support\/security-advisories\/zyxel-security-advisory-for-command-injection-and-insecure-default-credentials-vulnerabilities-in-certain-legacy-dsl-cpe-02-04-2025 ; https:\/\/www.zyxel.com\/service-provider\/global\/en\/security-advisories\/zyxel-security-advisory-command-injection-insecure-in-certain-legacy-dsl-cpe-02-04-2025 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-40890",
             "cwes": [
                 "CWE-78"
             ]
