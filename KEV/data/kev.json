@@ -1,9 +1,39 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.02.11",
-    "dateReleased": "2025-02-11T19:20:49.4567Z",
-    "count": 1268,
+    "catalogVersion": "2025.02.12",
+    "dateReleased": "2025-02-12T15:00:15.3017Z",
+    "count": 1270,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-24200",
+            "vendorProject": "Apple",
+            "product": "iOS and iPadOS",
+            "vulnerabilityName": "Apple iOS and iPadOS Incorrect Authorization Vulnerability",
+            "dateAdded": "2025-02-12",
+            "shortDescription": "Apple iOS and iPadOS contains an incorrect authorization vulnerability that allows a physical attacker to disable USB Restricted Mode on a locked device.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-03-05",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/support.apple.com\/en-us\/122173 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-24200",
+            "cwes": [
+                "CWE-863"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-41710",
+            "vendorProject": "Mitel",
+            "product": "SIP Phones",
+            "vulnerabilityName": "Mitel SIP Phones Argument Injection Vulnerability",
+            "dateAdded": "2025-02-12",
+            "shortDescription": "Mitel 6800 Series, 6900 Series, and 6900w Series SIP Phones, including the 6970 Conference Unit, contain an argument injection vulnerability due to insufficient parameter sanitization during the boot process. Successful exploitation may allow an attacker to execute arbitrary commands within the context of the system.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-03-05",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.mitel.com\/-\/media\/mitel\/file\/pdf\/support\/security-advisories\/security-bulletin_24-0019-001-v2.pdf ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-41710",
+            "cwes": [
+                "CWE-88"
+            ]
+        },
         {
             "cveID": "CVE-2024-40891",
             "vendorProject": "Zyxel",
