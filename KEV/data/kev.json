@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2025.02.18",
-    "dateReleased": "2025-02-18T17:59:12.4464Z",
+    "dateReleased": "2025-02-18T20:08:26.6543Z",
     "count": 1273,
     "vulnerabilities": [
         {
@@ -12,7 +12,7 @@
             "dateAdded": "2025-02-18",
             "shortDescription": "Palo Alto PAN-OS contains an authentication bypass vulnerability in its management web interface. This vulnerability allows an unauthenticated attacker with network access to the management web interface to bypass the authentication normally required and invoke certain PHP scripts.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
-            "dueDate": "2025-04-08",
+            "dueDate": "2025-03-11",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/security.paloaltonetworks.com\/CVE-2025-0108 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-0108",
             "cwes": [
