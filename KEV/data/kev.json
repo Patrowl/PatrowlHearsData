@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.02.15",
-    "dateReleased": "2025-02-15T19:28:17.8832Z",
+    "catalogVersion": "2025.02.18",
+    "dateReleased": "2025-02-18T13:47:33.3656Z",
     "count": 1271,
     "vulnerabilities": [
         {
@@ -217,7 +217,7 @@
         {
             "cveID": "CVE-2018-19410",
             "vendorProject": "Paessler",
-            "product": "PTRG Network Monitor",
+            "product": "PRTG Network Monitor",
             "vulnerabilityName": "Paessler PRTG Network Monitor Local File Inclusion Vulnerability",
             "dateAdded": "2025-02-04",
             "shortDescription": "Paessler PRTG Network Monitor contains a local file inclusion vulnerability that allows a remote, unauthenticated attacker to create users with read-write privileges (including administrator).",
