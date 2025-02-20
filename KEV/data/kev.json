@@ -1,9 +1,39 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.02.19",
-    "dateReleased": "2025-02-19T14:08:44.5021Z",
-    "count": 1273,
+    "catalogVersion": "2025.02.20",
+    "dateReleased": "2025-02-20T15:00:28.9834Z",
+    "count": 1275,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-0111",
+            "vendorProject": "Palo Alto Networks",
+            "product": "PAN-OS",
+            "vulnerabilityName": "Palo Alto Networks PAN-OS File Read Vulnerability",
+            "dateAdded": "2025-02-20",
+            "shortDescription": "Palo Alto Networks PAN-OS contains an external control of file name or path vulnerability. Successful exploitation enables an authenticated attacker with network access to the management web interface to read files on the PAN-OS filesystem that are readable by the \u201cnobody\u201d user.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-03-13",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/security.paloaltonetworks.com\/CVE-2025-0111 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-0111",
+            "cwes": [
+                "CWE-73"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-23209",
+            "vendorProject": "Craft CMS",
+            "product": "Craft CMS",
+            "vulnerabilityName": "Craft CMS Code Injection Vulnerability",
+            "dateAdded": "2025-02-20",
+            "shortDescription": "Craft CMS contains a code injection vulnerability that allows for remote code execution as vulnerable versions have compromised user security keys.",
+            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-03-13",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/github.com\/craftcms\/cms\/security\/advisories\/GHSA-x684-96hh-833x ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-23209",
+            "cwes": [
+                "CWE-94"
+            ]
+        },
         {
             "cveID": "CVE-2025-0108",
             "vendorProject": "Palo Alto Networks",
