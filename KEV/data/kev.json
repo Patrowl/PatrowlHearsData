@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2025.02.21",
-    "dateReleased": "2025-02-21T15:00:27.572Z",
+    "dateReleased": "2025-02-21T17:07:48.4896Z",
     "count": 1276,
     "vulnerabilities": [
         {
@@ -40,7 +40,7 @@
             "product": "Craft CMS",
             "vulnerabilityName": "Craft CMS Code Injection Vulnerability",
             "dateAdded": "2025-02-20",
-            "shortDescription": "Craft CMS contains a code injection vulnerability that allows for remote code execution as vulnerable versions have compromised user security keys.",
+            "shortDescription": "Craft CMS contains a code injection vulnerability caused by improper validation of the database backup path, ultimately enabling remote code execution.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-03-13",
             "knownRansomwareCampaignUse": "Unknown",
