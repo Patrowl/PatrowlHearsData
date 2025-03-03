@@ -1,9 +1,84 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.02.26",
-    "dateReleased": "2025-02-26T16:04:14.8468Z",
-    "count": 1280,
+    "catalogVersion": "2025.03.03",
+    "dateReleased": "2025-03-03T15:04:15.9276Z",
+    "count": 1285,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2024-4885",
+            "vendorProject": "Progress",
+            "product": "WhatsUp Gold",
+            "vulnerabilityName": "Progress WhatsUp Gold Path Traversal Vulnerability",
+            "dateAdded": "2025-03-03",
+            "shortDescription": "Progress WhatsUp Gold contains a path traversal vulnerability that allows an unauthenticated attacker to achieve remote code execution.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-03-24",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/community.progress.com\/s\/article\/WhatsUp-Gold-Security-Bulletin-June-2024 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-4885",
+            "cwes": [
+                "CWE-22"
+            ]
+        },
+        {
+            "cveID": "CVE-2018-8639",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Win32k Improper Resource Shutdown or Release Vulnerability",
+            "dateAdded": "2025-03-03",
+            "shortDescription": "Microsoft Windows Win32k contains an improper resource shutdown or release vulnerability that allows for local, authenticated privilege escalation. An attacker who successfully exploited this vulnerability could run arbitrary code in kernel mode.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-03-24",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/advisory\/CVE-2018-8639 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2018-8639",
+            "cwes": [
+                "CWE-404"
+            ]
+        },
+        {
+            "cveID": "CVE-2022-43769",
+            "vendorProject": "Hitachi Vantara",
+            "product": "Pentaho Business Analytics (BA) Server",
+            "vulnerabilityName": "Hitachi Vantara Pentaho BA Server Special Element Injection Vulnerability",
+            "dateAdded": "2025-03-03",
+            "shortDescription": "Hitachi Vantara Pentaho BA Server contains a special element injection vulnerability that allows an attacker to inject Spring templates into properties files, allowing for arbitrary command execution.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-03-24",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/support.pentaho.com\/hc\/en-us\/articles\/14455561548301--Resolved-Pentaho-BA-Server-Failure-to-Sanitize-Special-Elements-into-a-Different-Plane-Special-Element-Injection-Versions-before-9-4-0-1-and-9-3-0-2-including-8-3-x-Impacted-CVE-2022-43769 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-43769",
+            "cwes": [
+                "CWE-74"
+            ]
+        },
+        {
+            "cveID": "CVE-2022-43939",
+            "vendorProject": "Hitachi Vantara",
+            "product": "Pentaho Business Analytics (BA) Server",
+            "vulnerabilityName": "Hitachi Vantara Pentaho BA Server Authorization Bypass Vulnerability",
+            "dateAdded": "2025-03-03",
+            "shortDescription": "Hitachi Vantara Pentaho BA Server contains a use of non-canonical URL paths for authorization decisions vulnerability that enables an attacker to bypass authorization.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-03-24",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/support.pentaho.com\/hc\/en-us\/articles\/14455394120333--Resolved-Pentaho-BA-Server-Use-of-Non-Canonical-URL-Paths-for-Authorization-Decisions-Versions-before-9-4-0-1-and-9-3-0-2-including-8-3-x-Impacted-CVE-2022-43939- ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-43939",
+            "cwes": [
+                "CWE-647"
+            ]
+        },
+        {
+            "cveID": "CVE-2023-20118",
+            "vendorProject": "Cisco",
+            "product": "Small Business RV Series Routers",
+            "vulnerabilityName": "Cisco Small Business RV Series Routers Command Injection Vulnerability",
+            "dateAdded": "2025-03-03",
+            "shortDescription": "Multiple Cisco Small Business RV Series Routers contains a command injection vulnerability in the web-based management interface. Successful exploitation could allow an authenticated, remote attacker to gain root-level privileges and access unauthorized data.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-03-24",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/sec.cloudapps.cisco.com\/security\/center\/content\/CiscoSecurityAdvisory\/cisco-sa-sbr042-multi-vuln-ej76Pke5 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-20118",
+            "cwes": [
+                "CWE-77"
+            ]
+        },
         {
             "cveID": "CVE-2023-34192",
             "vendorProject": "Synacor",
