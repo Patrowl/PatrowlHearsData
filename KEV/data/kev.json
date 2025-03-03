@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2025.03.03",
-    "dateReleased": "2025-03-03T15:04:15.9276Z",
+    "dateReleased": "2025-03-03T19:46:59.7703Z",
     "count": 1285,
     "vulnerabilities": [
         {
@@ -419,7 +419,7 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-02-26",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/lore.kernel.org\/linux-cve-announce\/2024120232-CVE-2024-53104-d781@gregkh\/ ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-53104",
+            "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. For more information, please see: https:\/\/lore.kernel.org\/linux-cve-announce\/2024120232-CVE-2024-53104-d781@gregkh\/ ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-53104",
             "cwes": [
                 "CWE-787"
             ]
