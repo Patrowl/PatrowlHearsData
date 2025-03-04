@@ -1,9 +1,67 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.03.03",
-    "dateReleased": "2025-03-03T19:46:59.7703Z",
-    "count": 1285,
+    "catalogVersion": "2025.03.04",
+    "dateReleased": "2025-03-04T15:01:18.2414Z",
+    "count": 1289,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-22226",
+            "vendorProject": "VMware",
+            "product": "ESXi, Workstation, and Fusion",
+            "vulnerabilityName": "VMware ESXi, Workstation, and Fusion Information Disclosure Vulnerability",
+            "dateAdded": "2025-03-04",
+            "shortDescription": "VMware ESXi, Workstation, and Fusion contain an information disclosure vulnerability due to an out-of-bounds read in HGFS. Successful exploitation allows an attacker with administrative privileges to a virtual machine to leak memory from the vmx process.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-03-25",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/support.broadcom.com\/web\/ecx\/support-content-notification\/-\/external\/content\/SecurityAdvisories\/0\/25390 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-22226",
+            "cwes": [
+                "CWE-125"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-22225",
+            "vendorProject": "VMware",
+            "product": "ESXi",
+            "vulnerabilityName": "VMware ESXi Arbitrary Write Vulnerability",
+            "dateAdded": "2025-03-04",
+            "shortDescription": "VMware ESXi contains an arbitrary write vulnerability. Successful exploitation allows an attacker with privileges within the VMX process to trigger an arbitrary kernel write leading to an escape of the sandbox.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-03-25",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/support.broadcom.com\/web\/ecx\/support-content-notification\/-\/external\/content\/SecurityAdvisories\/0\/25390 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-22225",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2025-22224",
+            "vendorProject": "VMware",
+            "product": "ESXi and Workstation",
+            "vulnerabilityName": "VMware ESXi and Workstation TOCTOU Race Condition Vulnerability",
+            "dateAdded": "2025-03-04",
+            "shortDescription": "VMware ESXi and Workstation contain a time-of-check time-of-use (TOCTOU) race condition vulnerability that leads to an out-of-bounds write. Successful exploitation enables an attacker with local administrative privileges on a virtual machine to execute code as the virtual machine's VMX process running on the host.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-03-25",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/support.broadcom.com\/web\/ecx\/support-content-notification\/-\/external\/content\/SecurityAdvisories\/0\/25390 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-22224",
+            "cwes": [
+                "CWE-367"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-50302",
+            "vendorProject": "Linux",
+            "product": "Kernel",
+            "vulnerabilityName": "Linux Kernel Use of Uninitialized Resource Vulnerability",
+            "dateAdded": "2025-03-04",
+            "shortDescription": "The Linux kernel contains a use of uninitialized resource vulnerability that allows an attacker to leak kernel memory via a specially crafted HID report.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-03-25",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. For more information, please see: https:\/\/lore.kernel.org\/linux-cve-announce\/2024111908-CVE-2024-50302-f677@gregkh\/ ; https:\/\/source.android.com\/docs\/security\/bulletin\/2025-03-01 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-50302",
+            "cwes": [
+                "CWE-908"
+            ]
+        },
         {
             "cveID": "CVE-2024-4885",
             "vendorProject": "Progress",
