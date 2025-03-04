@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2025.03.04",
-    "dateReleased": "2025-03-04T15:01:18.2414Z",
+    "dateReleased": "2025-03-04T17:21:24.6205Z",
     "count": 1289,
     "vulnerabilities": [
         {
@@ -30,7 +30,9 @@
             "dueDate": "2025-03-25",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/support.broadcom.com\/web\/ecx\/support-content-notification\/-\/external\/content\/SecurityAdvisories\/0\/25390 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-22225",
-            "cwes": []
+            "cwes": [
+                "CWE-123"
+            ]
         },
         {
             "cveID": "CVE-2025-22224",
