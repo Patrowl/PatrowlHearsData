@@ -1,9 +1,99 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.03.10",
-    "dateReleased": "2025-03-10T17:01:21.5339Z",
-    "count": 1294,
+    "catalogVersion": "2025.03.11",
+    "dateReleased": "2025-03-11T17:10:05.6457Z",
+    "count": 1300,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-24993",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows NTFS Heap-Based Buffer Overflow Vulnerability",
+            "dateAdded": "2025-03-11",
+            "shortDescription": "Microsoft Windows New Technology File System (NTFS) contains a heap-based buffer overflow vulnerability that could allow an authorized attacker to execute code locally.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-04-01",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2025-24993 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-24993",
+            "cwes": [
+                "CWE-122"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-24991",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows NTFS Out-Of-Bounds Read Vulnerability",
+            "dateAdded": "2025-03-11",
+            "shortDescription": "Microsoft Windows New Technology File System (NTFS) contains an out-of-bounds read vulnerability that could allow for information disclosure.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-04-01",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2025-24991 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-24991",
+            "cwes": [
+                "CWE-125"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-24985",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Fast FAT File System Driver Integer Overflow Vulnerability",
+            "dateAdded": "2025-03-11",
+            "shortDescription": "Microsoft Windows Fast FAT File System Driver contains an integer overflow or wraparound vulnerability that allows an unauthorized attacker to execute code with a physical attack.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-04-01",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2025-24985 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-24985",
+            "cwes": [
+                "CWE-190"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-24984",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows NTFS Information Disclosure Vulnerability",
+            "dateAdded": "2025-03-11",
+            "shortDescription": "Microsoft Windows New Technology File System (NTFS) contains an insertion of sensitive Information into log file vulnerability that allows an authorized attacker to disclose information locally. An attacker who successfully exploited this vulnerability could potentially read portions of heap memory.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-04-01",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2025-24984 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-24984",
+            "cwes": [
+                "CWE-532"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-24983",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Win32k Use-After-Free Vulnerability",
+            "dateAdded": "2025-03-11",
+            "shortDescription": "Microsoft Windows Win32 Kernel Subsystem contains a use-after-free vulnerability that allows an authorized attacker to elevate privileges locally.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-04-01",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2025-24983 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-24983",
+            "cwes": [
+                "CWE-416"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-26633",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Management Console (MMC) Improper Neutralization Vulnerability",
+            "dateAdded": "2025-03-11",
+            "shortDescription": "Microsoft Windows Management Console (MMC) contains an improper neutralization vulnerability that allows an unauthorized attacker to execute code over a network.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-04-01",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2025-26633 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-26633",
+            "cwes": [
+                "CWE-707"
+            ]
+        },
         {
             "cveID": "CVE-2024-13161",
             "vendorProject": "Ivanti",
