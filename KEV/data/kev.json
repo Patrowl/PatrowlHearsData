@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.03.13",
-    "dateReleased": "2025-03-13T19:37:52.2229Z",
+    "catalogVersion": "2025.03.17",
+    "dateReleased": "2025-03-17T12:27:22.2203Z",
     "count": 1302,
     "vulnerabilities": [
         {
@@ -867,7 +867,7 @@
             "shortDescription": "Qlik Sense contains an HTTP tunneling vulnerability that allows an attacker to escalate privileges and execute HTTP requests on the backend server hosting the software.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-02-03",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/community.qlik.com\/t5\/Official-Support-Articles\/Critical-Security-fixes-for-Qlik-Sense-Enterprise-for-Windows\/tac-p\/2120510 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-48365",
             "cwes": [
                 "CWE-444"
