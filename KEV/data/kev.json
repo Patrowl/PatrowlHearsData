@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2025.03.17",
-    "dateReleased": "2025-03-17T12:27:22.2203Z",
+    "dateReleased": "2025-03-17T17:56:52.8643Z",
     "count": 1302,
     "vulnerabilities": [
         {
@@ -852,7 +852,7 @@
             "shortDescription": "Fortinet FortiOS and FortiProxy contain an authentication bypass vulnerability that may allow an unauthenticated, remote attacker to gain super-admin privileges via crafted requests to Node.js websocket module.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-01-21",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/fortiguard.fortinet.com\/psirt\/FG-IR-24-535 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-55591",
             "cwes": [
                 "CWE-288"
@@ -6309,7 +6309,7 @@
             "shortDescription": "Microsoft Windows Common Log File System (CLFS) driver contains an unspecified vulnerability that allows for privilege escalation.",
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-03-07",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2023-23376;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-23376",
             "cwes": [
                 "CWE-122"
