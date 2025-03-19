@@ -1,9 +1,54 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.03.18",
-    "dateReleased": "2025-03-18T18:01:25.1176Z",
-    "count": 1304,
+    "catalogVersion": "2025.03.19",
+    "dateReleased": "2025-03-19T18:00:10.5417Z",
+    "count": 1307,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2017-12637",
+            "vendorProject": "SAP",
+            "product": "NetWeaver",
+            "vulnerabilityName": "SAP NetWeaver Directory Traversal Vulnerability",
+            "dateAdded": "2025-03-19",
+            "shortDescription": "SAP NetWeaver Application Server (AS) Java contains a directory traversal vulnerability in scheduler\/ui\/js\/ffffffffbca41eb4\/UIUtilJavaScriptJS that allows a remote attacker to read arbitrary files via a .. (dot dot) in the query string.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-04-09",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "SAP users must have an account to log in and access the patch: https:\/\/me.sap.com\/notes\/3476549 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2017-12637",
+            "cwes": [
+                "CWE-22"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-48248",
+            "vendorProject": "NAKIVO",
+            "product": "Backup and Replication",
+            "vulnerabilityName": "NAKIVO Backup and Replication Absolute Path Traversal Vulnerability",
+            "dateAdded": "2025-03-19",
+            "shortDescription": "NAKIVO Backup and Replication contains an absolute path traversal vulnerability that enables an attacker to read arbitrary files.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-04-09",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/helpcenter.nakivo.com\/Release-Notes\/Content\/Release-Notes.htm ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-48248",
+            "cwes": [
+                "CWE-36"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-1316",
+            "vendorProject": "Edimax",
+            "product": "IC-7100 IP Camera",
+            "vulnerabilityName": "Edimax IC-7100 IP Camera OS Command Injection Vulnerability",
+            "dateAdded": "2025-03-19",
+            "shortDescription": "Edimax IC-7100 IP camera contains an OS command injection vulnerability due to improper input sanitization that allows an attacker to achieve remote code execution via specially crafted requests. The impacted product could be end-of-life (EoL) and\/or end-of-service (EoS). Users should discontinue product utilization.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-04-09",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.edimax.com\/edimax\/post\/post\/data\/edimax\/global\/press_releases\/4801\/ ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-1316",
+            "cwes": [
+                "CWE-78"
+            ]
+        },
         {
             "cveID": "CVE-2025-30066",
             "vendorProject": "tj-actions",
@@ -2484,7 +2529,7 @@
         {
             "cveID": "CVE-2024-5217",
             "vendorProject": "ServiceNow",
-            "product": "Utah, Vancouver, and Washington DC Now",
+            "product": "Utah, Vancouver, and Washington DC Now Platform",
             "vulnerabilityName": "ServiceNow Incomplete List of Disallowed Inputs Vulnerability",
             "dateAdded": "2024-07-29",
             "shortDescription": "ServiceNow Washington DC, Vancouver, and earlier Now Platform releases contain an incomplete list of disallowed inputs vulnerability in the GlideExpression script. An unauthenticated user could exploit this vulnerability to execute code remotely.",
@@ -2499,10 +2544,10 @@
         {
             "cveID": "CVE-2024-4879",
             "vendorProject": "ServiceNow",
-            "product": "Utah, Vancouver, and Washington DC Now",
+            "product": "Utah, Vancouver, and Washington DC Now Platform",
             "vulnerabilityName": "ServiceNow Improper Input Validation Vulnerability",
             "dateAdded": "2024-07-29",
-            "shortDescription": "ServiceNow Utah, Vancouver, and Washington DC Now releases contain a jelly template injection vulnerability in UI macros. An unauthenticated user could exploit this vulnerability to execute code remotely. ",
+            "shortDescription": "ServiceNow Utah, Vancouver, and Washington DC Now Platform releases contain a jelly template injection vulnerability in UI macros. An unauthenticated user could exploit this vulnerability to execute code remotely. ",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-08-19",
             "knownRansomwareCampaignUse": "Unknown",
