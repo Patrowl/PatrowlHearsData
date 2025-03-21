@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.03.19",
-    "dateReleased": "2025-03-19T18:00:10.5417Z",
+    "catalogVersion": "2025.03.21",
+    "dateReleased": "2025-03-21T18:00:56.2864Z",
     "count": 1307,
     "vulnerabilities": [
         {
@@ -55,11 +55,11 @@
             "product": "changed-files GitHub Action",
             "vulnerabilityName": "tj-actions\/changed-files GitHub Action Embedded Malicious Code Vulnerability",
             "dateAdded": "2025-03-18",
-            "shortDescription": "The tj-actions\/changed-files GitHub Action contains an embedded malicious code vulnerability that allows a remote attacker to discover secrets by reading actions logs. These secrets may include, but are not limited to, valid AWS access keys, GitHub personal access tokens (PATs), npm tokens, and private RSA keys.",
+            "shortDescription": "The tj-actions\/changed-files GitHub Action contains an embedded malicious code vulnerability that allows a remote attacker to discover secrets by reading Github Actions Workflow Logs. These secrets may include, but are not limited to, valid AWS access keys, GitHub personal access tokens (PATs), npm tokens, and private RSA keys.",
             "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-04-08",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/github.com\/tj-actions\/changed-files\/blob\/45fb12d7a8bedb4da42342e52fe054c6c2c3fd73\/README.md?plain=1#L20-L28 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-30066",
+            "notes": "This vulnerability affects a common open-source project, third-party library, or a protocol used by different products. For more information, please see: https:\/\/github.com\/tj-actions\/changed-files\/blob\/45fb12d7a8bedb4da42342e52fe054c6c2c3fd73\/README.md?plain=1#L20-L28 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-30066",
             "cwes": [
                 "CWE-506"
             ]
