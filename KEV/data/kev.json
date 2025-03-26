@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2025.03.26",
-    "dateReleased": "2025-03-26T18:45:53.2573Z",
+    "dateReleased": "2025-03-26T20:10:45.2111Z",
     "count": 1310,
     "vulnerabilities": [
         {
@@ -44,7 +44,7 @@
             "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-04-14",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "This vulnerability affects a common open-source project, third-party library, or a protocol used by different products. For more information, please see: https:\/\/www.cisa.gov\/news-events\/alerts\/2025\/03\/18\/supply-chain-compromise-third-party-tj-actionschanged-files-cve-2025-30066-and-reviewdogaction ; https:\/\/github.com\/reviewdog\/reviewdog\/security\/advisories\/GHSA-qmg3-hpqr-gqvc ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-30154",
+            "notes": "This vulnerability affects a common open-source project, third-party library, or a protocol used by different products. For more information, please see: CISA Mitigation Instructions: https:\/\/www.cisa.gov\/news-events\/alerts\/2025\/03\/18\/supply-chain-compromise-third-party-tj-actionschanged-files-cve-2025-30066-and-reviewdogaction ; Additional References: https:\/\/github.com\/reviewdog\/reviewdog\/security\/advisories\/GHSA-qmg3-hpqr-gqvc ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-30154",
             "cwes": [
                 "CWE-506"
             ]
@@ -104,7 +104,7 @@
             "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-04-08",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "This vulnerability affects a common open-source project, third-party library, or a protocol used by different products. For more information, please see: https:\/\/www.cisa.gov\/news-events\/alerts\/2025\/03\/18\/supply-chain-compromise-third-party-tj-actionschanged-files-cve-2025-30066-and-reviewdogaction ; https:\/\/github.com\/tj-actions\/changed-files\/blob\/45fb12d7a8bedb4da42342e52fe054c6c2c3fd73\/README.md?plain=1#L20-L28 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-30066",
+            "notes": "This vulnerability affects a common open-source project, third-party library, or a protocol used by different products. For more information, please see: CISA Mitigation Instructions: https:\/\/www.cisa.gov\/news-events\/alerts\/2025\/03\/18\/supply-chain-compromise-third-party-tj-actionschanged-files-cve-2025-30066-and-reviewdogaction ; Additional References: https:\/\/github.com\/tj-actions\/changed-files\/blob\/45fb12d7a8bedb4da42342e52fe054c6c2c3fd73\/README.md?plain=1#L20-L28 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-30066",
             "cwes": [
                 "CWE-506"
             ]
