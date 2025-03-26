@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.03.24",
-    "dateReleased": "2025-03-24T18:01:34.066Z",
+    "catalogVersion": "2025.03.26",
+    "dateReleased": "2025-03-26T16:12:09.2815Z",
     "count": 1308,
     "vulnerabilities": [
         {
@@ -2964,7 +2964,7 @@
         {
             "cveID": "CVE-2024-4761",
             "vendorProject": "Google",
-            "product": "Chromium Visuals",
+            "product": "Chromium V8",
             "vulnerabilityName": "Google Chromium V8 Out-of-Bounds Memory Write Vulnerability",
             "dateAdded": "2024-05-16",
             "shortDescription": "Google Chromium V8 Engine contains an unspecified out-of-bounds memory write vulnerability via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera. ",
@@ -14619,7 +14619,7 @@
             "cveID": "CVE-2020-6572",
             "vendorProject": "Google",
             "product": "Chrome Media",
-            "vulnerabilityName": "Google Chrome Media Prior to 81.0.4044.92 Use-After-Free Vulnerability",
+            "vulnerabilityName": "Google Chrome Media Use-After-Free Vulnerability",
             "dateAdded": "2022-01-10",
             "shortDescription": "Google Chrome Media contains a use-after-free vulnerability that allows a remote attacker to execute code via a crafted HTML page.",
             "requiredAction": "Apply updates per vendor instructions.",
