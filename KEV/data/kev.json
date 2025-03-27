@@ -1,9 +1,22 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.03.26",
-    "dateReleased": "2025-03-26T20:10:45.2111Z",
-    "count": 1310,
+    "catalogVersion": "2025.03.27",
+    "dateReleased": "2025-03-27T17:55:47.8204Z",
+    "count": 1311,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-2783",
+            "vendorProject": "Google",
+            "product": "Chromium Mojo",
+            "vulnerabilityName": "Google Chromium Mojo Sandbox Escape Vulnerability",
+            "dateAdded": "2025-03-27",
+            "shortDescription": "Google Chromium Mojo on Windows contains a sandbox escape vulnerability caused by a logic error, which results from an incorrect handle being provided in unspecified circumstances. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-04-17",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/chromereleases.googleblog.com\/2025\/03\/stable-channel-update-for-desktop_25.html ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-2783",
+            "cwes": []
+        },
         {
             "cveID": "CVE-2019-9875",
             "vendorProject": "Sitecore",
