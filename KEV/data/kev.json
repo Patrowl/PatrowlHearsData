@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.03.27",
-    "dateReleased": "2025-03-27T17:55:47.8204Z",
+    "catalogVersion": "2025.03.28",
+    "dateReleased": "2025-03-28T15:35:49.1853Z",
     "count": 1311,
     "vulnerabilities": [
         {
@@ -54,7 +54,7 @@
             "vulnerabilityName": "reviewdog\/action-setup GitHub Action Embedded Malicious Code Vulnerability",
             "dateAdded": "2025-03-24",
             "shortDescription": "reviewdog action-setup GitHub Action contains an embedded malicious code vulnerability that dumps exposed secrets to Github Actions Workflow Logs.",
-            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "requiredAction": "Apply mitigations as set forth in the CISA instructions linked below. Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-04-14",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "This vulnerability affects a common open-source project, third-party library, or a protocol used by different products. For more information, please see: CISA Mitigation Instructions: https:\/\/www.cisa.gov\/news-events\/alerts\/2025\/03\/18\/supply-chain-compromise-third-party-tj-actionschanged-files-cve-2025-30066-and-reviewdogaction ; Additional References: https:\/\/github.com\/reviewdog\/reviewdog\/security\/advisories\/GHSA-qmg3-hpqr-gqvc ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-30154",
@@ -114,7 +114,7 @@
             "vulnerabilityName": "tj-actions\/changed-files GitHub Action Embedded Malicious Code Vulnerability",
             "dateAdded": "2025-03-18",
             "shortDescription": "tj-actions\/changed-files GitHub Action contains an embedded malicious code vulnerability that allows a remote attacker to discover secrets by reading Github Actions Workflow Logs. These secrets may include, but are not limited to, valid AWS access keys, GitHub personal access tokens (PATs), npm tokens, and private RSA keys.",
-            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "requiredAction": "Apply mitigations as set forth in the CISA instructions linked below. Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-04-08",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "This vulnerability affects a common open-source project, third-party library, or a protocol used by different products. For more information, please see: CISA Mitigation Instructions: https:\/\/www.cisa.gov\/news-events\/alerts\/2025\/03\/18\/supply-chain-compromise-third-party-tj-actionschanged-files-cve-2025-30066-and-reviewdogaction ; Additional References: https:\/\/github.com\/tj-actions\/changed-files\/blob\/45fb12d7a8bedb4da42342e52fe054c6c2c3fd73\/README.md?plain=1#L20-L28 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-30066",
