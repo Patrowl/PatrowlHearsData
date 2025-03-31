@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.03.28",
-    "dateReleased": "2025-03-28T15:35:49.1853Z",
+    "catalogVersion": "2025.03.31",
+    "dateReleased": "2025-03-31T13:52:23.4753Z",
     "count": 1311,
     "vulnerabilities": [
         {
@@ -252,7 +252,7 @@
             "shortDescription": "Microsoft Windows Management Console (MMC) contains an improper neutralization vulnerability that allows an unauthorized attacker to bypass a security feature locally.",
             "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-04-01",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2025-26633 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-26633",
             "cwes": [
                 "CWE-707"
