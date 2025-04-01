@@ -1,9 +1,25 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.03.31",
-    "dateReleased": "2025-03-31T18:00:40.3589Z",
-    "count": 1312,
+    "catalogVersion": "2025.04.01",
+    "dateReleased": "2025-04-01T18:01:28.5668Z",
+    "count": 1313,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-24813",
+            "vendorProject": "Apache",
+            "product": "Tomcat",
+            "vulnerabilityName": "Apache Tomcat Path Equivalence Vulnerability",
+            "dateAdded": "2025-04-01",
+            "shortDescription": "Apache Tomcat contains a path equivalence vulnerability that allows a remote attacker to execute code, disclose information, or inject malicious content via a partial PUT request.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-04-22",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/lists.apache.org\/thread\/j5fkjv2k477os90nczf2v9l61fb0kkgq ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-24813",
+            "cwes": [
+                "CWE-44",
+                "CWE-502"
+            ]
+        },
         {
             "cveID": "CVE-2024-20439",
             "vendorProject": "Cisco",
