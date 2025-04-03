@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.04.01",
-    "dateReleased": "2025-04-01T18:54:41.0814Z",
+    "catalogVersion": "2025.04.03",
+    "dateReleased": "2025-04-03T12:34:57.2906Z",
     "count": 1313,
     "vulnerabilities": [
         {
@@ -7763,7 +7763,7 @@
             "shortDescription": "Synacor Zimbra Collaboration Suite (ZCS) contains flaw in the mboximport functionality, allowing an authenticated attacker to upload arbitrary files to perform remote code execution. This vulnerability was chained with CVE-2022-37042 which allows for unauthenticated remote code execution.",
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-09-01",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/blog.zimbra.com\/2022\/08\/authentication-bypass-in-mailboximportservlet-vulnerability\/;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-27925",
             "cwes": [
                 "CWE-22"
@@ -7778,7 +7778,7 @@
             "shortDescription": "Synacor Zimbra Collaboration Suite (ZCS) contains an authentication bypass vulnerability in MailboxImportServlet. This vulnerability was chained with CVE-2022-27925 which allows for unauthenticated remote code execution.",
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-09-01",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/blog.zimbra.com\/2022\/08\/authentication-bypass-in-mailboximportservlet-vulnerability\/;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-37042",
             "cwes": [
                 "CWE-23"
