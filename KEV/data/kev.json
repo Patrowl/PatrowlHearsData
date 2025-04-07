@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2025.04.07",
-    "dateReleased": "2025-04-07T12:41:21.7279Z",
+    "dateReleased": "2025-04-07T13:43:51.9577Z",
     "count": 1314,
     "vulnerabilities": [
         {
@@ -11,7 +11,7 @@
             "vulnerabilityName": "Ivanti Connect Secure, Policy Secure and ZTA Gateways Stack-Based Buffer Overflow Vulnerability",
             "dateAdded": "2025-04-04",
             "shortDescription": "Ivanti Connect Secure, Policy Secure and ZTA Gateways contains a stack-based buffer overflow vulnerability that allows a remote unauthenticated attacker to achieve remote code execution. ",
-            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "requiredAction": "Apply mitigations as set forth in the CISA instructions linked below.",
             "dueDate": "2025-04-11",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "CISA Mitigation Instructions: https:\/\/www.cisa.gov\/cisa-mitigation-instructions-cve-2025-22457 ; Additional References: https:\/\/forums.ivanti.com\/s\/article\/April-Security-Advisory-Ivanti-Connect-Secure-Policy-Secure-ZTA-Gateways-CVE-2025-22457) ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-22457",
