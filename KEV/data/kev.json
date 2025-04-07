@@ -1,9 +1,24 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2025.04.07",
-    "dateReleased": "2025-04-07T13:43:51.9577Z",
-    "count": 1314,
+    "dateReleased": "2025-04-07T18:01:08.3813Z",
+    "count": 1315,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-31161",
+            "vendorProject": "CrushFTP",
+            "product": "CrushFTP",
+            "vulnerabilityName": "CrushFTP Authentication Bypass Vulnerability",
+            "dateAdded": "2025-04-07",
+            "shortDescription": "CrushFTP contains an authentication bypass vulnerability in the HTTP authorization header that allows a remote unauthenticated attacker to authenticate to any known or guessable user account (e.g., crushadmin), potentially leading to a full compromise. ",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-04-28",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.crushftp.com\/crush11wiki\/Wiki.jsp?page=Update ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-31161",
+            "cwes": [
+                "CWE-305"
+            ]
+        },
         {
             "cveID": "CVE-2025-22457",
             "vendorProject": "Ivanti",
