@@ -1,9 +1,39 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.04.07",
-    "dateReleased": "2025-04-07T18:01:08.3813Z",
-    "count": 1315,
+    "catalogVersion": "2025.04.08",
+    "dateReleased": "2025-04-08T17:30:37.9378Z",
+    "count": 1317,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-29824",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Common Log File System (CLFS) Driver Use-After-Free Vulnerability",
+            "dateAdded": "2025-04-08",
+            "shortDescription": "Microsoft Windows Common Log File System (CLFS) Driver contains a use-after-free vulnerability that allows an authorized attacker to elevate privileges locally.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-04-29",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2025-29824 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-29824",
+            "cwes": [
+                "CWE-416"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-30406",
+            "vendorProject": "Gladinet",
+            "product": "CentreStack",
+            "vulnerabilityName": "Gladinet CentreStack Use of Hard-coded Cryptographic Key Vulnerability",
+            "dateAdded": "2025-04-08",
+            "shortDescription": "Gladinet CentreStack contains a use of hard-coded cryptographic key vulnerability in the way that the application manages keys used for ViewState integrity verification. Successful exploitation allows an attacker to forge ViewState payloads for server-side deserialization, allowing for remote code execution.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-04-29",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/gladinetsupport.s3.us-east-1.amazonaws.com\/gladinet\/securityadvisory-cve-2005.pdf ; https:\/\/www.centrestack.com\/p\/gce_latest_release.html ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-30406",
+            "cwes": [
+                "CWE-321"
+            ]
+        },
         {
             "cveID": "CVE-2025-31161",
             "vendorProject": "CrushFTP",
