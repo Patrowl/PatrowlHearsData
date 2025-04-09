@@ -1,9 +1,39 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2025.04.09",
-    "dateReleased": "2025-04-09T15:55:36.7896Z",
-    "count": 1317,
+    "dateReleased": "2025-04-09T18:01:15.7329Z",
+    "count": 1319,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2024-53150",
+            "vendorProject": "Linux",
+            "product": "Kernel",
+            "vulnerabilityName": "Linux Kernel Out-of-Bounds Read Vulnerability",
+            "dateAdded": "2025-04-09",
+            "shortDescription": "Linux Kernel contains an out-of-bounds read vulnerability in the USB-audio driver that allows a local, privileged attacker to obtain potentially sensitive information.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-04-30",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. For more information, please see: https:\/\/lore.kernel.org\/linux-cve-announce\/2024122427-CVE-2024-53150-3a7d@gregkh\/ ; https:\/\/source.android.com\/docs\/security\/bulletin\/2025-04-01 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-53150",
+            "cwes": [
+                "CWE-125"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-53197",
+            "vendorProject": "Linux",
+            "product": "Kernel",
+            "vulnerabilityName": "Linux Kernel Out-of-Bounds Access Vulnerability",
+            "dateAdded": "2025-04-09",
+            "shortDescription": "Linux Kernel contains an out-of-bounds access vulnerability in the USB-audio driver that allows an attacker with physical access to the system to use a malicious USB device to potentially manipulate system memory, escalate privileges, or execute arbitrary code.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-04-30",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. For more information, please see: https:\/\/lore.kernel.org\/linux-cve-announce\/2024122725-CVE-2024-53197-6aef@gregkh\/ ; https:\/\/source.android.com\/docs\/security\/bulletin\/2025-04-01 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-53197",
+            "cwes": [
+                "CWE-787"
+            ]
+        },
         {
             "cveID": "CVE-2025-29824",
             "vendorProject": "Microsoft",
