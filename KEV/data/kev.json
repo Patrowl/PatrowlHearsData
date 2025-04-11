@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.04.09",
-    "dateReleased": "2025-04-09T18:01:15.7329Z",
+    "catalogVersion": "2025.04.11",
+    "dateReleased": "2025-04-11T17:52:01.5722Z",
     "count": 1319,
     "vulnerabilities": [
         {
@@ -4559,10 +4559,10 @@
             "vulnerabilityName": "HTTP\/2 Rapid Reset Attack Vulnerability",
             "dateAdded": "2023-10-10",
             "shortDescription": "HTTP\/2 contains a rapid reset vulnerability that allows for a distributed denial-of-service attack (DDoS).",
-            "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2023-10-31",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. Please check with specific vendors for information on patching status.   For more information, please see: https:\/\/blog.cloudflare.com\/technical-breakdown-http2-rapid-reset-ddos-attack\/ ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-44487",
+            "notes": "This vulnerability affects a common open-source component, third-party library, or protocol used by different products. For more information, please see: CVE: Common Vulnerabilities and Exposures; https:\/\/blog.cloudflare.com\/technical-breakdown-http2-rapid-reset-ddos-attack\/;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-44487",
             "cwes": [
                 "CWE-400"
             ]
