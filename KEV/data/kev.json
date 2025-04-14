@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.04.11",
-    "dateReleased": "2025-04-11T17:52:01.5722Z",
+    "catalogVersion": "2025.04.14",
+    "dateReleased": "2025-04-14T16:52:10.3066Z",
     "count": 1319,
     "vulnerabilities": [
         {
@@ -4562,7 +4562,7 @@
             "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2023-10-31",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "This vulnerability affects a common open-source component, third-party library, or protocol used by different products. For more information, please see: CVE: Common Vulnerabilities and Exposures; https:\/\/blog.cloudflare.com\/technical-breakdown-http2-rapid-reset-ddos-attack\/;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-44487",
+            "notes": "This vulnerability affects a common open-source component, third-party library, or protocol used by different products. For more information, please see: HTTP\/2 Rapid Reset Vulnerability, CVE-2023-44487 | CISA: https:\/\/www.cisa.gov\/news-events\/alerts\/2023\/10\/10\/http2-rapid-reset-vulnerability-cve-2023-44487; https:\/\/blog.cloudflare.com\/technical-breakdown-http2-rapid-reset-ddos-attack\/;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-44487",
             "cwes": [
                 "CWE-400"
             ]
