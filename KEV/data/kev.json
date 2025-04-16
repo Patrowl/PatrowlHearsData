@@ -1,9 +1,24 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.04.14",
-    "dateReleased": "2025-04-14T16:52:10.3066Z",
-    "count": 1319,
+    "catalogVersion": "2025.04.16",
+    "dateReleased": "2025-04-16T17:00:53.6922Z",
+    "count": 1320,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2021-20035",
+            "vendorProject": "SonicWall",
+            "product": "SMA100 Appliances",
+            "vulnerabilityName": "SonicWall SMA100 Appliances OS Command Injection Vulnerability",
+            "dateAdded": "2025-04-16",
+            "shortDescription": "SonicWall SMA100 appliances contain an OS command injection vulnerability in the management interface that allows a remote authenticated attacker to inject arbitrary commands as a 'nobody' user, which could potentially lead to code execution.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-05-07",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/psirt.global.sonicwall.com\/vuln-detail\/SNWLID-2021-0022 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-20035",
+            "cwes": [
+                "CWE-78"
+            ]
+        },
         {
             "cveID": "CVE-2024-53150",
             "vendorProject": "Linux",
