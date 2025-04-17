@@ -1,9 +1,50 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.04.16",
-    "dateReleased": "2025-04-16T17:00:53.6922Z",
-    "count": 1320,
+    "catalogVersion": "2025.04.17",
+    "dateReleased": "2025-04-17T17:01:44.4538Z",
+    "count": 1323,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-24054",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows NTLM Hash Disclosure Spoofing Vulnerability",
+            "dateAdded": "2025-04-17",
+            "shortDescription": "Microsoft Windows NTLM contains an external control of file name or path vulnerability that allows an unauthorized attacker to perform spoofing over a network.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-05-08",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2025-24054 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-24054",
+            "cwes": [
+                "CWE-73"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-31201",
+            "vendorProject": "Apple",
+            "product": "Multiple Products",
+            "vulnerabilityName": "Apple Multiple Products Arbitrary Read and Write Vulnerability",
+            "dateAdded": "2025-04-17",
+            "shortDescription": "Apple iOS, iPadOS, macOS, and other Apple products contain an arbitrary read and write vulnerability that allows an attacker to bypass Pointer Authentication.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-05-08",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/support.apple.com\/en-us\/122282 ; https:\/\/support.apple.com\/en-us\/122400 ; https:\/\/support.apple.com\/en-us\/122401 ; https:\/\/support.apple.com\/en-us\/122402 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-31201",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2025-31200",
+            "vendorProject": "Apple",
+            "product": "Multiple Products",
+            "vulnerabilityName": "Apple Multiple Products Memory Corruption Vulnerability",
+            "dateAdded": "2025-04-17",
+            "shortDescription": "Apple iOS, iPadOS, macOS, and other Apple products contain a memory corruption vulnerability that allows for code execution when processing an audio stream in a maliciously crafted media file.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-05-08",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/support.apple.com\/en-us\/122282 ; https:\/\/support.apple.com\/en-us\/122400 ; https:\/\/support.apple.com\/en-us\/122401 ; https:\/\/support.apple.com\/en-us\/122402 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-31200",
+            "cwes": []
+        },
         {
             "cveID": "CVE-2021-20035",
             "vendorProject": "SonicWall",
