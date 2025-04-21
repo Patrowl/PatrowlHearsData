@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.04.17",
-    "dateReleased": "2025-04-17T17:01:44.4538Z",
+    "catalogVersion": "2025.04.21",
+    "dateReleased": "2025-04-21T17:28:48.0783Z",
     "count": 1323,
     "vulnerabilities": [
         {
@@ -109,13 +109,13 @@
             "cveID": "CVE-2025-30406",
             "vendorProject": "Gladinet",
             "product": "CentreStack",
-            "vulnerabilityName": "Gladinet CentreStack Use of Hard-coded Cryptographic Key Vulnerability",
+            "vulnerabilityName": "Gladinet CentreStack and Triofox Use of Hard-coded Cryptographic Key Vulnerability",
             "dateAdded": "2025-04-08",
-            "shortDescription": "Gladinet CentreStack contains a use of hard-coded cryptographic key vulnerability in the way that the application manages keys used for ViewState integrity verification. Successful exploitation allows an attacker to forge ViewState payloads for server-side deserialization, allowing for remote code execution.",
+            "shortDescription": "Gladinet CentreStack and Triofox contains a use of hard-coded cryptographic key vulnerability in the way that the application manages keys used for ViewState integrity verification. Successful exploitation allows an attacker to forge ViewState payloads for server-side deserialization, allowing for remote code execution.",
             "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-04-29",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/gladinetsupport.s3.us-east-1.amazonaws.com\/gladinet\/securityadvisory-cve-2005.pdf ; https:\/\/www.centrestack.com\/p\/gce_latest_release.html ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-30406",
+            "notes": "https:\/\/gladinetsupport.s3.us-east-1.amazonaws.com\/gladinet\/securityadvisory-cve-2005.pdf ; https:\/\/gladinetsupport.s3.us-east-1.amazonaws.com\/gladinet\/securityadvisory-cve-2025-triofox.pdf ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-30406",
             "cwes": [
                 "CWE-321"
             ]
