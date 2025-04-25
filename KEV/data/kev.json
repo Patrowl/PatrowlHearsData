@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.04.21",
-    "dateReleased": "2025-04-21T17:28:48.0783Z",
+    "catalogVersion": "2025.04.25",
+    "dateReleased": "2025-04-25T18:02:32.6749Z",
     "count": 1323,
     "vulnerabilities": [
         {
@@ -6664,7 +6664,7 @@
             "shortDescription": "Intel ethernet diagnostics driver for Windows IQVW32.sys and IQVW64.sys contain an unspecified vulnerability that allows for a denial-of-service (DoS).",
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2023-03-03",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/www.intel.com\/content\/www\/us\/en\/security-center\/advisory\/intel-sa-00051.html; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2015-2291",
             "cwes": [
                 "CWE-20"
