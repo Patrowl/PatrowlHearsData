@@ -1,9 +1,52 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.04.25",
-    "dateReleased": "2025-04-25T18:02:32.6749Z",
-    "count": 1323,
+    "catalogVersion": "2025.04.28",
+    "dateReleased": "2025-04-28T17:02:25.9088Z",
+    "count": 1326,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-1976",
+            "vendorProject": "Broadcom",
+            "product": "Brocade Fabric OS",
+            "vulnerabilityName": "Broadcom Brocade Fabric OS Code Injection Vulnerability",
+            "dateAdded": "2025-04-28",
+            "shortDescription": "Broadcom Brocade Fabric OS contains a code injection vulnerability that allows a local user with administrative privileges to execute arbitrary code with full root privileges.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-05-19",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/support.broadcom.com\/web\/ecx\/support-content-notification\/-\/external\/content\/SecurityAdvisories\/0\/25602 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-1976",
+            "cwes": [
+                "CWE-94"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-42599",
+            "vendorProject": "Qualitia",
+            "product": "Active! Mail",
+            "vulnerabilityName": "Qualitia Active! Mail Stack-Based Buffer Overflow Vulnerability",
+            "dateAdded": "2025-04-28",
+            "shortDescription": "Qualitia Active! Mail contains a stack-based buffer overflow vulnerability that allows a remote, unauthenticated attacker to execute arbitrary or trigger a denial-of-service via a specially crafted request.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-05-19",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.qualitia.com\/jp\/news\/2025\/04\/18_1030.html ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-42599",
+            "cwes": [
+                "CWE-121"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-3928",
+            "vendorProject": "Commvault",
+            "product": "Web Server",
+            "vulnerabilityName": "Commvault Web Server Unspecified Vulnerability",
+            "dateAdded": "2025-04-28",
+            "shortDescription": "Commvault Web Server contains an unspecified vulnerability that allows a remote, authenticated attacker to create and execute webshells.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-05-17",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/documentation.commvault.com\/securityadvisories\/CV_2025_03_1.html ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-3928",
+            "cwes": []
+        },
         {
             "cveID": "CVE-2025-24054",
             "vendorProject": "Microsoft",
