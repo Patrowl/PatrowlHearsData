@@ -1,9 +1,24 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2025.04.29",
-    "dateReleased": "2025-04-29T14:29:06.4284Z",
-    "count": 1326,
+    "dateReleased": "2025-04-29T16:56:06.3657Z",
+    "count": 1327,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-31324",
+            "vendorProject": "SAP",
+            "product": "NetWeaver",
+            "vulnerabilityName": "SAP NetWeaver Unrestricted File Upload Vulnerability",
+            "dateAdded": "2025-04-29",
+            "shortDescription": "SAP NetWeaver Visual Composer Metadata Uploader contains an unrestricted file upload vulnerability that allows an unauthenticated agent to upload potentially malicious executable binaries.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-05-20",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/me.sap.com\/notes\/3594142 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-31324",
+            "cwes": [
+                "CWE-434"
+            ]
+        },
         {
             "cveID": "CVE-2025-1976",
             "vendorProject": "Broadcom",
