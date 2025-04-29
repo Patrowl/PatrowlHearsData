@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2025.04.29",
-    "dateReleased": "2025-04-29T10:55:54.2337Z",
+    "dateReleased": "2025-04-29T14:29:06.4284Z",
     "count": 1326,
     "vulnerabilities": [
         {
@@ -42,7 +42,7 @@
             "dateAdded": "2025-04-28",
             "shortDescription": "Commvault Web Server contains an unspecified vulnerability that allows a remote, authenticated attacker to create and execute webshells.",
             "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
-            "dueDate": "2025-05-17",
+            "dueDate": "2025-05-19",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/documentation.commvault.com\/securityadvisories\/CV_2025_03_1.html;   https:\/\/www.commvault.com\/blogs\/notice-security-advisory-update;   https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-3928      ",
             "cwes": []
