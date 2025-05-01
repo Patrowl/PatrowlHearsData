@@ -1,9 +1,39 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.04.29",
-    "dateReleased": "2025-04-29T16:56:06.3657Z",
-    "count": 1327,
+    "catalogVersion": "2025.05.01",
+    "dateReleased": "2025-05-01T17:00:59.3117Z",
+    "count": 1329,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2024-38475",
+            "vendorProject": "Apache",
+            "product": "HTTP Server",
+            "vulnerabilityName": "Apache HTTP Server Improper Escaping of Output Vulnerability",
+            "dateAdded": "2025-05-01",
+            "shortDescription": "Apache HTTP Server contains an improper escaping of output vulnerability in mod_rewrite that allows an attacker to map URLs to filesystem locations that are permitted to be served by the server but are not intentionally\/directly reachable by any URL, resulting in code execution or source code disclosure.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-05-22",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. Please check with specific vendors for information on patching status. For more information, please see: https:\/\/httpd.apache.org\/security\/vulnerabilities_24.html ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-38475",
+            "cwes": [
+                "CWE-116"
+            ]
+        },
+        {
+            "cveID": "CVE-2023-44221",
+            "vendorProject": "SonicWall",
+            "product": "SMA100 Appliances",
+            "vulnerabilityName": "SonicWall SMA100 Appliances OS Command Injection Vulnerability",
+            "dateAdded": "2025-05-01",
+            "shortDescription": "SonicWall SMA100 appliances contain an OS command injection vulnerability in the SSL-VPN management interface that allows a remote, authenticated attacker with administrative privilege to inject arbitrary commands as a 'nobody' user.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-05-22",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/psirt.global.sonicwall.com\/vuln-detail\/SNWLID-2023-0018 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-44221",
+            "cwes": [
+                "CWE-78"
+            ]
+        },
         {
             "cveID": "CVE-2025-31324",
             "vendorProject": "SAP",
@@ -218,7 +248,7 @@
             "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-04-22",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/lists.apache.org\/thread\/j5fkjv2k477os90nczf2v9l61fb0kkgq ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-24813",
+            "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. Please check with specific vendors for information on patching status. For more information, please see: https:\/\/lists.apache.org\/thread\/j5fkjv2k477os90nczf2v9l61fb0kkgq ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-24813",
             "cwes": [
                 "CWE-44",
                 "CWE-502"
@@ -1101,7 +1131,7 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-02-25",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. For more information, please see: https:\/\/ofbiz.apache.org\/security.html ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-45195",
+            "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. Please check with specific vendors for information on patching status. For more information, please see: https:\/\/ofbiz.apache.org\/security.html ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-45195",
             "cwes": [
                 "CWE-425"
             ]
@@ -2263,7 +2293,7 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-10-09",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. For more information, please see:  https:\/\/lists.apache.org\/thread\/nx6g6htyhpgtzsocybm242781o8w5kq9  ;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-27348",
+            "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. Please check with specific vendors for information on patching status. For more information, please see:  https:\/\/lists.apache.org\/thread\/nx6g6htyhpgtzsocybm242781o8w5kq9 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-27348",
             "cwes": [
                 "CWE-284"
             ]
