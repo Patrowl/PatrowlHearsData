@@ -1,9 +1,39 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.05.01",
-    "dateReleased": "2025-05-01T17:00:59.3117Z",
-    "count": 1329,
+    "catalogVersion": "2025.05.02",
+    "dateReleased": "2025-05-02T16:56:02.4999Z",
+    "count": 1331,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-34028",
+            "vendorProject": "Commvault",
+            "product": "Command Center",
+            "vulnerabilityName": "Commvault Command Center Path Traversal Vulnerability",
+            "dateAdded": "2025-05-02",
+            "shortDescription": "Commvault Command Center contains a path traversal vulnerability that allows a remote, unauthenticated attacker to execute arbitrary code.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-05-23",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/documentation.commvault.com\/securityadvisories\/CV_2025_04_1.html ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-34028",
+            "cwes": [
+                "CWE-22"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-58136",
+            "vendorProject": "Yiiframework",
+            "product": "Yii",
+            "vulnerabilityName": "Yiiframework Yii Improper Protection of Alternate Path Vulnerability",
+            "dateAdded": "2025-05-02",
+            "shortDescription": "Yii Framework contains an improper protection of alternate path vulnerability that may allow a remote attacker to execute arbitrary code. This vulnerability could affect other products that implement Yii, including\u2014but not limited to\u2014Craft CMS, as represented by CVE-2025-32432.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-05-23",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. For more information, please see: https:\/\/www.yiiframework.com\/news\/709\/please-upgrade-to-yii-2-0-52 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-58136",
+            "cwes": [
+                "CWE-424"
+            ]
+        },
         {
             "cveID": "CVE-2024-38475",
             "vendorProject": "Apache",
@@ -226,14 +256,14 @@
         {
             "cveID": "CVE-2025-22457",
             "vendorProject": "Ivanti",
-            "product": "Connect Secure, Policy Secure and ZTA Gateways",
-            "vulnerabilityName": "Ivanti Connect Secure, Policy Secure and ZTA Gateways Stack-Based Buffer Overflow Vulnerability",
+            "product": "Connect Secure, Policy Secure, and ZTA Gateways",
+            "vulnerabilityName": "Ivanti Connect Secure, Policy Secure, and ZTA Gateways Stack-Based Buffer Overflow Vulnerability",
             "dateAdded": "2025-04-04",
-            "shortDescription": "Ivanti Connect Secure, Policy Secure and ZTA Gateways contains a stack-based buffer overflow vulnerability that allows a remote unauthenticated attacker to achieve remote code execution. ",
+            "shortDescription": "Ivanti Connect Secure, Policy Secure, and ZTA Gateways contains a stack-based buffer overflow vulnerability that allows a remote unauthenticated attacker to achieve remote code execution. ",
             "requiredAction": "Apply mitigations as set forth in the CISA instructions linked below.",
             "dueDate": "2025-04-11",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "CISA Mitigation Instructions: https:\/\/www.cisa.gov\/cisa-mitigation-instructions-cve-2025-22457 ; Additional References: https:\/\/forums.ivanti.com\/s\/article\/April-Security-Advisory-Ivanti-Connect-Secure-Policy-Secure-ZTA-Gateways-CVE-2025-22457) ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-22457",
+            "notes": "CISA Mitigation Instructions: https:\/\/www.cisa.gov\/cisa-mitigation-instructions-cve-2025-22457 ; Additional References: https:\/\/forums.ivanti.com\/s\/article\/April-Security-Advisory-Ivanti-Connect-Secure-Policy-Secure-ZTA-Gateways-CVE-2025-22457 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-22457",
             "cwes": [
                 "CWE-121"
             ]
