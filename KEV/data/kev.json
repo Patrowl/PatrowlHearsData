@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2025.05.08",
-    "dateReleased": "2025-05-08T13:26:42.1458Z",
+    "dateReleased": "2025-05-08T15:49:01.7238Z",
     "count": 1335,
     "vulnerabilities": [
         {
@@ -10,7 +10,7 @@
             "product": "Multiple Devices",
             "vulnerabilityName": "GeoVision Devices OS Command Injection Vulnerability",
             "dateAdded": "2025-05-07",
-            "shortDescription": "Multiple GeoVision devices contain an OS command injection vulnerability that allows a remote, unauthenticated attacker to inject and execute arbitrary system commands.",
+            "shortDescription": "Multiple GeoVision devices contain an OS command injection vulnerability that allows a remote, unauthenticated attacker to inject and execute arbitrary system commands. The impacted products could be end-of-life (EoL) and\/or end-of-service (EoS). Users should discontinue product utilization.",
             "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-05-28",
             "knownRansomwareCampaignUse": "Unknown",
@@ -25,7 +25,7 @@
             "product": "Multiple Devices",
             "vulnerabilityName": "GeoVision Devices OS Command Injection Vulnerability",
             "dateAdded": "2025-05-07",
-            "shortDescription": "Multiple GeoVision devices contain an OS command injection vulnerability that allows a remote, unauthenticated attacker to inject and execute arbitrary system commands.",
+            "shortDescription": "Multiple GeoVision devices contain an OS command injection vulnerability that allows a remote, unauthenticated attacker to inject and execute arbitrary system commands. The impacted products could be end-of-life (EoL) and\/or end-of-service (EoS). Users should discontinue product utilization.",
             "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-05-28",
             "knownRansomwareCampaignUse": "Unknown",
