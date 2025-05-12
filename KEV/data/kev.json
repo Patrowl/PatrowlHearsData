@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.05.08",
-    "dateReleased": "2025-05-08T15:49:01.7238Z",
+    "catalogVersion": "2025.05.12",
+    "dateReleased": "2025-05-12T16:28:02.8289Z",
     "count": 1335,
     "vulnerabilities": [
         {
@@ -322,7 +322,7 @@
             "shortDescription": "Ivanti Connect Secure, Policy Secure, and ZTA Gateways contains a stack-based buffer overflow vulnerability that allows a remote unauthenticated attacker to achieve remote code execution. ",
             "requiredAction": "Apply mitigations as set forth in the CISA instructions linked below.",
             "dueDate": "2025-04-11",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "CISA Mitigation Instructions: https:\/\/www.cisa.gov\/cisa-mitigation-instructions-cve-2025-22457 ; Additional References: https:\/\/forums.ivanti.com\/s\/article\/April-Security-Advisory-Ivanti-Connect-Secure-Policy-Secure-ZTA-Gateways-CVE-2025-22457 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-22457",
             "cwes": [
                 "CWE-121"
@@ -1250,7 +1250,7 @@
             "shortDescription": "SonicWall SMA1000 Appliance Management Console (AMC) and Central Management Console (CMC) contain a deserialization of untrusted data vulnerability, which can enable a remote, unauthenticated attacker to execute arbitrary OS commands.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-02-14",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/psirt.global.sonicwall.com\/vuln-detail\/SNWLID-2025-0002 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-23006",
             "cwes": [
                 "CWE-502"
@@ -1385,7 +1385,7 @@
             "shortDescription": "Ivanti Connect Secure, Policy Secure, and ZTA Gateways contain a stack-based buffer overflow which can lead to unauthenticated remote code execution.",
             "requiredAction": "Apply mitigations as set forth in the CISA instructions linked below to include conducting hunt activities, taking remediation actions if applicable, and applying updates prior to returning a device to service.",
             "dueDate": "2025-01-15",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "CISA Mitigation Instructions: https:\/\/www.cisa.gov\/cisa-mitigation-instructions-CVE-2025-0282 Additional References: https:\/\/forums.ivanti.com\/s\/article\/Security-Advisory-Ivanti-Connect-Secure-Policy-Secure-ZTA-Gateways-CVE-2025-0282-CVE-2025-0283 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-0282",
             "cwes": [
                 "CWE-121"
@@ -1413,7 +1413,7 @@
             "shortDescription": "Mitel MiCollab contains a path traversal vulnerability that could allow an authenticated attacker with administrative privileges to read local files within the system due to insufficient input sanitization. This vulnerability can be chained with CVE-2024-41713, which allows an unauthenticated, remote attacker to read arbitrary files on the server.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-01-28",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/www.mitel.com\/support\/security-advisories\/mitel-product-security-advisory-misa-2024-0029 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-55550",
             "cwes": [
                 "CWE-22"
@@ -1428,7 +1428,7 @@
             "shortDescription": "Mitel MiCollab contains a path traversal vulnerability that could allow an attacker to gain unauthorized and unauthenticated access. This vulnerability can be chained with CVE-2024-55550, which allows an unauthenticated, remote attacker to read arbitrary files on the server.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-01-28",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/www.mitel.com\/support\/security-advisories\/mitel-product-security-advisory-misa-2024-0029 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-41713 ",
             "cwes": [
                 "CWE-22"
@@ -1787,7 +1787,7 @@
             "shortDescription": "Palo Alto Networks PAN-OS contains an authentication bypass vulnerability in the web-based management interface for several PAN-OS products, including firewalls and VPN concentrators.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable. Additionally, management interface for affected devices should not be exposed to untrusted networks, including the internet.",
             "dueDate": "2024-12-09",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/security.paloaltonetworks.com\/CVE-2024-0012 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-0012",
             "cwes": [
                 "CWE-306"
@@ -5029,7 +5029,7 @@
             "shortDescription": "Zyxel EMG2926 routers contain a command injection vulnerability located in the diagnostic tools, specifically the nslookup function. A malicious user may exploit numerous vectors to execute malicious commands on the router, such as the ping_ip parameter to the expert\/maintenance\/diagnostic\/nslookup URI.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2023-10-09",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/www.zyxel.com\/global\/en\/support\/security-advisories\/zyxel-security-advisory-for-command-injection-vulnerability-in-emg2926-q10a-ethernet-cpe, https:\/\/www.zyxelguard.com\/Zyxel-EOL.asp; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2017-6884",
             "cwes": [
                 "CWE-78"
@@ -7170,7 +7170,7 @@
             "shortDescription": "Microsoft Windows Mark of the Web (MOTW) contains a security feature bypass vulnerability resulting in a limited loss of integrity and availability of security features.",
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-12-09",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/portal.msrc.microsoft.com\/en-US\/security-guidance\/advisory\/CVE-2022-41091;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-41091",
             "cwes": [
                 "CWE-863"
@@ -8326,7 +8326,7 @@
             "shortDescription": "A remote code execution vulnerability exists when MSDT is called using the URL protocol from a calling application such as Word. An attacker who successfully exploits this vulnerability can run code with the privileges of the calling application.",
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-07-05",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-30190",
             "cwes": [
                 "CWE-610"
@@ -13604,7 +13604,7 @@
             "shortDescription": "Adobe Flash Player allows remote attackers to execute arbitrary code via a crafted SWF file.",
             "requiredAction": "The impacted product is end-of-life and should be disconnected if still in use.",
             "dueDate": "2022-03-24",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2015-7645",
             "cwes": []
         },
@@ -14098,7 +14098,7 @@
             "shortDescription": "Adobe Acrobat and Reader contain an input validation issue in a JavaScript method that could potentially lead to remote code execution.",
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-03-24",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2008-2992",
             "cwes": [
                 "CWE-119"
@@ -16340,7 +16340,7 @@
             "shortDescription": "Atlassian Crowd and Crowd Data Center contain a remote code execution vulnerability resulting from a pdkinstall development plugin being incorrectly enabled in release builds.",
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-05-03",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2019-11580",
             "cwes": []
         },
@@ -16756,7 +16756,7 @@
             "shortDescription": "GitHub Community and Enterprise Editions that utilize the ability to upload images through GitLab Workhorse are vulnerable to remote code execution. Workhorse passes image file extensions through ExifTool, which improperly validates the image files.",
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2021-11-17",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-22205",
             "cwes": [
                 "CWE-20",
@@ -17421,7 +17421,7 @@
             "shortDescription": "Microsoft Windows Active Directory contains a privilege escalation vulnerability due to the way it distributes passwords that are configured using Group Policy preferences. An authenticated attacker who successfully exploits the vulnerability could decrypt the passwords and use them to elevate privileges on the domain.",
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-05-03",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2014-1812",
             "cwes": [
                 "CWE-255"
