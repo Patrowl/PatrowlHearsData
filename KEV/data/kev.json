@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.05.22",
-    "dateReleased": "2025-05-22T17:00:28.7785Z",
+    "catalogVersion": "2025.05.27",
+    "dateReleased": "2025-05-27T16:31:36.689Z",
     "count": 1352,
     "vulnerabilities": [
         {
@@ -1222,7 +1222,7 @@
             "shortDescription": "SimpleHelp remote support software contains multiple path traversal vulnerabilities that allow unauthenticated remote attackers to download arbitrary files from the SimpleHelp host via crafted HTTP requests. These files may include server configuration files and hashed user passwords.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-03-06",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/simple-help.com\/kb---security-vulnerabilities-01-2025 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-57727",
             "cwes": [
                 "CWE-22"
