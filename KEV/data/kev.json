@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.05.27",
-    "dateReleased": "2025-05-27T16:31:36.689Z",
+    "catalogVersion": "2025.05.29",
+    "dateReleased": "2025-05-29T11:25:31.4802Z",
     "count": 1352,
     "vulnerabilities": [
         {
@@ -8385,7 +8385,7 @@
             "shortDescription": "RARLAB UnRAR on Linux and UNIX contains a directory traversal vulnerability, allowing an attacker to write to files during an extract (unpack) operation.",
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-08-30",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "Vulnerability updated with version 6.12. Accessing link will download update information: https:\/\/www.rarlab.com\/rar\/rarlinux-x32-612.tar.gz;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-30333",
             "cwes": [
                 "CWE-22",
@@ -8401,7 +8401,7 @@
             "shortDescription": "Synacor Zimbra Collaboration Suite (ZCS) allows an attacker to inject memcache commands into a targeted instance which causes an overwrite of arbitrary cached entries.",
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-08-25",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/wiki.zimbra.com\/wiki\/Zimbra_Releases\/9.0.0\/P24.1#Security_Fixes;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-27924",
             "cwes": [
                 "CWE-93"
@@ -9615,7 +9615,7 @@
             "shortDescription": "Unspecified vulnerability in the Oracle WebCenter Forms Recognition component in Oracle Fusion Middleware allows remote attackers to affect confidentiality, integrity, and availability via Unknown vectors related to Designer.",
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-06-15",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2012-1710",
             "cwes": []
         },
@@ -14153,7 +14153,7 @@
             "shortDescription": "The Java Runtime Environment (JRE) component in Oracle Java SE allow for remote code execution.",
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-03-24",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2012-4681",
             "cwes": []
         },
