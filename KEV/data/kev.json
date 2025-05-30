@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.05.29",
-    "dateReleased": "2025-05-29T11:25:31.4802Z",
+    "catalogVersion": "2025.05.30",
+    "dateReleased": "2025-05-30T21:01:55.3914Z",
     "count": 1352,
     "vulnerabilities": [
         {
@@ -3907,7 +3907,7 @@
             "shortDescription": "Ivanti Endpoint Manager Cloud Service Appliance (EPM CSA) contains a code injection vulnerability that allows an unauthenticated user to execute malicious code with limited permissions (nobody).",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-04-15",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/forums.ivanti.com\/s\/article\/SA-2021-12-02?language=en_US; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-44529",
             "cwes": [
                 "CWE-94"
