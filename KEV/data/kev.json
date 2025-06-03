@@ -1,9 +1,54 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2025.06.03",
-    "dateReleased": "2025-06-03T10:56:50.6693Z",
-    "count": 1357,
+    "dateReleased": "2025-06-03T16:48:39.9414Z",
+    "count": 1360,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-21479",
+            "vendorProject": "Qualcomm",
+            "product": "Multiple Chipsets",
+            "vulnerabilityName": "Qualcomm Multiple Chipsets Incorrect Authorization Vulnerability",
+            "dateAdded": "2025-06-03",
+            "shortDescription": "Multiple Qualcomm chipsets contain an incorrect authorization vulnerability. This vulnerability allows for memory corruption due to unauthorized command execution in GPU micronode while executing specific sequence of commands.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-06-24",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "Please check with specific vendors (OEMs,) for information on patching status. For more information, please see: https:\/\/docs.qualcomm.com\/product\/publicresources\/securitybulletin\/june-2025-bulletin.html ;   https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-21479",
+            "cwes": [
+                "CWE-863"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-21480",
+            "vendorProject": "Qualcomm",
+            "product": "Multiple Chipsets",
+            "vulnerabilityName": "Qualcomm Multiple Chipsets Incorrect Authorization Vulnerability",
+            "dateAdded": "2025-06-03",
+            "shortDescription": "Multiple Qualcomm chipsets contain an incorrect authorization vulnerability. This vulnerability allows for memory corruption due to unauthorized command execution in GPU micronode while executing specific sequence of commands.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-06-24",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "Please check with specific vendors (OEMs,) for information on patching status. For more information, please see: https:\/\/docs.qualcomm.com\/product\/publicresources\/securitybulletin\/june-2025-bulletin.html ;   https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-21480",
+            "cwes": [
+                "CWE-863"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-27038",
+            "vendorProject": "Qualcomm",
+            "product": "Multiple Chipsets",
+            "vulnerabilityName": "Qualcomm Multiple Chipsets Use-After-Free Vulnerability",
+            "dateAdded": "2025-06-03",
+            "shortDescription": "Multiple Qualcomm chipsets contain a use-after-free vulnerability. This vulnerability allows for memory corruption while rendering graphics using Adreno GPU drivers in Chrome.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-06-24",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "Please check with specific vendors (OEMs,) for information on patching status. For more information, please see: https:\/\/docs.qualcomm.com\/product\/publicresources\/securitybulletin\/june-2025-bulletin.html ;   https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-27038",
+            "cwes": [
+                "CWE-416"
+            ]
+        },
         {
             "cveID": "CVE-2021-32030",
             "vendorProject": "ASUS",
