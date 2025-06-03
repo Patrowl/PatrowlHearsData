@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.06.02",
-    "dateReleased": "2025-06-02T17:47:59.1391Z",
+    "catalogVersion": "2025.06.03",
+    "dateReleased": "2025-06-03T10:56:50.6693Z",
     "count": 1357,
     "vulnerabilities": [
         {
@@ -3683,7 +3683,7 @@
             "shortDescription": "NextGen Healthcare Mirth Connect contains a deserialization of untrusted data vulnerability that allows for unauthenticated remote code execution via a specially crafted request.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-06-10",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. Please check with specific vendors for information on patching status.   For more information, please see: https:\/\/github.com\/nextgenhealthcare\/connect\/wiki\/4.4.1---What%27s-New ;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-43208",
             "cwes": [
                 "CWE-502"
