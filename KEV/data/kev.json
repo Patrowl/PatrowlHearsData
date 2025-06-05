@@ -1,9 +1,25 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.06.03",
-    "dateReleased": "2025-06-03T16:48:39.9414Z",
+    "catalogVersion": "2025.06.05",
+    "dateReleased": "2025-06-05T16:54:46.3137Z",
     "count": 1360,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-5419",
+            "vendorProject": "Google",
+            "product": "Chromium V8",
+            "vulnerabilityName": "Google Chromium V8 Out-of-Bounds Read and Write Vulnerability",
+            "dateAdded": "2025-06-05",
+            "shortDescription": "Google Chromium V8 contains an out-of-bounds read and write vulnerability that could allow a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-06-26",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/chromereleases.googleblog.com\/2025\/06\/stable-channel-update-for-desktop.html;   https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-5419\",",
+            "cwes": [
+                "CWE-125",
+                "CWE-787"
+            ]
+        },
         {
             "cveID": "CVE-2025-21479",
             "vendorProject": "Qualcomm",
@@ -257,21 +273,6 @@
             "notes": "https:\/\/fw.draytek.com.tw\/Vigor2960\/Firmware\/v1.5.1.5\/DrayTek_Vigor2960_V1.5.1.5_01release-note.pdf ; https:\/\/fw.draytek.com.tw\/Vigor300B\/Firmware\/v1.5.1.5\/DrayTek_Vigor300B_V1.5.1.5_01release-note.pdf ; https:\/\/fw.draytek.com.tw\/Vigor3900\/Firmware\/v1.5.1.5\/DrayTek_Vigor3900_V1.5.1.5_01release-note.pdf ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-12987",
             "cwes": [
                 "CWE-78"
-            ]
-        },
-        {
-            "cveID": "CVE-2025-4664",
-            "vendorProject": "Google",
-            "product": "Chromium",
-            "vulnerabilityName": "Google Chromium Loader Insufficient Policy Enforcement Vulnerability",
-            "dateAdded": "2025-05-15",
-            "shortDescription": "Google Chromium contains an insufficient policy enforcement vulnerability that allows a remote attacker to leak cross-origin data via a crafted HTML page.",
-            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
-            "dueDate": "2025-06-05",
-            "knownRansomwareCampaignUse": "Unknown",
-            "notes": "https:\/\/chromereleases.googleblog.com\/2025\/05\/stable-channel-update-for-desktop_14.html ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-4664",
-            "cwes": [
-                "CWE-346"
             ]
         },
         {
