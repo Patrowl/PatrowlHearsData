@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.06.05",
-    "dateReleased": "2025-06-05T18:02:07.1325Z",
+    "catalogVersion": "2025.06.09",
+    "dateReleased": "2025-06-09T12:35:28.591Z",
     "count": 1360,
     "vulnerabilities": [
         {
@@ -4253,7 +4253,7 @@
             "shortDescription": "Fortinet FortiOS contains an out-of-bound write vulnerability that allows a remote unauthenticated attacker to execute code or commands via specially crafted HTTP requests.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-02-16",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/fortiguard.fortinet.com\/psirt\/FG-IR-24-015 ;   https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-21762",
             "cwes": [
                 "CWE-787"
