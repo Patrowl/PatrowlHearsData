@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.06.10",
-    "dateReleased": "2025-06-10T17:05:43.0382Z",
+    "catalogVersion": "2025.06.12",
+    "dateReleased": "2025-06-12T20:49:46.9966Z",
     "count": 1364,
     "vulnerabilities": [
         {
@@ -1404,7 +1404,7 @@
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-03-06",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "https:\/\/simple-help.com\/kb---security-vulnerabilities-01-2025 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-57727",
+            "notes": "https:\/\/simple-help.com\/kb---security-vulnerabilities-01-2025 ; Additional CISA Mitigation Instructions: https:\/\/www.cisa.gov\/news-events\/cybersecurity-advisories\/aa25-163a ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-57727",
             "cwes": [
                 "CWE-22"
             ]
