@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.06.12",
-    "dateReleased": "2025-06-12T20:49:46.9966Z",
+    "catalogVersion": "2025.06.13",
+    "dateReleased": "2025-06-13T16:08:40.4237Z",
     "count": 1364,
     "vulnerabilities": [
         {
@@ -191,7 +191,7 @@
             "product": "RT-AX55 Routers",
             "vulnerabilityName": "ASUS RT-AX55 Routers OS Command Injection Vulnerability",
             "dateAdded": "2025-06-02",
-            "shortDescription": "ASUS RT-AX55 devices contain a OS command injection vulnerability that could allow a remote, authenticated attacker to execute arbitrary commands.",
+            "shortDescription": "ASUS RT-AX55 devices contain an OS command injection vulnerability that could allow a remote, authenticated attacker to execute arbitrary commands. As represented by CVE-2023-41346.",
             "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-06-23",
             "knownRansomwareCampaignUse": "Unknown",
