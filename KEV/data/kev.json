@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2025.06.20",
-    "dateReleased": "2025-06-20T14:56:51.9646Z",
+    "dateReleased": "2025-06-20T15:54:44.9005Z",
     "count": 1367,
     "vulnerabilities": [
         {
@@ -57,7 +57,7 @@
             "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-07-01",
             "knownRansomwareCampaignUse": "Unknown",
-            "notes": "This vulnerability affects a common open-source project, third-party library, or a protocol used by different products. For more information, please see: https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2025-33053 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-33053",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2025-33053 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-33053",
             "cwes": [
                 "CWE-73"
             ]
