@@ -1,9 +1,24 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.06.25",
-    "dateReleased": "2025-06-25T16:52:26.9744Z",
-    "count": 1370,
+    "catalogVersion": "2025.06.30",
+    "dateReleased": "2025-06-30T17:00:32.5907Z",
+    "count": 1371,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-6543",
+            "vendorProject": "Citrix",
+            "product": "NetScaler ADC and Gateway",
+            "vulnerabilityName": "Citrix NetScaler ADC and Gateway Buffer Overflow Vulnerability",
+            "dateAdded": "2025-06-30",
+            "shortDescription": "Citrix NetScaler ADC and Gateway contain a buffer overflow vulnerability leading to unintended control flow and Denial of Service. NetScaler must be configured as Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) OR AAA virtual server.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-07-21",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/support.citrix.com\/support-home\/kbsearch\/article?articleNumber=CTX694788 ; https:\/\/www.netscaler.com\/blog\/news\/netscaler-critical-security-updates-for-cve-2025-6543-and-cve-2025-5777\/ ;   https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-6543",
+            "cwes": [
+                "CWE-119"
+            ]
+        },
         {
             "cveID": "CVE-2019-6693",
             "vendorProject": "Fortinet",
