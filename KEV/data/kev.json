@@ -1,9 +1,39 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.06.30",
-    "dateReleased": "2025-06-30T17:00:32.5907Z",
-    "count": 1371,
+    "catalogVersion": "2025.07.01",
+    "dateReleased": "2025-07-01T17:00:59.134Z",
+    "count": 1373,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-48928",
+            "vendorProject": "TeleMessage",
+            "product": "TM SGNL",
+            "vulnerabilityName": "TeleMessage TM SGNL Exposure of Core Dump File to an Unauthorized Control Sphere Vulnerability",
+            "dateAdded": "2025-07-01",
+            "shortDescription": "TeleMessage TM SGNL contains an exposure of core dump file to an unauthorized control sphere Vulnerability. This vulnerability is based on a JSP application in which the heap content is roughly equivalent to a \"core dump\" in which a password previously sent over HTTP would be included in this dump.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-07-22",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "It is recommended that mitigations be applied per vendor instructions if available. If these instructions cannot be located or if mitigations are unavailable, discontinue use of the product. ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-48928",
+            "cwes": [
+                "CWE-528"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-48927",
+            "vendorProject": "TeleMessage",
+            "product": "TM SGNL",
+            "vulnerabilityName": "TeleMessage TM SGNL Initialization of a Resource with an Insecure Default Vulnerability",
+            "dateAdded": "2025-07-01",
+            "shortDescription": "TeleMessage TM SGNL contains an initialization of a resource with an insecure default vulnerability. This vulnerability relies on how the Spring Boot Actuator is configured with an exposed heap dump endpoint at a \/heapdump URI.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-07-22",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "It is recommended that mitigations be applied per vendor instructions if available. If these instructions cannot be located or if mitigations are unavailable, discontinue use of the product. ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-48927",
+            "cwes": [
+                "CWE-1188"
+            ]
+        },
         {
             "cveID": "CVE-2025-6543",
             "vendorProject": "Citrix",
