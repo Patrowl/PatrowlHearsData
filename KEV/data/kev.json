@@ -1,9 +1,24 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.07.01",
-    "dateReleased": "2025-07-01T17:00:59.134Z",
-    "count": 1373,
+    "catalogVersion": "2025.07.02",
+    "dateReleased": "2025-07-02T17:00:37.4972Z",
+    "count": 1374,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-6554",
+            "vendorProject": "Google",
+            "product": "Chromium V8",
+            "vulnerabilityName": "Google Chromium V8 Type Confusion Vulnerability",
+            "dateAdded": "2025-07-02",
+            "shortDescription": "Google Chromium V8 contains a type confusion vulnerability that could allow a remote attacker to perform arbitrary read\/write via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-07-23",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/chromereleases.googleblog.com\/2025\/06\/stable-channel-update-for-desktop_30.html?m=1 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-6554",
+            "cwes": [
+                "CWE-843"
+            ]
+        },
         {
             "cveID": "CVE-2025-48928",
             "vendorProject": "TeleMessage",
