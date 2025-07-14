@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.07.10",
-    "dateReleased": "2025-07-10T16:05:09.522Z",
+    "catalogVersion": "2025.07.14",
+    "dateReleased": "2025-07-14T13:21:12.4946Z",
     "count": 1379,
     "vulnerabilities": [
         {
@@ -150,7 +150,7 @@
             "shortDescription": "Fortinet FortiOS contains a use of hard-coded credentials vulnerability that could allow an attacker to cipher sensitive data in FortiOS configuration backup file via knowledge of the hard-coded key. ",
             "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-07-16",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/fortiguard.com\/advisory\/FG-IR-19-007 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2019-6693",
             "cwes": [
                 "CWE-798"
