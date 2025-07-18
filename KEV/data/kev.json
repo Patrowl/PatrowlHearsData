@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.07.14",
-    "dateReleased": "2025-07-14T17:04:09.0133Z",
+    "catalogVersion": "2025.07.18",
+    "dateReleased": "2025-07-18T15:48:01.2849Z",
     "count": 1380,
     "vulnerabilities": [
         {
@@ -18506,7 +18506,7 @@
             "shortDescription": "Microsoft Remote Desktop Services, formerly known as Terminal Service, contains an unspecified vulnerability that allows an unauthenticated attacker to connect to the target system using RDP and send specially crafted requests. Successful exploitation allows for remote code execution. The vulnerability is also known under the moniker of BlueKeep.",
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-05-03",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2019-0708",
             "cwes": [
                 "CWE-416"
