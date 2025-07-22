@@ -1,9 +1,69 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2025.07.22",
-    "dateReleased": "2025-07-22T15:00:07.9247Z",
-    "count": 1384,
+    "dateReleased": "2025-07-22T17:01:26.7198Z",
+    "count": 1388,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-2775",
+            "vendorProject": "SysAid",
+            "product": "SysAid On-Prem",
+            "vulnerabilityName": "SysAid On-Prem Improper Restriction of XML External Entity Reference Vulnerability",
+            "dateAdded": "2025-07-22",
+            "shortDescription": "SysAid On-Prem contains an improper restriction of XML external entity reference vulnerability in the Checkin processing functionality, allowing for administrator account takeover and file read primitives.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-08-12",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/documentation.sysaid.com\/docs\/24-40-60 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-2775",
+            "cwes": [
+                "CWE-611"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-2776",
+            "vendorProject": "SysAid",
+            "product": "SysAid On-Prem",
+            "vulnerabilityName": "SysAid On-Prem Improper Restriction of XML External Entity Reference Vulnerability",
+            "dateAdded": "2025-07-22",
+            "shortDescription": "SysAid On-Prem contains an improper restriction of XML external entity reference vulnerability in the Server URL processing functionality, allowing for administrator account takeover and file read primitives.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-08-12",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/documentation.sysaid.com\/docs\/24-40-60 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-2776",
+            "cwes": [
+                "CWE-611"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-6558",
+            "vendorProject": "Google",
+            "product": "Chromium",
+            "vulnerabilityName": "Google Chromium ANGLE and GPU Improper Input Validation Vulnerability",
+            "dateAdded": "2025-07-22",
+            "shortDescription": "Google Chromium contains an improper input validation vulnerability in ANGLE and GPU. This vulnerability could allow a remote attacker to potentially perform a sandbox escape via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-08-12",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/chromereleases.googleblog.com\/2025\/07\/stable-channel-update-for-desktop_15.html ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-6558",
+            "cwes": [
+                "CWE-20"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-54309",
+            "vendorProject": "CrushFTP",
+            "product": "CrushFTP",
+            "vulnerabilityName": " CrushFTP Unprotected Alternate Channel Vulnerability",
+            "dateAdded": "2025-07-22",
+            "shortDescription": "CrushFTP contains an unprotected alternate channel vulnerability. When the DMZ proxy feature is not used, mishandles AS2 validation and consequently allows remote attackers to obtain admin access via HTTPS.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-08-12",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.crushftp.com\/crush11wiki\/Wiki.jsp?page=CompromiseJuly2025 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-54309 ",
+            "cwes": [
+                "CWE-420"
+            ]
+        },
         {
             "cveID": "CVE-2025-49704",
             "vendorProject": "Microsoft",
