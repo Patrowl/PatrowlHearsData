@@ -1,9 +1,54 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.07.24",
-    "dateReleased": "2025-07-24T17:30:26.5912Z",
-    "count": 1388,
+    "catalogVersion": "2025.07.28",
+    "dateReleased": "2025-07-28T14:00:14.6746Z",
+    "count": 1391,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2023-2533",
+            "vendorProject": "PaperCut",
+            "product": "NG\/MF",
+            "vulnerabilityName": "PaperCut NG\/MF Cross-Site Request Forgery (CSRF) Vulnerability",
+            "dateAdded": "2025-07-28",
+            "shortDescription": "PaperCut NG\/MF contains a cross-site request forgery (CSRF) vulnerability, which, under specific conditions, could potentially enable an attacker to alter security settings or execute arbitrary code. ",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-08-18",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.papercut.com\/kb\/Main\/SecurityBulletinJune2023 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-2533",
+            "cwes": [
+                "CWE-352"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-20337",
+            "vendorProject": "Cisco",
+            "product": "Identity Services Engine",
+            "vulnerabilityName": "Cisco Identity Services Engine Injection Vulnerability",
+            "dateAdded": "2025-07-28",
+            "shortDescription": "Cisco Identity Services Engine contains an injection vulnerability in a specific API of Cisco ISE and Cisco ISE-PIC due to insufficient validation of user-supplied input allowing an attacker to exploit this vulnerability by submitting a crafted API request. Successful exploitation could allow an attacker to perform remote code execution and obtaining root privileges on an affected device.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-08-18",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/sec.cloudapps.cisco.com\/security\/center\/content\/CiscoSecurityAdvisory\/cisco-sa-ise-unauth-rce-ZAd2GnJ6 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-20337",
+            "cwes": [
+                "CWE-74"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-20281",
+            "vendorProject": "Cisco",
+            "product": "Identity Services Engine",
+            "vulnerabilityName": "Cisco Identity Services Engine Injection Vulnerability",
+            "dateAdded": "2025-07-28",
+            "shortDescription": "Cisco Identity Services Engine contains an injection vulnerability in a specific API of Cisco ISE and Cisco ISE-PIC due to insufficient validation of user-supplied input allowing an attacker to exploit this vulnerability by submitting a crafted API request. Successful exploitation could allow an attacker to perform remote code execution and obtaining root privileges on an affected device.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-08-18",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/sec.cloudapps.cisco.com\/security\/center\/content\/CiscoSecurityAdvisory\/cisco-sa-ise-unauth-rce-ZAd2GnJ6 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-20281",
+            "cwes": [
+                "CWE-74"
+            ]
+        },
         {
             "cveID": "CVE-2025-2775",
             "vendorProject": "SysAid",
@@ -89,7 +134,7 @@
             "requiredAction": "CISA recommends disconnecting public-facing versions of SharePoint Server that have reached their end-of-life (EOL) or end-of-service (EOS). For example, SharePoint Server 2013 and earlier versions are end-of-life and should be discontinued if still in use. For supported versions, please follow the mitigations according to CISA and vendor instructions. Adhere to the applicable BOD 22-01 guidance for cloud services or discontinue use of the product if mitigations are not available.",
             "dueDate": "2025-07-23",
             "knownRansomwareCampaignUse": "Known",
-            "notes": "CISA Mitigation Instructions: https:\/\/www.cisa.gov\/news-events\/alerts\/2025\/07\/20\/microsoft-releases-guidance-exploitation-sharepoint-vulnerability-cve-2025-53770; https:\/\/www.microsoft.com\/en-us\/security\/blog\/2025\/07\/22\/disrupting-active-exploitation-of-on-premises-sharepoint-vulnerabilities\/ ; https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2025-49706 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-49706",
+            "notes": "CISA Mitigation Instructions: https:\/\/www.cisa.gov\/news-events\/alerts\/2025\/07\/20\/microsoft-releases-guidance-exploitation-sharepoint-vulnerability-cve-2025-53770 ; https:\/\/www.microsoft.com\/en-us\/security\/blog\/2025\/07\/22\/disrupting-active-exploitation-of-on-premises-sharepoint-vulnerabilities\/ ; https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2025-49706 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-49706",
             "cwes": [
                 "CWE-287"
             ]
