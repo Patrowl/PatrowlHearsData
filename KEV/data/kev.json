@@ -1,9 +1,35 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.08.12",
-    "dateReleased": "2025-08-12T17:01:51.5879Z",
-    "count": 1397,
+    "catalogVersion": "2025.08.13",
+    "dateReleased": "2025-08-13T19:43:38.9296Z",
+    "count": 1399,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-8876",
+            "vendorProject": "N-able",
+            "product": "N-Central",
+            "vulnerabilityName": "N-able N-Central Command Injection Vulnerability",
+            "dateAdded": "2025-08-13",
+            "shortDescription": "N-able N-Central contains a command injection vulnerability via improper sanitization of user input.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-08-20",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/status.n-able.com\/2025\/08\/13\/announcing-the-ga-of-n-central-2025-3-1\/ ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-8876",
+            "cwes": []
+        },
+        {
+            "cveID": "CVE-2025-8875",
+            "vendorProject": "N-able",
+            "product": "N-Central",
+            "vulnerabilityName": "N-able N-Central Insecure Deserialization Vulnerability",
+            "dateAdded": "2025-08-13",
+            "shortDescription": "N-able N-Central contains an insecure deserialization vulnerability that could lead to command execution.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-08-20",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/status.n-able.com\/2025\/08\/13\/announcing-the-ga-of-n-central-2025-3-1\/ ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-8875",
+            "cwes": []
+        },
         {
             "cveID": "CVE-2025-8088",
             "vendorProject": "RARLAB",
