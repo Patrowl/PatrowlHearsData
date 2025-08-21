@@ -104,6 +104,7 @@ def clean_duplicated_cpes(cpe_nodes, matching_cpes):
 
 def main():
     global CPE_DICT
+    global BASEDIR
     # Create argument parser
     parser = argparse.ArgumentParser(description='Extract CPEs from CVE files by year')
     parser.add_argument('--year', '-y', help='Year to process', default='2022')
@@ -130,13 +131,13 @@ def main():
         os.makedirs(BASEDIR+'/tmp-nvd/')
 
     # print("[+] Downloading CVE dictionary from NVD feeds")
-    # r = requests.get('https://nvd.nist.gov/feeds/json/cpematch/1.0/nvdcpematch-1.0.json.zip', stream=True)
-    # with open(f"{BASEDIR}/tmp-nvd/nvdcpematch-1.0.json.zip", 'wb') as f:
-    #     pbar = tqdm(unit="B", unit_scale=True, total=int(r.headers['Content-Length']), desc="nvdcpematch-1.0.json.zip")
-    #     for chunk in r.iter_content(chunk_size=1024):
-    #         f.write(chunk)
-    #         pbar.update(1024)
-    #     pbar.close()
+    #r = requests.get('https://nvd.nist.gov/feeds/json/cpematch/1.0/nvdcpematch-1.0.json.zip', stream=True)
+    #with open(f"{BASEDIR}/tmp-nvd/nvdcpematch-1.0.json.zip", 'wb') as f:
+        #pbar = tqdm(unit="B", unit_scale=True, total=int(r.headers['Content-Length']), desc="nvdcpematch-1.0.json.zip")
+    #    for chunk in r.iter_content(chunk_size=1024):
+    #        f.write(chunk)
+            #pbar.update(1024)
+        #pbar.close()
 
     print("[+] Unzipping and loading CPE dictionary from NVD")
     archive = zipfile.ZipFile(f"{BASEDIR}/tmp-nvd/nvdcpematch-1.0.json.zip", 'r')
