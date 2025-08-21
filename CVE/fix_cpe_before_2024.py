@@ -25,7 +25,7 @@ def query_all(data, **criteria):
         for k, v in criteria.items():
             if k == "cpe23Uri":
                 v = ":".join(v.split(":")[:6])
-                if item.get(k).startswith(v):
+                if item.get(k).startswith(v) is False:
                     all_match = False
                     break  # stop checking this item
             else:
@@ -38,6 +38,7 @@ def query_all(data, **criteria):
 
 def get_matching_cpes(**criterias):
     """Return a list of matching CPEs based on the given criteria."""
+    # print(criterias, CPE_DICT[0])
     matching_cpes = query_all(CPE_DICT, **criterias)
     # criterias = list(criterias.keys())
     # criterias.append("cpe_name")
@@ -102,13 +103,14 @@ def clean_duplicated_cpes(cpe_nodes, matching_cpes):
 
 
 def main():
+    global CPE_DICT
     # Create argument parser
     parser = argparse.ArgumentParser(description='Extract CPEs from CVE files by year')
     parser.add_argument('--year', '-y', help='Year to process', default='2022')
     
     # Parse arguments
     args = parser.parse_args()
-    if int(args.year) not in range(1999, 2023):
+    if int(args.year) not in range(1999, 2024):
         print("Unsupported year")
         exit()
 
@@ -152,7 +154,7 @@ def main():
     for year_dir in sorted(os.listdir(cves_dir)):
         # if year_dir in ["2025", "2024"]:
         #     continue
-        if year_dir not in ["2022"]:
+        if year_dir != str(args.year):
             continue
 
         year_dir_path = os.path.join(cves_dir, year_dir)
@@ -172,11 +174,13 @@ def main():
         cpe_nodes = {}
         with open(cve_file, 'r') as inputfile:
             file_content = json.load(inputfile)
+            # print(file_content)
             cpe_nodes = file_content["configurations"]["nodes"]
             for node in cpe_nodes:
+                # print(node)
                 if "cpe_match" in node:
                     cpe_matches = node["cpe_match"]
-                    cpe_matches_extended = []
+                    # cpe_matches_extended = []
                     # Do something with the CPE matches
                     for cpe_match in cpe_matches:
                         if not cpe_match["vulnerable"]:
@@ -197,6 +201,8 @@ def main():
                             if len(new_matching_cpes) > 0:
                                 # print(f"Found CPEs for {cpe_match['cpe23Uri']}: {new_matching_cpes}")
                                 matching_cpes.extend(new_matching_cpes)
+                                # print(cve_file, new_matching_cpes)
+                                # exit()
                                 continue
                             
                             # print(f"No matching CPE found for {cpe_match['cpe23Uri']} with criteria {cpe_match}")
@@ -224,6 +230,7 @@ def main():
                     "cpe_name": []
                 })
 
+            # Reopen the CVE file
             new_file_content = {}
             with open(cve_file, 'r') as inputfile:
                 new_file_content = json.load(inputfile)
@@ -232,6 +239,7 @@ def main():
                 # print(f"New node created for {cve_file}: {new_node}")
                 # print(f"Updated file content for {cve_file}: {new_file_content}")
 
+            # Write updates into file
             with open(cve_file, "w") as f:
                 json.dump(new_file_content, f)
         
