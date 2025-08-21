@@ -1,5 +1,6 @@
+import argparse
 from collections import Counter
-from datetime import datetime, timedelta
+from datetime import datetime
 import requests
 import os
 import zipfile
@@ -99,128 +100,144 @@ def clean_duplicated_cpes(cpe_nodes, matching_cpes):
                     matching_cpes.remove(cpe_match["cpe23Uri"])
     return matching_cpes
 
-print("[+] Loading vendor:product files from Patrowl & Nuclei templates")
-patrowl_vendors = {}
-with open(NUCLEI_VENDORS_FILE, 'r') as f:
-    lines = f.read().splitlines()
-    for line in lines:
-        if not line.strip():
-            continue
-        vendor, product = line.split(":")
-        if vendor not in patrowl_vendors:
-            patrowl_vendors[vendor] = []
-        patrowl_vendors[vendor].append(product)
 
-if not os.path.exists(BASEDIR+'/tmp-nvd/'):
-    os.makedirs(BASEDIR+'/tmp-nvd/')
-
-# print("[+] Downloading CVE dictionary from NVD feeds")
-# r = requests.get('https://nvd.nist.gov/feeds/json/cpematch/1.0/nvdcpematch-1.0.json.zip', stream=True)
-# with open(f"{BASEDIR}/tmp-nvd/nvdcpematch-1.0.json.zip", 'wb') as f:
-#     pbar = tqdm(unit="B", unit_scale=True, total=int(r.headers['Content-Length']), desc="nvdcpematch-1.0.json.zip")
-#     for chunk in r.iter_content(chunk_size=1024):
-#         f.write(chunk)
-#         pbar.update(1024)
-#     pbar.close()
-
-print("[+] Unzipping and loading CPE dictionary from NVD")
-archive = zipfile.ZipFile(f"{BASEDIR}/tmp-nvd/nvdcpematch-1.0.json.zip", 'r')
-jsonfile = archive.open(archive.namelist()[0])
-CPE_DICT = json.loads(jsonfile.read())["matches"]
-
-print("[+] Search and store CPE list by vendor + product")
-cpe_dict_clean = clean_cpes()
-
-# Prepare CVE listing
-cves_dir = os.path.join(BASEDIR, "data/")
-cve_files = []
-
-# Look for CVE candidates
-for year_dir in sorted(os.listdir(cves_dir)):
-    # if year_dir in ["2025", "2024"]:
-    #     continue
-    if year_dir not in ["2022"]:
-        continue
-
-    year_dir_path = os.path.join(cves_dir, year_dir)
-    if os.path.isdir(year_dir_path) is False:
-        continue
-
-    for cve_file in sorted(os.listdir(year_dir_path)):
-        cve_file_path = os.path.join(year_dir_path, cve_file)
-        # if cve_file == "CVE-2022-41741.json":
-        cve_files.append(cve_file_path)
-
-nb_matches = 0
-pbar = tqdm(cve_files)
-for cve_file in pbar:
-    # print(cve_file)
-    matching_cpes = []
-    cpe_nodes = {}
-    with open(cve_file, 'r') as inputfile:
-        file_content = json.load(inputfile)
-        cpe_nodes = file_content["configurations"]["nodes"]
-        for node in cpe_nodes:
-            if "cpe_match" in node:
-                cpe_matches = node["cpe_match"]
-                cpe_matches_extended = []
-                # Do something with the CPE matches
-                for cpe_match in cpe_matches:
-                    if not cpe_match["vulnerable"]:
-                        continue
-
-                    # List available CPE for this vendor/product
-                    # print(f"Checking CPE matches for {cpe_match['cpe23Uri']}...")
-                    vendor = cpe_match['cpe23Uri'].split(":")[3]
-                    product = cpe_match['cpe23Uri'].split(":")[4]
-
-                    if vendor in patrowl_vendors and product in patrowl_vendors[vendor]:
-                        cpe_match.pop("vulnerable", None)
-                        cpe_match.pop("cpe_name", None)
-
-                        if len(cpe_match.keys()) <= 1: # break loop if extra criteria like "versionEndIncluding"
-                            continue
-                        new_matching_cpes = get_matching_cpes(**cpe_match)
-                        if len(new_matching_cpes) > 0:
-                            # print(f"Found CPEs for {cpe_match['cpe23Uri']}: {new_matching_cpes}")
-                            matching_cpes.extend(new_matching_cpes)
-                            continue
-                        
-                        # print(f"No matching CPE found for {cpe_match['cpe23Uri']} with criteria {cpe_match}")
-                        # Try to find missing pieces
-                        new_matching_cpes = search_missing_cpes(cpe_dict_clean, vendor, product, **cpe_match)
-                        if len(new_matching_cpes) > 0:
-                            # print(f"Found missing CPEs for {cpe_match['cpe23Uri']}: {new_matching_cpes}")
-                            matching_cpes.extend(new_matching_cpes)
-
-    # print(matching_cpes)
-    # Check if updates have been found and update CVE file
-    if len(matching_cpes) > 0:
-        matching_cpes = sorted(set(matching_cpes))  # Remove duplicates
-        matching_cpes = clean_duplicated_cpes(cpe_nodes, matching_cpes)
-        # print(cve_file, "=>", matching_cpes)
-        new_node = {
-            "operator": "OR",
-            "children": [],
-            "cpe_match": []
-        }
-        for cpe in matching_cpes:
-            new_node["cpe_match"].append({
-                "vulnerable": True,
-                "cpe23Uri": cpe,
-                "cpe_name": []
-            })
-
-        new_file_content = {}
-        with open(cve_file, 'r') as inputfile:
-            new_file_content = json.load(inputfile)
-            new_file_content["configurations"]["nodes"].append(new_node)
-            new_file_content["lastModifiedDate"] = datetime.now().strftime("%Y-%m-%dT%H:%MZ")
-            # print(f"New node created for {cve_file}: {new_node}")
-            # print(f"Updated file content for {cve_file}: {new_file_content}")
-
-        with open(cve_file, "w") as f:
-            json.dump(new_file_content, f)
+def main():
+    # Create argument parser
+    parser = argparse.ArgumentParser(description='Extract CPEs from CVE files by year')
+    parser.add_argument('--year', '-y', help='Year to process', default='2022')
     
-    nb_matches += len(matching_cpes)
-    pbar.set_description("Matching CPEs: %i" % nb_matches)
+    # Parse arguments
+    args = parser.parse_args()
+    if int(args.year) not in range(1999, 2023):
+        print("Unsupported year")
+        exit()
+
+    print("[+] Loading vendor:product files from Patrowl & Nuclei templates")
+    patrowl_vendors = {}
+    with open(NUCLEI_VENDORS_FILE, 'r') as f:
+        lines = f.read().splitlines()
+        for line in lines:
+            if not line.strip():
+                continue
+            vendor, product = line.split(":")
+            if vendor not in patrowl_vendors:
+                patrowl_vendors[vendor] = []
+            patrowl_vendors[vendor].append(product)
+
+    if not os.path.exists(BASEDIR+'/tmp-nvd/'):
+        os.makedirs(BASEDIR+'/tmp-nvd/')
+
+    # print("[+] Downloading CVE dictionary from NVD feeds")
+    # r = requests.get('https://nvd.nist.gov/feeds/json/cpematch/1.0/nvdcpematch-1.0.json.zip', stream=True)
+    # with open(f"{BASEDIR}/tmp-nvd/nvdcpematch-1.0.json.zip", 'wb') as f:
+    #     pbar = tqdm(unit="B", unit_scale=True, total=int(r.headers['Content-Length']), desc="nvdcpematch-1.0.json.zip")
+    #     for chunk in r.iter_content(chunk_size=1024):
+    #         f.write(chunk)
+    #         pbar.update(1024)
+    #     pbar.close()
+
+    print("[+] Unzipping and loading CPE dictionary from NVD")
+    archive = zipfile.ZipFile(f"{BASEDIR}/tmp-nvd/nvdcpematch-1.0.json.zip", 'r')
+    jsonfile = archive.open(archive.namelist()[0])
+    CPE_DICT = json.loads(jsonfile.read())["matches"]
+
+    print("[+] Search and store CPE list by vendor + product")
+    cpe_dict_clean = clean_cpes()
+
+    # Prepare CVE listing
+    cves_dir = os.path.join(BASEDIR, "data/")
+    cve_files = []
+
+    # Look for CVE candidates
+    for year_dir in sorted(os.listdir(cves_dir)):
+        # if year_dir in ["2025", "2024"]:
+        #     continue
+        if year_dir not in ["2022"]:
+            continue
+
+        year_dir_path = os.path.join(cves_dir, year_dir)
+        if os.path.isdir(year_dir_path) is False:
+            continue
+
+        for cve_file in sorted(os.listdir(year_dir_path)):
+            cve_file_path = os.path.join(year_dir_path, cve_file)
+            # if cve_file == "CVE-2022-41741.json":
+            cve_files.append(cve_file_path)
+
+    nb_matches = 0
+    pbar = tqdm(cve_files)
+    for cve_file in pbar:
+        # print(cve_file)
+        matching_cpes = []
+        cpe_nodes = {}
+        with open(cve_file, 'r') as inputfile:
+            file_content = json.load(inputfile)
+            cpe_nodes = file_content["configurations"]["nodes"]
+            for node in cpe_nodes:
+                if "cpe_match" in node:
+                    cpe_matches = node["cpe_match"]
+                    cpe_matches_extended = []
+                    # Do something with the CPE matches
+                    for cpe_match in cpe_matches:
+                        if not cpe_match["vulnerable"]:
+                            continue
+
+                        # List available CPE for this vendor/product
+                        # print(f"Checking CPE matches for {cpe_match['cpe23Uri']}...")
+                        vendor = cpe_match['cpe23Uri'].split(":")[3]
+                        product = cpe_match['cpe23Uri'].split(":")[4]
+
+                        if vendor in patrowl_vendors and product in patrowl_vendors[vendor]:
+                            cpe_match.pop("vulnerable", None)
+                            cpe_match.pop("cpe_name", None)
+
+                            if len(cpe_match.keys()) <= 1: # break loop if extra criteria like "versionEndIncluding"
+                                continue
+                            new_matching_cpes = get_matching_cpes(**cpe_match)
+                            if len(new_matching_cpes) > 0:
+                                # print(f"Found CPEs for {cpe_match['cpe23Uri']}: {new_matching_cpes}")
+                                matching_cpes.extend(new_matching_cpes)
+                                continue
+                            
+                            # print(f"No matching CPE found for {cpe_match['cpe23Uri']} with criteria {cpe_match}")
+                            # Try to find missing pieces
+                            new_matching_cpes = search_missing_cpes(cpe_dict_clean, vendor, product, **cpe_match)
+                            if len(new_matching_cpes) > 0:
+                                # print(f"Found missing CPEs for {cpe_match['cpe23Uri']}: {new_matching_cpes}")
+                                matching_cpes.extend(new_matching_cpes)
+
+        # print(matching_cpes)
+        # Check if updates have been found and update CVE file
+        if len(matching_cpes) > 0:
+            matching_cpes = sorted(set(matching_cpes))  # Remove duplicates
+            matching_cpes = clean_duplicated_cpes(cpe_nodes, matching_cpes)
+            # print(cve_file, "=>", matching_cpes)
+            new_node = {
+                "operator": "OR",
+                "children": [],
+                "cpe_match": []
+            }
+            for cpe in matching_cpes:
+                new_node["cpe_match"].append({
+                    "vulnerable": True,
+                    "cpe23Uri": cpe,
+                    "cpe_name": []
+                })
+
+            new_file_content = {}
+            with open(cve_file, 'r') as inputfile:
+                new_file_content = json.load(inputfile)
+                new_file_content["configurations"]["nodes"].append(new_node)
+                new_file_content["lastModifiedDate"] = datetime.now().strftime("%Y-%m-%dT%H:%MZ")
+                # print(f"New node created for {cve_file}: {new_node}")
+                # print(f"Updated file content for {cve_file}: {new_file_content}")
+
+            with open(cve_file, "w") as f:
+                json.dump(new_file_content, f)
+        
+        nb_matches += len(matching_cpes)
+        pbar.set_description("Matching CPEs: %i" % nb_matches)
+
+
+if __name__ == "__main__":
+    main()
