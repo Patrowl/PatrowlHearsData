@@ -137,5 +137,6 @@ nohup.*.out
 EPSS/data/*.gz
 CVE/tmp
 CVE/tmp/*
+CVE/tmp-nvd/
 #**/data/*.json
 #**/data/*.json.old
