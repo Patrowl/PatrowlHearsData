@@ -1,9 +1,24 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.08.25",
-    "dateReleased": "2025-08-25T17:04:19.9796Z",
-    "count": 1404,
+    "catalogVersion": "2025.08.26",
+    "dateReleased": "2025-08-26T20:21:40.1291Z",
+    "count": 1405,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-7775",
+            "vendorProject": "Citrix",
+            "product": "NetScaler",
+            "vulnerabilityName": "Citrix NetScaler Memory Overflow Vulnerability",
+            "dateAdded": "2025-08-26",
+            "shortDescription": "Citrix NetScaler ADC and NetScaler Gateway contain a memory overflow vulnerability that could allow for remote code execution and\/or denial of service.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-08-28",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/support.citrix.com\/support-home\/kbsearch\/article?articleNumber=CTX694938 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-7775",
+            "cwes": [
+                "CWE-119"
+            ]
+        },
         {
             "cveID": "CVE-2025-48384",
             "vendorProject": "Git",
