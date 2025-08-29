@@ -1,9 +1,25 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.08.26",
-    "dateReleased": "2025-08-26T20:21:40.1291Z",
-    "count": 1405,
+    "catalogVersion": "2025.08.29",
+    "dateReleased": "2025-08-29T17:00:23.7015Z",
+    "count": 1406,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-57819",
+            "vendorProject": "Sangoma",
+            "product": "FreePBX",
+            "vulnerabilityName": "Sangoma FreePBX Authentication Bypass Vulnerability",
+            "dateAdded": "2025-08-29",
+            "shortDescription": "Sangoma FreePBX contains an authentication bypass vulnerability due to insufficiently sanitized user-supplied data allows unauthenticated access to FreePBX Administrator leading to arbitrary database manipulation and remote code execution.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-09-19",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/github.com\/FreePBX\/security-reporting\/security\/advisories\/GHSA-m42g-xg4c-5f3h ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-57819",
+            "cwes": [
+                "CWE-89",
+                "CWE-288"
+            ]
+        },
         {
             "cveID": "CVE-2025-7775",
             "vendorProject": "Citrix",
