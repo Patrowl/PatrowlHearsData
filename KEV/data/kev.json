@@ -1,9 +1,39 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.08.29",
-    "dateReleased": "2025-08-29T17:00:23.7015Z",
-    "count": 1406,
+    "catalogVersion": "2025.09.02",
+    "dateReleased": "2025-09-02T14:00:03.8096Z",
+    "count": 1408,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2020-24363",
+            "vendorProject": "TP-Link",
+            "product": "TL-WA855RE",
+            "vulnerabilityName": "TP-link TL-WA855RE Missing Authentication for Critical Function Vulnerability",
+            "dateAdded": "2025-09-02",
+            "shortDescription": "TP-link TL-WA855RE contains a missing authentication for critical function vulnerability. This vulnerability could allow an unauthenticated attacker (on the same network) to submit a TDDP_RESET POST request for a factory reset and reboot. The attacker can then obtain incorrect access control by setting a new administrative password. The impacted products could be end-of-life (EoL) and\/or end-of-service (EoS). Users should discontinue product utilization.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-09-23",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.tp-link.com\/us\/home-networking\/range-extender\/tl-wa855re\/#overview ; https:\/\/www.tp-link.com\/us\/support\/download\/tl-wa855re\/#FAQs ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2020-24363",
+            "cwes": [
+                "CWE-306"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-55177",
+            "vendorProject": "Meta Platforms",
+            "product": "WhatsApp",
+            "vulnerabilityName": "Meta Platforms WhatsApp Incorrect Authorization Vulnerability",
+            "dateAdded": "2025-09-02",
+            "shortDescription": "Meta Platforms WhatsApp contains an incorrect authorization vulnerability due to an incomplete authorization of linked device synchronization messages. This vulnerability could allow an unrelated user to trigger processing of content from an arbitrary URL on a target\u2019s device.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-09-23",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.whatsapp.com\/security\/advisories\/2025\/ ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-55177",
+            "cwes": [
+                "CWE-863"
+            ]
+        },
         {
             "cveID": "CVE-2025-57819",
             "vendorProject": "Sangoma",
