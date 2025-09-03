@@ -1,9 +1,39 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.09.02",
-    "dateReleased": "2025-09-02T14:00:03.8096Z",
-    "count": 1408,
+    "catalogVersion": "2025.09.03",
+    "dateReleased": "2025-09-03T17:00:44.122Z",
+    "count": 1410,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2023-50224",
+            "vendorProject": "TP-Link",
+            "product": "TL-WR841N",
+            "vulnerabilityName": "TP-Link TL-WR841N Authentication Bypass by Spoofing Vulnerability",
+            "dateAdded": "2025-09-03",
+            "shortDescription": "TP-Link TL-WR841N contains an authentication bypass by spoofing vulnerability within the httpd service, which listens on TCP port 80 by default, leading to the disclose of stored credentials. The impacted products could be end-of-life (EoL) and\/or end-of-service (EoS). Users should discontinue product utilization.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-09-24",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.tp-link.com\/us\/support\/faq\/4308\/ ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-50224",
+            "cwes": [
+                "CWE-290"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-9377",
+            "vendorProject": "TP-Link",
+            "product": "Multiple Routers",
+            "vulnerabilityName": "TP-Link Archer C7(EU) and TL-WR841N\/ND(MS) OS Command Injection Vulnerability",
+            "dateAdded": "2025-09-03",
+            "shortDescription": "TP-Link Archer C7(EU) and TL-WR841N\/ND(MS) contain an OS command injection vulnerability that exists in the Parental Control page. The impacted products could be end-of-life (EoL) and\/or end-of-service (EoS). Users should discontinue product utilization.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-09-24",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.tp-link.com\/us\/support\/faq\/4308\/ ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-9377",
+            "cwes": [
+                "CWE-78"
+            ]
+        },
         {
             "cveID": "CVE-2020-24363",
             "vendorProject": "TP-Link",
