@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2025.09.04",
-    "dateReleased": "2025-09-04T17:01:10.6088Z",
+    "dateReleased": "2025-09-04T18:50:12.4837Z",
     "count": 1413,
     "vulnerabilities": [
         {
@@ -23,9 +23,9 @@
             "cveID": "CVE-2025-48543",
             "vendorProject": "Android",
             "product": "Runtime",
-            "vulnerabilityName": "Android Runtime Unspecified Vulnerability",
+            "vulnerabilityName": "Android Runtime Use-After-Free Vulnerability",
             "dateAdded": "2025-09-04",
-            "shortDescription": "Android Runtime contains an unspecified vulnerability that allows for privilege escalation.",
+            "shortDescription": "Android Runtime contains a use-after-free vulnerability potentially allowing a chrome sandbox escape leading to local privilege escalation.",
             "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-09-25",
             "knownRansomwareCampaignUse": "Unknown",
