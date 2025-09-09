@@ -11,26 +11,6 @@ BASEDIR = os.path.dirname(os.path.realpath(__file__))
 NUCLEI_VENDORS_FILE = os.path.join(BASEDIR, "nuclei_vendors.txt")
 CPE_DICT = {}
 
-def clean_cpes():
-    """Clean and organize CPEs from Nuclei templates into a structured format."""
-    cleaned_cpes = {}
-    for cpe in CPE_DICT:
-        vendor = cpe['cpe23Uri'].split(":")[3]
-        product = cpe['cpe23Uri'].split(":")[4]
-        if vendor not in cleaned_cpes:
-            cleaned_cpes[vendor] = {}
-        if product not in cleaned_cpes[vendor]:
-            cleaned_cpes[vendor][product] = []
-
-        for cpe_name in cpe['cpe_name']:
-            cleaned_cpes[vendor][product].append(cpe_name["cpe23Uri"])
-
-    for vendor in cleaned_cpes:
-        for product in cleaned_cpes[vendor]:
-            # Keep only the first CPE for each vendor:product pair
-            cleaned_cpes[vendor][product] = sorted(set(cleaned_cpes[vendor][product]))
-    return cleaned_cpes
-
 def clean_duplicated_cpes(cpe_nodes, matching_cpes):
     """Remove CPEs from the matching list if they are already in the original CVE."""
     for node in cpe_nodes:
@@ -95,7 +75,6 @@ def main():
                     cpe_matches[match_string["matchString"]["matchCriteriaId"]] = match_string["matchString"]["matches"]
     # print(len(cpe_matches.keys()), "CPE matches loaded from NVD")
 
-    
     nvdcve_filename_zip = f"nvdcve-2.0-{args.year}.json.zip"
     if args.download_cves is True:
         print("[+] Downloading CVE dictionary from NVD feeds")

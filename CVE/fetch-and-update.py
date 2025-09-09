@@ -1,38 +1,62 @@
-#!/bin/python3
-import re
+#!/usr/bin/env -S python3 -OO
+# coding:utf8
+
+# Copyright (c) 2020-2025, Patrowl and contributors
+# All rights reserved.
+#
+# Redistribution and use in source and binary forms, with or without
+# modification, are permitted provided that the following conditions are met:
+#
+# Redistributions of source code must retain the above copyright notice, this
+# list of conditions and the following disclaimer.  Redistributions in binary
+# form must reproduce the above copyright notice, this list of conditions and the
+# following disclaimer in the documentation and/or other materials provided with
+# the distribution
+#
+# THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+# ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+# WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+# DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+# FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+# DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+# SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+# CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+# OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+# OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 import os
-import shutil
-import git
+import requests
+import zipfile
 import json
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timedelta
 from dateutil.parser import parse
 from tqdm import tqdm
+from libs import probe, get_cpe_matches, get_monitored_technologies
 BASEDIR = os.path.dirname(os.path.realpath(__file__))
 DAYS_BEFORE = int(os.environ.get("DAYS_BEFORE", 2))
+START_YEAR = 2002
+NUCLEI_VENDORS_FILE = os.path.join(BASEDIR, "nuclei_vendors.txt")
 
-def probe(dictionary, path, default=""):
-    value = default
-    first = True
+last_check_date = datetime.now() - timedelta(days=DAYS_BEFORE)
 
-    # Treat the empty path [] as a reference to .
-    if not path:
-        return dictionary
+# Format references to the required structure
+def format_references(references):
+    res_references = []
 
-    for key in path:
-        try:
-            if first:
-                value = dictionary[key]
-                first = False
-            else:
-                value = value[key]
-        # KeyError: dictionary has key accessor but not this specific key.
-        # TypeError: The object is either not subscriptable or the key is not hashable.
-        except (KeyError, TypeError):
-            # raise ValueError(f"The path {path} is not reachable in {dictionary}")
-            return default
+    for reference in references:
+        url = probe(reference, ["url"])
+        if url == "":
+            continue
 
-    return value
+        res_references.append({
+            "url": url,
+            "name": "",
+            "refsource": "",
+            "tags": probe(reference, ["tags"], [])
+        })
 
+    return res_references
+
+# Format problem types (CWE) to the required structure
 def format_problem_types(problem_types):
     def_problemtypes = [{
         "description": [
@@ -44,211 +68,218 @@ def format_problem_types(problem_types):
     }]
 
     res_problemtypes = []
+    cwe_values = []
 
     for problem_type in problem_types:
-        if "descriptions" not in problem_type.keys():
+        if "description" not in problem_type.keys():
             continue
 
-        for description in problem_type["descriptions"]:
+        for description in problem_type["description"]:
             value = "NVD-CWE-noinfo"
-            if "cweId" in description.keys():
-                value = description["cweId"]
-            elif "description" in description.keys() and "CWE-" in description["description"]:
-                value = description["description"].split(' ')[0]
+            if "CWE-" in description["value"]:
+                value = description["value"].split(' ')[0]
             
+            if value in cwe_values:
+                continue
+            cwe_values.append(value)
+
             res_problemtypes.append({
-                "description": [
-                    {
-                        "lang": "en",
-                        "value": value
-                    }
-                ]
+                "lang": "en",
+                "value": value
             })
 
     if len(res_problemtypes) == 0:
         return def_problemtypes
 
-    return res_problemtypes
+    # return res_problemtypes
+    return [{"description": res_problemtypes}]
 
+def _select_nvd_cvss(cvss_metrics):
+    # select source ""nvd@nist.gov"" as default. If not present, select the first one.
+    for metric in cvss_metrics:
+        if metric.get("source") == "nvd@nist.gov":
+            metric.pop("source")
+            metric.pop("type")
+            return metric
+    metric = cvss_metrics[0]
+    metric.pop("source")
+    metric.pop("type")
+    return metric
 
 def format_impacts(metrics):
     impacts = {}
 
-    for metric in metrics:
-        if "cvssV2_0" in metric.keys():
-            impacts.update({
-                "baseMetricV2": {
-                    "cvssV2": metric
-                }
-            })
-        if "cvssV3_0" in metric.keys() or "cvssV3_1" in metric.keys():
-            impacts.update({
-                "baseMetricV3": {
-                    "cvssV3": metric
-                }
-            })
-        if "cvssV4_0" in metric.keys():
-            impacts.update({
-                "baseMetricV4": {
-                    "cvssV4": metric
-                }
-            })
-        if "others" in metric.keys():
-            impacts.update(metric)
+    if "cvssMetricV2" in metrics.keys():
+        cvss_metric = _select_nvd_cvss(metrics["cvssMetricV2"])
+        cvss_metric["cvssV2"] = cvss_metric.pop("cvssData")
+        impacts.update({
+            "baseMetricV2": {
+                "cvssV2": cvss_metric["cvssV2"],
+                "exploitabilityScore": cvss_metric["exploitabilityScore"],
+                "impactScore": cvss_metric["impactScore"],
+                "severity": cvss_metric["baseSeverity"],
+                "obtainAllPrivilege": cvss_metric.get("obtainAllPrivilege", False),
+                "obtainUserPrivilege": cvss_metric.get("obtainUserPrivilege", False),
+                "obtainOtherPrivilege": cvss_metric.get("obtainOtherPrivilege", False),
+                "userInteractionRequired": cvss_metric.get("userInteractionRequired", False)
+            }
+        })
+    if "cvssMetricV30" in metrics.keys():
+        cvss_metric = _select_nvd_cvss(metrics["cvssMetricV30"])
+        cvss_metric["cvssV3"] = cvss_metric.pop("cvssData")
+        impacts.update({
+            "baseMetricV3": cvss_metric
+        })
+    if "cvssMetricV31" in metrics.keys():
+        # cvss_metric = metrics["cvssMetricV31"][0]
+        cvss_metric = _select_nvd_cvss(metrics["cvssMetricV31"])
+        cvss_metric["cvssV3"] = cvss_metric.pop("cvssData")
+        impacts.update({
+            "baseMetricV3": cvss_metric
+        })
+    if "cvssMetricV40" in metrics.keys():
+        cvss_metric = _select_nvd_cvss(metrics["cvssMetricV40"])
+        cvss_metric["cvssV4"] = cvss_metric.pop("cvssData")
+        impacts.update({
+            "baseMetricV4": cvss_metric
+        })
 
     return impacts
 
-def format_cpes(data):
-    res = {}
-    cpes_list = []
-    cpe_matches = []
-
-    for affected_product in data:
-        
-        if set(['vendor', 'product', 'versions']).issubset(affected_product.keys()):
-            try:
-                # print(affected_product)
-                vendor = str(affected_product["vendor"]).lower()
-                product = str(affected_product["product"]).lower()
-                versions = []
-                for version in affected_product["versions"]:
-                    if "lessThan" in version.keys():
-                        versions.append(version["lessThan"])
-                    if "lessThanOrEqual" in version.keys():
-                        versions.append(version["lessThanOrEqual"])
-                
-                for version in versions:
-                    cpes_list.append(f"cpe:2.3:a:{vendor}:{product}:{version}:*:*:*:*:*:*:*",)
-                
-                if "cpes" in affected_product.keys():
-                    cpes_list.extend(affected_product["cpes"])
-                cpes_list = list(set(cpes_list))
-
-            except Exception as e:
-                print("Unable to format CPE. Missing keys on", affected_product)
-                continue
-
-    for cpe in cpes_list:
-        cpe_matches.append(
-            {
-                "vulnerable": True,
-                "cpe23Uri": cpe,
-                "cpe_name": []
-            }
-        )
-
-    res = {
+def format_cpes(configurations):
+    global cpe_matches, patrowl_vendors
+    cpes = {
         "CVE_data_version": "4.0",
-        "nodes": [
-            {
-                "operator": "OR",
-                "children": [],
-                "cpe_match": cpe_matches
-            }
-        ]
+        "nodes": []
     }
 
-    return res
+    for configuration in configurations:
+        for node in configuration.get("nodes", []):
+            new_node = {
+                "operator": node.get("operator", "OR"),
+                "negate": node.get("negate", False),
+                "children": [],
+                "cpe_match": [],
+            }
+            for cpe_match in node.get("cpeMatch", []):
+                new_cpe_match = {
+                    "vulnerable": cpe_match.get("vulnerable", False),
+                    "cpe23Uri": cpe_match.get("criteria", ""),
+                    "matchCriteriaId" : cpe_match.get("matchCriteriaId", ""),
+                    "cpe_name": []
+                }
+                for field in ["versionStartIncluding", "versionStartExcluding", "versionEndIncluding", "versionEndExcluding"]:
+                    if field in cpe_match.keys():
+                        new_cpe_match[field] = cpe_match[field]
+                new_node["cpe_match"].append(new_cpe_match)
 
+                # Limit CPE enrichment to Patrowl's monitored technologies only
+                if len(new_cpe_match.keys()) > 4:
+                    # Dynamic CPE, keep the match CriteriaId for later processing
+                    vendor = cpe_match['criteria'].split(":")[3]
+                    product = cpe_match['criteria'].split(":")[4]
+                    # print("  - Found dynamic CPE:", cpe_match["criteria"], vendor, product, cpe_match.get("matchCriteriaId", ""))
+                    if vendor in patrowl_vendors and product in patrowl_vendors[vendor]:
+                        # Check the CPE is dynamic or not
+                        # print("  - Found monitored & dynamic CPE:", cpe_match["criteria"])
+                        mcid = cpe_match["matchCriteriaId"]
+                        matching_cpes = []
 
-if not os.path.exists(BASEDIR+'/nvd/'):
-    os.makedirs(BASEDIR+'/nvd/')
+                        if mcid in cpe_matches:
+                            for cpe in cpe_matches[mcid]:
+                                matching_cpes.append(cpe["cpeName"])
+                        
+                        # matching_cpes = clean_duplicated_cpes([node], matching_cpes)
+                        # print("    - Enriched dynamic CPEs:", matching_cpes)
+                        if len(matching_cpes) > 0:
+                            matching_cpes = sorted(set(matching_cpes))  # Remove duplicates
+                            for cpe in matching_cpes:
+                                new_node["cpe_match"].append({
+                                    "vulnerable": True,
+                                    "cpe23Uri": cpe,
+                                    "cpe_name": []
+                            })
+    
+            cpes["nodes"].append(new_node)
 
-print("[+] Downloading CVE list from Github repo CVEProject/cvelistV5")
-if os.path.exists(BASEDIR+'/tmp') and os.path.isdir(BASEDIR+'/tmp'):
-    shutil.rmtree(BASEDIR+'/tmp')
-git.Repo.clone_from(
-    'https://github.com/CVEProject/cvelistV5',
-    BASEDIR+'/tmp',
-    depth=1
-)
+    return cpes
 
-# Check if folders exists
-cve_files = []
-cves_dir = BASEDIR+"/tmp/cves/"
-last_check_date = datetime.now() - timedelta(days=DAYS_BEFORE)
+# Create a temporary directory to store downloaded files
+if not os.path.exists(BASEDIR+'/tmp-nvd/'):
+    os.makedirs(BASEDIR+'/tmp-nvd/')
 
-# Look for CVE candidates
-for year_dir in sorted(os.listdir(cves_dir)):
-    if year_dir not in ["2025", "2024"]:
-        continue
+# Loading latest CPE matches from NVD feeds
+cpe_matches = get_cpe_matches(BASEDIR)
 
-    year_dir_path = os.path.join(cves_dir, year_dir)
-    if os.path.isdir(year_dir_path) is False:
-        continue
+# Load monitored technologies from Patrowl's Nuclei templates
+patrowl_vendors = get_monitored_technologies(NUCLEI_VENDORS_FILE)
 
-    for num_dir in sorted(os.listdir(year_dir_path)):
-        num_dir_path = os.path.join(year_dir_path, num_dir)
+print("[+] Downloading CVE dictionaries by year from NVD v2")
+for year in range(2002, datetime.now().year + 1):
+    filename = f"nvdcve-2.0-{year}.json.zip"
+    r_file = requests.get(f"https://nvd.nist.gov/feeds/json/cve/2.0/{filename}", stream=True)
 
-        for cve_file in sorted(os.listdir(num_dir_path)):
-            cve_file_path = os.path.join(num_dir_path, cve_file)
-            cve_files.append(cve_file_path)
+    with open(BASEDIR+"/tmp-nvd/" + filename, 'wb') as f:
+        pbar = tqdm(unit="B", unit_scale=True, total=int(r_file.headers['Content-Length']), desc=filename)
+        for chunk in r_file.iter_content(chunk_size=1024):
+            f.write(chunk)
+            pbar.update(1024)
+        pbar.close()
 
-for cve_file in tqdm(cve_files):
-    with open(cve_file, 'r') as inputfile:
-        cve_dict = json.load(inputfile)
+print("[+] CVE dictionaries downloaded successfully!")
+print("[+] Unzipping and processing CVE dictionaries...")
+for year in range(START_YEAR, datetime.now().year + 1):
+    archive = zipfile.ZipFile(f"{BASEDIR}/tmp-nvd/nvdcve-2.0-{year}.json.zip", 'r')
+    jsonfile = archive.open(archive.namelist()[0])
+    cves_dict = json.loads(jsonfile.read())["vulnerabilities"]
 
-    date_updated = parse(cve_dict["cveMetadata"]["dateUpdated"], ignoretz=True)
-    if last_check_date > date_updated:
-        continue
-
-    # Look for problem types
-    problem_types = probe(cve_dict, ["containers", "cna", "problemTypes"], [])
-    if len(problem_types) == 0:
-        problem_types = probe(cve_dict, ["containers", "adp", "problemTypes"], [])
-    problemtype_data = format_problem_types(problem_types)
-
-    # Look for CVSS metrics
-    cvss_metrics = probe(cve_dict, ["containers", "cna", "metrics"], [])
-    cvss_metrics_data = format_impacts(cvss_metrics)
-
-    # Look for CPEs
-    cpes = probe(cve_dict, ["containers", "cna", "affected"], [])
-    cpes_data = format_cpes(cpes)
-
-    cve_id = probe(cve_dict, ["cveMetadata", "cveId"])
-
-    try:
-        cve_published_date_raw = probe(cve_dict, ["cveMetadata", "datePublished"])
-        if cve_published_date_raw != "":
-            cve_published_date = parse(cve_published_date_raw).strftime("%Y-%m-%dT%H:%MZ")
+    for cve_entry in tqdm(cves_dict):
+        # print(cve_entry)
+        cve = cve_entry["cve"]
+        date_updated = parse(cve["lastModified"], ignoretz=True)
         
-        cve_last_modified_date_raw = probe(cve_dict, ["cveMetadata", "dateUpdated"])
-        if cve_last_modified_date_raw != "":
-            cve_last_modified_date = parse(cve_last_modified_date_raw).strftime("%Y-%m-%dT%H:%MZ")
+        # Check if CVE was updated in the last DAYS_BEFORE days
+        if last_check_date > date_updated:
+            continue
+
+        cve_id = probe(cve, ["id"])
 
         cve_content = {
-            "publishedDate": cve_published_date,
-            "lastModifiedDate": cve_last_modified_date,
+            "publishedDate": parse(cve["published"], ignoretz=True).strftime("%Y-%m-%dT%H:%MZ"),
+            "lastModifiedDate": date_updated.strftime("%Y-%m-%dT%H:%MZ"),
             "cve": {
                 "data_type": "CVE",
                 "data_format": "MITRE",
-                "data_version": probe(cve_dict, ["dataVersion"]),
+                "data_version": "1.0",
                 "CVE_data_meta": {
                     "ID": cve_id,
-                    "ASSIGNER": probe(cve_dict, ["cveMetadata", "assignerShortName"]),
+                    "ASSIGNER": probe(cve, ["sourceIdentifier"])
                 },
                 "description": {
-                    "description_data": probe(cve_dict, ["containers", "cna", "descriptions"], []),
+                    "description_data": probe(cve, ["descriptions"], []),
                 },
                 "references": {
-                    "reference_data": probe(cve_dict, ["containers", "cna", "references"], []),
+                    "reference_data": format_references(probe(cve, ["references"], [])),
                 },
                 "problemtype": {
-                    "problemtype_data": problemtype_data,
+                    "problemtype_data": format_problem_types(probe(cve, ["weaknesses"], [])),
                 }
             },
-            "impact": cvss_metrics_data,
-            "configurations": cpes_data
+            "impact": format_impacts(probe(cve, ["metrics"])),
+            "configurations": format_cpes(probe(cve, ["configurations"], {}))
         }
-    except Exception as e:
-        print(probe(cve_dict, ["cveMetadata", "cveId"]))
-        print(e)
-        continue
+        # print(json.dumps(cve_content, indent=4, default=str))
 
-    cve_year = cve_id.split('-')[1]
-    if not os.path.exists(BASEDIR+'/data/'+cve_year):
-        os.makedirs(BASEDIR+'/data/'+cve_year)
+        cve_year = cve_id.split('-')[1]
+        year_dir = BASEDIR+'/data/'+cve_year
+        if not os.path.exists(year_dir):
+            os.makedirs(year_dir)
 
-    with open(BASEDIR+'/data/'+cve_year+'/'+cve_id+'.json', 'w') as outfile:
-        json.dump(cve_content, outfile)
+        with open(f"{year_dir}/{cve_id}.json", 'w') as outfile:
+            json.dump(cve_content, outfile)
+
+        # break
+    # break
+
+
+    

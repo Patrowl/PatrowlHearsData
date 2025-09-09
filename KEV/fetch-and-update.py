@@ -1,7 +1,7 @@
 #!/usr/bin/env -S python3 -OO
 # coding:utf8
 
-# Copyright (c) 2020-2024, Patrowl and contributors
+# Copyright (c) 2020-2025, Patrowl and contributors
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without
@@ -26,19 +26,60 @@
 
 import requests
 import os
+import json
+import shutil
 
 BASEDIR = os.path.dirname(os.path.realpath(__file__))
 KEV_FILENAME = "kev.json"
 KEV_URL = "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
+SLACK_TOKEN = os.getenv("SLACK_TOKEN", None)
+SLACK_CHANNEL = os.getenv("SLACK_CHANNEL", "cert-cves-global")
+
+def send_slack_message(message):
+    if not SLACK_TOKEN or not SLACK_CHANNEL:
+        return False
+
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {SLACK_TOKEN}"
+    }
+
+    payload = {
+        "channel": SLACK_CHANNEL,
+        "text": message
+    }
+
+    response = requests.post("https://slack.com/api/chat.postMessage", headers=headers, json=payload)
+    return response.ok
 
 if not os.path.exists(BASEDIR + "/data/"):
     os.makedirs(BASEDIR + "/data/")
 
 print("[+] Downloading and storing latest KEV data")
 r_file = requests.get(KEV_URL)
+KEV_FILE = f"{BASEDIR}/data/{KEV_FILENAME}"
 if r_file.ok:
-    with open(f"{BASEDIR}/data/{KEV_FILENAME}", "wb") as f:
+    with open(f"{KEV_FILE}.new", "wb") as f:
         for chunk in r_file.iter_content(chunk_size=1024 * 8):
             if chunk:
                 f.write(chunk)
                 f.flush()
+
+    old_kev_list = json.load(open(KEV_FILE))
+    new_kev_list = json.load(open(f"{KEV_FILE}.new"))
+
+    old_cves = [item['cveID'] for item in old_kev_list['vulnerabilities']]
+    new_cves = [item['cveID'] for item in new_kev_list['vulnerabilities']]
+    added_cves = list(set(new_cves) - set(old_cves))
+    # print(f"[+] {len(added_cves)} new CVE(s) in KEV list: {', '.join(added_cves)}")
+    # print(f"[+] KEV list updated and stored in {KEV_FILE}")
+
+    if len(added_cves) > 0:
+        message = f":warning: *{len(added_cves)} new CVE(s) added to the KEV list* :warning:\n"
+        for cve in new_kev_list['vulnerabilities']:
+            if cve['cveID'] in added_cves:
+                message += f"• *{cve['cveID']}* - {cve['vendorProject']} {cve['product']} - {cve['dateAdded']} - {cve['shortDescription']}\n"
+        send_slack_message(message)
+    
+    # Replace old KEV file with the new one
+    shutil.move(f"{KEV_FILE}.new", KEV_FILE)
