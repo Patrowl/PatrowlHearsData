@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2025.10.08",
-    "dateReleased": "2025-10-08T13:19:19.6878Z",
+    "dateReleased": "2025-10-08T15:06:53.3731Z",
     "count": 1435,
     "vulnerabilities": [
         {
@@ -5568,7 +5568,7 @@
             "shortDescription": "Ivanti Connect Secure (ICS, formerly known as Pulse Connect Secure) and Ivanti Policy Secure contain a command injection vulnerability in the web components of these products, which can allow an authenticated administrator to send crafted requests to execute code on affected appliances. This vulnerability can be leveraged in conjunction with CVE-2023-46805, an authenticated bypass issue.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-01-22",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "Please apply mitigations per vendor instructions. For more information, please see: https:\/\/forums.ivanti.com\/s\/article\/KB-CVE-2023-46805-Authentication-Bypass-CVE-2024-21887-Command-Injection-for-Ivanti-Connect-Secure-and-Ivanti-Policy-Secure-Gateways?language=en_US ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-21887",
             "cwes": [
                 "CWE-77"
