@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2025.10.14",
-    "dateReleased": "2025-10-14T17:11:17.0905Z",
+    "dateReleased": "2025-10-14T18:00:15.9368Z",
     "count": 1441,
     "vulnerabilities": [
         {
@@ -58,7 +58,7 @@
             "shortDescription": "Rapid7 Velociraptor contains an incorrect default permissions vulnerability that can lead to arbitrary command execution and endpoint takeover. To successfully exploit this vulnerability the user must already have access to collect artifacts from the endpoint.",
             "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-11-04",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/docs.velociraptor.app\/announcements\/advisories\/cve-2025-6264\/ ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-6264",
             "cwes": [
                 "CWE-276"
