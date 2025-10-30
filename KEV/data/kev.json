@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2025.10.30",
-    "dateReleased": "2025-10-30T16:58:33.5804Z",
+    "dateReleased": "2025-10-30T17:58:16.1627Z",
     "count": 1453,
     "vulnerabilities": [
         {
@@ -5010,7 +5010,7 @@
             "shortDescription": "Linux kernel contains a use-after-free vulnerability in the netfilter: nf_tables component that allows an attacker to achieve local privilege escalation.",
             "requiredAction": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2024-06-20",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. Please check with specific vendors for information on patching status. For more information, please see: https:\/\/git.kernel.org\/pub\/scm\/linux\/kernel\/git\/torvalds\/linux.git\/commit\/?id=f342de4e2f33e0e39165d8639387aa6c19dff660;   https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-1086",
             "cwes": [
                 "CWE-416"
