@@ -1,9 +1,24 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.12.02",
-    "dateReleased": "2025-12-02T18:01:27.3987Z",
-    "count": 1466,
+    "catalogVersion": "2025.12.03",
+    "dateReleased": "2025-12-03T18:00:03.1141Z",
+    "count": 1467,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2021-26828",
+            "vendorProject": "OpenPLC",
+            "product": "ScadaBR",
+            "vulnerabilityName": "OpenPLC ScadaBR Unrestricted Upload of File with Dangerous Type Vulnerability",
+            "dateAdded": "2025-12-03",
+            "shortDescription": "OpenPLC ScadaBR contains an unrestricted upload of file with dangerous type vulnerability that allows remote authenticated users to upload and execute arbitrary JSP files via view_edit.shtm.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-12-24",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "This vulnerability could affect an open-source component, third-party library, protocol, or proprietary implementation that could be used by different products. For more information, please see: https:\/\/github.com\/SCADA-LTS\/Scada-LTS\/pull\/2174 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2021-26828",
+            "cwes": [
+                "CWE-434"
+            ]
+        },
         {
             "cveID": "CVE-2025-48633",
             "vendorProject": "Android",
