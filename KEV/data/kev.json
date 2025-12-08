@@ -1,9 +1,39 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.12.05",
-    "dateReleased": "2025-12-05T14:13:22.6285Z",
-    "count": 1468,
+    "catalogVersion": "2025.12.08",
+    "dateReleased": "2025-12-08T18:00:40.1008Z",
+    "count": 1470,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2022-37055",
+            "vendorProject": "D-Link",
+            "product": "Routers",
+            "vulnerabilityName": "D-Link Routers Buffer Overflow Vulnerability",
+            "dateAdded": "2025-12-08",
+            "shortDescription": "D-Link Routers contains a buffer overflow vulnerability that has a high impact on confidentiality, integrity, and availability. The impacted products could be end-of-life (EoL) and\/or end-of-service (EoS). Users should discontinue product utilization.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-12-29",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/supportannouncement.us.dlink.com\/security\/publication.aspx?name=SAP10308 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-37055",
+            "cwes": [
+                "CWE-120"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-66644",
+            "vendorProject": "Array Networks ",
+            "product": "ArrayOS AG",
+            "vulnerabilityName": "Array Networks ArrayOS AG OS Command Injection Vulnerability",
+            "dateAdded": "2025-12-08",
+            "shortDescription": "Array Networks ArrayOS AG contains an OS command injection vulnerability that could allow an attacker to execute arbitrary commands.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-12-29",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/support.arraynetworks.net\/prx\/001\/http\/supportportal.arraynetworks.net\/ag.html ; https:\/\/www.jpcert.or.jp\/at\/2025\/at250024.html ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-66644",
+            "cwes": [
+                "CWE-78"
+            ]
+        },
         {
             "cveID": "CVE-2025-55182",
             "vendorProject": "Meta",
