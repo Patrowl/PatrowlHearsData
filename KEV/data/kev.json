@@ -1,9 +1,24 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2025.12.19",
-    "dateReleased": "2025-12-19T16:56:47.9903Z",
-    "count": 1481,
+    "dateReleased": "2025-12-19T18:01:33.3555Z",
+    "count": 1482,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-14733",
+            "vendorProject": "WatchGuard",
+            "product": "Firebox",
+            "vulnerabilityName": "WatchGuard Firebox Out of Bounds Write Vulnerability",
+            "dateAdded": "2025-12-19",
+            "shortDescription": "WatchGuard Fireware OS iked process contains an out of bounds write vulnerability in the OS iked process. This vulnerability may allow a remote unauthenticated attacker to execute arbitrary code and affects both the mobile user VPN with IKEv2 and the branch office VPN using IKEv2 when configured with a dynamic gateway peer.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2025-12-26",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "Check for signs of potential compromise on all internet accessible instances after applying mitigations. For more information please see: https:\/\/www.watchguard.com\/wgrd-psirt\/advisory\/wgsa-2025-00027 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-14733",
+            "cwes": [
+                "CWE-787"
+            ]
+        },
         {
             "cveID": "CVE-2025-59374",
             "vendorProject": "ASUS",
