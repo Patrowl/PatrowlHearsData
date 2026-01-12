@@ -1,9 +1,24 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2026.01.09",
-    "dateReleased": "2026-01-09T15:37:59.762Z",
-    "count": 1486,
+    "catalogVersion": "2026.01.12",
+    "dateReleased": "2026-01-12T18:00:17.5565Z",
+    "count": 1487,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2025-8110",
+            "vendorProject": "Gogs",
+            "product": "Gogs",
+            "vulnerabilityName": "Gogs Path Traversal Vulnerability",
+            "dateAdded": "2026-01-12",
+            "shortDescription": "Gogs contains a path traversal vulnerability affecting improper Symbolic link handling in the PutContents API that could allow for code execution.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2026-02-02",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/github.com\/gogs\/gogs\/commit\/553707f3fd5f68f47f531cfcff56aa3ec294c6f6 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-8110",
+            "cwes": [
+                "CWE-22"
+            ]
+        },
         {
             "cveID": "CVE-2009-0556",
             "vendorProject": "Microsoft",
