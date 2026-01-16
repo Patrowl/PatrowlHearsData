@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113256", "enisaUuid": "e25a080f-5a6a-3f6a-80da-3367f9683e62", "description": "Malicious code in geckodriver-betelgeuse-child-process-leda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142856"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122544", "enisaUuid": "ddfd9a95-2496-3ab3-93b8-1acf758d85db", "description": "Malicious code in restart-dagda-commitlint-achernar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147378"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

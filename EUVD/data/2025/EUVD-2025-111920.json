@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111920", "enisaUuid": "8ab62220-ace5-3734-8d73-fce5153d0aec", "description": "Malicious code in koa-gravity-magellan-helmet (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144193"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175665", "enisaUuid": "0760999e-0a39-3320-8067-ad00c28f79d9", "description": "Malicious code in warn-bash-grep-array-test (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190211"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

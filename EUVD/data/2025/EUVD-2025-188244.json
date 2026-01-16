@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188244", "enisaUuid": "1b8b0b7c-4bff-3971-85d9-1467106d3ffb", "description": "Malicious code in virtualize-long-deserialize-permission-user (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38456"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

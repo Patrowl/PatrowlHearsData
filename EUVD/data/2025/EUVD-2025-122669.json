@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122669", "enisaUuid": "a3429cb2-2818-3b92-a076-e8b60d43ae64", "description": "Malicious code in remark-meteor-leda-sequelize (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147253"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

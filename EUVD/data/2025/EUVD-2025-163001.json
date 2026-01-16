@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163001", "enisaUuid": "b7489dae-69d6-3bcd-b3c3-387564ff0889", "description": "Malicious code in distnumpy (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18502"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

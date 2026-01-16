@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63514", "enisaUuid": "06e8f72d-95e8-3519-81b4-52d61fdb1212", "description": "Malicious code in innocent_orca_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-95040"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

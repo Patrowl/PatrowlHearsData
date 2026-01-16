@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193374", "enisaUuid": "ed66a3a8-3cc0-3f34-8c1f-6301f2850863", "description": "Malicious code in bioinformatics-procyon-command-writable (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43621"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166585", "enisaUuid": "4f073c3a-45dc-3281-aa50-1659e698e34d", "description": "Malicious code in gus.js (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22067"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

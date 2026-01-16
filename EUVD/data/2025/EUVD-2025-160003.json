@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160003", "enisaUuid": "7f4ac0c4-b1f4-3549-937d-59474251bf4c", "description": "Malicious code in bash-good-zero-old-debug (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15502"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

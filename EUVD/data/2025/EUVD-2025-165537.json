@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165537", "enisaUuid": "4e2f7df2-cad0-3ed0-8562-450b6b360cd2", "description": "Malicious code in fsworker (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21018"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

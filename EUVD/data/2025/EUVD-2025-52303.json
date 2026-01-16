@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-52303", "enisaUuid": "17ce6d31-066c-33eb-8a2c-b239be2d98ae", "description": "Malicious code in resident-turquoise-mongoose (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-70346"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

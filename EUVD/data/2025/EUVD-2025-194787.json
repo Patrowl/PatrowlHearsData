@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194787", "enisaUuid": "4a28aed4-1cc0-399f-b1ac-138e4210f388", "description": "Malicious code in lint-staged-aquarius-relay-npm (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45034"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

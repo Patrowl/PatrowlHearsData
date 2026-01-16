@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168264", "enisaUuid": "4ec9b807-9a2b-36ac-a59a-017045802790", "description": "Malicious code in jestjs (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23746"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

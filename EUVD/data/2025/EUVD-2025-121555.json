@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121555", "enisaUuid": "3a912c76-ad40-3845-b97d-72ad4669ccd2", "description": "Malicious code in superagent-atlas-thuban-exec (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148371"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

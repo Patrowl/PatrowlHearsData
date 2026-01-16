@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164078", "enisaUuid": "19e3ec0b-6cec-3d31-b18f-b929283d06ff", "description": "Malicious code in ember-cli-bable (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19557"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

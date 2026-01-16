@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191091", "enisaUuid": "559c63b2-5e91-3ffc-8b57-2c9ba3bb7e15", "description": "Malicious code in oracle-agent (npm)", "datePublished": "2025-08-23T14:37:35", "dateUpdated": "2025-08-25T07:32:49", "baseScore": 0.0, "aliases": ["MAL-2025-41313"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

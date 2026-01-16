@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121828", "enisaUuid": "8ddb26ab-d888-35e0-8306-5b522b68e4b9", "description": "Malicious code in spawn-gemini-mongoose-transform (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148097"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

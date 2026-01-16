@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115988", "enisaUuid": "766c7e2d-1810-3427-8d19-1fcfb9510de6", "description": "Malicious code in bootstrap-ophiuchus-elara-transport (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140114"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

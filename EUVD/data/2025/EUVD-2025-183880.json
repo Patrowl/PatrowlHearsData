@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183880", "enisaUuid": "eee1af93-c8a5-3698-9cc2-a8db3bd8a393", "description": "Malicious code in string-magnetosphere-webdriver-mocha-uglify-js (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34095"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

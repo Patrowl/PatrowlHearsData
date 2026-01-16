@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183383", "enisaUuid": "e11a343c-f35e-3b13-af92-f56f90087de5", "description": "Malicious code in socketio-equinox-thuban-superflare (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33598"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124827", "enisaUuid": "8f8cbbc8-3c61-39f3-b93f-ca07fdfee0dc", "description": "Malicious code in mocha-reveal-md-nextjs-duplex (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145091"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

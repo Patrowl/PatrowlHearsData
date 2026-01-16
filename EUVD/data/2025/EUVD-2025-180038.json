@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180038", "enisaUuid": "623bdd8f-c8a0-3cb3-b8f1-3b8a8ee74ff3", "description": "Malicious code in blackhole-prettier-plugin-markdown-achernar-redis (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185844"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

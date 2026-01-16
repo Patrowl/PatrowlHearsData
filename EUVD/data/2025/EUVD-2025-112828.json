@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112828", "enisaUuid": "fd6fc560-ebd4-32e0-b120-5d5e5edb3ac8", "description": "Malicious code in hercules-ganymede-geckodriver-spawn (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143284"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

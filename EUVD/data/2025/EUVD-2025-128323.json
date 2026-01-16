@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128323", "enisaUuid": "cbf8886f-faf7-3d13-a21c-7560b4082dbe", "description": "Malicious code in openkitjs-simple-sample (npm)", "datePublished": "2025-05-30T16:37:01", "dateUpdated": "2025-06-10T04:43:39", "baseScore": 0.0, "aliases": ["MAL-2025-4591"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

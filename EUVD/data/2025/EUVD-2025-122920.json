@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122920", "enisaUuid": "78032e16-45fb-3d1c-b799-0db2e16d2c6f", "description": "Malicious code in quito-request-karma-html-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147002"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

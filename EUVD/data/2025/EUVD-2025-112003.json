@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112003", "enisaUuid": "5566cdf8-7423-3394-882c-f9da5d036908", "description": "Malicious code in karma-heka-shelljs-css-minimizer-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144110"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

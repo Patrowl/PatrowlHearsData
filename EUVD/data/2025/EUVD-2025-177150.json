@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177150", "enisaUuid": "79dbcbfa-6aaf-34ac-b942-4dd1b4028323", "description": "Malicious code in pipe-resolve-signal-uglify-eta (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188725"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

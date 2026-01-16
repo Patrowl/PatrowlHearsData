@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-190729", "enisaUuid": "39d10056-acb5-3cd6-aae2-9705ae71482e", "description": "Malicious code in zero-old-static-string-daemon (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-40951"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

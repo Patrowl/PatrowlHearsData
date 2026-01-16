@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-38411", "enisaUuid": "5a0fd07a-cc28-3e68-9aaa-5a73692f8b53", "description": "Malicious code in libxmljs2superbank (npm)", "datePublished": "2025-11-09T00:17:09", "dateUpdated": "2025-12-24T10:09:28", "baseScore": 0.0, "aliases": ["MAL-2025-49419"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

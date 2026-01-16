@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124672", "enisaUuid": "09bb128c-12cd-36ff-9767-0346a79afb47", "description": "Malicious code in mysql-firebase-websockets-mini-css-extract-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145246"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

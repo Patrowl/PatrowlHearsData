@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-79862", "enisaUuid": "abc8905d-1883-3175-bf68-9ea5bff2b1d9", "description": "Malicious code in administrative_cuckoo_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-99192"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

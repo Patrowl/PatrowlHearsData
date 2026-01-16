@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120656", "enisaUuid": "fa48d943-674f-3cbe-ab4f-4ca8997ac0eb", "description": "Malicious code in warp-nodemon-spectron-rest (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149273"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

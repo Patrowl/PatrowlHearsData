@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172463", "enisaUuid": "c2ef10a5-92cf-3313-b9cd-18fc2e925c9e", "description": "Malicious code in nuxtjs-galaxy-backend-genomics (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27934"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

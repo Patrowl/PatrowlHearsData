@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175972", "enisaUuid": "870e50d0-af78-3870-858c-b8a8deefbf56", "description": "Malicious code in tethys-acamar-protractor-html-webpack-plugin (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189903"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

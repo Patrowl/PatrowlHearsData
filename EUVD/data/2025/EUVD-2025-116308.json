@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116308", "enisaUuid": "1f05d5be-d472-3fd8-8e78-49a5d763f36e", "description": "Malicious code in await-castor-middleware-chakra-ui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139794"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

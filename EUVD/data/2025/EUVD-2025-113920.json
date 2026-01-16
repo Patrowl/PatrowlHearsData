@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113920", "enisaUuid": "b638b1ad-a4dc-3dda-ab8f-b8b53a4fe023", "description": "Malicious code in eslint-config-apollo-uglify-js-metalsmith (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142190"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

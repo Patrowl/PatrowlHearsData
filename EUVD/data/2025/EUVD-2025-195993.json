@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195993", "enisaUuid": "2f44c78d-14f8-3b8f-a539-ca1397ea7f27", "description": "Malicious code in tardigrade-sequelize-kuiperbelt-meteor (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46241"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

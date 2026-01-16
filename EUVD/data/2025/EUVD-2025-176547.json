@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176547", "enisaUuid": "52903ca2-33db-30ac-b93a-dfdeccf6afa1", "description": "Malicious code in sails-dotenv-adonis-antd (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189328"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112490", "enisaUuid": "ba292222-ef53-317c-a472-d32a0e37cce2", "description": "Malicious code in init-halley-non-blocking-frontend (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143623"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

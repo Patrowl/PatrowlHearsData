@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124010", "enisaUuid": "f810ccb3-b0db-3657-82a4-eba716e2cbdd", "description": "Malicious code in orbit-pegasus-sync-shelljs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145911"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

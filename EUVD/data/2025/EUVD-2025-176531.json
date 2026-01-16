@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176531", "enisaUuid": "e4dd0e50-fa00-3f4e-8f32-6eb0ba098cf7", "description": "Malicious code in sandbox-table-async-void-export (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189344"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

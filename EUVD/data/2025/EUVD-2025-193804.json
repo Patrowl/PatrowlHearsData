@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193804", "enisaUuid": "0368be12-573c-39e0-98b3-f634def07bc0", "description": "Malicious code in dotenv-parse-variables-cluster-mongoose-xanthus (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44051"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

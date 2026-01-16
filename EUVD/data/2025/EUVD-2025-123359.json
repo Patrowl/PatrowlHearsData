@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123359", "enisaUuid": "03dd82df-ee0c-3965-9352-f2b79f15b0c2", "description": "Malicious code in process-parcel-pino-pretty-csrf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146563"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

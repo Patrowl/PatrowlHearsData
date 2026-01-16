@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193998", "enisaUuid": "169eefff-36f0-333a-9f30-809de18f4ac1", "description": "Malicious code in fermiparadox-materialize-cli-planckscale (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44245"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

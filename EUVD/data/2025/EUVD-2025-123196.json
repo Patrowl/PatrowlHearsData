@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123196", "enisaUuid": "5a361e85-d0b1-3bc0-a28a-558f99fc813b", "description": "Malicious code in proxima-oberon-magellan-uninstall (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146726"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

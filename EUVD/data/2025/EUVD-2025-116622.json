@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116622", "enisaUuid": "658e94b0-3840-3eeb-b7e5-e6a91a4da766", "description": "Malicious code in apex-html-webpack-plugin-configstore-polaris (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139480"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

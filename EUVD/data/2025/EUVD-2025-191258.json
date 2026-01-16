@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191258", "enisaUuid": "3dac79be-5fa1-33d6-b6c0-cc343ddaae41", "description": "Malicious code in @twork-data-services/counterfree (npm)", "datePublished": "2025-08-28T07:16:25", "dateUpdated": "2025-08-28T07:16:25", "baseScore": 0.0, "aliases": ["MAL-2025-41489"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

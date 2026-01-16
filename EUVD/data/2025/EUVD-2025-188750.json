@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188750", "enisaUuid": "a680377d-fabc-3513-998e-e258ace3c126", "description": "Malicious code in web-api-error (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38964"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

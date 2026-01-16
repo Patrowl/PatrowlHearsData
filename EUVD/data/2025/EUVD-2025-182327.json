@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182327", "enisaUuid": "3fd6e2d5-f903-395e-88d0-b08b12142b61", "description": "Malicious code in rubytest (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32542"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

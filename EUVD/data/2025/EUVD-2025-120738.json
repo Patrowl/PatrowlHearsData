@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120738", "enisaUuid": "b38c18cd-7899-3d78-8ee4-07b53e79f73f", "description": "Malicious code in vortex-scripts-scripts-webdriver-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149191"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

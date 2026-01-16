@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123103", "enisaUuid": "6625281e-8773-3a1d-a45f-907bea510f93", "description": "Malicious code in publish-ultra-webdriver-manager-leda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146819"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

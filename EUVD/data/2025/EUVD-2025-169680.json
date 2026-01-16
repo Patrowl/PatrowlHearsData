@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169680", "enisaUuid": "96f99be7-5fd8-33b4-a1e7-fe6c2043c385", "description": "Malicious code in leo-password-reset-service (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25151"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

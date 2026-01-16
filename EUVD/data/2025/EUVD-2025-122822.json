@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122822", "enisaUuid": "98450f3f-30c4-38b7-95cf-846a232d0dd1", "description": "Malicious code in redis-fornax-loglevel-scorpius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147100"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

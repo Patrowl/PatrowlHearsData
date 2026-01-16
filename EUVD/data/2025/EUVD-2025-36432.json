@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-36432", "enisaUuid": "b87594a1-55a0-3bf4-80ce-0faac6ce0a8c", "description": "Malicious code in @eqder/bird (npm)", "datePublished": "2025-10-24T13:45:37", "dateUpdated": "2025-10-31T03:25:40", "baseScore": 0.0, "aliases": ["MAL-2025-48946"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

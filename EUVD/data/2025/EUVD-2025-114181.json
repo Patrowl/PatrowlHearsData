@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114181", "enisaUuid": "a8f03dbe-a816-39c8-8b60-7e9403c82142", "description": "Malicious code in electron-rigel-bootstrap-meteor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141929"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

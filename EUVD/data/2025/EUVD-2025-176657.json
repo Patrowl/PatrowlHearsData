@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176657", "enisaUuid": "8721854c-313c-3524-90b2-494a69cd83f2", "description": "Malicious code in restart-andromeda-levels-geckodriver (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189218"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

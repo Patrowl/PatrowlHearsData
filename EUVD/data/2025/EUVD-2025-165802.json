@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165802", "enisaUuid": "3c0033a5-90bb-3d78-9f7b-f3baec925317", "description": "Malicious code in generator-gobsmack (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21283"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

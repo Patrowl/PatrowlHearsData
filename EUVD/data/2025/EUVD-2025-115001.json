@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115001", "enisaUuid": "51d57ad3-ff22-39ad-9592-c9a3d66d5a44", "description": "Malicious code in cordelia-protractor-csrf-colors (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141108"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

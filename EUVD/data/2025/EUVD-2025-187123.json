@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187123", "enisaUuid": "8a7ed60a-5572-3307-a5aa-4e056d59db02", "description": "Malicious code in trezor-link-node-hid (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37194"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

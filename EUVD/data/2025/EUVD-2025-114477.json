@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114477", "enisaUuid": "2f422371-29ed-3ea6-8c2b-e066559c1847", "description": "Malicious code in development-server-electron-builder-hermes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141632"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

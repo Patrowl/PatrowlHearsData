@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162319", "enisaUuid": "fe307d9f-1cb5-3231-b588-dd915daf55d9", "description": "Malicious code in cudadump (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17820"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

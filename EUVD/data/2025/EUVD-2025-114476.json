@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114476", "enisaUuid": "bf3ba245-0e7e-3dd6-b355-d220ad70d9a0", "description": "Malicious code in development-slidev-dotenv-parse-variables-sedna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141633"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

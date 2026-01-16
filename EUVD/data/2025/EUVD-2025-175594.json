@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175594", "enisaUuid": "a06614e3-b7e4-35c1-9f68-5795f028dde5", "description": "Malicious code in webdriverio-rate-limiter-wormhole-version (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190282"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

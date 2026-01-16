@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121998", "enisaUuid": "c66aea68-6908-3e2d-b408-5f677de4b11e", "description": "Malicious code in shelljs-procyon-jsonp-nova (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147925"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

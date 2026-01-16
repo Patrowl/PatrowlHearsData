@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191042", "enisaUuid": "98454ab2-e13a-35d5-a379-b65c8f12f443", "description": "Malicious code in sdp-transform-writer (npm)", "datePublished": "2025-08-21T18:52:10", "dateUpdated": "2025-09-26T11:06:45", "baseScore": 0.0, "aliases": ["MAL-2025-41264"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

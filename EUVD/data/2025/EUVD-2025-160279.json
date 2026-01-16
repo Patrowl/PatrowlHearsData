@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160279", "enisaUuid": "96ef6a74-bd9d-3b9c-bec5-d3bbb1fa4852", "description": "Malicious code in blaast-deploy (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15778"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

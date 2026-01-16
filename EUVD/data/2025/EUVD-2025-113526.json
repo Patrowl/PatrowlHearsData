@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113526", "enisaUuid": "8ed8476d-145a-30a1-9f2d-015701478fd6", "description": "Malicious code in fork-duplex-request-triton (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142586"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

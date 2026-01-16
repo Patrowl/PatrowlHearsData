@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171892", "enisaUuid": "9f7db52a-4af6-3a2c-a32a-9a7bb297715f", "description": "Malicious code in new-mock-sanitize-rho-signal (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27363"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

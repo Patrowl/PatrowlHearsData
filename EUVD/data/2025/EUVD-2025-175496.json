@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175496", "enisaUuid": "0969adb9-374c-3328-b8f8-2eed85e33f62", "description": "Malicious code in xenos-nconf-aurora-redis (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190380"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

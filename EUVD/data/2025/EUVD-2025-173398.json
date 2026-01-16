@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173398", "enisaUuid": "b8f01767-3303-3445-9ae8-56f2e1a3aa3a", "description": "Malicious code in parcel-request-semantic-ui-webpack (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28869"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

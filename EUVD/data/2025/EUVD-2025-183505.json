@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183505", "enisaUuid": "4fffb173-e1ed-311e-b41b-1f8863f7589e", "description": "Malicious code in spectron-cli-duplex-unuk (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33720"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

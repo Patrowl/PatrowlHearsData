@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126645", "enisaUuid": "4d69216d-103c-3670-b91c-7243930efe9f", "description": "Malicious code in tapbit-test (npm)", "datePublished": "2025-03-28T13:00:26", "dateUpdated": "2025-03-28T13:00:26", "baseScore": 0.0, "aliases": ["MAL-2025-2904"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

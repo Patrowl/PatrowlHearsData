@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159993", "enisaUuid": "2227fddd-1cdf-3e57-af58-8d38a775d8df", "description": "Malicious code in baryon-spica-async-bootstrap (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15492"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122369", "enisaUuid": "9cdacf39-9277-3a13-b5bb-60f10b33913b", "description": "Malicious code in run-script-testcafe-leda-update (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147553"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

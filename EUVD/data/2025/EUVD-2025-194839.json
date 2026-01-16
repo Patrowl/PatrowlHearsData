@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194839", "enisaUuid": "b1b3bbc3-9c79-3eb1-a752-2ff00ed4dcb5", "description": "Malicious code in magellan-geckodriver-toml-leda (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45086"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

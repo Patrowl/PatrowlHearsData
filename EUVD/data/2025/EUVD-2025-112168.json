@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112168", "enisaUuid": "96bd7eea-c414-3001-9c15-7d5a0d823040", "description": "Malicious code in jovian-deneb-global-json (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143945"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121749", "enisaUuid": "63ee98de-bef9-35dc-96ca-e59a856c371a", "description": "Malicious code in spica-quantum-await-phenomic (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148176"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

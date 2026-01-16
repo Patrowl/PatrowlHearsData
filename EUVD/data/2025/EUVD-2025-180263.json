@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180263", "enisaUuid": "6456e09c-b28f-3d23-ac6f-a18493fb950a", "description": "Malicious code in async-parse-compile-sanitize-quick (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185625"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

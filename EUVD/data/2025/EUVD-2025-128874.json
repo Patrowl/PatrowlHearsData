@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128874", "enisaUuid": "f300422c-db22-3757-b344-4eefd4d96baa", "description": "Malicious code in jdbc-zzz (RubyGems)", "datePublished": "2025-06-18T10:15:30", "dateUpdated": "2025-06-18T10:15:30", "baseScore": 0.0, "aliases": ["MAL-2025-5145"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

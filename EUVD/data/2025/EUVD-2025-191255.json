@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191255", "enisaUuid": "64eca072-d75b-3452-95fc-06cddc563f66", "description": "Malicious code in @twork-data-services/company-tariff-partnum (npm)", "datePublished": "2025-08-28T07:16:17", "dateUpdated": "2025-08-28T07:16:17", "baseScore": 0.0, "aliases": ["MAL-2025-41486"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

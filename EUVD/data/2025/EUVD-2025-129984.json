@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129984", "enisaUuid": "104e88e2-0f08-36b3-9dd2-e7c61d7e9ab9", "description": "Malicious code in redux-saga-channel-end-rce (npm)", "datePublished": "2025-07-26T11:15:51", "dateUpdated": "2025-07-28T01:58:37", "baseScore": 0.0, "aliases": ["MAL-2025-6257"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

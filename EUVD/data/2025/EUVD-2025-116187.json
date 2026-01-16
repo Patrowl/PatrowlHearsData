@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116187", "enisaUuid": "59251fda-e459-3da3-9d73-84d53b665c63", "description": "Malicious code in barnard-nova-sass-loader-configstore (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139915"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

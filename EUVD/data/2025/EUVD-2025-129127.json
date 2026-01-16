@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129127", "enisaUuid": "5075b218-2f8b-34c8-b564-ca4735acca9e", "description": "Malicious code in ecs-api-reference (npm)", "datePublished": "2025-06-18T15:10:56", "dateUpdated": "2025-06-18T15:10:56", "baseScore": 0.0, "aliases": ["MAL-2025-5398"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

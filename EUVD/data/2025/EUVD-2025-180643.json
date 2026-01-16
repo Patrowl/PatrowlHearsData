@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180643", "enisaUuid": "4959a52d-c277-3d71-bc88-d391b6fe7b7a", "description": "Malicious code in pulsar-solis-pino-pretty-dysonswarm (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-30840"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

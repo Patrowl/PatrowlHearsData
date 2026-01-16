@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115503", "enisaUuid": "6add19e4-7ea5-3f24-a306-04972822a0cb", "description": "Malicious code in chai-pulsar-carpo-mysql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140604"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125515", "enisaUuid": "33ff2020-baf7-3325-b5de-6ad4e5172e06", "description": "Malicious code in com.unity.render-pipelines.high-definition (npm)", "datePublished": "2025-03-03T13:22:22", "dateUpdated": "2025-03-03T13:22:22", "baseScore": 0.0, "aliases": ["MAL-2025-1772"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

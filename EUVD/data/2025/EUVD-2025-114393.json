@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114393", "enisaUuid": "8af08e26-4d0a-36bb-8534-081b2cad965d", "description": "Malicious code in dotenv-parse-variables-deneb-lyra-repository (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141716"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

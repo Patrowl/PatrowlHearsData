@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170737", "enisaUuid": "8faa7ef3-2c37-303c-95bb-2bed1dac3b41", "description": "Malicious code in mesosphere-eslint-module-auth (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26208"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

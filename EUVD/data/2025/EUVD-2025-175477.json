@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175477", "enisaUuid": "78ce00fb-58b8-3dd0-bf80-c5e3681522c1", "description": "Malicious code in xml-proxima-rest-process (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190399"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

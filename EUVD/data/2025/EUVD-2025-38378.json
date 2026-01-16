@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-38378", "enisaUuid": "2284717b-d842-3bee-893b-18436c841958", "description": "Malicious code in xmlparserruntime (npm)", "datePublished": "2025-11-09T00:17:09", "dateUpdated": "2025-11-09T00:17:09", "baseScore": 0.0, "aliases": ["MAL-2025-49452"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

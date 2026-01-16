@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166598", "enisaUuid": "0b0d54a0-054c-3b64-969c-e43e1e5e8b18", "description": "Malicious code in h1-cli-ext-root-auth (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22080"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

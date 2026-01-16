@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197543", "enisaUuid": "c9443f98-d832-3723-be5b-fa1d43a1bb47", "description": "Malicious code in patrik_workflow_request (npm)", "datePublished": "2025-10-23T19:41:57", "dateUpdated": "2025-10-23T19:41:57", "baseScore": 0.0, "aliases": ["MAL-2025-48858"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

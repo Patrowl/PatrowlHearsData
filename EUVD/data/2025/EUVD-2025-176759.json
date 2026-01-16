@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176759", "enisaUuid": "d2073519-3941-3c88-afe9-71bd33d5aa12", "description": "Malicious code in redshift-sagitta-geodynamo-planckscale (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189116"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

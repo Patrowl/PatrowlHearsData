@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115143", "enisaUuid": "b5d7e1b7-0e27-37f6-a4b6-855b06ab3449", "description": "Malicious code in commitlint-config-angular-jest-update-neptune (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140965"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

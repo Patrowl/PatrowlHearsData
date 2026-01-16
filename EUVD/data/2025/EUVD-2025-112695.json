@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112695", "enisaUuid": "041e2ec4-fcb2-376d-ad05-0c2425cc5c10", "description": "Malicious code in husky-fork-child-process-flare (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143417"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

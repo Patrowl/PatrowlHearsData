@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120782", "enisaUuid": "2e493f6a-ccf4-3fcb-bb20-dc7adf0680fb", "description": "Malicious code in version-uglify-js-draco-dotenv (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149147"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

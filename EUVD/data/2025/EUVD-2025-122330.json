@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122330", "enisaUuid": "8cc1ed4d-bd3d-314a-b273-7c9e0a844aaf", "description": "Malicious code in sagitta-dotenv-parse-variables-sedna-mutation (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147592"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

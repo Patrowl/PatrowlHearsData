@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112525", "enisaUuid": "c44aeeb8-831e-375f-ab21-28c2d62a0d16", "description": "Malicious code in ini-duplex-mini-css-extract-plugin-stream (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143588"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

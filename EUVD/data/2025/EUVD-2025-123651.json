@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123651", "enisaUuid": "a1e54608-1d1c-3f05-9833-45dc0cdb2131", "description": "Malicious code in pipe-testcafe-oauth-uninstall (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146270"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

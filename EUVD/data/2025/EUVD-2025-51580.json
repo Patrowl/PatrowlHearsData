@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-51580", "enisaUuid": "77b7f010-076d-393f-873f-d186cf798686", "description": "Malicious code in temporary-fuchsia-bass (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-71069"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

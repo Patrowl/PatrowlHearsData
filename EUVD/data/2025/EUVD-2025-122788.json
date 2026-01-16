@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122788", "enisaUuid": "5305994d-d666-33b7-8019-471c21178e44", "description": "Malicious code in registry-server-jekyll-stream (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147134"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

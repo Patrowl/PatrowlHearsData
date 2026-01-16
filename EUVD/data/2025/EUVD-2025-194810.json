@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194810", "enisaUuid": "3969bed8-ac7f-39e4-a447-bcc0f69548ce", "description": "Malicious code in local-release-it-exec-graphql (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45057"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

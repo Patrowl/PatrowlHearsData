@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120381", "enisaUuid": "d91312cd-0b5a-3e9a-a2c9-4260cd6ef6d8", "description": "Malicious code in wolf-halley-weywot-socketio (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149550"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

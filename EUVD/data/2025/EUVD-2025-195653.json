@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195653", "enisaUuid": "bc8e75c9-667f-3ec3-9e2e-29dc29ddd4d6", "description": "Malicious code in rollup-janus-dotenv-soap (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45901"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

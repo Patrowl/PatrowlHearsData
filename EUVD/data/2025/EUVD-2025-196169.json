@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196169", "enisaUuid": "68cc5148-4b97-34e4-ad6e-212e96c221d0", "description": "Malicious code in typeorm-lynx-playwright-convict (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46417"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

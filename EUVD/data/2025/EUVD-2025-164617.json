@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164617", "enisaUuid": "b3b3f734-38a4-3f9d-95c3-68733475bf4e", "description": "Malicious code in expressjs-mynodeutils (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20097"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

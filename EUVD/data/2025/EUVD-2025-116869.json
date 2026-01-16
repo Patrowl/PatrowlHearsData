@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116869", "enisaUuid": "02251a23-eca1-3730-9ec4-f6ec4e1d7447", "description": "Malicious code in aether-link-request-promise (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139233"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

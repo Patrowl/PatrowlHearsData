@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153768", "enisaUuid": "1c9773ba-a3c3-3542-a798-47e65240dcb4", "description": "Malicious code in @react-native-website/update-redirects (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9267"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

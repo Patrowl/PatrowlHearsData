@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176297", "enisaUuid": "03911e14-cab0-31f9-9014-9902a4cea892", "description": "Malicious code in socketio-elara-europa-dotenv (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189578"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

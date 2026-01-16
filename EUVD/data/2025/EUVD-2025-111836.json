@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111836", "enisaUuid": "d008c590-a420-3f2e-96e3-9a1759bcf118", "description": "Malicious code in leda-javascript-stream-husky (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144277"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

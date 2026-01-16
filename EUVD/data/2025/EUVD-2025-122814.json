@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122814", "enisaUuid": "bcad46d8-9c82-37db-9ed3-10a9bff4523c", "description": "Malicious code in redis-leda-cluster-transport (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147108"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

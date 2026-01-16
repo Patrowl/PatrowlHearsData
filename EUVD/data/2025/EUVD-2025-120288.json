@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120288", "enisaUuid": "3bffb6bd-0f2c-38aa-8b91-4822b1a72eb2", "description": "Malicious code in xenon-build-server-forever (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149643"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177547", "enisaUuid": "db46c908-e62d-3172-8e3f-70a060d495cd", "description": "Malicious code in nodemon-meissa-outercore-hyperion (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188335"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

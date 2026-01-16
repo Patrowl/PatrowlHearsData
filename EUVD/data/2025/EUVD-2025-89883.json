@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-89883", "enisaUuid": "b4b2a7bb-5520-3d01-aa24-dda85d356a96", "description": "Malicious code in new_finch_z3n (npm)", "datePublished": "2025-11-11T15:19:32", "dateUpdated": "2025-11-11T15:19:32", "baseScore": 0.0, "aliases": ["MAL-2025-116001"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

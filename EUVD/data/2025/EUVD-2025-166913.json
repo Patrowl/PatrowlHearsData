@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166913", "enisaUuid": "f62b9a31-a68b-3803-9a60-2183820eb597", "description": "Malicious code in hermes-epimetheus-meteor-commitlint (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22395"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

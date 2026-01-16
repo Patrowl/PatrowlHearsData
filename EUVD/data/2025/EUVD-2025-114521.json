@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114521", "enisaUuid": "a8252545-453e-3228-bfb1-111ac49e3382", "description": "Malicious code in dependencies-venus-install-bootes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141588"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

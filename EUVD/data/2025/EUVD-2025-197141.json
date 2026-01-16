@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197141", "enisaUuid": "fe12de19-9d4f-3a9e-8eef-11b42b50510c", "description": "Malicious code in example-third-party-queries-caching (npm)", "datePublished": "2025-09-26T09:31:03", "dateUpdated": "2025-09-26T09:31:03", "baseScore": 0.0, "aliases": ["MAL-2025-47668"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

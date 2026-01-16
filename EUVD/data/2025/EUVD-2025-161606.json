@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161606", "enisaUuid": "ffca3149-0550-3c20-9d3a-c982be7e8bc8", "description": "Malicious code in cli-h2-test (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17106"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

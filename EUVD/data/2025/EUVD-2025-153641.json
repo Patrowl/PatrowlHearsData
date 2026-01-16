@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153641", "enisaUuid": "989f6350-f325-3430-bfae-1e1d6996e5df", "description": "Malicious code in @nstark/angular.js (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9140"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

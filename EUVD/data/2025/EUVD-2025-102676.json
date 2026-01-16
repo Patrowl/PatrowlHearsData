@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-102676", "enisaUuid": "fe2be693-c8d3-300b-87c1-3c0a9a3bf67d", "description": "Malicious code in remote_squid_z3n (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-129729"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

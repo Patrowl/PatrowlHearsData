@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176899", "enisaUuid": "a74628f9-f146-3bbf-b166-6caf2bedc640", "description": "Malicious code in pulsar-run-script-process-io (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188976"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

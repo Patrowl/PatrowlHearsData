@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75803", "enisaUuid": "a9ccdf92-95e6-30d1-b573-e196dba1a962", "description": "Malicious code in rich_bison-silentdev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-108048"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

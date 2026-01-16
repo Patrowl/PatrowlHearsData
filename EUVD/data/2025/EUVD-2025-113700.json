@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113700", "enisaUuid": "280baeb6-f4c5-3f71-845d-1ae7d0bbf4e7", "description": "Malicious code in farout-draco-supervisor-chai (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142410"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

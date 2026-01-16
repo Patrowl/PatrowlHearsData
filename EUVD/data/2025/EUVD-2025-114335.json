@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114335", "enisaUuid": "a4298a8b-82ab-3f4e-bbf8-ebdaa70caeec", "description": "Malicious code in dotenv-safe-quito-sagitta-spawn (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141774"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

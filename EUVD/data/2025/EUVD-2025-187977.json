@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187977", "enisaUuid": "5f52b153-68a2-3315-be10-95140ea1d524", "description": "Malicious code in vega-hermes-websockets-slides (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38189"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-190438", "enisaUuid": "9b809e51-db1b-3476-be61-0d134fbdf067", "description": "Malicious code in yumlist (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-40660"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

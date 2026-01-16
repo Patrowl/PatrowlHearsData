@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160492", "enisaUuid": "ec890371-d16e-30a5-84c7-b97826bc071e", "description": "Malicious code in bootstrap.docpad (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15991"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75311", "enisaUuid": "ca40ca29-4478-3cbc-8009-f57de8babd07", "description": "Malicious code in useful_pheasant-tool (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-110249"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

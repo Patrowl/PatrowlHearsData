@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167370", "enisaUuid": "3eec56d9-8699-343a-9503-b5a54e41ffb9", "description": "Malicious code in hyperion-baryon-fork-graphql (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22852"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

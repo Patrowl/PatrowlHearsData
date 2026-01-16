@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166516", "enisaUuid": "c663453c-1182-3ab7-b6eb-88380f2e2844", "description": "Malicious code in grunt-smart-download (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21998"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

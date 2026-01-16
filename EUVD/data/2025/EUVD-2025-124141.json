@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124141", "enisaUuid": "fbdc3bd1-4ee0-304f-bd2f-93d1c7c133e8", "description": "Malicious code in octans-resolvers-inquirer-hydra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145780"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126362", "enisaUuid": "e8a471f3-cbb2-349a-9669-a579459f85e3", "description": "Malicious code in bsb-backup (PyPI)", "datePublished": "2025-03-24T10:27:00", "dateUpdated": "2025-04-28T05:47:10", "baseScore": 0.0, "aliases": ["MAL-2025-2621"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

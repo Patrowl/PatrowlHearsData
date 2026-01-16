@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168030", "enisaUuid": "d8a5edf3-c81a-3ed5-a50a-9a9f8aa26a34", "description": "Malicious code in iwasm-ion-schema (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23512"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

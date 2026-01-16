@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172375", "enisaUuid": "2d23cb49-a5e4-36d1-9b69-3423796f9d5a", "description": "Malicious code in npm-suite-extras (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27846"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

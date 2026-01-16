@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175905", "enisaUuid": "90e258cd-f12a-3a5f-ae30-009509766a45", "description": "Malicious code in transform-version-sequelize-native (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189970"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

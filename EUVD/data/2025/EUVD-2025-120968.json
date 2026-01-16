@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120968", "enisaUuid": "153ef1cc-7dff-3dc9-9e3a-68497190961a", "description": "Malicious code in uninstall-local-meissa-miranda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148961"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129193", "enisaUuid": "431dc77e-db0a-3ca8-b06b-bf94dad1f526", "description": "Malicious code in tableau-widgets-datagrid (npm)", "datePublished": "2025-06-27T14:15:37", "dateUpdated": "2025-06-27T14:15:37", "baseScore": 0.0, "aliases": ["MAL-2025-5465"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

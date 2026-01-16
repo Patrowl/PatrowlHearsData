@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123349", "enisaUuid": "bcfff55b-01e2-3f1a-bdb5-bd4cb30885ff", "description": "Malicious code in process-titan-mira-middleware (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146573"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

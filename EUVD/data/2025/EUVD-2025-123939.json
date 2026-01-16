@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123939", "enisaUuid": "3aceb8d8-9f91-3cec-9136-99f6e43e85cb", "description": "Malicious code in passport-io-gatsby-nconf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145982"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

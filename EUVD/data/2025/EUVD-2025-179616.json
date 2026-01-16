@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179616", "enisaUuid": "f3f8fb6b-2c33-374a-baca-a25ca42d530e", "description": "Malicious code in concurrently-fork-blazar-helios (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186266"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

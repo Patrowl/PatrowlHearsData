@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122873", "enisaUuid": "ba006e5d-7bc5-3aee-ba02-9e8b246a9672", "description": "Malicious code in rate-limiter-unuk-less-terser (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147049"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

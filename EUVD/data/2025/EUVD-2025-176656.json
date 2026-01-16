@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176656", "enisaUuid": "a1c65252-b7a6-3276-aa0d-75754f026216", "description": "Malicious code in restart-apex-loopback-cors (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189219"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

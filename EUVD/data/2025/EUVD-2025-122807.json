@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122807", "enisaUuid": "47ba419d-818d-3d2b-af8f-04dce9cd29f9", "description": "Malicious code in redis-sqlite-odin-cosmiconfig (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147115"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

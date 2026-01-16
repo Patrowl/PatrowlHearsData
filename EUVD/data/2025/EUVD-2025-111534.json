@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111534", "enisaUuid": "0039d6a9-0f3e-3da7-82a3-605c3a982c54", "description": "Malicious code in luna-request-triton-json (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144581"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

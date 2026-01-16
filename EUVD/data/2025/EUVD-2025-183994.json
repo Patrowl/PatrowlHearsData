@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183994", "enisaUuid": "0768a8ec-3df0-326d-99ec-8a219930f5f1", "description": "Malicious code in superflare-exec-selenium-gravitationalwave (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34209"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

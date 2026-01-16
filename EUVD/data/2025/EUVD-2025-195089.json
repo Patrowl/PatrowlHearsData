@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195089", "enisaUuid": "69d70584-b4d6-37ef-93f7-fb43f28d6839", "description": "Malicious code in nodejs-smtp (npm)", "datePublished": "2025-09-05T16:38:20", "dateUpdated": "2025-09-05T16:38:20", "baseScore": 0.0, "aliases": ["MAL-2025-45337"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

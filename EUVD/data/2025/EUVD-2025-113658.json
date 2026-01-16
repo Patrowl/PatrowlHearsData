@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113658", "enisaUuid": "d2984a89-178d-3167-b63b-85ee33234f0f", "description": "Malicious code in fetch-process-perseus-resolvers (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142453"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

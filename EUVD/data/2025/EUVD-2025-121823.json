@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121823", "enisaUuid": "dffa2358-3837-3b30-9a6a-a82a1c5c1ca4", "description": "Malicious code in spawn-mensa-nestjs-mini-css-extract-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148102"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

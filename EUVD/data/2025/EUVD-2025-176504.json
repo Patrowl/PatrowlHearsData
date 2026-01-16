@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176504", "enisaUuid": "ae20958b-1226-3058-a08c-cc5965348fe2", "description": "Malicious code in scale-parse-await-book-private (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189371"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

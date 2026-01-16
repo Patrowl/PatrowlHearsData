@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179580", "enisaUuid": "625991c2-4c4b-3755-9f4e-24d9a6fceccc", "description": "Malicious code in convict-writable-webpack-cosmogenic (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186302"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113732", "enisaUuid": "66dc9d20-fc09-3ced-9df3-20b9f1130828", "description": "Malicious code in express-grunt-transport-solis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142378"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

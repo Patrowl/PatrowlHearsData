@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-55240", "enisaUuid": "8c6d40ce-54db-33ac-aca0-66e573cb2b39", "description": "Malicious code in confidential-amaranth-parakeet (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-67409"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

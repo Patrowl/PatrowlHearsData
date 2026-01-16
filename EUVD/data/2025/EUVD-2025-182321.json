@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182321", "enisaUuid": "af1d1ed1-1cfc-319a-8217-d59103985221", "description": "Malicious code in rubygrep (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32536"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

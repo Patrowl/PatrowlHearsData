@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112099", "enisaUuid": "831d10fa-fdb7-31ed-871a-3bdd6c3a2f2d", "description": "Malicious code in jsonp-writable-grus-cli (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144014"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

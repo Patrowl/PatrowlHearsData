@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176633", "enisaUuid": "1b1e00d0-496b-3b04-bcd6-f9d97c545105", "description": "Malicious code in rimraf-centauri-loop-nightwatch (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189242"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

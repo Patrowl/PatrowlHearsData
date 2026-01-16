@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171105", "enisaUuid": "89563cdb-80b4-331f-89a4-127759a20439", "description": "Malicious code in mocha-helios-postgres-registry (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26576"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

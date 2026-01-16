@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112969", "enisaUuid": "36930c7a-53dc-37d5-8903-f97dba48fd86", "description": "Malicious code in halley-graphql-miranda-changelog (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143143"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

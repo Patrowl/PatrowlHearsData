@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170015", "enisaUuid": "15e26b33-bf32-372d-9798-f85f32e4b78e", "description": "Malicious code in local-storage-manager-html5 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25486"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116695", "enisaUuid": "67d81ca1-884d-3595-8b40-d9a43d44ed19", "description": "Malicious code in antares-epimetheus-chromedriver-dependencies (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139407"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

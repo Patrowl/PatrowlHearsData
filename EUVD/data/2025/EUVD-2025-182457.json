@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182457", "enisaUuid": "973f2988-657d-32da-9bfc-b449982414b6", "description": "Malicious code in sanitize-encode-interpret-sigma-water (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32672"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

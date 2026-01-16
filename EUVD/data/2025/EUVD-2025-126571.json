@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126571", "enisaUuid": "25d7a8ab-342c-3613-acb5-d9b6462de522", "description": "Malicious code in @uniqa-extern/capacitor-plugin-kofax (npm)", "datePublished": "2025-03-28T12:33:47", "dateUpdated": "2025-03-28T12:33:47", "baseScore": 0.0, "aliases": ["MAL-2025-2830"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127154", "enisaUuid": "e2c40e31-227d-3180-a7ef-571e395420f2", "description": "Malicious code in ruba-clearpass-api (npm)", "datePublished": "2025-04-23T16:00:41", "dateUpdated": "2025-04-23T16:00:41", "baseScore": 0.0, "aliases": ["MAL-2025-3413"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

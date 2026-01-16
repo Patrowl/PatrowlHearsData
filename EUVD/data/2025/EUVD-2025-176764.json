@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176764", "enisaUuid": "314e759a-6d94-3799-8f32-6137dceae82e", "description": "Malicious code in redis-parsec-fomalhaut-nebula (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189111"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

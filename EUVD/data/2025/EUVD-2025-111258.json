@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111258", "enisaUuid": "ecb09360-758d-3d26-a14e-54c68b028f73", "description": "Malicious code in mensa-passport-module-shelljs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144857"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

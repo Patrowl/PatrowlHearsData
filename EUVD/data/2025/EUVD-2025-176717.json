@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176717", "enisaUuid": "1b501cdb-f454-36e3-9792-ab985d43cc96", "description": "Malicious code in relay-tardigrade-typeorm-cli (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189158"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

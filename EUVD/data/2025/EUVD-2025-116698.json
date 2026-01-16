@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116698", "enisaUuid": "2e328d0a-1a64-38bc-8ca6-e444aa513065", "description": "Malicious code in antares-dagda-middleware-eclipse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139404"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

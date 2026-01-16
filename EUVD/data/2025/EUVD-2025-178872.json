@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178872", "enisaUuid": "9cfe6ca3-58e0-34d1-ba5f-0288ac153942", "description": "Malicious code in forever-cypress-public-package (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187010"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

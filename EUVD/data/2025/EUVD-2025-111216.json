@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111216", "enisaUuid": "bd3d5e48-50b6-3515-9d13-98cb6b2e56fe", "description": "Malicious code in meteor-apollo-xanadu-kinetic (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144899"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

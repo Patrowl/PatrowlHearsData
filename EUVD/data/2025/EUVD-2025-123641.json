@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123641", "enisaUuid": "b76efce7-f8b1-3fb2-9d5d-3166e8ae014e", "description": "Malicious code in playwright-delphinus-javascript-loopback (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146280"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

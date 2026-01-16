@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179083", "enisaUuid": "70ad2df0-de51-3f16-8ad7-6597f8c08876", "description": "Malicious code in equinox-passport-janus-websockets (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186799"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

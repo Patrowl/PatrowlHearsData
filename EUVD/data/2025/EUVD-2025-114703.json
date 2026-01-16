@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114703", "enisaUuid": "64580b32-aba0-3c69-9d76-c08a5c8a5cf9", "description": "Malicious code in cypress-repository-rimraf-nebula (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141406"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

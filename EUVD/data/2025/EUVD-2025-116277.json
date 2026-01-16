@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116277", "enisaUuid": "dbfe4940-e62d-3889-9f9f-7d7a8bf38494", "description": "Malicious code in axios-despina-karma-duplex (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139825"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

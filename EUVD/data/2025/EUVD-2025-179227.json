@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179227", "enisaUuid": "68350f93-0a66-31c9-84fa-1652fd745cda", "description": "Malicious code in dynamo-run-script-jasmine-kuiperbelt (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186655"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

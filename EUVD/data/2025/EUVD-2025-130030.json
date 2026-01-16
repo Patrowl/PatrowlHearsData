@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130030", "enisaUuid": "c9524a47-5ce7-3255-91eb-5b82d39020fe", "description": "Malicious code in react-dom-experimental-builtin (npm)", "datePublished": "2025-07-24T14:45:02", "dateUpdated": "2025-07-24T14:45:02", "baseScore": 0.0, "aliases": ["MAL-2025-6303"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

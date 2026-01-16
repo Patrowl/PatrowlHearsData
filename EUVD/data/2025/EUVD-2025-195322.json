@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195322", "enisaUuid": "86d7456d-f299-3524-a97e-84b28c0de2f3", "description": "Malicious code in pm2-passport-cosmicsilence-quark (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45570"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

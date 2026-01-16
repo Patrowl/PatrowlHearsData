@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179505", "enisaUuid": "1dacc210-3fc4-37c1-91db-0534316e7cd7", "description": "Malicious code in cross-env-atlas-non-blocking-eslint (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186377"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

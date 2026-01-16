@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191060", "enisaUuid": "06c76713-8870-3fc1-9ce8-e504ea538079", "description": "Malicious code in azure-ai-foundry (npm)", "datePublished": "2025-08-23T14:07:58", "dateUpdated": "2025-08-23T14:07:58", "baseScore": 0.0, "aliases": ["MAL-2025-41282"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

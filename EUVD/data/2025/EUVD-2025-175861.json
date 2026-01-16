@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175861", "enisaUuid": "cd77f992-c8f2-3d79-8cb9-0f66d39be4cd", "description": "Malicious code in typeorm-csv-troposphere-socketio (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190014"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

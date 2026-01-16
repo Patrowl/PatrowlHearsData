@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187494", "enisaUuid": "05a8a5a7-759b-35d9-861d-b39b3c448e5b", "description": "Malicious code in umbriel-sequelize-tool-browserify (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37706"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

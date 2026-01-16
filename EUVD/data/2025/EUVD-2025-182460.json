@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182460", "enisaUuid": "530cfe56-d2dc-36ba-befa-51b7e1ddc364", "description": "Malicious code in sanitize-runtime-test-dog-user (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32675"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

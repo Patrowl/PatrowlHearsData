@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196353", "enisaUuid": "fbac9f28-f1d0-3146-b4a8-0daf52652617", "description": "Malicious code in webpack-command-blaze-ariel (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46601"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

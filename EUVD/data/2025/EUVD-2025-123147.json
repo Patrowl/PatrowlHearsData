@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123147", "enisaUuid": "6ccf72f0-7ee6-3ccd-927b-debaf9ff8eeb", "description": "Malicious code in publish-auth-nova-socketio (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146775"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

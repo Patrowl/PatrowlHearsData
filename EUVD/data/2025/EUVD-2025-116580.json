@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116580", "enisaUuid": "8d41bcd9-1e55-32b3-83bb-497e3d79b6bc", "description": "Malicious code in apollo-nightwatch-jest-non-blocking (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139522"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

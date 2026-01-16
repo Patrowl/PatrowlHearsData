@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181605", "enisaUuid": "24406bf2-ff15-3d0d-9950-3b5beecb6d95", "description": "Malicious code in react-native-native-toast (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31820"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

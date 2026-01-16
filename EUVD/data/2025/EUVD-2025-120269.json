@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120269", "enisaUuid": "679f7fb0-b829-3d1a-a1d2-38ef7e5b0c20", "description": "Malicious code in xenon-shelljs-chariklo-loglevel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149662"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

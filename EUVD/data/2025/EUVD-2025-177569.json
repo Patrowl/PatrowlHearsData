@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177569", "enisaUuid": "6b85ca64-31f7-3fd6-a28c-393fadd123ea", "description": "Malicious code in node-optimize-table-alpha-final (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188313"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

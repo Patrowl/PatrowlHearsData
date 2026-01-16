@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179084", "enisaUuid": "bff6daaf-9a99-38b0-99be-73425b9f24cb", "description": "Malicious code in equinox-mira-jsonp-octans (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186798"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

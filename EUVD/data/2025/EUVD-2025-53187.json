@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-53187", "enisaUuid": "d1650411-e46c-3b29-960c-5a6d65a2af4e", "description": "Malicious code in modest-azure-llama (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-69462"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

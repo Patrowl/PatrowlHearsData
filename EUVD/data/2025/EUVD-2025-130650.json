@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130650", "enisaUuid": "896a3a68-722c-3741-b4a8-fdf3e9df4266", "description": "Malicious code in eslint-config-pcc-custom (npm)", "datePublished": "2025-08-17T02:30:42", "dateUpdated": "2025-08-17T02:30:42", "baseScore": 0.0, "aliases": ["MAL-2025-6928"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

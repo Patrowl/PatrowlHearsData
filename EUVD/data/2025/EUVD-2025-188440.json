@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188440", "enisaUuid": "0f8604a2-8d4d-336a-aca7-9a6dfce469a7", "description": "Malicious code in vscode-import-sort (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38652"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

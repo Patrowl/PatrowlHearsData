@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122588", "enisaUuid": "01deaa69-8279-3b8d-aea6-a00bd8dde791", "description": "Malicious code in resolvers-rimraf-tethys-transport (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147334"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

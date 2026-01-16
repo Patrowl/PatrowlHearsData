@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121229", "enisaUuid": "02462541-cdff-3e03-bdf1-d3b159263731", "description": "Malicious code in toml-antares-winston-octans (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148699"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

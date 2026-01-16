@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124844", "enisaUuid": "31fe92e7-8a37-3047-bc21-8033b2d29baf", "description": "Malicious code in mocha-eris-spectron-forever (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145074"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

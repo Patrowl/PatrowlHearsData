@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176425", "enisaUuid": "39a8d9f3-385d-3142-9f60-ad2b26a42714", "description": "Malicious code in serialize-cloud-key-array-secure (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189450"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129555", "enisaUuid": "6f55e8c8-85c9-3984-bcb3-e6bb724cfb68", "description": "Malicious code in title-dependencies (npm)", "datePublished": "2025-07-03T15:08:08", "dateUpdated": "2025-07-03T15:08:08", "baseScore": 0.0, "aliases": ["MAL-2025-5828"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

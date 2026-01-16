@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176145", "enisaUuid": "d3678fa6-dfe2-3c2d-bda2-260b567574f2", "description": "Malicious code in sudo-yaml-virtualize-encode-pi (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189730"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

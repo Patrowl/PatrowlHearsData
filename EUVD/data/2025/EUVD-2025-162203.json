@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162203", "enisaUuid": "06ce1b52-92c9-354d-ba82-1403ec2aacc0", "description": "Malicious code in cross-env-superagent-umbriel-mongodb (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17704"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

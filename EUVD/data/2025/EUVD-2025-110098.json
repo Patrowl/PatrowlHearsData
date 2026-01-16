@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-110098", "enisaUuid": "ee9ec089-0624-3537-8d60-83e4696f9e90", "description": "Malicious code in local_swallow_z3n (npm)", "datePublished": "2025-11-11T22:56:38", "dateUpdated": "2025-11-11T22:56:38", "baseScore": 0.0, "aliases": ["MAL-2025-135271"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

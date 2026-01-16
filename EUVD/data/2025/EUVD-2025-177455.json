@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177455", "enisaUuid": "6a4a03d2-f57a-3a57-a049-76cf74e826c7", "description": "Malicious code in on-planckscale-sequelize-comet (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188427"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

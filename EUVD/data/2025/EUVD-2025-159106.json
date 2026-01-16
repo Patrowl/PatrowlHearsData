@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159106", "enisaUuid": "3808ab59-c786-32a7-acc1-8b264c9f7ea5", "description": "Malicious code in antishell (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14605"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

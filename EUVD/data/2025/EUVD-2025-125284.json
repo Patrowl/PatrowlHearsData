@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125284", "enisaUuid": "556a009b-eb71-331a-a5cd-1056770706b3", "description": "Malicious code in 1password-sdk-examples (npm)", "datePublished": "2025-02-23T05:16:15", "dateUpdated": "2025-02-23T05:16:15", "baseScore": 0.0, "aliases": ["MAL-2025-1540"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

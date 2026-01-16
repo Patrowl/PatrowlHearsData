@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115443", "enisaUuid": "8f9e537f-8fdf-3513-8739-1c44541dd3ba", "description": "Malicious code in changelog-concurrently-subscription-middleware (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140664"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172148", "enisaUuid": "70ee5fc7-e992-3044-8eaf-ae3bde4c54ad", "description": "Malicious code in node-ffmpeg-win32-ia32 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27619"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

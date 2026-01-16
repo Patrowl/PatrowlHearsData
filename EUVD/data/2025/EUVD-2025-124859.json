@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124859", "enisaUuid": "88b6c41e-00ec-387a-bb9f-e49423d1c231", "description": "Malicious code in miranda-stream-node-config-inquirer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145059"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

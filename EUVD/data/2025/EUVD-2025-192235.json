@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-192235", "enisaUuid": "d6fad355-0c02-3dd2-9a65-fdb4818381b6", "description": "Malicious code in @ellentorg/literate (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-42479"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

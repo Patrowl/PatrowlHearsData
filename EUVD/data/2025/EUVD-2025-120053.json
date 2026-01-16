@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120053", "enisaUuid": "debe3044-d61a-3e3d-a408-4e95978d7267", "description": "Malicious code in zephyr-antares-sqlite-xenos (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149879"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

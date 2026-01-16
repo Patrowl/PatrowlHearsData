@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120524", "enisaUuid": "01dc3ab9-f310-3f06-a0ab-28c1830f3455", "description": "Malicious code in webpack-public-uglify-js-atlas (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149405"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

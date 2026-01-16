@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114609", "enisaUuid": "28f314a2-65cb-32b6-b20d-9c858b7bee35", "description": "Malicious code in deimos-lint-staged-child-process-sedna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141500"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

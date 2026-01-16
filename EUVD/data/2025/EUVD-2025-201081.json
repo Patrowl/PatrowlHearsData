@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-201081", "enisaUuid": "5d92c478-fb49-3e5c-ad5b-d386d93c2211", "description": "Malicious code in elf-stats-ember-reindeer-211 (npm)", "datePublished": "2025-12-03T17:22:10", "dateUpdated": "2025-12-03T17:22:10", "baseScore": 0.0, "aliases": ["MAL-2025-192209"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

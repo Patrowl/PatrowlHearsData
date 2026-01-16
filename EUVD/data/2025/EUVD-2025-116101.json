@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116101", "enisaUuid": "0f6ebc44-19d2-3f75-b791-4d28d7b6547c", "description": "Malicious code in betelgeuse-request-browserify-atlas (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140001"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

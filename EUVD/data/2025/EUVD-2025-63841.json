@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63841", "enisaUuid": "0c03beea-13fa-3e6b-897c-97eda29a1548", "description": "Malicious code in good_ocelot_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-94713"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

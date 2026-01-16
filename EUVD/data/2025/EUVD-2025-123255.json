@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123255", "enisaUuid": "f1f53611-e8f6-3794-9a8a-eeeb18c0de5f", "description": "Malicious code in prompts-less-loader-child-process-sedna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146667"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

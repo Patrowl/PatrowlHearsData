@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178644", "enisaUuid": "aac3c913-f67a-3b01-b399-a3c922cd7a77", "description": "Malicious code in gridsome-slides-pipe-socketio (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187238"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

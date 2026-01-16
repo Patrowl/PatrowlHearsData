@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180533", "enisaUuid": "13ec70c6-fd11-3901-a64c-fb83ae08250f", "description": "Malicious code in abiogenesis-cli-tachyon-miranda (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185355"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

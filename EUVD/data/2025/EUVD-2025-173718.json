@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173718", "enisaUuid": "ff71e226-a3cb-34ca-b2c4-f818ddaa8d46", "description": "Malicious code in phplogin (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29189"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177483", "enisaUuid": "c083878c-3e0e-37a2-9426-eac622fd6394", "description": "Malicious code in odin-lepton-superagent-uninstall (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188399"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

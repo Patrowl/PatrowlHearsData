@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162643", "enisaUuid": "c97c956a-53b2-3939-b9e8-ea41b23ce9cd", "description": "Malicious code in debug-book-analyze-easy-lambda (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18144"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

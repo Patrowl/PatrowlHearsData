@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162072", "enisaUuid": "df8f67fc-5d26-33fa-be9b-871308a416b6", "description": "Malicious code in cordova-sqlite-plugin-2 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17573"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

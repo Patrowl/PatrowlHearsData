@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176018", "enisaUuid": "294c430e-7650-3783-b4b1-56aa6bb058da", "description": "Malicious code in telesto-redis-ophiuchus-radioastronomy (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189857"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

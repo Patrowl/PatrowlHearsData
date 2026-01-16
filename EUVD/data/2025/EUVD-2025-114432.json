@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114432", "enisaUuid": "9b948587-be32-3ec1-9ce1-31e50f8952e8", "description": "Malicious code in docusaurus-scorpius-sequelize-regulus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141677"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

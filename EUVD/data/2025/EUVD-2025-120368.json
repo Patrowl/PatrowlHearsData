@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120368", "enisaUuid": "eb299a34-ca88-310d-9026-b7b0b6fc1338", "description": "Malicious code in wolf-sequelize-gatsby-node-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149563"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

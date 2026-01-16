@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166695", "enisaUuid": "cd8f9cee-96ba-32f0-b395-74f94c8a41d3", "description": "Malicious code in hapi-doc-test (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22177"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

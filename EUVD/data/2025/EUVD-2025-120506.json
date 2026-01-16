@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120506", "enisaUuid": "9f4b22f9-be2f-38fb-b254-6a502e2f391f", "description": "Malicious code in websockets-odin-build-pipe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149423"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

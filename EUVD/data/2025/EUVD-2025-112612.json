@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112612", "enisaUuid": "c9cc9e4b-707e-38e8-8e8e-6c572d50af6f", "description": "Malicious code in hyperion-server-eclipse-aether (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143500"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195876", "enisaUuid": "f2d4bc95-1895-3a3b-be5e-2ef8eb02ab68", "description": "Malicious code in spectron-webdriver-axios-neptune-transport (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46124"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

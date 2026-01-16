@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113429", "enisaUuid": "1c11c8b2-ef57-363b-9c05-c0a5d93ff212", "description": "Malicious code in framework-hapi-sequelize-jovian (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142683"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

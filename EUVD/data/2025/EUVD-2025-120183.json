@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120183", "enisaUuid": "370169d3-338e-372e-b720-ba96ffd229d6", "description": "Malicious code in xo-electron-builder-passport-dynamo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149748"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

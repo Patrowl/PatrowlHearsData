@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113527", "enisaUuid": "61c0905e-b8f7-3265-a12d-5ff057b1e106", "description": "Malicious code in fork-deneb-markdownlint-child-process (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142585"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

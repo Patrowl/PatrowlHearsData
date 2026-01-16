@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123790", "enisaUuid": "525385a9-f72b-3d7e-a105-e84863d92e21", "description": "Malicious code in phenomic-element-ui-publish-fetch (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146131"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

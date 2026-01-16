@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121967", "enisaUuid": "02c65a5e-b198-3582-81a1-679bbe93b592", "description": "Malicious code in sirius-jsonp-dotenv-parse-variables-perseus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147958"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

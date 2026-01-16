@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114168", "enisaUuid": "72b9bed5-945f-3dc3-ae69-5bea045e633d", "description": "Malicious code in elektra-dactyl-request-envconfig (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141942"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

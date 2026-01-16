@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195358", "enisaUuid": "a68eae96-60f8-3e0f-a777-ad84ed12a4c8", "description": "Malicious code in prompts-gravity-schema-mensa (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45606"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

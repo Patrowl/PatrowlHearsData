@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122356", "enisaUuid": "0d5d3f30-51e3-3034-b46f-d7679a7acf82", "description": "Malicious code in sadr-loglevel-bootstrap-betelgeuse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147566"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

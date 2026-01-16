@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75984", "enisaUuid": "e7c66dbf-4953-34ac-9ddf-30cfd2a7fa50", "description": "Malicious code in precise_gazelle-silentdev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-107189"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

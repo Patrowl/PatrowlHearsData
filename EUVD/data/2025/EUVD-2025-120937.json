@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120937", "enisaUuid": "1c413fc4-75ae-3a75-9e53-fa2d01a0a8e8", "description": "Malicious code in update-chai-non-blocking-jwt (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148992"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

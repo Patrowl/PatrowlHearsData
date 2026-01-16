@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178452", "enisaUuid": "c456ca6c-3085-3b07-bc7d-416edff00aad", "description": "Malicious code in ignite-rehype-xo-cypress (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187430"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

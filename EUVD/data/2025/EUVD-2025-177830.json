@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177830", "enisaUuid": "024e47e9-016e-30f0-874a-0b4cce4b315b", "description": "Malicious code in minify-kappa-proxy-kappa-tau (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188052"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

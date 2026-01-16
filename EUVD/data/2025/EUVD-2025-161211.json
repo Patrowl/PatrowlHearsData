@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161211", "enisaUuid": "8eec35d9-2fa3-3bc0-a054-c15dec543bce", "description": "Malicious code in cello-ini-parser (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16710"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

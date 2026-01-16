@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124294", "enisaUuid": "cb98b236-9d84-307c-b348-2e3a436bd98b", "description": "Malicious code in non-blocking-supervisor-ophiuchus-eclipse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145627"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

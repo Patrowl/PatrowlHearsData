@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128806", "enisaUuid": "5514da4d-43fa-3f8a-9717-bb046103f2ab", "description": "Malicious code in discord-easy-commands-v2 (npm)", "datePublished": "2025-06-18T10:26:15", "dateUpdated": "2025-06-18T10:26:15", "baseScore": 0.0, "aliases": ["MAL-2025-5077"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

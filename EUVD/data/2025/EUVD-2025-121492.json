@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121492", "enisaUuid": "abef869f-5b29-3562-8918-27ee92942b4b", "description": "Malicious code in sync-wasat-deimos-hapi (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148436"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

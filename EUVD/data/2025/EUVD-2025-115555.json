@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115555", "enisaUuid": "fbe375c8-b7c4-38b7-a7b5-e3f9baad3614", "description": "Malicious code in centaurus-rimraf-install-rollup-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140552"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

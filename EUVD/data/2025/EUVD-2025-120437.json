@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120437", "enisaUuid": "993699ad-cff3-3847-a86b-e54cce04cc6d", "description": "Malicious code in winston-farout-heka-redis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149493"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

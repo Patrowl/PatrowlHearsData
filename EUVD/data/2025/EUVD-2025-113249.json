@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113249", "enisaUuid": "4f1fc924-87b4-3e00-8c82-bd359df9d032", "description": "Malicious code in geckodriver-dependencies-ursa-thuban (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142863"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

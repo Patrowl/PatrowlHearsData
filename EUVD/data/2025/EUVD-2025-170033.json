@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170033", "enisaUuid": "b2639c5c-2266-3d9b-b5b6-9a1184fc9ce9", "description": "Malicious code in lodash-g (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25504"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

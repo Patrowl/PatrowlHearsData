@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-87334", "enisaUuid": "dd81c5de-2a64-391c-b38c-5e4744c28f59", "description": "Malicious code in accused_mastodon_z3n (npm)", "datePublished": "2025-11-11T04:25:34", "dateUpdated": "2025-11-11T15:48:12", "baseScore": 0.0, "aliases": ["MAL-2025-82848"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

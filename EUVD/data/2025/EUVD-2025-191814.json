@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191814", "enisaUuid": "65c8e16f-97a8-336e-ae51-a7b579c56d4e", "description": "Malicious code in paper-dropdown-input (npm)", "datePublished": "2025-08-27T17:27:52", "dateUpdated": "2025-09-01T09:08:04", "baseScore": 0.0, "aliases": ["MAL-2025-42051"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

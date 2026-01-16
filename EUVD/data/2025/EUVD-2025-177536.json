@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177536", "enisaUuid": "cfa13f87-cf3f-3ac0-8200-206dc1935223", "description": "Malicious code in notify-link-proxy-double-proxy (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188346"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

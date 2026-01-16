@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112901", "enisaUuid": "e58ffe9b-b7df-31cd-81c1-d23bf74883a5", "description": "Malicious code in heka-pegasus-pino-pretty-mira (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143211"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

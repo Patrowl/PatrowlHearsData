@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200748", "enisaUuid": "2fecb53c-f1af-36b5-a46c-1d03e5e600aa", "description": "Malicious code in elf-stats-ginger-hammer-326 (npm)", "datePublished": "2025-12-03T14:30:46", "dateUpdated": "2025-12-23T20:09:23", "baseScore": 0.0, "aliases": ["MAL-2025-191982"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

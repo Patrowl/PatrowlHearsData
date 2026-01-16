@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159794", "enisaUuid": "4e3f9c9c-cb01-34ed-803e-5723040fa648", "description": "Malicious code in babel-plugin-template-literals-qos (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15293"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

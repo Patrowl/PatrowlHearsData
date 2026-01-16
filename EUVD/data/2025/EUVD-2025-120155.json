@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120155", "enisaUuid": "0ceea6ea-0329-3cec-bbf4-829bef635e1f", "description": "Malicious code in yakutsk-postgres-tool-node-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149776"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

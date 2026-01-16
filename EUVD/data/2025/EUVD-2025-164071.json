@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164071", "enisaUuid": "b30ffaaa-a6ea-35fe-acab-aba8d7941b19", "description": "Malicious code in email-dig (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19550"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195067", "enisaUuid": "10e9d89e-880d-3a84-8cd6-9174ce78c86a", "description": "Malicious code in nightwatch-buffer-magellan-umbriel (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45315"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

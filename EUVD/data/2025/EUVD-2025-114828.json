@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114828", "enisaUuid": "53143217-e8c5-3efb-8496-730798f1b656", "description": "Malicious code in csrf-commitlint-config-angular-axios-lacerta (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141281"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112768", "enisaUuid": "f99a14a4-c868-3b2e-9518-494a7fba39bd", "description": "Malicious code in hexo-json-auth-vuepress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143344"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

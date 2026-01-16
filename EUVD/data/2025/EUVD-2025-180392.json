@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180392", "enisaUuid": "027f15de-902b-3dc4-8e0f-e486007a23f1", "description": "Malicious code in apollo-aldebaran-miranda-install (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185496"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

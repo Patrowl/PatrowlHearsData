@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122019", "enisaUuid": "5dfe77de-0eb7-3fab-8c8d-93bcc4b6e0d1", "description": "Malicious code in server-publish-meissa-prettier-plugin-markdown (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147904"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

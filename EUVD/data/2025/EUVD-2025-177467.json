@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177467", "enisaUuid": "724b1122-8d8c-39e0-9eff-0645769be839", "description": "Malicious code in omega-xml-proxy-runtime-analyze (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188415"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

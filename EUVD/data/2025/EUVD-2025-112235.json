@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112235", "enisaUuid": "0a7299ad-f78c-3999-bc04-e1f187c29148", "description": "Malicious code in javascript-dotenv-quasar-spica (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143878"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176389", "enisaUuid": "0ed04983-0273-3ada-a398-eb0e723dc316", "description": "Malicious code in sigma-class-new-root-reject (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189486"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-55976", "enisaUuid": "1cb81aac-e128-3865-b22e-c0fb686bf1b9", "description": "Malicious code in adverse-azure-mosquito (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-66673"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

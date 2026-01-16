@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196389", "enisaUuid": "63be599f-1e7e-3c89-a90c-4dff54e85b87", "description": "Malicious code in wind-decode-serialize-balance-xml (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46637"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

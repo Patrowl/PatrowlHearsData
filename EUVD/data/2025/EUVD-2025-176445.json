@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176445", "enisaUuid": "a8ccf2ce-da1a-3501-a670-3a5d2c229695", "description": "Malicious code in selenium-dotenv-parse-variables-gacrux-vega (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189430"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

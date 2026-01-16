@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-49059", "enisaUuid": "58a2b464-0a74-3c80-9d3c-854594ce3701", "description": "Malicious code in weak_damselfly_z3n (npm)", "datePublished": "2025-11-10T18:02:22", "dateUpdated": "2025-11-10T18:02:22", "baseScore": 0.0, "aliases": ["MAL-2025-61610"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

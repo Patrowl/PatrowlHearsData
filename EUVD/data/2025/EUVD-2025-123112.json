@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123112", "enisaUuid": "5e2caf43-7249-3054-afdf-eb70e482de74", "description": "Malicious code in publish-redis-bellatrix-spectron-webdriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146810"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115146", "enisaUuid": "6ee3c41e-d066-3607-8c8a-b81ce565bff2", "description": "Malicious code in commitlint-config-angular-firebase-node-config-wezen (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140962"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

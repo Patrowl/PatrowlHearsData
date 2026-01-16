@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194415", "enisaUuid": "7147a07d-8a50-3833-8cb6-a1e3a57a3156", "description": "Malicious code in hyperion-markdown-pdf-supervisor-selenium (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44662"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

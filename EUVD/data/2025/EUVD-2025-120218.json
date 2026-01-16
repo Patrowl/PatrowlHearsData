@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120218", "enisaUuid": "7fb941ba-cd4e-3314-bd8d-5410ee386f0b", "description": "Malicious code in xerxes-pavo-postgres-redis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149713"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

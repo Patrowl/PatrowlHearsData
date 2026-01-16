@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178597", "enisaUuid": "e972be51-d8de-39e7-8ca0-88e7e5b5036f", "description": "Malicious code in hash-test-interface-emulate-file (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187285"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

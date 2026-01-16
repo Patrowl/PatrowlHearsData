@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176528", "enisaUuid": "e8e7d27b-2e93-340a-a67f-9823101d46ae", "description": "Malicious code in sanitize-hot-quick-log-byte (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189347"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

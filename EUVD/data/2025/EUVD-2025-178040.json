@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178040", "enisaUuid": "d87cb1cd-0a89-3e87-80ed-fc8fa8ea8f36", "description": "Malicious code in local-ursa-karma-mysql (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187842"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114773", "enisaUuid": "da1976ae-935e-32da-8a89-1959acbbe14c", "description": "Malicious code in css-minimizer-webpack-plugin-winston-jovian-sadr (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141336"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

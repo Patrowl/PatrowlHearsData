@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176140", "enisaUuid": "01fecb0a-cd00-36a7-8f6d-9ff32dc8abed", "description": "Malicious code in sun-serialize-parse-validate-alert (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189735"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

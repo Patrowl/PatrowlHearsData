@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176881", "enisaUuid": "ed5eb28d-e9bb-3eb4-bddb-e79b9a11a4d3", "description": "Malicious code in quantum-computing-ceres-robotics-magellan (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188994"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

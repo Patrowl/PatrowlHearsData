@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123622", "enisaUuid": "3b5f0460-5833-3630-9838-e3e26ef0ffe0", "description": "Malicious code in pm2-halley-vega-eclipse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146299"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195854", "enisaUuid": "97efd910-c1fb-3f0b-ba58-b1877c4796df", "description": "Malicious code in soap-pegasus-prettier-stylelint-duplex (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46102"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

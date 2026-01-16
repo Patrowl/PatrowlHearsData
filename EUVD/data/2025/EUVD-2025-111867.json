@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111867", "enisaUuid": "c2f292fd-6ae9-35a3-91c3-7a834bbb9923", "description": "Malicious code in lacerta-magellan-sagitta-dotenv (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144246"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

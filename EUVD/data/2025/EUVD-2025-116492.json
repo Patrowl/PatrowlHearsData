@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116492", "enisaUuid": "c128341d-1b12-37c2-a8e6-0b4283bb05e2", "description": "Malicious code in astro-lynx-spectron-webdriver-cluster (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139610"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

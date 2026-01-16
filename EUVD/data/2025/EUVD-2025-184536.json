@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184536", "enisaUuid": "e4733300-158d-3eef-ab65-043474908687", "description": "Malicious code in terser-fork-cors-eridanus (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34752"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

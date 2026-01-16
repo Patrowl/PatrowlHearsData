@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111738", "enisaUuid": "685e75c6-2cc6-39c6-886a-2cde174798df", "description": "Malicious code in library-fornax-start-yaml (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144375"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

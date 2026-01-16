@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125575", "enisaUuid": "d479d95a-ed91-386c-8332-b1ac93e9bfac", "description": "Malicious code in hexoffsectest (npm)", "datePublished": "2025-03-03T13:28:21", "dateUpdated": "2025-03-03T13:28:21", "baseScore": 0.0, "aliases": ["MAL-2025-1833"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

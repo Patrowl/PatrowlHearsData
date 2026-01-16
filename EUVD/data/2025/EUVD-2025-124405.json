@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124405", "enisaUuid": "cfb7d023-1af1-369b-b9a3-2d88785f85a7", "description": "Malicious code in node-config-non-blocking-meissa-middleware (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145516"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

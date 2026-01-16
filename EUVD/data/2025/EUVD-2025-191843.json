@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191843", "enisaUuid": "8bf9bd84-158d-3030-94db-814bc620332b", "description": "Malicious code in session-logger (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-42082"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

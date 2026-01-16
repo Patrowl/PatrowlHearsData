@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125656", "enisaUuid": "2d34fade-3da9-3d0a-b574-0a5b03261540", "description": "Malicious code in pie-monorepo (npm)", "datePublished": "2025-03-03T13:35:26", "dateUpdated": "2025-03-03T13:35:26", "baseScore": 0.0, "aliases": ["MAL-2025-1914"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

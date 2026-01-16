@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180155", "enisaUuid": "37878784-7027-3730-beb9-4ceea84bc378", "description": "Malicious code in backend-exec-husky-public (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185727"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

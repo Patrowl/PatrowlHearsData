@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114281", "enisaUuid": "9dbfef3d-4fe8-3063-a622-d80b0dd45671", "description": "Malicious code in dynamo-kronos-loop-html-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141828"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

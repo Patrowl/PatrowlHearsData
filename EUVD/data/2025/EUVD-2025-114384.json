@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114384", "enisaUuid": "3821bccb-d0f3-330e-ac47-e45d11a3d97e", "description": "Malicious code in dotenv-parse-variables-meteor-gridsome-eleventy (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141725"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

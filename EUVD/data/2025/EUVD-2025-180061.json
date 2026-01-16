@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180061", "enisaUuid": "4403915f-3714-378b-b79f-3f753a2b2b8c", "description": "Malicious code in bioinformatics-pino-pretty-mutation-vuepress (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185821"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

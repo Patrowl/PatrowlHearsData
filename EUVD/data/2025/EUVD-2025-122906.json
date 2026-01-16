@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122906", "enisaUuid": "0bf65ddf-2d5e-3d7b-b8b0-1b94a340ce8d", "description": "Malicious code in radiant-mira-cypress-callback (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147016"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

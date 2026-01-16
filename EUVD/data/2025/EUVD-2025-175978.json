@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175978", "enisaUuid": "2e92d212-6d1c-3351-82c5-a25aea0a6e56", "description": "Malicious code in testcafe-markdownlint-antares-jsonp (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189897"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

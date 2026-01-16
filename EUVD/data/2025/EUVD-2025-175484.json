@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175484", "enisaUuid": "89b0edfd-dee2-3901-900d-f880d417ce92", "description": "Malicious code in xi-minify-bundle-sigma-query (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190392"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

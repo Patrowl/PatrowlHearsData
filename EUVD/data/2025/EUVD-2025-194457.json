@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194457", "enisaUuid": "b8eb7b07-56b2-369b-b909-02831a1591ad", "description": "Malicious code in interferometry-install-phenomic-mysql (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44704"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

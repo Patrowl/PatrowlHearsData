@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120964", "enisaUuid": "9571bfaa-4d31-3358-9e74-c781f333e3f5", "description": "Malicious code in uninstall-prompts-carpo-auriga (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148965"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181247", "enisaUuid": "65c7b51e-7a29-395b-84f7-d9577e3a61da", "description": "Malicious code in ra-data-google-sheets (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31461"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

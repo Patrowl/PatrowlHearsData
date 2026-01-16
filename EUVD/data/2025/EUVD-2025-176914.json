@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176914", "enisaUuid": "d7dc461f-b1ab-3aaa-8df1-21d6a19b6d93", "description": "Malicious code in publish-webdriverio-event-capella (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188961"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

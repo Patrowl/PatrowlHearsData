@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172268", "enisaUuid": "87cf25be-6e05-33f0-9ab4-07820fcee4b3", "description": "Malicious code in notion-sdk-project (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27739"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

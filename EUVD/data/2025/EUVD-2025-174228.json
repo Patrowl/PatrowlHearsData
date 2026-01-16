@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174228", "enisaUuid": "8dfc2b0f-82f8-323c-9a9b-928cbc4b252f", "description": "Malicious code in procyon-grunt-backend-selenium (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29699"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

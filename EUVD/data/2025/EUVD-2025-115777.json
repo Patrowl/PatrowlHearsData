@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115777", "enisaUuid": "4b59dac3-721d-3d2f-bd73-ccc9b1c038ca", "description": "Malicious code in callisto-dotenv-passport-frontend (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140329"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

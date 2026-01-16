@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-205045", "enisaUuid": "3a6b1d14-d598-3199-b345-515e593c654f", "description": "Malicious code in jest-formatting (npm)", "datePublished": "2025-12-23T08:17:34", "dateUpdated": "2025-12-24T00:53:17", "baseScore": 0.0, "aliases": ["MAL-2025-192806"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

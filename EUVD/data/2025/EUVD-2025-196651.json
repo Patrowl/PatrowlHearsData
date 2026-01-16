@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196651", "enisaUuid": "c3d39051-ecb0-389e-aebd-e43de0e95416", "description": "Malicious code in console_auth (RubyGems)", "datePublished": "2025-09-01T09:47:26", "dateUpdated": "2025-09-01T09:47:26", "baseScore": 0.0, "aliases": ["MAL-2025-46899"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

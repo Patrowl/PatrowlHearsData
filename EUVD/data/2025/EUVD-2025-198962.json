@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-198962", "enisaUuid": "08a774e0-5fe1-32ed-9bb7-1a2daff2880a", "description": "Malicious code in @darwinex/react-custom-scrollbars (npm)", "datePublished": "2025-11-24T16:19:35", "dateUpdated": "2025-11-24T16:19:35", "baseScore": 0.0, "aliases": ["MAL-2025-190865"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

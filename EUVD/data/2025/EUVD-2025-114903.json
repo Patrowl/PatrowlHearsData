@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114903", "enisaUuid": "262ccb51-42b9-3339-bdc4-f6509a426c8d", "description": "Malicious code in cosmos-eslint-transform-ini (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141206"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

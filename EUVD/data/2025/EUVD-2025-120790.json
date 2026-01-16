@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120790", "enisaUuid": "4e44085f-2550-3f76-929f-4340f2e75fe8", "description": "Malicious code in version-loopback-ursa-charon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149139"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

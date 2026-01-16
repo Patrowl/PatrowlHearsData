@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-154096", "enisaUuid": "5455d6b6-f5a4-353b-9e0d-61d658086502", "description": "Malicious code in @visa-isat/components (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9595"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-146355", "enisaUuid": "408f1b90-7f81-395d-b6ca-966ae53e76a5", "description": "Malicious code in verify-tactiva-bsna (npm)", "datePublished": "2025-11-12T16:47:05", "dateUpdated": "2025-11-12T16:47:05", "baseScore": 0.0, "aliases": ["MAL-2025-170457"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

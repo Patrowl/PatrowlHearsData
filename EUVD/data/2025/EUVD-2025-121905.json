@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121905", "enisaUuid": "84cd2275-1dc1-3fa7-bfa2-5c0bd6d58aeb", "description": "Malicious code in soap-fornax-await-blitz (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148020"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

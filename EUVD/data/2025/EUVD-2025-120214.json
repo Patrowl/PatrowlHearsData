@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120214", "enisaUuid": "3340158d-7568-3fd3-bf0f-36a7eb70b05a", "description": "Malicious code in xerxes-repository-transform-browserify (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149717"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

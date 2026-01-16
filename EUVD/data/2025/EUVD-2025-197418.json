@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197418", "enisaUuid": "cbf10923-ec5e-3efa-9b5d-aa31d7ae7693", "description": "Malicious code in kong-manager (npm)", "datePublished": "2025-10-26T19:03:27", "dateUpdated": "2025-10-26T19:03:27", "baseScore": 0.0, "aliases": ["MAL-2025-48696"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

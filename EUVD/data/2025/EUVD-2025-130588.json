@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130588", "enisaUuid": "a380eaf8-1d0a-3e31-ba9b-d0a99ca38631", "description": "Malicious code in f0-service-manager (npm)", "datePublished": "2025-08-13T17:15:52", "dateUpdated": "2025-08-13T19:06:06", "baseScore": 0.0, "aliases": ["MAL-2025-6866"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

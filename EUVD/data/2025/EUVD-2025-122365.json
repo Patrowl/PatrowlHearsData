@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122365", "enisaUuid": "53606d48-303c-34eb-9b29-908ffa350037", "description": "Malicious code in sadr-async-rimraf-blaze (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147557"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120701", "enisaUuid": "df53b56f-5889-3f93-9fc7-490211fdda8c", "description": "Malicious code in vulcan-css-loader-command-nconf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149228"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

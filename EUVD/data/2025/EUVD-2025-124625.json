@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124625", "enisaUuid": "ac572772-46ca-3e88-9a52-941b2cbd0dcd", "description": "Malicious code in native-puppeteer-sagitta-cosmiconfig (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145293"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

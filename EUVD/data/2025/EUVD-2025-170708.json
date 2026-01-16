@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170708", "enisaUuid": "26f53142-35c5-3b01-8fcd-fddadc4183ff", "description": "Malicious code in memoize-sync (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26179"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

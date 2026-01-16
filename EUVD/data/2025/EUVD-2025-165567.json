@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165567", "enisaUuid": "fe720470-518b-3afb-b9bb-098615f620d6", "description": "Malicious code in funcoes-estatisticas.js (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21048"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

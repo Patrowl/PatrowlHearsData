@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166917", "enisaUuid": "c246de0d-6621-3242-a65a-5a34247b4a5e", "description": "Malicious code in heroku-sudo (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22399"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195701", "enisaUuid": "b80bdc13-44bd-3213-bddd-36860fb1a71f", "description": "Malicious code in sails-wavefunction-cosmicweb-webpack (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45949"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

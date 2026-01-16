@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178226", "enisaUuid": "61a5dfa4-6f30-3c95-b38e-fa24fa488e0c", "description": "Malicious code in kappa-encrypt-public-rho-boolean (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187656"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

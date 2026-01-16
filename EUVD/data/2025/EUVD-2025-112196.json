@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112196", "enisaUuid": "10bb2755-8ec8-352d-bbff-1909cb107bae", "description": "Malicious code in jest-airbnb-remark-spawn (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143917"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

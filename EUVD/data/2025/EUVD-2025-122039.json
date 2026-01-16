@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122039", "enisaUuid": "5a2d5c54-e691-3e9c-92f5-4b234bc2fe1e", "description": "Malicious code in sequelize-version-build-thuban (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147884"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

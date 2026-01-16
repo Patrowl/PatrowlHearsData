@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114860", "enisaUuid": "7463cb71-135a-3501-92a0-175edf7d72aa", "description": "Malicious code in cross-env-betelgeuse-pm2-mongoose (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141249"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

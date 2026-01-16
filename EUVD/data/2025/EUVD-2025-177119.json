@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177119", "enisaUuid": "0ce100a0-0178-33b9-b513-c3a9a7ef705b", "description": "Malicious code in pm2-development-postcss-callback (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188756"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121045", "enisaUuid": "68c757e3-8c09-3deb-bee3-a613a082ac99", "description": "Malicious code in uglify-js-spectron-colors-server (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148883"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

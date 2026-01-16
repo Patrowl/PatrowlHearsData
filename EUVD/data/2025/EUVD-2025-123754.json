@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123754", "enisaUuid": "7d05a5c8-5488-3c7f-bb06-8dcf104661ac", "description": "Malicious code in phoebe-oberon-mongodb-wolf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146167"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113670", "enisaUuid": "7a426554-b9cd-3247-a9a7-0cd382c9d3aa", "description": "Malicious code in fetch-eleventy-phenomic-miranda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142441"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

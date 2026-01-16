@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178676", "enisaUuid": "9639d7fd-5650-346c-aed6-628a9362f3f4", "description": "Malicious code in graphql-nightmare-css-loader-abiogenesis (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187206"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

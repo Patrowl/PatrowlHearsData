@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191571", "enisaUuid": "4a03f1c2-dc83-31dd-a6b4-d2a71fb208d3", "description": "Malicious code in zlib1g-dev (PyPI)", "datePublished": "2025-08-28T07:12:21", "dateUpdated": "2025-08-28T07:12:21", "baseScore": 0.0, "aliases": ["MAL-2025-41804"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

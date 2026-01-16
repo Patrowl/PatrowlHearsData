@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191609", "enisaUuid": "d404a47e-3260-37f7-a5f9-aa6501b40bd4", "description": "Malicious code in @espace-client-axafr/chat-genesys-auth (npm)", "datePublished": "2025-08-25T18:32:16", "dateUpdated": "2025-08-25T18:32:16", "baseScore": 0.0, "aliases": ["MAL-2025-41843"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

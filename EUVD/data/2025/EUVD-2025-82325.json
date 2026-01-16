@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-82325", "enisaUuid": "dd023b62-51c2-3722-ba26-19d14c8c3f53", "description": "Malicious code in crosby-wallet-store (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-101095"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

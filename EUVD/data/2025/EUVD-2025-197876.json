@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197876", "enisaUuid": "140a802d-e94b-3efb-94c1-5f8691eba05b", "description": "Malicious code in ancestry-unified-logger (npm)", "datePublished": "2025-11-17T21:06:00", "dateUpdated": "2025-11-24T16:09:27", "baseScore": 0.0, "aliases": ["MAL-2025-190549"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174179", "enisaUuid": "bfc339d6-c2ab-3d77-93c7-b2a6175579a4", "description": "Malicious code in primedio-api-wrapper (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29650"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

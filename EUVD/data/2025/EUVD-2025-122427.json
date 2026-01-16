@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122427", "enisaUuid": "b2253f59-6e9e-3fa2-8998-8c4ac5a4f3d1", "description": "Malicious code in rollup-eclipse-equinox-phoenix (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147495"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

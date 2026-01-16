@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120109", "enisaUuid": "4289e3bc-8eb5-32d4-ac95-7559035c25aa", "description": "Malicious code in yildun-spectron-webdriver-writable-cypress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149823"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

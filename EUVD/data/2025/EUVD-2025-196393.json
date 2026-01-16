@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196393", "enisaUuid": "a85a87b4-b75f-3c3a-92d1-f5d4706cb685", "description": "Malicious code in winston-global-proxima-metalsmith (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46641"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

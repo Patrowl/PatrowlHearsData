@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63673", "enisaUuid": "94b15136-2a28-31bb-8085-598c1a357645", "description": "Malicious code in human_zebra_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-94881"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

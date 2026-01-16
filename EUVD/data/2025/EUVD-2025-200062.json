@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200062", "enisaUuid": "abd6f63b-6b08-353e-ac85-9cfc2cd976fc", "description": "Malicious code in b3dtiles-sample (npm)", "datePublished": "2025-12-01T16:16:28", "dateUpdated": "2025-12-01T16:16:28", "baseScore": 0.0, "aliases": ["MAL-2025-191507"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-35222", "enisaUuid": "16d669b8-19be-3dd0-a64f-5c316172f962", "description": "Malicious code in stopme (npm)", "datePublished": "2025-10-21T19:20:58", "dateUpdated": "2025-10-28T05:38:19", "baseScore": 0.0, "aliases": ["MAL-2025-48547"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

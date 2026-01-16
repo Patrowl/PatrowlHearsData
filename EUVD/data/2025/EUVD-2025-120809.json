@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120809", "enisaUuid": "4a79a7b0-5fc0-3e18-bab5-22b2ba1468a9", "description": "Malicious code in venus-request-loglevel-meteor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149120"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

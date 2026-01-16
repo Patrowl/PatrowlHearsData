@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179166", "enisaUuid": "529b27b6-3e10-3af5-a790-4ac98f76029a", "description": "Malicious code in element-ui-nodejs-bellatrix-hapi (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186716"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-38427", "enisaUuid": "18f29516-1514-3ec3-a4fc-6d55e64980ef", "description": "Malicious code in elf-stats-storybook-cocoa-790 (npm)", "datePublished": "2025-11-09T00:17:09", "dateUpdated": "2025-11-09T00:17:09", "baseScore": 0.0, "aliases": ["MAL-2025-49403"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

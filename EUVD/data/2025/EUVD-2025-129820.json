@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129820", "enisaUuid": "75be3462-73a5-387f-b69f-607def7cb708", "description": "Malicious code in groq-link2 (npm)", "datePublished": "2025-07-11T19:20:50", "dateUpdated": "2025-07-23T02:45:10", "baseScore": 0.0, "aliases": ["MAL-2025-6093"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

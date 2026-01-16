@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153780", "enisaUuid": "091cee8d-9c2e-3f8c-a996-e46f6739286c", "description": "Malicious code in @scdb/improved-tribble (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9279"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113022", "enisaUuid": "89eb4746-d78e-3509-822c-0bc7799c6629", "description": "Malicious code in grus-concurrently-markdownlint-ceres (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143090"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

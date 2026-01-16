@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124763", "enisaUuid": "a43b9fb5-c34d-3c97-be7d-c761b6cb6450", "description": "Malicious code in mongoose-javascript-cosmiconfig-mongoose (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145155"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124756", "enisaUuid": "48bff199-5ec9-38a1-8ee9-85b0688b5d8d", "description": "Malicious code in mongoose-pavo-arcturus-csv (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145162"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

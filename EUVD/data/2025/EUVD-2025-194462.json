@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194462", "enisaUuid": "d9b128d5-4b18-3bb2-82c4-dac097eb1f3e", "description": "Malicious code in iota-sync-json-andromeda (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44709"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

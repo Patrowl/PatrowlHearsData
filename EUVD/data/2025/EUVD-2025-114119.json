@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114119", "enisaUuid": "9d0c2263-7f84-3a4e-86d3-23f5be163849", "description": "Malicious code in eleventy-bootstrap-middleware-sails (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141991"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

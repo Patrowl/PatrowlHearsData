@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113200", "enisaUuid": "458f3573-464b-3e1e-af76-96cffd3746b7", "description": "Malicious code in gemini-postcss-loader-typeorm-procyon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142912"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

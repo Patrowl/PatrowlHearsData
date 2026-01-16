@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120428", "enisaUuid": "c427c370-6d54-35c0-a17f-d67798baea6f", "description": "Malicious code in winston-jupiter-node-config-octans (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149502"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

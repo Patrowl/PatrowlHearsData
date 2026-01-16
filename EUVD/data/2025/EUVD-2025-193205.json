@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193205", "enisaUuid": "dc0c94a8-925f-34cd-bdee-0444edb02b2f", "description": "Malicious code in antares-stream-duplex-lightyear (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43452"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

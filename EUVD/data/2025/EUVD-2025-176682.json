@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176682", "enisaUuid": "d2a633d5-e02f-3268-a999-ac0968fe19e8", "description": "Malicious code in resolvers-auth-materialize-ionosphere (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189193"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

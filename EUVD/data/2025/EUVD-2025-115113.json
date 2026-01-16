@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115113", "enisaUuid": "9e53ab7f-d6ae-3ebb-8f2e-1f955fd848f1", "description": "Malicious code in commitlint-triton-less-loader-umbra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140995"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

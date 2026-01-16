@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124858", "enisaUuid": "7e5a82be-5896-33be-a8f1-345162fb998c", "description": "Malicious code in miranda-sync-despina-auth0 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145060"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

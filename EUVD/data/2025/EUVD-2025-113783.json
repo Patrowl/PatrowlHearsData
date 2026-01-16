@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113783", "enisaUuid": "144d8d9d-4eb7-361b-ba73-d110179b8a8f", "description": "Malicious code in event-supervisor-eslint-config-tethys (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142327"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

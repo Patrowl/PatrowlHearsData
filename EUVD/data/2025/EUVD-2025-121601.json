@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121601", "enisaUuid": "555279ca-e1d3-35ac-9e1e-7f1b325e0e34", "description": "Malicious code in stream-loop-parcel-npm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148324"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77993", "enisaUuid": "f9d50411-ecaf-3fba-bb84-2a49c24ce08d", "description": "Malicious code in valid_unicorn_z3n (npm)", "datePublished": "2025-11-11T07:31:13", "dateUpdated": "2025-11-11T07:31:13", "baseScore": 0.0, "aliases": ["MAL-2025-110326"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

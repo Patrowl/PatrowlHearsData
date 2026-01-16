@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182410", "enisaUuid": "6337d53b-9105-32c9-98bd-3e5609a283b8", "description": "Malicious code in sagemaker_sharing_extension (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32625"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

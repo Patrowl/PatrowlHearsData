@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172136", "enisaUuid": "526e5a0b-49a5-33e0-9f5c-161f304b205c", "description": "Malicious code in node-box-config (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27607"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160216", "enisaUuid": "a8d21398-4d5d-3d72-846a-ae4ad24abbf5", "description": "Malicious code in biosignature-eclipse-puppeteer-hydra (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15715"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

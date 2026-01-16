@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184136", "enisaUuid": "a4fc9b28-2a92-3284-aad3-109540f193ff", "description": "Malicious code in systick (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34352"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

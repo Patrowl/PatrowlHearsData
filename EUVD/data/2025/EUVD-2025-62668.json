@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-62668", "enisaUuid": "516c0207-0ccc-3f67-8784-d0291e5ebec0", "description": "Malicious code in petite_swan_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-95886"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113142", "enisaUuid": "e1f72208-16eb-3c52-a948-ae6f24eb7630", "description": "Malicious code in google-testcafe-apollo-mysql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142970"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114734", "enisaUuid": "af32a07e-b85d-3d93-b2bc-e54e7e9faf28", "description": "Malicious code in cygnus-pino-pretty-pm2-version (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141375"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

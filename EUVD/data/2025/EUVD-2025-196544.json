@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196544", "enisaUuid": "f5c2b6d1-f85f-3083-bc36-b2eadbc0467b", "description": "Malicious code in yildun-writable-mensa-oauth (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46792"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

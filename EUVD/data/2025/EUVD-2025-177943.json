@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177943", "enisaUuid": "c886cfe9-6bb4-353e-a93a-a1de999b3ff4", "description": "Malicious code in markdownlint-subscription-changelog-socketio (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187939"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195539", "enisaUuid": "0125a71d-0dc1-39b6-82df-35bac27d86fe", "description": "Malicious code in regulus-elara-rest-triton (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45787"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

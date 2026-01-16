@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-158792", "enisaUuid": "c30a07b0-d126-3522-9133-1b7ebae40dea", "description": "Malicious code in alerttest (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14291"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178128", "enisaUuid": "b7bb8de4-f231-3c32-968b-045654f00d65", "description": "Malicious code in less-loader-grus-void-biosignature (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187754"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

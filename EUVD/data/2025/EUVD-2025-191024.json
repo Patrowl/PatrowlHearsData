@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191024", "enisaUuid": "37100b55-61b4-3ce5-9c74-0b619a0e1e54", "description": "Malicious code in solana-fb (npm)", "datePublished": "2025-08-19T11:45:59", "dateUpdated": "2025-08-19T11:45:59", "baseScore": 0.0, "aliases": ["MAL-2025-41246"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

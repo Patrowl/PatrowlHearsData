@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116600", "enisaUuid": "ae46c620-98ed-315e-981b-c126079ec371", "description": "Malicious code in apollo-cordelia-winston-mongodb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139502"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

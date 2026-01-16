@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123881", "enisaUuid": "ebe52bc7-2170-3fb5-9197-a63d1ce319f1", "description": "Malicious code in pegasus-json-spica-start (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146040"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

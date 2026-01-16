@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115763", "enisaUuid": "0a3f2427-a8bd-358d-aa32-1bdd2bad8d22", "description": "Malicious code in callisto-oauth-rimraf-kinetic (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140343"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

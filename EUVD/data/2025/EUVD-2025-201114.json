@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-201114", "enisaUuid": "700eb75e-fed7-381b-a005-125c35eb0796", "description": "Malicious code in elf-stats-aurora-toy-659 (npm)", "datePublished": "2025-12-03T19:51:09", "dateUpdated": "2025-12-23T16:45:01", "baseScore": 0.0, "aliases": ["MAL-2025-192278"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

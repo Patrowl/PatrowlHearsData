@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171858", "enisaUuid": "4465d75f-bd69-3eae-abd2-f1646f43e143", "description": "Malicious code in neuromorphic-publish-outercore-shelljs (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27329"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

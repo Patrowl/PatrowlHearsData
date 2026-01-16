@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179835", "enisaUuid": "8fcb04ac-df62-39fb-8770-877b0938e9ab", "description": "Malicious code in centauri-lacerta-config-taurus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186047"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

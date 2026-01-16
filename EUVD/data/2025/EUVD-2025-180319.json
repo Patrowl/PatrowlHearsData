@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180319", "enisaUuid": "43249a91-e9a2-35b4-a393-f9c0e5f2f511", "description": "Malicious code in array-public-code-async-decompress (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185569"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

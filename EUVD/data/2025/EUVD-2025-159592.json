@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159592", "enisaUuid": "5d29fddc-3a0e-3155-a90e-9d6af0995302", "description": "Malicious code in auth0-extension-voice-factor (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15091"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

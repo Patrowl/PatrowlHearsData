@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175943", "enisaUuid": "3cfaa64a-2ceb-366a-8b31-8fb3264c012d", "description": "Malicious code in thuban-charon-uninstall-nextjs (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189932"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

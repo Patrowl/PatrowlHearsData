@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-89547", "enisaUuid": "58696b11-85e3-3d75-ab5f-d0b027439843", "description": "Malicious code in parallel_gecko_z3n (npm)", "datePublished": "2025-11-11T15:19:32", "dateUpdated": "2025-11-11T15:19:32", "baseScore": 0.0, "aliases": ["MAL-2025-116337"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

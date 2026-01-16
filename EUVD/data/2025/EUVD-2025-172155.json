@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172155", "enisaUuid": "b79f9166-c2e1-397d-92e4-a8e28c73d31d", "description": "Malicious code in node-http-langdetect (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27626"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

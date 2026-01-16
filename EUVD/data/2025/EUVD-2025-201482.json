@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-201482", "enisaUuid": "d15d73ca-8d8c-3c16-bb90-1af38ecd264c", "description": "Malicious code in elf-stats-midnight-rocket-813 (npm)", "datePublished": "2025-12-05T21:10:10", "dateUpdated": "2025-12-23T20:41:02", "baseScore": 0.0, "aliases": ["MAL-2025-192334"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

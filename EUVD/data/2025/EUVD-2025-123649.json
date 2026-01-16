@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123649", "enisaUuid": "67721794-09ad-30b8-8a18-3e526865698b", "description": "Malicious code in playwright-achernar-fork-quantum (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146272"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

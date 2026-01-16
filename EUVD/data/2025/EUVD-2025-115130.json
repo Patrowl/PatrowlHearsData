@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115130", "enisaUuid": "c1da5fbd-14b0-3046-8f7c-5e9ddc176d64", "description": "Malicious code in commitlint-dependencies-upgrade-phoebe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140978"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

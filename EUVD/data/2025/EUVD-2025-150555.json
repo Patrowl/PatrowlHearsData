@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-150555", "enisaUuid": "787adb08-cd76-34fc-84df-59faf11433ba", "description": "Malicious code in sonic-os-afsig (npm)", "datePublished": "2025-11-12T22:25:03", "dateUpdated": "2025-11-12T22:25:03", "baseScore": 0.0, "aliases": ["MAL-2025-185206"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

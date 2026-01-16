@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178833", "enisaUuid": "ac65b61b-0b90-3e3b-be69-38a8fb2e5ed0", "description": "Malicious code in framework-umbriel-mongoose-magellan (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187049"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

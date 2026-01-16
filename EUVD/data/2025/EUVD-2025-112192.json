@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112192", "enisaUuid": "8addffc3-07f1-359e-87e4-755b7b048593", "description": "Malicious code in jest-electron-leda-electron (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143921"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

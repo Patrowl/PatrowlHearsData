@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176579", "enisaUuid": "3ee8c205-bed3-30a8-8ade-7ed231b11799", "description": "Malicious code in runtime-parse-user-authenticate-runtime (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189296"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

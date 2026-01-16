@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161386", "enisaUuid": "db671ce0-9a60-3e09-8ac0-6caea2dad93d", "description": "Malicious code in checkout_queue (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16885"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

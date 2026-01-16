@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114370", "enisaUuid": "492f7b1d-b9aa-3169-887b-41f57f9241c8", "description": "Malicious code in dotenv-parse-variables-yonder-flare-indus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141739"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

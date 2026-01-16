@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130445", "enisaUuid": "953ba245-fd55-319f-94e0-88f5da5e0a79", "description": "Malicious code in external-pkg (npm)", "datePublished": "2025-07-30T17:38:16", "dateUpdated": "2025-08-29T06:43:16", "baseScore": 0.0, "aliases": ["MAL-2025-6722"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

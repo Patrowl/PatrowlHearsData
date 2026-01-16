@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122590", "enisaUuid": "c9cd413c-51d0-314c-b8dd-fd5f1fe77fef", "description": "Malicious code in resolvers-meteor-nodemon-antares (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147332"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

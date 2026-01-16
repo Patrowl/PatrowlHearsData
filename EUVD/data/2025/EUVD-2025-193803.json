@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193803", "enisaUuid": "f79c3595-2571-3e0e-a473-9d381f78fa6b", "description": "Malicious code in dotenv-jasmine-cosmicweb-stream (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44050"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

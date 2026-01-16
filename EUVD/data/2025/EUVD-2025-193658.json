@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193658", "enisaUuid": "477b0e7f-5886-3537-93a2-4118fb8c5d82", "description": "Malicious code in cosmos-gulp-cli-rollup-plugin (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43905"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

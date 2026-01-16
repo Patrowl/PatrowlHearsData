@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112667", "enisaUuid": "71197c2f-875b-385f-990d-2d775c0df958", "description": "Malicious code in hydra-iota-metalsmith-dotenv-safe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143445"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122670", "enisaUuid": "faf702aa-cebf-38f8-93f1-23af27b91ec2", "description": "Malicious code in remark-mensa-publish-koa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147252"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

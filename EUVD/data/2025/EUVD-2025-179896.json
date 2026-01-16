@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179896", "enisaUuid": "11d0e9e0-24ea-30f6-8002-7a7e5548eb7a", "description": "Malicious code in callisto-enif-cryonics-dotenv-parse-variables (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185986"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

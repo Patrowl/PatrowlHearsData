@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179353", "enisaUuid": "c85fea10-846c-3fe5-94e8-4ec6b841296c", "description": "Malicious code in delphinus-run-script-deneb-query (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186529"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

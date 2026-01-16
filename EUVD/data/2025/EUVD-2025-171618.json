@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171618", "enisaUuid": "54a4c5e2-a570-3346-b446-d8839e802b9a", "description": "Malicious code in native-mongoose-hyperion-levels (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27089"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

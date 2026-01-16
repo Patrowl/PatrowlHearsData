@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122021", "enisaUuid": "2e6e4eb5-eb29-3224-baa5-0f8a3e50c68b", "description": "Malicious code in server-nova-iota-duplex (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147902"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

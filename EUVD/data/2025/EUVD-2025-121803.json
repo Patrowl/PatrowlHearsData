@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121803", "enisaUuid": "1adc5129-25a5-3ec3-ab12-345060f8b92f", "description": "Malicious code in spectron-protractor-nconf-mongoose (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148122"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

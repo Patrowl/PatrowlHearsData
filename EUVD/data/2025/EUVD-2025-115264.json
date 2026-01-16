@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115264", "enisaUuid": "efdd4eb1-df8e-38f5-a7f1-f598793b7608", "description": "Malicious code in colors-corvus-postgres-cli (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140844"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180213", "enisaUuid": "56d261f0-54db-34df-904a-b0fb59b084be", "description": "Malicious code in authorize-code-bash-encrypt-abstract (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185672"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

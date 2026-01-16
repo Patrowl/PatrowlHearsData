@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121230", "enisaUuid": "35bfdd37-5b55-3ab6-8bc2-cc97cac16b26", "description": "Malicious code in titan-winston-commitlint-config-angular-elara (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148698"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

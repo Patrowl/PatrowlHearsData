@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191405", "enisaUuid": "1a7d7ee7-11bf-3180-b4a4-91114925add0", "description": "Malicious code in change-user-agent (PyPI)", "datePublished": "2025-08-28T07:10:46", "dateUpdated": "2025-08-28T07:10:46", "baseScore": 0.0, "aliases": ["MAL-2025-41638"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

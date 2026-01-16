@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113434", "enisaUuid": "53604d41-b681-3862-95f4-939d623e7ca3", "description": "Malicious code in framework-dactyl-exec-development (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142678"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

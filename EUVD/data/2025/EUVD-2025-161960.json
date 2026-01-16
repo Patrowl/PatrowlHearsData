@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161960", "enisaUuid": "68e2d5f9-6a08-3d11-a060-02eb50c7df7a", "description": "Malicious code in compress-route-query-route-permission (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17461"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

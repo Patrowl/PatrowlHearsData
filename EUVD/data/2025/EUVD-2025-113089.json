@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113089", "enisaUuid": "0a502804-fb61-357a-80ee-fb75da7d32ba", "description": "Malicious code in gravity-dotenv-safe-quark-publish (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143023"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

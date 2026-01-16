@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123177", "enisaUuid": "1112cc33-d137-34e6-bbe0-c4c357b508b6", "description": "Malicious code in proxima-terser-webpack-plugin-materialize-rollup (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146745"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

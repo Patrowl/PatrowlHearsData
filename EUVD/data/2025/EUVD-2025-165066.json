@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165066", "enisaUuid": "808cb43d-0943-3ae4-9bd8-20f15847965e", "description": "Malicious code in file-load-validate-cat-decode (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20547"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

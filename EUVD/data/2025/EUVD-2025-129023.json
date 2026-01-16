@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129023", "enisaUuid": "930e3c5a-f4d8-3210-a1b2-0cdf96427dbd", "description": "Malicious code in validate-rb (npm)", "datePublished": "2025-06-27T15:27:49", "dateUpdated": "2025-07-02T01:10:22", "baseScore": 0.0, "aliases": ["MAL-2025-5294"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114759", "enisaUuid": "a63a7377-4eb8-3ae8-b332-9ce9de5eb2ae", "description": "Malicious code in csv-nestjs-mdx-link (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141350"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

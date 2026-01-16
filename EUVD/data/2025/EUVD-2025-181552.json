@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181552", "enisaUuid": "ba81ef5d-72f4-384e-989e-3e3438e7cb64", "description": "Malicious code in react-bootstrap-mocha-command-scripts (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31767"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

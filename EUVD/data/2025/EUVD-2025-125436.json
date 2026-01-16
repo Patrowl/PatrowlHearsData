@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125436", "enisaUuid": "b055471c-0aad-317d-a883-d0d9d5fb5cb8", "description": "Malicious code in @kone-ds/webcomponents-react (npm)", "datePublished": "2025-03-03T13:13:11", "dateUpdated": "2025-03-03T13:13:11", "baseScore": 0.0, "aliases": ["MAL-2025-1692"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

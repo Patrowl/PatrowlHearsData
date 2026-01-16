@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111874", "enisaUuid": "679b4063-4a30-365e-b8eb-caa296c20116", "description": "Malicious code in lacerta-electron-taurus-triton (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144239"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

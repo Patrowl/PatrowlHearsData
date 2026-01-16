@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169702", "enisaUuid": "573792ee-67c3-3928-9060-c749c69e069a", "description": "Malicious code in less-auriga-relay-yaml (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25173"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129145", "enisaUuid": "f22e04ba-35cf-3673-8b01-4699c21c5df8", "description": "Malicious code in houdini_test_pack_1 (npm)", "datePublished": "2025-06-18T04:19:53", "dateUpdated": "2025-06-18T04:19:53", "baseScore": 0.0, "aliases": ["MAL-2025-5416"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

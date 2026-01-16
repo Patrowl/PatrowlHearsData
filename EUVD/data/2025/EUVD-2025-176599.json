@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176599", "enisaUuid": "ed8c0ed9-07ae-3d6c-891c-149a5918f983", "description": "Malicious code in rollup-plugin-start-galaxy-neutronstar (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189276"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

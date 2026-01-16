@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123985", "enisaUuid": "8b5295bc-eb68-367f-a687-5f55f9e5eba5", "description": "Malicious code in package-leda-regulus-bootes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145936"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

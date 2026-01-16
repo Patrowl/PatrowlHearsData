@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172713", "enisaUuid": "e2acda3c-9577-3e66-96be-d30c44a6f052", "description": "Malicious code in okta-hosted-login (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28184"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

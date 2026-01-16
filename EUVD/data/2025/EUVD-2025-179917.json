@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179917", "enisaUuid": "a06a9eb0-6cd9-337e-989c-59aeeb2364e4", "description": "Malicious code in cache-meta-root-try-key (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185965"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

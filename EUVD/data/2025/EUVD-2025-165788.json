@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165788", "enisaUuid": "15c992b6-76e1-335b-87a5-987108a0b05e", "description": "Malicious code in generator-accelerate-react-native (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21269"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

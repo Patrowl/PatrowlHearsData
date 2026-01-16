@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167335", "enisaUuid": "9c6c5e9e-7b99-3d98-aa2c-cfd1d24451ba", "description": "Malicious code in hw-exception (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22817"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

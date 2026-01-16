@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122848", "enisaUuid": "0620c2a0-dccd-329e-ba55-2b033ae4aaff", "description": "Malicious code in react-bootstrap-sails-websockets-upgrade (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147074"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

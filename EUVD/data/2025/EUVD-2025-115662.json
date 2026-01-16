@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115662", "enisaUuid": "bc980008-8bf0-3fb5-90ad-5ea179b93fc3", "description": "Malicious code in carpo-init-stop-terser (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140445"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

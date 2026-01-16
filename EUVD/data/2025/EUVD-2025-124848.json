@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124848", "enisaUuid": "2e3b014d-1910-3002-994c-381912a20903", "description": "Malicious code in mocha-chariklo-callback-pulsar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145070"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

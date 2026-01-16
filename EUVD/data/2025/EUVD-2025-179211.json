@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179211", "enisaUuid": "6714ece6-52c8-33bc-b400-63116451d0fa", "description": "Malicious code in easy-kernel-deserialize-public-await (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186671"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

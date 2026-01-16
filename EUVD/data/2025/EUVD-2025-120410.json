@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120410", "enisaUuid": "0039c4f2-759d-340a-b8be-f78cee3dc783", "description": "Malicious code in winston-pino-pretty-parcel-publish (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149520"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

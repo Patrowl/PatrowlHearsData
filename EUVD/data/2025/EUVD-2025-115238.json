@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115238", "enisaUuid": "b5a41e53-76a9-3dab-8c2b-995b4e0324e9", "description": "Malicious code in comet-canopus-deneb-websockets (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140870"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

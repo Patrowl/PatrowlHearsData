@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194129", "enisaUuid": "d544a174-6101-3131-9366-b769cbda7a36", "description": "Malicious code in ganymede-webpack-triton-castor (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44376"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

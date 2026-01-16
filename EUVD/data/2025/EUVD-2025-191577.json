@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191577", "enisaUuid": "cf1b698b-857a-3c6d-838f-3754ee88d4d1", "description": "Malicious code in ambmock.sol (npm)", "datePublished": "2025-08-29T13:45:54", "dateUpdated": "2025-08-29T13:45:54", "baseScore": 0.0, "aliases": ["MAL-2025-41810"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

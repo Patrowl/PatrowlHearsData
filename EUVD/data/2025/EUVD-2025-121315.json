@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121315", "enisaUuid": "78895a4c-1c23-347f-80b1-48bf50547dbf", "description": "Malicious code in tethys-commitlint-galaxy-bellatrix (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148613"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130552", "enisaUuid": "c23b9fbf-348c-3e20-a0e7-8d9058faae5d", "description": "Malicious code in @evt-cdk/codepipeline (npm)", "datePublished": "2025-08-06T17:14:36", "dateUpdated": "2025-08-06T17:14:36", "baseScore": 0.0, "aliases": ["MAL-2025-6830"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

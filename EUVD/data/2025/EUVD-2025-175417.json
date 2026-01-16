@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175417", "enisaUuid": "68371fdc-a60d-3225-8bbe-915688833dfc", "description": "Malicious code in zephyr-auriga-node-config-wolf (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190459"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

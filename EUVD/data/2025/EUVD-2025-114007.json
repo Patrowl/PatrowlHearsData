@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114007", "enisaUuid": "4fe70332-8ef3-35cd-b8ab-4564444c7e2a", "description": "Malicious code in epimetheus-pipe-janus-cli (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142103"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

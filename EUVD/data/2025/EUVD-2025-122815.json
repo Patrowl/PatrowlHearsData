@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122815", "enisaUuid": "9bce90b0-3ab4-3755-b226-ee47d82a3c80", "description": "Malicious code in redis-juno-restart-chakra-ui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147107"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

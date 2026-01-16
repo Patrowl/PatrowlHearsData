@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-198323", "enisaUuid": "a57d09b9-36db-35c8-a7f8-43ef60dc7770", "description": "Malicious code in @ra-ide/system (npm)", "datePublished": "2025-11-20T18:16:20", "dateUpdated": "2025-11-24T16:09:27", "baseScore": 0.0, "aliases": ["MAL-2025-190596"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173921", "enisaUuid": "491cebce-7517-37a3-8eab-c1f857301aff", "description": "Malicious code in playwright-husky-redis-selenology (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29392"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159731", "enisaUuid": "d3b346bc-a41c-3339-843d-d87024282f18", "description": "Malicious code in aws-toolkit-cloud9 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15230"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

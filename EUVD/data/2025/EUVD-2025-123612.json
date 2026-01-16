@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123612", "enisaUuid": "c63923d6-321a-3446-9b68-ea6b3395fbb9", "description": "Malicious code in pm2-reveal-md-event-sagitta (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146309"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

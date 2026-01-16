@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63531", "enisaUuid": "59241a32-7020-320f-93bd-8ce404fd96f9", "description": "Malicious code in inherent_swordfish_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-95023"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169804", "enisaUuid": "cb6a48aa-1eac-3df6-935a-2c261755add5", "description": "Malicious code in lightning-components-stubs (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25275"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

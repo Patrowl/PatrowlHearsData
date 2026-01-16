@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122443", "enisaUuid": "c1eaf24d-feae-35c9-89dc-0d0c5a548d5f", "description": "Malicious code in rocket-semantic-release-spectron-polaris (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147479"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

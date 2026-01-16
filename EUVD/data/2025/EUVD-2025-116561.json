@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116561", "enisaUuid": "8b0753d7-f30c-3679-9cca-fddf2528b6a6", "description": "Malicious code in aquarius-nodejs-electron-registry (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139541"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184550", "enisaUuid": "0d8cc8f3-e5e5-3f0a-8eca-b2610f07a280", "description": "Malicious code in test-aws-xray-sdk-express (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34766"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

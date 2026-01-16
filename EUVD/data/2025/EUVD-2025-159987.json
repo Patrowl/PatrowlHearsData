@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159987", "enisaUuid": "b2ec3826-c7b4-3d3f-9702-a05a4a410306", "description": "Malicious code in bartok-connector-memory (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15486"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

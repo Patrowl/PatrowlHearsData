@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113729", "enisaUuid": "6895046f-3140-3e00-85f7-5b087d0acb81", "description": "Malicious code in express-lint-jsonp-nightwatch (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142381"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

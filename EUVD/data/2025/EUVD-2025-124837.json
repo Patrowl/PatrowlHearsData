@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124837", "enisaUuid": "9d1e621e-77bf-3b81-8382-33a0fe021813", "description": "Malicious code in mocha-hercules-auth0-weywot (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145081"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

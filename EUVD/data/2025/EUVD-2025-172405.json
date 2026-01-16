@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172405", "enisaUuid": "d68a16cd-e40e-3c0c-9d68-182af9749931", "description": "Malicious code in nu-deploy-sigma-mu-grid (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27876"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

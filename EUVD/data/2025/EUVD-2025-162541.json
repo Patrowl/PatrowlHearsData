@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162541", "enisaUuid": "bb65e87a-0141-3b21-8104-c4192c8c53cb", "description": "Malicious code in date-november-mqtt (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18042"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

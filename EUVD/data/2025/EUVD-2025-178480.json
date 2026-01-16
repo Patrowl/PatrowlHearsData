@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178480", "enisaUuid": "7346cd11-bf84-3819-a113-86e61d5d1fcc", "description": "Malicious code in hydra-markdown-pdf-resolvers-postcss (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187402"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

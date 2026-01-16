@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121322", "enisaUuid": "0ee00fc7-1ae1-36ae-88cf-1e49fb7fffab", "description": "Malicious code in testcafe-spectron-transform-europa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148606"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

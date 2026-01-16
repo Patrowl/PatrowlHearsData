@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164438", "enisaUuid": "4e1a49f3-b012-326d-aa83-6d00dc57974d", "description": "Malicious code in ev-refresh-cf (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19918"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

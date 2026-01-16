@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177545", "enisaUuid": "f8b2dc28-8692-35a1-999a-95bcd5717e51", "description": "Malicious code in nodemon-terser-webpack-plugin-private-mantle (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188337"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

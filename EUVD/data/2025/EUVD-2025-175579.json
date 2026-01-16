@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175579", "enisaUuid": "dbab9c98-e79d-3136-86d1-030b71d209c2", "description": "Malicious code in websockets-thuban-antares-yakutsk (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190297"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

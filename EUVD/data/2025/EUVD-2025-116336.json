@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116336", "enisaUuid": "0a578c66-bb33-372c-b4b8-acef45bee1fb", "description": "Malicious code in avior-dotenv-parse-variables-pegasus-meissa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139766"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

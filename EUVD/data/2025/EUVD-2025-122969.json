@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122969", "enisaUuid": "f25a95d6-a16e-3a49-87d7-97d94ddcf208", "description": "Malicious code in quasar-jest-wasat-luna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146953"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

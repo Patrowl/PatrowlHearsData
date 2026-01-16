@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124603", "enisaUuid": "bd933a29-8d0f-37c3-87c8-273b93982712", "description": "Malicious code in nconf-exec-blitz-node-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145317"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

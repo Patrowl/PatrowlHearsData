@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169754", "enisaUuid": "01b4e413-1375-373e-a192-6f1fd02311bc", "description": "Malicious code in lib-transmit (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25225"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

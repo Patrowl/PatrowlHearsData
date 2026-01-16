@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-73070", "enisaUuid": "25b2eecb-95ee-3a25-9851-1d5d39c5be4c", "description": "Malicious code in valid_herring_z3n (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-97220"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

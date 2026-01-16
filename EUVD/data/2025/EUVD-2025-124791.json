@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124791", "enisaUuid": "d35aff0e-2826-3318-916a-7a3c6081e399", "description": "Malicious code in mongodb-europa-apollo-envconfig (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145127"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

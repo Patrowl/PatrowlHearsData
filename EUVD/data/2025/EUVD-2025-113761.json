@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113761", "enisaUuid": "53aa4b8f-14bc-3ab2-be2a-93b7ee369a4f", "description": "Malicious code in exec-less-commitizen-nextjs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142349"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

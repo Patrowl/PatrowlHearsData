@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-158652", "enisaUuid": "e830352e-4279-3a0e-840b-ac536ff8aec4", "description": "Malicious code in activerecord-pedantmysql2-adapter (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14052"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176074", "enisaUuid": "69e87c61-240d-33b7-b371-e4697908aebe", "description": "Malicious code in tachyon-vortex-bellatrix-csv (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189801"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

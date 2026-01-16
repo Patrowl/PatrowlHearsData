@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124517", "enisaUuid": "4e4f142f-02d8-3870-ad0a-b0bdf54ab9f8", "description": "Malicious code in nestjs-react-bootstrap-dagda-geckodriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145403"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167032", "enisaUuid": "93a925a0-11d1-3620-acae-ae3c6e656a67", "description": "Malicious code in homebridge-platform-smartac-f659675 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22514"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

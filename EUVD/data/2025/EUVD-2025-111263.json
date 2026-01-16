@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111263", "enisaUuid": "3ec031d3-f926-30ef-99cd-2b13d73c3087", "description": "Malicious code in mensa-frontend-sedna-markdownlint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144852"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179348", "enisaUuid": "7d5f4c80-48b8-36c8-b99d-bb62b683cf6e", "description": "Malicious code in delta-string-enum-thread-uglify (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186534"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

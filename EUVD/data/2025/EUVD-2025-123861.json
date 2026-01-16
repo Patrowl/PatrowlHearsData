@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123861", "enisaUuid": "c3a267c5-6bc2-3ee4-aaa0-c27a9525dbda", "description": "Malicious code in pegasus-terser-webpack-plugin-less-loader-atlas (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146060"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

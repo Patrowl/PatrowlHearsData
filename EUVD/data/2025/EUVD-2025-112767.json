@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112767", "enisaUuid": "c8a4b789-7d8f-38a4-89f1-9b37784d78eb", "description": "Malicious code in hexo-lacerta-colors-deneb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143345"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160704", "enisaUuid": "838c9a82-7bb4-38e1-ba23-488d2a97fd0f", "description": "Malicious code in browserify-cordelia-chariklo-cli (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16203"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

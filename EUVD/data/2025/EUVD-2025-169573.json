@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169573", "enisaUuid": "8c055bb4-202b-312b-9b10-b7265d370f02", "description": "Malicious code in leadconduit-sendgrid (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25044"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

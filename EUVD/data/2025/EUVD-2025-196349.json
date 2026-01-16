@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196349", "enisaUuid": "8e6b759c-fc0e-3f88-9acd-d8b364fee0dc", "description": "Malicious code in webdriver-manager-outercore-iota-cosmos (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46597"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

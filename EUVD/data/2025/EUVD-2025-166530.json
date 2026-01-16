@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166530", "enisaUuid": "17a3931a-484c-352e-8201-57b5dff8b50b", "description": "Malicious code in gsf.certificate-list (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22012"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179460", "enisaUuid": "989dd478-b9cf-3ea3-bab8-1c80b33c74d5", "description": "Malicious code in css-minimizer-webpack-plugin-hugo-gemini-command (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186422"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

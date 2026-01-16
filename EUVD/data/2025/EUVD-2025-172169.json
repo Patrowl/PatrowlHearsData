@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172169", "enisaUuid": "010473c7-5c8f-321f-90c3-0d7fee167c94", "description": "Malicious code in node-red-azure-iot-hub (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27640"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

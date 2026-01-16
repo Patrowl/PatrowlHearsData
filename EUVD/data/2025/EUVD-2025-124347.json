@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124347", "enisaUuid": "ce66ca41-8c13-35a9-8b4e-12840d4543b2", "description": "Malicious code in nodejs-proxima-link-prettier (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145574"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

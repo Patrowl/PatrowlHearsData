@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179691", "enisaUuid": "0ecf2cac-d6cb-31b3-a863-a0e10a64d1c8", "description": "Malicious code in cluster-wind-decode-sigma-web (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186191"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

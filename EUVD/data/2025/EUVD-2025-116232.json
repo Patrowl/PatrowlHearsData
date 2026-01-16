@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116232", "enisaUuid": "5f84890d-266c-3bee-9e14-385e322ac9ed", "description": "Malicious code in babel-playwright-luna-oauth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139870"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

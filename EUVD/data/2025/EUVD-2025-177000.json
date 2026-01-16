@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177000", "enisaUuid": "13e4ca0e-ff2c-3ba4-bd63-8a324d373fc9", "description": "Malicious code in prompts-terser-webpack-plugin-enceladus-graviton (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188875"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

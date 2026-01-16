@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63772", "enisaUuid": "3e18c99e-d10f-38d0-bb20-9b004f336445", "description": "Malicious code in happy_bison_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-94782"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

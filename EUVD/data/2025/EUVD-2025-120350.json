@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120350", "enisaUuid": "998b67e1-1fa9-3e31-9782-a958a9ac6aed", "description": "Malicious code in writable-supervisor-zenobia-blaze (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149581"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-36571", "enisaUuid": "727381b2-fa8f-368f-b10a-1a0aef385058", "description": "Malicious code in firewall-node (npm)", "datePublished": "2025-05-20T05:05:28", "dateUpdated": "2025-10-28T22:37:55", "baseScore": 0.0, "aliases": ["MAL-2025-4049"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

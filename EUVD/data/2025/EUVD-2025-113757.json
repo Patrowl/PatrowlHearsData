@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113757", "enisaUuid": "743cea4f-29a7-3c07-a13e-5d75d222ac0d", "description": "Malicious code in exec-mui-fornax-nodejs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142353"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

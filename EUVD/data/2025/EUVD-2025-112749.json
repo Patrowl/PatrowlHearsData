@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112749", "enisaUuid": "fb3c7ce7-383f-3935-a49d-02ff50b20e69", "description": "Malicious code in html-webpack-plugin-hercules-aldebaran-electron (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143363"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188817", "enisaUuid": "022d081f-e8d1-355e-bc87-e95a884ebfe1", "description": "Malicious code in webpack-protractor-mongodb-frontend (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39031"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

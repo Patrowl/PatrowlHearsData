@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177842", "enisaUuid": "28fcc3cf-8b45-3f64-aa1a-d21e93e31cab", "description": "Malicious code in middleware-fusion-gemini-rehype (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188040"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

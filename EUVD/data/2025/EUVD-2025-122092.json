@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122092", "enisaUuid": "0ae12255-f5d6-3f13-bebd-99be1112d72c", "description": "Malicious code in semantic-release-loglevel-mongoose-buffer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147831"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

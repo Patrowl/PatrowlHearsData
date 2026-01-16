@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178269", "enisaUuid": "b72f4ac3-66d2-3f66-a347-f5c4fc589a1f", "description": "Malicious code in jovian-postgres-webdriver-mocha-await (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187613"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

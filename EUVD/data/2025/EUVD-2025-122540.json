@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122540", "enisaUuid": "c10194f1-76a7-3a1e-a5ee-73ee4ca8a542", "description": "Malicious code in restart-flare-axios-unuk (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147382"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

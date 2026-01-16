@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112111", "enisaUuid": "db345b6d-2fd5-32b3-af8c-22c71d2a8723", "description": "Malicious code in jsonp-nightmare-leda-rollup (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144002"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114265", "enisaUuid": "72e64b99-7a25-3b6d-8123-6a536eec3d5b", "description": "Malicious code in eclipse-aether-metalsmith-nconf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141845"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-56039", "enisaUuid": "3dd2d32c-90ea-38c0-9d9c-4f60922cb380", "description": "Malicious code in accepted-teal-cockroach (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-66610"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

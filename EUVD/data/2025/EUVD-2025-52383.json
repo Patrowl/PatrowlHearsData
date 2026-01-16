@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-52383", "enisaUuid": "a19899b8-daf7-31c9-a2cb-96176a23fa61", "description": "Malicious code in regulatory-fuchsia-ferret (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-70266"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

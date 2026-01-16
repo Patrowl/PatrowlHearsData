@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173606", "enisaUuid": "1901dae1-c249-3bb6-910f-69d5f1076c9e", "description": "Malicious code in persistent-socket (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29077"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

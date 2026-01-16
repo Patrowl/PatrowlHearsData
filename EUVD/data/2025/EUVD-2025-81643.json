@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-81643", "enisaUuid": "c73af225-6249-37a2-a11b-d4a9c1f14093", "description": "Malicious code in husky_anaconda_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-103863"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

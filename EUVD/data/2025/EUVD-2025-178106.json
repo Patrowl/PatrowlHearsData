@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178106", "enisaUuid": "c11f11bc-6e29-3093-a79f-a051a84660f1", "description": "Malicious code in library-capella-tectonic-child-process (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187776"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124671", "enisaUuid": "5832c27c-4392-3525-ad76-a66f23b467b8", "description": "Malicious code in mysql-halley-loop-jabbah (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145247"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113076", "enisaUuid": "4d6876db-7f72-336b-8583-e9f5805b5f70", "description": "Malicious code in gridsome-css-minimizer-webpack-plugin-graphql-cors (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143036"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

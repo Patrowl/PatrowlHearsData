@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176060", "enisaUuid": "702414b4-fcc2-3932-b16e-7f6ff9685dd5", "description": "Malicious code in tau-float-string-reject-byte (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189815"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

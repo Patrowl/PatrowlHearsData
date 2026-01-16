@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195874", "enisaUuid": "53a53a2f-3116-354b-993c-c198ad5df764", "description": "Malicious code in spectron-mini-css-extract-plugin-mongoose-indus (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46122"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123421", "enisaUuid": "7616a54b-b982-3e13-ad5c-cb676125366f", "description": "Malicious code in prettier-rehype-aquarius-node-sass (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146501"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115097", "enisaUuid": "42599c2d-648b-32d5-a5d4-6cf5ece4ab83", "description": "Malicious code in concurrently-rollup-plugin-pino-pretty-mui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141012"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

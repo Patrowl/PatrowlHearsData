@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179006", "enisaUuid": "5397db85-8b2b-3956-b6f2-1c6013d270b7", "description": "Malicious code in event-husky-tachyon-auth0 (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186876"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

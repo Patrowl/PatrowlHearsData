@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123276", "enisaUuid": "e6ba5868-e7a4-338f-933e-2e54e8fa5bcf", "description": "Malicious code in promise-protractor-concurrently-passport (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146646"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

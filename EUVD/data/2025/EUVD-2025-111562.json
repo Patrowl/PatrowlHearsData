@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111562", "enisaUuid": "eaaa5514-68ae-3b6b-963b-820eae63fddc", "description": "Malicious code in loopback-install-cosmos-juno (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144553"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

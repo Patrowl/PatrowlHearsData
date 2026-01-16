@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191701", "enisaUuid": "9b204e8d-e5cd-3f8d-9b1c-c09f6f84857c", "description": "Malicious code in accumulateinfo (npm)", "datePublished": "2025-08-29T19:22:11", "dateUpdated": "2025-08-29T19:22:11", "baseScore": 0.0, "aliases": ["MAL-2025-41935"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

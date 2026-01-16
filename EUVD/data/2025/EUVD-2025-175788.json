@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175788", "enisaUuid": "1bfd0575-466b-3883-9433-d0e6059a7958", "description": "Malicious code in upgrade-ophiuchus-nightwatch-lyra (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190087"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

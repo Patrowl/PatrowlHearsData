@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124414", "enisaUuid": "ea12fb1c-82b9-3e04-afe7-b7068e0ef70f", "description": "Malicious code in node-config-flare-elektra-xenos (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145507"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

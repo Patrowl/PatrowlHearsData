@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112284", "enisaUuid": "6b970add-958f-37c8-89e6-dcd9b1167656", "description": "Malicious code in janus-query-lint-staged-celeste (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143829"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124355", "enisaUuid": "ceaaad7d-8fad-3f7e-9c9e-483e2eb2f667", "description": "Malicious code in nodejs-grus-gacrux-auriga (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145566"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

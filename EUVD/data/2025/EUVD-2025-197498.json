@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197498", "enisaUuid": "ff588289-59c0-37a8-92db-1ef9412dbc05", "description": "Malicious code in circuit-runtime-test (npm)", "datePublished": "2025-10-23T19:28:12", "dateUpdated": "2025-10-23T19:28:12", "baseScore": 0.0, "aliases": ["MAL-2025-48812"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

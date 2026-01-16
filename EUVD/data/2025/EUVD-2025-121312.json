@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121312", "enisaUuid": "3f3bf50c-a327-3cf9-a728-02a5c319ebfc", "description": "Malicious code in tethys-dependencies-janus-pulsar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148616"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

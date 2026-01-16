@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130629", "enisaUuid": "63fbd7b6-5501-375d-8123-30c61e1a42eb", "description": "Malicious code in @qbr-runway/tokens (npm)", "datePublished": "2025-08-14T19:16:19", "dateUpdated": "2025-08-29T06:43:16", "baseScore": 0.0, "aliases": ["MAL-2025-6907"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

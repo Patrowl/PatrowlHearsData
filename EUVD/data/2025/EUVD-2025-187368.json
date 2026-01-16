@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187368", "enisaUuid": "4b148ac2-9807-390e-9ad2-da38951c0242", "description": "Malicious code in uglify-debug-key-query-refactor (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37580"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

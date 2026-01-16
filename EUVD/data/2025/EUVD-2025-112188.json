@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112188", "enisaUuid": "14f29cd3-9320-342f-b5bf-d12a9ce773f9", "description": "Malicious code in jest-heka-wasat-rimraf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143925"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

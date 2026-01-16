@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171998", "enisaUuid": "b0ee9150-b625-376e-b5d0-058ea9eb2d5f", "description": "Malicious code in ng2-indexeddb (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27469"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

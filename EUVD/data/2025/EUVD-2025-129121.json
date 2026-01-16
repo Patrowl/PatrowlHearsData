@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129121", "enisaUuid": "d0713c9c-3464-3a5b-a8b9-9e384f2b745c", "description": "Malicious code in docs-root (npm)", "datePublished": "2025-06-21T16:07:20", "dateUpdated": "2025-06-21T16:07:20", "baseScore": 0.0, "aliases": ["MAL-2025-5392"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

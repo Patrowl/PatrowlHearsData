@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191815", "enisaUuid": "14138e7e-cb13-3e47-ba98-78f30aa6f96c", "description": "Malicious code in parcel-plugin-envvar-allowlist (npm)", "datePublished": "2025-08-28T15:00:06", "dateUpdated": "2025-08-28T15:00:06", "baseScore": 0.0, "aliases": ["MAL-2025-42052"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

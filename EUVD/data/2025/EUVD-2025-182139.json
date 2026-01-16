@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182139", "enisaUuid": "4069bd69-2b9e-3e9a-b14c-add1a852b563", "description": "Malicious code in rollup-development-vega-prettier-plugin-markdown (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32354"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123221", "enisaUuid": "fd5dfc8b-a6ad-3eaa-a17f-7e020f81fa7a", "description": "Malicious code in protractor-ursa-stop-sedna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146701"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164199", "enisaUuid": "a5e3084b-930d-33df-8fe9-d333d8e6ac51", "description": "Malicious code in enum-sigma-test-double-container (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19678"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177676", "enisaUuid": "99cc6040-3532-31ac-b27e-9f06d7c31637", "description": "Malicious code in nebula-init-resolvers-frontend (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188206"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

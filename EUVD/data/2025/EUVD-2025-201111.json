@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-201111", "enisaUuid": "a29b16a5-58b8-37a7-b27f-4089e3d2363e", "description": "Malicious code in @bhyolken/echotest (npm)", "datePublished": "2025-12-03T19:34:54", "dateUpdated": "2025-12-23T15:09:26", "baseScore": 0.0, "aliases": ["MAL-2025-192271"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

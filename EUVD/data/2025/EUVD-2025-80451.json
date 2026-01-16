@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80451", "enisaUuid": "915fa6e6-e546-3ac4-88b6-c781f911a24d", "description": "Malicious code in static_wombat_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-109086"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

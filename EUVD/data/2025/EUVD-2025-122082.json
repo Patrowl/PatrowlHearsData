@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122082", "enisaUuid": "3c7b8280-d026-38f7-a848-7b530cbeac84", "description": "Malicious code in semantic-ui-cluster-hermes-postcss-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147841"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

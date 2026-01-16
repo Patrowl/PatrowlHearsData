@@ -1,0 +1,1 @@
+{"id": "EUVD-2026-0796", "enisaUuid": "61cd4d2f-1725-3884-8a8f-5c0565dc9564", "description": "Malicious code in blobhunter-depconf-poc (npm)", "datePublished": "2026-01-04T04:15:31", "dateUpdated": "2026-01-08T09:13:13", "baseScore": 0.0, "aliases": ["MAL-2026-32"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123128", "enisaUuid": "f669624d-2fa3-3a52-aeba-3f5a28e4f8bd", "description": "Malicious code in publish-materialize-spawn-quark (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146794"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

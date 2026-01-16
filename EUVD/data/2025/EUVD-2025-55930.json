@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-55930", "enisaUuid": "d513eb11-8e15-3437-9aae-7a40f7b07516", "description": "Malicious code in alert-gray-ermine (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-66719"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

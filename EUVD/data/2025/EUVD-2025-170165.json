@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170165", "enisaUuid": "82db078b-2e8c-3e9e-9d55-b93227409895", "description": "Malicious code in luafix (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25636"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

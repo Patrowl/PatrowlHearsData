@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124697", "enisaUuid": "a7f6106e-6d1b-3922-9ca1-b95cd6994f9a", "description": "Malicious code in mutation-fork-module-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145221"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

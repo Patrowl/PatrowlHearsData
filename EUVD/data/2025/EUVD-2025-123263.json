@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123263", "enisaUuid": "cfcc20e7-7925-303b-8f5d-7a8cf26f1882", "description": "Malicious code in prompts-andromeda-dynamo-halley (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146659"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172156", "enisaUuid": "252e8661-09ad-3082-8e89-6e4a5045c6a7", "description": "Malicious code in node-jlink (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27627"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

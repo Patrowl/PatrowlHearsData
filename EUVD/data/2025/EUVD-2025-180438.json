@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180438", "enisaUuid": "0d8d6e59-f207-3de0-a1f4-9ff57ddba6dd", "description": "Malicious code in analyze-catch-load-nu-omicron (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185450"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

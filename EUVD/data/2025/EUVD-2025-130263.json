@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130263", "enisaUuid": "822843c1-f187-3685-817e-8776b313ca6b", "description": "Malicious code in localstack-plugin-persistence (PyPI)", "datePublished": "2025-07-31T19:15:32", "dateUpdated": "2025-07-31T19:15:32", "baseScore": 0.0, "aliases": ["MAL-2025-6537"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

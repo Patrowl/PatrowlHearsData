@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164601", "enisaUuid": "45798c77-eb06-37c7-9224-7ff42f552703", "description": "Malicious code in express-national-redirect2 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20081"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

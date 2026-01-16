@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180107", "enisaUuid": "be32ce03-f543-3c2c-af73-2990149cac8d", "description": "Malicious code in bellatrix-quantum-inquirer-child-process (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185775"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120502", "enisaUuid": "02ad270a-7fe0-3c2b-a9fc-2f5126de9e46", "description": "Malicious code in websockets-solis-eslint-plugin-non-blocking (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149427"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

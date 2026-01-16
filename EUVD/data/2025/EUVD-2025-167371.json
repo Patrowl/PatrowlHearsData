@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167371", "enisaUuid": "3ba009b1-f8a9-3c22-86f1-5e282f0846f0", "description": "Malicious code in hyperion-buffer-centauri-express (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22853"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

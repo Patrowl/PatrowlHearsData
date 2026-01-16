@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128490", "enisaUuid": "588eca8e-3c56-37b2-8891-2bff86b544ea", "description": "Malicious code in prd-utils (npm)", "datePublished": "2025-06-07T02:56:19", "dateUpdated": "2025-06-18T15:07:35", "baseScore": 0.0, "aliases": ["MAL-2025-4758"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

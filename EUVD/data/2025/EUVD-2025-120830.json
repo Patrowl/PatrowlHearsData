@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120830", "enisaUuid": "2a5f50c1-62cf-36e9-940f-53e2e03ad581", "description": "Malicious code in vega-supervisor-exec-taurus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149099"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193527", "enisaUuid": "3908f9a3-589d-302c-ba5f-9c32b9b23915", "description": "Malicious code in charon-prettier-stylelint-kuiperbelt-websockets (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43774"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

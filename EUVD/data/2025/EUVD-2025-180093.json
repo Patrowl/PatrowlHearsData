@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180093", "enisaUuid": "8afe2589-7a8f-3b72-a787-df53f9a26354", "description": "Malicious code in betelgeuse-csrf-aldebaran-json (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185789"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

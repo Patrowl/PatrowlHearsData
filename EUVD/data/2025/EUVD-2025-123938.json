@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123938", "enisaUuid": "3bfc87e5-3d11-344b-96f2-847b86f8ae9b", "description": "Malicious code in passport-leda-spectron-spawn (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145983"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-74269", "enisaUuid": "c21a4bad-79d5-3a68-82fe-8b49dcd8fbea", "description": "Malicious code in selective_pike_fuchsia-11 (npm)", "datePublished": "2025-11-11T07:47:12", "dateUpdated": "2025-11-11T07:47:12", "baseScore": 0.0, "aliases": ["MAL-2025-112283"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

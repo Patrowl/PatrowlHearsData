@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116458", "enisaUuid": "7e62e215-63ad-3c79-93b1-8131e022d342", "description": "Malicious code in atlas-global-mysql-pegasus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139644"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

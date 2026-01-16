@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113117", "enisaUuid": "ec5a0240-43a2-323c-91bf-017c223529c6", "description": "Malicious code in graphql-apollo-europa-test (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142995"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

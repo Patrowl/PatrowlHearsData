@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130043", "enisaUuid": "a8286a09-fac1-3005-9aea-8619c661d2c0", "description": "Malicious code in terraform-cloud-action (npm)", "datePublished": "2025-07-23T14:32:17", "dateUpdated": "2025-07-23T14:32:17", "baseScore": 0.0, "aliases": ["MAL-2025-6316"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

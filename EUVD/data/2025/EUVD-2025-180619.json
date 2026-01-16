@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180619", "enisaUuid": "cddda622-b02e-3a02-98d0-b2a8cf923db7", "description": "Malicious code in public-csv-carpo-cygnus (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-30814"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165834", "enisaUuid": "2f0657cd-4ff3-35d2-9c07-ade3ff382401", "description": "Malicious code in generic-rpc (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21315"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

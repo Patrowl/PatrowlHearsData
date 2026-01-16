@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-146425", "enisaUuid": "afe92606-4a99-35a0-b104-2f73687beeac", "description": "Malicious code in verify-ayic-iamusha (npm)", "datePublished": "2025-11-12T16:47:05", "dateUpdated": "2025-11-12T16:47:05", "baseScore": 0.0, "aliases": ["MAL-2025-170387"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

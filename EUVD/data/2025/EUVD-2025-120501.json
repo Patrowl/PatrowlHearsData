@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120501", "enisaUuid": "670b3f25-09ec-3624-831d-7388bb57d56e", "description": "Malicious code in websockets-telesto-blitz-remark (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149428"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

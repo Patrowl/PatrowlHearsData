@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-82605", "enisaUuid": "f9b50449-6ed2-30bb-a773-d488823d53d1", "description": "Malicious code in breakable_hawk_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-100087"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

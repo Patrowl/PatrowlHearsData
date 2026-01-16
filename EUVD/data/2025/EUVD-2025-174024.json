@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174024", "enisaUuid": "8c2fed5a-85ae-31a6-b84f-3a8883f8b929", "description": "Malicious code in polyfill-browser (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29495"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

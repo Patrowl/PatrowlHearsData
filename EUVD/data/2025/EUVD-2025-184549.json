@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184549", "enisaUuid": "09701929-36af-312a-9d77-db45e3e94876", "description": "Malicious code in test-auth-tr (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34765"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

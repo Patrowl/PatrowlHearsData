@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175785", "enisaUuid": "c4f5e0c4-f836-3a07-9ba7-d5489067ece5", "description": "Malicious code in upsilon-decode-catch-log-function (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190090"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

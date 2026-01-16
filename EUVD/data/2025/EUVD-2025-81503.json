@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-81503", "enisaUuid": "e024b5de-2f5c-359e-a269-ee6e51fbfb4d", "description": "Malicious code in internal_chickadee_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-104351"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

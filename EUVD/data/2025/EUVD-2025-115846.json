@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115846", "enisaUuid": "695e6bd5-6928-3375-b5c9-083301f04554", "description": "Malicious code in bunyan-umbriel-relay-bellatrix (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140258"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

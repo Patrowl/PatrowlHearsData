@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113116", "enisaUuid": "4ec86d89-4b88-33c3-9cec-cf6bf34c362d", "description": "Malicious code in graphql-cache-dactyl-meteor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142996"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

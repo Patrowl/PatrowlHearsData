@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124753", "enisaUuid": "6922e489-e670-3235-865f-90e5f300a013", "description": "Malicious code in mongoose-sirius-bellatrix-pm2 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145165"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

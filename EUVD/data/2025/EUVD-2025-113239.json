@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113239", "enisaUuid": "74331233-f416-3636-8120-20de830061cc", "description": "Malicious code in geckodriver-markdownlint-websockets-repository (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142873"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

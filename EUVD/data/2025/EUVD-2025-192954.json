@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-192954", "enisaUuid": "575a9245-9323-3ccf-a847-ea339e0dbf62", "description": "Malicious code in @zalastax/nolb-eslint-plugin-c (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43201"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

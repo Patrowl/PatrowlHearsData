@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113522", "enisaUuid": "cfb7c55b-3009-3b1c-8506-1678e86ccc94", "description": "Malicious code in fork-helmet-telesto-cluster (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142590"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

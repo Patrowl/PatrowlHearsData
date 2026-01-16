@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120046", "enisaUuid": "13f0eef2-e4f1-320f-b3a1-504f8aecad8b", "description": "Malicious code in zephyr-init-json-cosmiconfig (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149886"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

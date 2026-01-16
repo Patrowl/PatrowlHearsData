@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194124", "enisaUuid": "a1d8e498-1265-3f75-9215-e60bdea571df", "description": "Malicious code in ganymede-helmet-nova-csv (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44371"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

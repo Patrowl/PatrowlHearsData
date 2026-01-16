@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116302", "enisaUuid": "90865c93-ca7f-331b-8277-b043d0cb94c7", "description": "Malicious code in await-less-xo-package (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139800"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

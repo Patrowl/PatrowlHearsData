@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114760", "enisaUuid": "72c9c204-2036-34d1-8c7a-1b5ab75abd84", "description": "Malicious code in csv-neptune-fetch-meteor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141349"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

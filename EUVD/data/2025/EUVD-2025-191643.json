@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191643", "enisaUuid": "71b844f9-d8de-3877-8c0a-c34702faf91c", "description": "Malicious code in @espace-client-axafr/paiement-cotisation (npm)", "datePublished": "2025-08-25T18:34:02", "dateUpdated": "2025-08-25T18:34:02", "baseScore": 0.0, "aliases": ["MAL-2025-41877"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

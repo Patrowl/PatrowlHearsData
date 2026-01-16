@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115430", "enisaUuid": "a52dcf60-153b-3e6a-aee0-0aebebdeb5ff", "description": "Malicious code in changelog-pino-pretty-webpack-bellatrix (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140677"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

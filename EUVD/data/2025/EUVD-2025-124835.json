@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124835", "enisaUuid": "a5145435-c97b-3f8f-b973-8dd032dee3af", "description": "Malicious code in mocha-karma-canopus-rate-limiter (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145083"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

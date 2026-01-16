@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127454", "enisaUuid": "df6614cb-8e88-38f0-aaf5-e6dbdb0345ed", "description": "Malicious code in @dm3-org/dm3-lib-shared (npm)", "datePublished": "2025-05-08T18:01:31", "dateUpdated": "2025-05-08T18:01:31", "baseScore": 0.0, "aliases": ["MAL-2025-3713"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115986", "enisaUuid": "fb9b32b3-64c0-35eb-abfb-838e49fdc507", "description": "Malicious code in bootstrap-ora-auriga-cors (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140116"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

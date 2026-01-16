@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177604", "enisaUuid": "4aeccbee-1ce7-3288-90f0-97895c5af6f3", "description": "Malicious code in nightmare-start-meteor-node-sass (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188278"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

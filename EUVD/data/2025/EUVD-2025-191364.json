@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191364", "enisaUuid": "11f01179-d586-372e-aca6-08d60af41b93", "description": "Malicious code in quick-start_onnxruntime-web-bundler (npm)", "datePublished": "2025-08-28T07:37:05", "dateUpdated": "2025-08-28T07:37:05", "baseScore": 0.0, "aliases": ["MAL-2025-41597"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

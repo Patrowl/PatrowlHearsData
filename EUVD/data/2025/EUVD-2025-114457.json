@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114457", "enisaUuid": "16608b03-d701-33de-8442-ffe1fd6c196f", "description": "Malicious code in dione-tool-exec-achernar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141652"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

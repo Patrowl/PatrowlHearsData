@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191480", "enisaUuid": "ddb92968-c75d-3259-bd0d-53489471cae7", "description": "Malicious code in numbervalidator (PyPI)", "datePublished": "2025-08-28T07:11:27", "dateUpdated": "2025-08-28T07:11:27", "baseScore": 0.0, "aliases": ["MAL-2025-41713"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

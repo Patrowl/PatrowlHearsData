@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124122", "enisaUuid": "46f561db-3a2f-32ce-a38b-5fed0f90372c", "description": "Malicious code in odin-mira-spawn-protractor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145799"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

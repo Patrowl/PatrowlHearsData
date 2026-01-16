@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197171", "enisaUuid": "1e69edc1-124e-39e9-9f17-cf6679e7ba7a", "description": "Malicious code in node-ts-esm-web (npm)", "datePublished": "2025-09-26T09:37:45", "dateUpdated": "2025-09-26T09:37:45", "baseScore": 0.0, "aliases": ["MAL-2025-47698"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172151", "enisaUuid": "46d12402-b0b3-3826-b8af-5a59711d9dd1", "description": "Malicious code in node-firefox-find-wifi-devices (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27622"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

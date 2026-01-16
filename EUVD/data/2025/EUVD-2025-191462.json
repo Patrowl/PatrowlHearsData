@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191462", "enisaUuid": "eecc1008-8076-3f76-93e8-6ce6e6ddbee1", "description": "Malicious code in lightfm-ext (PyPI)", "datePublished": "2025-08-28T07:11:18", "dateUpdated": "2025-08-28T07:11:18", "baseScore": 0.0, "aliases": ["MAL-2025-41695"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

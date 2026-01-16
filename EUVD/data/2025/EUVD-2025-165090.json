@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165090", "enisaUuid": "5096e0a3-4651-35b5-b570-7207f3b88a6c", "description": "Malicious code in find-images.js (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20571"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

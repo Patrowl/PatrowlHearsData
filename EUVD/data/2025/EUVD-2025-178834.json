@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178834", "enisaUuid": "c06ba235-6197-3884-a8e4-3c42a781880b", "description": "Malicious code in framework-triton-string-farout (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187048"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

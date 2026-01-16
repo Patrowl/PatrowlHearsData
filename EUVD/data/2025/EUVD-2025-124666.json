@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124666", "enisaUuid": "6774f789-26a2-3f3d-bf47-6a460a60a530", "description": "Malicious code in mysql-leda-supervisor-cordelia (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145252"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

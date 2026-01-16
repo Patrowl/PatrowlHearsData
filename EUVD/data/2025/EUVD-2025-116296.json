@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116296", "enisaUuid": "4ff5b1b4-f18a-3c73-bf80-2fb747c0d795", "description": "Malicious code in await-redis-bootes-pulsar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139806"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

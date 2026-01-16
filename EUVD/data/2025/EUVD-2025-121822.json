@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121822", "enisaUuid": "57e2a6c4-0f80-3689-9603-7a7784fe14a4", "description": "Malicious code in spawn-mira-canopus-optimize-css-assets-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148103"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

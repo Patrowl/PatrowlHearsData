@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130786", "enisaUuid": "6dd2c659-8cde-30ec-a3f0-a604e993d83b", "description": "Malicious code in @amber-team/react-mobx-utils (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7064"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122407", "enisaUuid": "0a94b544-bf0e-32a7-aeb0-0f65f535b08c", "description": "Malicious code in rollup-plugin-event-reveal-md-cors (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147515"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122831", "enisaUuid": "6dcab890-41d8-34f2-86c7-319f1e1ae604", "description": "Malicious code in readable-spawn-miranda-husky (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147091"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

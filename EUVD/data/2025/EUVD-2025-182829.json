@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182829", "enisaUuid": "f6e05e75-8f29-3226-8fa5-2a7d4df2697e", "description": "Malicious code in sha256-cbc (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33044"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

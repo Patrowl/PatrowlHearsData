@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112355", "enisaUuid": "32c0ffab-b9cb-35f4-ac05-8cce58f52314", "description": "Malicious code in izar-loglevel-unuk-typeorm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143758"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

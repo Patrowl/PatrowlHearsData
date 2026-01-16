@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63549", "enisaUuid": "ffcead08-8211-3d8a-b2b5-cc5999ecea2d", "description": "Malicious code in industrial_bat_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-95005"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

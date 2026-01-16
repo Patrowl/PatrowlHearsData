@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172550", "enisaUuid": "31a5ced6-206b-36b2-adc0-89bee03b099d", "description": "Malicious code in oauth-web-flow (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28021"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177179", "enisaUuid": "f8ef70c6-678b-3954-8543-ccfee23c603c", "description": "Malicious code in pi-permission-debug-decrypt-slow (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188696"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

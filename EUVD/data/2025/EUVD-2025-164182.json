@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164182", "enisaUuid": "f5f48fd7-c328-3b98-a29a-c39bd5ae967b", "description": "Malicious code in enif-version-exec-oauth (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19661"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

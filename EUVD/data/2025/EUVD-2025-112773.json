@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112773", "enisaUuid": "8c699227-c529-3e9b-bf0e-dfa5ee10fb98", "description": "Malicious code in hexo-csrf-slides-install (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143339"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

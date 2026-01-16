@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124091", "enisaUuid": "1ae560e9-b383-306e-9f2f-7a2f09f1a81a", "description": "Malicious code in ophiuchus-nconf-init-relay (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145830"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

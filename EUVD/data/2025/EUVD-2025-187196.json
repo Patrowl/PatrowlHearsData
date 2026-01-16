@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187196", "enisaUuid": "08f6ebe4-ab38-377d-93dc-9b212e654cc5", "description": "Malicious code in typeorm-outercore-xml-axios (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37406"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172181", "enisaUuid": "bdcb1b57-8ec9-3bef-a86d-80effc2e64da", "description": "Malicious code in node-sass-dependencies-solis-zenith (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27652"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

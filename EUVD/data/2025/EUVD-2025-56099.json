@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-56099", "enisaUuid": "8fed461c-6514-3cc9-aeda-822de2df6181", "description": "Malicious code in @rce-web/webpack-resource-plugin (npm)", "datePublished": "2025-11-10T20:21:21", "dateUpdated": "2025-11-12T02:38:44", "baseScore": 0.0, "aliases": ["MAL-2025-61718"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

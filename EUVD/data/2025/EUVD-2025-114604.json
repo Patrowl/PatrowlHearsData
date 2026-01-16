@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114604", "enisaUuid": "fd6d2b8f-c5aa-32f3-8c4c-4ca029625f41", "description": "Malicious code in deimos-sass-loader-quark-dotenv (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141505"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179463", "enisaUuid": "bb4e5013-3a80-343f-a0eb-bf0c81b10b1b", "description": "Malicious code in css-minimizer-webpack-plugin-firebase-corvus-supernova (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186419"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

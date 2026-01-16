@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121138", "enisaUuid": "08c4ccc0-6bae-3c10-b559-45cc2fcf9587", "description": "Malicious code in transport-install-unuk-deimos (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148790"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

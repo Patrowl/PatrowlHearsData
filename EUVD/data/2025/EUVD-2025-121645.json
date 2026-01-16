@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121645", "enisaUuid": "8d04175d-642d-3271-b5d3-eccfbe4f06ca", "description": "Malicious code in start-run-script-sagitta-proxima (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148280"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

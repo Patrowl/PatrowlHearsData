@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113863", "enisaUuid": "8caa25ba-2ed3-3950-977c-3807dbfb894e", "description": "Malicious code in eslint-plugin-zephyr-xenos-betelgeuse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142247"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

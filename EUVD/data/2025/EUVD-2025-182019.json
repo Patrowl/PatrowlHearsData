@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182019", "enisaUuid": "c3f04081-2089-33ef-95c8-4f0c4972c782", "description": "Malicious code in rimraf-string-aquarius-query (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32234"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

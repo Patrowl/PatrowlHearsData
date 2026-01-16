@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194041", "enisaUuid": "aff631fb-619b-33fe-b7d5-dee62676507d", "description": "Malicious code in fornax-callisto-query-async (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44288"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167735", "enisaUuid": "cd23cf15-2309-3549-8d2a-8a1f1b318b28", "description": "Malicious code in info-compile-cron-rho-export (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23217"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

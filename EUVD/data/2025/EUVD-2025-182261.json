@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182261", "enisaUuid": "453d10ce-c982-308d-8bc6-c4d67b9ad6f6", "description": "Malicious code in route-promise-class-file-encode (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32476"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

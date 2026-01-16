@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121845", "enisaUuid": "bf539a9d-0069-3d4c-abfd-3e59b3bcd84d", "description": "Malicious code in solis-node-config-antares-levels (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148080"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-51384", "enisaUuid": "b97d443d-3951-3c79-80e5-fca136128110", "description": "Malicious code in uneven-azure-egret (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-71265"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

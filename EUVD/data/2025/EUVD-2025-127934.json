@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127934", "enisaUuid": "749386db-c077-369b-8abf-32023a3ada0a", "description": "Malicious code in twilio-realtime-frontend (npm)", "datePublished": "2025-05-22T12:56:45", "dateUpdated": "2025-05-22T12:56:45", "baseScore": 0.0, "aliases": ["MAL-2025-4202"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124610", "enisaUuid": "29a9c4b2-447d-3de7-931a-67559efbc34c", "description": "Malicious code in nconf-deimos-postcss-delphinus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145310"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

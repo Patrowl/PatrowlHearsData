@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124215", "enisaUuid": "a8f8a9b0-2dd8-3218-8a7a-2c6528bc4483", "description": "Malicious code in nuxtjs-helmet-winston-registry (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145706"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

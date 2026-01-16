@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125476", "enisaUuid": "b7913ed5-ff7b-3a68-b0c5-f49c0f486af3", "description": "Malicious code in apple-oauth (npm)", "datePublished": "2025-03-03T13:18:50", "dateUpdated": "2025-03-03T13:18:50", "baseScore": 0.0, "aliases": ["MAL-2025-1733"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

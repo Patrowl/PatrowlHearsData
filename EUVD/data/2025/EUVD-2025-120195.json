@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120195", "enisaUuid": "1c9e4687-f1c4-36bb-a36b-66ca09139e6b", "description": "Malicious code in xml-tool-spectron-webdriver-antares (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149736"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

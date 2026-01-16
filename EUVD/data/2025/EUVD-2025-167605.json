@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167605", "enisaUuid": "2502106f-4236-3146-a9d3-04fe498799fd", "description": "Malicious code in import-process-orchestrate-stub-phi (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23087"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

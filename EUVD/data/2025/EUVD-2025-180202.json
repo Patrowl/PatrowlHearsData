@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180202", "enisaUuid": "dd62ba97-e4a9-31ce-8d04-6317c2f9f71f", "description": "Malicious code in authorize-sigma-stub-sun-mock (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185680"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

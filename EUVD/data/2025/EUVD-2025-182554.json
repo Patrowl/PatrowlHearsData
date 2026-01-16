@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182554", "enisaUuid": "c6bace13-7b65-3241-a4a0-940c2f256a96", "description": "Malicious code in scale-cache-resolve-file-wind (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32769"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112379", "enisaUuid": "f7d241b5-0ba3-33bc-9a64-1c1f331f2359", "description": "Malicious code in iota-nightmare-sqlite-bunyan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143734"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

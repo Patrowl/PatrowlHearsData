@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112029", "enisaUuid": "26fdf733-7cf5-3c1d-8f2d-72c5e199aa09", "description": "Malicious code in jwt-readable-registry-soap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144084"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196837", "enisaUuid": "4b9057d3-6d2b-3cf2-95b3-5d4205ce8e7a", "description": "Malicious code in @tr61/test-pkg (npm)", "datePublished": "2025-09-09T16:23:43", "dateUpdated": "2025-09-09T16:23:43", "baseScore": 0.0, "aliases": ["MAL-2025-47113"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

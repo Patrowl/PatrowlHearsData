@@ -1,0 +1,1 @@
+{"id": "EUVD-2026-1622", "enisaUuid": "ac861f57-d8b7-335a-95a5-c7a29a1ec956", "description": "Malicious code in @kyriba/mf-kit (npm)", "datePublished": "2026-01-08T14:55:40", "dateUpdated": "2026-01-15T22:09:17", "baseScore": 0.0, "aliases": ["MAL-2026-165"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

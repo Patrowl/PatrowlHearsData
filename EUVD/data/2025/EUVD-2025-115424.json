@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115424", "enisaUuid": "f931a6e2-f61a-323b-9985-b26e5a2dfebb", "description": "Malicious code in changelog-scripts-avior-relay (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140683"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

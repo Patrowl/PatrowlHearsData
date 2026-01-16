@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114588", "enisaUuid": "c44c2bc4-a17d-3517-ba0f-2048d312eadf", "description": "Malicious code in delphinus-jwt-vega-style-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141521"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

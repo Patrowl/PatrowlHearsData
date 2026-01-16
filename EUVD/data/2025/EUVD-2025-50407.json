@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-50407", "enisaUuid": "f176316f-4e05-359a-989a-688270eae3f0", "description": "Malicious code in dependent_limpet_z3n (npm)", "datePublished": "2025-11-10T18:02:22", "dateUpdated": "2025-11-10T18:02:22", "baseScore": 0.0, "aliases": ["MAL-2025-60262"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

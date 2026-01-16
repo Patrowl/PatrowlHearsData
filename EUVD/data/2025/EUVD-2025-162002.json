@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162002", "enisaUuid": "f19d2736-a7ca-304f-ac26-a0ec2e1cb3bb", "description": "Malicious code in consul-partitions (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17503"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

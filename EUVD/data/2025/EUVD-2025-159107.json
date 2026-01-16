@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159107", "enisaUuid": "62d6624a-271d-3297-a85a-b357edcab355", "description": "Malicious code in antlr4-graps (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14606"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

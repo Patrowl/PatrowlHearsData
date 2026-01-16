@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165612", "enisaUuid": "6670fa74-b5b0-350c-b0c8-2260f08cb11a", "description": "Malicious code in fx-private-relay (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21093"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

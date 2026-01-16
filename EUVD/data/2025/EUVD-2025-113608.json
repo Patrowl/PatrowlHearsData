@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113608", "enisaUuid": "25f5267f-77db-32d5-aa66-4608647076b8", "description": "Malicious code in firebase-meissa-loopback-event (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142503"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116478", "enisaUuid": "e3ab7d9f-070f-3370-b7b5-3567cef37d0f", "description": "Malicious code in async-europa-exec-solis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139624"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

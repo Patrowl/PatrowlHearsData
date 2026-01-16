@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113906", "enisaUuid": "07d5986f-94dc-3d2d-8e2d-266fe203d28a", "description": "Malicious code in eslint-config-pegasus-nebula-hydra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142204"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

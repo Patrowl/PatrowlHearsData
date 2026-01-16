@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166600", "enisaUuid": "06d78b81-a9a8-333f-8ffd-d17725e5d492", "description": "Malicious code in h1-cli-ext-storage-vault (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22082"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

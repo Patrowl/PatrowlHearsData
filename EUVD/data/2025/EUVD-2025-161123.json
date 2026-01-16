@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161123", "enisaUuid": "da1acfde-1e26-34e0-b5ec-b11af0510d33", "description": "Malicious code in cashfree-pg-koa-app (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16622"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

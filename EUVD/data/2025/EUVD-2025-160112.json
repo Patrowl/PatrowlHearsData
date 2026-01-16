@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160112", "enisaUuid": "4d078c7a-f8f5-381f-942d-55a82985cf2a", "description": "Malicious code in beta-decompress-daemon-minify-simple (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15611"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

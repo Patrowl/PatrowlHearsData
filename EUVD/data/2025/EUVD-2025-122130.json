@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122130", "enisaUuid": "f1992336-f5d9-3aaa-a432-e914ea6ccf63", "description": "Malicious code in sedna-sequelize-less-loader-rollup-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147793"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

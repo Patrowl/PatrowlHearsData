@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197518", "enisaUuid": "2887eece-91fb-3a1e-9193-c40be3473ff6", "description": "Malicious code in detect-web-app (npm)", "datePublished": "2025-10-23T19:30:16", "dateUpdated": "2025-10-23T19:30:16", "baseScore": 0.0, "aliases": ["MAL-2025-48833"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

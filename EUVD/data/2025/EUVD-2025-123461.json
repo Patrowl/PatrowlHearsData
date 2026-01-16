@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123461", "enisaUuid": "16936484-6b02-31d5-9623-5009ff94a122", "description": "Malicious code in prettier-cli-css-minimizer-webpack-plugin-node-sass (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146461"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191354", "enisaUuid": "2490ae91-1e37-357c-ac43-48c11c90db6a", "description": "Malicious code in onnxruntime-reactnative-example (npm)", "datePublished": "2025-08-28T07:35:09", "dateUpdated": "2025-08-28T07:35:09", "baseScore": 0.0, "aliases": ["MAL-2025-41587"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

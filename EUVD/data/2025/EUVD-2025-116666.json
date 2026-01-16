@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116666", "enisaUuid": "64d599d8-b3aa-3e9d-a313-f613a777aa3c", "description": "Malicious code in antares-rocket-server-mongoose (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139436"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

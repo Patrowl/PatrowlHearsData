@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-53598", "enisaUuid": "60664169-e00a-38ea-b2b8-d139635e7cdf", "description": "Malicious code in kind-plum-mongoose (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-69051"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

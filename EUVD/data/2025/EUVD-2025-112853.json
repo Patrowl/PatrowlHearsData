@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112853", "enisaUuid": "a9137cf9-8441-3ef9-95ab-4f6651a11abb", "description": "Malicious code in helmet-postgres-semantic-ui-frontend (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143259"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

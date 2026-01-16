@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181070", "enisaUuid": "8c0e2cba-f378-35b1-9a6a-f2d3cc332926", "description": "Malicious code in query-simple-hot-sanitize-balance (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31284"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

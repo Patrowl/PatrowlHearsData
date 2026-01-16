@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180431", "enisaUuid": "8dc9f6f8-7f39-3130-8462-5e2872654c40", "description": "Malicious code in andromeda-webpack-nodejs-sadr (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185457"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

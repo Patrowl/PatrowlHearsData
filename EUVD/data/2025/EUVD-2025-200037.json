@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200037", "enisaUuid": "15d3a7c2-4827-3da1-b7c1-28901b798bca", "description": "Malicious code in yq-go (npm)", "datePublished": "2025-12-01T16:16:28", "dateUpdated": "2025-12-01T16:16:28", "baseScore": 0.0, "aliases": ["MAL-2025-191532"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

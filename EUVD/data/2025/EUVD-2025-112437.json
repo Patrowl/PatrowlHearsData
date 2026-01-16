@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112437", "enisaUuid": "c95dfd8d-281d-31e4-a10c-0402421477c1", "description": "Malicious code in install-europa-aquarius-cli (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143676"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

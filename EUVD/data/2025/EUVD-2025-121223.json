@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121223", "enisaUuid": "3f4a5318-1893-3423-b8d9-6d99b2b1a3e3", "description": "Malicious code in toml-commitizen-vega-upgrade (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148705"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

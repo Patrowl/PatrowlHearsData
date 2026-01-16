@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179895", "enisaUuid": "30b4eebf-0283-3c30-86a9-adab4684e35f", "description": "Malicious code in callisto-europa-buffer-nodemon (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185987"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

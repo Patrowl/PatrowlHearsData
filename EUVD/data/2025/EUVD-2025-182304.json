@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182304", "enisaUuid": "72d82fa6-a97b-3091-8ca3-c2249b459b56", "description": "Malicious code in rtotime (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32519"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

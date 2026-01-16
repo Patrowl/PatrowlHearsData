@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130034", "enisaUuid": "5465c72c-3c61-3b38-a41e-7ec8b9e5b8eb", "description": "Malicious code in rns-partner-registrar (npm)", "datePublished": "2025-07-25T19:53:25", "dateUpdated": "2025-07-25T19:53:25", "baseScore": 0.0, "aliases": ["MAL-2025-6307"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

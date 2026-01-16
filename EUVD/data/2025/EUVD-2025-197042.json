@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197042", "enisaUuid": "8ac9386e-fdb4-3537-a6f7-f39dfe87a4da", "description": "Malicious code in vault-hux-common (npm)", "datePublished": "2025-09-24T16:51:11", "dateUpdated": "2025-09-24T16:51:11", "baseScore": 0.0, "aliases": ["MAL-2025-47516"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

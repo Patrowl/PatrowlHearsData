@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124194", "enisaUuid": "cf320336-fe1b-3517-a7af-43b7495040ec", "description": "Malicious code in oauth-dotenv-safe-sagitta-postgres (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145727"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

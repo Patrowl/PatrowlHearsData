@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161177", "enisaUuid": "18313a5e-0cf7-3a55-9ef6-5d6da15177b0", "description": "Malicious code in cbfour (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16676"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

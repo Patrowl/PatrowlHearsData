@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179978", "enisaUuid": "210644c6-3ead-3369-aaa5-92226ea2a033", "description": "Malicious code in boson-module-subscription-scripts (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185904"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

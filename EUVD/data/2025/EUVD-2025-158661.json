@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-158661", "enisaUuid": "341fcc4a-5ecb-39a8-9d32-7ebd356077ca", "description": "Malicious code in add-user (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14070"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

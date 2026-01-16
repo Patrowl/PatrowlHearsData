@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178109", "enisaUuid": "03c05c8b-a231-3b0d-94f5-17e031a2949e", "description": "Malicious code in library-babel-meteor-kronos (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187773"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

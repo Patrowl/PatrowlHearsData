@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168482", "enisaUuid": "12523812-d52f-31fa-b0b0-09b6f79497eb", "description": "Malicious code in jsonlift (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23964"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

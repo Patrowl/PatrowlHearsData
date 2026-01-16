@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130483", "enisaUuid": "28050cfd-7ef7-300b-8bca-fec110179ad6", "description": "Malicious code in sirius-import-article (npm)", "datePublished": "2025-07-28T18:00:17", "dateUpdated": "2025-08-29T06:43:17", "baseScore": 0.0, "aliases": ["MAL-2025-6760"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

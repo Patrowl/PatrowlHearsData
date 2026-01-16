@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111244", "enisaUuid": "f7c0bd68-5c7d-3636-ae81-f832a70ad9cd", "description": "Malicious code in metalsmith-build-cressida-superagent (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144871"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

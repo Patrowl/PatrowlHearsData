@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176926", "enisaUuid": "120ba3a8-6e7a-312b-aad7-1a7ab0d2db5b", "description": "Malicious code in publish-json-solis-apollo (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188949"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

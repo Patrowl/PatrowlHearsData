@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195314", "enisaUuid": "7c254380-afce-39b7-a9bb-7de97d18eb52", "description": "Malicious code in pino-style-loader-uninstall-hyperion (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45562"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

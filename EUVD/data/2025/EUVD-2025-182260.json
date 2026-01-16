@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182260", "enisaUuid": "f34a1bd7-c18c-3013-9a06-1c12f23d2948", "description": "Malicious code in route-air-private-static-bash (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32475"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

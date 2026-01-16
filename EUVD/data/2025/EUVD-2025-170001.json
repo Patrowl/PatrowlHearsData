@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170001", "enisaUuid": "5b6f22b7-4d4d-3fc3-bb5e-4b3c829d2b70", "description": "Malicious code in load-runtime-benchmark-hash-cluster (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25472"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

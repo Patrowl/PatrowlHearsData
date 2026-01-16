@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171822", "enisaUuid": "f364d424-725d-3557-a0c0-a70e1117e5b0", "description": "Malicious code in neptune-tool-postcss-publish (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27293"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

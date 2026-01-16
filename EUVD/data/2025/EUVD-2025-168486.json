@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168486", "enisaUuid": "664325d2-7f56-3317-ba58-d00b9ab97135", "description": "Malicious code in jsonp-reveal-md-rollup-plugin-envconfig (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23968"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

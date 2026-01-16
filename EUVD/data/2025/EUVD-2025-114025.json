@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114025", "enisaUuid": "e094fd99-c8b3-39bb-b5d5-7fd01f8f7025", "description": "Malicious code in envconfig-relay-request-weywot (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142085"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

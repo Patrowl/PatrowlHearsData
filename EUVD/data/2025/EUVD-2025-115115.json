@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115115", "enisaUuid": "0d7a8e5f-fa91-3355-b1d6-941a104e8844", "description": "Malicious code in commitlint-miranda-express-eslint-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140993"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

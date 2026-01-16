@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183877", "enisaUuid": "7955d889-39b9-34d8-8ab7-e398f71e7419", "description": "Malicious code in string-await-bad-uglify-small (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34092"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

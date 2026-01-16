@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195569", "enisaUuid": "8d28859c-0894-3c66-a7ca-29fcf75df692", "description": "Malicious code in resolvers-geckodriver-radioastronomy-spectron-webdriver (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45817"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179733", "enisaUuid": "672a573e-2dab-3c83-97d6-a114fa0024b5", "description": "Malicious code in chromedriver-json-polaris-hyperion (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186149"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

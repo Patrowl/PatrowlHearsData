@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166097", "enisaUuid": "3f08e16e-6069-33e4-924a-004629397396", "description": "Malicious code in global-baryon-dotenv-parse-variables-frontend (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21578"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

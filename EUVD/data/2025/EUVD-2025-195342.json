@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195342", "enisaUuid": "1d90a815-a96b-33d2-a27e-633b5ce41e2e", "description": "Malicious code in primitive-affect-turn (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45590"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

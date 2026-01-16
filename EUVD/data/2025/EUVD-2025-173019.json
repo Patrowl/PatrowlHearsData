@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173019", "enisaUuid": "8403b7ce-0ee1-36b1-8102-be3ac752acf5", "description": "Malicious code in org.eclipse.n4js.sample.utils (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28490"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

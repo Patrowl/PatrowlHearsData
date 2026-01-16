@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176437", "enisaUuid": "9f6bb46d-2e55-3afd-b794-c9fd0839afb0", "description": "Malicious code in semantic-release-aether-buffer-concurrently (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189438"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

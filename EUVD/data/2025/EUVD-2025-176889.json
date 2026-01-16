@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176889", "enisaUuid": "754ad3a3-5b21-38b9-bfc8-3a579019b4a6", "description": "Malicious code in pyxis-alphard-event-html-webpack-plugin (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188986"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

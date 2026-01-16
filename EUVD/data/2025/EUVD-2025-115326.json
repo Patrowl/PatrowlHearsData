@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115326", "enisaUuid": "57c0432a-6786-381d-a8ac-df528b7f80d4", "description": "Malicious code in chromedriver-ophiuchus-prompts-enif (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140781"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

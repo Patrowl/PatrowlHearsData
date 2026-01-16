@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121026", "enisaUuid": "f2169668-aa0b-39aa-8b0c-8e52649b3df5", "description": "Malicious code in ultra-node-config-parcel-registry (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148902"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

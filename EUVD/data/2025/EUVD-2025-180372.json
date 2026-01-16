@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180372", "enisaUuid": "3cfe8ee1-97bf-3dc3-a77a-92d9ffc2580b", "description": "Malicious code in aquarius-relay-pulsar-eslint-config (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185516"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

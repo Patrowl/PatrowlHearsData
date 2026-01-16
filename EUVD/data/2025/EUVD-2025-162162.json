@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162162", "enisaUuid": "1cc29587-c69b-3247-a556-7e7bca162da9", "description": "Malicious code in create-react-kit (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17663"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

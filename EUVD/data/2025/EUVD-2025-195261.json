@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195261", "enisaUuid": "e53a413d-032d-3954-9bf3-5d07c11d0c98", "description": "Malicious code in passport-pino-public-telesto (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45509"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123695", "enisaUuid": "c942ece5-4244-30cf-a5f8-6ae5820067a4", "description": "Malicious code in pino-mongodb-query-kaus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146226"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

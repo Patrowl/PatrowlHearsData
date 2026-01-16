@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116738", "enisaUuid": "4aef1ad2-da1f-3fcf-95ed-343499e8edba", "description": "Malicious code in altair-rollup-plugin-jasmine-chai (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139364"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

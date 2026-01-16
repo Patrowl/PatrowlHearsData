@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114192", "enisaUuid": "8bebee3c-102e-3e25-8a2f-1168e6c67c7a", "description": "Malicious code in electron-frontend-polaris-aquarius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141918"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

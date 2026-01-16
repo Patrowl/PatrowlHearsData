@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111656", "enisaUuid": "0a7d81fc-d9b4-3893-8e63-433d40ee3103", "description": "Malicious code in lint-staged-gridsome-less-loader-standard (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144458"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

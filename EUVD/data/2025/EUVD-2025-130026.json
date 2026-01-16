@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130026", "enisaUuid": "10ba7122-deb1-3fcd-8cd7-fcfb06b3fcb9", "description": "Malicious code in pass-rust-core (npm)", "datePublished": "2025-07-24T15:05:26", "dateUpdated": "2025-07-24T15:05:26", "baseScore": 0.0, "aliases": ["MAL-2025-6299"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

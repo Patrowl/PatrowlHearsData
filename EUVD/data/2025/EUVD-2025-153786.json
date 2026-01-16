@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153786", "enisaUuid": "bf829096-c426-3eab-be3b-d874f88ca98e", "description": "Malicious code in @scdb/vigilant-disco (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9285"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114571", "enisaUuid": "2a69fb01-2448-32bd-b309-148a0f4e2045", "description": "Malicious code in deneb-centauri-pulsar-google (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141538"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

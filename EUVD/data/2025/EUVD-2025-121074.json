@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121074", "enisaUuid": "42ffa500-913d-3263-970e-8637a04335f0", "description": "Malicious code in typeorm-pipe-dynamo-jwt (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148854"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

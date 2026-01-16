@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121538", "enisaUuid": "a594e7ca-63dc-3359-ab6f-bd2e4028549a", "description": "Malicious code in supervisor-achernar-grunt-pavo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148388"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

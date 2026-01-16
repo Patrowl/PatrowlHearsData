@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197410", "enisaUuid": "ea459c6c-11e6-3e4b-99f7-0982062f9bfe", "description": "Malicious code in gitlab-accountid (npm)", "datePublished": "2025-10-22T02:13:20", "dateUpdated": "2025-10-22T02:13:20", "baseScore": 0.0, "aliases": ["MAL-2025-48685"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

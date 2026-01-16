@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-35024", "enisaUuid": "c639f78e-5fbe-37eb-8dfc-ee486fe512c4", "description": "Malicious code in @odoreltd/osiris-api (npm)", "datePublished": "2025-10-20T02:55:30", "dateUpdated": "2025-10-20T02:55:30", "baseScore": 0.0, "aliases": ["MAL-2025-48517"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

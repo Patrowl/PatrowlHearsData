@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120936", "enisaUuid": "e514578e-78ae-36ab-9131-9494470f1c3c", "description": "Malicious code in update-child-process-xerxes-postcss (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148993"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

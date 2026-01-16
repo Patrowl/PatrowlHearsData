@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159796", "enisaUuid": "c285db8d-ac0d-3503-80f9-88455604859d", "description": "Malicious code in babel-plugin-transform-decorator-props (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15295"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124192", "enisaUuid": "19bf3e2f-115d-36d1-9e68-32f447305911", "description": "Malicious code in oauth-eslint-event-levels (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145729"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

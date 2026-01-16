@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112458", "enisaUuid": "22cb15e6-a9a0-3dad-bb1b-793fa3fb6b7f", "description": "Malicious code in inquirer-prettier-plugin-markdown-writable-fomalhaut (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143655"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

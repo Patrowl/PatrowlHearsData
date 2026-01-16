@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165639", "enisaUuid": "7df97eb9-abfb-3e14-88e2-f07e95aee019", "description": "Malicious code in gajira-cli (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21120"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

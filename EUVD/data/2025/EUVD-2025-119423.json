@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-119423", "enisaUuid": "2bf173b6-cd32-3edf-a2d5-cc79dad7adf8", "description": "Malicious code in candra-kue30-sluey (npm)", "datePublished": "2025-11-11T22:56:38", "dateUpdated": "2025-11-11T22:56:38", "baseScore": 0.0, "aliases": ["MAL-2025-132369"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

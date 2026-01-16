@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193813", "enisaUuid": "a894452a-37e7-33b1-ad15-1d096f521b3e", "description": "Malicious code in dotenv-safe-sedna-procyon-halley (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44060"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

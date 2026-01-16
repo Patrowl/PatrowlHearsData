@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179498", "enisaUuid": "cc2b9111-4063-3bd0-b8b2-2dd3a419e589", "description": "Malicious code in cross-env-native-centaurus-dynamo (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186384"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

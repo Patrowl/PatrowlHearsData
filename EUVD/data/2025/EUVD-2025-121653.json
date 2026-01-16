@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121653", "enisaUuid": "5a1beb40-6c4f-3ee4-ba1f-971d9563fc41", "description": "Malicious code in start-izar-meteor-antares (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148272"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

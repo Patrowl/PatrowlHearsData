@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113792", "enisaUuid": "edfe0f62-2acc-323a-8f63-fbd53a3e2744", "description": "Malicious code in event-nightwatch-stop-xenon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142318"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

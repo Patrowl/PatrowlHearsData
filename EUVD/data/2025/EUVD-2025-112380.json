@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112380", "enisaUuid": "5880d72a-e2cd-3800-91f1-a4c751c5995c", "description": "Malicious code in iota-nestjs-firebase-rest (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143733"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

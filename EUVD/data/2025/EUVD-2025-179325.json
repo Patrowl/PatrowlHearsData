@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179325", "enisaUuid": "54fc79d7-ed61-3d83-b1d5-e48c50e004e6", "description": "Malicious code in dependencies-taurus-dotenv-safe-ora (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186557"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

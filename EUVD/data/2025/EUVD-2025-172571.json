@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172571", "enisaUuid": "841e6fb1-c907-378a-87a0-6db22bd5b2a0", "description": "Malicious code in object-cache-dog-test-byte (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28042"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

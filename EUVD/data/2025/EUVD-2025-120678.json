@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120678", "enisaUuid": "4316fb43-12fb-3f75-acab-356de327ddbb", "description": "Malicious code in vulcan-rate-limiter-library-tailwindcss (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149251"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

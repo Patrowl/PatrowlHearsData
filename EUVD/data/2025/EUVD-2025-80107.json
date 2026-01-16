@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80107", "enisaUuid": "ac951777-4bd9-3604-9a91-f3dc63c18b8f", "description": "Malicious code in vital_mastodon_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-110591"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

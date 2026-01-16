@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111290", "enisaUuid": "78fec1f0-2657-32dd-9245-827b487edb33", "description": "Malicious code in meissa-pipe-dependencies-promise (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144825"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115165", "enisaUuid": "df6f201e-6c14-3c50-a120-1b89037abfe9", "description": "Malicious code in commitizen-start-radiant-janus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140943"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

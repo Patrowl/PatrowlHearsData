@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112993", "enisaUuid": "150a65da-512f-393b-8ccc-dd9453b328e1", "description": "Malicious code in gulp-nightmare-postcss-cordelia (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143119"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113090", "enisaUuid": "59f542a8-f9d2-3979-9631-b2c4ef20f613", "description": "Malicious code in gravity-csrf-shelljs-celeste (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143022"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

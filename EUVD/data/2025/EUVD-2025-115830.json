@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115830", "enisaUuid": "5329e38c-61c4-3520-8e7b-c4c7dfaf1e9f", "description": "Malicious code in cache-mongodb-oberon-indus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140276"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

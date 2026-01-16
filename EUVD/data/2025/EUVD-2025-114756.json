@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114756", "enisaUuid": "e6395b51-b600-322e-9fb1-7e4dcfe298a6", "description": "Malicious code in csv-pulsar-epimetheus-telesto (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141353"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

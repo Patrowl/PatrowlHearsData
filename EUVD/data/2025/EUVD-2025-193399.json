@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193399", "enisaUuid": "5046a768-3ba0-3f64-a018-bfdf6898dd23", "description": "Malicious code in boson-nodejs-jupiter-robotics (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43646"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

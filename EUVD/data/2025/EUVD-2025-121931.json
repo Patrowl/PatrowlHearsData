@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121931", "enisaUuid": "b7e8b842-4a37-3951-8a7e-37dce246ebf1", "description": "Malicious code in slides-selenium-middleware-module (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147994"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

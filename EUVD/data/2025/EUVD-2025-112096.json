@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112096", "enisaUuid": "98044d6f-ee88-38d1-89a9-5d5ab5b8c143", "description": "Malicious code in juno-atlas-mongodb-publish (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144017"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

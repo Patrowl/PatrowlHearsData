@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116683", "enisaUuid": "31f1c57b-41dc-3ef7-ad2f-d96cef32c998", "description": "Malicious code in antares-less-loader-middleware-sequelize (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139419"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

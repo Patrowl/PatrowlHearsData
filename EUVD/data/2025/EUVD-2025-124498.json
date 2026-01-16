@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124498", "enisaUuid": "a6d5a3f1-ee99-3322-bbf3-bf9d22e0e5a8", "description": "Malicious code in nextjs-procyon-postcss-chai (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145423"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

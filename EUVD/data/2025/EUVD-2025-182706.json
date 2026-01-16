@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182706", "enisaUuid": "68d2f435-69a4-3ade-a566-176430162423", "description": "Malicious code in self-require-trap (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32921"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

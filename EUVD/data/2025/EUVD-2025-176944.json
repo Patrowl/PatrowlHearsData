@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176944", "enisaUuid": "fd035884-7f42-39e2-af6b-bb4eabe1e6c2", "description": "Malicious code in psi-sudo-key-simulate-double (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188931"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

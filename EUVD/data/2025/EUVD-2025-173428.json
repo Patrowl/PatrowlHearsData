@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173428", "enisaUuid": "27d890cf-7c3b-3233-bf67-2754309fb61c", "description": "Malicious code in passport-draco-mesosphere-eslint (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28899"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

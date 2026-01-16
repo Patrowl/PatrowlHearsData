@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125523", "enisaUuid": "2a46bcc9-0528-3382-b140-23fb522e5354", "description": "Malicious code in dropbox-analytics (npm)", "datePublished": "2025-03-03T13:24:10", "dateUpdated": "2025-03-03T13:24:10", "baseScore": 0.0, "aliases": ["MAL-2025-1780"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

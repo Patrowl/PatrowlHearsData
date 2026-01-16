@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123868", "enisaUuid": "69e8ba23-00d9-3d8e-a1c8-03f3c43a2cb0", "description": "Malicious code in pegasus-spectron-jupiter-winston (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146053"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

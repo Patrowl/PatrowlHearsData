@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112700", "enisaUuid": "23bdc2a1-ed97-3e7e-9d7d-60a5558af6f8", "description": "Malicious code in husky-child-process-lint-staged-dynamo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143412"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

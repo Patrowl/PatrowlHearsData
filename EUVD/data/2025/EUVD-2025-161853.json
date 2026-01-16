@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161853", "enisaUuid": "48879a11-be1f-3024-b440-a35f8df838de", "description": "Malicious code in com.unity.ext.nunit (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17354"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113923", "enisaUuid": "d119fdae-c34a-390d-8d8a-fb1aa89a4941", "description": "Malicious code in eslint-antd-babel-playwright (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142187"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

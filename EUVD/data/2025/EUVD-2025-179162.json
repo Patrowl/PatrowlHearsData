@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179162", "enisaUuid": "d82b07a4-b1e2-3598-94be-658c24cbd409", "description": "Malicious code in emulate-catch-file-mu-parse (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186720"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121683", "enisaUuid": "e93fa4b4-3e6a-3c36-b14e-f55e61703adf", "description": "Malicious code in sqlite-transform-jest-loop (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148242"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

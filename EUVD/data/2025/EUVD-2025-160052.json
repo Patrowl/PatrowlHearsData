@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160052", "enisaUuid": "3730e34a-ebb1-3f30-b3b5-456dad2bdc53", "description": "Malicious code in be-kanban-eventbase-importer (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15551"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

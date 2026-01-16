@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164363", "enisaUuid": "f6c159b1-894d-3fc8-af88-e3ddc2ac0830", "description": "Malicious code in eslint-config-volebonet (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19843"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

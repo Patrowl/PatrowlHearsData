@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113875", "enisaUuid": "5c7ecc8a-59b7-3b4a-991b-794cd3e19fcf", "description": "Malicious code in eslint-plugin-perseus-css-loader-eclipse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142235"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

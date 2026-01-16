@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164609", "enisaUuid": "e322274a-5d1d-3d09-866e-0c4c58a72d05", "description": "Malicious code in express-websockets-sedna-mongodb (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20089"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

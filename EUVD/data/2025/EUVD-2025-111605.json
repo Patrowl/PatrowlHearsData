@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111605", "enisaUuid": "004d2ee4-728f-33c2-bfec-dd9f270b7fff", "description": "Malicious code in loglevel-indus-spawn-scorpius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144510"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

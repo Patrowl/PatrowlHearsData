@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111825", "enisaUuid": "3977a354-cf3d-3513-9945-deea0b7e84ab", "description": "Malicious code in leda-publish-koa-arcturus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144288"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

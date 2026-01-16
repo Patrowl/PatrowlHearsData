@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123321", "enisaUuid": "20de5948-cb8a-3aa2-90ae-d0762b4d5246", "description": "Malicious code in procyon-kastra-jwt-css-minimizer-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146601"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

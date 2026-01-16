@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-99124", "enisaUuid": "acc27c15-939b-3b8f-ae7a-07235ed67b6b", "description": "Malicious code in essential_vicuna_z3n (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-126287"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

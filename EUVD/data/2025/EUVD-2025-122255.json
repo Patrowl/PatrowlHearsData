@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122255", "enisaUuid": "22c13ec0-a246-37df-b7fe-58880f664bb9", "description": "Malicious code in sass-loader-foundation-jsonp-react-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147667"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

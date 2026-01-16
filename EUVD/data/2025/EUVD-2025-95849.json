@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-95849", "enisaUuid": "572f88ca-f230-3880-99ef-31d97a055950", "description": "Malicious code in patient_stork_z3n (npm)", "datePublished": "2025-11-11T20:11:48", "dateUpdated": "2025-11-11T20:11:48", "baseScore": 0.0, "aliases": ["MAL-2025-122451"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

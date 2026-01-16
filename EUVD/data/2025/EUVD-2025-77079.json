@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77079", "enisaUuid": "d7129977-36fc-3c49-bb37-6b8d96530942", "description": "Malicious code in distinct_bison-tool (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-101643"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

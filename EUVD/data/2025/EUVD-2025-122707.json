@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122707", "enisaUuid": "5d9d1f29-1813-3414-9db5-3d67224e076b", "description": "Malicious code in relay-zenobia-webdriver-mocha-jekyll (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147215"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

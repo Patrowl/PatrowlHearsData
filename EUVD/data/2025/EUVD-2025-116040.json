@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116040", "enisaUuid": "bd86c4d7-7bd8-35de-828b-edb033cb38e6", "description": "Malicious code in blitz-supervisor-frontend-bunyan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140062"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

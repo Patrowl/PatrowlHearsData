@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131679", "enisaUuid": "7196ddd0-1159-34bc-8311-b14304717827", "description": "Malicious code in @frozen-team-qa/playwright-slack-reporter (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7957"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

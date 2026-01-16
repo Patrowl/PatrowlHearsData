@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111652", "enisaUuid": "493b13c9-e358-314d-aa4e-2fb2233ff28b", "description": "Malicious code in lint-staged-mutation-orbit-triton (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144462"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120680", "enisaUuid": "baf567d6-c75d-33ca-914a-d35fdfe84d71", "description": "Malicious code in vulcan-node-sass-commitlint-config-angular-puppeteer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149249"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

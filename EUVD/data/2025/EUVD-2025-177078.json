@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177078", "enisaUuid": "5ecb285f-cf35-3be8-aaee-3f64e0ab46db", "description": "Malicious code in prettier-luna-mysql-stratosphere (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188797"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

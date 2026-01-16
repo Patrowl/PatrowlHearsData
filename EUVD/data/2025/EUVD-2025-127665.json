@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127665", "enisaUuid": "5be2ff32-6c69-360b-974e-a3b3d2315adf", "description": "Malicious code in reload-nucleus-views-on-compile (npm)", "datePublished": "2025-05-17T17:35:20", "dateUpdated": "2025-05-17T17:35:20", "baseScore": 0.0, "aliases": ["MAL-2025-3932"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

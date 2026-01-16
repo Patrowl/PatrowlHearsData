@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173474", "enisaUuid": "722d4257-b39a-31c1-baa3-aa6ddcb96eb9", "description": "Malicious code in payments-quickstart (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28945"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

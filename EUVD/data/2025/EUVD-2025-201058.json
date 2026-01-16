@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-201058", "enisaUuid": "b90ed158-d37a-3242-aff4-b9cf4f2325ab", "description": "Malicious code in elf-stats-storybook-marshmallow-471 (npm)", "datePublished": "2025-12-03T17:22:10", "dateUpdated": "2025-12-03T17:22:10", "baseScore": 0.0, "aliases": ["MAL-2025-192236"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

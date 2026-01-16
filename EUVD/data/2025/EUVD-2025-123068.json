@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123068", "enisaUuid": "5985f094-0ed3-3179-96bc-d7c3c9752238", "description": "Malicious code in puppeteer-init-eclipse-quantum (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146854"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

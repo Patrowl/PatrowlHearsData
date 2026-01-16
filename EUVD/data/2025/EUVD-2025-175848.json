@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175848", "enisaUuid": "bd4923d3-5af3-3948-a4f9-82fc40dc790e", "description": "Malicious code in uglify-parse-socket-new-error (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190027"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

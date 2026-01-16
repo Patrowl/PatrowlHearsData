@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121091", "enisaUuid": "4af14fb1-5741-3409-87f8-55fb9de81d53", "description": "Malicious code in typeorm-barnard-pino-pretty-prompts (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148837"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

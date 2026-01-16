@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125654", "enisaUuid": "9a5acbd7-b945-379f-9b89-e72712e3430f", "description": "Malicious code in pattern-picker (npm)", "datePublished": "2025-03-03T13:35:10", "dateUpdated": "2025-03-03T13:35:10", "baseScore": 0.0, "aliases": ["MAL-2025-1912"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

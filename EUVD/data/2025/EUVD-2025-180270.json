@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180270", "enisaUuid": "df28814b-1987-35c9-973f-6132fe5987f5", "description": "Malicious code in async-eta-try-balance-java (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185618"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

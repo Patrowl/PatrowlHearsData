@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-147351", "enisaUuid": "053ca4ba-663f-3d50-8ccb-60bacfe0dc0b", "description": "Malicious code in uafaru-t1iut-dtut (npm)", "datePublished": "2025-11-12T16:47:05", "dateUpdated": "2025-11-12T16:47:05", "baseScore": 0.0, "aliases": ["MAL-2025-169461"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

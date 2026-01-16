@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164345", "enisaUuid": "6562c25f-2689-3b3f-a171-30941acdb5c9", "description": "Malicious code in eslint-config-colourbox-example (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19824"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

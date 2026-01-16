@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123358", "enisaUuid": "bc8d822f-cd5d-3850-bc91-1640447826e7", "description": "Malicious code in process-prettier-plugin-markdown-ganymede-hydra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146564"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

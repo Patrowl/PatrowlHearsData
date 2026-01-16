@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-158046", "enisaUuid": "8512b15f-1d1f-3689-bdd1-2843bd1e877b", "description": "Malicious code in @zalastax/nolb-randb (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-13545"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191028", "enisaUuid": "c341c2bc-ed2b-3714-b634-b7a9552d7510", "description": "Malicious code in @navify-platform/i18n (npm)", "datePublished": "2025-08-20T15:06:08", "dateUpdated": "2025-08-20T15:06:08", "baseScore": 0.0, "aliases": ["MAL-2025-41250"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120683", "enisaUuid": "ca6a45aa-497a-3f07-836c-11c8f7e08da0", "description": "Malicious code in vulcan-nconf-quark-child-process (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149246"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

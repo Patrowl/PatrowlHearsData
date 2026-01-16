@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120618", "enisaUuid": "5f6de056-3b9d-37cc-a13f-7a1253f3c709", "description": "Malicious code in webdriver-manager-cassini-husky-apex (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149311"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

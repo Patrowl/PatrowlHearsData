@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159801", "enisaUuid": "ee6ed8a2-54c4-3031-832f-9c52979f468c", "description": "Malicious code in babel-plugin-transform-raptor-template (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15300"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

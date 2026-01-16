@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120054", "enisaUuid": "bb9a407d-63e8-396f-8ad2-bc3aa1d35fd3", "description": "Malicious code in zephyr-airbnb-procyon-shelljs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149878"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178419", "enisaUuid": "eb259e53-4894-36c5-bd47-2a020fdb3f22", "description": "Malicious code in inflation-antd-dependencies-phoenix (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187463"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

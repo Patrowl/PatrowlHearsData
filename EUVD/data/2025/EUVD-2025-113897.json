@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113897", "enisaUuid": "1a158330-8b43-3f27-9d10-44e2dfdf73d3", "description": "Malicious code in eslint-config-wezen-orbit-toml (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142213"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

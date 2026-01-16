@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120407", "enisaUuid": "a23f8d44-8746-3559-bca8-066ebf3b2be6", "description": "Malicious code in winston-registry-miranda-husky (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149523"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

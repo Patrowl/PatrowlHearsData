@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-192702", "enisaUuid": "d82e84fe-dcb5-33b7-8a4b-e234ffd4a1ac", "description": "Malicious code in @teasource/nemo-nostrum-quos (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-42949"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

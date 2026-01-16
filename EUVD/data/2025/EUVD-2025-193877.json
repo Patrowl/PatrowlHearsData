@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193877", "enisaUuid": "1004d5ba-a7d1-3f79-a68d-a9f42731aeb5", "description": "Malicious code in elektra-cross-env-deimos-ganymede (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44124"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

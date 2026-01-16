@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115550", "enisaUuid": "4b5a3bc9-099a-3a05-ab06-fefbda474d69", "description": "Malicious code in centaurus-vuepress-concurrently-koa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140557"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

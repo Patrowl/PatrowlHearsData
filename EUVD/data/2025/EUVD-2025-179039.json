@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179039", "enisaUuid": "5ddf8edd-9186-387e-8fee-cdc71a9ab847", "description": "Malicious code in eslint-plugin-fornax-auth-dactyl (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186843"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

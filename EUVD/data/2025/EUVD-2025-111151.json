@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111151", "enisaUuid": "15c41034-c8b8-3f37-afd7-74421dedd378", "description": "Malicious code in middleware-schema-venus-solis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144964"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

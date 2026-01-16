@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183570", "enisaUuid": "65fad1ec-2261-397b-afbf-62c9e6dc989a", "description": "Malicious code in splunk_formatter (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33785"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

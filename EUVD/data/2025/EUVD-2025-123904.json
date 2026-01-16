@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123904", "enisaUuid": "7a5dd11f-a315-3669-91e9-84d13976b298", "description": "Malicious code in pegasus-backend-enif-cygnus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146017"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

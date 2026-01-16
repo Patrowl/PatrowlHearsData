@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176991", "enisaUuid": "1c8f52a0-7e1f-34d8-87cb-93637ba311b2", "description": "Malicious code in protected-old-compile-java-enum (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188884"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113950", "enisaUuid": "f2a760b6-09b6-3330-82ed-73ceb506ac74", "description": "Malicious code in eridanus-xenos-publish-json (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142160"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

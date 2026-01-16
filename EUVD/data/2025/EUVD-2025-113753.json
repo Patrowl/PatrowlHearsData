@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113753", "enisaUuid": "9069c5d5-6dab-3515-a4f5-36af395435ab", "description": "Malicious code in exec-parcel-tailwindcss-markdown (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142357"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

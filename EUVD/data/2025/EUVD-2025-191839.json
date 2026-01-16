@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191839", "enisaUuid": "739c31cf-513a-3623-9dff-0d7c10afa25a", "description": "Malicious code in salesforcedx-vscode-core (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-42078"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

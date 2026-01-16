@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179669", "enisaUuid": "d7dd6c56-ad8c-35a2-9130-4aa9fab84cd7", "description": "Malicious code in comet-axios-chakra-ui-ora (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186213"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

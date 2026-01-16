@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164296", "enisaUuid": "eca9ed46-8b7c-35b7-a200-14fee7d68eb7", "description": "Malicious code in eridanus-grunt-puppeteer-private (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19775"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

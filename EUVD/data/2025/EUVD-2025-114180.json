@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114180", "enisaUuid": "46aa413a-4f7a-35b0-a847-e1dcedee0e05", "description": "Malicious code in electron-rimraf-orbit-javascript (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141930"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125558", "enisaUuid": "223b45ce-7aaa-324d-80ef-ecbefdcfb5c0", "description": "Malicious code in godaddy-database (npm)", "datePublished": "2025-03-03T13:27:19", "dateUpdated": "2025-03-03T13:27:19", "baseScore": 0.0, "aliases": ["MAL-2025-1815"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

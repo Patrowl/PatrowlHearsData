@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-190336", "enisaUuid": "40bda601-54eb-3b1c-8a2b-41a4e4afefec", "description": "Malicious code in ynodejs_i13n (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-40558"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122185", "enisaUuid": "758a07a9-c62e-393a-bcea-1db21fab13e6", "description": "Malicious code in scripts-miranda-nconf-apollo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147737"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

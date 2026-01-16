@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191576", "enisaUuid": "ec8e691a-8311-3855-abf4-6195d1e8e5f3", "description": "Malicious code in payment-banner (npm)", "datePublished": "2025-08-29T09:31:01", "dateUpdated": "2025-08-29T09:31:01", "baseScore": 0.0, "aliases": ["MAL-2025-41809"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

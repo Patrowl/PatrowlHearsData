@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162111", "enisaUuid": "2d411e21-39aa-32a3-8a2c-32f4ad7ec9dc", "description": "Malicious code in cosmicray-commitlint-rollup-spawn (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17612"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

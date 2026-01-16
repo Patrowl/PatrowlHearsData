@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124233", "enisaUuid": "c1dcf5da-4268-3166-93b5-4c09f414f4fd", "description": "Malicious code in npm-pm2-prettier-eslint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145688"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

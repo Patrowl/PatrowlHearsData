@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115782", "enisaUuid": "d60f2045-812c-32e9-99f4-02f8b08bf0dd", "description": "Malicious code in callisto-async-readable-ignite (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140324"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

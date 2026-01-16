@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193633", "enisaUuid": "bddc9b9a-aed6-3e1f-81fb-cbf50f21d538", "description": "Malicious code in configstore-graviton-halley-polaris (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43880"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

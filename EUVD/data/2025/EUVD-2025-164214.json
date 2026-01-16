@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164214", "enisaUuid": "75d8ae06-79ed-343e-b8e1-e4848ff1e65d", "description": "Malicious code in eosio-reference-chrome-extension-authenticator-app (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19693"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

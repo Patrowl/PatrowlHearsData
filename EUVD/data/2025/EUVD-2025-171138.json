@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171138", "enisaUuid": "b89a1606-c0f7-3ac3-9588-91b1133be121", "description": "Malicious code in module-templates-shared-modules (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26609"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

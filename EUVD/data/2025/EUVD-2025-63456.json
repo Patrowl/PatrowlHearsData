@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63456", "enisaUuid": "f70c438f-5e67-3fbc-93be-aa06e5622fe2", "description": "Malicious code in intermediate_moth_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-95098"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

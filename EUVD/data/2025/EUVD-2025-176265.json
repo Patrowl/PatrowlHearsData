@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176265", "enisaUuid": "c9ad2ec3-256d-3368-8876-ebbf2a3bf132", "description": "Malicious code in spectron-mini-css-extract-plugin-enif-commitizen (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189610"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115944", "enisaUuid": "7b7c39a6-6616-3dcc-a5b8-2cad7990de8c", "description": "Malicious code in buffer-levels-commitlint-config-angular-protractor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140160"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

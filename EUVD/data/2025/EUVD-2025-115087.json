@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115087", "enisaUuid": "ba5d7fe2-fe33-3930-896f-3830e3154798", "description": "Malicious code in config-gacrux-readable-loglevel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141022"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

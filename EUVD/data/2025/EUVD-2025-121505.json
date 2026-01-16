@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121505", "enisaUuid": "6253f86f-238f-3193-8900-d952fc6b5575", "description": "Malicious code in sync-envconfig-apollo-postcss (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148423"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

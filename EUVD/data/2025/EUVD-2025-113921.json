@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113921", "enisaUuid": "58e351f7-ec04-35f0-a851-14b6e3c3421c", "description": "Malicious code in eslint-cluster-cypress-sedna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142189"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116571", "enisaUuid": "b43d7f8c-4b19-3400-8757-f6d3892d1291", "description": "Malicious code in apollo-soap-publish-pino-pretty (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139531"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

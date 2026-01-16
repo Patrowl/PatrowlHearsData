@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181594", "enisaUuid": "b5a615ac-2933-3d2a-ab74-7921e88f73b1", "description": "Malicious code in react-native-background-geolocation-android (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31809"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

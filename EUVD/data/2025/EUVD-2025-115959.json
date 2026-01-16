@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115959", "enisaUuid": "322f0786-0f81-3d2b-8ea5-d3138718d55c", "description": "Malicious code in browserify-update-publish-puppeteer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140145"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

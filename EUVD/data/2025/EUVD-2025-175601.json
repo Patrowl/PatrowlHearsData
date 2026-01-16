@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175601", "enisaUuid": "233d3580-ffd8-33cb-86c2-0a6fa288c20c", "description": "Malicious code in webdriver-mocha-scripts-hadron-augmentedreality (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190275"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

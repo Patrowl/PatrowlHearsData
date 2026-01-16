@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111148", "enisaUuid": "3adad4e6-491c-30f0-a402-bc5607e50033", "description": "Malicious code in middleware-vulcan-taurus-firebase (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144967"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

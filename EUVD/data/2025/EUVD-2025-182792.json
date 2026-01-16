@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182792", "enisaUuid": "15905c59-d631-3fc1-a486-6a47d13381e9", "description": "Malicious code in serverless-plugin-rds-trigger (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33007"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

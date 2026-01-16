@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179508", "enisaUuid": "cdf63c2e-86bc-3add-9346-9ac0f77e1185", "description": "Malicious code in cron-optimize-thread-cat-compile (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186374"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

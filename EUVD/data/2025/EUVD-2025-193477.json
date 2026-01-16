@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193477", "enisaUuid": "8ad91704-d6fd-3c28-9600-abc3726ca8b2", "description": "Malicious code in ceres-commitizen-octans-build (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43724"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115426", "enisaUuid": "2e212143-b9e0-399c-a26f-c2a16ce6fe5d", "description": "Malicious code in changelog-rollup-proxima-process (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140681"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

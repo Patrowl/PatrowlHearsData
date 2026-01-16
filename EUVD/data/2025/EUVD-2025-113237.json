@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113237", "enisaUuid": "e812802b-e707-3700-9604-941b6044008b", "description": "Malicious code in geckodriver-miranda-mongodb-schema (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142875"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

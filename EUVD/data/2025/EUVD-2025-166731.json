@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166731", "enisaUuid": "836e864b-0c51-30b7-b40b-ca8061b3040b", "description": "Malicious code in hardhat-waffle (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22213"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

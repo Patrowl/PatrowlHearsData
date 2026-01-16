@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-65180", "enisaUuid": "44c8bfd3-8596-398f-aff3-2b27688fd94f", "description": "Malicious code in bewildered_llama_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-93374"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

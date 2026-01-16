@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181489", "enisaUuid": "ad97e58a-df08-30b0-b329-51c918c2da64", "description": "Malicious code in rate-limiter-joviology-apex-dotenv-safe (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31703"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

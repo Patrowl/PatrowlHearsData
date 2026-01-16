@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123615", "enisaUuid": "d7bbb672-f6a9-3f83-9de9-e699fde38993", "description": "Malicious code in pm2-polaris-izar-oberon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146306"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

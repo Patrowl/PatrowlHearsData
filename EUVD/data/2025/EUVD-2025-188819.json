@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188819", "enisaUuid": "79316231-ca20-3f87-9986-d863dffaf03e", "description": "Malicious code in webpack-rimraf-plugin (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39033"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

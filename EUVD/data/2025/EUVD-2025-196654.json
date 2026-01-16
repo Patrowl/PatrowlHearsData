@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196654", "enisaUuid": "99960e31-a525-31b7-be74-90f1d32a9321", "description": "Malicious code in dependency-snapshots-api-proto (RubyGems)", "datePublished": "2025-09-01T09:47:19", "dateUpdated": "2025-09-01T09:47:19", "baseScore": 0.0, "aliases": ["MAL-2025-46902"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

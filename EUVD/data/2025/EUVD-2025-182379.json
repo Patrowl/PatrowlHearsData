@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182379", "enisaUuid": "46d8d948-8bcd-38db-beff-6f437199fe57", "description": "Malicious code in s3-lister-js (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32594"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

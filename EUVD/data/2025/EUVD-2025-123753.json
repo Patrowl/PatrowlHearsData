@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123753", "enisaUuid": "d48742a7-f6e4-3aac-b35c-9395588bbfd2", "description": "Malicious code in phoebe-orbit-redis-javascript (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146168"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

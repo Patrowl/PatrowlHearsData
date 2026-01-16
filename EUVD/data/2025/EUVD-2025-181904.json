@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181904", "enisaUuid": "a7ebd761-f07b-3d66-aa19-73602b80127a", "description": "Malicious code in require-sdk (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32119"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

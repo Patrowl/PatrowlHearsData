@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112896", "enisaUuid": "9ff4b00e-5a7f-3cc7-a5c5-f858ae7c1696", "description": "Malicious code in heka-rehype-duplex-ursa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143216"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

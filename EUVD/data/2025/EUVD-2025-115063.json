@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115063", "enisaUuid": "3e009473-557d-366f-8fc9-8660c187ac96", "description": "Malicious code in configstore-callback-redis-gemini (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141046"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

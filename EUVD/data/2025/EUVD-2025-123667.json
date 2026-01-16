@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123667", "enisaUuid": "0569fee3-da53-33b8-89e6-4ec179c856f5", "description": "Malicious code in pino-uglify-js-uninstall-cli (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146254"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

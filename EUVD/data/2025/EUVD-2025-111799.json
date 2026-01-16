@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111799", "enisaUuid": "c05d8f32-64d0-3fcd-ba14-34380ca96707", "description": "Malicious code in less-loader-centauri-subscription-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144314"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177861", "enisaUuid": "9e92156f-7a68-3d24-9a6f-1160e853a848", "description": "Malicious code in meteor-dysonswarm-geckodriver-grus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188021"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161863", "enisaUuid": "d54513c7-e682-38cb-8cfe-14fbfc290b6c", "description": "Malicious code in com.unity.standardevents (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17364"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121171", "enisaUuid": "6740543c-c882-34c9-95f2-d7bdcca81dcc", "description": "Malicious code in transform-apex-sadr-standard (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148757"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

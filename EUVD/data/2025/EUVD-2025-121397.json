@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121397", "enisaUuid": "faba41b3-a99b-3c64-b09c-2ab3b1aa4d98", "description": "Malicious code in terser-nestjs-deneb-unuk (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148531"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113780", "enisaUuid": "e68df46f-6b1e-390b-9236-42b17acadab6", "description": "Malicious code in event-transform-electron-builder-draco (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142330"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112623", "enisaUuid": "5b20ae83-f416-3734-bf55-1640c6df16db", "description": "Malicious code in hyperion-morgan-start-update (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143489"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

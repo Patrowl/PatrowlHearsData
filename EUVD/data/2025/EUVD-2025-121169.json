@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121169", "enisaUuid": "fa8668d4-017a-3c88-bb06-72657542298f", "description": "Malicious code in transform-commitlint-config-angular-procyon-canopus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148759"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

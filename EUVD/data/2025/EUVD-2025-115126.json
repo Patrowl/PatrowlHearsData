@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115126", "enisaUuid": "b34f2ba0-a99e-3246-bebc-0d3f8e07d57c", "description": "Malicious code in commitlint-exec-express-perseus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140982"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160844", "enisaUuid": "c44e89df-40a8-36e0-8917-43cedf73f3ae", "description": "Malicious code in bundle-shell-hash-spy-import (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16343"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

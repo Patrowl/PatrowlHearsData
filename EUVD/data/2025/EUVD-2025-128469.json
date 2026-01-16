@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128469", "enisaUuid": "bcf0ba79-3fe4-373f-9164-cd00ea1f65ed", "description": "Malicious code in corp-config (npm)", "datePublished": "2025-06-07T02:56:22", "dateUpdated": "2025-06-18T15:07:35", "baseScore": 0.0, "aliases": ["MAL-2025-4737"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

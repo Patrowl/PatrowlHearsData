@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171669", "enisaUuid": "ed8f9992-4197-3681-b158-0a0c225731b7", "description": "Malicious code in nconf-atlas-mutation-await (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27140"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

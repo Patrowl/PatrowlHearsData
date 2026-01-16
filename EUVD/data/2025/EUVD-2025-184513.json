@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184513", "enisaUuid": "2379235f-7e0a-3675-b774-57c1a1124482", "description": "Malicious code in tern_from_ts (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34729"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

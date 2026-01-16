@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77396", "enisaUuid": "07ff6c46-9aea-3575-897f-1f172a9cf552", "description": "Malicious code in broken_hawk-appteadev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-100130"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

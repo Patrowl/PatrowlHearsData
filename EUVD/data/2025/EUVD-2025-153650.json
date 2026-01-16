@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153650", "enisaUuid": "b8e235f4-50df-3afb-bbc1-e83773af420d", "description": "Malicious code in @oss-ui/capsig-legacy (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9149"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

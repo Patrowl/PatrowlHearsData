@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176385", "enisaUuid": "b98563f5-97cb-387e-8def-44c89a8f6a60", "description": "Malicious code in sigma-rain-omicron-emulate-char (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189490"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175442", "enisaUuid": "bd995920-8524-37a1-8c60-67b95a53dcac", "description": "Malicious code in yildun-mesosphere-redis-spectron (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190434"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

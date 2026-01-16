@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122571", "enisaUuid": "31567a80-ba5b-395a-b25a-59820e367ead", "description": "Malicious code in rest-hyperion-await-phoebe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147351"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

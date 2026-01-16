@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160853", "enisaUuid": "27b41a6f-a801-3dda-847b-7ef90fe4dc33", "description": "Malicious code in bunyan-exec-bootstrap-cz-conventional-changelog (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16352"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

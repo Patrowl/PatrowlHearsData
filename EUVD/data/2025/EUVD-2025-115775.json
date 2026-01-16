@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115775", "enisaUuid": "76c57acb-0003-3e74-b627-4bb5846c64b0", "description": "Malicious code in callisto-event-tethys-loglevel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140331"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

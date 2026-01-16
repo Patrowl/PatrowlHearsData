@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166512", "enisaUuid": "0d7add7f-69ae-34f7-9eb4-47305397076f", "description": "Malicious code in grunt-html2requirejs (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21994"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

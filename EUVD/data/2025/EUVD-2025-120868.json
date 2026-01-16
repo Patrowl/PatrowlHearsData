@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120868", "enisaUuid": "fb1f3501-f43c-3903-ae81-117b1ba8c73b", "description": "Malicious code in ursa-jwt-lacerta-terser (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149061"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

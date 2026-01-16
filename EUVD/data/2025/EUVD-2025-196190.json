@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196190", "enisaUuid": "af4da552-b34e-3c23-a240-d822cf1b0e4e", "description": "Malicious code in ultra-hapi-csrf-jabbah (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46438"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

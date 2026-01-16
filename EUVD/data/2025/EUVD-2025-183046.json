@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183046", "enisaUuid": "b36a1334-730c-33c1-acd7-fee26ec2d424", "description": "Malicious code in similix-win32-x64-msvc (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33261"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

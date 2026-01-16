@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159714", "enisaUuid": "fa124a3e-0def-33b4-9600-76091e1e9147", "description": "Malicious code in await-lynx-scripts-superagent (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15213"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

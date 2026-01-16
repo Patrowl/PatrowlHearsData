@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121863", "enisaUuid": "b7dfcc09-54d4-337e-b261-86222035ca0a", "description": "Malicious code in socketio-proxima-tethys-query (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148062"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

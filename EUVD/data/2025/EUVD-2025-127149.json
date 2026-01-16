@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127149", "enisaUuid": "991c7d66-8634-36ce-9bb6-7aa3ff533da6", "description": "Malicious code in npm-test-lowerx3 (npm)", "datePublished": "2025-04-23T15:56:27", "dateUpdated": "2025-04-23T15:56:27", "baseScore": 0.0, "aliases": ["MAL-2025-3408"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

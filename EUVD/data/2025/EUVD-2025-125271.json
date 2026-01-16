@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125271", "enisaUuid": "0ac3ae64-24f2-3fe6-a9a5-e3f9be6d049f", "description": "Malicious code in wdpr-ra-node-mpropz (npm)", "datePublished": "2025-02-21T13:21:48", "dateUpdated": "2025-02-21T13:21:48", "baseScore": 0.0, "aliases": ["MAL-2025-1527"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

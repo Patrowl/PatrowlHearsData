@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191390", "enisaUuid": "8fb11cb4-97a0-3953-8a67-c12466e7e7e6", "description": "Malicious code in beautifulsoup-new (PyPI)", "datePublished": "2025-08-28T07:10:40", "dateUpdated": "2025-08-28T07:10:40", "baseScore": 0.0, "aliases": ["MAL-2025-41623"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

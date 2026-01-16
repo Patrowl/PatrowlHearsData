@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124659", "enisaUuid": "df91e06a-74db-32d5-a77e-e2a991952512", "description": "Malicious code in mysql-pegasus-lyra-webdriverio (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145259"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

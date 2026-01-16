@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113177", "enisaUuid": "2de777f6-79cb-36aa-ab41-e1a4f5c5463c", "description": "Malicious code in global-fornax-supervisor-react-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142935"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

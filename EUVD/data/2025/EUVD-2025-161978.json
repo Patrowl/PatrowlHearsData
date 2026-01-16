@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161978", "enisaUuid": "510a36ca-6414-3695-ab90-5d764a7e03f2", "description": "Malicious code in configure-measure (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17479"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

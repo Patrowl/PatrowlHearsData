@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178023", "enisaUuid": "c87d12f2-b884-3121-abb9-95a0ba537d1d", "description": "Malicious code in long-new-report-analyze-permission (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187859"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

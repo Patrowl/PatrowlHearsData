@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111944", "enisaUuid": "db156ad8-1e9d-33ef-a619-1891bb8de861", "description": "Malicious code in kinetic-elektra-oauth-quark (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144169"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

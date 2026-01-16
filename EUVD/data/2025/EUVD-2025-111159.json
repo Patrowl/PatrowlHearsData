@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111159", "enisaUuid": "10dfd62f-2a26-358c-9648-f1645b5bb9f0", "description": "Malicious code in middleware-fornax-cache-chariklo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144956"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

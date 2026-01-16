@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115316", "enisaUuid": "0f0f5f71-965c-335b-a2fd-d054f2856439", "description": "Malicious code in cli-dactyl-restart-meteor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140792"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

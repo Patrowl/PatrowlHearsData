@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172154", "enisaUuid": "de3a5cfb-86ee-378f-99b6-156b04e9c888", "description": "Malicious code in node-heatpipe-publisher (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27625"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

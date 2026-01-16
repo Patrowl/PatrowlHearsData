@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37445", "enisaUuid": "16d9fe39-cd41-394a-9492-0046d8b8c2b8", "description": "Malicious code in webswing-directdraw-javascript (npm)", "datePublished": "2025-11-02T20:50:25", "dateUpdated": "2025-11-02T21:06:14", "baseScore": 0.0, "aliases": ["MAL-2025-49309"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

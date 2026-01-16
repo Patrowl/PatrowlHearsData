@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120933", "enisaUuid": "9b90a3ee-d101-3388-baca-f028fad0832a", "description": "Malicious code in update-ganymede-typeorm-nextjs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148996"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

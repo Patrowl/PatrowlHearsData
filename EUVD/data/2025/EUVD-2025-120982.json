@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120982", "enisaUuid": "8748d9c0-d36c-3141-8e42-d2fe7c29df05", "description": "Malicious code in umbriel-promise-castor-spectron-webdriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148946"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

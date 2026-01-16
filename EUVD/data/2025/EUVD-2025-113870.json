@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113870", "enisaUuid": "fe3a7afe-d09e-384e-aa8b-11cc54fdd736", "description": "Malicious code in eslint-plugin-request-indus-magellan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142240"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

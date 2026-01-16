@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130858", "enisaUuid": "e9df14f2-1a03-3142-a25c-7905d8858efe", "description": "Malicious code in @core-pas/cyb-core (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7136"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

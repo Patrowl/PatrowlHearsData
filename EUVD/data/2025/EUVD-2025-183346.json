@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183346", "enisaUuid": "d46356bc-a08b-3126-bccb-3437eb9526f0", "description": "Malicious code in snowdroid-plugin-popsicle (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33561"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

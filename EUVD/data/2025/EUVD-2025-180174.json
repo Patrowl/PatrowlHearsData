@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180174", "enisaUuid": "7a2e0813-60f5-37dd-b0a0-fa3c6f1c02d4", "description": "Malicious code in awk-node-public-interpret-cron (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185708"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

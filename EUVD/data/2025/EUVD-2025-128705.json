@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128705", "enisaUuid": "ebda056c-ecd8-3b43-b7c2-963911a361dc", "description": "Malicious code in juno-autodiscovery-browser (npm)", "datePublished": "2025-06-15T16:44:23", "dateUpdated": "2025-06-18T01:11:33", "baseScore": 0.0, "aliases": ["MAL-2025-4973"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

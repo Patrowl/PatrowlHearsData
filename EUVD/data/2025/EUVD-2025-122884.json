@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122884", "enisaUuid": "f34ec6ee-5847-30c8-9d76-259a0aa3418e", "description": "Malicious code in rate-limiter-google-halley-changelog (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147038"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

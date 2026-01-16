@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172015", "enisaUuid": "d93889d7-6fd0-34a5-a3e2-2addec6a10e1", "description": "Malicious code in ngx-top (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27486"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

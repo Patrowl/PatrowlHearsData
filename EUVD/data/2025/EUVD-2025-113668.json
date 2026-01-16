@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113668", "enisaUuid": "373a3bd5-36c3-386e-8b4c-fe03946e158f", "description": "Malicious code in fetch-event-cosmiconfig-chalk (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142443"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

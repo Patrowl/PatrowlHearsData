@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175680", "enisaUuid": "c5dc0f8f-11a0-337c-99b4-3ac605886fe3", "description": "Malicious code in vuepress-winston-deneb-vulcan (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190196"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

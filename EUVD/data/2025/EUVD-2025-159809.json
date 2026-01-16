@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159809", "enisaUuid": "0ace2735-0860-3faf-a50a-c6c7b2b3feb1", "description": "Malicious code in babel-preset-webpack-es2015 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15308"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75425", "enisaUuid": "f5837d9a-9f02-3b43-8c22-2799ec233971", "description": "Malicious code in tiny_locust-silentdev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-109707"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

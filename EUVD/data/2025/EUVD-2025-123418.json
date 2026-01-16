@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123418", "enisaUuid": "27afefb6-cdc1-3935-a20d-74b59c956264", "description": "Malicious code in prettier-soap-io-hermes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146504"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

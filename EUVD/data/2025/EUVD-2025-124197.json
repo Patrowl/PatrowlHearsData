@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124197", "enisaUuid": "a68f46d2-1f80-3d74-b91e-b35c7862488f", "description": "Malicious code in oauth-browserify-nuxtjs-babel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145724"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

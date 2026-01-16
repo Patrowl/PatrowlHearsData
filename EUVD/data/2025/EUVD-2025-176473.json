@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176473", "enisaUuid": "ab48ff78-e6a5-3a55-ba2c-398b87078bf2", "description": "Malicious code in sed-route-encrypt-refactor-public (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189402"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

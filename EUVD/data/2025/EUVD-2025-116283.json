@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116283", "enisaUuid": "850eeb76-327f-3afe-aa05-5edd8103b3f6", "description": "Malicious code in axios-blaze-electron-builder-magellan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139819"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130402", "enisaUuid": "81829646-ecbb-3046-a1fb-9d27d99e3b03", "description": "Malicious code in ledger-provider (npm)", "datePublished": "2025-08-02T13:08:02", "dateUpdated": "2025-08-02T13:08:02", "baseScore": 0.0, "aliases": ["MAL-2025-6678"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

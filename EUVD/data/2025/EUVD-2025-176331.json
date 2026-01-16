@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176331", "enisaUuid": "fe135a53-ec5e-3015-898d-1b6f70211e16", "description": "Malicious code in slow-promise-delta-root-view (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189544"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

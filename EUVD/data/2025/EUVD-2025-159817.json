@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159817", "enisaUuid": "9dad0437-db9b-357e-8d74-37ea783fe9c0", "description": "Malicious code in backend-eclipse-taurus-charon (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15316"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

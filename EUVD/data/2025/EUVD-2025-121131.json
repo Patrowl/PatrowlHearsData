@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121131", "enisaUuid": "47bfd14a-0d72-3ad2-8d08-3da3612211cf", "description": "Malicious code in transport-postgres-slidev-install (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148797"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

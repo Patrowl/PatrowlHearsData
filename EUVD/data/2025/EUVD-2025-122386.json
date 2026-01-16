@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122386", "enisaUuid": "0ff6e8f3-9579-31b4-9604-3736a73d3eee", "description": "Malicious code in rollup-taurus-antd-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147536"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184819", "enisaUuid": "7dd7e9d7-aac0-37b8-ba37-64682b107cc0", "description": "Malicious code in test-mlw2-canny-tifts (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-35035"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

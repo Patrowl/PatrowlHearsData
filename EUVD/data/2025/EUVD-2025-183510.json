@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183510", "enisaUuid": "1ea4d162-846c-3b3b-b0a4-2c8e4504e4b6", "description": "Malicious code in spectron-webdriver-atlas-geochemistry-node-sass (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33725"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

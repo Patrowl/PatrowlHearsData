@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173944", "enisaUuid": "1205c432-8ffb-3722-8140-37ded0893c4a", "description": "Malicious code in plugin-polaris (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29415"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

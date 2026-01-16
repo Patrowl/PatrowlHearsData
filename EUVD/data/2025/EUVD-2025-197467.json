@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197467", "enisaUuid": "8266d7a9-c620-366a-92b3-7e1ead0ee0c3", "description": "Malicious code in starlight-for-rabbitmq-docs (npm)", "datePublished": "2025-10-26T19:03:27", "dateUpdated": "2025-10-26T19:03:27", "baseScore": 0.0, "aliases": ["MAL-2025-48763"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

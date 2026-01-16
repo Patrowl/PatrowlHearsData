@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170244", "enisaUuid": "1c2d57fb-6d38-3697-91f7-9e35c1974f30", "description": "Malicious code in lynx-blackhole-typeorm-umbriel (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25715"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-158462", "enisaUuid": "145939ed-510b-36e0-8a2c-8be379ef723b", "description": "Malicious code in abiogenesis-webpack-innercore-request (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-13954"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

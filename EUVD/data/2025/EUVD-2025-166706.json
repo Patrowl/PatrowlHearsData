@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166706", "enisaUuid": "a5f3cfc0-05e6-32b5-893a-57fb8d51795e", "description": "Malicious code in hapi-slidev-mesosphere-standard (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22188"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

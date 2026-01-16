@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166696", "enisaUuid": "8461349a-1ad2-3e0f-8aa1-4dafd4ef6ad9", "description": "Malicious code in hapi-event-store (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22178"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

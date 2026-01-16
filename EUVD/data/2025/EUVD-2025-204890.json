@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-204890", "enisaUuid": "36c0a699-1e2b-3e2c-b878-5789188157c0", "description": "Malicious code in elf-stats-sleighing-hammer-902 (npm)", "datePublished": "2025-12-23T08:10:05", "dateUpdated": "2025-12-24T00:53:16", "baseScore": 0.0, "aliases": ["MAL-2025-192785"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

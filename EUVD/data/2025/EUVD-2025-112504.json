@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112504", "enisaUuid": "490d4d3c-b876-3fee-aef4-237fc0713ea1", "description": "Malicious code in ini-tailwindcss-playwright-nova (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143609"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

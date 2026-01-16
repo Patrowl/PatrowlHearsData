@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121446", "enisaUuid": "5e503f9c-1e30-39b7-b829-ac5b71457dec", "description": "Malicious code in taurus-uninstall-commitizen-postcss-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148482"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

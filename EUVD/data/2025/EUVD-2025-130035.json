@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130035", "enisaUuid": "e3c5868b-2e7a-3410-8512-842936e79c7e", "description": "Malicious code in runtime-dom (npm)", "datePublished": "2025-07-24T14:20:28", "dateUpdated": "2025-07-24T14:20:28", "baseScore": 0.0, "aliases": ["MAL-2025-6308"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

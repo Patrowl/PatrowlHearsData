@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124132", "enisaUuid": "e798cc40-3474-33bf-bc4d-6c5d17b1d139", "description": "Malicious code in odin-auth0-spica-markdownlint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145789"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

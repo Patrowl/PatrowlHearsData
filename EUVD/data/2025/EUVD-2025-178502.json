@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178502", "enisaUuid": "0da14c0f-2eb9-3bd0-b3a6-c2a75af8ab70", "description": "Malicious code in html-webpack-plugin-wavefunction-local-ora (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187380"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

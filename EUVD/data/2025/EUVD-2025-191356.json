@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191356", "enisaUuid": "dccc1d77-cf7d-3672-b5ed-dfa093e2ed6f", "description": "Malicious code in ort-type-test-module-resolution (npm)", "datePublished": "2025-08-28T07:35:33", "dateUpdated": "2025-08-28T07:35:33", "baseScore": 0.0, "aliases": ["MAL-2025-41589"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

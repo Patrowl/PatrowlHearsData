@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124783", "enisaUuid": "2be6f5d3-d960-3576-9c19-d639924be3eb", "description": "Malicious code in mongodb-package-quark-node-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145135"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

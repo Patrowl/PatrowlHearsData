@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173405", "enisaUuid": "43082593-715d-3519-b3f6-3bd8055d75b1", "description": "Malicious code in parse-async-theta-user-thread (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28876"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

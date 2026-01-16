@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63108", "enisaUuid": "50bba551-9c62-3e1f-9e4f-cf8efeacb719", "description": "Malicious code in mental_llama_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-95446"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

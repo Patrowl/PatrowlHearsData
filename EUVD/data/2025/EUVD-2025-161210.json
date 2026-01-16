@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161210", "enisaUuid": "cda3fafe-c4fd-3e33-a445-780f5d986678", "description": "Malicious code in cello-auto-register (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16709"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-78556", "enisaUuid": "2514d268-0ac4-3669-8696-e6ca9980439f", "description": "Malicious code in primitive_chickadee_z3n (npm)", "datePublished": "2025-11-11T07:31:13", "dateUpdated": "2025-11-11T07:31:13", "baseScore": 0.0, "aliases": ["MAL-2025-107269"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123368", "enisaUuid": "d68b0727-b101-3a30-877e-771fe299760b", "description": "Malicious code in process-install-rollup-plugin-readable (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146554"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

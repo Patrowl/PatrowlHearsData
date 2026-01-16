@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124269", "enisaUuid": "087f55ca-1e28-3613-af7b-34fb99b7e9af", "description": "Malicious code in nova-browserify-airbnb-jest (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145652"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

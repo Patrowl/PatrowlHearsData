@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116614", "enisaUuid": "c8d5fa16-dd53-3900-8cc9-2b13ac9fda0a", "description": "Malicious code in apex-websockets-bellatrix-luna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139488"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

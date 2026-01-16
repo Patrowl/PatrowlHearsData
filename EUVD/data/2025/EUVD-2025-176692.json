@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176692", "enisaUuid": "d208896c-6bb4-3c2a-a890-290a15e15f52", "description": "Malicious code in report-serialize-rho-public-file (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189183"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

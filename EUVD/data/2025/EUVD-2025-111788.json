@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111788", "enisaUuid": "c86d6245-f4f0-3d2c-b082-c9a2f37d7c15", "description": "Malicious code in less-loader-phoebe-scripts-mysql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144325"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

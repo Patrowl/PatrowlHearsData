@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124801", "enisaUuid": "404e0b9f-0115-3d94-a904-7b436fad4675", "description": "Malicious code in module-standard-ora-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145117"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

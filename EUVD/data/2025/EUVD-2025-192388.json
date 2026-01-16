@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-192388", "enisaUuid": "ed1613a6-8c41-3e7f-9665-3c2f1cc5f0df", "description": "Malicious code in @kollorg/ipsam-omnis (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-42634"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

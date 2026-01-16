@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128350", "enisaUuid": "a3b46a10-b714-37b5-8ed7-ff6ea8153001", "description": "Malicious code in @seo-frontend-components/blog-schema (npm)", "datePublished": "2025-05-31T15:58:05", "dateUpdated": "2025-06-02T00:27:04", "baseScore": 0.0, "aliases": ["MAL-2025-4618"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

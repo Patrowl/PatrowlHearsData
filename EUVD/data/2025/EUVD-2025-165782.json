@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165782", "enisaUuid": "deb99135-d21f-3406-bc8b-9e803b9825e6", "description": "Malicious code in generator-accelerate-data-transform (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21263"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

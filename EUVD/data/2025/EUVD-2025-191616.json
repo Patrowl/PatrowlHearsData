@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191616", "enisaUuid": "1d233ee8-16f3-39ca-b745-ad880c885b04", "description": "Malicious code in @espace-client-axafr/dashboard-standard-card (npm)", "datePublished": "2025-08-25T18:33:16", "dateUpdated": "2025-08-25T18:33:16", "baseScore": 0.0, "aliases": ["MAL-2025-41850"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

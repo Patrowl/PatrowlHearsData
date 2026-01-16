@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194798", "enisaUuid": "aa044bf5-0a7c-3f15-ba98-14287d1ed86f", "description": "Malicious code in lithosphere-eris-jwt-apollo (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45045"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177757", "enisaUuid": "76ccea67-45c8-33a7-a77c-a5c90a116d74", "description": "Malicious code in morgan-meteor-loop-delphinus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188125"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114166", "enisaUuid": "7ed7ba6b-2f41-3004-89b7-819eb01db8d1", "description": "Malicious code in elektra-dotenv-safe-playwright-bellatrix (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141944"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

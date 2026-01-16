@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124395", "enisaUuid": "7b2c5ae5-2999-3b72-ba13-da7d6f8d3033", "description": "Malicious code in node-sass-antares-gulp-sync (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145526"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

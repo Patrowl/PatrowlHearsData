@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184344", "enisaUuid": "7a9c8da8-f11b-37cd-8282-8c61f3b7d25d", "description": "Malicious code in tardigrade-native-testcafe-dynamo (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34560"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

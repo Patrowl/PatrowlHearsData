@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115123", "enisaUuid": "64c9efc3-d25f-30d1-9da1-e5de0ceb3d56", "description": "Malicious code in commitlint-figures-bellatrix-xo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140985"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

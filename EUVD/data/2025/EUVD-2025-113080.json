@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113080", "enisaUuid": "8020281b-cef2-39d1-92f0-b993e8a24c66", "description": "Malicious code in gravity-xenos-postgres-concurrently (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143032"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

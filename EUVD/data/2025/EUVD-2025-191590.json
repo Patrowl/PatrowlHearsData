@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191590", "enisaUuid": "af148953-15db-3be8-85c8-bf9fe90bb4b1", "description": "Malicious code in @axaclient-socle-front/webmodule (npm)", "datePublished": "2025-08-25T18:30:43", "dateUpdated": "2025-08-25T18:30:43", "baseScore": 0.0, "aliases": ["MAL-2025-41824"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

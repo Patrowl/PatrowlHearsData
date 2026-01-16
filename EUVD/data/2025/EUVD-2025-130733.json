@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130733", "enisaUuid": "c5793d40-cbd6-3737-8c5e-e336b54bc40a", "description": "Malicious code in 4electron (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7011"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

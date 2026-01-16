@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122089", "enisaUuid": "f4aa600b-9c86-3339-bd9f-ebf598f6fc17", "description": "Malicious code in semantic-release-process-alphard-commitizen (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147834"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

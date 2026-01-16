@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200854", "enisaUuid": "b03dec3d-cf4a-3aad-8c95-aa9aa02d2768", "description": "Malicious code in elf-stats-mistletoe-pinecone-620 (npm)", "datePublished": "2025-12-03T15:59:29", "dateUpdated": "2025-12-03T15:59:29", "baseScore": 0.0, "aliases": ["MAL-2025-192098"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

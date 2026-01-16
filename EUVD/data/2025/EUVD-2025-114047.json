@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114047", "enisaUuid": "222511a4-67dd-355f-870a-bc5d98d193d3", "description": "Malicious code in enif-sequelize-callisto-buffer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142063"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

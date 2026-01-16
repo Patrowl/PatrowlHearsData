@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187709", "enisaUuid": "14f5a8a4-dd25-3054-a5dc-210e262b1636", "description": "Malicious code in upload-file-to-firebase (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37921"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

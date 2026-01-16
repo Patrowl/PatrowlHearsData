@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191306", "enisaUuid": "3848b8e6-97ae-39be-ade7-b2ed79fc1251", "description": "Malicious code in botframework-webchat-cldr-data (npm)", "datePublished": "2025-08-28T07:23:25", "dateUpdated": "2025-08-28T07:23:25", "baseScore": 0.0, "aliases": ["MAL-2025-41537"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

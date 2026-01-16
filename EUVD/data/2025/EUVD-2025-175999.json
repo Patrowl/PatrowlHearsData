@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175999", "enisaUuid": "b89753d1-96f6-3dcb-baf5-c0a4f781c8e3", "description": "Malicious code in terser-webpack-plugin-nucleosynthesis-hadron-taurus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189876"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

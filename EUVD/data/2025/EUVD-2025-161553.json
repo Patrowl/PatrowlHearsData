@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161553", "enisaUuid": "05066a8d-6e82-37b2-813a-4902e4ac361e", "description": "Malicious code in cirrus-webserver (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17053"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

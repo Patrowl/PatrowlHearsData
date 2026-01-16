@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126713", "enisaUuid": "705433fb-169c-32c6-abec-81d64e5cace5", "description": "Malicious code in license-txt (PyPI)", "datePublished": "2025-03-28T13:05:49", "dateUpdated": "2025-03-28T13:05:49", "baseScore": 0.0, "aliases": ["MAL-2025-2972"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

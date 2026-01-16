@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80140", "enisaUuid": "7309f3d8-1c1d-3713-a996-3243fbe044a9", "description": "Malicious code in variable_stingray_replicate_automation (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-110342"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

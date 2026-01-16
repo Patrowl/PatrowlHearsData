@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179592", "enisaUuid": "83b14838-e2c0-362e-81ff-a29b4d630576", "description": "Malicious code in container-bundle-wind-private-resolve (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186290"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123689", "enisaUuid": "2d307bf6-5f55-3bbb-b184-bee7230c500b", "description": "Malicious code in pino-pretty-frontend-sqlite-hydra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146232"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

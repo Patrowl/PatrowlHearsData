@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165474", "enisaUuid": "7cd2e233-c16e-3e5c-9432-f89b1de98414", "description": "Malicious code in freerte-webpack-config (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20955"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

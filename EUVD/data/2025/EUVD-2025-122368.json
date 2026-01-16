@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122368", "enisaUuid": "4ff08157-ac88-3bc0-b885-fcb5edfb86ab", "description": "Malicious code in run-script-update-tethys-jovian (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147554"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

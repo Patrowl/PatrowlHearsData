@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173545", "enisaUuid": "aa5c0964-d8bb-3092-8fd9-d9c0e3af63e4", "description": "Malicious code in pegasus-oberon-child-process-sqlite (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29016"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

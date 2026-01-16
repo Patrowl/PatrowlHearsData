@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120566", "enisaUuid": "1afb4cbf-a349-3a99-ac2e-0c6041eb9a28", "description": "Malicious code in webdriver-mocha-xml-spica-wezen (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149363"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

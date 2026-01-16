@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195578", "enisaUuid": "e3eafc20-0bc0-3ed8-8739-a64eeab120df", "description": "Malicious code in restart-singularity-build-cluster (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45826"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

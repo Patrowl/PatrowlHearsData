@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167769", "enisaUuid": "34bff455-01c8-3a4f-9e17-a5d1e1f6eff8", "description": "Malicious code in install-zenobia-convict-backend (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23251"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

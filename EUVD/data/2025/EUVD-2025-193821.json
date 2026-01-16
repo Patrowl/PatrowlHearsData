@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193821", "enisaUuid": "5681b88b-fd61-326c-ace1-b41a8a856d36", "description": "Malicious code in draco-redis-bunyan-deimos (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44068"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

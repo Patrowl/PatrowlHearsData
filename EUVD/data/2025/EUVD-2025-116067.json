@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116067", "enisaUuid": "41390d46-a1cf-336a-8afa-3807349c7281", "description": "Malicious code in blaze-uninstall-pino-pretty-nestjs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140035"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

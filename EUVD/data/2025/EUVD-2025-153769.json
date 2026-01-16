@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153769", "enisaUuid": "90d13e30-a986-3adf-ae6c-85a1e6b7ddb9", "description": "Malicious code in @remove-bg/remove-bg-tools (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9268"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

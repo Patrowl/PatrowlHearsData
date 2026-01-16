@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113421", "enisaUuid": "396979ee-a7f1-323e-bc3a-09daf0c752ed", "description": "Malicious code in framework-public-redis-test (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142691"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

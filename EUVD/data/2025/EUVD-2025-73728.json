@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-73728", "enisaUuid": "7e9f65aa-8da4-3312-bd48-c451642d5ccb", "description": "Malicious code in sheer_earwig_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-96562"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

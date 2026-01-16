@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161207", "enisaUuid": "c7667333-aa66-3226-aa99-840aa2aea0bf", "description": "Malicious code in celeste-testcafe-postgres-unuk (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16706"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

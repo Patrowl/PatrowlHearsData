@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114115", "enisaUuid": "0e4a9c72-895a-3192-a179-216947bfb5e8", "description": "Malicious code in eleventy-dotenv-node-config-restart (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141995"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

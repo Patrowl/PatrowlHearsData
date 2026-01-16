@@ -1,0 +1,1 @@
+{"id": "EUVD-2026-0943", "enisaUuid": "d7f21adf-e5ff-3f9f-96cb-38cfe758997d", "description": "Malicious code in spire.officejs-common (npm)", "datePublished": "2026-01-05T00:45:36", "dateUpdated": "2026-01-08T09:13:17", "baseScore": 0.0, "aliases": ["MAL-2026-39"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

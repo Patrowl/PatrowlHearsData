@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184372", "enisaUuid": "5b480eb2-c3d5-335b-b1cf-536d199e1fb7", "description": "Malicious code in tb-upload (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34588"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

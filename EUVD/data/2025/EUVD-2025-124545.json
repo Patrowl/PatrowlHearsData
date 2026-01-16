@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124545", "enisaUuid": "8cac3d2a-0dd5-31d4-87b5-59021996e7f9", "description": "Malicious code in neptune-pm2-dynamo-dotenv-safe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145375"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

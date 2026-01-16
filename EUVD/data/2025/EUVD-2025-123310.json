@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123310", "enisaUuid": "d7270304-31a7-3030-a5f7-2b86e5dafce4", "description": "Malicious code in procyon-quantum-ganymede-typeorm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146612"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

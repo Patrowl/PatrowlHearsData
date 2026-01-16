@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179082", "enisaUuid": "009034ec-609e-3513-9d37-fbbd93f3f01b", "description": "Malicious code in equinox-sass-loader-global-nestjs (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186800"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

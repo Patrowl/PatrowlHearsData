@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196683", "enisaUuid": "760e70c4-948a-3f23-8c03-cb1b324886b2", "description": "Malicious code in monolith-twirp-merge-queue-go-mergequeuemonolith (RubyGems)", "datePublished": "2025-09-01T09:53:53", "dateUpdated": "2025-09-01T09:53:53", "baseScore": 0.0, "aliases": ["MAL-2025-46931"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

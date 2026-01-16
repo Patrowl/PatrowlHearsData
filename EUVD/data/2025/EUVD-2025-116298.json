@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116298", "enisaUuid": "bd17f076-d963-3d3b-82ee-9bb641003fab", "description": "Malicious code in await-proxima-mui-exec (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139804"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173837", "enisaUuid": "8f6591f5-05a0-3921-8700-5cfb13603353", "description": "Malicious code in pino-selenium-thermosphere-lepton (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29308"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

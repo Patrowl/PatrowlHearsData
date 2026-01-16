@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-62789", "enisaUuid": "2bbd03c2-35a8-3443-8cfb-51350bc3ceac", "description": "Malicious code in opposite_slug_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-95765"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

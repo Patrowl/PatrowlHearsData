@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116164", "enisaUuid": "a1d801ec-4ed2-3696-bddc-7f876421392e", "description": "Malicious code in bellatrix-graphql-lynx-nova (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139938"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

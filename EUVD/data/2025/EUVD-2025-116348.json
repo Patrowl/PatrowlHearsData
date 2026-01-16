@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116348", "enisaUuid": "b9b2cc2b-514b-3b5f-9991-11df74204151", "description": "Malicious code in auth0-remark-rimraf-gatsby (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139754"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123057", "enisaUuid": "423a7f9f-41db-31e2-ba57-5564442bedc0", "description": "Malicious code in puppeteer-slides-phenomic-spectron-webdriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146865"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

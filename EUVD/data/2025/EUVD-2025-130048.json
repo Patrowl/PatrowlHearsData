@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130048", "enisaUuid": "dfa750f3-5870-3fde-b975-a01972657d7d", "description": "Malicious code in ui-data-layer (npm)", "datePublished": "2025-07-24T16:00:20", "dateUpdated": "2025-07-28T04:47:48", "baseScore": 0.0, "aliases": ["MAL-2025-6321"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

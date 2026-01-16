@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114725", "enisaUuid": "4470e659-a550-3f33-955f-c0c86a60e0ee", "description": "Malicious code in cygnus-subscription-sqlite-radiant (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141384"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

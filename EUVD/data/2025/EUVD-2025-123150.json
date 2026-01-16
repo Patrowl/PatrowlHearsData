@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123150", "enisaUuid": "1b49a727-286c-3ce6-894b-01a59c5606a1", "description": "Malicious code in publish-achernar-rollup-plugin-miranda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146772"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

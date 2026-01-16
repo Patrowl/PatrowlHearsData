@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116931", "enisaUuid": "746f789b-d797-37be-942c-5415ca843d45", "description": "Malicious code in acamar-cygnus-hyperion-mongodb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139171"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

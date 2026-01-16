@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124120", "enisaUuid": "f5a08739-9278-328a-a32e-fc593f3e618b", "description": "Malicious code in odin-run-script-scripts-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145801"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

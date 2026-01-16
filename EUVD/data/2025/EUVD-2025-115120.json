@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115120", "enisaUuid": "df99dc18-57ed-3346-8ddd-c5f8b921590f", "description": "Malicious code in commitlint-hyperion-morgan-gridsome (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140988"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

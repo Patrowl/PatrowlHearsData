@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194920", "enisaUuid": "55b0049b-f6fe-36dc-aec2-b6d7b1cccfba", "description": "Malicious code in meissa-node-sass-markdownlint-spectron-webdriver (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45167"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

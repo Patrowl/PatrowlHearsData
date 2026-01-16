@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-186810", "enisaUuid": "9afd4ba3-c4a9-3a85-9ce5-3024ae1a71d1", "description": "Malicious code in toloka-templates-server (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37020"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

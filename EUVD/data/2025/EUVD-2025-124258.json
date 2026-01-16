@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124258", "enisaUuid": "4c58990a-9bcb-33af-ba35-d435fd913623", "description": "Malicious code in nova-passport-hyperion-dotenv-safe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145663"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

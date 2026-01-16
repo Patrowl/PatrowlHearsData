@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114368", "enisaUuid": "72b07946-c46c-3095-9a88-6486dd051f37", "description": "Malicious code in dotenv-prettier-stylelint-fomalhaut-heka (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141741"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

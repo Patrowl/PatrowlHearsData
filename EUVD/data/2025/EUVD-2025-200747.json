@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200747", "enisaUuid": "e9be4d18-9ee5-3c83-8835-dbde8d4094ac", "description": "Malicious code in elf-stats-nutmeg-chimney-245 (npm)", "datePublished": "2025-12-03T14:20:47", "dateUpdated": "2025-12-03T16:11:39", "baseScore": 0.0, "aliases": ["MAL-2025-191983"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

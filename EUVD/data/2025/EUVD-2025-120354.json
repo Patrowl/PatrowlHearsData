@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120354", "enisaUuid": "47b81d2e-5c11-3245-8fd4-b6c07c4e5d5f", "description": "Malicious code in writable-pipe-terser-spinner (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149577"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

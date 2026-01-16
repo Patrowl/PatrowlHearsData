@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114062", "enisaUuid": "5b488e15-c0ee-3f89-8c82-486943f96988", "description": "Malicious code in enif-forever-materialize-resolvers (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142048"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

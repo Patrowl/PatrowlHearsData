@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159546", "enisaUuid": "dc798b2a-89f7-3810-8dc9-4b90c86a8abb", "description": "Malicious code in aurelia-tables (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15045"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

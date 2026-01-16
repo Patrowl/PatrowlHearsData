@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181924", "enisaUuid": "812d60ee-b6d6-3a10-85b7-c62f31202e2f", "description": "Malicious code in resonance-socketio-pulsar-meteor (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32139"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113520", "enisaUuid": "250e4256-8ac3-338b-936c-03def525d60c", "description": "Malicious code in fork-less-loader-stream-spinner (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142592"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

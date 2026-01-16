@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121805", "enisaUuid": "1327eddb-7147-3fc4-82e4-55cd2c3dc377", "description": "Malicious code in spectron-nextjs-element-ui-passport (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148120"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

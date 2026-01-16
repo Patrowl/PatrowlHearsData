@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162237", "enisaUuid": "7a5f094a-bb3a-364d-a8e5-583d3e0d8898", "description": "Malicious code in cryptography-markdown-neutronstar-configstore (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17738"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

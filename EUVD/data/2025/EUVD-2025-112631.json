@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112631", "enisaUuid": "21a26022-e567-3129-a41f-9863981aa476", "description": "Malicious code in hyperion-janus-mutation-callback (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143481"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

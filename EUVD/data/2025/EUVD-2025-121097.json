@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121097", "enisaUuid": "b70c2e78-5ec9-313c-b0f7-a5942ce0b1b8", "description": "Malicious code in triton-webdriver-mocha-hercules-sails (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148831"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

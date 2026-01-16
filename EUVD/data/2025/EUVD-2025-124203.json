@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124203", "enisaUuid": "fa232ba7-4f8b-345f-aefd-30ca2900fc8e", "description": "Malicious code in nuxtjs-uglify-js-loopback-comet (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145718"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

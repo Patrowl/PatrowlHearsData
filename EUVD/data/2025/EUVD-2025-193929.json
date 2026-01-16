@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193929", "enisaUuid": "e9d82ae7-b008-3041-bec4-d5d766d2c566", "description": "Malicious code in event-atlas-selenium-jest (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44176"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

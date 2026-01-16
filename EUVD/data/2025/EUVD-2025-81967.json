@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-81967", "enisaUuid": "d414bba2-3f00-3e16-b288-3cfc3204acab", "description": "Malicious code in external_ant_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-102417"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

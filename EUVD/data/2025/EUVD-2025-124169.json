@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124169", "enisaUuid": "279bd532-9938-3f50-9b51-5fd79b1b557e", "description": "Malicious code in oberon-puppeteer-sync-eclipse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145752"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

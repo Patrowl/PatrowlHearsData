@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-55509", "enisaUuid": "596a6431-fa24-3be0-9307-b6abc7feedbc", "description": "Malicious code in changing-fuchsia-iguana (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-67140"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

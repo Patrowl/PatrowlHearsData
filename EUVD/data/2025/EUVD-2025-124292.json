@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124292", "enisaUuid": "4a5d3fb6-63d2-30a7-a07a-b5e7955214a7", "description": "Malicious code in non-blocking-ursa-postgres-cygnus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145629"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

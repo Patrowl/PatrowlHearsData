@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179997", "enisaUuid": "aab18600-2cc2-3b4f-9ab8-7add051e8a84", "description": "Malicious code in bootes-terser-local-sqlite (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185885"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

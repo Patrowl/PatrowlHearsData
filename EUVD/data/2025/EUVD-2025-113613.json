@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113613", "enisaUuid": "e80376a1-52c5-3587-a381-4cb225cd5568", "description": "Malicious code in firebase-frontend-apollo-perseus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142498"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172139", "enisaUuid": "daeac42b-46a8-3d9c-b2e9-5c68cfa2a078", "description": "Malicious code in node-carweb-api (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27610"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116210", "enisaUuid": "09d89fd0-3e79-3d4b-b25a-4b50ce83b1bd", "description": "Malicious code in backend-npm-jwt-concurrently (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139892"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

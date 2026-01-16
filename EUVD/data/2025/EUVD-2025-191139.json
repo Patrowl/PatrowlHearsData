@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191139", "enisaUuid": "c843691a-f43c-3ff4-b705-e51c6c3aed8f", "description": "Malicious code in agent-cache (npm)", "datePublished": "2025-08-23T14:47:16", "dateUpdated": "2025-08-23T14:47:16", "baseScore": 0.0, "aliases": ["MAL-2025-41362"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

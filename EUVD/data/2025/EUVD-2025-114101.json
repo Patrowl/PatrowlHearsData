@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114101", "enisaUuid": "e3966693-2ae9-3343-8b4f-69e47856d0a6", "description": "Malicious code in eleventy-nodejs-luna-adonis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142009"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

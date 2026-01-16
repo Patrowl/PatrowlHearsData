@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-201934", "enisaUuid": "b6301282-2845-358e-b3fa-3d06c43b9ddc", "description": "Malicious code in libxmljs2qwerty (npm)", "datePublished": "2025-12-09T13:57:36", "dateUpdated": "2025-12-10T21:09:38", "baseScore": 0.0, "aliases": ["MAL-2025-192389"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

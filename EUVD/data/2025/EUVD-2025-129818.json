@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129818", "enisaUuid": "d1e565d4-9173-31d0-8052-a12d08ad20b1", "description": "Malicious code in google-login-flow (npm)", "datePublished": "2025-07-21T17:19:21", "dateUpdated": "2025-07-21T17:19:21", "baseScore": 0.0, "aliases": ["MAL-2025-6091"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

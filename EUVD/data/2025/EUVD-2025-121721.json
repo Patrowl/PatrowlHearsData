@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121721", "enisaUuid": "222deddb-60a6-3624-97b0-c676b678062c", "description": "Malicious code in spinner-node-config-sync-grus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148204"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

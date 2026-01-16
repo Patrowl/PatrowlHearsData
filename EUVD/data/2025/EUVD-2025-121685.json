@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121685", "enisaUuid": "e785813e-49f5-303e-89fb-3f708ccbe1c3", "description": "Malicious code in sqlite-spawn-ultra-eclipse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148240"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

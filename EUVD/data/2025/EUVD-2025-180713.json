@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180713", "enisaUuid": "08539928-11b5-3406-b4e5-8aac5da2e386", "description": "Malicious code in pyfastq (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-30927"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

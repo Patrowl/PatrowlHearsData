@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116595", "enisaUuid": "0387474b-65f3-31a0-9e61-e2890edf1acd", "description": "Malicious code in apollo-elara-dotenv-parse-variables-charon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139507"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

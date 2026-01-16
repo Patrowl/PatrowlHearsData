@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115229", "enisaUuid": "bcc25926-525b-3d2f-938a-d4820c8722b4", "description": "Malicious code in comet-lacerta-config-atlas (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140879"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

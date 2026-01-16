@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120969", "enisaUuid": "d0a0fa7f-8400-3b5e-8aac-323428acf7d2", "description": "Malicious code in uninstall-inquirer-vega-graphql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148960"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

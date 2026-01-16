@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176338", "enisaUuid": "56aca978-d8b9-3104-b804-4ea8adef1a37", "description": "Malicious code in slidev-parallax-epimetheus-redis (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189537"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

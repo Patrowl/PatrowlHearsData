@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179156", "enisaUuid": "8fea3d74-8a16-3332-8549-fa5b23d74232", "description": "Malicious code in emulate-tau-grep-resolve-decompress (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186726"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

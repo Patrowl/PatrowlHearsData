@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114214", "enisaUuid": "7c845399-b96c-3a27-a7df-8c2947c074f7", "description": "Malicious code in electron-builder-async-hyperion-eridanus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141896"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

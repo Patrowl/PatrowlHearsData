@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-198330", "enisaUuid": "c70c7365-c9ba-3948-9ec6-1478442e105b", "description": "Malicious code in @ra-ftds/motion-extension (npm)", "datePublished": "2025-11-20T18:10:55", "dateUpdated": "2025-11-24T16:09:27", "baseScore": 0.0, "aliases": ["MAL-2025-190589"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

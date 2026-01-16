@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131674", "enisaUuid": "d2e5bd4f-341b-391a-89be-aa0d61840920", "description": "Malicious code in @frozen-team-qa/ga-store-playwright (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7952"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123179", "enisaUuid": "cf8ae0d9-2b5f-3830-88e7-18fa5a038546", "description": "Malicious code in proxima-sqlite-module-alphard (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146743"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-73077", "enisaUuid": "5ba263bb-fe89-3efe-b630-8fca3b3a11fc", "description": "Malicious code in usual_fly_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-97213"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

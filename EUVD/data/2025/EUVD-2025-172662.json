@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172662", "enisaUuid": "211ce96b-5072-3cca-a6fc-90b9adf53405", "description": "Malicious code in octopus-app (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28133"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

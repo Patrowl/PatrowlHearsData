@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37276", "enisaUuid": "36ebc81c-4c44-3676-96cd-f229c75ef0d2", "description": "Malicious code in random-packaging (npm)", "datePublished": "2025-10-31T02:28:48", "dateUpdated": "2025-10-31T02:28:48", "baseScore": 0.0, "aliases": ["MAL-2025-49288"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

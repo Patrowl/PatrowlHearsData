@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191130", "enisaUuid": "cd2c4d9f-34d7-37f2-a1d6-d1bc1307bd8c", "description": "Malicious code in @mz-codes/const (npm)", "datePublished": "2025-08-21T18:44:54", "dateUpdated": "2025-08-21T18:44:54", "baseScore": 0.0, "aliases": ["MAL-2025-41352"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121587", "enisaUuid": "be25380e-f04e-3964-a1a5-caca14be83fc", "description": "Malicious code in style-loader-repository-command-auriga (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148338"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

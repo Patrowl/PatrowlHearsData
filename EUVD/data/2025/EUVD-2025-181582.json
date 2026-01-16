@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181582", "enisaUuid": "1b956650-d386-3ed1-a89f-1f7e74314f46", "description": "Malicious code in react-i18n-swc-plugin (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31797"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123280", "enisaUuid": "19b8f51a-ef04-3165-bf26-4221397d0cf5", "description": "Malicious code in promise-loop-server-farout (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146642"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

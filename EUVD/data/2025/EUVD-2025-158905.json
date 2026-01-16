@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-158905", "enisaUuid": "2a27e385-d4ca-3c9e-8041-dd4587b89d0b", "description": "Malicious code in altair-helios-start-sass-loader (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14404"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

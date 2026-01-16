@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130827", "enisaUuid": "5d9de19e-d502-39b8-ae4e-d100fdb02089", "description": "Malicious code in @aws-ee/base-services (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7105"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

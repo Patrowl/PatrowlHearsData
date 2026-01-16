@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-95798", "enisaUuid": "46d523a8-2cf0-3eb3-9079-8dac23c436e1", "description": "Malicious code in persistent_badger_z3n (npm)", "datePublished": "2025-11-11T20:11:48", "dateUpdated": "2025-11-11T20:11:48", "baseScore": 0.0, "aliases": ["MAL-2025-122502"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

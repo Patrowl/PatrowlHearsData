@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197207", "enisaUuid": "eedf703c-a25b-3cd4-986b-6d2efa6f63a5", "description": "Malicious code in traceviz-angular-axes (npm)", "datePublished": "2025-09-26T09:45:47", "dateUpdated": "2025-09-26T09:45:47", "baseScore": 0.0, "aliases": ["MAL-2025-47734"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

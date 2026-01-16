@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37057", "enisaUuid": "868e0e3f-227a-31b6-9c7b-e9d8e6e74776", "description": "Malicious code in react-router-kitt (npm)", "datePublished": "2025-10-30T17:38:57", "dateUpdated": "2025-10-30T17:38:57", "baseScore": 0.0, "aliases": ["MAL-2025-49236"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176954", "enisaUuid": "29385aa4-aee8-3289-b6bf-723afa29663c", "description": "Malicious code in proxima-thermosphere-weywot-websockets (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188921"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

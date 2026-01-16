@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130137", "enisaUuid": "d092a489-f908-348c-b62f-026053a762c9", "description": "Malicious code in disabled_native_dep (npm)", "datePublished": "2025-07-31T19:27:53", "dateUpdated": "2025-07-31T19:27:53", "baseScore": 0.0, "aliases": ["MAL-2025-6410"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

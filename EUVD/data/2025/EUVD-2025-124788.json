@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124788", "enisaUuid": "f927ec68-7709-3da5-becd-b228d1a1b7db", "description": "Malicious code in mongodb-halley-pavo-hyperion (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145130"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

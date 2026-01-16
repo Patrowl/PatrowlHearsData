@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112145", "enisaUuid": "1f3af183-0313-329f-8cd7-d4e4f429250b", "description": "Malicious code in json-chromedriver-pegasus-got (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143968"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

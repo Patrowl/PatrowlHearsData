@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114263", "enisaUuid": "12eeb925-30d3-3ac4-b13b-eb180e4ab403", "description": "Malicious code in eclipse-dotenv-sagitta-dynamo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141847"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164614", "enisaUuid": "eff6fecb-6834-3cfe-9f4c-caa6f209dba7", "description": "Malicious code in express-ycsrf (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20094"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

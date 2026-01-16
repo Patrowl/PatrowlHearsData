@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153603", "enisaUuid": "782fcc6b-1fe7-36bb-806a-9fd5b0829c8d", "description": "Malicious code in @michaljaz/backdoor (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9102"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

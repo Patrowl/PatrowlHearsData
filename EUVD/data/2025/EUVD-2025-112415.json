@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112415", "enisaUuid": "cebd3fff-3d72-3ab1-b779-16647709c0f8", "description": "Malicious code in io-geckodriver-local-publish (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143698"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

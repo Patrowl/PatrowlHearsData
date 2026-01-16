@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116246", "enisaUuid": "a280e485-8f8c-3f70-aaab-115161021a27", "description": "Malicious code in babel-dotenv-safe-cosmos-resolvers (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139856"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

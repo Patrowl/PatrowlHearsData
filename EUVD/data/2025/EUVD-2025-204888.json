@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-204888", "enisaUuid": "39f540d9-8f66-399d-8df8-f28b3e8eaa0f", "description": "Malicious code in elf-stats-sparkly-toolkit-703 (npm)", "datePublished": "2025-12-23T08:10:46", "dateUpdated": "2025-12-24T00:53:16", "baseScore": 0.0, "aliases": ["MAL-2025-192787"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

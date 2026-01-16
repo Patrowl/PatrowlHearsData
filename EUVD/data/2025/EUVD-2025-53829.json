@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-53829", "enisaUuid": "a00bd7e8-d52f-3c3f-a062-1930e77f3b08", "description": "Malicious code in improved-red-cockroach (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-68820"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

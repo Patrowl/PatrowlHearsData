@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176689", "enisaUuid": "211af0ac-3417-31b7-b7c7-82957b0ca03e", "description": "Malicious code in repository-heka-nestjs-mesosphere (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189186"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

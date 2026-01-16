@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-52443", "enisaUuid": "93a82fee-83f4-32f2-a3d8-010dca73a65e", "description": "Malicious code in raw-jade-cattle (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-70206"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121023", "enisaUuid": "20ef13bc-0717-3464-a69e-432572dfbbb7", "description": "Malicious code in ultra-postgres-publish-fornax (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148905"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

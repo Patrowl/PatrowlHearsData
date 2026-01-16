@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-186762", "enisaUuid": "43ed5936-2288-310e-882b-3b5000f82334", "description": "Malicious code in titan-steganography-redis-publish (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-36972"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

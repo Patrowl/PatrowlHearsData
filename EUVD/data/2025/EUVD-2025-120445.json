@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120445", "enisaUuid": "d9d772f2-fbb8-335f-85a0-28871a632a5e", "description": "Malicious code in winston-changelog-dotenv-parse-variables-parcel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149485"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

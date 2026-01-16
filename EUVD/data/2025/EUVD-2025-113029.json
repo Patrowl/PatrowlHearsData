@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113029", "enisaUuid": "f377f687-69d1-3234-ba6e-c58ed63a6210", "description": "Malicious code in grus-backend-webdriver-mocha-transform (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143083"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

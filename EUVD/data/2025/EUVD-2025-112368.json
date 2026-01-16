@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112368", "enisaUuid": "05f10134-325a-376f-be8d-4dab5b8b46f6", "description": "Malicious code in iota-umbra-upgrade-nodejs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143745"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

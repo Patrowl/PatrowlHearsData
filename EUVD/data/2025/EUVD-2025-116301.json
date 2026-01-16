@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116301", "enisaUuid": "6245ae1a-1434-3221-9038-595e5f400b31", "description": "Malicious code in await-markdownlint-axios-child-process (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139801"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

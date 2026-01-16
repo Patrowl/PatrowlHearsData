@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122583", "enisaUuid": "0947537b-5522-3729-9d0c-938a14b94942", "description": "Malicious code in rest-andromeda-ora-oauth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147339"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

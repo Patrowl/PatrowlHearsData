@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114268", "enisaUuid": "b0ac7186-85e5-3fb0-998c-039588922aea", "description": "Malicious code in dynamo-ursa-soap-update (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141841"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

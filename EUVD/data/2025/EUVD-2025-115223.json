@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115223", "enisaUuid": "bea12249-0644-38bd-8e54-2744813adefe", "description": "Malicious code in comet-parcel-perseus-postcss-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140885"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

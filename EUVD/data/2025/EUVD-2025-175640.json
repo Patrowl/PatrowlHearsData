@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175640", "enisaUuid": "c53229d8-e09d-3824-99f0-2b00f63b0dc0", "description": "Malicious code in wasat-rimraf-csrf-halley (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190236"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

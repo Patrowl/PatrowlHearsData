@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195567", "enisaUuid": "6ced8d0e-0138-3815-9e43-3f8d2c7c67e0", "description": "Malicious code in request-xo-robotics-umbriel (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45815"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

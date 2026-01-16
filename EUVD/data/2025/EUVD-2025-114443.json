@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114443", "enisaUuid": "24a4f7a3-8786-3a1f-92d4-14f81f37d186", "description": "Malicious code in docusaurus-html-webpack-plugin-jovian-geckodriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141666"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

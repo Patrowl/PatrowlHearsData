@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114254", "enisaUuid": "6d939a54-cbd2-3ea3-8689-13720fbf5803", "description": "Malicious code in eclipse-nightmare-framework-dotenv-parse-variables (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141856"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

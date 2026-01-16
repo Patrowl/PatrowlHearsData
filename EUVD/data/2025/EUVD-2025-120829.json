@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120829", "enisaUuid": "6f3165e4-86ee-3757-a7ad-995cc1d0736d", "description": "Malicious code in vega-websockets-xenos-webdriver-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149100"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

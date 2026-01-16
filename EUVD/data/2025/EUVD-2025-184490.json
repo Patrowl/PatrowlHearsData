@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184490", "enisaUuid": "e3c1a9bc-4ca1-3206-822a-41e2ab50fc5d", "description": "Malicious code in tencentcloud-cos-sdk-react-native (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34706"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194786", "enisaUuid": "fe0a4f47-f89a-3ef2-b47f-c9f72020586e", "description": "Malicious code in lint-gulp-prompts-postgres (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45033"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

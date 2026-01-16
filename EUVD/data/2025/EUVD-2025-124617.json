@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124617", "enisaUuid": "cb273eef-5225-3fdb-8871-3b52cba526b1", "description": "Malicious code in nconf-apollo-ursa-callback (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145303"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

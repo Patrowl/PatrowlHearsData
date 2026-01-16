@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120589", "enisaUuid": "91b5274f-d6d4-3c84-8979-d00c2c8d3a65", "description": "Malicious code in webdriver-mocha-airbnb-dagda-oauth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149340"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

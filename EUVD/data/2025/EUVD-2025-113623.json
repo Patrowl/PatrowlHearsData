@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113623", "enisaUuid": "7bd77f0c-4158-3f50-89ca-31a101b9929c", "description": "Malicious code in firebase-bootstrap-xenon-mira (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142488"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

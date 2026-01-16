@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120508", "enisaUuid": "ee79f762-76d7-3da2-9594-e23140368f37", "description": "Malicious code in websockets-google-markdownlint-inquirer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149421"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

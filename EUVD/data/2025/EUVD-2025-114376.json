@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114376", "enisaUuid": "1b2a4bdc-7f9a-366a-b101-bad7f2a2815d", "description": "Malicious code in dotenv-parse-variables-proxima-markdownlint-meteor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141733"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163164", "enisaUuid": "711a38bb-861f-3938-9e71-9da926aba122", "description": "Malicious code in dotenv-parse-variables-xanthus-nestjs-playwright (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18665"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

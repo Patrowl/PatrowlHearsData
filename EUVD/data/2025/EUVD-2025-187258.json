@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187258", "enisaUuid": "c0a66881-cc8d-3b9a-a25a-211ae8e1d70c", "description": "Malicious code in tzf-darwin-x64 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37470"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

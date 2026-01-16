@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180489", "enisaUuid": "58d8c340-ba01-32b5-80eb-2b5d182e0c8c", "description": "Malicious code in aether-vuepress-gatsby-schema (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185399"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

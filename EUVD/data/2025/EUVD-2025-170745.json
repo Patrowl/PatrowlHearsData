@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170745", "enisaUuid": "2d4bf788-50f2-3c3c-be39-56a1c6f992a3", "description": "Malicious code in meta-compile-shell-quick-resolve (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26216"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

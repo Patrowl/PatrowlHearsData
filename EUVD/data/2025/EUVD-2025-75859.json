@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75859", "enisaUuid": "cf897ca3-4e98-3b4c-a5bf-a22ee71c0ac4", "description": "Malicious code in ready_leopard-strongdev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-107758"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

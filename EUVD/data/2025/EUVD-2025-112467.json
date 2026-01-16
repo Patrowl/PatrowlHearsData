@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112467", "enisaUuid": "b44601db-082d-3ec0-a2cf-205beca842c6", "description": "Malicious code in inquirer-duplex-process-hyperion (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143646"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75825", "enisaUuid": "bb3def37-fdd4-39b4-a86a-68bc8aa0504a", "description": "Malicious code in remote_spider-apptea (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-107897"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

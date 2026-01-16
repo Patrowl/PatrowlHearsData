@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166561", "enisaUuid": "5abff6a2-9521-3bf1-9927-b27c398eeb0a", "description": "Malicious code in gulp-airbnb-child-process-pulsar (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22043"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

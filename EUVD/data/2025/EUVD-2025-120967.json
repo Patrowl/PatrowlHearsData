@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120967", "enisaUuid": "8e4d79ea-be76-3a2a-840d-cd21711788f7", "description": "Malicious code in uninstall-magellan-enif-nashira (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148962"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

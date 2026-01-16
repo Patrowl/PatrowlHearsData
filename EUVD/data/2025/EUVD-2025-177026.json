@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177026", "enisaUuid": "c1b73fc3-764a-321a-878b-b0f1854fdc29", "description": "Malicious code in procyon-slidev-process-webpack (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188849"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

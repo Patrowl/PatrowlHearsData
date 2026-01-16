@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116280", "enisaUuid": "19dbc12e-ba5d-33b9-b40b-92894a8a869c", "description": "Malicious code in axios-concurrently-loglevel-spectron (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139822"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

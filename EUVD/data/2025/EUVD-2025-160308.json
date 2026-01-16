@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160308", "enisaUuid": "ae28ad62-584e-32c1-98c8-68afb1abe355", "description": "Malicious code in blazar-transport-webdriver-manager-dependencies (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15807"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

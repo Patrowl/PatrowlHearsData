@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166992", "enisaUuid": "6281917d-75d9-3b31-91ba-2ecf8210862b", "description": "Malicious code in hl7.fhir.r4.core (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22474"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

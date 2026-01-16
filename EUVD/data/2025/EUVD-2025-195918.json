@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195918", "enisaUuid": "63497208-61f7-3fab-ba6d-e6a591cf2846", "description": "Malicious code in superagent-procyon-eslint-enif (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46166"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

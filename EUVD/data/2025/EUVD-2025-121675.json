@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121675", "enisaUuid": "a330230e-f1d6-3635-a91a-70bd34823e57", "description": "Malicious code in standard-bootstrap-restart-orbit (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148250"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-101228", "enisaUuid": "56d7fe06-d476-3421-8596-4acae40addcc", "description": "Malicious code in universal_bison_z3n (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-130865"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

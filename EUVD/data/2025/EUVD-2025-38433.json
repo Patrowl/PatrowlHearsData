@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-38433", "enisaUuid": "52adb921-392d-3355-b00b-72302f3f84b1", "description": "Malicious code in autonomous-header-package-test (npm)", "datePublished": "2025-11-09T00:17:09", "dateUpdated": "2025-11-09T00:17:09", "baseScore": 0.0, "aliases": ["MAL-2025-49397"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

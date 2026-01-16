@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112103", "enisaUuid": "4956a093-b8bd-3ae6-b384-cb854f2bd1ac", "description": "Malicious code in jsonp-spinner-dotenv-dotenv-safe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144010"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

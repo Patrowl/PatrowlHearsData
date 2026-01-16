@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124685", "enisaUuid": "25be0ab4-b062-36ab-bdca-b42694cba13a", "description": "Malicious code in mutation-tailwindcss-websockets-subscription (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145233"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123094", "enisaUuid": "d7032a12-752c-3029-9654-08053d38e0ef", "description": "Malicious code in pulsar-duplex-chakra-ui-equinox (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146828"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

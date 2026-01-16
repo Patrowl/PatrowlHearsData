@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173717", "enisaUuid": "c8b1bea7-2798-3cd1-b676-afda35191110", "description": "Malicious code in phpjs-shim (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29188"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

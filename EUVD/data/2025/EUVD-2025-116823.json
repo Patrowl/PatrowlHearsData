@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116823", "enisaUuid": "7c4f63ce-de14-350a-8214-247d8e871e47", "description": "Malicious code in aldebaran-grunt-cross-env-heka (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139279"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

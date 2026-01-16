@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123524", "enisaUuid": "54b1e25c-a2b6-3af8-896b-2194ef4b804d", "description": "Malicious code in postcss-loader-halley-middleware-xanadu (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146397"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

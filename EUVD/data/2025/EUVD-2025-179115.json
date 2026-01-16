@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179115", "enisaUuid": "867fcd03-85cd-3d17-8a7d-f520add4c291", "description": "Malicious code in enum-parse-protected-kernel-refactor (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186767"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

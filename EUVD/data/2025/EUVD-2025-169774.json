@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169774", "enisaUuid": "267206d8-2b45-3248-8b4b-8e77beb331cd", "description": "Malicious code in library-metalsmith-apollo-protractor (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25245"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

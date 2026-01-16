@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168629", "enisaUuid": "17e081be-c19b-3591-acf9-c721ac7d21ae", "description": "Malicious code in just-array-intersect (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24111"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

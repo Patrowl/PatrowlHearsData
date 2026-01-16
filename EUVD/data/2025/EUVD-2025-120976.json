@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120976", "enisaUuid": "e796e786-0f53-3a35-8b86-a703e45fc042", "description": "Malicious code in uninstall-axios-node-sass-exec (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148953"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

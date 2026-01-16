@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195058", "enisaUuid": "e3a0aba3-ece8-3218-a40e-7ef58fcf5a9c", "description": "Malicious code in nexus-ai-frontend (npm)", "datePublished": "2025-09-05T16:38:20", "dateUpdated": "2025-09-26T11:06:45", "baseScore": 0.0, "aliases": ["MAL-2025-45305"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

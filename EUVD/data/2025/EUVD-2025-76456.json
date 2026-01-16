@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76456", "enisaUuid": "5425de26-56f0-311e-8896-db9f0a193ce3", "description": "Malicious code in known_stingray-appteadev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-104843"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

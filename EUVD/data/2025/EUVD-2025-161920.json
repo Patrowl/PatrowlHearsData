@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161920", "enisaUuid": "ec910b95-48f6-3996-ac17-232c7022d0c3", "description": "Malicious code in commitlint-mutation-tectonic-html-webpack-plugin (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17421"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

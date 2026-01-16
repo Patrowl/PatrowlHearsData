@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121270", "enisaUuid": "e00cb63c-2547-396d-8b20-d7f9af9976a4", "description": "Malicious code in thuban-oauth-graphql-colors (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148658"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

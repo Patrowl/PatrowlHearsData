@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124297", "enisaUuid": "61646784-2a32-3c5a-85df-a0e6246dbc47", "description": "Malicious code in non-blocking-stream-achernar-webdriver-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145624"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

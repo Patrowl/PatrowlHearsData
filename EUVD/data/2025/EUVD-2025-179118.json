@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179118", "enisaUuid": "5026e910-92d8-3437-9eb2-6e091e953f29", "description": "Malicious code in enum-compress-proxy-thread-user (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186764"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

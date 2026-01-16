@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123087", "enisaUuid": "b33a7389-aed5-3ff9-885b-3a5424a21120", "description": "Malicious code in pulsar-jwt-warp-morgan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146835"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

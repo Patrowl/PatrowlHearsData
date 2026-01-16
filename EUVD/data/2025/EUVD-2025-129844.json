@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129844", "enisaUuid": "5b0687e2-0338-31e8-9cb4-2b9c4957dad8", "description": "Malicious code in preview-server-auth-bounty (npm)", "datePublished": "2025-07-11T03:46:57", "dateUpdated": "2025-07-11T03:46:57", "baseScore": 0.0, "aliases": ["MAL-2025-6117"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

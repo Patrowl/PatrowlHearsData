@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-64949", "enisaUuid": "eb6b0229-a444-36e9-81f2-c512de91a574", "description": "Malicious code in cold_flyingfish_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-93605"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

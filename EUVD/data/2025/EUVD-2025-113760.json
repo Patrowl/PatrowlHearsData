@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113760", "enisaUuid": "fa0e725f-2d63-38a3-a59c-a0032fc947ee", "description": "Malicious code in exec-markdown-pdf-lyra-postgres (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142350"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

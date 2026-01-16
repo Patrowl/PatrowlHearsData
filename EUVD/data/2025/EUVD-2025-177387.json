@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177387", "enisaUuid": "b1932e81-b306-3666-85cb-0569069695cf", "description": "Malicious code in package-uninstall-scorpius-react-bootstrap (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188495"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

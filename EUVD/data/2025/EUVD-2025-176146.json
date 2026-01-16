@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176146", "enisaUuid": "9f3cc005-9775-3f7d-8030-55f398ebdbf0", "description": "Malicious code in sudo-reject-mu-proxy-fork (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189729"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120640", "enisaUuid": "3045131c-c332-3b54-bf47-bdd1af79e902", "description": "Malicious code in wasat-fetch-event-airbnb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149289"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115271", "enisaUuid": "ec297565-a33a-3abc-8ff0-92e1dae67c58", "description": "Malicious code in cluster-testcafe-chalk-mongoose (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140837"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

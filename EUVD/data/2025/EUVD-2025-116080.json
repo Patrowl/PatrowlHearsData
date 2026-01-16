@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116080", "enisaUuid": "d3e68cba-4c17-341a-a9fa-f198dffcc8eb", "description": "Malicious code in blaze-grus-cross-env-winston (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140022"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

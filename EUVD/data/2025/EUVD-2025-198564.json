@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-198564", "enisaUuid": "61144fea-c6bf-3c02-b85f-420e38cd1220", "description": "Malicious code in com.unity.xr.visionos (npm)", "datePublished": "2025-11-23T11:02:13", "dateUpdated": "2025-11-24T16:09:28", "baseScore": 0.0, "aliases": ["MAL-2025-190622"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

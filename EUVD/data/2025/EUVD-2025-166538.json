@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166538", "enisaUuid": "0028501b-09cf-38eb-a206-90a953064e92", "description": "Malicious code in gstream-consumer (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22020"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

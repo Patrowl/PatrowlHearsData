@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111101", "enisaUuid": "eb9009be-e5bd-3234-aacd-798ad0fc585e", "description": "Malicious code in mira-phoenix-testcafe-await (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145014"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

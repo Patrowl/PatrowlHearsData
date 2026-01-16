@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122483", "enisaUuid": "0d4355f8-a8a9-33d0-833e-9b39e4489ec2", "description": "Malicious code in rigel-radiant-uglify-js-node-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147439"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

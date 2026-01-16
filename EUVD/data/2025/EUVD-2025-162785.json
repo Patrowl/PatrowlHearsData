@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162785", "enisaUuid": "263a42de-7d88-3701-bb49-4e71f31528fe", "description": "Malicious code in dependencies-envconfig-csv-auriga (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18286"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159534", "enisaUuid": "898ad6c7-7cb7-3655-a7f4-2993d5e673c6", "description": "Malicious code in audio-extraction-pipeline (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15033"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

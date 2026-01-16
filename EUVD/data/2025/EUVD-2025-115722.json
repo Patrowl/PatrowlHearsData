@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115722", "enisaUuid": "37daedf9-079d-3328-902c-dd014c2a87c6", "description": "Malicious code in capella-css-minimizer-webpack-plugin-csv-meteor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140384"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

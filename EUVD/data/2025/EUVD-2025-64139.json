@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-64139", "enisaUuid": "e35be244-26a8-3c60-94d2-280905f16a09", "description": "Malicious code in faint_salmon_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-94415"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-154072", "enisaUuid": "f0756807-e52e-3114-900f-876194c2e8db", "description": "Malicious code in @ttbc-vmok/bc-react-consumer (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-29T06:43:16", "baseScore": 0.0, "aliases": ["MAL-2025-9571"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

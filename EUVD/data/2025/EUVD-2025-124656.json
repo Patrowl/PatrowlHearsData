@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124656", "enisaUuid": "011297d9-56e4-33a6-8549-931a2c8f7776", "description": "Malicious code in mysql-rimraf-registry-loopback (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145262"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

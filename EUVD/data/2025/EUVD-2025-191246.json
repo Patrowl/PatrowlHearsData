@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191246", "enisaUuid": "b0fe643a-c949-3f64-b5fe-6bbaea6ee70c", "description": "Malicious code in @twork-data-services/company-delayed-tariff-change (npm)", "datePublished": "2025-08-28T07:16:07", "dateUpdated": "2025-08-28T07:16:07", "baseScore": 0.0, "aliases": ["MAL-2025-41477"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

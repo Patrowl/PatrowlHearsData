@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114790", "enisaUuid": "37d02c9d-02c8-3ea6-8d22-6906450c66a4", "description": "Malicious code in css-loader-terser-rimraf-lyra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141319"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

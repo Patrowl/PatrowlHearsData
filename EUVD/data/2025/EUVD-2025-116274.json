@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116274", "enisaUuid": "cb3aeedd-21a1-3c18-8d2f-d654816fe115", "description": "Malicious code in axios-exec-umbriel-meteor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139828"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168652", "enisaUuid": "f6517a34-26aa-3bc0-bf6a-09fc1eaf8f2c", "description": "Malicious code in jwt-module-pipe-chalk (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24134"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

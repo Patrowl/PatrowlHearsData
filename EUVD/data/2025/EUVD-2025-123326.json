@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123326", "enisaUuid": "4a76ce9f-0e98-3668-a301-e982cd893306", "description": "Malicious code in procyon-hyperion-dotenv-parse-variables-blaze (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146596"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

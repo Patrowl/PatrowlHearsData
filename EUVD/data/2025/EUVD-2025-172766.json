@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172766", "enisaUuid": "d3ad4178-c4e1-3513-8353-e2b5d96c9870", "description": "Malicious code in onedrive-verification (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28237"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

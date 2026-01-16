@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111365", "enisaUuid": "362dd6d9-d20e-3500-a980-5ca4cc36c63b", "description": "Malicious code in materialize-postcss-triton-dagda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144750"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116638", "enisaUuid": "e0f7dee0-776b-3485-afc1-d6f7d7a2e86e", "description": "Malicious code in antd-postgres-eleventy-polaris (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139464"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124733", "enisaUuid": "3450e745-16cf-3d8a-b1fe-4d85035e2a9b", "description": "Malicious code in morgan-npm-json-react-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145185"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

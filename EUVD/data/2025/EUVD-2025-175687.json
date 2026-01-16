@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175687", "enisaUuid": "5def0069-099c-3738-8593-cd20a7b7bb7e", "description": "Malicious code in vuepress-auth0-meteor-duplex (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190189"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180247", "enisaUuid": "d790ae6e-edaa-38d2-819f-691a6437ff57", "description": "Malicious code in atlas-standard-ursa-auth0 (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185641"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

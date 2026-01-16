@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122671", "enisaUuid": "5a118e66-b13d-374a-836d-d55dccf40ae2", "description": "Malicious code in remark-markdownlint-capella-promise (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147251"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

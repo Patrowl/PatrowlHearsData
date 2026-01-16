@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112439", "enisaUuid": "613372e5-6397-3209-8b29-b447462aad39", "description": "Malicious code in install-eclipse-supervisor-markdown-pdf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143674"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164612", "enisaUuid": "8d32b137-5737-37d3-a009-41215283c86a", "description": "Malicious code in express-yandex-csp (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20092"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

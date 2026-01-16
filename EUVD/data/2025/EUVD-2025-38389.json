@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-38389", "enisaUuid": "8fb36293-60c8-3c7f-bbf8-85db0241baa8", "description": "Malicious code in superbankxmlparser (npm)", "datePublished": "2025-11-09T00:17:09", "dateUpdated": "2025-12-24T10:09:30", "baseScore": 0.0, "aliases": ["MAL-2025-49441"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

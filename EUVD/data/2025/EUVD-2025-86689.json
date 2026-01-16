@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-86689", "enisaUuid": "18a63e19-083a-3978-928c-f8b8432d1428", "description": "Malicious code in concrete_impala_z3n (npm)", "datePublished": "2025-11-11T04:25:34", "dateUpdated": "2025-11-11T15:48:14", "baseScore": 0.0, "aliases": ["MAL-2025-84236"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

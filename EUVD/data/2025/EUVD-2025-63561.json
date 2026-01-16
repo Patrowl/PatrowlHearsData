@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63561", "enisaUuid": "45a47e06-b195-31f7-8432-32b2e90fad42", "description": "Malicious code in independent_chicken_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-94993"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

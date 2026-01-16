@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182335", "enisaUuid": "aea11143-d288-3599-8e75-8ababce8a998", "description": "Malicious code in ruffer-xor (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32550"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

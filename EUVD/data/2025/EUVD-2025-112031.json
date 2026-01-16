@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112031", "enisaUuid": "7778606a-ff78-3769-a40e-81a0f64fb19a", "description": "Malicious code in jwt-pm2-sirius-dione (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144082"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

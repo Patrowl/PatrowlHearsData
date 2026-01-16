@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173389", "enisaUuid": "f6892025-5852-32d9-bdfc-eb43a3e627dc", "description": "Malicious code in parallax-browserify-event-inflation (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28860"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

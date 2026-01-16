@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120865", "enisaUuid": "387f0501-1ca9-3de2-8b80-623882989276", "description": "Malicious code in ursa-middleware-express-europa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149064"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

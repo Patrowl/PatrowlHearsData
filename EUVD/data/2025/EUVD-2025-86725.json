@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-86725", "enisaUuid": "930176b3-a160-36a7-88de-a00abc3e00ed", "description": "Malicious code in clean_cheetah_z3n (npm)", "datePublished": "2025-11-11T04:25:34", "dateUpdated": "2025-11-11T15:48:14", "baseScore": 0.0, "aliases": ["MAL-2025-84164"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

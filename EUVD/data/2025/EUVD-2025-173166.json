@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173166", "enisaUuid": "8db3c4fc-f256-37ab-bb30-dabb72cd897f", "description": "Malicious code in p12_front-end-with-react (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28637"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

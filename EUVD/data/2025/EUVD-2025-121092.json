@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121092", "enisaUuid": "d3305166-290a-3dce-9e14-cc4606fa4407", "description": "Malicious code in typeorm-astro-playwright-hercules (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148836"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

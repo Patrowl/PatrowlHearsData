@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180224", "enisaUuid": "fb6fe1f8-0b07-3e7a-af42-b0e8eb55fdf8", "description": "Malicious code in auth0-corvus-webdriver-mocha-chromedriver (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185664"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120557", "enisaUuid": "2934722d-2ccf-3d05-859f-a3b85fe3dc2e", "description": "Malicious code in webdriverio-indus-puppeteer-grunt (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149372"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

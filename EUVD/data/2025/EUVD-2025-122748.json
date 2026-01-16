@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122748", "enisaUuid": "264fb563-be4d-38c2-94b4-f7671ffe4632", "description": "Malicious code in rehype-lint-staged-electron-builder-readable (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147174"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

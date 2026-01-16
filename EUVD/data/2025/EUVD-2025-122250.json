@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122250", "enisaUuid": "1a14df58-86c6-3de6-9cbe-717cd43932b6", "description": "Malicious code in sass-loader-lacerta-axios-scripts (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147672"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

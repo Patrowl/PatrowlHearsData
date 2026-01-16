@@ -1,0 +1,1 @@
+{"id": "EUVD-2026-0731", "enisaUuid": "50e8d86c-47fc-3144-a82d-81a205aece77", "description": "Malicious code in showdownxss (npm)", "datePublished": "2026-01-02T22:06:48", "dateUpdated": "2026-01-02T22:06:48", "baseScore": 0.0, "aliases": ["MAL-2026-23"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

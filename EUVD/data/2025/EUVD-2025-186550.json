@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-186550", "enisaUuid": "4e7f0a91-a09e-319d-8e8d-01fcbf5fd99b", "description": "Malicious code in tezo-sdk (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-36766"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

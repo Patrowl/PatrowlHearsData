@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115829", "enisaUuid": "4ffd084f-5039-3ef9-8a19-91575676b2fe", "description": "Malicious code in cache-npm-terser-lint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140277"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

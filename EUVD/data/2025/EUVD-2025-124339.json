@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124339", "enisaUuid": "190e23ac-7ae0-3dd4-9a20-0c8895956fd7", "description": "Malicious code in nodemon-less-gravity-process (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145582"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

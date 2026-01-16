@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124345", "enisaUuid": "85159949-8ee4-3c9b-8847-9bf600be2274", "description": "Malicious code in nodejs-quito-deimos-publish (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145576"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

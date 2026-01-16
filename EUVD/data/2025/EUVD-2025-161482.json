@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161482", "enisaUuid": "41c4683a-9770-3b93-ac23-4490e1995909", "description": "Malicious code in child-process-rigel-soap-comet (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16981"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

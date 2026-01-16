@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176187", "enisaUuid": "ad60aeba-4524-314b-8916-997071fc937a", "description": "Malicious code in stream-sequelize-writable-local (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189688"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

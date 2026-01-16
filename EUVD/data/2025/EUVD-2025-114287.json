@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114287", "enisaUuid": "47a121ea-0283-30c7-878d-fef205db76d5", "description": "Malicious code in duplex-winston-loop-hyperion (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141822"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

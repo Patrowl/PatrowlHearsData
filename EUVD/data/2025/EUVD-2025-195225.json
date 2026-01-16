@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195225", "enisaUuid": "0e37b057-b715-3fb9-8601-b9b885d3630a", "description": "Malicious code in optimize-css-assets-webpack-plugin-izar-nuxtjs-toml (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45473"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

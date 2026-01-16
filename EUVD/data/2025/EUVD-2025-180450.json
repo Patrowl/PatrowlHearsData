@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180450", "enisaUuid": "f61a7a34-7557-3703-9737-df772fffe52d", "description": "Malicious code in alphard-dynamo-antares-meteor (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185438"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

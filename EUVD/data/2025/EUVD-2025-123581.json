@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123581", "enisaUuid": "90d8f045-95f0-3492-80a8-71d2eae440be", "description": "Malicious code in polaris-europa-csv-electron-builder (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146340"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

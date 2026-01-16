@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184554", "enisaUuid": "4cfafe94-4506-3a52-b70d-649e48c16b7d", "description": "Malicious code in test-greatfilter-meteor-pulsar (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34770"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

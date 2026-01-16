@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166567", "enisaUuid": "b1775e64-a8aa-3988-ae91-e3732675739d", "description": "Malicious code in gulp-dslash (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22049"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

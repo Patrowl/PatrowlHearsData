@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123758", "enisaUuid": "6437b689-505b-3046-816d-efeb57334a23", "description": "Malicious code in phoebe-mongodb-css-loader-inquirer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146163"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

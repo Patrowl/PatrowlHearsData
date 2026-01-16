@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123910", "enisaUuid": "9d4dacfb-baf5-31d0-bc20-3c7f11e363e1", "description": "Malicious code in pavo-supervisor-cors-start (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146011"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

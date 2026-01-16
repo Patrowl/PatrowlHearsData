@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124385", "enisaUuid": "dd81a16d-bbc3-3af3-a673-0a1d401dd9a3", "description": "Malicious code in node-sass-eleventy-framework-postcss-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145536"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

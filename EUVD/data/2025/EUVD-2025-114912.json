@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114912", "enisaUuid": "5c53d434-05e4-393b-a45a-95ec74a83e3d", "description": "Malicious code in cosmiconfig-tethys-jwt-grunt (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141197"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

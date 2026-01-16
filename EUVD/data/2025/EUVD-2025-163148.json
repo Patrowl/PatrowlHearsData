@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163148", "enisaUuid": "8590bfa7-85ab-3c8c-9043-43a77e97a9ed", "description": "Malicious code in dorado-metalsmith-heka-commitlint-config-angular (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18649"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

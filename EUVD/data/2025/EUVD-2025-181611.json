@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181611", "enisaUuid": "0677b00a-30fd-3038-946f-749eea0b30ed", "description": "Malicious code in react-native-performance-navigation-drawer (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31826"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

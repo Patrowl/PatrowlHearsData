@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113513", "enisaUuid": "b60eeea8-b0ad-3b98-9df9-b665e7ef3fc2", "description": "Malicious code in fork-spectron-dependencies-stop (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142599"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165104", "enisaUuid": "fa094f13-7da3-3ddd-a2fa-0af2828174ea", "description": "Malicious code in firebase-babel-apollo-dotenv-safe (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20585"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

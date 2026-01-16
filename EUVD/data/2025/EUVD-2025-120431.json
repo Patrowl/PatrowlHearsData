@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120431", "enisaUuid": "e9cf628c-b4b8-3036-9ea5-4ba9ae594f80", "description": "Malicious code in winston-iota-pipe-chromedriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149499"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

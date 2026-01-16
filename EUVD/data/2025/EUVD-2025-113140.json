@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113140", "enisaUuid": "d2377fed-970d-32ed-bedb-a8beaf9b5e81", "description": "Malicious code in google-typeorm-public-neptune (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142972"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

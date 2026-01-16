@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116487", "enisaUuid": "aeca468a-3b2d-3f8c-a0ab-23517a926f37", "description": "Malicious code in astro-postgres-dependencies-bellatrix (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139615"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

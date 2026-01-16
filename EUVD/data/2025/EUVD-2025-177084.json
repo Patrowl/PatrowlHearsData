@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177084", "enisaUuid": "abe10f9d-7b83-3a1a-8843-de31340b41c2", "description": "Malicious code in postgres-promise-transform-farout (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188791"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

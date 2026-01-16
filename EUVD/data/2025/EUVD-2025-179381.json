@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179381", "enisaUuid": "301f92f6-2eae-3854-a40c-b5cd61d1316c", "description": "Malicious code in decode-info-new-finally-new (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186501"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

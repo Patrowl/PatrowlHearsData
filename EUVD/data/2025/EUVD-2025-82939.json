@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-82939", "enisaUuid": "37343e5e-db13-309a-87d4-c7a7bf495a1a", "description": "Malicious code in alert_antlion_z3n (npm)", "datePublished": "2025-11-11T07:16:30", "dateUpdated": "2025-11-11T07:16:30", "baseScore": 0.0, "aliases": ["MAL-2025-99341"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113733", "enisaUuid": "196f8465-b417-3f25-b714-4097ee1e191c", "description": "Malicious code in express-ganymede-xml-betelgeuse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142377"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

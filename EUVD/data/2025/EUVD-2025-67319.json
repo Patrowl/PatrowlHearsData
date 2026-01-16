@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-67319", "enisaUuid": "fdbbf003-56e2-364d-899a-d6b6d6e3b220", "description": "Malicious code in required_falcon_z3n (npm)", "datePublished": "2025-11-11T04:25:34", "dateUpdated": "2025-11-11T04:25:34", "baseScore": 0.0, "aliases": ["MAL-2025-89935"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

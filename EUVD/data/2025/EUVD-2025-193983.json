@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193983", "enisaUuid": "45b75cf6-71b5-329b-9170-788fc705f320", "description": "Malicious code in farout-adonis-tool-soap (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44230"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

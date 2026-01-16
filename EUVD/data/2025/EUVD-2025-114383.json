@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114383", "enisaUuid": "9d361920-bc74-347e-b9f9-b3a5fcfd5bb4", "description": "Malicious code in dotenv-parse-variables-module-oauth-magellan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141726"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

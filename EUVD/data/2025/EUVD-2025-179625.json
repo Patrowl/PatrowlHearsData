@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179625", "enisaUuid": "7ad741c3-c62d-36dc-9ebc-e81f0f0fe140", "description": "Malicious code in commitlint-slides-octans-resolvers (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186257"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

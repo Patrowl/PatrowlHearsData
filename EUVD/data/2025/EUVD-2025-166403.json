@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166403", "enisaUuid": "8bbdce88-df09-326e-b70f-8b2a6c3168f6", "description": "Malicious code in graphql-comet-mantle-got (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21885"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

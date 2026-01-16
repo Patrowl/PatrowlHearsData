@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128804", "enisaUuid": "82509cdd-bf9a-3c1b-9863-ea66081e605a", "description": "Malicious code in clientcore-infrastructure-analytics (npm)", "datePublished": "2025-06-18T10:24:09", "dateUpdated": "2025-06-18T10:24:09", "baseScore": 0.0, "aliases": ["MAL-2025-5075"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

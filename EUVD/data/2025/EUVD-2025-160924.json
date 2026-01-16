@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160924", "enisaUuid": "d3eb7d72-a9f4-35fe-8f16-39c82c220414", "description": "Malicious code in cache-omega-socket-decrypt-xml (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16423"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

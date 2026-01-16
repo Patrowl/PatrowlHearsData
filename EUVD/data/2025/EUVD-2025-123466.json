@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123466", "enisaUuid": "58f0b382-c8a5-3069-9f13-c32e38db4420", "description": "Malicious code in prettier-betelgeuse-element-ui-terser-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146456"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176210", "enisaUuid": "a5d74dab-3efd-3dd6-822d-6c16bb28a4bf", "description": "Malicious code in steganography-aether-on-envconfig (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189665"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115357", "enisaUuid": "fd439a73-4260-31d1-a8f2-1c29b73c5e47", "description": "Malicious code in child-process-lint-staged-less-style-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140750"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

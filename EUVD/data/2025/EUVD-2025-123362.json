@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123362", "enisaUuid": "e09e90cb-305b-3947-84cc-5480de4741cd", "description": "Malicious code in process-nashira-alphard-dotenv-safe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146560"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123982", "enisaUuid": "0966c2fe-dc64-3915-8641-0efb9fe2c2a6", "description": "Malicious code in package-lyra-postgres-dotenv-parse-variables (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145939"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

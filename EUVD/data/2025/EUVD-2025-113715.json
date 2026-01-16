@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113715", "enisaUuid": "b0679219-6f4e-3342-9647-19c209816f0c", "description": "Malicious code in express-winston-yakutsk-halley (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142395"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

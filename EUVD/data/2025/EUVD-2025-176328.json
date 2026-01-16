@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176328", "enisaUuid": "b97b16c9-8da3-3087-b89f-0d78eb84dd20", "description": "Malicious code in small-interpret-java-reject-data (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189547"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

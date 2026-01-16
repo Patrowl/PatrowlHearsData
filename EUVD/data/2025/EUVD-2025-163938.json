@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163938", "enisaUuid": "9a2cf1d0-6311-316c-9c8a-0585718152a3", "description": "Malicious code in electron-charon-convict-meissa (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19448"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

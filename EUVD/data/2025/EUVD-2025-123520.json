@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123520", "enisaUuid": "3e79e228-6821-39ae-8a06-b0ed4769f15a", "description": "Malicious code in postcss-loader-mutation-command-procyon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146401"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112724", "enisaUuid": "713c40f2-8175-3542-9e45-37fbb0e8d345", "description": "Malicious code in hugo-eslint-config-rimraf-nodejs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143388"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

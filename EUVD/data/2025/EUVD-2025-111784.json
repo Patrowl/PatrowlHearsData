@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111784", "enisaUuid": "678e028c-45bd-34a9-bfcb-13e82dd6db0a", "description": "Malicious code in less-loader-sagitta-webdriver-manager-leda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144329"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

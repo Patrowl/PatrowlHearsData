@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121643", "enisaUuid": "0f810847-c28c-3c8a-bd9e-cc95242ea2fb", "description": "Malicious code in start-stop-terser-hermes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148282"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

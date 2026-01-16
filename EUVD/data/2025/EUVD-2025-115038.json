@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115038", "enisaUuid": "8b8b2d30-0f44-3ee2-a819-e97999697c44", "description": "Malicious code in convict-cypress-lacerta-postcss (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141071"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195869", "enisaUuid": "13e48083-c09d-35f5-9e1d-63104212ff43", "description": "Malicious code in spark-webpack-react-app (npm)", "datePublished": "2025-09-05T16:38:20", "dateUpdated": "2025-09-05T16:38:20", "baseScore": 0.0, "aliases": ["MAL-2025-46117"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

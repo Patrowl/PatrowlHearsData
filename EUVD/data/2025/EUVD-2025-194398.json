@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194398", "enisaUuid": "5170afa0-b128-3b2f-a90c-a6bf71cc72c3", "description": "Malicious code in hudu-mofa (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44645"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

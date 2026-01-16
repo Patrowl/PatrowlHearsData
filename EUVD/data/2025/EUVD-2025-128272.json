@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128272", "enisaUuid": "a89aa3e3-f068-3866-b92c-fa255c7aefbf", "description": "Malicious code in @fms-common-biz/basic-react (npm)", "datePublished": "2025-05-23T14:11:30", "dateUpdated": "2025-05-23T14:11:30", "baseScore": 0.0, "aliases": ["MAL-2025-4540"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180181", "enisaUuid": "28fd6b9b-add4-3ac3-ab9a-f41fadf06dd1", "description": "Malicious code in await-throw-psi-simple-debug (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185701"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

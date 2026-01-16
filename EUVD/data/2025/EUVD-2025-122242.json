@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122242", "enisaUuid": "8ad6036e-48ed-3b95-9be0-a913977421f2", "description": "Malicious code in sass-loader-npm-markdownlint-apollo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147680"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

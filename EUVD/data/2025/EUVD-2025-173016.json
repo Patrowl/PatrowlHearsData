@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173016", "enisaUuid": "05c4f566-08f0-3eff-ab89-fbf23fac266c", "description": "Malicious code in ords-db-mongoaws (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28487"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

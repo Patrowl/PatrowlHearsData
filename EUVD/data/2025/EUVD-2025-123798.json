@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123798", "enisaUuid": "f909dd0d-007d-3b03-8611-4baa0273e89c", "description": "Malicious code in perseus-vega-leda-csrf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146123"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116838", "enisaUuid": "26e8c4b0-45d7-348d-a544-728c49d4deec", "description": "Malicious code in airbnb-transform-apollo-terser-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139264"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

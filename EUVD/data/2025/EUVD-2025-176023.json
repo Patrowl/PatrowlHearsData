@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176023", "enisaUuid": "23a396c4-b7ac-3b16-93d3-5514920fe85b", "description": "Malicious code in telesto-dotenv-safe-webdriver-mocha-jwt (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189852"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

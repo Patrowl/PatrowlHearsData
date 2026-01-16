@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179630", "enisaUuid": "bfcc4f11-1090-312f-8eae-5f5c257b8d1d", "description": "Malicious code in commitlint-config-angular-nodejs-carpo-vortex (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186252"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

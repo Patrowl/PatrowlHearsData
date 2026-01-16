@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153801", "enisaUuid": "dc5845e6-46b6-3b58-ba0b-ad1cc868151c", "description": "Malicious code in @sellerly-kit/dropdown (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9300"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

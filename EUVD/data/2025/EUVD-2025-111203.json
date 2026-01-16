@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111203", "enisaUuid": "5378bf3b-a1bd-3232-bdc2-8b0b876cbb3f", "description": "Malicious code in meteor-google-jekyll-query (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144912"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

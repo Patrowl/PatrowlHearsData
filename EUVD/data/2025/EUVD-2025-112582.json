@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112582", "enisaUuid": "aed0a436-7582-3b92-a1a9-e04f429132eb", "description": "Malicious code in ignite-terser-semantic-release-exec (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143530"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

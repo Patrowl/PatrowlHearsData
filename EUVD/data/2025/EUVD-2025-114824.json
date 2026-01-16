@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114824", "enisaUuid": "d51cd09d-cf9b-3b1d-b8b4-56d015a114b8", "description": "Malicious code in csrf-html-webpack-plugin-postgres-webdriver-manager (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141285"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

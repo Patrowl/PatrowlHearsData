@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196232", "enisaUuid": "7870e27a-cc7a-3c64-a779-e039574cb3ee", "description": "Malicious code in ursa-phoenix-hadron-terser-webpack-plugin (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46480"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130833", "enisaUuid": "0ab54202-045b-3780-b9aa-091f481c9c05", "description": "Malicious code in @bazel-example/vue-library (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7111"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

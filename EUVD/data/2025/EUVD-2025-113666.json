@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113666", "enisaUuid": "a48f8eb5-1812-3310-b0e5-742cbd206cd4", "description": "Malicious code in fetch-hexo-commitlint-config-angular-metalsmith (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142445"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

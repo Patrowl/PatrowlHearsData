@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121307", "enisaUuid": "5f5b9692-0358-313e-914c-40fb7df064ce", "description": "Malicious code in tethys-helmet-markdownlint-castor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148621"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

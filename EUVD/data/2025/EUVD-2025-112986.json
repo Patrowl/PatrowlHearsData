@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112986", "enisaUuid": "9eee50e5-35ae-3b17-b0e0-23139be9e386", "description": "Malicious code in gulp-xanadu-terser-prompts (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143126"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

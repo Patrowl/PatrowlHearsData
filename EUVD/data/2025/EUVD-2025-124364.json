@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124364", "enisaUuid": "ee167e8c-d6f2-3f09-a058-9afc0f250b7d", "description": "Malicious code in node-sass-webpack-yonder-husky (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145557"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

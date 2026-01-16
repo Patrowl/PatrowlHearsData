@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122641", "enisaUuid": "c7fcbb66-1e1c-352a-9483-8db849a9789b", "description": "Malicious code in repository-rigel-nodemon-websockets (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147281"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

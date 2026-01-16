@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111904", "enisaUuid": "ecb29257-088a-312a-9b28-2b609fa0bc53", "description": "Malicious code in koa-testcafe-koa-zephyr (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144209"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

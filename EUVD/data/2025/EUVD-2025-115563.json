@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115563", "enisaUuid": "39de0eb8-b6c2-3092-9cfb-6b3abe9f317a", "description": "Malicious code in centaurus-eslint-plugin-hapi-electron-builder (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140544"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-54421", "enisaUuid": "8232d489-9ef4-3cd2-9be8-5b18da18de41", "description": "Malicious code in familiar-indigo-cockroach (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-68228"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

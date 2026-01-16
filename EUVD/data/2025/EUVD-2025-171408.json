@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171408", "enisaUuid": "5c0dc10f-7637-3c54-b23f-03b5cd1f4ad7", "description": "Malicious code in multi-monitor-updater (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26879"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

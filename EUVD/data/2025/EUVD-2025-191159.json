@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191159", "enisaUuid": "40a24b46-d40c-3040-a4fa-a7ed05a13b5f", "description": "Malicious code in example-fastify-api (npm)", "datePublished": "2025-08-23T14:49:07", "dateUpdated": "2025-08-23T14:49:07", "baseScore": 0.0, "aliases": ["MAL-2025-41382"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

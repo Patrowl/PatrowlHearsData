@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-103511", "enisaUuid": "b9b3d4b9-4da0-33bf-bbba-314c263691ba", "description": "Malicious code in net_limpet_z3n (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-128894"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

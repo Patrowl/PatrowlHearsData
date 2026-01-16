@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169753", "enisaUuid": "f6cc245d-bcb1-33c4-bc6f-749c70f8fa07", "description": "Malicious code in lib-react-component-page-notifications (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25224"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

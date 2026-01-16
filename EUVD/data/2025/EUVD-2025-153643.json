@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153643", "enisaUuid": "e1457861-c309-3ceb-9586-75eed0c1422b", "description": "Malicious code in @omisepayments/in-app-communication-graphql-sdk (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9142"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

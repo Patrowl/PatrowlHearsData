@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116282", "enisaUuid": "75477b1d-2767-3f93-93b0-8063231a78f5", "description": "Malicious code in axios-canopus-kronos-rate-limiter (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139820"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

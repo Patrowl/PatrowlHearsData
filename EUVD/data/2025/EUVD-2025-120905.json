@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120905", "enisaUuid": "58e65c05-c31a-3e1b-bc63-fd800ee5e346", "description": "Malicious code in upgrade-nextjs-phoebe-node-sass (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149024"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

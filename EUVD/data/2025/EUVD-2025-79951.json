@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-79951", "enisaUuid": "daf32435-22db-3d88-aefc-07150d4bf653", "description": "Malicious code in yielding_smelt_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-111303"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

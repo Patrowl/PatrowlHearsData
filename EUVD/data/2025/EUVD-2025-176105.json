@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176105", "enisaUuid": "48be1bed-4443-301b-b33a-fca95f86f9ce", "description": "Malicious code in supernova-webdriver-mocha-centauri-vega (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189770"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172372", "enisaUuid": "b08552f4-5a40-3f1b-b531-db0b620953ba", "description": "Malicious code in npm-security-check (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27843"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

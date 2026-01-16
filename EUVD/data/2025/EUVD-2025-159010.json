@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159010", "enisaUuid": "dab9ab4b-4b9c-3bed-86c0-6d87a64a4a9f", "description": "Malicious code in andromeda-child-process-local-firebase (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14509"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

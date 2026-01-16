@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188807", "enisaUuid": "df24f896-da1a-34fd-b28e-7bdc2a59b559", "description": "Malicious code in webpack-core-utils (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39021"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

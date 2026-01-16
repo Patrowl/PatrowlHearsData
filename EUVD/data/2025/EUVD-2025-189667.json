@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189667", "enisaUuid": "457a37bd-24ca-3f4e-91fd-04a49567f29d", "description": "Malicious code in xmldsign (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39881"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

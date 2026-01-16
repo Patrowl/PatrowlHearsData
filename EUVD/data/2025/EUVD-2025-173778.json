@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173778", "enisaUuid": "30d7f3ae-774b-3fae-8332-a2722195da90", "description": "Malicious code in pii-detector (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29249"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114201", "enisaUuid": "e02988f2-6412-325d-8c16-9c52562515f2", "description": "Malicious code in electron-builder-nconf-warp-fetch (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141909"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

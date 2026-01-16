@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178053", "enisaUuid": "c9096d73-0f98-366e-ae74-68f1e967043b", "description": "Malicious code in load-float-omega-char-mock (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187829"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

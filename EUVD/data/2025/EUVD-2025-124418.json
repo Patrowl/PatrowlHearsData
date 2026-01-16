@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124418", "enisaUuid": "fdb8bc81-1b12-31ca-89b7-e675acd62a44", "description": "Malicious code in node-config-ariel-cosmiconfig-grus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145503"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

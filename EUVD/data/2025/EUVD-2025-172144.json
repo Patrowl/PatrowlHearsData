@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172144", "enisaUuid": "8e6878b3-2b57-3e56-a46b-c7bc47c4d195", "description": "Malicious code in node-earth-static-reject-xml (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27615"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

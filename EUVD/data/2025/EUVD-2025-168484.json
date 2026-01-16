@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168484", "enisaUuid": "f458aeb5-391f-3db7-9282-e0cc25a30315", "description": "Malicious code in jsonp-init-command-bunyan (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23966"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

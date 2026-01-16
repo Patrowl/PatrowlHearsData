@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162990", "enisaUuid": "ab07a013-f3c4-3b79-8241-cd0bf2f28f18", "description": "Malicious code in discourse-logster-rate-limit-checker (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18491"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

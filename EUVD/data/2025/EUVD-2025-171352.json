@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171352", "enisaUuid": "14136fd5-8e7b-318d-9e83-41c403d762f0", "description": "Malicious code in mqtt_plugin (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26823"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

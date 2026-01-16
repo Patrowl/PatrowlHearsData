@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113516", "enisaUuid": "4a08131d-5f25-39fb-a105-66ab9105a6ee", "description": "Malicious code in fork-run-script-json-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142596"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122624", "enisaUuid": "3e0a0091-1d29-39a8-8b3d-10e6c4635a06", "description": "Malicious code in request-kronos-elektra-stop (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147298"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

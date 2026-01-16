@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121693", "enisaUuid": "beaa1a64-a7b8-3b06-ad8c-48ae928be3fa", "description": "Malicious code in sqlite-non-blocking-native-kastra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148232"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

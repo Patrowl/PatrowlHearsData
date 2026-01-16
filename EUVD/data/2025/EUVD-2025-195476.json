@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195476", "enisaUuid": "9baba5b9-8a5b-3789-9cc7-fbb51bd4839f", "description": "Malicious code in quasar-ophiuchus-heka-dotenv (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45724"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115991", "enisaUuid": "3ec84e4d-fe3f-3624-8fac-3a54675b995a", "description": "Malicious code in bootstrap-json-leda-thuban (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140111"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

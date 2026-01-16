@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197096", "enisaUuid": "a108d77c-275f-3243-846e-0c435939b8fa", "description": "Malicious code in com.microsoft.mrtk.tts.windows (npm)", "datePublished": "2025-09-26T09:26:08", "dateUpdated": "2025-09-26T09:26:08", "baseScore": 0.0, "aliases": ["MAL-2025-47623"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

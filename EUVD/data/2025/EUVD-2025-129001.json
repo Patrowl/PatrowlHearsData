@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129001", "enisaUuid": "75b0736d-185e-336f-bcaf-807fc3984179", "description": "Malicious code in netbsd-x64 (npm)", "datePublished": "2025-06-26T04:36:17", "dateUpdated": "2025-06-26T04:36:17", "baseScore": 0.0, "aliases": ["MAL-2025-5272"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

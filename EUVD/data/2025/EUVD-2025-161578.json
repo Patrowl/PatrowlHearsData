@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161578", "enisaUuid": "dbc7e7df-88cd-3f06-817a-632f41b9b2bd", "description": "Malicious code in cj-tests-2fa (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17078"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

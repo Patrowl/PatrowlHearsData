@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166419", "enisaUuid": "8ced98bf-99f9-3958-854d-b77aacd3a187", "description": "Malicious code in graviton-dactyl-helmet-dotenv-parse-variables (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21901"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

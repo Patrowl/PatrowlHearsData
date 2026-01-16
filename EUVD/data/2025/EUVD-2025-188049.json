@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188049", "enisaUuid": "e84ba327-69f0-3c75-ac33-0b1a0d1a25a6", "description": "Malicious code in vertamedia-clickhouse-datasource (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38261"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

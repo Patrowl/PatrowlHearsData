@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165790", "enisaUuid": "e71317a6-c5d5-38e8-8bcd-1659ffb18a59", "description": "Malicious code in generator-angular-cli-library (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21271"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

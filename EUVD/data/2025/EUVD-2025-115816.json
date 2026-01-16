@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115816", "enisaUuid": "1dc9cd9d-bb6b-3f39-b47b-8042d08282d3", "description": "Malicious code in cache-xo-ini-wolf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140290"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

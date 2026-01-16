@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171938", "enisaUuid": "266b2af2-afd3-3b96-bf5f-6edd3b6efe04", "description": "Malicious code in nextjs-transform-blazar-procyon (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27409"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

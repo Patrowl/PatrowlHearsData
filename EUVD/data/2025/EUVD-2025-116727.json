@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116727", "enisaUuid": "84ba5829-8fbd-3964-b62a-b0afcd471e55", "description": "Malicious code in andromeda-csrf-got-tool (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139375"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

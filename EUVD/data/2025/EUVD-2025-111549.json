@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111549", "enisaUuid": "17f9e8f8-22e2-3192-a6a4-60aa1ccd0d4e", "description": "Malicious code in loopback-test-mongodb-sagitta (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144566"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

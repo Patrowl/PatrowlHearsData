@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177205", "enisaUuid": "95a46c32-ea22-3aa8-8f3e-aea531bed579", "description": "Malicious code in phoebe-stop-mongoose-gatsby (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188677"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

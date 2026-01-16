@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180163", "enisaUuid": "15d3cb2a-2b59-388c-9b17-ece2e66c1d2a", "description": "Malicious code in babel-dynamo-loop-terraforming (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185719"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

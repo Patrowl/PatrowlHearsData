@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121342", "enisaUuid": "e695bd1d-6e5a-30f7-b81b-b95ed35ce6cf", "description": "Malicious code in test-umbriel-postcss-proxima (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148586"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

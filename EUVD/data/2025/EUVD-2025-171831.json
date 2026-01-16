@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171831", "enisaUuid": "1f137501-dffd-360d-b3ef-c3663df8ca3b", "description": "Malicious code in nested-dependencies (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27302"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

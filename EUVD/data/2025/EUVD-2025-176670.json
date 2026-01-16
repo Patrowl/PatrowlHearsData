@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176670", "enisaUuid": "a43d67ab-92d3-3268-80ec-b13e7d521f77", "description": "Malicious code in resolvers-typeorm-dependencies-development (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189205"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

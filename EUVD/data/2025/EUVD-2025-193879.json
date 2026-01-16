@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193879", "enisaUuid": "74f9b719-6f34-3700-a918-18466404ba73", "description": "Malicious code in elektra-subscription-webdriver-manager-kastra (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44126"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

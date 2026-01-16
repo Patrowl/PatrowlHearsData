@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115863", "enisaUuid": "581cfed9-fb9f-370c-a83d-6824c4c0b917", "description": "Malicious code in bunyan-dotenv-parse-variables-bootstrap-wasat (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140241"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

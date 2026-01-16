@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178334", "enisaUuid": "5a2bfe5f-cbdc-3fff-afe3-a23d1ebac1c1", "description": "Malicious code in iota-virtualize-alert-mu-cache (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187548"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171106", "enisaUuid": "1c305a98-b37a-3217-9600-40501fa0283d", "description": "Malicious code in mocha-janus-shelljs-dorado (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26577"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

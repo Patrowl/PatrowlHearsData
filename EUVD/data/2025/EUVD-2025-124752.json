@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124752", "enisaUuid": "4f7c7fa7-c6f2-3368-98e6-7d8d9cadbd37", "description": "Malicious code in mongoose-ursa-csrf-pino-pretty (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145166"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

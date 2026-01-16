@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122950", "enisaUuid": "04871285-834f-33d6-b366-3b53da5ef79a", "description": "Malicious code in query-middleware-promise-development (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146972"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

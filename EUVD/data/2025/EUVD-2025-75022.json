@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75022", "enisaUuid": "39e4839a-8281-3c71-afa5-efc3622f37ff", "description": "Malicious code in amateur_mastodon-apptea (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-99387"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

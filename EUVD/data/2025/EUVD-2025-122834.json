@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122834", "enisaUuid": "04d80541-938d-3abc-abc2-a8def19cd1b4", "description": "Malicious code in readable-pino-loop-nightwatch (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147088"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

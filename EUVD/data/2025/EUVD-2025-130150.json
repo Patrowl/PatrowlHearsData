@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130150", "enisaUuid": "c86513e3-86ca-31a4-97ae-912b87f70d05", "description": "Malicious code in intercom-gtm-js (npm)", "datePublished": "2025-07-31T19:32:20", "dateUpdated": "2025-07-31T19:32:20", "baseScore": 0.0, "aliases": ["MAL-2025-6424"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

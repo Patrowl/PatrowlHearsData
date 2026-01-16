@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178118", "enisaUuid": "70575b56-94c5-34e2-a286-73a9f6eb457d", "description": "Malicious code in levels-await-postcss-comet (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187764"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130231", "enisaUuid": "7453f17d-7181-3f13-817a-9e5ee6e7661d", "description": "Malicious code in file-writer-control (PyPI)", "datePublished": "2025-07-31T19:15:02", "dateUpdated": "2025-07-31T19:15:02", "baseScore": 0.0, "aliases": ["MAL-2025-6505"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

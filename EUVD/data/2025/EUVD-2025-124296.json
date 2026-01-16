@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124296", "enisaUuid": "3bc35991-b137-300c-9447-a4b50e37a464", "description": "Malicious code in non-blocking-style-loader-grus-slidev (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145625"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115383", "enisaUuid": "14441ee8-619f-3fd5-a9e0-5113a62c96df", "description": "Malicious code in charon-less-express-non-blocking (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140724"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

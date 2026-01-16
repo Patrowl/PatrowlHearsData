@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176557", "enisaUuid": "9b7aeb76-b2f6-3893-9100-54024cf4d8a4", "description": "Malicious code in sagitta-protractor-taurus-csv (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189318"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

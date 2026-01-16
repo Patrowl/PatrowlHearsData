@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181349", "enisaUuid": "eecffae1-c971-3e34-93aa-63b4faf60089", "description": "Malicious code in rails-bigint-primarykey (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31563"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

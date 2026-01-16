@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121810", "enisaUuid": "625a1616-5fe4-3b91-b1d0-2c88fd3a3da1", "description": "Malicious code in spectron-dotenv-safe-titan-lynx (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148115"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

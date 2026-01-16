@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125531", "enisaUuid": "4503e8fd-833b-3568-bb00-84e972de6058", "description": "Malicious code in dw-api-mock2 (npm)", "datePublished": "2025-03-03T13:24:27", "dateUpdated": "2025-03-03T13:24:27", "baseScore": 0.0, "aliases": ["MAL-2025-1788"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

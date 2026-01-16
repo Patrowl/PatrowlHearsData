@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121641", "enisaUuid": "27b692e2-96aa-314b-8fba-6c71014b2190", "description": "Malicious code in start-ursa-nodejs-server (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148284"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

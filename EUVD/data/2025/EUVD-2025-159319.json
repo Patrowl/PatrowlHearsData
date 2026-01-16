@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159319", "enisaUuid": "11997a3b-e4ea-350a-9252-0565ea65e2dd", "description": "Malicious code in argo-checkout-vue (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14818"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

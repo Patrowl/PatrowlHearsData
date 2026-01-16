@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114396", "enisaUuid": "eaeef757-3948-3d0c-9c20-403a9a3d2e70", "description": "Malicious code in dotenv-parse-variables-convict-fusion-vuepress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141713"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

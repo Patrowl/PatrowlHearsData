@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177847", "enisaUuid": "e18585f9-0531-3955-b09f-4db7e9c41962", "description": "Malicious code in middleware-antares-bootstrap-fork (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188035"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

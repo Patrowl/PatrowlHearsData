@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-152924", "enisaUuid": "5b791ab5-570f-309b-b1ce-91ba38341133", "description": "Malicious code in @legalzoom/auth (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-8423"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122549", "enisaUuid": "deac1e06-5686-3264-956c-af2fa42b543b", "description": "Malicious code in restart-antares-europa-update (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147373"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

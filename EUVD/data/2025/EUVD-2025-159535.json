@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159535", "enisaUuid": "23307862-bd91-3114-be8c-1c29b099d8c4", "description": "Malicious code in audio-recording-summarization-pipeline (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15034"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

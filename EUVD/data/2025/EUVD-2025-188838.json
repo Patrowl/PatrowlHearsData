@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188838", "enisaUuid": "bfef4eef-f084-3fe2-811d-135650bae09f", "description": "Malicious code in webtask-sequence-editor (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39052"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

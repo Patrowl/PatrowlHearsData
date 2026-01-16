@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125649", "enisaUuid": "9dbe3320-072e-3ff8-b422-3ca5b6f98ffe", "description": "Malicious code in oj-sp-attachments-common (npm)", "datePublished": "2025-03-03T13:34:09", "dateUpdated": "2025-03-03T13:34:09", "baseScore": 0.0, "aliases": ["MAL-2025-1907"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

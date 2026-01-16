@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115167", "enisaUuid": "a33d94f1-0cf9-34f5-98d5-8cbeacc8abd5", "description": "Malicious code in commitizen-spawn-csv-auriga (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140941"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180101", "enisaUuid": "a44d7a91-a90c-33c8-a900-f7ff9f158f02", "description": "Malicious code in beta-grep-cron-omega-validate (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185781"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

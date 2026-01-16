@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114340", "enisaUuid": "01b4a4dd-eab3-38b9-a3c9-7dd83f6fbee5", "description": "Malicious code in dotenv-safe-pino-pretty-weywot-jwt (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141769"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

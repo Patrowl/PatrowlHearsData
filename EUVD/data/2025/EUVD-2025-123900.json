@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123900", "enisaUuid": "9a24bc6a-fe9d-374e-8734-95a44229f411", "description": "Malicious code in pegasus-chakra-ui-spectron-cache (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146021"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

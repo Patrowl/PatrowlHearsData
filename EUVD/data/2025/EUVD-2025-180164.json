@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180164", "enisaUuid": "4b3121c0-8aca-312e-911c-0ce550db72b3", "description": "Malicious code in babel-baryon-magellan-prettier-plugin-markdown (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185718"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

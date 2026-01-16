@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121010", "enisaUuid": "8816777e-6b20-35ac-9995-b3cef04591ad", "description": "Malicious code in umbra-eslint-config-elektra-postgres (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148918"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

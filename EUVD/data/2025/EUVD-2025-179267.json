@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179267", "enisaUuid": "d2e8547b-7b5e-3889-86e2-db171076f407", "description": "Malicious code in dotenv-parse-variables-astrobiology-readable-magellan (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186615"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

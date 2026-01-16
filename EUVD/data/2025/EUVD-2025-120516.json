@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120516", "enisaUuid": "318e1d54-cf86-38aa-86ff-cdd6eb3b90af", "description": "Malicious code in webpack-wasat-pyxis-json (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149413"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

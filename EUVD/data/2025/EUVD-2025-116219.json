@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116219", "enisaUuid": "5b819451-9408-3ed1-aa0f-4e4ba1ab472e", "description": "Malicious code in backend-configstore-ultra-parcel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139883"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177990", "enisaUuid": "dcc88c5a-faa4-351c-b235-c9480ba950af", "description": "Malicious code in lyra-nebula-node-config-terser-webpack-plugin (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187892"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

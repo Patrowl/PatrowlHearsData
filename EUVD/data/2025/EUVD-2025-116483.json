@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116483", "enisaUuid": "b680e52e-0975-3fff-bed2-30c8e3b66478", "description": "Malicious code in astro-vortex-commitlint-prompts (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139619"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

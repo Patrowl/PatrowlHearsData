@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122968", "enisaUuid": "7cbe470a-5be8-39e8-b22b-319fd858dd39", "description": "Malicious code in quasar-jwt-chariklo-virgo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146954"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

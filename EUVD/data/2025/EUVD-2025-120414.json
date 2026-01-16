@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120414", "enisaUuid": "060f7b61-2060-3a9e-a2cb-b6f5f0776f61", "description": "Malicious code in winston-nodemon-electron-builder-rest (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149516"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

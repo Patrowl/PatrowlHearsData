@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176674", "enisaUuid": "380da8cc-fde5-321f-804f-a62d671c4a29", "description": "Malicious code in resolvers-query-comet-radiant (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189201"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

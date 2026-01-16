@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120050", "enisaUuid": "f2664651-e9e4-3972-a910-c77e000be4cb", "description": "Malicious code in zephyr-charon-draco-antd (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149882"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

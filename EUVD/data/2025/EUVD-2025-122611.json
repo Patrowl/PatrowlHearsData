@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122611", "enisaUuid": "906679c5-9a6f-39dd-ab8d-9c28f31c238b", "description": "Malicious code in request-sails-equinox-electron-builder (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147311"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

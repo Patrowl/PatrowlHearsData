@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127220", "enisaUuid": "91b5eaab-b160-376e-bcb4-7bbb0657dddd", "description": "Malicious code in web3-validator (PyPI)", "datePublished": "2025-04-23T16:06:49", "dateUpdated": "2025-04-23T16:06:49", "baseScore": 0.0, "aliases": ["MAL-2025-3479"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

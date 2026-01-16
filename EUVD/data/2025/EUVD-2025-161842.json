@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161842", "enisaUuid": "7ae202c8-7fbe-3bfd-b116-6e47b7a25438", "description": "Malicious code in com.microsoft.mixedreality.wlt.asa (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17343"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

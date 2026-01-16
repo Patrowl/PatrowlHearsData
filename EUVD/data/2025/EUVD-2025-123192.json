@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123192", "enisaUuid": "6807b2b2-6cdd-3718-b7eb-374ecbe7bc71", "description": "Malicious code in proxima-promise-meteor-jest (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146730"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

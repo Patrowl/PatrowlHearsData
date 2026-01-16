@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175282", "enisaUuid": "84e06c36-8e24-3019-ad24-6a4d34f5b12d", "description": "Malicious code in prosoft-hapi-winston-logger (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-30753"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

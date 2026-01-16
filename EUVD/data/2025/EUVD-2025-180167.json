@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180167", "enisaUuid": "c77c8ed9-aff8-300a-b36f-e2ec4d6e0185", "description": "Malicious code in axios-neutrino-fomalhaut-perturbation (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185715"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

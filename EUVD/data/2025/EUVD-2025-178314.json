@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178314", "enisaUuid": "cf969b91-9f90-3190-9df4-fd23ec6e1455", "description": "Malicious code in janus-chai-umbriel-install (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187568"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

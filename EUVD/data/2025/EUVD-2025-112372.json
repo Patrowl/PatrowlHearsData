@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112372", "enisaUuid": "26bf02bc-4168-361f-b508-099f6d5e5eb3", "description": "Malicious code in iota-restart-zephyr-jasmine (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143741"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

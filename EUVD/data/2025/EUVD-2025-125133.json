@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125133", "enisaUuid": "5259e713-c537-3899-85c0-7d82b941678c", "description": "Malicious code in linter-coffee-variables (npm)", "datePublished": "2025-02-17T21:16:13", "dateUpdated": "2025-02-17T21:16:13", "baseScore": 0.0, "aliases": ["MAL-2025-1389"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

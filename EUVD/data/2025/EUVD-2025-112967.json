@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112967", "enisaUuid": "dc4a6b14-562a-39d6-bb63-e95dca53dc75", "description": "Malicious code in halley-hugo-node-config-helmet (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143145"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

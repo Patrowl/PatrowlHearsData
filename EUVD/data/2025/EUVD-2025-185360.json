@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-185360", "enisaUuid": "10b0a7fc-8d83-33c9-a3cd-46aa16ff5f76", "description": "Malicious code in test-mlw2-jetty-trove (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-35576"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

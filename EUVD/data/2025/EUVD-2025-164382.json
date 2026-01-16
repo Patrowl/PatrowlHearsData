@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164382", "enisaUuid": "9a69438a-3510-359e-b34d-1b6d80c7008d", "description": "Malicious code in eslint-plugin-restart-vega-soap (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19862"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

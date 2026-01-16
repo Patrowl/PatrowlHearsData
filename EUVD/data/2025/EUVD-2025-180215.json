@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180215", "enisaUuid": "ed673302-a3e7-3658-b081-1ec3f70c7ec8", "description": "Malicious code in authenticate-scale-analyze-book-scale (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185671"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160676", "enisaUuid": "2cba5b00-47cc-3d20-afef-14fc8614262a", "description": "Malicious code in brinkbit-schema-permissions (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16175"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

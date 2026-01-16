@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195532", "enisaUuid": "fa942d8e-86c2-32dc-8742-356a56daafbd", "description": "Malicious code in redshift-halley-hadron-rollup-plugin (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45780"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

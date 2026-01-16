@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123278", "enisaUuid": "88e657eb-66c1-3fc7-8c41-b840c789e71f", "description": "Malicious code in promise-meteor-dotenv-antd (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146644"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

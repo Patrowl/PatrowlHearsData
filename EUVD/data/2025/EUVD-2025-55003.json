@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-55003", "enisaUuid": "cef863b3-85d6-310e-b41d-3ef5b0f5ee12", "description": "Malicious code in decent-lime-cockroach (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-67646"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166870", "enisaUuid": "f41a6ff8-4c5f-3179-a00d-9237e2c77a0c", "description": "Malicious code in heka-react-bootstrap-electron-builder-puppeteer (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22352"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

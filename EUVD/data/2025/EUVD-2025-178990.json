@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178990", "enisaUuid": "16a1f913-c791-3833-8c27-50e77be112ef", "description": "Malicious code in exec-supernova-soap-mongoose (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186892"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

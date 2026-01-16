@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114294", "enisaUuid": "39b8a632-4535-383b-a6bb-b721dcee5a3c", "description": "Malicious code in duplex-lyra-ganymede-mysql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141815"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175662", "enisaUuid": "1264642e-3cea-3d9a-b476-6de309652acb", "description": "Malicious code in warn-pi-visualize-catch-slow (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190214"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

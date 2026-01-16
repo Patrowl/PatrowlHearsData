@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125690", "enisaUuid": "8948142e-5be0-39ef-be76-23a97649b6e9", "description": "Malicious code in tsign-uix (npm)", "datePublished": "2025-03-03T13:42:09", "dateUpdated": "2025-03-03T13:42:09", "baseScore": 0.0, "aliases": ["MAL-2025-1948"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

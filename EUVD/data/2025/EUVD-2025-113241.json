@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113241", "enisaUuid": "fa5c4d41-3486-3038-a750-7483db2c9a2f", "description": "Malicious code in geckodriver-lyra-terser-webpack-plugin-centauri (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142871"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

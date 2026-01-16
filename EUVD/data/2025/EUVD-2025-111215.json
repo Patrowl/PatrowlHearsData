@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111215", "enisaUuid": "2257672b-c8d6-347f-b7bc-ba02b5c70d3c", "description": "Malicious code in meteor-bootstrap-impulse-flare (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144900"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172657", "enisaUuid": "cc564d73-a7c4-354f-919f-90f1f41ed4fb", "description": "Malicious code in octans-taurus-rest-archaeometry (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28128"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

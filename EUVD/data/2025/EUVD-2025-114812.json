@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114812", "enisaUuid": "effe92fc-27e1-388a-be6a-5863c4f0806d", "description": "Malicious code in csrf-sirius-webpack-iota (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141297"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

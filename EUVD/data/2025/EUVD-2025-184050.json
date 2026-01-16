@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184050", "enisaUuid": "e4ff5f1f-3daf-3cc1-b17c-2d01ff5571ea", "description": "Malicious code in swagger-to-server (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34265"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177036", "enisaUuid": "4dd52c18-60c3-31f7-8a03-4cce1a5bbbbf", "description": "Malicious code in procyon-andromeda-configstore-javascript (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188839"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

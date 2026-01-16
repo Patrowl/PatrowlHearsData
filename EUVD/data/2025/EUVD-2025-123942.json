@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123942", "enisaUuid": "0d747d15-2255-3703-9655-aeff0bbf70d3", "description": "Malicious code in passport-enif-mui-install (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145979"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

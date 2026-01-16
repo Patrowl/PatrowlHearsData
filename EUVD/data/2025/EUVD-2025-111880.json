@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111880", "enisaUuid": "d8ae327a-d893-3132-833d-a3129b0691fd", "description": "Malicious code in lacerta-backend-soap-eslint-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144233"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

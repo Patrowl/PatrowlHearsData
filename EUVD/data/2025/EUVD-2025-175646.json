@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175646", "enisaUuid": "4ea5f43d-0fa0-3d7a-a664-3736a7e58220", "description": "Malicious code in wasat-carina-shelljs-sqlite (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190230"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

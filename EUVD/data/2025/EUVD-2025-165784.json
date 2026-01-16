@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165784", "enisaUuid": "5e2c1251-4298-3593-9c22-fbeb9b486479", "description": "Malicious code in generator-accelerate-mongodb (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21265"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191795", "enisaUuid": "dbab40c5-4433-3465-811e-908e13ca8a55", "description": "Malicious code in mpesa-backoffice-frontend (npm)", "datePublished": "2025-08-29T19:24:09", "dateUpdated": "2025-08-29T19:24:09", "baseScore": 0.0, "aliases": ["MAL-2025-42029"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

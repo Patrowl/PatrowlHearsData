@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121101", "enisaUuid": "c35cf582-1c24-36aa-8081-1a505362cbd0", "description": "Malicious code in triton-scripts-cygnus-css-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148827"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126663", "enisaUuid": "6f5ee933-2e81-3a2f-adac-928ed0f8c79e", "description": "Malicious code in markdown-to-html (NuGet)", "datePublished": "2025-03-28T13:06:41", "dateUpdated": "2025-03-28T13:06:41", "baseScore": 0.0, "aliases": ["MAL-2025-2922"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194741", "enisaUuid": "13d06dc0-b3bc-38ac-8abe-63893cd92981", "description": "Malicious code in less-loader-ablation-frontend-transport (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44988"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

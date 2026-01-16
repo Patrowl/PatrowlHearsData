@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179270", "enisaUuid": "f9be412f-9000-3cc1-8cc9-5476682c56eb", "description": "Malicious code in dotenv-hexo-apollo-cryonics (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186612"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

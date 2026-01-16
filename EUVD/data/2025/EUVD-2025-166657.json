@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166657", "enisaUuid": "839408f7-21f0-3ae6-abdc-e7b49a6045d1", "description": "Malicious code in halley-middleware-blazar-brane (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22139"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

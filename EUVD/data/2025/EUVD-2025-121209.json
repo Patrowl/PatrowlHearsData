@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121209", "enisaUuid": "78495b5a-d01d-390f-9d21-00c44775cea0", "description": "Malicious code in toml-node-sass-lint-staged-andromeda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148719"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

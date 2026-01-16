@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179320", "enisaUuid": "d93f5d83-b7f5-3227-bb5e-b4813011260c", "description": "Malicious code in deserialize-book-cloud-awk-finally (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186562"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

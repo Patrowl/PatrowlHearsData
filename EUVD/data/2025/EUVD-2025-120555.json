@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120555", "enisaUuid": "196fec5b-ccf7-3380-9c48-4b4f3ff407c0", "description": "Malicious code in webdriverio-link-pino-pretty-got (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149374"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

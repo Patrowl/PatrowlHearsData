@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184098", "enisaUuid": "51e672c0-5a5d-30e8-8be0-06219fd5c540", "description": "Malicious code in sycamore-integration-mandrill (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34314"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

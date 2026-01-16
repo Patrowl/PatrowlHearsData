@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124420", "enisaUuid": "8025b6bc-2696-33c7-9335-2683bfdf1647", "description": "Malicious code in node-config-antares-wasat-mongodb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145501"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

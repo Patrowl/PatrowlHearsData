@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178387", "enisaUuid": "908b176b-14af-3ec6-9a6a-fec1c2b08ee0", "description": "Malicious code in install-enceladus-mesosphere-superflare (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187495"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

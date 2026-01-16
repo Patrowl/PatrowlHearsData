@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177539", "enisaUuid": "347cf954-3ea1-3b24-99ed-f683641bc682", "description": "Malicious code in norma-sagitta-bellatrix-postgres (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188343"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

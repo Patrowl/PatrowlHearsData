@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175548", "enisaUuid": "308de7ea-8a4d-3ccb-9c71-d4c88740cc3c", "description": "Malicious code in winston-adonis-dotenv-parse-variables-dagda (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190328"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

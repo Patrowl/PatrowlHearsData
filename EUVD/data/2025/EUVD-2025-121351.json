@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121351", "enisaUuid": "dd02b3fa-c1d4-3fda-951d-637d1039854d", "description": "Malicious code in test-process-phoebe-rehype (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148577"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

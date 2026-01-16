@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113511", "enisaUuid": "6a057250-d973-3b74-b8fe-a715c0b55163", "description": "Malicious code in fork-update-stop-pegasus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142601"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-64452", "enisaUuid": "704190ea-5c8f-3d71-bea7-b53e6cf65c9f", "description": "Malicious code in double_pig_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-94102"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120464", "enisaUuid": "45c3a844-d03e-3318-bdae-b56ea2a9f011", "description": "Malicious code in wezen-redis-protractor-blitz (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149466"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

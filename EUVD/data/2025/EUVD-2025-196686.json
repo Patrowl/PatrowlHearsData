@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196686", "enisaUuid": "d6a46223-effa-34f1-bf62-da449e86c101", "description": "Malicious code in monolith-twirp-odometer-core (RubyGems)", "datePublished": "2025-09-01T09:52:32", "dateUpdated": "2025-09-01T09:52:32", "baseScore": 0.0, "aliases": ["MAL-2025-46934"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

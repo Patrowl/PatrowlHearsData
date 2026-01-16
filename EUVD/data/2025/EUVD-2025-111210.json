@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111210", "enisaUuid": "44896322-f972-38a5-8876-8f2e22394ff3", "description": "Malicious code in meteor-corvus-heka-terser-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144905"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123319", "enisaUuid": "85ff60e8-0a23-37df-ab7c-c576178d054c", "description": "Malicious code in procyon-local-npm-cassini (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146603"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

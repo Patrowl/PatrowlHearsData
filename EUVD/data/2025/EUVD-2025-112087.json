@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112087", "enisaUuid": "a5325aa9-bfd5-340e-8bb1-848130058969", "description": "Malicious code in juno-eslint-plugin-webdriver-mocha-start (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144026"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

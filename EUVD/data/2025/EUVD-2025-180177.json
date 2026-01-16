@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180177", "enisaUuid": "6c985771-337c-3961-8141-8e84debb477a", "description": "Malicious code in awk-minify-minify-proxy-omicron (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185705"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

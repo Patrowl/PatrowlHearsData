@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121340", "enisaUuid": "16e510dd-c730-31d7-b6ca-f91e33226df0", "description": "Malicious code in testcafe-callisto-levels-xml (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148588"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

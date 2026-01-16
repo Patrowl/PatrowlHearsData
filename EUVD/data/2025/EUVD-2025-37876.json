@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37876", "enisaUuid": "2ecdd466-0c29-370f-9bc9-07e8f7c0a6b6", "description": "Malicious code in react-paypal-braintree-demo (npm)", "datePublished": "2025-11-04T13:50:32", "dateUpdated": "2025-11-09T00:27:57", "baseScore": 0.0, "aliases": ["MAL-2025-49352"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125662", "enisaUuid": "29db7297-7d8b-3701-ac67-1c62c728c937", "description": "Malicious code in req-management-ui (npm)", "datePublished": "2025-03-03T13:37:25", "dateUpdated": "2025-03-03T13:37:25", "baseScore": 0.0, "aliases": ["MAL-2025-1920"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

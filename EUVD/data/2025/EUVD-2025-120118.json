@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120118", "enisaUuid": "7432538e-7610-3da8-9bc2-04f246f88944", "description": "Malicious code in yildun-event-test-rate-limiter (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149814"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

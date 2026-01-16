@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164086", "enisaUuid": "ea7d3d3d-b1b2-33ea-9d8c-1b4b8d578337", "description": "Malicious code in ember-production-deprecations (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19565"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

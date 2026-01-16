@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187615", "enisaUuid": "74bbd94e-1942-386f-b849-0a0b7466b838", "description": "Malicious code in uniswap_connect (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37827"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

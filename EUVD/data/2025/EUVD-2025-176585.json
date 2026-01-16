@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176585", "enisaUuid": "8c897b8d-0883-3242-a2ae-9565a566c6b8", "description": "Malicious code in run-script-juno-supernova-commitlint (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189290"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

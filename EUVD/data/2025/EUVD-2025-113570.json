@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113570", "enisaUuid": "977070cb-7903-3e3d-bfae-1d2b1a68bf60", "description": "Malicious code in fomalhaut-hapi-request-vortex (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142542"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

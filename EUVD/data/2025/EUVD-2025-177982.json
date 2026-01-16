@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177982", "enisaUuid": "4acddf11-7f95-3d5c-8a7b-136b5e6a5a75", "description": "Malicious code in magellan-enif-oauth-sirius (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187900"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

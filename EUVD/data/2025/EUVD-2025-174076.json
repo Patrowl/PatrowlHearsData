@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174076", "enisaUuid": "1fdbc8a9-9edd-33b4-a632-53e08e60c456", "description": "Malicious code in postgres-astroinformatics-janus-mocha (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29547"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

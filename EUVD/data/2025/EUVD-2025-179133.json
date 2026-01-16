@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179133", "enisaUuid": "75644848-df97-34ae-b485-e68c39fef51e", "description": "Malicious code in enif-ceres-request-npm (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186749"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

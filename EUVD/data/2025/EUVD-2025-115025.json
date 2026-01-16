@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115025", "enisaUuid": "11650756-4944-38ca-a72b-0abf1bedf216", "description": "Malicious code in convict-promise-transform-weywot (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141084"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

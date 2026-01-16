@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121621", "enisaUuid": "de4d2e64-57f4-3386-9c9e-58119808a254", "description": "Malicious code in stop-start-link-shelljs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148304"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

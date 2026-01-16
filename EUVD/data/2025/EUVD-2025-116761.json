@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116761", "enisaUuid": "59ead25a-65c5-3684-b850-102369ab0ebb", "description": "Malicious code in alphard-superagent-antares-mysql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139341"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

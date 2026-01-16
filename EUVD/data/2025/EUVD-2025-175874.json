@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175874", "enisaUuid": "c6f88d74-9d9c-3ac0-9dd9-fa39e9bc3f27", "description": "Malicious code in triton-radiant-epimetheus-await (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190001"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

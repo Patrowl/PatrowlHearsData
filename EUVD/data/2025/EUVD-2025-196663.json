@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196663", "enisaUuid": "5dbfa126-192d-3f4f-80b9-160e7f2387a4", "description": "Malicious code in github-proto-repositories (RubyGems)", "datePublished": "2025-09-01T09:47:55", "dateUpdated": "2025-09-01T09:47:55", "baseScore": 0.0, "aliases": ["MAL-2025-46911"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

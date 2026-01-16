@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177876", "enisaUuid": "b449f466-53dc-3863-a67c-d7988ab3bf7f", "description": "Malicious code in metalsmith-eslint-plugin-proxima-update (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188006"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

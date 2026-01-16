@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180110", "enisaUuid": "2d28c94d-034b-39ad-a3c5-1a64857460be", "description": "Malicious code in bellatrix-prompts-webpack-paleobotany (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185772"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

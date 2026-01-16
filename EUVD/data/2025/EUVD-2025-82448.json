@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-82448", "enisaUuid": "01b812f0-9748-3712-bb08-620d29238f06", "description": "Malicious code in common_elk_dumbs (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-100716"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

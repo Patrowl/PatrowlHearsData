@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-81871", "enisaUuid": "3d3b4672-4e57-3270-b4ee-847d523eb191", "description": "Malicious code in forward_mandrill_replicate_automation (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-102886"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

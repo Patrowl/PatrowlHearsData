@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116582", "enisaUuid": "d32d39e1-8776-369a-8b27-3907670009ca", "description": "Malicious code in apollo-mocha-atlas-test (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139520"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

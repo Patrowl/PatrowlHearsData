@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128494", "enisaUuid": "98fef2b5-06e0-3b1f-b389-77a4e8c64bbe", "description": "Malicious code in react-server-dom-fb (npm)", "datePublished": "2025-06-09T22:10:11", "dateUpdated": "2025-06-09T22:10:11", "baseScore": 0.0, "aliases": ["MAL-2025-4762"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

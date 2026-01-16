@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114543", "enisaUuid": "92d6630e-cf14-3f95-948d-3878569b4585", "description": "Malicious code in dependencies-envconfig-bootes-postgres (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141566"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

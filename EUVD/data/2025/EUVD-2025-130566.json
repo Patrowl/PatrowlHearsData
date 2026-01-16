@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130566", "enisaUuid": "d2d567e5-2804-3047-9817-56100ddb7714", "description": "Malicious code in mapbox-gl-js-toys (npm)", "datePublished": "2025-08-08T19:51:40", "dateUpdated": "2025-08-08T19:51:40", "baseScore": 0.0, "aliases": ["MAL-2025-6844"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

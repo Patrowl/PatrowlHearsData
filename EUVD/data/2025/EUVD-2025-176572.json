@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176572", "enisaUuid": "7e10146f-0f19-3f77-92f8-2ae4215220a5", "description": "Malicious code in sadr-dactyl-xenon-cli (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189303"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

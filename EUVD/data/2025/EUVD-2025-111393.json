@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111393", "enisaUuid": "8d5c8ac2-2b4f-3f13-b5d9-a6d722f36eb5", "description": "Malicious code in markdownlint-cache-kastra-webpack (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144722"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

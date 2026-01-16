@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162976", "enisaUuid": "6187414a-3eb4-3f36-bb51-6e1005f4263a", "description": "Malicious code in discord-v11.js (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18477"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

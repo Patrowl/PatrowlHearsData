@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163682", "enisaUuid": "9142554c-d5c4-31ca-8843-064409f98076", "description": "Malicious code in eclipse-spectron-webdriver-venus-babel (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19184"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

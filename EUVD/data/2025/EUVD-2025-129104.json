@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129104", "enisaUuid": "b23f12a6-e8f2-3b87-ab88-52c642dd29d4", "description": "Malicious code in camelcase-v2 (npm)", "datePublished": "2025-06-20T15:28:03", "dateUpdated": "2025-06-20T15:28:03", "baseScore": 0.0, "aliases": ["MAL-2025-5375"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

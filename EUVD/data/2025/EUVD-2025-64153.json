@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-64153", "enisaUuid": "8f6a8a09-440b-335d-bb0c-ea63fd7dbb1a", "description": "Malicious code in external_hummingbird_z3n (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-94401"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

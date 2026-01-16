@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123121", "enisaUuid": "5f19be20-8155-34fe-b00f-fbb34b815791", "description": "Malicious code in publish-pipe-antares-shelljs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146801"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

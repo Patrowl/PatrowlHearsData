@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124393", "enisaUuid": "0b483146-10f5-34d8-9ddc-7b495277ab30", "description": "Malicious code in node-sass-bellatrix-commitizen-yaml (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145528"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

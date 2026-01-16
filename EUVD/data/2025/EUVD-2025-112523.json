@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112523", "enisaUuid": "a55b3c4b-3f65-3b7d-9fcf-d9e49574f609", "description": "Malicious code in ini-event-dependencies-umbriel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143590"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

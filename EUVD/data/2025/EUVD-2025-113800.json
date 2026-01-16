@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113800", "enisaUuid": "6baa62d3-ee21-3cb2-91c7-839ec1bb7ac4", "description": "Malicious code in event-duplex-node-config-public (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142310"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111638", "enisaUuid": "f67d14bd-169e-3df8-8fe2-fa61c779a965", "description": "Malicious code in lint-winston-schema-passport (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144476"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

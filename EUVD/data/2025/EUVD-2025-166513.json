@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166513", "enisaUuid": "4615b997-55fe-3fc6-ac48-8f877ecefd0e", "description": "Malicious code in grunt-mdx-upgrade-rollup (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21995"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

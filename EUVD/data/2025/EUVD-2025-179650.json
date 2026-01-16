@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179650", "enisaUuid": "223154c4-d91d-39e8-abff-290a31815596", "description": "Malicious code in command-dotenv-safe-oberon-lint-staged (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186232"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

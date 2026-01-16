@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-101060", "enisaUuid": "e723b9b4-c797-3221-80cb-e6c029853c05", "description": "Malicious code in valid_flamingo_z3n (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-130950"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

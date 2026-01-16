@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129763", "enisaUuid": "12245b5f-c0ea-3b88-85a4-2e43c4c20c09", "description": "Malicious code in @toptal/davinci-graphql-codegen-extensions (npm)", "datePublished": "2025-07-20T16:44:49", "dateUpdated": "2025-07-20T16:44:49", "baseScore": 0.0, "aliases": ["MAL-2025-6036"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

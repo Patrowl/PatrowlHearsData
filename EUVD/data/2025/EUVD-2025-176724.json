@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176724", "enisaUuid": "a0c8e066-8a50-3bdd-a5ef-f0ad8d237a83", "description": "Malicious code in reject-static-theta-info-try (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189151"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

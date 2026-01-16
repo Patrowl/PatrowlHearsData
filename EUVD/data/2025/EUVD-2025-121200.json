@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121200", "enisaUuid": "d7dcc11e-316d-33dd-869a-65ef666248ac", "description": "Malicious code in tool-aquarius-juno-pipe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148728"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

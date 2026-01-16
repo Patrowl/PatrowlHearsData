@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116289", "enisaUuid": "e8cc0de9-abfb-3b57-a776-6818c9e505fc", "description": "Malicious code in await-vulcan-lyra-tethys (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139813"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

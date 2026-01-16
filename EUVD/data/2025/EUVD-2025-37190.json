@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37190", "enisaUuid": "918a1b9c-f974-31bb-ac49-80c387f058b3", "description": "Malicious code in @epicgames/testprivate (npm)", "datePublished": "2025-10-30T17:38:57", "dateUpdated": "2025-10-30T17:38:57", "baseScore": 0.0, "aliases": ["MAL-2025-49103"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

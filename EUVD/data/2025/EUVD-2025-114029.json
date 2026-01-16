@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114029", "enisaUuid": "62b11b8d-dbaa-35c8-b1c1-0c0c9cd52f11", "description": "Malicious code in envconfig-neptune-supervisor-lint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142081"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

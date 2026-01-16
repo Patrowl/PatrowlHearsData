@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112433", "enisaUuid": "37420d4a-94cc-30b7-b185-ced362d61d1f", "description": "Malicious code in install-pyxis-rest-prettier (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143680"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

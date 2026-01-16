@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161836", "enisaUuid": "492c8a3e-34bd-3f7e-a263-da5377e26c41", "description": "Malicious code in com.microsoft.mixedreality.toolkit.micstream (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17337"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

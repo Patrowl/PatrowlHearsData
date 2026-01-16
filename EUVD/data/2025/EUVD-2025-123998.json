@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123998", "enisaUuid": "325ea97e-60f3-372a-83a6-d86ae4f8f4b3", "description": "Malicious code in package-avior-backend-release-it (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145923"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

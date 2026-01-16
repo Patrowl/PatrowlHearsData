@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177522", "enisaUuid": "04b01058-151e-3790-a52e-a08baf91099b", "description": "Malicious code in nova-virgo-jasmine-redshift (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188360"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

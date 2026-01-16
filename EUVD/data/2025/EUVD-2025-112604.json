@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112604", "enisaUuid": "a4eae2fc-00d9-363a-98ac-625cab531ca6", "description": "Malicious code in ignite-cassini-polaris-module (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143508"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

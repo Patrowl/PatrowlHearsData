@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115397", "enisaUuid": "6e5d64e2-2a62-361f-aa74-adb9c337c8f8", "description": "Malicious code in chariklo-repository-jwt-norma (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140710"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113473", "enisaUuid": "488da325-ce2f-34b3-b653-0baa577315ad", "description": "Malicious code in fornax-mongodb-ini-sass-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142639"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

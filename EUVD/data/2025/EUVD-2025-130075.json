@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130075", "enisaUuid": "30137e32-dcff-32de-a2bc-2c00b4eb0108", "description": "Malicious code in resource_registry (RubyGems)", "datePublished": "2025-07-30T05:46:30", "dateUpdated": "2025-07-31T06:33:21", "baseScore": 0.0, "aliases": ["MAL-2025-6348"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

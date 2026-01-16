@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115047", "enisaUuid": "ecba37fb-ca90-309b-9dba-676dffd03d91", "description": "Malicious code in configstore-repository-terser-canopus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141062"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

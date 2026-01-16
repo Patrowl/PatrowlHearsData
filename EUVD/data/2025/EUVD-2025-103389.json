@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-103389", "enisaUuid": "ec409f57-6f53-310e-a5fc-759fdd5c6629", "description": "Malicious code in occasional_mongoose_z3n (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-129016"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

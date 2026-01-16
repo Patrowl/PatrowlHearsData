@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112654", "enisaUuid": "9793dc20-5b9d-31fe-ba5f-25ec9d1051ea", "description": "Malicious code in hydra-standard-dependencies-fornax (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143458"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

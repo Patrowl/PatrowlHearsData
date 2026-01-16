@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112679", "enisaUuid": "f73b913e-c59b-360b-b205-9056ba5b77c3", "description": "Malicious code in husky-xml-kastra-await (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143433"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

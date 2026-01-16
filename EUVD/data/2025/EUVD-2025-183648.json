@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183648", "enisaUuid": "a38d0d60-c786-344f-a0b0-b778baa300a5", "description": "Malicious code in srcgetpy (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33863"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

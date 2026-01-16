@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166893", "enisaUuid": "a9caf526-ef17-3c86-a4d0-38a99ac59671", "description": "Malicious code in helmet-framework-concurrently-jovian (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22375"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

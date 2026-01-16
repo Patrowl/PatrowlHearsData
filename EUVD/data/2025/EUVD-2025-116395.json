@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116395", "enisaUuid": "8ca8d029-78b2-3ea5-8090-d45f215b8e88", "description": "Malicious code in aurora-procyon-non-blocking-update (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139707"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

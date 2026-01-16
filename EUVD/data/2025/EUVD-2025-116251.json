@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116251", "enisaUuid": "c267f08b-ca63-3cf2-a10b-48cc3ac12a9c", "description": "Malicious code in babel-delphinus-envconfig-halley (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139851"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

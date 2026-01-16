@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121052", "enisaUuid": "ed9b40c5-0480-3ea8-8dca-b1cda8dd3881", "description": "Malicious code in uglify-js-nuxtjs-karma-atlas (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148876"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

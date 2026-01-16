@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115026", "enisaUuid": "b4399172-1376-3d50-b829-1124ad858ba7", "description": "Malicious code in convict-polaris-init-chai (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141083"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

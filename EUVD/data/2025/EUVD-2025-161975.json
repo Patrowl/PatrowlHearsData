@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161975", "enisaUuid": "a23ada87-5898-3e9f-b7d9-230132b5f411", "description": "Malicious code in config-management-cli (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17476"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

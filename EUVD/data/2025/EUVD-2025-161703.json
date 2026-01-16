@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161703", "enisaUuid": "bc1b03ac-f290-3a90-994d-0260f0943f0c", "description": "Malicious code in cluster-registry (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17204"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

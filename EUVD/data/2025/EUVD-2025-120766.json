@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120766", "enisaUuid": "c4de49c7-dae3-3e43-9b96-506e24e938a2", "description": "Malicious code in virgo-nuxtjs-achernar-spectron-webdriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149163"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

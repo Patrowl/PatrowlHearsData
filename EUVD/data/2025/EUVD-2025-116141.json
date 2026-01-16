@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116141", "enisaUuid": "0422de48-8dff-389a-9beb-9581a925a587", "description": "Malicious code in bellatrix-upgrade-janus-dynamo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139961"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-64156", "enisaUuid": "76797d35-4403-3928-b29c-6576014a3ff3", "description": "Malicious code in external_flamingo_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-94398"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

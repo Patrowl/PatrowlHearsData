@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111772", "enisaUuid": "648def66-0d07-3360-9412-18cc305bd4f0", "description": "Malicious code in less-non-blocking-run-script-xanthus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144341"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

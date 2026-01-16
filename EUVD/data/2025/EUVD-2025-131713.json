@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131713", "enisaUuid": "c4b598f8-927f-3493-8dc0-7e71f397e01d", "description": "Malicious code in @help_api/utilities (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7991"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

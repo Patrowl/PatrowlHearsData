@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128993", "enisaUuid": "69a74cb2-aa96-3ee3-acb2-00e823c2369a", "description": "Malicious code in @native-rabobank/native-qr-scanner (npm)", "datePublished": "2025-06-24T11:30:52", "dateUpdated": "2025-07-02T01:10:21", "baseScore": 0.0, "aliases": ["MAL-2025-5264"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

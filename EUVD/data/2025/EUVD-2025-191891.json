@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191891", "enisaUuid": "a35cfba5-4d59-3b76-9099-017e5357bffb", "description": "Malicious code in eslint-plugin-rdv-insertion (npm)", "datePublished": "2025-09-01T20:35:52", "dateUpdated": "2025-09-01T20:35:52", "baseScore": 0.0, "aliases": ["MAL-2025-42133"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

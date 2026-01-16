@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179957", "enisaUuid": "e81a5691-a38e-318f-81b7-7f1a78cda235", "description": "Malicious code in build-eleventy-deneb-gemini (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185925"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

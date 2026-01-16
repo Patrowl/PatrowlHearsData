@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75609", "enisaUuid": "620f5534-4048-3be2-a5d1-bf403c88cbf2", "description": "Malicious code in small_cockroach-toolteadev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-108850"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

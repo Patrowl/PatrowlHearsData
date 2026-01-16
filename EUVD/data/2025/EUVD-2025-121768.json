@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121768", "enisaUuid": "80c8ff4a-457d-3bb1-8976-283ce8bee5b6", "description": "Malicious code in spica-convict-got-typeorm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148157"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

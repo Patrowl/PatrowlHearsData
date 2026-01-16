@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178254", "enisaUuid": "b6642cbc-ff3a-31f9-b436-04f121b19454", "description": "Malicious code in json-stream-aquarius-cygnus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187628"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

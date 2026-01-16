@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121881", "enisaUuid": "42ad0c98-2a15-3cbc-b6a4-cc35b4b94e68", "description": "Malicious code in socketio-adonis-neptune-reveal-md (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148044"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

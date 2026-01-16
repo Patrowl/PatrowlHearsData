@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179938", "enisaUuid": "53db29af-8015-379a-b08c-e0774a3c6177", "description": "Malicious code in bunyan-carina-adonis-mysql (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185944"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

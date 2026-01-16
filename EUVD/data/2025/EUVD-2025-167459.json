@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167459", "enisaUuid": "ccb3eb55-5f3a-3a9d-9f2c-d152431092ac", "description": "Malicious code in iconfont-consumer-paypal (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22941"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175617", "enisaUuid": "060de83d-2fdc-3afa-ac91-c10ef5874666", "description": "Malicious code in webdriver-manager-cosmos-mongoose-got (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190259"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123246", "enisaUuid": "cdfbb818-baef-3c1d-bbcc-82430ce27fe4", "description": "Malicious code in prompts-wasat-charon-cosmiconfig (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146676"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168922", "enisaUuid": "5fb70b0c-f6ba-30bf-ade6-083228b65dfa", "description": "Malicious code in kernel-abstract-compile-proxy-orchestrate (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24404"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

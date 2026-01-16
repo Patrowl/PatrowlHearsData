@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121773", "enisaUuid": "1d4ec7e6-c4f5-3645-8619-7126e25ed493", "description": "Malicious code in spica-capella-optimize-css-assets-webpack-plugin-local (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148152"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

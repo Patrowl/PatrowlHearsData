@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176390", "enisaUuid": "b94e1c9a-ffd2-3cb5-a312-952f7e477ca5", "description": "Malicious code in sigma-byte-minify-cache-float (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189485"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-97742", "enisaUuid": "89e3f15a-fd6c-31fc-b1d4-b35412bf3311", "description": "Malicious code in joint_canid_z3n (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-127660"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

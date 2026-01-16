@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175600", "enisaUuid": "613c6413-5327-3787-b0b8-c55bb5431a17", "description": "Malicious code in webdriver-mocha-tectonic-leda-antimatter (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190276"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

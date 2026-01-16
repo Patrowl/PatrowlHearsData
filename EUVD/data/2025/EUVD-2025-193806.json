@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193806", "enisaUuid": "90b7c569-0ffe-34dd-9911-22c391e5039e", "description": "Malicious code in dotenv-parse-variables-norma-andromeda-testcafe (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44053"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

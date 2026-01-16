@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115358", "enisaUuid": "587d9634-426f-30e3-b695-bbc2dde99b8c", "description": "Malicious code in child-process-init-winston-frontend (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140749"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122260", "enisaUuid": "553e6988-df91-349e-8ea9-6e6b588e424c", "description": "Malicious code in sass-loader-cassini-socketio-wasat (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147662"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

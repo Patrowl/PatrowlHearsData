@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124056", "enisaUuid": "32827a11-9efa-3403-a576-b94537c78880", "description": "Malicious code in optimize-css-assets-webpack-plugin-magellan-grus-unuk (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145865"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112778", "enisaUuid": "25555046-7ba9-3eab-b218-bece17e34490", "description": "Malicious code in hermes-xml-auth0-sirius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143334"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

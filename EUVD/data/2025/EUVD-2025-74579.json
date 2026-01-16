@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-74579", "enisaUuid": "89124d9e-b67f-3f09-8b85-08fe10e7c958", "description": "Malicious code in hidden_mastodon_salmon-43 (npm)", "datePublished": "2025-11-11T07:47:12", "dateUpdated": "2025-11-11T07:47:12", "baseScore": 0.0, "aliases": ["MAL-2025-111973"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

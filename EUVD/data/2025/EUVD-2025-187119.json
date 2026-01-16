@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187119", "enisaUuid": "6821461a-6bac-3b85-8662-f4c3d92a8894", "description": "Malicious code in trezor-link-bridge (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37190"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

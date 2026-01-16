@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180439", "enisaUuid": "422ce235-a76f-3438-9c36-fca3653cf101", "description": "Malicious code in analyze-boolean-pipe-import-epsilon (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185449"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

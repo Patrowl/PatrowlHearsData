@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173397", "enisaUuid": "aad3ee5f-49f3-33df-a769-d54599a84b0a", "description": "Malicious code in parcel-higgs-axios-charon (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28868"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

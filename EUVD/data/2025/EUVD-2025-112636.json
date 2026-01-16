@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112636", "enisaUuid": "459b833f-2bfe-3c4e-84fd-d3c56ba49866", "description": "Malicious code in hyperion-hermes-jsonp-ceres (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143476"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

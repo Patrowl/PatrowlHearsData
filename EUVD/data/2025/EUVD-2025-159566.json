@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159566", "enisaUuid": "192c3412-cabf-362f-9837-0616698f6f5b", "description": "Malicious code in aurora_employee_assign (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15065"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

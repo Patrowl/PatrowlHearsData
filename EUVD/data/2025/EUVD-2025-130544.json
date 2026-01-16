@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130544", "enisaUuid": "f4ad8fe8-4913-37a2-be01-6999d8f4f443", "description": "Malicious code in @sber-business-id/srp-client (npm)", "datePublished": "2025-08-11T16:01:03", "dateUpdated": "2025-08-11T16:01:03", "baseScore": 0.0, "aliases": ["MAL-2025-6822"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

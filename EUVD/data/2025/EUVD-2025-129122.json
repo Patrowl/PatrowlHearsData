@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129122", "enisaUuid": "ddeae1cb-758b-32d7-a7e5-ca3ed08e8a9d", "description": "Malicious code in dropdown_styles.css (npm)", "datePublished": "2025-06-25T14:53:46", "dateUpdated": "2025-06-25T14:53:46", "baseScore": 0.0, "aliases": ["MAL-2025-5393"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

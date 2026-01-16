@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130779", "enisaUuid": "7839f3e7-d1b6-371b-a62a-225466c68b14", "description": "Malicious code in @amber-team/figma-utils (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7057"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

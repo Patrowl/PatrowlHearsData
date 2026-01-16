@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112653", "enisaUuid": "4466549d-ae3e-32d0-8bf7-8bee0c5a0bd2", "description": "Malicious code in hydra-stream-express-lynx (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143459"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

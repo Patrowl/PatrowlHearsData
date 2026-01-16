@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200058", "enisaUuid": "e58c2715-eca2-34ae-8f21-cf60ce4ed556", "description": "Malicious code in iife-sample (npm)", "datePublished": "2025-12-01T16:16:28", "dateUpdated": "2025-12-01T16:16:28", "baseScore": 0.0, "aliases": ["MAL-2025-191511"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

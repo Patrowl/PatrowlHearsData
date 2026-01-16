@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122485", "enisaUuid": "892f377d-5a40-3e24-9cae-b9f3e0370b56", "description": "Malicious code in rigel-npm-husky-bulma (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147437"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

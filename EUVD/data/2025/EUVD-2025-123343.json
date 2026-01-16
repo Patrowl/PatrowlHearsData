@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123343", "enisaUuid": "142571a0-76e9-3085-939a-18cf16c9aaec", "description": "Malicious code in procyon-capella-astro-request (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146579"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

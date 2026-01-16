@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124816", "enisaUuid": "ccb884b8-e1e3-3f7a-9d35-06a5f1471c44", "description": "Malicious code in module-envconfig-xerxes-server (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145102"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

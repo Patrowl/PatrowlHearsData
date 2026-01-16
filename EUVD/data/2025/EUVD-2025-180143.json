@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180143", "enisaUuid": "f85aa49b-c70c-39d0-8a15-0584acabbac7", "description": "Malicious code in bad-stub-key-fast-minify (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185739"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123444", "enisaUuid": "84a4f198-4011-3f90-b32e-98bc79b2dca6", "description": "Malicious code in prettier-plugin-markdown-browserify-link-radiant (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146478"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

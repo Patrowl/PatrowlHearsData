@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112956", "enisaUuid": "364beca3-1df2-3682-8c7c-eec4cf4eb066", "description": "Malicious code in halley-mysql-server-sync (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143156"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-202813", "enisaUuid": "b3c930db-14ec-365a-8a0c-b753240eac45", "description": "Malicious code in elf-stats-evergreen-satchel-868 (npm)", "datePublished": "2025-12-11T19:46:09", "dateUpdated": "2025-12-23T19:37:08", "baseScore": 0.0, "aliases": ["MAL-2025-192496"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

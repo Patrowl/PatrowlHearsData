@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116223", "enisaUuid": "c1a4b5f9-e206-3c36-9eac-50a3e189f68f", "description": "Malicious code in backend-build-dorado-antares (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139879"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194229", "enisaUuid": "8ba4ebcb-f72a-3b52-99d2-8489037c033e", "description": "Malicious code in grus-lacerta-mysql-nebula (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44476"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

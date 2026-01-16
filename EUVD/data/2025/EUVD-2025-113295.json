@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113295", "enisaUuid": "044b377b-c0e4-300a-b483-bb3372289298", "description": "Malicious code in ganymede-prompts-winston-stream (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142817"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

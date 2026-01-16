@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111552", "enisaUuid": "b140e47b-9d5b-36cb-873c-ac76f7c80b21", "description": "Malicious code in loopback-sequelize-concurrently-server (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144563"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

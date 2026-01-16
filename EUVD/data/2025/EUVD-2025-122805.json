@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122805", "enisaUuid": "6bda1307-9969-369b-b19f-2d80f690240a", "description": "Malicious code in redis-webdriver-manager-cluster-metalsmith (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147117"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

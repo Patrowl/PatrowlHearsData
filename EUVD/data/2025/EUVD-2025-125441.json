@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125441", "enisaUuid": "7f89ebf3-4aa9-3ff6-ab4e-adc76d930429", "description": "Malicious code in @smt-front/common (npm)", "datePublished": "2025-03-03T13:13:46", "dateUpdated": "2025-03-03T13:13:46", "baseScore": 0.0, "aliases": ["MAL-2025-1697"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

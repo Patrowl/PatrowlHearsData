@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-82804", "enisaUuid": "1eb11021-a914-3bd1-9095-5fcbb6ac6b33", "description": "Malicious code in atomic_pinniped_z3n (npm)", "datePublished": "2025-11-11T07:16:30", "dateUpdated": "2025-11-11T07:16:30", "baseScore": 0.0, "aliases": ["MAL-2025-99652"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

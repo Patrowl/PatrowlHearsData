@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112483", "enisaUuid": "22d8317e-f392-36fa-8606-04cdeed63d8f", "description": "Malicious code in init-quito-farout-non-blocking (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143630"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195686", "enisaUuid": "0ae06f37-bcef-350c-bd6d-cf0c480ae603", "description": "Malicious code in run-script-ganymede-npm-miranda (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45934"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

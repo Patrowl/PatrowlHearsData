@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113271", "enisaUuid": "d21b7b11-f082-302d-a1d1-581e9f1c1e1d", "description": "Malicious code in gatsby-enif-auth0-proxima (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142841"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

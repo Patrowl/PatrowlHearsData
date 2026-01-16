@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-205046", "enisaUuid": "cbb9d12a-15ee-3f2f-866a-61cbf358782d", "description": "Malicious code in intuit-test (npm)", "datePublished": "2025-12-23T08:17:01", "dateUpdated": "2025-12-24T00:53:17", "baseScore": 0.0, "aliases": ["MAL-2025-192805"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

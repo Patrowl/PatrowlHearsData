@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121318", "enisaUuid": "2f6cf217-72eb-3f5a-8990-fe609498140e", "description": "Malicious code in testcafe-xenon-chakra-ui-nodejs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148610"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

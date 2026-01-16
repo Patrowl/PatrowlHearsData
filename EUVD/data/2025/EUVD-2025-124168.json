@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124168", "enisaUuid": "fb8ab50d-03fa-3f99-a393-faccbcbbe988", "description": "Malicious code in oberon-redis-grunt-draco (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145753"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

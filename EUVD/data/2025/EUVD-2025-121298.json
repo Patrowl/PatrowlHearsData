@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121298", "enisaUuid": "f030c0e5-053f-3475-abf1-8b1af45a57eb", "description": "Malicious code in tethys-polaris-sass-loader-prettier-stylelint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148630"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

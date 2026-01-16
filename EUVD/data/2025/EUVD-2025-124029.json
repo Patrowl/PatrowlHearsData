@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124029", "enisaUuid": "4c7d6985-ac09-3a3a-82e6-656b51d009e2", "description": "Malicious code in ora-postcss-dotenv-server (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145892"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

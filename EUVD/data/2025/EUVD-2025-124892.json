@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124892", "enisaUuid": "754dd2a0-67e5-3d2c-8b4a-13ae8d52ff26", "description": "Malicious code in miranda-config-odin-spectron (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145026"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

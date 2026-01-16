@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179591", "enisaUuid": "e7a7a0d7-ce97-361a-a27b-c4b4d8111f68", "description": "Malicious code in container-encrypt-kappa-virtualize-old (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186291"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

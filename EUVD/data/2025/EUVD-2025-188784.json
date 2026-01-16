@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188784", "enisaUuid": "cb755768-f980-3ded-ada5-f515761cb449", "description": "Malicious code in webdriver-semantic-locators (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38998"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

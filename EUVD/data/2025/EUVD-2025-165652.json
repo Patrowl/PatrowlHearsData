@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165652", "enisaUuid": "c3b1b5e0-a1ef-35e7-a2f8-db3994309277", "description": "Malicious code in galaxy-sequelize-nebula-gravity (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21133"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

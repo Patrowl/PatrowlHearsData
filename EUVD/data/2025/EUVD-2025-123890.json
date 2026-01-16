@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123890", "enisaUuid": "b3c88959-c4a3-3c17-b046-dc53459e3583", "description": "Malicious code in pegasus-graphql-playwright-husky (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146031"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

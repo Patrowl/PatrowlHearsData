@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37526", "enisaUuid": "bf9dcc99-b169-36db-97f2-9c403533abe5", "description": "Malicious code in kb-rnd-package (npm)", "datePublished": "2025-11-03T19:56:06", "dateUpdated": "2025-11-03T19:56:06", "baseScore": 0.0, "aliases": ["MAL-2025-49346"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

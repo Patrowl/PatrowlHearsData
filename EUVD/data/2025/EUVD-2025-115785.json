@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115785", "enisaUuid": "f0075b95-e973-3c2a-a197-b9bfd347dc6b", "description": "Malicious code in callback-venus-flare-charon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140321"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114941", "enisaUuid": "85363d9c-69f1-3ba9-babc-a530c3a78c84", "description": "Malicious code in corvus-tool-eris-uninstall (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141168"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

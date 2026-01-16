@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193723", "enisaUuid": "9b77def5-5a3d-3523-8adc-509389a9f2b2", "description": "Malicious code in depsven (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43970"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

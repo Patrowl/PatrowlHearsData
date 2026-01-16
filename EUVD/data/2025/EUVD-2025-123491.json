@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123491", "enisaUuid": "edfe8f57-3b64-381c-8454-350fdaffdcb1", "description": "Malicious code in postgres-dione-helmet-chakra-ui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146430"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

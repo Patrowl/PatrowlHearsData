@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167621", "enisaUuid": "d73a0740-0be3-359d-a04c-28718d252b84", "description": "Malicious code in includesec-dependency-confusion (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23103"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

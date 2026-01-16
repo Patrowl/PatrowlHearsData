@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177131", "enisaUuid": "2bc55ae2-d746-32fa-ace9-f02c1a7cb726", "description": "Malicious code in playwright-quasar-tachyon-thuban (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188744"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

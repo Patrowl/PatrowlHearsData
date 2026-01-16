@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111501", "enisaUuid": "4a4f2382-058c-362a-96f8-0d0236dd74bf", "description": "Malicious code in lyra-phoebe-backend-nestjs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144614"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

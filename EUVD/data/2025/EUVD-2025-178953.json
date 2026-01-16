@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178953", "enisaUuid": "98a318f2-10a3-3ca3-906e-45000e9f59e8", "description": "Malicious code in express-standard-development-astrometry (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186929"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

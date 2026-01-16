@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121547", "enisaUuid": "347de990-7084-3347-9434-2fb38e5862c1", "description": "Malicious code in superagent-cross-env-csv-nodemon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148379"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

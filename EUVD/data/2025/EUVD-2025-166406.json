@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166406", "enisaUuid": "3485a340-bf94-37a2-8ed5-cd1af84b9e1e", "description": "Malicious code in graphql-shorthand-parser2 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21888"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193430", "enisaUuid": "a5fb88d5-c851-3fd6-ad39-640121fa7380", "description": "Malicious code in bunyan-lacerta-electron-builder-semantic-ui (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43677"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

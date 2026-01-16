@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114038", "enisaUuid": "2a91985b-e0e2-3b4c-9eaf-d15936338a69", "description": "Malicious code in envconfig-csv-build-chai (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142072"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

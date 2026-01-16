@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124022", "enisaUuid": "6c03cc35-212a-37dc-8003-06a37a5e218c", "description": "Malicious code in ora-webdriver-mocha-koa-server (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145899"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

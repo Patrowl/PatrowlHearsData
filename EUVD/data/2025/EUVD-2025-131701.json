@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131701", "enisaUuid": "8ae8c24c-7e4d-36e6-987d-230bba63208b", "description": "Malicious code in @funnel-analysis/isengard-client (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7979"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178099", "enisaUuid": "1e3ed264-883b-398e-bb74-065b53d853ec", "description": "Malicious code in library-update-commitizen-jabbah (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187783"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

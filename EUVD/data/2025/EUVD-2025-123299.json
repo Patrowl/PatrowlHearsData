@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123299", "enisaUuid": "3cf0b767-a8bf-3a91-9530-09460468e589", "description": "Malicious code in procyon-websockets-child-process-webdriver-manager (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146623"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

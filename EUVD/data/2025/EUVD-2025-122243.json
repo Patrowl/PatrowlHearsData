@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122243", "enisaUuid": "c4dd15d9-385d-352b-95f7-8379f18257dc", "description": "Malicious code in sass-loader-nightwatch-await-hermes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147679"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

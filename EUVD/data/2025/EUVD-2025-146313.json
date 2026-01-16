@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-146313", "enisaUuid": "13ff10eb-e2e1-3324-b86a-c842026fcd2c", "description": "Malicious code in verify-tayic-iams (npm)", "datePublished": "2025-11-12T16:47:05", "dateUpdated": "2025-11-12T16:47:05", "baseScore": 0.0, "aliases": ["MAL-2025-170499"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

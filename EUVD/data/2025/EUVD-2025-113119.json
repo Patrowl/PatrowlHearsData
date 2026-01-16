@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113119", "enisaUuid": "615e3b4e-7c3f-30ce-8031-ae29919c6b92", "description": "Malicious code in got-ursa-css-minimizer-webpack-plugin-redis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142993"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

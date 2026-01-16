@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114763", "enisaUuid": "cdd02ab6-f7dd-3f3c-a948-efc9e0af3c0b", "description": "Malicious code in csv-luna-loglevel-buffer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141346"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

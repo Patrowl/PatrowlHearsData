@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111443", "enisaUuid": "c2b335a9-45a6-3598-96ad-b7a210336619", "description": "Malicious code in magellan-update-config-metalsmith (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144672"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

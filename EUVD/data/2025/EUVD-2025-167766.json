@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167766", "enisaUuid": "82e9307e-6a25-39bf-a24e-85d16137d6de", "description": "Malicious code in install-meteor-webdriver-mocha-framework (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23248"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

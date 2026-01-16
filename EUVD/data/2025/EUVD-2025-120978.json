@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120978", "enisaUuid": "ebf729bd-0dfd-34ef-b3a7-e9fd98fa9e46", "description": "Malicious code in uninstall-acamar-supervisor-cassini (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148951"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

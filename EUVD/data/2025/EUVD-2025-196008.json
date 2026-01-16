@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196008", "enisaUuid": "9a3f06f4-d881-3f58-b859-00ef194287bb", "description": "Malicious code in terser-webpack-plugin-socketio-vuetify-stream (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46256"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

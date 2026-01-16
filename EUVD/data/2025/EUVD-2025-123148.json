@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123148", "enisaUuid": "d00e8894-3efe-3b14-ab04-46d13204cc33", "description": "Malicious code in publish-apex-sqlite-cross-env (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146774"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

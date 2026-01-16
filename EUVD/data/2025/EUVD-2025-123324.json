@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123324", "enisaUuid": "13c47054-ee65-36ed-a47f-2d9a9590ed00", "description": "Malicious code in procyon-izar-uninstall-hyperion (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146598"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

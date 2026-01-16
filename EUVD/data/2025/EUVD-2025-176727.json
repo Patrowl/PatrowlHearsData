@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176727", "enisaUuid": "9e2f7f2e-e569-3451-b30b-2137f0a7f553", "description": "Malicious code in reject-finally-data-big-long (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189148"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

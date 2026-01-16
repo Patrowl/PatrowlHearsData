@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177829", "enisaUuid": "f6084cd1-5786-33e7-8f4c-1f6e31faf050", "description": "Malicious code in minify-mu-catch-authenticate-user (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188053"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

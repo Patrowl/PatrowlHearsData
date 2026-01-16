@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176707", "enisaUuid": "60cca090-684f-3815-919a-7d1abc4b53fe", "description": "Malicious code in release-it-perseus-ini-node-config (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189168"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

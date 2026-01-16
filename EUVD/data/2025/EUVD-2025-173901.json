@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173901", "enisaUuid": "14bc91b0-a26f-344e-a1c0-bb73eda40f78", "description": "Malicious code in planning-file-updater (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29372"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

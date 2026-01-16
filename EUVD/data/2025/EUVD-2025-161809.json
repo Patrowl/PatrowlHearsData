@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161809", "enisaUuid": "b1666796-d57b-3998-b287-db8e5f9ba23e", "description": "Malicious code in com.apple.unityplugin.arcade.splashscreen (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17310"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

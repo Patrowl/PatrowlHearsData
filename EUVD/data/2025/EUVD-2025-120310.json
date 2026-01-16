@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120310", "enisaUuid": "c0e0fc8d-5349-3b1f-b28b-524ed657536b", "description": "Malicious code in xanthus-cors-development-mongodb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149621"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

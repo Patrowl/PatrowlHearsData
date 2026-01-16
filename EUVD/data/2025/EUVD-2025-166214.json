@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166214", "enisaUuid": "31be11f3-985e-37e9-a703-8645cbffa9c1", "description": "Malicious code in gomoku-ts (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21695"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

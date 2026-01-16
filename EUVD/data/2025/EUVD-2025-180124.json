@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180124", "enisaUuid": "6cf618e4-da10-3479-9a34-490ea96ab869", "description": "Malicious code in bash-runtime-log-static-java (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185758"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

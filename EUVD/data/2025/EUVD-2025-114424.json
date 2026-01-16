@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114424", "enisaUuid": "1023e534-35b8-306e-99cc-7c8e3e17f2fd", "description": "Malicious code in dorado-comet-cypress-ursa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141685"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

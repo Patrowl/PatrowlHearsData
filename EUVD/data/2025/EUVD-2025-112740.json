@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112740", "enisaUuid": "baa19428-545b-3a2d-a045-58be4c57eff5", "description": "Malicious code in html-webpack-plugin-slides-bunyan-node-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143372"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

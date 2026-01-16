@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195838", "enisaUuid": "5debd0fe-cc5f-3aa0-8888-358fe87b9353", "description": "Malicious code in slabs-birthday-danger (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46086"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

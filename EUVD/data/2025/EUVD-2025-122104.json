@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122104", "enisaUuid": "a85dac47-6d45-3412-ab68-3d6c82534809", "description": "Malicious code in semantic-release-apollo-pyxis-changelog (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147819"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

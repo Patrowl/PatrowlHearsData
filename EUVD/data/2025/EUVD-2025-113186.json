@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113186", "enisaUuid": "19143f07-ca2f-31ae-a593-e06b4f61e708", "description": "Malicious code in global-browserify-pino-aldebaran (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142926"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

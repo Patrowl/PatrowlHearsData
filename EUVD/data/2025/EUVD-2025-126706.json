@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126706", "enisaUuid": "988fc257-75d9-3baf-b4d6-7eafad36cf9e", "description": "Malicious code in flaskignoressl (PyPI)", "datePublished": "2025-03-28T13:05:41", "dateUpdated": "2025-03-28T13:05:41", "baseScore": 0.0, "aliases": ["MAL-2025-2965"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

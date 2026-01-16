@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123562", "enisaUuid": "c5aee52e-d6c7-3a4b-814c-30d14965db20", "description": "Malicious code in polaris-phoebe-spectron-webdriver-enif (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146359"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

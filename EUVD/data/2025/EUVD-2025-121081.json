@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121081", "enisaUuid": "f55ef0b7-92f2-3735-b67a-b95f564b90dd", "description": "Malicious code in typeorm-karma-zenobia-inquirer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148847"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

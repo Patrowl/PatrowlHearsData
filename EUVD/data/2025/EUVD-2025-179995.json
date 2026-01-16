@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179995", "enisaUuid": "4653e0ef-908b-356a-8ad3-bc6c09e7fd56", "description": "Malicious code in bootstrap-cluster-fornax-link (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185887"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

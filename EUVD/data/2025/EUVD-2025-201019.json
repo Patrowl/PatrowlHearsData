@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-201019", "enisaUuid": "7921c222-2a1b-35a6-a15d-77aea84cd81d", "description": "Malicious code in elf-stats-midnight-saddlebag-720 (npm)", "datePublished": "2025-12-03T18:40:37", "dateUpdated": "2025-12-03T19:09:03", "baseScore": 0.0, "aliases": ["MAL-2025-192257"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

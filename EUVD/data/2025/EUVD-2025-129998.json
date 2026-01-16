@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129998", "enisaUuid": "8116e172-6c92-3174-b2c9-75ef98361387", "description": "Malicious code in @wptv/stats (npm)", "datePublished": "2025-07-23T01:13:16", "dateUpdated": "2025-07-23T01:13:16", "baseScore": 0.0, "aliases": ["MAL-2025-6271"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

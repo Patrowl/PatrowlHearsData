@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153605", "enisaUuid": "4b9f6ac1-795f-3dcd-96d6-d2d68fcfa9fd", "description": "Malicious code in @mintstudiouicore/telemetry (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-29T06:43:16", "baseScore": 0.0, "aliases": ["MAL-2025-9104"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

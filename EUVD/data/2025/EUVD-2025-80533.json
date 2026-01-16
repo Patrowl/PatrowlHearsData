@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80533", "enisaUuid": "9b14442e-f638-3823-8552-731cdd27d64f", "description": "Malicious code in slow_unicorn_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-108848"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

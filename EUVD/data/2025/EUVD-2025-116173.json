@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116173", "enisaUuid": "832e1c3f-418c-35ab-b867-acbb5925d37d", "description": "Malicious code in bellatrix-chai-deneb-cross-env (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139929"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

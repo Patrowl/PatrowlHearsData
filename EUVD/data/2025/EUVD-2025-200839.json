@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200839", "enisaUuid": "4c7c64be-93da-3148-8834-f20ed4fa1648", "description": "Malicious code in elf-stats-peppermint-icicle-890 (npm)", "datePublished": "2025-12-03T15:59:29", "dateUpdated": "2025-12-23T20:41:02", "baseScore": 0.0, "aliases": ["MAL-2025-192113"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

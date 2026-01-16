@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112166", "enisaUuid": "66c4949c-adb0-3f6e-a33e-7745e609476f", "description": "Malicious code in jovian-grus-webdriver-manager-library (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143947"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

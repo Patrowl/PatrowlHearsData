@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166565", "enisaUuid": "17476284-a7ba-3632-a5a2-8281b2f93ad8", "description": "Malicious code in gulp-css-colorseur (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22047"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

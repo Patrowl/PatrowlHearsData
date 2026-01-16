@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122799", "enisaUuid": "2c9cde35-7430-3c4d-8e4b-ad87f7b1b391", "description": "Malicious code in registry-cygnus-jekyll-rimraf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147123"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

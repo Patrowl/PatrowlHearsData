@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123575", "enisaUuid": "611f9cec-6dfb-3c10-a4ab-1a2209bdb8ef", "description": "Malicious code in polaris-hexo-process-scorpius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146346"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

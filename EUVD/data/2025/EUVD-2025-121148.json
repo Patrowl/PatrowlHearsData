@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121148", "enisaUuid": "1c86cada-901c-37f0-a703-a7949276fb6a", "description": "Malicious code in transport-canopus-ganymede-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148780"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

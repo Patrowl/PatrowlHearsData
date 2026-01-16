@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179834", "enisaUuid": "f2638f96-2911-34a8-aaa5-2cdf1b60e0d3", "description": "Malicious code in centauri-leda-playwright-cygnus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186048"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

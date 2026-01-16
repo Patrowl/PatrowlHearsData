@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114406", "enisaUuid": "157c95f9-4dd5-3198-8775-5d7cc78a17de", "description": "Malicious code in dotenv-cassini-andromeda-slides (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141703"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

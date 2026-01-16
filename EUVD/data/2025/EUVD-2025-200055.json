@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200055", "enisaUuid": "5a9f2ee0-1ad3-37a9-a1d9-69cd64048f91", "description": "Malicious code in kubernetes-helm (npm)", "datePublished": "2025-12-01T16:16:28", "dateUpdated": "2025-12-01T16:16:28", "baseScore": 0.0, "aliases": ["MAL-2025-191514"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

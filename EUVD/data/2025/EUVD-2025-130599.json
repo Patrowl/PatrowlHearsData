@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130599", "enisaUuid": "f75a3444-4cbb-3e35-b8f9-5d78cdace887", "description": "Malicious code in wf-logger (npm)", "datePublished": "2025-08-14T18:10:52", "dateUpdated": "2025-08-14T18:10:52", "baseScore": 0.0, "aliases": ["MAL-2025-6877"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

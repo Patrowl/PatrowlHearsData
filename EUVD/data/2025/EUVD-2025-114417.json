@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114417", "enisaUuid": "6b5dbfde-51c4-341a-a0a4-a13d6e038baa", "description": "Malicious code in dorado-local-dotenv-safe-spawn (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141692"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166568", "enisaUuid": "c886aa0c-eb2a-36a6-b425-5b03d28222fc", "description": "Malicious code in gulp-es6-browserfy-boilerplate (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22050"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

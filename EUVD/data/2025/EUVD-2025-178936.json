@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178936", "enisaUuid": "4a218cb7-6e31-3d69-80d4-54219f5f1f53", "description": "Malicious code in fast-stack-tau-execute-hash (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186946"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

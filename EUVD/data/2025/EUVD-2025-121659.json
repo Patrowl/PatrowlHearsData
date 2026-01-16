@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121659", "enisaUuid": "a6130bb1-b5a6-3a97-8eb2-9f4910e5d9c8", "description": "Malicious code in start-build-callback-axios (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148266"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

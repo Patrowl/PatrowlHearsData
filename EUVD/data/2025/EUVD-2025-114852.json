@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114852", "enisaUuid": "9945d0c6-c104-386b-af0a-581b9c7ec78c", "description": "Malicious code in cross-env-hydra-vega-terser-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141257"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

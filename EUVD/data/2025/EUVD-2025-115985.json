@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115985", "enisaUuid": "d5ade72f-0e39-3b9c-adc0-678cde6a660a", "description": "Malicious code in bootstrap-playwright-levels-browserify (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140117"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

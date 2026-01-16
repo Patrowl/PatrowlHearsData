@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121512", "enisaUuid": "b30c62ca-f799-3cac-88d3-3e291bc6178b", "description": "Malicious code in sync-build-koa-miranda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148416"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

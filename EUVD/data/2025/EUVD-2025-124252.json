@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124252", "enisaUuid": "7f6c71e4-ac59-3ff0-95fb-f97d7f175376", "description": "Malicious code in nova-spectron-impulse-writable (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145669"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

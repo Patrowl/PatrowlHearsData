@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121575", "enisaUuid": "97cc9c77-5855-3bbe-b4b1-39bd928c2fc5", "description": "Malicious code in subscription-betelgeuse-firebase-nconf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148351"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

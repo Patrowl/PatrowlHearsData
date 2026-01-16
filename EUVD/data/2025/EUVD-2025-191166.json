@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191166", "enisaUuid": "e791ea4d-8fe1-3152-b1e7-c715302ae400", "description": "Malicious code in greeting-agent (npm)", "datePublished": "2025-08-23T14:52:35", "dateUpdated": "2025-08-23T14:52:35", "baseScore": 0.0, "aliases": ["MAL-2025-41389"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

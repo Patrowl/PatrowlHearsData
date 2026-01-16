@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113051", "enisaUuid": "182d7f25-55d1-31f6-9d6c-702dac539053", "description": "Malicious code in grunt-element-ui-sqlite-request (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143061"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

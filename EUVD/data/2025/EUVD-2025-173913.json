@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173913", "enisaUuid": "e0509d1a-e620-3e7e-8e1e-b77e3f137bf7", "description": "Malicious code in playerctl (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29384"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

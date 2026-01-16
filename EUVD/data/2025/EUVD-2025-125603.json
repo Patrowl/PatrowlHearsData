@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125603", "enisaUuid": "2b6fb901-67d2-3d22-8e74-9614b5474449", "description": "Malicious code in instacart-db (npm)", "datePublished": "2025-03-03T13:29:49", "dateUpdated": "2025-03-03T13:29:49", "baseScore": 0.0, "aliases": ["MAL-2025-1861"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113423", "enisaUuid": "f392db71-ea33-39a1-95bf-e2aa0fc8d6f9", "description": "Malicious code in framework-oauth-postgres-fetch (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142689"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

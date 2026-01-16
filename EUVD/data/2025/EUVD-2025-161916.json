@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161916", "enisaUuid": "cf1b219a-7563-3584-a7e3-699766ac828b", "description": "Malicious code in commitlint-config-angular-vega-ini-figures (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17417"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

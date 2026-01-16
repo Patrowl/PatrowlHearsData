@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179846", "enisaUuid": "32a904da-79f3-3b2f-b274-59f11a02163b", "description": "Malicious code in catch-bash-string-long-catch (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186036"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

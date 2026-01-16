@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120872", "enisaUuid": "76ceaf8a-65c2-3f87-8610-9e4cebdbd6b1", "description": "Malicious code in ursa-hapi-nextjs-epimetheus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149057"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

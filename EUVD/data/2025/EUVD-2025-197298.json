@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197298", "enisaUuid": "78fe836f-00d2-3ac1-9fef-04b898ecc8e7", "description": "Malicious code in @igh/server-updater-ssh-l2 (npm)", "datePublished": "2025-10-04T01:46:51", "dateUpdated": "2025-10-04T01:46:51", "baseScore": 0.0, "aliases": ["MAL-2025-48352"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

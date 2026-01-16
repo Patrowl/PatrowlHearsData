@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184174", "enisaUuid": "c4a30528-cae9-3625-829b-9f5ff1414e21", "description": "Malicious code in tailwindcss-first-line (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34390"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111451", "enisaUuid": "13b675b5-067a-364d-935c-72c573935a39", "description": "Malicious code in magellan-selenium-webdriver-manager-chromedriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144664"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

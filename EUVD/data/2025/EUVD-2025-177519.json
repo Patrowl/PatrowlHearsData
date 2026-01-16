@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177519", "enisaUuid": "08af30ad-5712-3cd7-ae61-cea1f6cab11f", "description": "Malicious code in npm-publish-cross-env-jest (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188363"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

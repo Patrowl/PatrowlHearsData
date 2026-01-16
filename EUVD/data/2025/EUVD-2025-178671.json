@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178671", "enisaUuid": "4b83eecf-3e39-399b-94e2-9ba13aad4287", "description": "Malicious code in graviton-hapi-less-loader-electron (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187211"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

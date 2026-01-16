@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115422", "enisaUuid": "da61d562-e2a8-3f04-90b6-8dd57fa61041", "description": "Malicious code in changelog-spawn-spectron-webdriver-query (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140685"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

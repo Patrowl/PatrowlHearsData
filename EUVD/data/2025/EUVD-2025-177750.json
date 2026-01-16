@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177750", "enisaUuid": "0b40ec48-ab3e-3f17-aaf9-fc1e9c837df7", "description": "Malicious code in mu-kernel-phi-transpile-node (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188132"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

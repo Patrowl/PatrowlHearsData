@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175684", "enisaUuid": "42e001c7-5b3a-3fe6-8892-9f0895c55d2a", "description": "Malicious code in vuepress-parallax-socketio-juno (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190192"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

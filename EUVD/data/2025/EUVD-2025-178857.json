@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178857", "enisaUuid": "c06055df-4931-3901-be17-5499d72c3233", "description": "Malicious code in fork-winston-apollo-yaml (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187025"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

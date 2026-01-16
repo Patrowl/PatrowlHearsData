@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183905", "enisaUuid": "cacfe1d1-1db8-386e-87a2-9b23e8801a0e", "description": "Malicious code in style-loader-server-epimetheus-dotenv-safe (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34120"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

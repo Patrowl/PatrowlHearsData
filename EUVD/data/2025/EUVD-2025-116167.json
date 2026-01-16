@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116167", "enisaUuid": "4c49d3b8-0dfa-3196-8aed-02c01390d2c5", "description": "Malicious code in bellatrix-element-ui-native-graphql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139935"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

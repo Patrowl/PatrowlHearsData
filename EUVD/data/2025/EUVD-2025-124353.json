@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124353", "enisaUuid": "ef5d3e92-799a-3d7e-8ae5-3b8524032cb1", "description": "Malicious code in nodejs-io-jwt-global (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145568"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

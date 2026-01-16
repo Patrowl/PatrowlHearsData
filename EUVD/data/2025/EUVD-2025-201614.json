@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-201614", "enisaUuid": "0926f091-a81f-3b4c-84fa-9fabbd3149cf", "description": "Malicious code in paysera-checkout-modal (npm)", "datePublished": "2025-12-07T22:30:57", "dateUpdated": "2025-12-10T21:09:39", "baseScore": 0.0, "aliases": ["MAL-2025-192368"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

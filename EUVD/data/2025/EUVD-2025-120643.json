@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120643", "enisaUuid": "6754b22f-7b3c-3545-8e6f-2635fee9d815", "description": "Malicious code in wasat-enceladus-rate-limiter-nuxtjs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149286"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

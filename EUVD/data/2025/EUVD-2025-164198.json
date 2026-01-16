@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164198", "enisaUuid": "e36daac2-6173-3a4e-ab9b-cfc66f2dde9c", "description": "Malicious code in enum-beta-java-double-encrypt (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19677"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

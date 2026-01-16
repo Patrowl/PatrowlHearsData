@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168667", "enisaUuid": "8ad5f954-d86e-3bbb-ae81-49b1234b5c15", "description": "Malicious code in k8s-ssdeployer (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24149"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

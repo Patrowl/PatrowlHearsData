@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128301", "enisaUuid": "38e225d5-8280-39e0-9450-010e9ec03380", "description": "Malicious code in miro-plugin-tag-crawler (npm)", "datePublished": "2025-05-26T05:55:29", "dateUpdated": "2025-05-26T05:55:29", "baseScore": 0.0, "aliases": ["MAL-2025-4569"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

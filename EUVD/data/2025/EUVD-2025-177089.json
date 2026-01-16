@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177089", "enisaUuid": "6b573ed9-7212-3aa0-81f4-d180081e0c69", "description": "Malicious code in postcss-proxima-eris-restart (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188786"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

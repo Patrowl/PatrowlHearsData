@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129772", "enisaUuid": "fc92b8ee-9358-362f-8716-84ae832fda59", "description": "Malicious code in @toptal/picasso-dropdown (npm)", "datePublished": "2025-07-20T16:44:16", "dateUpdated": "2025-07-20T16:44:16", "baseScore": 0.0, "aliases": ["MAL-2025-6045"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

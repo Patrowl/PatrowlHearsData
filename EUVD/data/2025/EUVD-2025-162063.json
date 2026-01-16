@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162063", "enisaUuid": "80bc2f71-73af-323e-9c94-b806d746bffa", "description": "Malicious code in cordova-plugin-devextremeaddon (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17564"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

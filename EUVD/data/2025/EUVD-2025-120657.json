@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120657", "enisaUuid": "e2b474a0-12d0-342c-a2cf-9972a60f170a", "description": "Malicious code in warp-miranda-dotenv-safe-duplex (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149272"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

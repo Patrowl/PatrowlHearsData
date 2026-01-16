@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-57470", "enisaUuid": "bfec57f3-5b8e-3d7d-b170-8814b094abde", "description": "Malicious code in round_hawk_z3n (npm)", "datePublished": "2025-11-11T00:17:57", "dateUpdated": "2025-11-11T00:17:57", "baseScore": 0.0, "aliases": ["MAL-2025-65169"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

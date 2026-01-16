@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112440", "enisaUuid": "5fd69bdf-13ca-3908-90b0-6d8e1acaf028", "description": "Malicious code in install-cross-env-ultra-radiant (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143673"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

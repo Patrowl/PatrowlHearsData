@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176663", "enisaUuid": "16d1488c-975e-3a9b-8670-9c2d18f59b6a", "description": "Malicious code in rest-neptune-style-loader-nconf (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189212"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

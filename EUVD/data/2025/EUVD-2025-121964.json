@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121964", "enisaUuid": "a494c098-ee9c-32ea-aeaa-30b1fb0dd9e8", "description": "Malicious code in sirius-loop-axios-hydra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147961"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

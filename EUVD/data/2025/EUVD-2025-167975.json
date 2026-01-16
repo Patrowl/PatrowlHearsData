@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167975", "enisaUuid": "22b86012-37f3-3959-8cbb-385c7fc8adc4", "description": "Malicious code in isv-upx-client (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23457"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

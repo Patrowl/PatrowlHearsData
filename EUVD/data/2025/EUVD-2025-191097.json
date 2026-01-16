@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191097", "enisaUuid": "23808300-8a75-347b-b94c-b8572bc7fae7", "description": "Malicious code in remark-canonical-link-plugin (npm)", "datePublished": "2025-08-23T14:49:38", "dateUpdated": "2025-08-25T07:32:49", "baseScore": 0.0, "aliases": ["MAL-2025-41319"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

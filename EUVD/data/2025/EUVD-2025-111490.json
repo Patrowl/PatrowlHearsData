@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111490", "enisaUuid": "82a73e6d-bf91-34d2-92f0-6e4910222b5a", "description": "Malicious code in magellan-cache-backend-halley (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144625"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

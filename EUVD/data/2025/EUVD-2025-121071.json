@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121071", "enisaUuid": "7c895280-cc4c-359f-9c34-6a0730db5efd", "description": "Malicious code in typeorm-subscription-perseus-acamar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148857"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

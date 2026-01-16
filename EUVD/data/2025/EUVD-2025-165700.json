@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165700", "enisaUuid": "e653bee3-07ab-3f0f-8968-d698bf9661a3", "description": "Malicious code in gamma-throw-report-deserialize-uglify (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21181"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

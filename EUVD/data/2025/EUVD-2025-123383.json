@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123383", "enisaUuid": "29a57b26-7a38-3306-879a-d37694308b25", "description": "Malicious code in private-protractor-geckodriver-babel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146539"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

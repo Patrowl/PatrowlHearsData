@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164365", "enisaUuid": "1d297443-7c39-32be-8206-e532315e378d", "description": "Malicious code in eslint-config-yandex-morda (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19845"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

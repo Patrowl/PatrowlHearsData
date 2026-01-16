@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-38420", "enisaUuid": "df08d6f4-a4d9-3849-8631-387bd9bc8d70", "description": "Malicious code in frontend-vue-next (npm)", "datePublished": "2025-11-09T00:17:09", "dateUpdated": "2025-12-23T22:40:24", "baseScore": 0.0, "aliases": ["MAL-2025-49410"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

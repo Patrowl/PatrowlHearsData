@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127898", "enisaUuid": "976067bf-854b-35d1-b3b7-fe053ea3cfac", "description": "Malicious code in browser-tests (npm)", "datePublished": "2025-05-22T12:41:30", "dateUpdated": "2025-05-22T12:41:30", "baseScore": 0.0, "aliases": ["MAL-2025-4166"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

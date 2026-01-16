@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115868", "enisaUuid": "e98900b8-6d2e-39e7-ae1a-4e90bda2f9ed", "description": "Malicious code in bulma-xenon-loopback-rate-limiter (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140236"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

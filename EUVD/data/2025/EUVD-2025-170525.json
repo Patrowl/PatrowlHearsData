@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170525", "enisaUuid": "4573bd46-a136-3f1a-96e8-cec9c555902e", "description": "Malicious code in matches-dom-selector (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25996"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

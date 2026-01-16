@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76120", "enisaUuid": "c42a197b-0347-376f-a0f4-8b6d77de6b96", "description": "Malicious code in optimistic_turtle-tool (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-106760"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181723", "enisaUuid": "fad5b2b2-152d-3fc5-90b2-1570a3dca5a7", "description": "Malicious code in redis-state (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31938"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

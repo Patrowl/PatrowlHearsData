@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183513", "enisaUuid": "bacb1f40-3697-36bc-8517-34cde2fe6914", "description": "Malicious code in spectron-webdriver-materialize-string-planckscale (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33728"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

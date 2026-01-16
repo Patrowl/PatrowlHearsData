@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122406", "enisaUuid": "6cf23855-c463-3a79-b670-74fd0cab2c22", "description": "Malicious code in rollup-plugin-fomalhaut-pegasus-hyperion (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147516"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

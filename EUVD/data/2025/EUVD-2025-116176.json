@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116176", "enisaUuid": "0e9a1cce-2c93-3a66-8716-ca1420e13f18", "description": "Malicious code in bellatrix-axios-babel-element-ui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139926"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

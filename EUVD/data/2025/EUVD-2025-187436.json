@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187436", "enisaUuid": "26b4353f-46a3-3ea4-a396-c34618293400", "description": "Malicious code in umaskd (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37648"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196695", "enisaUuid": "37abbb7c-c3a7-3b1e-9f5a-338be295956d", "description": "Malicious code in service-catalog-client (RubyGems)", "datePublished": "2025-09-01T09:53:36", "dateUpdated": "2025-09-01T09:53:36", "baseScore": 0.0, "aliases": ["MAL-2025-46943"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120416", "enisaUuid": "6feb09ff-cd6d-3d42-a331-6b09ec8ab289", "description": "Malicious code in winston-nestjs-style-loader-orbit (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149514"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

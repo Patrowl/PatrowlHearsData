@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122522", "enisaUuid": "e8634bdf-62cd-3b88-8e34-809eab5b061d", "description": "Malicious code in restart-vulcan-slides-mui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147400"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

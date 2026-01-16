@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183862", "enisaUuid": "5ffeccf6-ce43-3c7c-a91d-14ed5b5e1fd1", "description": "Malicious code in strax-utils (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34077"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

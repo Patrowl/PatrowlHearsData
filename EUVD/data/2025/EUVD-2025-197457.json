@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197457", "enisaUuid": "8f9f82b6-bac6-37dd-90dc-6a469b3b50ca", "description": "Malicious code in logger-mo13kf (npm)", "datePublished": "2025-10-26T19:17:45", "dateUpdated": "2025-10-26T19:17:45", "baseScore": 0.0, "aliases": ["MAL-2025-48739"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

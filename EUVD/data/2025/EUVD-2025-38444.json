@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-38444", "enisaUuid": "c3f36231-1d70-3145-9006-43bd12ea271b", "description": "Malicious code in startupkit-umbraco-webpack (npm)", "datePublished": "2025-11-09T08:05:30", "dateUpdated": "2025-11-09T17:06:09", "baseScore": 0.0, "aliases": ["MAL-2025-49455"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

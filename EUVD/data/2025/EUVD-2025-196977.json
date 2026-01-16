@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196977", "enisaUuid": "7f5be621-3bf5-37ad-9717-bf4f9e4bd686", "description": "Malicious code in regex-validator-utils (npm)", "datePublished": "2025-09-17T20:52:16", "dateUpdated": "2025-09-17T20:52:16", "baseScore": 0.0, "aliases": ["MAL-2025-47440"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111462", "enisaUuid": "60c9b8b2-1b4c-3f39-80e8-d7a9563dc5c2", "description": "Malicious code in magellan-mongodb-fornax-callback (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144653"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

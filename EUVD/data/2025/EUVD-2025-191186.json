@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191186", "enisaUuid": "bc9f9f92-93a2-391c-b9b1-5d8e94516f38", "description": "Malicious code in terminal-suggest (npm)", "datePublished": "2025-08-22T17:39:37", "dateUpdated": "2025-08-22T17:39:37", "baseScore": 0.0, "aliases": ["MAL-2025-41409"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

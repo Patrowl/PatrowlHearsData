@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124806", "enisaUuid": "ab5a96f5-224f-31ca-8702-e83119dac0a4", "description": "Malicious code in module-ora-polaris-winston (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145112"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

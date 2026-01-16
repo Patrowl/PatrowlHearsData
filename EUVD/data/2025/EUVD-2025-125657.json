@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125657", "enisaUuid": "3759e6a6-ee39-3d88-822d-975ef2065dc7", "description": "Malicious code in probe-dictionary-mozilla (npm)", "datePublished": "2025-03-03T13:35:57", "dateUpdated": "2025-03-03T13:35:57", "baseScore": 0.0, "aliases": ["MAL-2025-1915"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

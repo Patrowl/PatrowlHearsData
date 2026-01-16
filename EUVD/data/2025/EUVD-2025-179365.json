@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179365", "enisaUuid": "57984621-4c4d-371a-a52b-6bc9226e17f5", "description": "Malicious code in deimos-koa-build-figures (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186517"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

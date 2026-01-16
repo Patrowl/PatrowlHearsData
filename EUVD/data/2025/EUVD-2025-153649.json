@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153649", "enisaUuid": "1fff0d69-ec21-3db9-977a-a070cdef078a", "description": "Malicious code in @orlserg32112/socket-test-vulndep (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9148"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

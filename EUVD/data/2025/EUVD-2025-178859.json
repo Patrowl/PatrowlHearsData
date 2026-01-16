@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178859", "enisaUuid": "6c4299c9-d772-307a-bac1-9345b767b7f6", "description": "Malicious code in fork-secure-code-daemon-abstract (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187023"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125438", "enisaUuid": "44ff8ad9-20d8-3cd7-9ba1-7fe4108a3d05", "description": "Malicious code in @mp-food/knapsack (npm)", "datePublished": "2025-03-03T13:13:17", "dateUpdated": "2025-03-03T13:13:17", "baseScore": 0.0, "aliases": ["MAL-2025-1694"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116408", "enisaUuid": "05db4f4a-a8e0-31f3-90e7-4acfcc28b929", "description": "Malicious code in auriga-zephyr-cosmiconfig-shelljs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139694"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

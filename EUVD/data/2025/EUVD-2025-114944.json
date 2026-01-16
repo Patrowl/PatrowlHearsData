@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114944", "enisaUuid": "3c7add32-944b-341d-a2fb-de03b9dcea26", "description": "Malicious code in corvus-puppeteer-eslint-config-mysql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141165"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178342", "enisaUuid": "f7df9d4d-fcd1-378b-9bb2-953acf01478f", "description": "Malicious code in iota-less-loader-commitlint-config-angular-private (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187540"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

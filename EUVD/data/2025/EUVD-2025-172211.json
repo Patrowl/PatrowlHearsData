@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172211", "enisaUuid": "2a3b62d2-f606-38f1-93d8-cb5d586163d4", "description": "Malicious code in nodejs-prettier-plugin-markdown-terraforming-websockets (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27682"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

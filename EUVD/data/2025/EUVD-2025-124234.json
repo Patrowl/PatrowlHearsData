@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124234", "enisaUuid": "0c5da586-de64-3cec-ad8d-ea47bf1f289d", "description": "Malicious code in npm-package-octans-puppeteer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145687"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113913", "enisaUuid": "a8ac0141-6649-36b1-a7f9-bfab5043fd2c", "description": "Malicious code in eslint-config-europa-yaml-triton (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142197"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

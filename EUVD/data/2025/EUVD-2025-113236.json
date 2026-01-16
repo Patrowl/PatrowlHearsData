@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113236", "enisaUuid": "1b4692e0-8cec-3638-a1fc-03115c05c52f", "description": "Malicious code in geckodriver-mysql-forever-scripts (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142876"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

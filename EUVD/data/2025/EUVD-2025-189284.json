@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189284", "enisaUuid": "3f591502-7a1e-3cac-bbf9-64c33717b188", "description": "Malicious code in wsbd.js (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39498"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180013", "enisaUuid": "ba5f53d8-5662-36e8-b551-9acfa0ef33f7", "description": "Malicious code in book-boolean-runtime-grep-root (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185869"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

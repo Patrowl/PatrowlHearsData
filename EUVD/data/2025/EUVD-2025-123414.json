@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123414", "enisaUuid": "1464f8a6-da5a-3ce4-b162-4c281c93775b", "description": "Malicious code in prettier-stylelint-hermes-package-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146508"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

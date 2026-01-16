@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-53449", "enisaUuid": "950ff1e7-10e2-38f8-9f34-24dc8abbd600", "description": "Malicious code in local-purple-gecko (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-69200"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115314", "enisaUuid": "d9015917-8e0d-3299-9988-1e1e3f0506d5", "description": "Malicious code in cli-electron-builder-sagitta-proxima (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140794"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

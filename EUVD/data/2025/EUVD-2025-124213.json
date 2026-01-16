@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124213", "enisaUuid": "51dc5940-fa4f-34c7-b50e-28f33fee5805", "description": "Malicious code in nuxtjs-init-ora-xenon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145708"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

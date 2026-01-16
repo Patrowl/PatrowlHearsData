@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191134", "enisaUuid": "cb488aa8-81e5-330e-ade9-6dace65e313c", "description": "Malicious code in @navify-platform/event (npm)", "datePublished": "2025-08-21T18:51:46", "dateUpdated": "2025-09-26T11:06:44", "baseScore": 0.0, "aliases": ["MAL-2025-41356"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114156", "enisaUuid": "485a944a-5503-37e9-b5f5-96ec1cbc83be", "description": "Malicious code in elektra-toml-chalk-lint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141954"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

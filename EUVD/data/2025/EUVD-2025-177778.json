@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177778", "enisaUuid": "247bac8c-4d79-36f8-84ab-64d767013adc", "description": "Malicious code in module-user-signal-pi-monitor (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188104"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

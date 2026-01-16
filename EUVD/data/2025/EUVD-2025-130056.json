@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130056", "enisaUuid": "b85fa315-d0f7-389a-83d1-5a18855bb816", "description": "Malicious code in momentjs-poc (npm)", "datePublished": "2025-07-29T00:35:48", "dateUpdated": "2025-07-29T00:35:48", "baseScore": 0.0, "aliases": ["MAL-2025-6329"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

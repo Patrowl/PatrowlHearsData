@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191846", "enisaUuid": "d3efe75c-8d14-3c24-a6a1-d1a39d075380", "description": "Malicious code in solidity-utils-docify (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-42085"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

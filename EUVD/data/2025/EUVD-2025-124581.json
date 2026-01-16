@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124581", "enisaUuid": "f7e11992-53d9-3311-aec6-81b61a26f89d", "description": "Malicious code in nebula-dactyl-meissa-postgres (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145339"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

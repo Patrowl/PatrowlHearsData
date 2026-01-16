@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125431", "enisaUuid": "83b98816-d026-33e2-b3a5-11d005b416c8", "description": "Malicious code in @darkice/bitcoinjs-message (npm)", "datePublished": "2025-03-03T13:12:30", "dateUpdated": "2025-03-03T13:12:30", "baseScore": 0.0, "aliases": ["MAL-2025-1687"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

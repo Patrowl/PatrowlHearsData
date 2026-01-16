@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122662", "enisaUuid": "d94157c9-3688-3f2c-aa1f-59903a02c2fe", "description": "Malicious code in repository-commitlint-config-angular-fetch-xenos (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147260"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-62969", "enisaUuid": "cbdecfa5-183f-303d-8227-e3b857d34922", "description": "Malicious code in nasty_pelican_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-95585"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

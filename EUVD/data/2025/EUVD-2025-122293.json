@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122293", "enisaUuid": "c8589d8d-1fd1-3260-96fd-f3488fdd971e", "description": "Malicious code in sagitta-webpack-karma-materialize (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147629"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165803", "enisaUuid": "ad494aaf-80e2-3d05-9833-d2be9b9332b8", "description": "Malicious code in generator-httpeace-node (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21284"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

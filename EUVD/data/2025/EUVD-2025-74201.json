@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-74201", "enisaUuid": "96664ec9-4808-3525-a4b2-89f90766d4a5", "description": "Malicious code in stable_flamingo_magenta-21 (npm)", "datePublished": "2025-11-11T07:47:12", "dateUpdated": "2025-11-11T07:47:12", "baseScore": 0.0, "aliases": ["MAL-2025-112351"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

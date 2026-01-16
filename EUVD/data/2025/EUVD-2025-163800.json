@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163800", "enisaUuid": "4ffb2f42-db00-3e03-9400-7707bd6fdd91", "description": "Malicious code in ejson-rails (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19279"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

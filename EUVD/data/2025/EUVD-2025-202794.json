@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-202794", "enisaUuid": "c0df89c6-4e08-3a38-b343-380464ace58b", "description": "Malicious code in elf-stats-merry-hammer-791 (npm)", "datePublished": "2025-12-11T19:46:09", "dateUpdated": "2025-12-11T19:46:09", "baseScore": 0.0, "aliases": ["MAL-2025-192515"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

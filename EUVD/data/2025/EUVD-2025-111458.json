@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111458", "enisaUuid": "22af6015-418b-3ff0-b4cb-eeb4b68ed3db", "description": "Malicious code in magellan-prompts-spectron-react-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144657"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

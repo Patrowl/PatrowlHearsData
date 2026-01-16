@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122672", "enisaUuid": "2e8c322f-9de4-3c69-8830-472d08a9aa34", "description": "Malicious code in remark-magellan-init-envconfig (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147250"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

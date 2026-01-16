@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167776", "enisaUuid": "442a74fc-90aa-31a7-9956-5a94d7eb9fc8", "description": "Malicious code in int-lib-config-utils (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-29T06:43:16", "baseScore": 0.0, "aliases": ["MAL-2025-23258"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

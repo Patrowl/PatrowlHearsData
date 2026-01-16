@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114917", "enisaUuid": "1c3c674d-c37d-3022-8667-0f32db506051", "description": "Malicious code in cosmiconfig-playwright-geckodriver-europa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141192"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

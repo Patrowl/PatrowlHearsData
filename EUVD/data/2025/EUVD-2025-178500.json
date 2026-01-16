@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178500", "enisaUuid": "be7d751e-9daa-377f-8187-c0147574b348", "description": "Malicious code in hugo-build-configstore-rollup-plugin (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187382"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

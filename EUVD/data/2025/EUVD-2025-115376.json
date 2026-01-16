@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115376", "enisaUuid": "dd918f9d-14fc-3c33-a48b-350db0e9b93d", "description": "Malicious code in charon-puppeteer-eclipse-draco (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140731"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

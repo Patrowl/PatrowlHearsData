@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129769", "enisaUuid": "9a68ee54-1383-3b65-99c1-2875afc39845", "description": "Malicious code in @toptal/picasso-calendar (npm)", "datePublished": "2025-07-20T16:43:01", "dateUpdated": "2025-07-20T16:43:01", "baseScore": 0.0, "aliases": ["MAL-2025-6042"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

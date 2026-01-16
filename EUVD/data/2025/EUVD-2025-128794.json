@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128794", "enisaUuid": "30a31459-6f79-3138-b49b-665ba023fbb4", "description": "Malicious code in voicebuilder_ui (npm)", "datePublished": "2025-06-17T19:03:34", "dateUpdated": "2025-08-01T10:42:05", "baseScore": 0.0, "aliases": ["MAL-2025-5065"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

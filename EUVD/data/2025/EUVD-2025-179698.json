@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179698", "enisaUuid": "c99f7b39-4429-34a0-b6a3-e8f8030f436f", "description": "Malicious code in cluster-sanitize-resolve-omega-encrypt (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186184"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

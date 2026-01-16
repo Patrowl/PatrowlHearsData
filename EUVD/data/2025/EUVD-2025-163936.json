@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163936", "enisaUuid": "54145a56-bf33-3917-b0ef-bbe28e00666d", "description": "Malicious code in electron-appearance-settings-osx (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19444"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

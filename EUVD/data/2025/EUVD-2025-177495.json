@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177495", "enisaUuid": "f14b1fa3-bc7d-39b9-a0c6-c9d0d59f6d5a", "description": "Malicious code in octans-command-io-command (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188387"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

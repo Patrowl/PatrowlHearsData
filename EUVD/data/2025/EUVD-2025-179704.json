@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179704", "enisaUuid": "63a43346-a7b8-30ff-a7d6-5cb901427798", "description": "Malicious code in cluster-concurrently-wolf-astrometry (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186178"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

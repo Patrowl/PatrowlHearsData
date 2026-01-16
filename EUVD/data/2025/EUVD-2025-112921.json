@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112921", "enisaUuid": "111fb547-8b36-3df4-82e6-7a03e023afc3", "description": "Malicious code in hapi-miranda-changelog-ini (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143191"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

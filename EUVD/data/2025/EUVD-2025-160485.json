@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160485", "enisaUuid": "5cded7a6-d2bf-37df-8885-0c797434ffff", "description": "Malicious code in bootsnap (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15984"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

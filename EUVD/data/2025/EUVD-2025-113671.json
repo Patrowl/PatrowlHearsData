@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113671", "enisaUuid": "e1cc4258-7de7-3f3b-8201-b36104e4b291", "description": "Malicious code in fetch-deimos-acamar-lynx (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142440"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

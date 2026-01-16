@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80505", "enisaUuid": "adc26e54-2180-33ce-b5a8-f2a927b8362c", "description": "Malicious code in sound_asp_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-108933"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

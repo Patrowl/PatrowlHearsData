@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178778", "enisaUuid": "0f6b2de5-fc4a-3e76-a073-e4dbb5a92b1e", "description": "Malicious code in ganymede-metabolomics-cryptography-metalsmith (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187104"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

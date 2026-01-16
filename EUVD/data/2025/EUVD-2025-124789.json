@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124789", "enisaUuid": "2de8917e-e062-36dc-8e6c-4566ee4f9d80", "description": "Malicious code in mongodb-grus-despina-apollo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145129"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

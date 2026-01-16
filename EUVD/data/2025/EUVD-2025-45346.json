@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-45346", "enisaUuid": "078edcea-4fa0-3f47-b52e-db2beb9707a1", "description": "Malicious code in secure_badger_z3n (npm)", "datePublished": "2025-11-10T17:21:43", "dateUpdated": "2025-11-10T17:21:43", "baseScore": 0.0, "aliases": ["MAL-2025-58629"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

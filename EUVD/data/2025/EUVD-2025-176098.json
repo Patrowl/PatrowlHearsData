@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176098", "enisaUuid": "586b9842-85ca-3047-a193-9bc62415de28", "description": "Malicious code in supervisor-adonis-epimetheus-rimraf (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189777"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

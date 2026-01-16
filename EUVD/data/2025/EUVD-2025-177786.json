@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177786", "enisaUuid": "f85de4fc-4900-3dd8-8545-0568d14b38b1", "description": "Malicious code in module-aquarius-enceladus-publish (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188096"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

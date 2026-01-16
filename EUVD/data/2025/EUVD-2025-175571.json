@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175571", "enisaUuid": "ce39b637-67ce-3979-b143-809fa1ff294e", "description": "Malicious code in weywot-tool-eslint-config-dotenv (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190305"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

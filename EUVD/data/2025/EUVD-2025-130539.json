@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130539", "enisaUuid": "fd8cc722-55f8-382b-87aa-821d7c57d1ca", "description": "Malicious code in nestjs-datadog (npm)", "datePublished": "2025-08-11T02:56:06", "dateUpdated": "2025-08-18T06:10:43", "baseScore": 0.0, "aliases": ["MAL-2025-6817"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

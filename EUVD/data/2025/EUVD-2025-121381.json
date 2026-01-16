@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121381", "enisaUuid": "afc00ec1-d3e4-3d55-92e6-51271a472e1a", "description": "Malicious code in terser-webpack-plugin-dotenv-safe-bulma-foundation (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148547"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124627", "enisaUuid": "b1700718-ba57-39fb-83b1-db527e6f0603", "description": "Malicious code in native-oauth-fork-webdriverio (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145291"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

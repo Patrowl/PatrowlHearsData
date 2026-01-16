@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180621", "enisaUuid": "4dd6b862-8fad-32a5-933e-ea7da0e6d038", "description": "Malicious code in public-object-validate-user-decrypt (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-30816"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

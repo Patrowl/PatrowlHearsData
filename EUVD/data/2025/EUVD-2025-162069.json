@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162069", "enisaUuid": "1d96afe4-bc31-34cc-a9e5-18bc7ea78998", "description": "Malicious code in cordova-plugin-secrets (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17570"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123261", "enisaUuid": "24ea897a-344b-34e6-927a-c13c77b16e7b", "description": "Malicious code in prompts-chromedriver-protractor-alphard (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146661"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

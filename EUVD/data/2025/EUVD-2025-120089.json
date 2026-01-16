@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120089", "enisaUuid": "675043a4-312d-3d91-afeb-43b33100d241", "description": "Malicious code in yonder-resolvers-xml-uninstall (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149843"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

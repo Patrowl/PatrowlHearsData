@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195543", "enisaUuid": "5472c493-a2d0-3a7b-8307-3f4d4e1103f6", "description": "Malicious code in relay-sedna-build-quantum (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45791"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

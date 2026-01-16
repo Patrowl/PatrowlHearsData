@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165628", "enisaUuid": "d3457d90-548c-39c5-9515-6ca922d105c8", "description": "Malicious code in gacrux-promise-test-apollo (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21109"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

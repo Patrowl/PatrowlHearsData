@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170113", "enisaUuid": "5e2ff147-47ee-38bd-8f87-78a24f6b2888", "description": "Malicious code in loom-plugin-webpack (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25584"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

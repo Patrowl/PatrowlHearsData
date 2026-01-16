@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176382", "enisaUuid": "8564553d-fa09-336f-a1a2-47216a58e88a", "description": "Malicious code in signal-array-report-reject-cat (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189493"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

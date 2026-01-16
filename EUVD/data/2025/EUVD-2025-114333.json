@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114333", "enisaUuid": "c2e439a2-ebcd-33fc-a057-5f3ac122b659", "description": "Malicious code in dotenv-safe-sedna-electron-cors (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141776"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

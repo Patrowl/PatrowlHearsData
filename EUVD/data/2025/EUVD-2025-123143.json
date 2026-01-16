@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123143", "enisaUuid": "3406bdc3-d857-300b-8a9f-959a8c68c398", "description": "Malicious code in publish-child-process-halley-andromeda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146779"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

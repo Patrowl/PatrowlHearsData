@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114023", "enisaUuid": "de8ec146-611d-33f0-9f10-a89a93fa3c79", "description": "Malicious code in envconfig-triton-perseus-tailwindcss (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142087"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

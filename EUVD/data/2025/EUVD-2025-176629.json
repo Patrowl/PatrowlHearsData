@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176629", "enisaUuid": "43c869ae-6e48-3a26-a16d-a50121f2528c", "description": "Malicious code in rimraf-middleware-mysql-pavo (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189246"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123501", "enisaUuid": "586f2335-be83-3315-bcf1-180aa12b0723", "description": "Malicious code in postcss-protractor-karma-configstore (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146420"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

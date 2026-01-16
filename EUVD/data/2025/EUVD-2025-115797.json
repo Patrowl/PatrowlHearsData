@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115797", "enisaUuid": "a305e090-3c5c-3ea1-8ab9-197a09dcd6dd", "description": "Malicious code in callback-pyxis-jovian-ora (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140309"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

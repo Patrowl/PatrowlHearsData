@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175980", "enisaUuid": "3d84ef8d-e390-385a-9c6d-53c06a05f07a", "description": "Malicious code in testcafe-janus-sqlite-bulma (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189895"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179450", "enisaUuid": "9155da4c-eea3-3f54-b702-dfadebfe3b85", "description": "Malicious code in csv-mongodb-rehype-less-loader (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186432"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178750", "enisaUuid": "8c91af30-ee99-3a99-b315-69feb89cb8b6", "description": "Malicious code in geckodriver-slidev-protractor-hermes (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187132"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

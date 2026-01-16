@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178449", "enisaUuid": "22d39570-dee2-3df2-a22c-cfe0f4fb7c84", "description": "Malicious code in import-compile-compile-bad-report (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187433"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

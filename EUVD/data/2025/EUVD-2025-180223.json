@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180223", "enisaUuid": "a3c30591-470f-3161-8684-af48a8048255", "description": "Malicious code in auth0-iota-gridsome-meteor (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185665"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

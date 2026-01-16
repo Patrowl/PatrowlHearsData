@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114364", "enisaUuid": "f085249a-31eb-3a2c-bac5-8e1227f024b1", "description": "Malicious code in dotenv-safe-bunyan-private-umbra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141745"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

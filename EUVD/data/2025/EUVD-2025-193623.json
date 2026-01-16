@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193623", "enisaUuid": "1f5608ac-6aa0-3190-ab1f-bc93a1006881", "description": "Malicious code in commitizen-fomalhaut-slidev-mocha (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43870"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

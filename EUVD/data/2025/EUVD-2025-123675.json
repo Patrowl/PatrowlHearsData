@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123675", "enisaUuid": "e10ef62a-276f-32c9-b1cb-1c561aef7d90", "description": "Malicious code in pino-pretty-winston-json-acamar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146246"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

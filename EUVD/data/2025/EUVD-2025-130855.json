@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130855", "enisaUuid": "25b43a01-a88d-3f11-bf33-374c0f641b35", "description": "Malicious code in @com-td-aacs/td-emerald-standards (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7133"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

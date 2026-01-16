@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161130", "enisaUuid": "3ba99c28-ad2f-3fe5-ae9f-b5c5231a8e23", "description": "Malicious code in cassini-hydra-request-fetch (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16629"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

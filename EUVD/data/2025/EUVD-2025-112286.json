@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112286", "enisaUuid": "14857d84-a851-3ae2-8165-aea6e20d41bb", "description": "Malicious code in janus-prettier-stylelint-cross-env-server (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143827"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

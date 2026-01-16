@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171102", "enisaUuid": "86203468-308a-35be-ac7b-ceb2778db1df", "description": "Malicious code in mocha-dorado-meteor-iota (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26573"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

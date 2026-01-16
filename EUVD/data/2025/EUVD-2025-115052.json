@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115052", "enisaUuid": "017395bb-9fc2-3545-b096-0a45f2051586", "description": "Malicious code in configstore-magellan-express-hermes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141057"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

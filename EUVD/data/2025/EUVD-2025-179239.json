@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179239", "enisaUuid": "ddb60ff0-3977-3d82-b77e-f520b80a2439", "description": "Malicious code in draco-terser-webpack-plugin-hermes-corvus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186643"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

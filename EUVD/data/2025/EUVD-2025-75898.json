@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75898", "enisaUuid": "7b836950-4154-38ed-971d-8ac19e8382af", "description": "Malicious code in qualified_mandrill-notthedev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-107635"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

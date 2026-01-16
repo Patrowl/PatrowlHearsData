@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122493", "enisaUuid": "6cc2538b-032b-33ff-83ad-a35bdf7ec8bf", "description": "Malicious code in rigel-bootstrap-triton-hyperion (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147429"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

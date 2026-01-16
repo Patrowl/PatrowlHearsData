@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177689", "enisaUuid": "36fb7425-ad74-3e77-ad0b-010864e222c2", "description": "Malicious code in nconf-superagent-public-writable (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188193"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170690", "enisaUuid": "645e8284-3458-32be-aa29-117e07d52541", "description": "Malicious code in meissa-configstore-loopback-rehype (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26161"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

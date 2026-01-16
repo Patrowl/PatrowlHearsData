@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187090", "enisaUuid": "1a2f6a60-ff30-3bd3-b276-9e0217786a5b", "description": "Malicious code in translation_locale_yml_updater (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37161"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

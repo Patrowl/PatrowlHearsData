@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116472", "enisaUuid": "704fc589-7119-3b5b-a15d-5bd966f420e7", "description": "Malicious code in async-nightwatch-auriga-html-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139630"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128972", "enisaUuid": "294c7f1a-4673-3da2-bce0-2e797140f0c7", "description": "Malicious code in ptl-oem-wifi-portal (npm)", "datePublished": "2025-06-24T20:58:03", "dateUpdated": "2025-08-01T10:42:05", "baseScore": 0.0, "aliases": ["MAL-2025-5243"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

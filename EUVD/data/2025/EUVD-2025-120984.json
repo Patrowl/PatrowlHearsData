@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120984", "enisaUuid": "7c34c740-fc59-3cf8-a3a5-3f693fc3cb94", "description": "Malicious code in umbriel-mongodb-pegasus-rocket (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148944"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

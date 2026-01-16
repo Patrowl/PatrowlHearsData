@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179461", "enisaUuid": "c64adfd9-2b5e-3158-8b17-5f3a911aac0c", "description": "Malicious code in css-minimizer-webpack-plugin-hermes-spectron-pavo (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186421"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

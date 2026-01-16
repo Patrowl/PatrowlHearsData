@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123308", "enisaUuid": "6e376f7b-da14-382f-9a48-f9e3b9a5a633", "description": "Malicious code in procyon-rehype-promise-apollo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146614"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122717", "enisaUuid": "54f9a322-c221-3c40-afd6-b690cdda8f15", "description": "Malicious code in relay-nebula-redis-nightmare (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147205"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

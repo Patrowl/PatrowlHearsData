@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130796", "enisaUuid": "8ce97bcb-1e43-34fd-aad7-11ad50c2adf2", "description": "Malicious code in @amber-team/storybook-utils (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7074"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121279", "enisaUuid": "52fd4384-017f-3698-a6dc-805bd8e38161", "description": "Malicious code in thuban-dotenv-safe-rigel-markdownlint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148649"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

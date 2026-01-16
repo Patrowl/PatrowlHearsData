@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115155", "enisaUuid": "1c98e9a2-9f48-3537-9b9e-fc12a56ea374", "description": "Malicious code in commitlint-auriga-xenos-react-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140953"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-100261", "enisaUuid": "d46c44bb-4df3-3151-aa5f-33cb395e80bc", "description": "Malicious code in constant_macaw_z3n (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-125602"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

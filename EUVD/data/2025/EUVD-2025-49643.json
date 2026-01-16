@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-49643", "enisaUuid": "e43fdf60-e764-3f44-b3f0-bd618bcae05b", "description": "Malicious code in persistent_roundworm_z3n (npm)", "datePublished": "2025-11-10T18:02:22", "dateUpdated": "2025-11-10T18:02:22", "baseScore": 0.0, "aliases": ["MAL-2025-61026"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

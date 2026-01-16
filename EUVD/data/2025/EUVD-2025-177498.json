@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177498", "enisaUuid": "37c9391f-66e1-3fed-bbd1-f42d54a93516", "description": "Malicious code in object-chi-yaml-authorize-zero (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188384"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

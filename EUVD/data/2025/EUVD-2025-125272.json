@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125272", "enisaUuid": "923b070c-89f6-3752-965a-4bcd58d7c918", "description": "Malicious code in wdpr-test-package (npm)", "datePublished": "2025-02-21T14:31:19", "dateUpdated": "2025-02-21T14:31:19", "baseScore": 0.0, "aliases": ["MAL-2025-1528"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

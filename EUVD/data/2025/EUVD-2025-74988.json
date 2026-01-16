@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-74988", "enisaUuid": "8cec02b0-1090-318f-82b9-f5415bbf7a05", "description": "Malicious code in associated_seahorse-tool (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-99645"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

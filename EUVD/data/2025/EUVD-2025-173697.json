@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173697", "enisaUuid": "c1236e0e-7af1-358e-82e5-8b7ff256a26b", "description": "Malicious code in photon-astro-install-singularity (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29168"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

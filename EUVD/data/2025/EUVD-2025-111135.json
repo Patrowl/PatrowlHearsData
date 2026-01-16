@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111135", "enisaUuid": "1581ce35-f8f1-378a-a22a-df3d8069a5d0", "description": "Malicious code in mini-css-extract-plugin-meteor-capella-nconf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144980"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

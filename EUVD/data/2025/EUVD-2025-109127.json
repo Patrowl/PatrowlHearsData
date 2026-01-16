@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-109127", "enisaUuid": "18c0ffcc-3ad0-3dc3-8211-5b999157a6f1", "description": "Malicious code in plain_locust_z3n (npm)", "datePublished": "2025-11-11T22:56:38", "dateUpdated": "2025-11-11T22:56:38", "baseScore": 0.0, "aliases": ["MAL-2025-136242"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

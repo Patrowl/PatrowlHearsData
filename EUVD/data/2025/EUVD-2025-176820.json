@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176820", "enisaUuid": "97074bb4-cb00-3fac-99ef-c22f6c7d67be", "description": "Malicious code in radiant-express-sync-tachyon (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189055"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

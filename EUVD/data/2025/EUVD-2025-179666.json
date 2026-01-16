@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179666", "enisaUuid": "f76d04bb-1b83-3bf5-bf94-5ed76a39e4d2", "description": "Malicious code in comet-mutation-commitlint-csrf (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186216"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

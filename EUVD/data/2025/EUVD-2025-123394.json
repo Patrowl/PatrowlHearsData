@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123394", "enisaUuid": "cec1509d-fb7f-3d0d-ba8e-014104861db7", "description": "Malicious code in private-antares-command-remark (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146528"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

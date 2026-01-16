@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123591", "enisaUuid": "fd44ca0a-3b84-3fda-8db5-aa5a0a30c399", "description": "Malicious code in polaris-commitlint-config-angular-gemini-mdx (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146330"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

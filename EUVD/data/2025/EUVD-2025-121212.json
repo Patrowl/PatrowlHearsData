@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121212", "enisaUuid": "733baa98-5c09-34d4-b800-0543f0201494", "description": "Malicious code in toml-levels-dynamo-nodemon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148716"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

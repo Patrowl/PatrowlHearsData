@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173406", "enisaUuid": "ded9c298-ae7f-3e37-a64a-46a8f2bbe953", "description": "Malicious code in parse-react-next (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28877"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

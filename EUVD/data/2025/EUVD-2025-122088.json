@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122088", "enisaUuid": "cca5d054-51bf-3771-af5b-44fe0527e70d", "description": "Malicious code in semantic-release-rimraf-polaris-sync (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147835"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

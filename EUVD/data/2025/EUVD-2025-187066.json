@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187066", "enisaUuid": "2601050c-0f71-3ba4-b36a-01e335327d62", "description": "Malicious code in ts-objectschema (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37251"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

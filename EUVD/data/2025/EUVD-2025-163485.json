@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163485", "enisaUuid": "a39cab1f-c7d4-33b2-8592-cf5a5883c91d", "description": "Malicious code in duo-jsx (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18986"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

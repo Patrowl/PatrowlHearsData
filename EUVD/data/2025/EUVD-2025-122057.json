@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122057", "enisaUuid": "64b4aa90-3eaa-3efd-a2f1-f650c1b666a9", "description": "Malicious code in sequelize-eslint-protractor-miranda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147866"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

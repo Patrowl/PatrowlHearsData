@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111194", "enisaUuid": "798617b8-3965-3d1c-bf46-745abd41a3fc", "description": "Malicious code in meteor-node-config-hugo-fomalhaut (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144921"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112989", "enisaUuid": "95585d59-99c0-32e0-a15e-fc0b8aa8cf30", "description": "Malicious code in gulp-quito-typeorm-husky (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143123"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

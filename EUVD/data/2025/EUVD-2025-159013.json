@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159013", "enisaUuid": "e8dbe133-bc98-3c97-8013-1f67dcc7fd6c", "description": "Malicious code in andromeda-on-framework-webdriver-manager (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14512"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

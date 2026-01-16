@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181919", "enisaUuid": "a2d6476e-6475-34a7-9664-011aedba940a", "description": "Malicious code in resolvers-prettier-stylelint-quasar-bulma (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32134"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

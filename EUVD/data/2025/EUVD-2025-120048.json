@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120048", "enisaUuid": "152de09e-a6a6-39bc-be2e-a20df78a3741", "description": "Malicious code in zephyr-epimetheus-leda-browserify (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149884"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

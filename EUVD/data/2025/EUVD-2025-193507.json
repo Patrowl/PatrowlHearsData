@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193507", "enisaUuid": "7a3f5ecd-48cd-3b5f-95f1-f6376b86d27f", "description": "Malicious code in chai-leda-pavo-mongoose (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43754"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

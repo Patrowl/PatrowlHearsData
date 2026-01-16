@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124852", "enisaUuid": "cea1ca12-8ba7-31d6-8c1e-51e72da59e25", "description": "Malicious code in mocha-aldebaran-sass-loader-antd (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145066"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

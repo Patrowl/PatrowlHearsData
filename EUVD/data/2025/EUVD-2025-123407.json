@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123407", "enisaUuid": "6404f183-ba45-3448-9e2e-72d1b59ea0f5", "description": "Malicious code in prettier-stylelint-publish-ganymede-regulus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146515"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

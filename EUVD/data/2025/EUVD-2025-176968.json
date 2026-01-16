@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176968", "enisaUuid": "4e423d46-770f-3d42-a5c5-a81ef93fe6dd", "description": "Malicious code in proxima-auth0-eventhoriz-miranda (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188907"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

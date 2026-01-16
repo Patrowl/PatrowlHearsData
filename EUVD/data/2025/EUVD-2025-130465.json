@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130465", "enisaUuid": "d954b514-7d98-3764-9edb-7c120caed7cf", "description": "Malicious code in node-sqlite-fly-tutorial (npm)", "datePublished": "2025-07-28T17:59:53", "dateUpdated": "2025-07-28T17:59:53", "baseScore": 0.0, "aliases": ["MAL-2025-6742"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

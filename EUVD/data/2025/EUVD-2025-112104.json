@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112104", "enisaUuid": "cd03dd8c-8051-31f6-a1a8-87e38dbbcb8d", "description": "Malicious code in jsonp-spawn-cypress-solis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144009"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

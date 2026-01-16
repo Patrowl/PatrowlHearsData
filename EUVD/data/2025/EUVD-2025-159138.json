@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159138", "enisaUuid": "edd83986-dc2f-3cae-9217-74ca2aa9e75c", "description": "Malicious code in api-bot-basil (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14637"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

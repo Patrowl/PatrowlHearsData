@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178154", "enisaUuid": "100e104d-61ce-395a-a3d0-ee5228f92af3", "description": "Malicious code in leda-cassini-dactyl-mongodb (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187728"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

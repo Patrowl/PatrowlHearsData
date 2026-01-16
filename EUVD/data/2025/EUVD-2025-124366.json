@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124366", "enisaUuid": "243b28ea-021d-3761-8905-01b22f2570c3", "description": "Malicious code in node-sass-tool-resolvers-winston (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145555"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

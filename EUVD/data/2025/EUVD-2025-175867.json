@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175867", "enisaUuid": "4f435080-6e18-3e98-be1c-56f846c5b92f", "description": "Malicious code in try-benchmark-assert-module-protected (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190008"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

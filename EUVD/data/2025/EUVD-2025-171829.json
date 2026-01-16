@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171829", "enisaUuid": "fd100dde-be94-387d-b726-6105bef9c0fd", "description": "Malicious code in nerf-page-config-generator (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27300"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

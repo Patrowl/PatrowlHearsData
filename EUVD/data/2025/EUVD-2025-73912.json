@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-73912", "enisaUuid": "91d85f9b-0173-39e7-8907-669ae70aad1b", "description": "Malicious code in ripe_swift_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-96378"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

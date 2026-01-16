@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124248", "enisaUuid": "89199d3d-9401-3d06-858d-7d55e38c9d75", "description": "Malicious code in npm-alphard-mongodb-nodemon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145673"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

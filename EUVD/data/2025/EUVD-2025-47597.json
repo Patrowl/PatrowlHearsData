@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-47597", "enisaUuid": "e6665b91-3a80-3916-ab1d-cb7d38d0df86", "description": "Malicious code in foreign_mandrill_z3n (npm)", "datePublished": "2025-11-10T17:21:43", "dateUpdated": "2025-11-10T17:21:43", "baseScore": 0.0, "aliases": ["MAL-2025-56378"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

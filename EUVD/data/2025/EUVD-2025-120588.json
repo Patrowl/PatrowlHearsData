@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120588", "enisaUuid": "80adf401-9d02-3b98-839f-8261e4244671", "description": "Malicious code in webdriver-mocha-avior-phoebe-hapi (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149341"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

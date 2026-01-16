@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177181", "enisaUuid": "558d9d70-fbf8-3983-9047-a3b93e462135", "description": "Malicious code in pi-emulate-lambda-alert-sandbox (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188695"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

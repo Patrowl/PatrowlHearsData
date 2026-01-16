@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162015", "enisaUuid": "9d7493da-62f8-3c95-a806-b28314bb5bd5", "description": "Malicious code in context-log (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17516"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

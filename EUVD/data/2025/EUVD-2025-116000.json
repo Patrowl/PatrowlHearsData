@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116000", "enisaUuid": "b5a54bf7-1bc9-3f76-8a04-454871a975c6", "description": "Malicious code in bootstrap-event-figures-eslint-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140102"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

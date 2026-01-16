@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120521", "enisaUuid": "3b30c83d-c310-3260-9008-133af81edcf8", "description": "Malicious code in webpack-supervisor-dotenv-vega (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149408"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

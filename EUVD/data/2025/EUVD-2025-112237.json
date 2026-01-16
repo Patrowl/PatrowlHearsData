@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112237", "enisaUuid": "6d3df8d2-18c6-34ae-b222-1590f76ff1e9", "description": "Malicious code in javascript-await-upgrade-venus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143876"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

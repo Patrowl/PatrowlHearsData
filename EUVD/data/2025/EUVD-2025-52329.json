@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-52329", "enisaUuid": "5b898b97-cd31-35e9-88f3-b3812644aadf", "description": "Malicious code in remote-jade-roadrunner (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-70320"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

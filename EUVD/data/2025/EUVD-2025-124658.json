@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124658", "enisaUuid": "690a4b7b-f5ec-3644-a96d-b81d242e9a41", "description": "Malicious code in mysql-pegasus-restart-rimraf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145260"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116680", "enisaUuid": "c00757a4-bada-3f30-a808-159b85ac7163", "description": "Malicious code in antares-mysql-gacrux-taurus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139422"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

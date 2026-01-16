@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161917", "enisaUuid": "b2d96cfc-5086-34ae-86f5-9dbb963ac43a", "description": "Malicious code in commitlint-cordelia-pegasus-playwright (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17418"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

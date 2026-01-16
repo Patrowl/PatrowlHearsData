@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112110", "enisaUuid": "8b307853-9a3c-3499-8115-8e29465f94ab", "description": "Malicious code in jsonp-ophiuchus-sequelize-miranda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144003"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

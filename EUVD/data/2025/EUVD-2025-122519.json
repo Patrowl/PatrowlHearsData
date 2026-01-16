@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122519", "enisaUuid": "cbf7821b-bf2c-3038-8349-251e1c6813c9", "description": "Malicious code in restart-yaml-celeste-writable (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147403"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

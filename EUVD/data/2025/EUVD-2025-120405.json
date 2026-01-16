@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120405", "enisaUuid": "778f2cb5-c565-31b7-9202-24856d606295", "description": "Malicious code in winston-selenium-epimetheus-proxima (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149525"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175580", "enisaUuid": "d7fff3d4-48a5-3600-ad3d-cea9c166eb5e", "description": "Malicious code in websockets-kinetic-janus-sedna (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190296"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

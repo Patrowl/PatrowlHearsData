@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121275", "enisaUuid": "ecd97415-8b29-3a7a-9e58-78870e9cde1f", "description": "Malicious code in thuban-graphql-backend-jupiter (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148653"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

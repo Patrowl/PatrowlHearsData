@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123550", "enisaUuid": "68b771a1-888e-3dc4-aa3e-4f2a0e4c3941", "description": "Malicious code in polaris-spectron-webdriver-polaris-rollup-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146371"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

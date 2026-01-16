@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177783", "enisaUuid": "8bb4771e-6667-3755-ac3c-05a8537c6fa0", "description": "Malicious code in module-data-secure-psi-double (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188099"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

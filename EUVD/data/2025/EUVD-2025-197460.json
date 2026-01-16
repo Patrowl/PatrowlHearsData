@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197460", "enisaUuid": "9c9cad44-d5c1-3fe9-b3e7-30d8332f40f2", "description": "Malicious code in node-sdk-input-validation (npm)", "datePublished": "2025-10-26T19:07:56", "dateUpdated": "2025-10-26T19:07:56", "baseScore": 0.0, "aliases": ["MAL-2025-48745"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

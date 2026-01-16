@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-55550", "enisaUuid": "326c955a-d941-3a74-a6ca-64f0e7c866a2", "description": "Malicious code in busy-bronze-condor (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-67099"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

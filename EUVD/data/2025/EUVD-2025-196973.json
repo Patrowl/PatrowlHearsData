@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196973", "enisaUuid": "3a8db83b-65f6-3f18-b764-dace118fd84a", "description": "Malicious code in lynx-explorer (npm)", "datePublished": "2025-09-17T20:39:13", "dateUpdated": "2025-09-17T20:39:13", "baseScore": 0.0, "aliases": ["MAL-2025-47436"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

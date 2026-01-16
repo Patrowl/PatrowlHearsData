@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173452", "enisaUuid": "f3239c94-b73d-344c-809f-12249c514b4b", "description": "Malicious code in pause-function (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28923"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

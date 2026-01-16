@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114382", "enisaUuid": "263b34f9-4403-30b7-a236-55068d5a9fe4", "description": "Malicious code in dotenv-parse-variables-nashira-hapi-iota (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141727"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179043", "enisaUuid": "ae987a47-ea24-35d1-b186-643338caad86", "description": "Malicious code in eslint-config-uninstall-mongoose-superflare (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186839"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

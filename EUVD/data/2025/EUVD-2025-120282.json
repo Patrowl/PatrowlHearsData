@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120282", "enisaUuid": "2d4bc875-2631-3018-8dd3-87528b328081", "description": "Malicious code in xenon-loglevel-dependencies-request (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149649"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

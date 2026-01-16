@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113419", "enisaUuid": "8ed41559-922a-3a7f-9522-d90119225d78", "description": "Malicious code in framework-react-bootstrap-alphard-supervisor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142693"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

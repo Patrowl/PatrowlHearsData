@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122276", "enisaUuid": "41ce4b24-3434-336c-8834-77e64257951e", "description": "Malicious code in sails-duplex-postgres-geckodriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147646"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122053", "enisaUuid": "72806c19-96d8-34ff-81a9-b2fc5d53f7fb", "description": "Malicious code in sequelize-grunt-public-magellan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147870"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-89434", "enisaUuid": "bb5571c2-ef7e-3db3-95fb-fd31c8d67160", "description": "Malicious code in primitive_pike_z3n (npm)", "datePublished": "2025-11-11T15:19:32", "dateUpdated": "2025-11-11T15:19:32", "baseScore": 0.0, "aliases": ["MAL-2025-116450"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112339", "enisaUuid": "811f0106-20b0-3149-8193-560d3fb8870c", "description": "Malicious code in jabbah-deimos-fornax-webdriver-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143774"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

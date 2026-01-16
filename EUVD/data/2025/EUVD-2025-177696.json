@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177696", "enisaUuid": "f03c5882-5923-3df1-87a5-23d7e555ee85", "description": "Malicious code in native-thermosphere-hermes-server (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188186"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

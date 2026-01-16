@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114727", "enisaUuid": "c32ddbeb-0da2-333a-934b-e57da8f7c02e", "description": "Malicious code in cygnus-style-loader-sqlite-solis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141382"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

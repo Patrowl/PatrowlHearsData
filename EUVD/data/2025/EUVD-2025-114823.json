@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114823", "enisaUuid": "a7ce9aaa-77be-37d0-9479-d4f47dcc2dfb", "description": "Malicious code in csrf-init-apollo-hyperion (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141286"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

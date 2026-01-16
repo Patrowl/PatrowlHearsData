@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114601", "enisaUuid": "4068e355-27fa-3185-8204-e074a83880fc", "description": "Malicious code in deimos-webdriver-manager-public-lint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141508"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

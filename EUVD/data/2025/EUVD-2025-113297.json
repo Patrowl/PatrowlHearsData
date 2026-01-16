@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113297", "enisaUuid": "328079e0-a9a5-3071-957e-26df54faa801", "description": "Malicious code in ganymede-procyon-gulp-webdriver-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142815"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197325", "enisaUuid": "af93131d-b8f4-3c45-b67f-b6a21d7ad30a", "description": "Malicious code in doppler-sdk (npm)", "datePublished": "2025-10-17T03:28:23", "dateUpdated": "2025-10-17T03:28:23", "baseScore": 0.0, "aliases": ["MAL-2025-48491"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159721", "enisaUuid": "1b4bd85a-1281-32ee-be25-649b6b7fc51f", "description": "Malicious code in awk-web-catch-double-compile (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15220"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

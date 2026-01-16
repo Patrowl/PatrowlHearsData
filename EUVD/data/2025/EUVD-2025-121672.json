@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121672", "enisaUuid": "c72de0ab-0fd8-35f3-b94c-dcadc2472818", "description": "Malicious code in standard-electron-algol-ursa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148253"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

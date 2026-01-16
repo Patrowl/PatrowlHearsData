@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178601", "enisaUuid": "5b1aa0a1-8ead-3e3a-8941-b31a22548fb7", "description": "Malicious code in hash-authorize-sanitize-signal-cloud (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187281"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113601", "enisaUuid": "3ba4fbfc-5a76-3fc2-a224-8b2eb665de24", "description": "Malicious code in firebase-relay-winston-webdriverio (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142510"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

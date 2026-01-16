@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171377", "enisaUuid": "ad80897d-714e-34af-9775-74e7cd82e234", "description": "Malicious code in mtdtool (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26848"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

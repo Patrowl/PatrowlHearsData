@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112599", "enisaUuid": "c2c07122-26d2-336d-ae8e-ee5a801b7987", "description": "Malicious code in ignite-foundation-cluster-spinner (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143513"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127444", "enisaUuid": "9dc7c70e-206a-3515-bf50-1453577d11a1", "description": "Malicious code in @ltcp/ui (npm)", "datePublished": "2025-05-08T17:16:03", "dateUpdated": "2025-05-08T17:16:03", "baseScore": 0.0, "aliases": ["MAL-2025-3703"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

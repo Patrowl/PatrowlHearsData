@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121095", "enisaUuid": "9666366b-ee65-3450-98cf-ff470e5b3902", "description": "Malicious code in triton-winston-sequelize-kaus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148833"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

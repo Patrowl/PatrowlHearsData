@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120832", "enisaUuid": "d8874eb1-b568-3857-b43a-93c4be167406", "description": "Malicious code in vega-redis-yonder-iota (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149097"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-71678", "enisaUuid": "1f747b48-3b6d-3194-934d-d84dcbd1f18b", "description": "Malicious code in alert_orca_z3n (npm)", "datePublished": "2025-11-11T07:01:22", "dateUpdated": "2025-11-11T07:01:22", "baseScore": 0.0, "aliases": ["MAL-2025-98612"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37116", "enisaUuid": "c088bc84-187f-34b1-ba3c-6092cefd6b27", "description": "Malicious code in epic-openapi-codegen (npm)", "datePublished": "2025-10-30T17:38:57", "dateUpdated": "2025-10-30T17:38:57", "baseScore": 0.0, "aliases": ["MAL-2025-49177"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-73622", "enisaUuid": "6c8b7319-edd5-3261-9585-41ad4c3726b3", "description": "Malicious code in solid_moose_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-96668"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

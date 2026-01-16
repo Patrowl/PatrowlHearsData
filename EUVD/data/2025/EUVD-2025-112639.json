@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112639", "enisaUuid": "da7cc4e1-5b79-3cb0-b4db-bb91481a042a", "description": "Malicious code in hyperion-express-levels-global (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143473"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

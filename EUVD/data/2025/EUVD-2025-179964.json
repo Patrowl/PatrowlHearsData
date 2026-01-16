@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179964", "enisaUuid": "e56a9eaf-6def-33d1-9e37-36302ef157f0", "description": "Malicious code in browserify-seismology-vega-quito (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185918"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

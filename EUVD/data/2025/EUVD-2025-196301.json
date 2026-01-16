@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196301", "enisaUuid": "c44181b8-25e6-3613-95e5-86bf4e5325e2", "description": "Malicious code in vscode-js-profile-flame (npm)", "datePublished": "2025-09-05T16:38:20", "dateUpdated": "2025-09-05T16:38:20", "baseScore": 0.0, "aliases": ["MAL-2025-46549"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

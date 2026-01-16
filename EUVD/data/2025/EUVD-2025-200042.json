@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200042", "enisaUuid": "5d744a92-01c0-39d6-a6fe-c99fe3d400fd", "description": "Malicious code in solana-dev-mcp (npm)", "datePublished": "2025-12-01T16:16:28", "dateUpdated": "2025-12-01T16:16:28", "baseScore": 0.0, "aliases": ["MAL-2025-191527"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

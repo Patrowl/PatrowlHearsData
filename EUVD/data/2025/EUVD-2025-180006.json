@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180006", "enisaUuid": "1ce2f035-e43c-3c7a-b73e-038756f86e32", "description": "Malicious code in boolean-balance-delta-visualize-resolve (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185876"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

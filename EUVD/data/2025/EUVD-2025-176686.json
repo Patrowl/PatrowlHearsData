@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176686", "enisaUuid": "58c4714c-d1ab-3b42-8cb3-e40b9cb20c24", "description": "Malicious code in request-gemini-prettier-plugin-markdown-hercules (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189189"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122731", "enisaUuid": "952a99eb-aaeb-32c5-8fc5-5e49f447b485", "description": "Malicious code in rehype-upgrade-npm-loop (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147191"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

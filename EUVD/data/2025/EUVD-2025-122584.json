@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122584", "enisaUuid": "729f9e30-396c-34ae-9361-6310fbba9c43", "description": "Malicious code in rest-altair-csrf-arcturus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147338"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

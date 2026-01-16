@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122883", "enisaUuid": "bbb273b7-2aa6-331b-8681-cf678053ead9", "description": "Malicious code in rate-limiter-hermes-eridanus-transform (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147039"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

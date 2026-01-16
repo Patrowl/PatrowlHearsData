@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123024", "enisaUuid": "0b8a567e-0406-3737-8d2c-6e821d4ab55a", "description": "Malicious code in quantum-commitlint-config-angular-event-firebase (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146898"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

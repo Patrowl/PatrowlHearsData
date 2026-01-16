@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-103510", "enisaUuid": "2fe2c74f-92d9-397e-a1ae-09159f5a691f", "description": "Malicious code in net_narwhal_z3n (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-128895"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

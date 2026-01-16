@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177395", "enisaUuid": "584cd05d-14f8-3c61-95c3-980f47d819fc", "description": "Malicious code in outercore-cli-concurrently-troposphere (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188487"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

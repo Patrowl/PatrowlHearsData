@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173493", "enisaUuid": "2dca7785-1db1-3637-b02e-7f1608bd7004", "description": "Malicious code in pccharge (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28964"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

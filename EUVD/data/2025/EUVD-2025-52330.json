@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-52330", "enisaUuid": "6d5d0d15-fda1-31e2-b405-f8f3354aaab8", "description": "Malicious code in remote-azure-magpie (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-70319"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

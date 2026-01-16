@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130608", "enisaUuid": "d6d0ad7c-f519-396d-99aa-2a46270a3c4b", "description": "Malicious code in solana-spl-sdk (npm)", "datePublished": "2025-08-15T19:38:07", "dateUpdated": "2025-08-15T19:38:07", "baseScore": 0.0, "aliases": ["MAL-2025-6886"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

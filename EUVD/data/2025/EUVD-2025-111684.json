@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111684", "enisaUuid": "5e11da61-5d97-3ff4-91c4-4487fb756ce0", "description": "Malicious code in link-ursa-nova-rimraf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144430"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

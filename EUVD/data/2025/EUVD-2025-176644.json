@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176644", "enisaUuid": "e6be9f6b-865c-3576-8c30-fbf00b5de69d", "description": "Malicious code in rho-log-cluster-decode-pi (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189231"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187383", "enisaUuid": "d81ca2f9-efab-3ca0-9af7-248f82c74f8f", "description": "Malicious code in ui-lightning-components (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37595"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

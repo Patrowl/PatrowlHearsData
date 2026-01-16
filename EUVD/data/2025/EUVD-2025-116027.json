@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116027", "enisaUuid": "6e889af6-7dc4-376f-9ce7-52adf46dd33c", "description": "Malicious code in bootes-deneb-exec-axios (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140075"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

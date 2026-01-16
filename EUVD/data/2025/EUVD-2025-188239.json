@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188239", "enisaUuid": "0f49c855-a9a3-3ddf-a2e8-c41fb7a710b9", "description": "Malicious code in virgo-jwt-style-loader-titan (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38451"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

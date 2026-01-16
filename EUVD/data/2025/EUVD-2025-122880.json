@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122880", "enisaUuid": "2aa46b91-7068-361d-ad15-8067659bf198", "description": "Malicious code in rate-limiter-loop-npm-farout (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147042"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

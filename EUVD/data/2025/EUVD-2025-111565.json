@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111565", "enisaUuid": "f3aa21dd-ebc4-32bc-a6bb-de6eaaf1191a", "description": "Malicious code in loopback-frontend-prettier-plugin-markdown-spectron (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144550"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

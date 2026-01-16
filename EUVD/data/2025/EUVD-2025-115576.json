@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115576", "enisaUuid": "1ee71d12-6cd2-3fae-8c7e-b82ea6af2559", "description": "Malicious code in centauri-inquirer-playwright-scripts (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140531"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

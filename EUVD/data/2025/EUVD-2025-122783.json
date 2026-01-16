@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122783", "enisaUuid": "4a70c434-6d5b-3b7a-b64d-dfa2f75828ac", "description": "Malicious code in regulus-apex-package-css-minimizer-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147139"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

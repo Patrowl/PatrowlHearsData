@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191592", "enisaUuid": "11108622-84c7-327f-8a2e-51b458b6b3b1", "description": "Malicious code in @callcenter-frontend/helpers (npm)", "datePublished": "2025-08-29T19:20:31", "dateUpdated": "2025-09-15T00:19:20", "baseScore": 0.0, "aliases": ["MAL-2025-41826"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

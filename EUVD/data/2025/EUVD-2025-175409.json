@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175409", "enisaUuid": "6ef44e07-cd15-3868-80cb-c47ef3806247", "description": "Malicious code in zephyr-mongodb-wavefunction-pm2 (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190467"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

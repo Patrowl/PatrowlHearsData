@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123214", "enisaUuid": "2e94c583-0619-3a2d-acb1-517ee6b1feb8", "description": "Malicious code in proxima-child-process-bootes-rimraf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146708"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

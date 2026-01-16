@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178036", "enisaUuid": "cb5e4468-1d03-341e-a6c2-337cfa371897", "description": "Malicious code in log-info-good-promise-user (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187846"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

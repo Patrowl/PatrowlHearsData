@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113409", "enisaUuid": "d7445eed-fc96-3e5c-bb26-4f2341eda2a4", "description": "Malicious code in frontend-firebase-websockets-ursa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142703"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

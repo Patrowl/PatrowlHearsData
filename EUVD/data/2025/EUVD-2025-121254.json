@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121254", "enisaUuid": "2c0a25f4-b04a-3189-9f03-44be910da96d", "description": "Malicious code in titan-chai-heka-lint-staged (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148674"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

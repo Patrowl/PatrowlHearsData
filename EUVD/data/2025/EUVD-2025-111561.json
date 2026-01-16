@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111561", "enisaUuid": "d51093f9-dcb7-3823-99c6-6bc2ee14a410", "description": "Malicious code in loopback-jest-oberon-jsonp (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144554"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

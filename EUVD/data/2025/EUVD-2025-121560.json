@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121560", "enisaUuid": "0de4c566-45ff-3642-8566-633b35d38329", "description": "Malicious code in subscription-request-koa-scorpius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148366"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

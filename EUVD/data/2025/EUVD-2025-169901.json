@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169901", "enisaUuid": "a49cca7e-6cb9-347e-885f-dfa616fbdbfe", "description": "Malicious code in limitationlifecycle-paypal (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25372"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

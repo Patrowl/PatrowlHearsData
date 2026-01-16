@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113202", "enisaUuid": "f8d13220-7726-3117-ac46-fcaebbfecccc", "description": "Malicious code in gemini-polaris-publish-development (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142910"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

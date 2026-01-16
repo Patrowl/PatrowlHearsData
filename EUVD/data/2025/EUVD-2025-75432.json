@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75432", "enisaUuid": "c2ede8f0-474a-3612-88a4-096cbb9a83df", "description": "Malicious code in thundering_cuckoo-appteadev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-109652"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

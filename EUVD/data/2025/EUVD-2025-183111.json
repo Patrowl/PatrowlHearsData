@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183111", "enisaUuid": "fc08afc4-47c9-3a77-9e3f-41fa5b92b9be", "description": "Malicious code in sisyphe-pdf (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33326"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

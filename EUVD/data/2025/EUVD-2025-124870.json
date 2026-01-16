@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124870", "enisaUuid": "c1384564-8093-305e-a48c-858edf4650cf", "description": "Malicious code in miranda-polaris-async-magellan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145048"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

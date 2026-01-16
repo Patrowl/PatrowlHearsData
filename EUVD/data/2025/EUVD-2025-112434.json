@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112434", "enisaUuid": "e77dabd6-1972-3918-a05a-da44fddf2d0e", "description": "Malicious code in install-mini-css-extract-plugin-test-sqlite (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143679"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

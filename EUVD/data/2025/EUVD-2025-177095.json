@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177095", "enisaUuid": "3fe037a0-fe67-3cc9-9a98-b829c8c916fd", "description": "Malicious code in postcss-loader-hapi-publish-event (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188780"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116046", "enisaUuid": "8f432e9a-c2b4-3b59-9efe-e8888471dac7", "description": "Malicious code in blitz-pm2-mutation-koa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140056"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129833", "enisaUuid": "7d168ac2-a9af-38d1-9d6a-501b536ea746", "description": "Malicious code in ngf-attachments-list (npm)", "datePublished": "2025-07-14T13:28:54", "dateUpdated": "2025-08-01T10:42:05", "baseScore": 0.0, "aliases": ["MAL-2025-6106"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

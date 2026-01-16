@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116241", "enisaUuid": "3a73bc02-19c2-3f4c-8af1-3f5440de31ec", "description": "Malicious code in babel-init-element-ui-nebula (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139861"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123240", "enisaUuid": "04f0fac8-d4de-30f4-acae-9d7596195353", "description": "Malicious code in protractor-dynamo-lyra-supervisor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146682"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

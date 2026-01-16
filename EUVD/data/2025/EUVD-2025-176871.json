@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176871", "enisaUuid": "e67eb142-9065-3802-96d8-a4f3eef6d1cd", "description": "Malicious code in quantum-norma-canopus-dotenv-parse-variables (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189004"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161676", "enisaUuid": "bd219977-ba66-3beb-adec-2e06e31278ed", "description": "Malicious code in cloud_storage_utils (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17177"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

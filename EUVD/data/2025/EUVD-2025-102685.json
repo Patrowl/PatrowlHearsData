@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-102685", "enisaUuid": "98fbb58a-931f-3d33-83a0-31ea86d8666a", "description": "Malicious code in relaxed_tick_z3n (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-129720"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

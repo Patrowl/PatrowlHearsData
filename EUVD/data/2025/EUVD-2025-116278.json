@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116278", "enisaUuid": "afabd9f9-f11c-3282-8cb9-209ec75b9caa", "description": "Malicious code in axios-dagda-rollup-plugin-dotenv-parse-variables (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139824"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122836", "enisaUuid": "6344140c-ec53-3cc7-ba50-0072e082ac8f", "description": "Malicious code in readable-nodemon-envconfig-fomalhaut (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147086"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

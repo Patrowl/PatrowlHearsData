@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182365", "enisaUuid": "1b88c135-4048-3d58-8ef9-b4c9e7d3d574", "description": "Malicious code in rw-family-auth (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32580"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

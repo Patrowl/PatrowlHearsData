@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188868", "enisaUuid": "9d1e2e88-1fa5-34c3-9f1f-7072b46ab938", "description": "Malicious code in wepack-cli (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39082"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

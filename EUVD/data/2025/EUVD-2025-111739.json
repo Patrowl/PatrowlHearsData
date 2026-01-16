@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111739", "enisaUuid": "1077af26-cc79-38d1-af1d-70d582318258", "description": "Malicious code in library-eleventy-start-semantic-release (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144374"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

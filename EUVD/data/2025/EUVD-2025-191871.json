@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191871", "enisaUuid": "62d0acf6-936a-3f07-ba94-7f2b1ebb11b6", "description": "Malicious code in vite-ts-icon (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-42111"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

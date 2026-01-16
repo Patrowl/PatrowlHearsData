@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178249", "enisaUuid": "ae9064f1-63ba-3c8e-9ca8-d5748f077e94", "description": "Malicious code in juno-eleventy-prettier-stylelint-rimraf (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187633"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

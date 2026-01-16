@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120714", "enisaUuid": "49c7e315-bf2c-3c49-8bc9-30fcfecac9bf", "description": "Malicious code in vuetify-mysql-lint-hermes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149215"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

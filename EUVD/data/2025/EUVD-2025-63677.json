@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63677", "enisaUuid": "ac890260-1e4e-3248-acc0-f958fa826ed0", "description": "Malicious code in huge_mite_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-94877"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

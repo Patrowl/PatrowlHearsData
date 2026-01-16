@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120803", "enisaUuid": "c47f1fbb-94b2-342f-be5e-72a249bfff73", "description": "Malicious code in venus-toml-google-csrf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149126"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

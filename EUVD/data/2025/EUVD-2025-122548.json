@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122548", "enisaUuid": "57b527e9-b44f-34f4-b354-7f1ac5acf219", "description": "Malicious code in restart-changelog-heka-eslint-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147374"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

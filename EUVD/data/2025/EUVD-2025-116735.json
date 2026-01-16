@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116735", "enisaUuid": "1c391e45-e18e-30db-9a87-82c380b15245", "description": "Malicious code in altair-soap-lacerta-kastra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139367"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

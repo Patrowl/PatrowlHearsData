@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80885", "enisaUuid": "563953e9-7d4d-3c1e-86a6-d5251de4f0f3", "description": "Malicious code in prior_impala_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-107289"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124223", "enisaUuid": "39885e63-a346-3d48-b30e-04ecce862714", "description": "Malicious code in nuxtjs-bunyan-semantic-ui-warp (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145698"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

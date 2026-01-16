@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172354", "enisaUuid": "d876cdef-8382-35e7-9941-571c878f02c3", "description": "Malicious code in npm-apply (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27825"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

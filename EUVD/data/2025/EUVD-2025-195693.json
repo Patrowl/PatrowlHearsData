@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195693", "enisaUuid": "b83a4b05-195b-329e-b5b4-2c3bb42a2134", "description": "Malicious code in sadr-pyxis-mongodb-quito (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45941"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

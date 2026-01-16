@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-73136", "enisaUuid": "cf2d3ae9-bf42-312a-b61a-c5950778fd93", "description": "Malicious code in universal_hornet_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-97154"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

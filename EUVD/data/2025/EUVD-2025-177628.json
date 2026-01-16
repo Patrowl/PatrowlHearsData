@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177628", "enisaUuid": "1ca902e8-ee8b-3acd-b446-05ef818a31d0", "description": "Malicious code in neutronstar-regulus-sqlite-stratosphere (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188254"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

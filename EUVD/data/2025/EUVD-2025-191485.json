@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191485", "enisaUuid": "5ebd408b-85c8-3332-9e9c-70715da21fce", "description": "Malicious code in pkproxy (PyPI)", "datePublished": "2025-08-28T07:11:32", "dateUpdated": "2025-08-28T07:11:32", "baseScore": 0.0, "aliases": ["MAL-2025-41718"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

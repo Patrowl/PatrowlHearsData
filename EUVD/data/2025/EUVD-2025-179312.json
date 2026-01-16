@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179312", "enisaUuid": "f9c799b5-23ec-341f-b381-b165eb01b0c8", "description": "Malicious code in despina-publish-spectron-webdriver-dotenv-safe (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186570"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

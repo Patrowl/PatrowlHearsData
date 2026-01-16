@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75236", "enisaUuid": "43168670-fba4-315f-abaa-9502a88a4ce1", "description": "Malicious code in weak_cheetah_replicate_automation (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-110764"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

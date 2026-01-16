@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113407", "enisaUuid": "aa40d462-af3d-3820-99ae-8b2b54949403", "description": "Malicious code in frontend-jekyll-commitizen-request (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142705"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

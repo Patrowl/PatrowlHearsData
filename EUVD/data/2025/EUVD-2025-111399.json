@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111399", "enisaUuid": "13e7b59e-11fc-3b53-a765-2b09431295e6", "description": "Malicious code in markdown-socketio-public-child-process (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144716"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

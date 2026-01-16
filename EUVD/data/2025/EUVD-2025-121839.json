@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121839", "enisaUuid": "b67f5ef3-2854-3e3e-817e-a30aa23906a9", "description": "Malicious code in solis-sequelize-koa-cygnus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148086"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

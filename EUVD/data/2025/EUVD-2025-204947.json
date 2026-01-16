@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-204947", "enisaUuid": "7a1afdba-fd16-37fb-a950-859e11a37629", "description": "Malicious code in @ownbackup/ob-query-builder (npm)", "datePublished": "2025-12-23T07:49:19", "dateUpdated": "2025-12-24T00:53:15", "baseScore": 0.0, "aliases": ["MAL-2025-192706"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

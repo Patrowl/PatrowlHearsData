@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177212", "enisaUuid": "d64a00b7-f93c-32af-af3e-455462211a5a", "description": "Malicious code in phoebe-cosmicweb-meteor-install (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188670"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

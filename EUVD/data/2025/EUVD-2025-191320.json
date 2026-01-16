@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191320", "enisaUuid": "22db6a1a-5528-3333-8ce3-ec5b18999ab1", "description": "Malicious code in dependyman (npm)", "datePublished": "2025-08-28T07:25:31", "dateUpdated": "2025-08-28T07:25:31", "baseScore": 0.0, "aliases": ["MAL-2025-41552"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

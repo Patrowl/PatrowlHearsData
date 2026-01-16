@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123683", "enisaUuid": "ba078356-3ff5-345a-86eb-a3ce4cc6637c", "description": "Malicious code in pino-pretty-jasmine-warp-enif (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146238"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

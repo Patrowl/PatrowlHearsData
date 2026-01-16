@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120792", "enisaUuid": "8ed13c56-8efb-3463-a987-2c3db6a6cbfa", "description": "Malicious code in version-iota-deneb-node-sass (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149137"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

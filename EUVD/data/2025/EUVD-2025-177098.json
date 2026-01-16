@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177098", "enisaUuid": "0162c01d-14fc-3dd4-bbb3-89ddc490d8a4", "description": "Malicious code in postcss-html-webpack-plugin-enif-ultra (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188777"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

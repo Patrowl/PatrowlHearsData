@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111467", "enisaUuid": "0039bb4f-f264-3f46-8d17-f4d85803aa40", "description": "Malicious code in magellan-meissa-oauth-library (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144648"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

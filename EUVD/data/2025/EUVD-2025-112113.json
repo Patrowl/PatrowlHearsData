@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112113", "enisaUuid": "b7c9c092-67d9-3fee-a7ec-6bf4426424c9", "description": "Malicious code in jsonp-lint-meissa-dotenv-safe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144000"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

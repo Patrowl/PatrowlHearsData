@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170122", "enisaUuid": "c6e04b2b-bbfb-38d8-bec6-570e4c831a0c", "description": "Malicious code in loopback-connector-soap-elemetal (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25593"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

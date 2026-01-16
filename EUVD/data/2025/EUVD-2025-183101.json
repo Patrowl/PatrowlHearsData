@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183101", "enisaUuid": "f07f13e9-d3a3-3bdf-99a0-fb07f8904c6c", "description": "Malicious code in sirius-ophiuchus-publish-interferometry (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33316"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

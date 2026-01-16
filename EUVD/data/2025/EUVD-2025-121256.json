@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121256", "enisaUuid": "013eafae-c2db-34f9-bb13-abf90947c241", "description": "Malicious code in titan-buffer-sagitta-upgrade (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148672"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

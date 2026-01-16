@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123109", "enisaUuid": "708dc7b0-1516-324e-9afd-cfd5b4a76574", "description": "Malicious code in publish-shelljs-hexo-css-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146813"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

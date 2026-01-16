@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126628", "enisaUuid": "4247cb74-4c8b-325d-a8eb-0d31f78ee426", "description": "Malicious code in lunasec-go-monorepo (npm)", "datePublished": "2025-03-28T12:50:53", "dateUpdated": "2025-03-28T12:50:53", "baseScore": 0.0, "aliases": ["MAL-2025-2887"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

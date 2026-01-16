@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114282", "enisaUuid": "0a123588-e060-36ef-8706-302beea1b660", "description": "Malicious code in dynamo-jwt-figures-convict (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141827"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

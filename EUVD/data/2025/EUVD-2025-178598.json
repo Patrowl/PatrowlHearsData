@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178598", "enisaUuid": "f3c92822-f2dc-3e42-820a-8a05b95f86fa", "description": "Malicious code in hash-table-enum-debug-unix (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187284"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113046", "enisaUuid": "00d35576-7099-31e9-919e-2747849e5d76", "description": "Malicious code in grunt-leda-fomalhaut-publish (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143066"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

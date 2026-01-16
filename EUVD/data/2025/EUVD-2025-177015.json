@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177015", "enisaUuid": "4a9cc071-a28e-3e75-b585-e572268ec947", "description": "Malicious code in promise-interpret-cache-final-process (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188860"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

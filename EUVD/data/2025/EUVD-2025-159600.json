@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159600", "enisaUuid": "b2e0a2a2-af97-3673-8c75-b6d9053a88b6", "description": "Malicious code in authorize-interpret-notify-benchmark-protected (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15099"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

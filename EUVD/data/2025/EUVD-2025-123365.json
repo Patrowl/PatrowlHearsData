@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123365", "enisaUuid": "69482269-c7eb-3ea8-9047-bfa27b0ddc83", "description": "Malicious code in process-mocha-loop-colors (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146557"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

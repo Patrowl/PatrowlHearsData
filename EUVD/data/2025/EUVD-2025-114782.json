@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114782", "enisaUuid": "6807a22f-81b9-3a32-880a-2e82aa34b31d", "description": "Malicious code in css-minimizer-webpack-plugin-helmet-yonder-version (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141327"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

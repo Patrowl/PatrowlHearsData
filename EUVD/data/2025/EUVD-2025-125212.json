@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125212", "enisaUuid": "a326ca2b-be51-385a-8d11-01142ade71e4", "description": "Malicious code in react-spectrum-monorepo (npm)", "datePublished": "2025-02-18T17:36:11", "dateUpdated": "2025-02-18T17:36:11", "baseScore": 0.0, "aliases": ["MAL-2025-1468"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

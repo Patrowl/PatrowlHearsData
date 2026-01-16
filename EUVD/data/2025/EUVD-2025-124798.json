@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124798", "enisaUuid": "4acdce3e-a4fc-379b-8a15-9b07ff1ea62b", "description": "Malicious code in mongodb-achernar-module-neptune (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145120"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

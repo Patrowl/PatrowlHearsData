@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112378", "enisaUuid": "1fe37059-176f-3b91-b40b-8ff0d403a70c", "description": "Malicious code in iota-node-config-nconf-zenith (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143735"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

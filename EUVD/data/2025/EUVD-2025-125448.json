@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125448", "enisaUuid": "e2d68b3b-90f4-3585-8810-f87e92984864", "description": "Malicious code in abstract-utxo (npm)", "datePublished": "2025-03-03T13:14:48", "dateUpdated": "2025-03-03T13:14:48", "baseScore": 0.0, "aliases": ["MAL-2025-1704"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

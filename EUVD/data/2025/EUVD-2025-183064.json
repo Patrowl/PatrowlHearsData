@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183064", "enisaUuid": "3111fab9-5a31-310f-a0b1-1d4f740ffc0d", "description": "Malicious code in simple-zero-shell-zeta-decompress (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33279"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

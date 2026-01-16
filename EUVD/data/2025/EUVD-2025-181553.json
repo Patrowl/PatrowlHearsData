@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181553", "enisaUuid": "20da142a-7844-30ff-8c19-b14e282e0a5c", "description": "Malicious code in react-bootstrap-nightwatch-andromeda-mysql (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31768"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124159", "enisaUuid": "64185f01-9d50-3a9f-9bf8-7cc179ce6030", "description": "Malicious code in octans-axios-node-sass-pm2 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145762"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

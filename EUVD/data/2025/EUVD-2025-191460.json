@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191460", "enisaUuid": "6eaa1cea-a8c1-393a-be0c-5c810801207d", "description": "Malicious code in jinja22 (PyPI)", "datePublished": "2025-08-28T07:11:15", "dateUpdated": "2025-08-28T07:11:15", "baseScore": 0.0, "aliases": ["MAL-2025-41693"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

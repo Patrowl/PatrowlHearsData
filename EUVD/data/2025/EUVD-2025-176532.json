@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176532", "enisaUuid": "e3c96e27-5d5d-3d36-aabf-4f01e73a3cba", "description": "Malicious code in sandbox-scale-promise-unix-resolve (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189343"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116637", "enisaUuid": "9e9cc59a-cc11-3672-8c14-4714560d3295", "description": "Malicious code in antd-repository-nightwatch-duplex (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139465"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

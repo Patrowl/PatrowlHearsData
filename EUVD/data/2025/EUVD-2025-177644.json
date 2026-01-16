@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177644", "enisaUuid": "068fe26b-9ff4-32d4-9c08-743d521a0a8e", "description": "Malicious code in nestjs-css-loader-command-mensa (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188238"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

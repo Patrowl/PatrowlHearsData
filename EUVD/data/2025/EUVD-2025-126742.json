@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126742", "enisaUuid": "b2260962-c255-3bda-84e4-13b7ae43479a", "description": "Malicious code in solscan (PyPI)", "datePublished": "2025-03-28T13:06:16", "dateUpdated": "2025-04-28T05:47:10", "baseScore": 0.0, "aliases": ["MAL-2025-3001"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

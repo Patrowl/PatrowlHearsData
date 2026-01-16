@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177296", "enisaUuid": "a63ad627-3906-3c3a-acb4-655efbdab479", "description": "Malicious code in pavo-auth-sedna-polaris (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188586"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

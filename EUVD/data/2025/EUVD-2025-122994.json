@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122994", "enisaUuid": "17d66806-0cf3-3491-b35e-f076561642ec", "description": "Malicious code in quark-metalsmith-cypress-oauth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146928"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

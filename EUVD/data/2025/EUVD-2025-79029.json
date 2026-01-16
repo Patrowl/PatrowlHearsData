@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-79029", "enisaUuid": "5d0519df-5b86-34d4-9cf4-a7d5bd98edf1", "description": "Malicious code in indirect_haddock_z3n (npm)", "datePublished": "2025-11-11T07:31:13", "dateUpdated": "2025-11-11T07:31:13", "baseScore": 0.0, "aliases": ["MAL-2025-104157"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

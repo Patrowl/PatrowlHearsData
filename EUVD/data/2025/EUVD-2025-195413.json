@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195413", "enisaUuid": "ee00902a-80fd-3526-ab84-1fa57240671f", "description": "Malicious code in pyqt4-doc-zh (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45661"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

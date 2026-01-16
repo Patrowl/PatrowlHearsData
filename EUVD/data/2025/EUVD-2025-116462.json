@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116462", "enisaUuid": "12b2260d-db18-3f3b-9504-e017e14f9bdc", "description": "Malicious code in atlas-browserify-commitlint-orbit (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139640"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

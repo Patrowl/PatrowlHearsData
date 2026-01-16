@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182861", "enisaUuid": "48457d21-6bb8-332b-b6e3-3c17be7c0254", "description": "Malicious code in shazamapi-node (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33076"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

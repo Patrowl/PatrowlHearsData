@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112643", "enisaUuid": "11e17906-c936-392e-9eeb-6838bdeb1a0d", "description": "Malicious code in hyperion-dependencies-query-castor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143469"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

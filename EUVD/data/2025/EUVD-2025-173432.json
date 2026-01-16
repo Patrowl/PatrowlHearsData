@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173432", "enisaUuid": "b9acb07d-7042-3f74-95d8-391f8d4932a2", "description": "Malicious code in passport-sequelize (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28903"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

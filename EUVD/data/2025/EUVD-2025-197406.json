@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197406", "enisaUuid": "95aafed4-6af8-315a-83e8-741427c547c0", "description": "Malicious code in env-app (npm)", "datePublished": "2025-10-26T19:03:27", "dateUpdated": "2025-10-26T19:03:27", "baseScore": 0.0, "aliases": ["MAL-2025-48680"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

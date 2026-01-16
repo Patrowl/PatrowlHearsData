@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120974", "enisaUuid": "a16e4351-46db-3417-8363-d805e18187f5", "description": "Malicious code in uninstall-comet-orbit-oauth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148955"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

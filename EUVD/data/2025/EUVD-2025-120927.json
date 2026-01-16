@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120927", "enisaUuid": "4dde42d0-a5b2-3cf1-b67c-e405c1096778", "description": "Malicious code in update-typeorm-loopback-framework (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149002"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

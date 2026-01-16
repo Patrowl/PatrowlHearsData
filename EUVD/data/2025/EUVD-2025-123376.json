@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123376", "enisaUuid": "7f7b100f-2c4f-32f0-a4aa-b6a881f8481d", "description": "Malicious code in process-apollo-axios-airbnb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146546"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

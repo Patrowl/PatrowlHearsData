@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171833", "enisaUuid": "218040b4-7100-3e4d-8959-25a72a9fca9e", "description": "Malicious code in nestjs-celeste-proxima-antares (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27304"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

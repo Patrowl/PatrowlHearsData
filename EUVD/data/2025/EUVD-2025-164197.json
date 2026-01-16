@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164197", "enisaUuid": "f78d4009-ebe2-3f0f-9e4e-4c190a47cf96", "description": "Malicious code in entrypoint-paypal (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19676"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

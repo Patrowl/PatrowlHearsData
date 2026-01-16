@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130622", "enisaUuid": "dc0f5c79-a67a-38ef-a1d2-e282fcf70645", "description": "Malicious code in @angular_devkit/architect (npm)", "datePublished": "2025-08-14T19:18:59", "dateUpdated": "2025-08-29T06:43:15", "baseScore": 0.0, "aliases": ["MAL-2025-6900"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

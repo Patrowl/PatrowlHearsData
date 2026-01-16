@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-38417", "enisaUuid": "8c09f64d-dc80-3976-8197-a1e4577d12e0", "description": "Malicious code in gca-package2 (npm)", "datePublished": "2025-11-09T00:17:09", "dateUpdated": "2025-11-09T00:17:09", "baseScore": 0.0, "aliases": ["MAL-2025-49413"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

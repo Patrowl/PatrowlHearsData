@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111507", "enisaUuid": "f14711af-bca3-3513-9840-acda54fa48a9", "description": "Malicious code in lyra-grus-csv-dotenv-parse-variables (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144608"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

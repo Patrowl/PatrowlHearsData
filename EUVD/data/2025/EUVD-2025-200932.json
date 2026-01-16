@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200932", "enisaUuid": "1dbef6fd-6ec4-385e-84c5-0e53d83a8a40", "description": "Malicious code in elf-stats-evergreen-bow-653 (npm)", "datePublished": "2025-12-03T15:59:29", "dateUpdated": "2025-12-23T19:37:08", "baseScore": 0.0, "aliases": ["MAL-2025-192019"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

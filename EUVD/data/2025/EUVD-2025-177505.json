@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177505", "enisaUuid": "682f2127-8116-3aa3-84f4-419284ee1000", "description": "Malicious code in nuxtjs-test-fornax-postgres (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188377"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180184", "enisaUuid": "4c1dc52f-b4c1-361a-bc4e-3f8fd7accef8", "description": "Malicious code in await-pm2-quito-meteor (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185698"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

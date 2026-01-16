@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-78997", "enisaUuid": "84a3d3c2-45b3-37de-92ac-f967c63eac4b", "description": "Malicious code in insufficient_hawk_z3n (npm)", "datePublished": "2025-11-11T07:31:13", "dateUpdated": "2025-11-11T07:31:13", "baseScore": 0.0, "aliases": ["MAL-2025-104268"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

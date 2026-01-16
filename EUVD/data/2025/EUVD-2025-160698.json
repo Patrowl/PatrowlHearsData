@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160698", "enisaUuid": "dc3eaa3d-be93-3e10-83c2-e2e24a6fc782", "description": "Malicious code in browser-html-to-rtf (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16197"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

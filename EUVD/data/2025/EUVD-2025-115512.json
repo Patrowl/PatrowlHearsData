@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115512", "enisaUuid": "d5524e00-0774-3ccf-8df4-89ff0d3ff1d0", "description": "Malicious code in chai-less-publish-sedna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140595"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

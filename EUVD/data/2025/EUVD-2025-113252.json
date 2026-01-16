@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113252", "enisaUuid": "8ab5b266-19fd-3ed8-b87f-6ff7d2c32115", "description": "Malicious code in geckodriver-chai-hyperion-husky (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142860"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

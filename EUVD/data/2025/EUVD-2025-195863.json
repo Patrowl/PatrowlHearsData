@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195863", "enisaUuid": "610fa947-3c4a-38eb-b944-75bfa20ab0f2", "description": "Malicious code in solve-half-held (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46111"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126610", "enisaUuid": "484b291a-0b2d-335a-bd70-1f04e6dcef0a", "description": "Malicious code in coincheck-internal (npm)", "datePublished": "2025-03-28T12:42:19", "dateUpdated": "2025-03-28T12:42:19", "baseScore": 0.0, "aliases": ["MAL-2025-2869"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

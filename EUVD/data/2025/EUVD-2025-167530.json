@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167530", "enisaUuid": "e4b9ba31-7891-392c-9c3f-1a2e26ba9cb1", "description": "Malicious code in ignore-doc (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23012"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

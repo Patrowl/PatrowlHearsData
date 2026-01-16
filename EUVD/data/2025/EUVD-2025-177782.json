@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177782", "enisaUuid": "9055e64e-8114-3d28-8b82-6a6a02790696", "description": "Malicious code in module-fornax-elara-mongodb (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188100"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121784", "enisaUuid": "7bdb5060-9c90-3a16-8404-58ecb229c48f", "description": "Malicious code in spectron-webdriver-start-docusaurus-sails (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148141"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

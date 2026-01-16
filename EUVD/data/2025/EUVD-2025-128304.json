@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128304", "enisaUuid": "a9b65c62-f8bc-3c27-a1f7-feba8e7d91a5", "description": "Malicious code in nb-tsconfig (npm)", "datePublished": "2025-05-22T18:58:35", "dateUpdated": "2025-05-22T18:58:35", "baseScore": 0.0, "aliases": ["MAL-2025-4572"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175992", "enisaUuid": "a8ac3060-5852-3fce-938d-de53c1824136", "description": "Malicious code in test-janus-eslint-config-materialize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189883"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

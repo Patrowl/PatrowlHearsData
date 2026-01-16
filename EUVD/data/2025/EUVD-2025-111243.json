@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111243", "enisaUuid": "98030cdf-fe1a-313e-9960-3fd879fe0f40", "description": "Malicious code in metalsmith-celeste-commitlint-config-angular-gacrux (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144872"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167601", "enisaUuid": "f876576c-2bcd-3088-8c80-d1c8d896fe1b", "description": "Malicious code in import-cron-test-decompress-log (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23083"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121804", "enisaUuid": "ce2197ba-ca73-3e42-9347-a52ac640c7ce", "description": "Malicious code in spectron-node-config-prettier-selenium (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148121"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

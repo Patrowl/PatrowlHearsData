@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162139", "enisaUuid": "b7bc10b1-96f2-352a-8d17-8eb8f5391390", "description": "Malicious code in covid19_nagano_csv_to_json (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17640"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

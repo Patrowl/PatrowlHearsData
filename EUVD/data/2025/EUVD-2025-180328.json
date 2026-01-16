@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180328", "enisaUuid": "ad220d90-448c-3bb9-9788-e6df2d630518", "description": "Malicious code in ariel-geckodriver-stratosphere-fetch (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185560"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

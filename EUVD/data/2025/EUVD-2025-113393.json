@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113393", "enisaUuid": "4a04f30b-7666-3c6a-bdc3-d04b97d63742", "description": "Malicious code in frontend-wasat-nodejs-nightwatch (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142719"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

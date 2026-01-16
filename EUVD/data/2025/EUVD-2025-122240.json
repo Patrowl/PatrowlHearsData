@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122240", "enisaUuid": "d34e35bf-7461-3ab9-99de-5f7fdf88d8b2", "description": "Malicious code in sass-loader-quasar-transport-upgrade (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147682"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

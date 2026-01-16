@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114207", "enisaUuid": "441ee362-f93d-3434-9898-3fae14582609", "description": "Malicious code in electron-builder-gridsome-callback-aldebaran (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141903"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

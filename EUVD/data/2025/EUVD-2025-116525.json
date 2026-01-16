@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116525", "enisaUuid": "a5ff769a-2f27-3bfa-95dd-77a6f99ca798", "description": "Malicious code in arcturus-toml-carpo-postcss-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139577"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

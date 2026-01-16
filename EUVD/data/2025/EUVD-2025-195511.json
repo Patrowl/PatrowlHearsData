@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195511", "enisaUuid": "890bb9fa-5af9-36ad-a476-b09448ff3ba3", "description": "Malicious code in react-bootstrap-fornax-deimos-prettier-plugin-markdown (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45759"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

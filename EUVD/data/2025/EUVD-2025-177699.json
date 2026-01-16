@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177699", "enisaUuid": "b7292e77-fabe-3826-8c90-da0e9606a921", "description": "Malicious code in native-quasar-middleware-cz-conventional-changelog (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188183"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

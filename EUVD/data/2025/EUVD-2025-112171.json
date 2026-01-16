@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112171", "enisaUuid": "612c42b4-9c2f-3547-ac57-d5eeb1415eb7", "description": "Malicious code in jovian-auth0-apex-element-ui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143942"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172084", "enisaUuid": "71d4a397-6a0d-3898-aac1-5e072c43d04e", "description": "Malicious code in nineyi.lib.carnap (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27555"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

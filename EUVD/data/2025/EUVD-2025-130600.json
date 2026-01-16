@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130600", "enisaUuid": "9140bcdb-e241-3c79-b4e7-5b213d9c508e", "description": "Malicious code in biocatch-capacitor-plugin (npm)", "datePublished": "2025-08-14T23:32:51", "dateUpdated": "2025-08-14T23:32:51", "baseScore": 0.0, "aliases": ["MAL-2025-6878"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112560", "enisaUuid": "08c85ee7-13bc-34ac-844e-2e8ff68f83a7", "description": "Malicious code in impulse-rimraf-schema-webdriver-manager (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143553"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

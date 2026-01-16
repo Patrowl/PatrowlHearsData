@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166412", "enisaUuid": "f8e365fa-bb9d-31fb-b0be-f3f76777ed47", "description": "Malicious code in gravitationalwave-geodynamo-nightwatch-upgrade (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21894"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116127", "enisaUuid": "1003eb98-e8c6-3142-b5a4-401aff96552c", "description": "Malicious code in betelgeuse-deneb-request-spectron-webdriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139975"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

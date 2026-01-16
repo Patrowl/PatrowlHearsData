@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115022", "enisaUuid": "d3416b16-4632-3ba4-872d-fdaf946e4c97", "description": "Malicious code in convict-rate-limiter-semantic-release-cypress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141087"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

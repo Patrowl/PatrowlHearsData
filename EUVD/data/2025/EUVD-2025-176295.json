@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176295", "enisaUuid": "0ebe0647-3def-3e14-b663-0a8c96f4f493", "description": "Malicious code in socketio-spawn-pyxis-nestjs (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189580"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

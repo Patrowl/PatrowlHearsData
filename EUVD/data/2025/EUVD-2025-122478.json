@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122478", "enisaUuid": "a97625ec-a229-391f-ae54-ab396fd07922", "description": "Malicious code in rimraf-auth0-style-loader-xenos (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147444"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

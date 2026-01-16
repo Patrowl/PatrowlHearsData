@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124792", "enisaUuid": "6cabf9ce-e1a0-3184-b9cd-047bfd86604b", "description": "Malicious code in mongodb-element-ui-apollo-hermes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145126"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

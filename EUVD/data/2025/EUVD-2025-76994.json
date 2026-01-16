@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76994", "enisaUuid": "db7fe74c-3d71-3645-995f-c1d6b11cc44d", "description": "Malicious code in electronic_narwhal-apptea (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-102029"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

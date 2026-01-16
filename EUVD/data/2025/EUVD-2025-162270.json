@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162270", "enisaUuid": "71ea54bf-361f-38d6-90bf-31d1a385adef", "description": "Malicious code in cs-config-loader (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17771"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

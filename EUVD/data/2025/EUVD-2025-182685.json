@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182685", "enisaUuid": "715d6762-d8c1-341e-ad0b-2830bc07bb07", "description": "Malicious code in sedna-dactyl-polaris-loglevel (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32900"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

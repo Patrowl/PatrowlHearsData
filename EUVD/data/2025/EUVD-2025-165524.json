@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165524", "enisaUuid": "39105d85-b2d9-34fe-9f83-4b8957983a45", "description": "Malicious code in fs-exrta (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21005"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

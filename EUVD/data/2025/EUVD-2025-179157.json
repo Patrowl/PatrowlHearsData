@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179157", "enisaUuid": "d4f6b9d1-53b0-3b9b-9764-844b8d770bb8", "description": "Malicious code in emulate-sudo-query-balance-air (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186725"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

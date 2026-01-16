@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124793", "enisaUuid": "bf206840-ec6c-3ca1-a1f5-b0fe0ced1777", "description": "Malicious code in mongodb-dotenv-transform-alphard (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145125"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

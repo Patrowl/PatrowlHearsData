@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173889", "enisaUuid": "98795b4d-5251-30c7-8477-c7c4182f1d73", "description": "Malicious code in planckscale-mira-configstore-cli (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29360"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

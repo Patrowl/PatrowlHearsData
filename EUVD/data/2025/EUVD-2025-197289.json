@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197289", "enisaUuid": "d53db9f1-15e0-33c3-8b43-8899ee9803c7", "description": "Malicious code in rsi-configuration-module (npm)", "datePublished": "2025-09-27T11:35:52", "dateUpdated": "2025-09-27T11:35:52", "baseScore": 0.0, "aliases": ["MAL-2025-47817"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175696", "enisaUuid": "1e80c06e-5516-3dca-80cf-8438e6325cae", "description": "Malicious code in void-grus-superagent-planckscale (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190180"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

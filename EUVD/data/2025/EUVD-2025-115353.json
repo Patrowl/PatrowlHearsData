@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115353", "enisaUuid": "2189889f-0a07-34a7-9c92-ff05a4a3ac05", "description": "Malicious code in child-process-prettier-stylelint-draco-vuepress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140754"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

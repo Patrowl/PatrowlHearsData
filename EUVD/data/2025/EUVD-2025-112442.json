@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112442", "enisaUuid": "05df512a-eaf1-34d1-993f-c552f6740df9", "description": "Malicious code in install-chakra-ui-loopback-antares (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143671"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

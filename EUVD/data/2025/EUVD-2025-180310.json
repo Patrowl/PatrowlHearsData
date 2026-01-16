@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180310", "enisaUuid": "3e70c4c7-8295-3374-b741-9ba797acd2f6", "description": "Malicious code in assert-zeta-visualize-data-char (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185578"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159823", "enisaUuid": "6e18f75d-602d-3d79-8274-9a6e17cd42ac", "description": "Malicious code in backoff2 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15322"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

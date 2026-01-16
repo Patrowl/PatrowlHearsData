@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175602", "enisaUuid": "4d09d3d7-a33a-3759-a8ee-f5b02b4db88b", "description": "Malicious code in webdriver-mocha-nightwatch-cosmiconfig-despina (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190274"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

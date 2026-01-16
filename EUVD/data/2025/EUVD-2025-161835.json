@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161835", "enisaUuid": "42858267-6d40-35a5-8a68-373d220ffd7d", "description": "Malicious code in com.microsoft.mixedreality.toolkit.gpustats (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17336"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124761", "enisaUuid": "ef86c55f-eb60-3042-af89-09489b2b646c", "description": "Malicious code in mongoose-jovian-prompts-bootes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145157"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

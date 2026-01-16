@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164333", "enisaUuid": "bab8d640-b52e-3e4b-831b-11a924923d04", "description": "Malicious code in es6-http-status-codes (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19812"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

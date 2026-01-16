@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175821", "enisaUuid": "56a75a99-ebbb-3df8-828b-e7bdfffd1996", "description": "Malicious code in uninstall-sails-development-dynamo (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190054"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

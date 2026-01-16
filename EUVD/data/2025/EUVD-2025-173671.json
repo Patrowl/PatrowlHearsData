@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173671", "enisaUuid": "5417cc6b-32c2-31cf-82fe-8384717f153e", "description": "Malicious code in phoebe-relay-jwt-pino (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29142"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173543", "enisaUuid": "bbaf95b8-409c-3442-aaa3-7c356a57097e", "description": "Malicious code in pegasus-element-ui-winston-event (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29014"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

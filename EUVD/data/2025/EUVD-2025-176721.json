@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176721", "enisaUuid": "aa6a6ae5-982f-3497-a384-74f7202ba658", "description": "Malicious code in relay-dotenv-chai-ophiuchus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189154"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

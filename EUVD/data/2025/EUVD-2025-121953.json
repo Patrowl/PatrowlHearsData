@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121953", "enisaUuid": "6589b88e-9804-3bc8-b810-44abfa26cf50", "description": "Malicious code in sirius-repository-yaml-oberon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147972"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

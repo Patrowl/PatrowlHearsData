@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122393", "enisaUuid": "2dc27a67-9a23-3d50-82ad-f8ef38361bf1", "description": "Malicious code in rollup-plugin-zenobia-cypress-nebula (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147529"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195910", "enisaUuid": "8fe24f4f-1b44-3a83-b3dc-8c9e2f21d629", "description": "Malicious code in subscription-bootstrap-publish-semantic-release (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46158"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

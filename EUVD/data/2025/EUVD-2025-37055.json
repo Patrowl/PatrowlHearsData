@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37055", "enisaUuid": "51b34ccc-04a4-3040-8c21-4c5e4a928595", "description": "Malicious code in ssp-config-management-tool (npm)", "datePublished": "2025-10-30T17:38:57", "dateUpdated": "2025-10-30T17:38:57", "baseScore": 0.0, "aliases": ["MAL-2025-49238"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

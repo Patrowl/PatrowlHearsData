@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120219", "enisaUuid": "d773430a-cbaa-348b-922f-51e3ce410839", "description": "Malicious code in xerxes-ora-neptune-dotenv (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149712"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

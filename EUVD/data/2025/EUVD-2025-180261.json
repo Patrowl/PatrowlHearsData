@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180261", "enisaUuid": "ba197b66-3aca-3398-b503-4031bfdaade9", "description": "Malicious code in async-psi-alpha-query-theta (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185627"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

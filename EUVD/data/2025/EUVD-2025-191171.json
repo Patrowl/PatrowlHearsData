@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191171", "enisaUuid": "88d8f0a4-3ec5-373a-af7b-6a7279f35508", "description": "Malicious code in msal-node2 (npm)", "datePublished": "2025-08-23T14:43:08", "dateUpdated": "2025-08-23T14:43:08", "baseScore": 0.0, "aliases": ["MAL-2025-41394"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

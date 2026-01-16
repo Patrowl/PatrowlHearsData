@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-82121", "enisaUuid": "94331e76-edba-377f-bf36-49b20ae41eaa", "description": "Malicious code in eager_python_dumbs (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-101845"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

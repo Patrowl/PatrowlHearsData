@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128498", "enisaUuid": "6bdd14e4-3b37-39a2-a1dd-fcf98e77d089", "description": "Malicious code in swap-token-list (npm)", "datePublished": "2025-05-31T19:57:00", "dateUpdated": "2025-05-31T19:57:00", "baseScore": 0.0, "aliases": ["MAL-2025-4766"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122029", "enisaUuid": "4102c29b-1e78-3e98-a9d5-61ff270b521c", "description": "Malicious code in server-electron-blitz-await (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147894"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

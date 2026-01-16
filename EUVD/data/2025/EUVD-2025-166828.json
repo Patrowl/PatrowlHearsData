@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166828", "enisaUuid": "30845b46-9de4-34d0-8156-6533d769b92f", "description": "Malicious code in hcompare (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22310"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179721", "enisaUuid": "81af1976-87a3-3923-aab0-f43e5e4214d8", "description": "Malicious code in class-secure-function-transpile-authorize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186161"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-36968", "enisaUuid": "aff98c6d-06ae-3efd-81ad-d4a438827e5c", "description": "Malicious code in create-response (npm)", "datePublished": "2025-10-30T05:52:44", "dateUpdated": "2025-10-31T03:25:40", "baseScore": 0.0, "aliases": ["MAL-2025-49095"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123719", "enisaUuid": "21652d44-fd77-3f7c-a345-c1582a5ea550", "description": "Malicious code in phoenix-native-css-minimizer-webpack-plugin-jekyll (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146202"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

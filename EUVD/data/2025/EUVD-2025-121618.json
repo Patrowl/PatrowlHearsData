@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121618", "enisaUuid": "f0797981-11b7-35a7-adab-058864b021c2", "description": "Malicious code in stop-websockets-spica-antd (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148307"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124542", "enisaUuid": "bf20450f-56ac-35fc-b124-6979d0dd6814", "description": "Malicious code in neptune-request-hexo-commitlint-config-angular (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145378"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

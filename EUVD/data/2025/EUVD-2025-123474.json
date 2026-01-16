@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123474", "enisaUuid": "b3da4eb8-6f3e-3f64-93f8-530bfe3d176b", "description": "Malicious code in postgres-sails-jekyll-react-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146447"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

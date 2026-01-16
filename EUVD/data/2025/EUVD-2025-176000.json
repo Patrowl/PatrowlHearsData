@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176000", "enisaUuid": "c24c4fe6-45cd-33e2-9388-3a21002231e5", "description": "Malicious code in terser-webpack-plugin-nestjs-umbriel-cluster (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189875"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

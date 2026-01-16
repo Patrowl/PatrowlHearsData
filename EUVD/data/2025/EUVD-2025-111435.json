@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111435", "enisaUuid": "e87c4620-b175-3526-9f02-b1b421e35ccf", "description": "Malicious code in markdown-async-chai-uninstall (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144680"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

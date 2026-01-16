@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113500", "enisaUuid": "9f976df9-9804-3771-bff5-6812d42a94b8", "description": "Malicious code in fornax-commitlint-config-angular-commitlint-warp (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142612"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

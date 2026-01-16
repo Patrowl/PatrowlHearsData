@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37271", "enisaUuid": "cd719c45-6770-3e2a-add9-34c31c9775e8", "description": "Malicious code in unplugin-vue-component (npm)", "datePublished": "2025-10-31T01:28:08", "dateUpdated": "2025-10-31T01:28:08", "baseScore": 0.0, "aliases": ["MAL-2025-49275"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178451", "enisaUuid": "f06316c7-1130-38d8-9122-77ae628700af", "description": "Malicious code in import-abstract-nu-private-decrypt (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187431"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

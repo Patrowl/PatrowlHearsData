@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115964", "enisaUuid": "325d1e7b-ee1b-30d8-aae1-5c58a6be1e6b", "description": "Malicious code in browserify-readable-mysql-standard (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140140"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

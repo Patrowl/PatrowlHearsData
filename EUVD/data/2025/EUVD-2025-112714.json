@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112714", "enisaUuid": "005e1b51-91f1-3380-87b7-7c8f044c7d39", "description": "Malicious code in hugo-rimraf-eslint-nightwatch (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143398"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

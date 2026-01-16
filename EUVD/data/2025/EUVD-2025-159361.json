@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159361", "enisaUuid": "6dbe11f2-4e4e-3a73-a222-205595e11d83", "description": "Malicious code in array-compress (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14860"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

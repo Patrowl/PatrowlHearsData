@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-152907", "enisaUuid": "df3ca98a-df26-3686-8a05-19db5780f17e", "description": "Malicious code in @leaffm/leaf-connect-the-little-green-sheep (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-8406"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

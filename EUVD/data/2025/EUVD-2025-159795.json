@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159795", "enisaUuid": "ba1b000a-9f33-34b3-a7d3-4db619cb4550", "description": "Malicious code in babel-plugin-throws-helper (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15294"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

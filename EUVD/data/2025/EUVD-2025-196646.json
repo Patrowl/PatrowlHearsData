@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196646", "enisaUuid": "27bb4b54-b00b-3529-a1f0-41f06c298050", "description": "Malicious code in authnd-client (RubyGems)", "datePublished": "2025-09-01T09:47:34", "dateUpdated": "2025-09-01T09:47:34", "baseScore": 0.0, "aliases": ["MAL-2025-46894"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

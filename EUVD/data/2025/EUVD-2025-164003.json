@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164003", "enisaUuid": "2b9df723-c3c6-3afb-bf53-106ff0cd6d59", "description": "Malicious code in electron-development-eslint-config-galaxy (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19449"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

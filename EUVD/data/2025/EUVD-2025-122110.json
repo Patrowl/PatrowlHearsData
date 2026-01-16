@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122110", "enisaUuid": "3cc1c823-c0cd-31d0-9df5-66774281ba9c", "description": "Malicious code in selenium-sirius-reveal-md-envconfig (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147813"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

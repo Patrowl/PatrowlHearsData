@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180220", "enisaUuid": "e4ab0b95-e528-363d-b0d9-33f3350a82cf", "description": "Malicious code in auth0-stratigraphy-ursa-cordelia (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185668"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

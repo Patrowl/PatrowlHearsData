@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182316", "enisaUuid": "17735204-60f6-3b7e-9431-138f8bd883fb", "description": "Malicious code in ruby-kafka-oauth-client (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32531"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

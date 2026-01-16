@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129202", "enisaUuid": "07bacd87-9a47-342c-9a71-a94d9dd22743", "description": "Malicious code in vuepress-plugin-lego-analytics (npm)", "datePublished": "2025-06-18T04:58:11", "dateUpdated": "2025-06-18T04:58:11", "baseScore": 0.0, "aliases": ["MAL-2025-5474"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

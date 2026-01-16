@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183800", "enisaUuid": "327d7083-5233-3058-a45a-67907c7ed97d", "description": "Malicious code in stratosphere-nodejs-gatsby-cosmogenic (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34015"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

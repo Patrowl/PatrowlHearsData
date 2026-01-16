@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112755", "enisaUuid": "89449668-b9e7-3f38-ab3d-c6d4b974221f", "description": "Malicious code in html-webpack-plugin-cache-spawn-jovian (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143357"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

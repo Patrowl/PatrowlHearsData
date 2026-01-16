@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120531", "enisaUuid": "f3ed9d92-5382-35e2-b367-229de8b0214a", "description": "Malicious code in webpack-global-concurrently-venus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149398"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

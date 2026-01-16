@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193164", "enisaUuid": "88711af7-ecce-3d36-9963-114a070cc44c", "description": "Malicious code in adonis-await-winston-non-blocking (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43411"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

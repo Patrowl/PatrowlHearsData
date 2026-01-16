@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-65072", "enisaUuid": "e2077480-ea20-304d-bd3a-312ebf128665", "description": "Malicious code in causal_lamprey_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-93482"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

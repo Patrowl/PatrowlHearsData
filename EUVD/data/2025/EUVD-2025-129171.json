@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129171", "enisaUuid": "0453c06d-4677-32ee-84d0-2cf7694b05fa", "description": "Malicious code in nifi-frontend (npm)", "datePublished": "2025-06-18T17:41:15", "dateUpdated": "2025-06-18T17:41:15", "baseScore": 0.0, "aliases": ["MAL-2025-5442"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

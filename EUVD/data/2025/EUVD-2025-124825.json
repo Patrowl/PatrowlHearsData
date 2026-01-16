@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124825", "enisaUuid": "1b32036f-439e-3150-b4bb-b649f9f5c3fe", "description": "Malicious code in mocha-thuban-miranda-juno (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145093"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

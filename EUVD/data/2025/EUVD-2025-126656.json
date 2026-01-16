@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126656", "enisaUuid": "12ad15ec-6cb6-3259-b7f2-368546a32254", "description": "Malicious code in wdpr-ra-hybrid-cli (npm)", "datePublished": "2025-03-28T13:03:41", "dateUpdated": "2025-03-28T13:03:41", "baseScore": 0.0, "aliases": ["MAL-2025-2915"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

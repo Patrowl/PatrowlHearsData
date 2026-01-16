@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112705", "enisaUuid": "3bdc047e-42eb-39fc-ba54-443be6e7a00f", "description": "Malicious code in hugo-transport-node-config-hermes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143407"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114945", "enisaUuid": "8ab146d8-6136-3fa6-9129-6f3112390ff6", "description": "Malicious code in corvus-pino-docusaurus-webdriver-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141164"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

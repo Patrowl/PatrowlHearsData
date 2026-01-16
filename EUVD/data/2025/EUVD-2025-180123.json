@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180123", "enisaUuid": "067898af-32a4-3f23-a258-528fba0e52b0", "description": "Malicious code in bash-serialize-decode-grid-sudo (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185759"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

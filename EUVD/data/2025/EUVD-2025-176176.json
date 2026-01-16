@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176176", "enisaUuid": "2f43d476-e390-34e9-aced-2424621c80bb", "description": "Malicious code in string-optimize-class-link-authorize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189699"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-53389", "enisaUuid": "6ddfce40-904e-368e-8bf5-09d5032c3373", "description": "Malicious code in main-fuchsia-lemming (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-69260"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

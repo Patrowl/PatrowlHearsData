@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122313", "enisaUuid": "5ecb0099-daac-38d3-95d8-40c50b987c21", "description": "Malicious code in sagitta-polaris-markdownlint-cz-conventional-changelog (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147609"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

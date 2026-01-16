@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122343", "enisaUuid": "4d6b73cf-b1bb-30ba-a464-3dd3061f5fff", "description": "Malicious code in sagitta-altair-winston-pipe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147579"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

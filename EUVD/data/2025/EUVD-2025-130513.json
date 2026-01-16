@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130513", "enisaUuid": "1c29b3f4-a063-38d8-9aa8-c181f293af40", "description": "Malicious code in productboard-html-to-image (npm)", "datePublished": "2025-08-05T16:39:02", "dateUpdated": "2025-08-13T02:31:49", "baseScore": 0.0, "aliases": ["MAL-2025-6790"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161859", "enisaUuid": "5eec8b68-2764-372e-ad53-1db7d1c916ab", "description": "Malicious code in com.unity.recorder (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17360"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

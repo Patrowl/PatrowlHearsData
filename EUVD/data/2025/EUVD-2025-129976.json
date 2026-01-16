@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129976", "enisaUuid": "b4dbbd1d-8560-39c3-a324-2952bceeb139", "description": "Malicious code in @grafanacloud/test-utils (npm)", "datePublished": "2025-07-26T07:54:37", "dateUpdated": "2025-07-28T01:58:36", "baseScore": 0.0, "aliases": ["MAL-2025-6249"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

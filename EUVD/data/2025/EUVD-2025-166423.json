@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166423", "enisaUuid": "5ddb2dcf-2d7e-34b4-aba2-5f2fabcd3d4a", "description": "Malicious code in gravity-sqlite-got-nuxtjs (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21905"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

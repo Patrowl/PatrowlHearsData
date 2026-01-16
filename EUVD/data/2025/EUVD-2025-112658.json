@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112658", "enisaUuid": "fccd0cc7-5cbd-35b7-9630-21e401f45c9b", "description": "Malicious code in hydra-rimraf-apollo-gacrux (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143454"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

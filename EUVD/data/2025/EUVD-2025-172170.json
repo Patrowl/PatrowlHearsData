@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172170", "enisaUuid": "1b1f197c-8ee6-3f3c-80e0-f863c1f63030", "description": "Malicious code in node-red-contrib-flows_splitter (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27641"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

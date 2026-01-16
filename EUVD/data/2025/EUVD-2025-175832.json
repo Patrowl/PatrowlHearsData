@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175832", "enisaUuid": "c23db6bb-3683-3708-8a9f-dfd0a36dbd37", "description": "Malicious code in umbriel-bootstrap-polaris-comet (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190043"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180154", "enisaUuid": "8104f8e2-8936-39f7-8375-b20ec6025201", "description": "Malicious code in backend-nashira-rate-limiter-chromedriver (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185728"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

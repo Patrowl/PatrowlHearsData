@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123469", "enisaUuid": "36a996df-ee22-3882-90ff-e124ea3fd9b9", "description": "Malicious code in postgres-xerxes-changelog-corvus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146452"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

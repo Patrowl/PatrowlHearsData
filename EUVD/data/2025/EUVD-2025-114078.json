@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114078", "enisaUuid": "b3c19a12-c28b-3eef-8a69-51251a6ddac5", "description": "Malicious code in enceladus-pm2-metalsmith-apollo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142032"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

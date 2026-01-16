@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168272", "enisaUuid": "e505c962-3b43-3ac9-8b34-b7f5ab7a325c", "description": "Malicious code in jetty-xigua-p5wn (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23754"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

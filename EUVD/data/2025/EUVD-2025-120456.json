@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120456", "enisaUuid": "9db31f11-f588-3759-b58b-9ce19496aa4b", "description": "Malicious code in wezen-webdriverio-rate-limiter-electron-builder (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149474"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

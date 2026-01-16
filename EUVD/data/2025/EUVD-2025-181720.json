@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181720", "enisaUuid": "fc45e1eb-76e9-3fb9-a47b-7693b1d926b8", "description": "Malicious code in redis-gacrux-astrochemistry-lint-staged (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31935"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

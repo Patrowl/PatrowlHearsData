@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-38436", "enisaUuid": "b6df5c85-9c29-369d-a6d3-a46d892ae052", "description": "Malicious code in @anhackle/test (npm)", "datePublished": "2025-11-09T00:17:09", "dateUpdated": "2025-11-09T00:17:09", "baseScore": 0.0, "aliases": ["MAL-2025-49394"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187169", "enisaUuid": "4bb51109-afcc-3257-9a44-5bb617cc45ba", "description": "Malicious code in truncate-html-lth (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37240"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

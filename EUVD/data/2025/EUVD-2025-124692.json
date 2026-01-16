@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124692", "enisaUuid": "d0c29e3d-d2b8-3443-9f11-8753ea79cb4f", "description": "Malicious code in mutation-meteor-magellan-deneb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145226"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

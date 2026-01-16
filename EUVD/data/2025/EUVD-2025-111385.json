@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111385", "enisaUuid": "25598074-8883-37c6-8f8b-133de88e7688", "description": "Malicious code in markdownlint-standard-run-script-comet (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144730"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

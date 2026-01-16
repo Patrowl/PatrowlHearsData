@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161965", "enisaUuid": "5831f633-b912-3743-8878-5bf5e92497c2", "description": "Malicious code in concurrently-local-antares-materialize (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17466"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120302", "enisaUuid": "59dd98f4-8c61-3dea-ba87-c49699595d9a", "description": "Malicious code in xanthus-koa-cross-env-webdriver-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149629"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

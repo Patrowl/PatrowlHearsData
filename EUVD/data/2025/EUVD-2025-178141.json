@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178141", "enisaUuid": "af669811-f787-3278-b66a-2cf6e80ccab9", "description": "Malicious code in lepton-cache-soap-hexo (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187741"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

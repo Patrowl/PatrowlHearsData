@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129533", "enisaUuid": "76870a37-0a1f-3fcb-9ecf-5a03d9e76c83", "description": "Malicious code in bugsnag-plugin-react (npm)", "datePublished": "2025-07-10T02:26:31", "dateUpdated": "2025-07-10T02:26:31", "baseScore": 0.0, "aliases": ["MAL-2025-5805"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

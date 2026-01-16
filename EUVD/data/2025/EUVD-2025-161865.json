@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161865", "enisaUuid": "c526a086-687c-36b6-afc8-bef4219ff7f8", "description": "Malicious code in com.unity.timeline (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17366"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

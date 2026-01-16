@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194003", "enisaUuid": "7a6b4edb-35ea-38e6-8f7d-a078ddd6336b", "description": "Malicious code in fetch-request-hyperion-kardashevscale (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44250"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

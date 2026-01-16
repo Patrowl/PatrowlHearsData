@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123557", "enisaUuid": "3b67458f-095d-3186-8e7e-b4e7859060e5", "description": "Malicious code in polaris-schema-browserify-capella (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146364"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

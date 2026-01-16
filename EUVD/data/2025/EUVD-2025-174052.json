@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174052", "enisaUuid": "2d79b182-8385-3984-b4f4-32632ab3b3fd", "description": "Malicious code in portal-shared-library (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29523"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

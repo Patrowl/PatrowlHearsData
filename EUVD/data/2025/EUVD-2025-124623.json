@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124623", "enisaUuid": "e4d887f8-1243-3512-82ab-773beff3f4b9", "description": "Malicious code in native-spectron-mini-css-extract-plugin-loopback (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145295"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

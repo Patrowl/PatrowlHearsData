@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182652", "enisaUuid": "ec31246b-46c0-3aad-a923-366dd020e600", "description": "Malicious code in search-npm-blocking-manager (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32867"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

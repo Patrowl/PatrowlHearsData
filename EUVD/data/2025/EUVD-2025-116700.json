@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116700", "enisaUuid": "ed792fa8-4c58-3f64-8902-820277b6672e", "description": "Malicious code in antares-csrf-ignite-bunyan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139402"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

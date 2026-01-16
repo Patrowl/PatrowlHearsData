@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175486", "enisaUuid": "7f220a23-583a-349c-8ee9-87f0c60aff12", "description": "Malicious code in xi-abstract-user-alert-parse (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190390"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

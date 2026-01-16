@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195531", "enisaUuid": "723c4e90-4dce-3d24-a28a-266dd2cae690", "description": "Malicious code in redshift-darkenergy-mongodb-node-sass (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45779"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

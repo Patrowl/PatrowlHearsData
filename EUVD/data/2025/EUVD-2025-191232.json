@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191232", "enisaUuid": "b8fada03-a984-33a2-b377-b605784d7e79", "description": "Malicious code in @twork-data-services/aggregator-sme-meet-reversal-main (npm)", "datePublished": "2025-08-28T07:15:45", "dateUpdated": "2025-08-28T07:15:45", "baseScore": 0.0, "aliases": ["MAL-2025-41463"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-190796", "enisaUuid": "4e4264c2-ee20-35a9-9f70-d74548034a08", "description": "Malicious code in zipconv (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-41018"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

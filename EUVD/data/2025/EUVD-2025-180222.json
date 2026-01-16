@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180222", "enisaUuid": "4ac0687c-a396-3373-982b-b70753931407", "description": "Malicious code in auth0-scripts-slides-build (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185666"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

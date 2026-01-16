@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166522", "enisaUuid": "11dd3881-902f-3650-818b-30cceb044e16", "description": "Malicious code in grunt-zeptojs (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22004"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

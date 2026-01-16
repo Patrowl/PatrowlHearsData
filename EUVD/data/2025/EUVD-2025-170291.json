@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170291", "enisaUuid": "0e04df6b-6d79-34db-802c-655ccda02990", "description": "Malicious code in magellan-non-blocking-run-script-bioinformatics (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25762"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-73813", "enisaUuid": "7eed45e1-df6b-3fc1-a3c1-088e9e767ac8", "description": "Malicious code in secondary_bat_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-96477"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

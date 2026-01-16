@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113111", "enisaUuid": "22fd5faa-6b1f-3d29-8759-784f3b5a8e9f", "description": "Malicious code in graphql-deimos-vulcan-helios (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143001"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

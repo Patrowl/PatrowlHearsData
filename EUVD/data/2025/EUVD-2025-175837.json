@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175837", "enisaUuid": "25dc14ae-3a45-3a9f-aa1b-4cfd97c0a94d", "description": "Malicious code in umbra-iota-graphql-callback (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190038"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

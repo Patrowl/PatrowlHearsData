@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-52458", "enisaUuid": "03f0b76c-463d-3f6f-9dd8-da0107519e57", "description": "Malicious code in raspy-bronze-llama (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-70191"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

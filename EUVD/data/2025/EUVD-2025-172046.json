@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172046", "enisaUuid": "92612ee9-c1d4-34df-9a5c-e5d112e98e9e", "description": "Malicious code in nightly_builds (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27517"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162795", "enisaUuid": "a077b54f-09e4-35a4-9c9c-ee6020cf8c60", "description": "Malicious code in deploy-validate-execute-moon-protected (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18296"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

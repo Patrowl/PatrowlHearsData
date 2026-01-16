@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178900", "enisaUuid": "4843dab7-4fd2-32e2-a40e-b9407a88c255", "description": "Malicious code in final-uglify-decrypt-enum-data (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186982"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

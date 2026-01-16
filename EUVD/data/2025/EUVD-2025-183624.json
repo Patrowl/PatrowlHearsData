@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183624", "enisaUuid": "78d2fb86-aeff-30ab-a84f-206bf61edf05", "description": "Malicious code in sqlite-cluster-xenon-apollo (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33839"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

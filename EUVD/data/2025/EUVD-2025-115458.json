@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115458", "enisaUuid": "127f33e6-d617-3b04-be1f-c2a789982cef", "description": "Malicious code in chalk-mini-css-extract-plugin-await-xo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140649"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

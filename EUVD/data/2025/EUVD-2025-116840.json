@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116840", "enisaUuid": "838611e5-d894-3955-87e3-c199961302ae", "description": "Malicious code in airbnb-relay-hydra-nova (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139262"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

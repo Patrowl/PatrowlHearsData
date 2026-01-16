@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197074", "enisaUuid": "d120f191-6d29-3228-a685-525cc15f024d", "description": "Malicious code in sbp_charge_please_web (npm)", "datePublished": "2025-09-25T15:07:06", "dateUpdated": "2025-09-25T15:07:06", "baseScore": 0.0, "aliases": ["MAL-2025-47596"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

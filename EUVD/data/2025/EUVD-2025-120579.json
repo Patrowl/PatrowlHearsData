@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120579", "enisaUuid": "87dae077-c74e-34e7-aaa3-63d00c52054d", "description": "Malicious code in webdriver-mocha-jabbah-csv-radiant (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149350"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122482", "enisaUuid": "c2607668-b36c-370d-8a1a-280c2f1559b1", "description": "Malicious code in rigel-spectron-webdriver-dotenv-commitlint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147440"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

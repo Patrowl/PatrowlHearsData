@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-56090", "enisaUuid": "65f238b9-ae77-3842-8ca3-441e0a6fd0f7", "description": "Malicious code in @bipyruss/ciphersage (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-66559"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

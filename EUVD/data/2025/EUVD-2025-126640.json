@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126640", "enisaUuid": "43abfca9-bbd7-3b32-a91d-dcb7409b9c32", "description": "Malicious code in stringify-content (npm)", "datePublished": "2025-03-28T12:59:58", "dateUpdated": "2025-03-28T12:59:58", "baseScore": 0.0, "aliases": ["MAL-2025-2899"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

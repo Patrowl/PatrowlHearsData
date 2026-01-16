@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120570", "enisaUuid": "4965861c-a953-3f6a-bb64-feda809fd175", "description": "Malicious code in webdriver-mocha-nightwatch-materialize-toml (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149359"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

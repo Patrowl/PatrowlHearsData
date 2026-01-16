@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113426", "enisaUuid": "d55a205a-715d-3b5c-a945-58eb7836e46d", "description": "Malicious code in framework-middleware-lacerta-loop (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142686"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

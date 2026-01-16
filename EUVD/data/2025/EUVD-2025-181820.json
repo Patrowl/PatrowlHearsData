@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181820", "enisaUuid": "e7cdb626-0bce-3f71-8dbc-64d3cad0cf7e", "description": "Malicious code in rehype-redshift-aether-csrf (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32035"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

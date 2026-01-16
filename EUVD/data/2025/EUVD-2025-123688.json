@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123688", "enisaUuid": "81a6494f-4817-394d-979d-fdf17e43054b", "description": "Malicious code in pino-pretty-gemini-blaze-stream (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146233"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

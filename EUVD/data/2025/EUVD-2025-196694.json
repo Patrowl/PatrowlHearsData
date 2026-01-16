@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196694", "enisaUuid": "ee5aca2c-8e62-3e96-aff4-abf9c1961886", "description": "Malicious code in secret-scanning-proto (RubyGems)", "datePublished": "2025-09-01T09:53:34", "dateUpdated": "2025-09-01T09:53:34", "baseScore": 0.0, "aliases": ["MAL-2025-46942"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

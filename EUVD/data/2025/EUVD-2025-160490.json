@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160490", "enisaUuid": "fef37044-2957-334c-b05c-824b3519072c", "description": "Malicious code in bootstrap-jabbah-blackhole-dotenv-safe (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15989"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

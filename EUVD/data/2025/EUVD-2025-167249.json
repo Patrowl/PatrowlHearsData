@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167249", "enisaUuid": "f5e5b4b0-8039-3cde-91bc-cd1d005637bf", "description": "Malicious code in hp-svc-facs-store (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22731"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

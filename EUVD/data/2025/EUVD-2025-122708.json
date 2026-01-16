@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122708", "enisaUuid": "4c7c8580-3705-3fe7-9e98-321241015af2", "description": "Malicious code in relay-xo-resolvers-got (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147214"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

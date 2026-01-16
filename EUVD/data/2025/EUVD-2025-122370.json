@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122370", "enisaUuid": "8526ee79-29bb-3830-892f-43b220c1e264", "description": "Malicious code in run-script-testcafe-astro-ursa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147552"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

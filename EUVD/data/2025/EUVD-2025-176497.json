@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176497", "enisaUuid": "1ec49b5c-a3b7-37cc-920c-c675cf475ab4", "description": "Malicious code in scorpius-cryptography-tethys-library (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189378"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

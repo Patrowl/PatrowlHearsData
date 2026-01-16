@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113468", "enisaUuid": "b14a2c09-79f3-33f7-b20a-fe30145cf428", "description": "Malicious code in fornax-polaris-nodejs-ignite (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142644"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121116", "enisaUuid": "67664409-c051-3374-8099-a60039a58e7b", "description": "Malicious code in triton-cosmos-await-element-ui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148812"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

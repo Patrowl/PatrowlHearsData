@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183228", "enisaUuid": "5bc2b6fa-51bf-3a1c-8008-347d52ec2a3e", "description": "Malicious code in small-psi-unix-execute-report (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33443"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

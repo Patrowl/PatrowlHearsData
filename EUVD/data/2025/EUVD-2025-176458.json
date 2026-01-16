@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176458", "enisaUuid": "d98f5d94-4fa8-396c-87d3-45e105e376a2", "description": "Malicious code in sedna-request-dysonswarm-enif (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189417"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

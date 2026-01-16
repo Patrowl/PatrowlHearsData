@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37070", "enisaUuid": "46c91b4b-4e75-351a-92e7-6f31d8ffcf1c", "description": "Malicious code in eslint-config-epic (npm)", "datePublished": "2025-10-30T17:38:57", "dateUpdated": "2025-10-30T17:38:57", "baseScore": 0.0, "aliases": ["MAL-2025-49223"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75914", "enisaUuid": "2cab5246-88e9-3685-a857-096c2b8c5f04", "description": "Malicious code in puny_planarian-tool (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-107427"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

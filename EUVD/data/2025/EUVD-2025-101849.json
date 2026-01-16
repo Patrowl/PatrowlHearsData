@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-101849", "enisaUuid": "485f42d0-9e75-3847-8aaa-3d29740ca9ef", "description": "Malicious code in accepted_blackbird_z3n (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-124767"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

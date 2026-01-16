@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178844", "enisaUuid": "9ff1886c-18fa-31ad-b02f-4ee8fa351de3", "description": "Malicious code in fornax-transport-webdriver-manager-carpo (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187038"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

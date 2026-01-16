@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111766", "enisaUuid": "77b26eb8-3439-3dad-83c7-8e2243c3fe8a", "description": "Malicious code in less-toml-antares-halley (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144347"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

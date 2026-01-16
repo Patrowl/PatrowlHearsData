@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162805", "enisaUuid": "1fff02c4-2e0f-3e36-a583-695de96003e6", "description": "Malicious code in deserialize-promise-tree-gamma-monitor (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18306"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

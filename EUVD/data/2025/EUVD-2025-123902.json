@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123902", "enisaUuid": "11c85dc1-be85-39c8-b369-ed52ce7d3ece", "description": "Malicious code in pegasus-callback-build-sequelize (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146019"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

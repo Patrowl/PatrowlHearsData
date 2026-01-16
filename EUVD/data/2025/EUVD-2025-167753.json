@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167753", "enisaUuid": "d061458b-02dd-3c25-acad-2e47f89bc22b", "description": "Malicious code in inno-pubsub (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23235"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116834", "enisaUuid": "1c3f3d35-1026-36b0-bf90-5351083b679d", "description": "Malicious code in aldebaran-bootstrap-mensa-graphql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139268"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

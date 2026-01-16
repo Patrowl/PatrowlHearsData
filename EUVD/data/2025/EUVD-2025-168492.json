@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168492", "enisaUuid": "177fd570-8ae6-304d-812f-6fb1cd28631b", "description": "Malicious code in jsrsasign-browser (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23974"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

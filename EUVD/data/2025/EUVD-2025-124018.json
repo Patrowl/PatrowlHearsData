@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124018", "enisaUuid": "3520e6ad-36ee-307c-93f2-77c13b20302b", "description": "Malicious code in orbit-command-geckodriver-ini (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145903"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

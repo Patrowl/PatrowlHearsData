@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169382", "enisaUuid": "99d22371-b8c2-3d71-8ee3-d8be0d777eb5", "description": "Malicious code in l10n-mgr (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24853"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195083", "enisaUuid": "35ee4fd2-2309-37d1-8564-29a85d55de2b", "description": "Malicious code in node-config-toml-deimos-pegasus (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45331"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

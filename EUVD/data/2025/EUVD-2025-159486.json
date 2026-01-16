@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159486", "enisaUuid": "0fde5ad0-c55d-370b-8312-5f07f0b3e776", "description": "Malicious code in async-boolean-emulate-assert-gamma (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14985"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

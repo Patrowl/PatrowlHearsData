@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116474", "enisaUuid": "4f054682-1e59-3b16-984e-205539c0062d", "description": "Malicious code in async-json-metalsmith-elektra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139628"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

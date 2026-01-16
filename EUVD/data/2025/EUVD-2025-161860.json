@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161860", "enisaUuid": "bfff5bdf-50fb-3819-b22b-bc9c5b58cd20", "description": "Malicious code in com.unity.render-pipelines.core (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17361"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

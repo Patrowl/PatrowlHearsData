@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123944", "enisaUuid": "bc222b8e-7228-34cf-9eb8-2fa6cfc0506f", "description": "Malicious code in passport-barnard-server-transport (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145977"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

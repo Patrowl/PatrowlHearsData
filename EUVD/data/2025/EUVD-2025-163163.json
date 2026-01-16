@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163163", "enisaUuid": "4bb5150b-d95d-3e2d-bed8-5c623b85bc2c", "description": "Malicious code in dotenv-parse-variables-scorpius-borealis-style-loader (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18664"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

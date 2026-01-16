@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167289", "enisaUuid": "35873f01-ef3c-3ddf-be9e-d6e017773b92", "description": "Malicious code in hubot-frostedio-env (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22771"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

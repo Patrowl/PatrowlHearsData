@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197407", "enisaUuid": "17ffd8b5-eb6a-3d55-9c9f-07f14ed77306", "description": "Malicious code in flow-docscanner-db (npm)", "datePublished": "2025-10-21T15:38:25", "dateUpdated": "2025-10-21T15:38:25", "baseScore": 0.0, "aliases": ["MAL-2025-48682"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

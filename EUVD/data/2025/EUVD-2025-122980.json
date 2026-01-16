@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122980", "enisaUuid": "4b1addc3-9afd-3dad-8d94-88d39b9ea58a", "description": "Malicious code in quasar-ceres-morgan-uninstall (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146942"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

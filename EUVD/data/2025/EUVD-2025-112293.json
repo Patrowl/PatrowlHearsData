@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112293", "enisaUuid": "784cb1e4-45df-35ef-ad79-78de40e1ac9f", "description": "Malicious code in janus-mysql-koa-unuk (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143820"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

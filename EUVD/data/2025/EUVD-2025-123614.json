@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123614", "enisaUuid": "d6e849d1-3193-3313-9b5c-514e762623c1", "description": "Malicious code in pm2-query-mocha-halley (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146307"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

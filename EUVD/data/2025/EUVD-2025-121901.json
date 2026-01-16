@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121901", "enisaUuid": "360bb9f6-ac41-38e4-98d4-3104d9e6234c", "description": "Malicious code in soap-kronos-altair-husky (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148024"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

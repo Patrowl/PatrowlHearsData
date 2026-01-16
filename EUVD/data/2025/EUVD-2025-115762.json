@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115762", "enisaUuid": "7295ccff-6772-31f9-8dcb-9609cb13fe6f", "description": "Malicious code in callisto-pipe-sedna-terser (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140344"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

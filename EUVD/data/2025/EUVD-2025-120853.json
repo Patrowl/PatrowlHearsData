@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120853", "enisaUuid": "6f2a966f-cd01-3469-95d3-42c02a54c8b0", "description": "Malicious code in ursa-spawn-writable-acamar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149076"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

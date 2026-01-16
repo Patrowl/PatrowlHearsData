@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121599", "enisaUuid": "6fc2f504-796e-32a1-a0c5-a6a13f5057dc", "description": "Malicious code in stream-mysql-typeorm-halley (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148326"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

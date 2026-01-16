@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182636", "enisaUuid": "d92ad85f-9c23-387e-b56e-ff702ca74111", "description": "Malicious code in sdc-dynamic-tile (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32851"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

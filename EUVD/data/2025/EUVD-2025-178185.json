@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178185", "enisaUuid": "2d5e3571-09ae-3fdb-b3cb-c8549c5d29d9", "description": "Malicious code in koa-betelgeuse-luna-cassini (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187697"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

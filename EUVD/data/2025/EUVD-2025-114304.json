@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114304", "enisaUuid": "98718aa4-02fd-3d34-9102-058a8a5e9f73", "description": "Malicious code in duplex-config-capella-postcss-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141805"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

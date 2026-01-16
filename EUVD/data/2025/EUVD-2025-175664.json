@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175664", "enisaUuid": "61fd01f9-eaad-3a9a-a3b1-0e3c4876be75", "description": "Malicious code in warn-class-proxy-cron-earth (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190212"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

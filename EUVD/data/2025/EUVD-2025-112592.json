@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112592", "enisaUuid": "e6c3e119-09e7-3e01-9285-543f42f146fb", "description": "Malicious code in ignite-nodemon-antares-publish (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143520"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

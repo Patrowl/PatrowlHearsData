@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180751", "enisaUuid": "b92f6e2b-fbef-33dd-a2c3-0ae1fea00e0a", "description": "Malicious code in pytmux (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-30965"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180209", "enisaUuid": "c064cd1a-c55a-3d5a-ba4a-c3cd88b0e694", "description": "Malicious code in authorize-interface-good-xi-sanitize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185675"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

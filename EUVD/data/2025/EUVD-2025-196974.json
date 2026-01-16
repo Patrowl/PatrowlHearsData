@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196974", "enisaUuid": "63d5986a-ac52-36d5-8ff9-a46e5d5551a6", "description": "Malicious code in malicious-package-test (npm)", "datePublished": "2025-09-17T20:52:16", "dateUpdated": "2025-09-26T11:06:45", "baseScore": 0.0, "aliases": ["MAL-2025-47437"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

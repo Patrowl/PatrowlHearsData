@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124817", "enisaUuid": "6f9a1bdc-6089-32e5-a435-655235eaabdd", "description": "Malicious code in module-cypress-phoebe-process (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145101"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

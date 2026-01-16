@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-54928", "enisaUuid": "ffe3bd44-c406-396d-9120-d91dfa45fc90", "description": "Malicious code in dependent-tomato-gopher (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-67721"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

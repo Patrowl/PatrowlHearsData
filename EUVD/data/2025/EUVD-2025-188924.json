@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188924", "enisaUuid": "709a10ee-405b-3cff-b5fb-d28f5a6d550f", "description": "Malicious code in whipdf (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39138"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

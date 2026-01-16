@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179140", "enisaUuid": "cea6fb8b-00b8-3944-995b-279497e8a6dd", "description": "Malicious code in encrypt-bundle-test-deploy-scale (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186742"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

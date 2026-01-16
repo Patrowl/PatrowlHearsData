@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177553", "enisaUuid": "4ac308d3-7d13-3ee8-9a69-1c497c9b2b33", "description": "Malicious code in nodejs-sass-loader-carina-duplex (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188329"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

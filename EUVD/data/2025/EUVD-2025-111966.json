@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111966", "enisaUuid": "a6de6bb7-b3a3-399f-90af-f5f61508d630", "description": "Malicious code in kaus-jest-miranda-rate-limiter (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144147"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

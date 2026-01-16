@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165719", "enisaUuid": "9c956d79-630c-35d0-bb40-6d4f0e420b8b", "description": "Malicious code in gate-context-client (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21200"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

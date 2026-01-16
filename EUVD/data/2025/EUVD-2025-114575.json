@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114575", "enisaUuid": "76a02d64-bdff-3072-9306-7658470818ea", "description": "Malicious code in deneb-bootes-postcss-webdriver-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141534"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

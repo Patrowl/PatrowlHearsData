@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121769", "enisaUuid": "5047ff02-e05b-35cb-8b89-b7ef6583b46a", "description": "Malicious code in spica-cli-heka-cressida (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148156"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

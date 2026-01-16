@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-79745", "enisaUuid": "f5fc0d8b-05de-3b00-aa32-e737a2bee44e", "description": "Malicious code in bare_bat_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-99797"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

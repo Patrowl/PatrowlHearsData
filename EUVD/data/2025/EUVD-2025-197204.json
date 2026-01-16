@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197204", "enisaUuid": "1c8509a8-4a77-3849-b143-a5d396029b5b", "description": "Malicious code in test-grabber-package-xyz789 (npm)", "datePublished": "2025-09-26T09:45:06", "dateUpdated": "2025-09-26T09:45:06", "baseScore": 0.0, "aliases": ["MAL-2025-47731"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

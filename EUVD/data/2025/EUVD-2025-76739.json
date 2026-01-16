@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76739", "enisaUuid": "593dcea4-77fe-3e5b-8c28-d0b5e9a14ff6", "description": "Malicious code in governing_silverfish-strongdev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-103320"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

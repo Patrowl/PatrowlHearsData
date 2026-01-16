@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120090", "enisaUuid": "cc4a6708-9f82-3d7b-b765-6677b1a216e1", "description": "Malicious code in yonder-request-apex-express (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149842"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

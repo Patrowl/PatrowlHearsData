@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111212", "enisaUuid": "d1cb421c-f7d1-3ffc-99e5-6de9a716eaa0", "description": "Malicious code in meteor-comet-mdx-cygnus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144903"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

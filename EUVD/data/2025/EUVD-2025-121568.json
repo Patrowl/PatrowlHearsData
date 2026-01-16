@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121568", "enisaUuid": "c3511867-ece1-33e9-9d0d-db0ce6a36812", "description": "Malicious code in subscription-ganymede-update-loglevel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148358"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

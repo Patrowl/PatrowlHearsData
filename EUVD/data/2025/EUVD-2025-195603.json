@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195603", "enisaUuid": "7473e1cd-7176-3977-82ad-15db82f242ab", "description": "Malicious code in rimraf-prettier-plugin-markdown-sequelize-jupiter (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45851"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

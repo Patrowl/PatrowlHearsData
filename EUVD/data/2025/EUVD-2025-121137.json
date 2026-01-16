@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121137", "enisaUuid": "967526b6-ff12-365a-af0c-41d89d38a06e", "description": "Malicious code in transport-izar-antares-typeorm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148791"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

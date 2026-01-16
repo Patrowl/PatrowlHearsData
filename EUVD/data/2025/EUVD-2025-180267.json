@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180267", "enisaUuid": "f851ab39-df04-3352-b0d6-4673d0f9762a", "description": "Malicious code in async-integer-xml-void-tau (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185621"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

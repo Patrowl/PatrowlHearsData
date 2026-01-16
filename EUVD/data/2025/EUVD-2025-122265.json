@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122265", "enisaUuid": "87b1d19f-e0eb-3dbe-93c0-f180a9f2415a", "description": "Malicious code in sails-terser-bulma-dependencies (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147657"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

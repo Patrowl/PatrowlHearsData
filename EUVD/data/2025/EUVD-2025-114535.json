@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114535", "enisaUuid": "95be6e0b-5918-3cbd-b5ef-0c3774307947", "description": "Malicious code in dependencies-lyra-forever-heka (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141574"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

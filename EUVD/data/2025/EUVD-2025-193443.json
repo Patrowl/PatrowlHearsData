@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193443", "enisaUuid": "948a20e2-daac-34b9-a3c3-9568a87b7b21", "description": "Malicious code in callisto-testcafe-css-minimizer-webpack-plugin-version (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43690"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

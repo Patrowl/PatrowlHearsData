@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112556", "enisaUuid": "af147322-9e36-306d-ab90-6a8fdec9e964", "description": "Malicious code in indus-auth-run-script-capella (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143557"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

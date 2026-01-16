@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195575", "enisaUuid": "fa1b5c2a-3ee2-34d3-a54e-4590759077cf", "description": "Malicious code in restart-centauri-relay-canopus (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45823"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

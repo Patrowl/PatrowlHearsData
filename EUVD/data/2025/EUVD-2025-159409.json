@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159409", "enisaUuid": "beecdff8-55d8-3403-8e19-e6cdb0727f0e", "description": "Malicious code in asmcrypto (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14908"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

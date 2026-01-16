@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180590", "enisaUuid": "5302ad69-46e3-3921-b17e-1f7499d7f59b", "description": "Malicious code in proxima-eridanus-xml-jsonp (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-30785"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

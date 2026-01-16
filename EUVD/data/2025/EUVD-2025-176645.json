@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176645", "enisaUuid": "bbace491-2fa3-3972-bf32-29f1bd4fa6c3", "description": "Malicious code in rho-enum-secure-short-proxy (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189230"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

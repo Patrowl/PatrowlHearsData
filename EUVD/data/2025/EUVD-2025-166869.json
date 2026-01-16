@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166869", "enisaUuid": "beea6e81-0dd2-3af7-a0cb-1d050cdbc528", "description": "Malicious code in heka-native-frontend-lint-staged (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22351"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

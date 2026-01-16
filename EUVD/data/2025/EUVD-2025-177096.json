@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177096", "enisaUuid": "d00b68df-31c0-3a8a-bf88-f16221f78bba", "description": "Malicious code in postcss-loader-ganymede-metalsmith-farout (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188779"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

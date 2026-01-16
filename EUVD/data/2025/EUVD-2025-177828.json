@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177828", "enisaUuid": "f08c99c4-d338-3e9e-881c-91e252b6bd0b", "description": "Malicious code in minify-permission-xi-route-export (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188054"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

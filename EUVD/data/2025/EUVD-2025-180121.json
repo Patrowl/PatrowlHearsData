@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180121", "enisaUuid": "899bf42e-2b2a-3688-8308-265de63e2437", "description": "Malicious code in bash-water-resolve-unix-error (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185761"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

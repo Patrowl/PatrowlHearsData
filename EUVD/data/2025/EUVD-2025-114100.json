@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114100", "enisaUuid": "9e5a32c0-164a-3124-82df-97981e19ab0f", "description": "Malicious code in eleventy-query-xanadu-heka (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142010"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

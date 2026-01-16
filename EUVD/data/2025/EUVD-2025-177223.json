@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177223", "enisaUuid": "d3f1917a-63ce-36d6-a78c-1708c83edc5d", "description": "Malicious code in phenomic-resolvers-node-config-postgres (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188659"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

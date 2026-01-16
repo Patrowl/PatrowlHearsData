@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127885", "enisaUuid": "9d24552b-4047-3b55-b35b-e942fcbbdc76", "description": "Malicious code in @ids-beta/tooltip (npm)", "datePublished": "2025-05-22T12:35:25", "dateUpdated": "2025-05-22T12:35:25", "baseScore": 0.0, "aliases": ["MAL-2025-4153"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

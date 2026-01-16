@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121009", "enisaUuid": "7a72824e-19d8-3432-95f9-487f40c62275", "description": "Malicious code in umbra-fomalhaut-cypress-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148919"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

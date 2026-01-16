@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153765", "enisaUuid": "36e4699f-3f41-30a5-a1be-8d285a199712", "description": "Malicious code in @protos-team/frontend-server (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9264"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

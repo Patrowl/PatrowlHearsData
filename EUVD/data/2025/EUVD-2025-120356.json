@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120356", "enisaUuid": "52672c4f-7f33-3fd1-aaa7-e7696583cb89", "description": "Malicious code in writable-neptune-figures-oauth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149575"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

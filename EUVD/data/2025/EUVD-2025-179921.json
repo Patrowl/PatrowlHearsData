@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179921", "enisaUuid": "79112b09-5026-3c43-924c-a3f54a5540f5", "description": "Malicious code in cache-cat-index-async-small (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185961"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165234", "enisaUuid": "2e3b8325-7f99-3a16-b63a-e95f120525b0", "description": "Malicious code in flow_action_connector (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20715"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

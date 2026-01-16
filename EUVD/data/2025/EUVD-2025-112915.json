@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112915", "enisaUuid": "c5a7dc1b-c19f-331f-98e6-1db8a6017c5a", "description": "Malicious code in hapi-public-unuk-publish (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143197"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

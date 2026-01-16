@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175663", "enisaUuid": "7b051cd3-d135-3614-8b3c-98a30cddc1bf", "description": "Malicious code in warn-function-assert-report-thread (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190213"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

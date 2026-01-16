@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180099", "enisaUuid": "46652c74-e95d-3021-ae85-ca9961a76fc9", "description": "Malicious code in beta-moon-fast-authorize-deploy (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185783"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

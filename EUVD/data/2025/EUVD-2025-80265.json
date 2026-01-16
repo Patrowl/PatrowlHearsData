@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80265", "enisaUuid": "35a7ea07-7b4a-3505-b214-ebdaecf2999d", "description": "Malicious code in townsend-validator-catalyst (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-109786"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

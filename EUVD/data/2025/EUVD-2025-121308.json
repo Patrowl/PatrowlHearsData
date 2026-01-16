@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121308", "enisaUuid": "42b784c4-f96b-3ff1-9dc7-131595656916", "description": "Malicious code in tethys-gulp-bootstrap-colors (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148620"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196355", "enisaUuid": "f950de45-4382-3291-8963-c7d66f7d34fe", "description": "Malicious code in websockets-tool-backend-bootstrap (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46603"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

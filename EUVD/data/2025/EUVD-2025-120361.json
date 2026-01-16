@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120361", "enisaUuid": "0a1a28c3-fd7c-3e99-9cfc-06de54a77290", "description": "Malicious code in writable-jabbah-elektra-rest (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149570"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

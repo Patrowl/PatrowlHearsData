@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124290", "enisaUuid": "6cd321f4-8d55-3c1a-9075-5cd458f5667a", "description": "Malicious code in non-blocking-writable-soap-element-ui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145631"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

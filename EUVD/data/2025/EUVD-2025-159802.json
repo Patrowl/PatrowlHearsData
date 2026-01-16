@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159802", "enisaUuid": "54e64e68-868b-355b-a431-f0c5e3b74615", "description": "Malicious code in babel-preset-animoto-components (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15301"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

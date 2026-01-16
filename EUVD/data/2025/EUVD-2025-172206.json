@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172206", "enisaUuid": "b61cab5f-b2a6-39cb-8aea-83c07f78f5df", "description": "Malicious code in nodejs-chariklo-aldebaran-lynx (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27677"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

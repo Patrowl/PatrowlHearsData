@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179705", "enisaUuid": "5e94e935-1a71-3b09-b2b2-594879b20435", "description": "Malicious code in cluster-child-process-remark-hadron (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186177"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

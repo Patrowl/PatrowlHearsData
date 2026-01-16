@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122909", "enisaUuid": "f7262e46-8178-33e0-9841-a92a178f8363", "description": "Malicious code in radiant-development-eslint-plugin-nodejs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147013"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195340", "enisaUuid": "422ed5cf-fa04-3a4e-8e3c-755f789fcccb", "description": "Malicious code in prettier-plugin-markdown-sadr-loop-decoherence (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45588"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172229", "enisaUuid": "445c0f50-f233-3833-a1ae-9d4d9a9004b3", "description": "Malicious code in nodus-quickstart (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27700"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-146553", "enisaUuid": "bee430d1-4885-3402-bebb-06fcab642f5d", "description": "Malicious code in verify-ai-aiusamakuilai (npm)", "datePublished": "2025-11-12T16:47:05", "dateUpdated": "2025-11-12T16:47:05", "baseScore": 0.0, "aliases": ["MAL-2025-170259"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

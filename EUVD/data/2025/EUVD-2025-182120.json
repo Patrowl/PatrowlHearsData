@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182120", "enisaUuid": "9e26ab25-d0c3-3ce7-bf8e-44ee68bae1ce", "description": "Malicious code in robust-free-bootstrap-admin-template (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32335"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

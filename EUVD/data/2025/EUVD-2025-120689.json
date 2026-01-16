@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120689", "enisaUuid": "6c741384-bb23-3f70-aca0-1749406b15e0", "description": "Malicious code in vulcan-init-pino-pretty-geckodriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149240"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

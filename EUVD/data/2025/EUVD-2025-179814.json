@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179814", "enisaUuid": "c4c579dc-463b-3aff-b1c5-9cb0a200da7a", "description": "Malicious code in centaurus-test-rollup-webdriver-mocha (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186068"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

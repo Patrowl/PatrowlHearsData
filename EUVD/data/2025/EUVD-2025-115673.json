@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115673", "enisaUuid": "56b74ad9-c9a1-32c9-8c4e-ec954431a513", "description": "Malicious code in carpo-bunyan-server-electron-builder (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140434"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

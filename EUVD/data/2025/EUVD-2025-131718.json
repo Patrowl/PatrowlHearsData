@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131718", "enisaUuid": "6e58a783-145a-3b7b-8375-3cd44a930f97", "description": "Malicious code in @hey-amplify/scripts (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7996"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

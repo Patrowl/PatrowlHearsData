@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123935", "enisaUuid": "dbc0136b-950e-3f90-a313-db7c5e992e87", "description": "Malicious code in passport-rate-limiter-cypress-rimraf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145986"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

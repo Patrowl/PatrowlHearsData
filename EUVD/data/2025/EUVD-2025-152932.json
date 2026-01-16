@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-152932", "enisaUuid": "3b59eff3-8c50-38d3-bfc9-f612b9b1752a", "description": "Malicious code in @light-widgets/legacy (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-8431"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

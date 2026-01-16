@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111742", "enisaUuid": "17173891-2a28-362d-b6d5-c0b0ad9ded13", "description": "Malicious code in library-blaze-heka-lint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144371"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

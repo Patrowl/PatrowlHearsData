@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115203", "enisaUuid": "a82c9cb7-636b-311f-a5a7-22baf6ffb606", "description": "Malicious code in command-gulp-stream-stream (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140905"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112907", "enisaUuid": "7f77b516-e80a-3fe3-9599-25f003a7c6d2", "description": "Malicious code in heka-express-axios-eslint-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143205"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

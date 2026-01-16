@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178595", "enisaUuid": "a997ca71-4634-38e8-862f-e8b567f64b7d", "description": "Malicious code in hash-warn-async-private-shell (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187287"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

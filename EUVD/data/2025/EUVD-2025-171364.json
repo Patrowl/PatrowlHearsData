@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171364", "enisaUuid": "2e32c32e-50e7-3db2-b1e2-9b6242ceeddf", "description": "Malicious code in ms-validationservice (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26835"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

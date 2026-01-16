@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176863", "enisaUuid": "463462bb-69d0-3b3c-8668-575b21f1898d", "description": "Malicious code in quantumfoam-run-script-troposphere-halley (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189012"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

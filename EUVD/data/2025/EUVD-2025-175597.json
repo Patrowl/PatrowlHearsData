@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175597", "enisaUuid": "e315d4af-c8b8-3fd8-a6a3-6ee52f94e1b4", "description": "Malicious code in webdriverio-less-loader-relay-venus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190279"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

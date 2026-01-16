@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113314", "enisaUuid": "82ac2f96-3c28-329c-b059-04db11e7c459", "description": "Malicious code in galaxy-websockets-sagitta-prettier-stylelint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142798"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

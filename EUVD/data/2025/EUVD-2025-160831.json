@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160831", "enisaUuid": "9239be53-ff1a-3366-95b7-52543832cf4f", "description": "Malicious code in buildkite-runner (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16330"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

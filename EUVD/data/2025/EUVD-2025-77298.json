@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77298", "enisaUuid": "43c2272a-bb7f-38c4-8a34-bb34b06e7fd8", "description": "Malicious code in compact_toucan-silentdev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-100736"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

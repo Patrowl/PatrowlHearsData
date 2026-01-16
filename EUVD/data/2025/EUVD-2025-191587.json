@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191587", "enisaUuid": "a5080260-0af2-320e-91eb-69edda8875e5", "description": "Malicious code in openmct-e2e (npm)", "datePublished": "2025-08-30T18:35:48", "dateUpdated": "2025-08-30T18:35:48", "baseScore": 0.0, "aliases": ["MAL-2025-41820"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

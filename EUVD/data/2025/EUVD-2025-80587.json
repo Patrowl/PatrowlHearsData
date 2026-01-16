@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80587", "enisaUuid": "69dc9843-ba66-32b7-a1b6-d1a04dbdd38e", "description": "Malicious code in shallow_cuckoo_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-108602"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

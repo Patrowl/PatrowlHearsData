@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114366", "enisaUuid": "0e3adada-723f-368d-b40d-57b070aafa85", "description": "Malicious code in dotenv-safe-astro-sirius-sedna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141743"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

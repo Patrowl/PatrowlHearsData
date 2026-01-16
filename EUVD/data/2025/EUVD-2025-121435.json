@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121435", "enisaUuid": "2591090e-6cb7-3e09-850d-49da79b55669", "description": "Malicious code in telesto-enceladus-process-json (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148493"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

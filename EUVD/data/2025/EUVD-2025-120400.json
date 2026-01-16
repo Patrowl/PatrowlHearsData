@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120400", "enisaUuid": "1030b0ec-0711-3a43-9027-4a564a9f8f49", "description": "Malicious code in winston-tethys-epimetheus-enif (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149530"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

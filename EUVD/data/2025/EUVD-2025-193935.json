@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193935", "enisaUuid": "dbb500db-72ad-34f6-a8d5-0ef22c07b619", "description": "Malicious code in eventhoriz-lint-await-stop (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44182"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

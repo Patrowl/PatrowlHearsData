@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196354", "enisaUuid": "af4ae66a-afc3-3a23-803d-5daf2b2ca410", "description": "Malicious code in websockets-singularity-tailwindcss-resolvers (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46602"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

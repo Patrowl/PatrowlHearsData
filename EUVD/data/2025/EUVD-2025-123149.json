@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123149", "enisaUuid": "3b0769ad-aa61-39e0-85f7-75971662b301", "description": "Malicious code in publish-alphard-css-minimizer-webpack-plugin-gatsby (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146773"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

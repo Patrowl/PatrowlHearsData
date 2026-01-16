@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124040", "enisaUuid": "42e53f22-6d33-39ca-873e-7d74fbe1c473", "description": "Malicious code in ora-electron-builder-postcss-umbra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145881"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

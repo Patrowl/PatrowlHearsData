@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200937", "enisaUuid": "c47e376a-67ea-3629-9dd1-c58e036be433", "description": "Malicious code in elf-stats-cranberry-icicle-864 (npm)", "datePublished": "2025-12-03T15:59:29", "dateUpdated": "2025-12-03T15:59:29", "baseScore": 0.0, "aliases": ["MAL-2025-192014"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

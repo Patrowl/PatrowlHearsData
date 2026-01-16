@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123653", "enisaUuid": "d1a8e187-e511-3166-ab4e-46bf548aa32c", "description": "Malicious code in pipe-rehype-browserify-express (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146268"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

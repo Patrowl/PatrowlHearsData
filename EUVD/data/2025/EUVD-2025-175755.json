@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175755", "enisaUuid": "d7ebc71f-39b3-3ef3-a2bb-7d8254056138", "description": "Malicious code in user-analyze-uglify-minify-easy (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190120"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

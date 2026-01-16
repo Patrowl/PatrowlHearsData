@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124415", "enisaUuid": "f779a612-10f8-329b-af12-56e7a1dd00a7", "description": "Malicious code in node-config-envconfig-eleventy-neptune (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145506"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

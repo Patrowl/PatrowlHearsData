@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200901", "enisaUuid": "8566e5bb-d8e6-3579-ba2e-bc2a9f01fe75", "description": "Malicious code in elf-stats-ginger-cookiejar-383 (npm)", "datePublished": "2025-12-03T15:59:29", "dateUpdated": "2025-12-03T15:59:29", "baseScore": 0.0, "aliases": ["MAL-2025-192051"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

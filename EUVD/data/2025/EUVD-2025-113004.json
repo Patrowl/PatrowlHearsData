@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113004", "enisaUuid": "65d3f2d6-0f17-36a5-a81a-85c0e770eb2a", "description": "Malicious code in grus-vulcan-postcss-terser (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143108"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

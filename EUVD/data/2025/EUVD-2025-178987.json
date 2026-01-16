@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178987", "enisaUuid": "db3fab72-9d6b-3452-a0b2-b52df91a5b82", "description": "Malicious code in execute-char-char-stub-serialize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186895"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

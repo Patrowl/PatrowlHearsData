@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-32907", "enisaUuid": "9cb01e55-571b-3af3-8c6e-ba6d8ee70dc9", "description": "Malicious code in @aviatrixdev/flight-suit (npm)", "datePublished": "2025-10-06T14:38:26", "dateUpdated": "2025-10-08T10:38:41", "baseScore": 0.0, "aliases": ["MAL-2025-47910"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

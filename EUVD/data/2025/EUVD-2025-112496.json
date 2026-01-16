@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112496", "enisaUuid": "d5b3ab6b-c27f-30e8-8129-52efa51eade8", "description": "Malicious code in init-cosmos-corvus-pavo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143617"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

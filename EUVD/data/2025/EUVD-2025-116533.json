@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116533", "enisaUuid": "cfba4da4-15da-3eb9-9918-155c41b67306", "description": "Malicious code in arcturus-fork-cassini-jwt (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139569"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

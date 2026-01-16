@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131704", "enisaUuid": "a6a5fb3b-e346-3610-8b2e-2c41fb144902", "description": "Malicious code in @ginger-dev/test-utils (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7982"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123561", "enisaUuid": "c6e88848-2e70-314b-883f-1acde14c4470", "description": "Malicious code in polaris-playwright-pino-pretty-transform (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146360"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

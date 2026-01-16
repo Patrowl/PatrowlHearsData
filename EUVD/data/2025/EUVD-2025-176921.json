@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176921", "enisaUuid": "187f3910-f6ba-378e-82ac-34fb10b94cec", "description": "Malicious code in publish-postcss-loader-achernar-hermes (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188954"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

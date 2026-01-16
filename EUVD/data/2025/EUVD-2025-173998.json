@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173998", "enisaUuid": "1be27d20-3119-33e4-bf13-8dfcc4b58e99", "description": "Malicious code in polaris-chromedriver-mdx-pegasus (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29469"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

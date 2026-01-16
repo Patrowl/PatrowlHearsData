@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179664", "enisaUuid": "2a14c6ac-f709-303f-befb-6613d3e69fd3", "description": "Malicious code in comet-oauth-airbnb-tethys (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186218"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

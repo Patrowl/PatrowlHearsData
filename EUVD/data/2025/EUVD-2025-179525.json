@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179525", "enisaUuid": "cef018c4-9f84-3217-91cb-7d8cac319056", "description": "Malicious code in cosmos-centaurus-charon-tool (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186357"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

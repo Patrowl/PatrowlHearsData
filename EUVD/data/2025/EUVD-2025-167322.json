@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167322", "enisaUuid": "35874e93-2afc-3d73-8085-4cdae6982b4c", "description": "Malicious code in husky-library-janus-supervisor (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22804"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

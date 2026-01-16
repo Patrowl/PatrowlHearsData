@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164613", "enisaUuid": "9bfb3f20-7f4c-357f-9c14-4aed7cb98477", "description": "Malicious code in express-yandex-host-fallback (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20093"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

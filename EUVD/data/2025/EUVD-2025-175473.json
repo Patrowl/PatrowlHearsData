@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175473", "enisaUuid": "97e19ab9-0d52-3f82-a656-b3d1cce33732", "description": "Malicious code in xo-csrf-radiant-halley (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190403"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

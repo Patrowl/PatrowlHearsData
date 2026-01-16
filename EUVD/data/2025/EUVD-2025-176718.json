@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176718", "enisaUuid": "ef1444ac-fff5-35f0-8a8b-d2babfd926a1", "description": "Malicious code in relay-slides-kinetic-query (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189157"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

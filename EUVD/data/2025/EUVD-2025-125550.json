@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125550", "enisaUuid": "ff9bd838-2df1-3550-a97e-8431d495c562", "description": "Malicious code in eslint-plugin-wpvip (npm)", "datePublished": "2025-03-03T13:25:28", "dateUpdated": "2025-03-03T13:25:28", "baseScore": 0.0, "aliases": ["MAL-2025-1807"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

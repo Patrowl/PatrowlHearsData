@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112925", "enisaUuid": "ac4c31d0-e0b5-3cd0-8c8d-478f00f7bb40", "description": "Malicious code in hapi-link-dotenv-registry (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143187"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

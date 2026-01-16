@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120681", "enisaUuid": "2b8772d6-32e1-3996-8977-088c18da0b69", "description": "Malicious code in vulcan-nestjs-nodemon-magellan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149248"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

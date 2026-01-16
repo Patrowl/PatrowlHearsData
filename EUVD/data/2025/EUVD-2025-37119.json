@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37119", "enisaUuid": "ec89af05-ff04-333c-8b6a-c512801e6275", "description": "Malicious code in epic-node-services-common (npm)", "datePublished": "2025-10-30T17:38:57", "dateUpdated": "2025-10-30T17:38:57", "baseScore": 0.0, "aliases": ["MAL-2025-49174"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

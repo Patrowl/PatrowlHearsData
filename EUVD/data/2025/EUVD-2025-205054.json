@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-205054", "enisaUuid": "617c4664-7dc2-3834-82ec-299f7465c9e3", "description": "Malicious code in fe-cdnpath-transform (npm)", "datePublished": "2025-12-23T08:13:47", "dateUpdated": "2025-12-24T00:53:17", "baseScore": 0.0, "aliases": ["MAL-2025-192797"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181699", "enisaUuid": "14f5fe0d-28cd-3f46-8eb9-ff0f7f2019d4", "description": "Malicious code in red-contrib-enable-gps (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31914"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-141577", "enisaUuid": "90b01d76-4652-38bc-8540-8c75a55ce83e", "description": "Malicious code in hitachi-poke64 (npm)", "datePublished": "2025-11-12T19:18:14", "dateUpdated": "2025-11-12T19:18:14", "baseScore": 0.0, "aliases": ["MAL-2025-174705"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

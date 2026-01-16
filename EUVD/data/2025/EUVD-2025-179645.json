@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179645", "enisaUuid": "feb0f93d-a77f-3428-8d6d-6bf0c979a6f7", "description": "Malicious code in command-xo-module-antd (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186237"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

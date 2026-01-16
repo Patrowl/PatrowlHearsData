@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180238", "enisaUuid": "470882dc-1863-31e3-a11b-607fa895dffa", "description": "Malicious code in auriga-parcel-soap-nashira (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185650"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

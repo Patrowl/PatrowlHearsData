@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123770", "enisaUuid": "ae807ec1-02f0-3c17-98ce-f41bf3d39357", "description": "Malicious code in phoebe-fusion-soap-stop (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146151"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

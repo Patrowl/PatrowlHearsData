@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197473", "enisaUuid": "fd330b7a-44a6-35e5-80f7-dead1666def3", "description": "Malicious code in acme-auth-utils (npm)", "datePublished": "2025-10-23T19:21:37", "dateUpdated": "2025-10-23T19:21:37", "baseScore": 0.0, "aliases": ["MAL-2025-48787"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

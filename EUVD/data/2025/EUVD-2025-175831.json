@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175831", "enisaUuid": "74d2c2cf-7962-3e64-9ae5-b0436c83e5ef", "description": "Malicious code in umbriel-eslint-config-kardashevscale-jwt (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190044"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

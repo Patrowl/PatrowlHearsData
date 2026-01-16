@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130706", "enisaUuid": "ee331644-f79a-32b9-b7fa-6815fc1dc5b5", "description": "Malicious code in 16bit-js-vm-model (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-6984"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

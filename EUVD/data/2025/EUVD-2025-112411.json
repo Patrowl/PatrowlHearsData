@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112411", "enisaUuid": "0c104095-9dce-3bf5-bca6-0651deb2e7b9", "description": "Malicious code in io-node-config-rate-limiter-concurrently (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143702"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

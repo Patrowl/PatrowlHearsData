@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160921", "enisaUuid": "cfa100ca-314d-3d48-9774-3ac4e75ef750", "description": "Malicious code in cache-emulate-fire-encrypt-cache (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16420"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

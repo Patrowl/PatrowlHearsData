@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177707", "enisaUuid": "310bac8b-ee66-36df-a183-1036287e312f", "description": "Malicious code in native-callback-prettier-magellan (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188175"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

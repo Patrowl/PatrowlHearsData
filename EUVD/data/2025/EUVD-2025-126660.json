@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126660", "enisaUuid": "b4c63dac-de36-3251-b5a9-5e32b5d36b6b", "description": "Malicious code in yaml-update-action (npm)", "datePublished": "2025-03-28T13:04:39", "dateUpdated": "2025-03-28T13:04:39", "baseScore": 0.0, "aliases": ["MAL-2025-2919"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

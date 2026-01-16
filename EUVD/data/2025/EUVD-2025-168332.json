@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168332", "enisaUuid": "e73c0c4c-034f-3656-81b9-cf8b882d0f59", "description": "Malicious code in jitsi-meet-logger (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23814"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114522", "enisaUuid": "15ccefd3-9b42-3f97-9e56-b12e7701451e", "description": "Malicious code in dependencies-upgrade-request-celeste (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141587"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

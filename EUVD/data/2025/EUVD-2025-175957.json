@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175957", "enisaUuid": "b7b2f8cb-f85b-3118-818b-e45a4aa89a24", "description": "Malicious code in thread-compile-parse-decrypt-air (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189918"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

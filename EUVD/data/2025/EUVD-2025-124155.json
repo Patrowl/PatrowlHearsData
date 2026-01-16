@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124155", "enisaUuid": "6b7ff99f-5dcc-3a70-89a5-8acb848bc4e1", "description": "Malicious code in octans-cross-env-config-cassini (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145766"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

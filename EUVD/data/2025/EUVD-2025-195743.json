@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195743", "enisaUuid": "06bcbb38-10b5-3e48-bad0-4bd1e7cba0bc", "description": "Malicious code in selenology-blackhole-non-blocking-xanadu (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45991"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

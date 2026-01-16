@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187372", "enisaUuid": "4ffc4c79-f333-3da3-b3cd-0a9e27898165", "description": "Malicious code in uglify-js-pipe-transform-lightyear (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37584"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

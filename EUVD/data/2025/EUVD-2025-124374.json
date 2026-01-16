@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124374", "enisaUuid": "b8cfe236-b211-3008-a74a-6a877d9c6e5f", "description": "Malicious code in node-sass-magellan-mongodb-auth0 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145547"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

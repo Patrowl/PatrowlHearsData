@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112869", "enisaUuid": "7d172669-330c-34ee-ba1f-3e86f8423b31", "description": "Malicious code in helios-xml-restart-dorado (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143243"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

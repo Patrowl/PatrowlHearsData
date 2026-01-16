@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187256", "enisaUuid": "65968fe0-0fbb-3bdb-b621-7110a7949e35", "description": "Malicious code in tzdata-finance (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37468"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

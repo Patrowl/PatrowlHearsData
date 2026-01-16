@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197193", "enisaUuid": "4cecd2b7-95c1-34b4-a322-a123e3a3a038", "description": "Malicious code in raas-client-app (npm)", "datePublished": "2025-09-26T09:40:37", "dateUpdated": "2025-09-26T09:40:37", "baseScore": 0.0, "aliases": ["MAL-2025-47720"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

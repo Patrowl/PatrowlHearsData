@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113872", "enisaUuid": "ea372c93-f4be-33bc-bea6-94880ebea8bf", "description": "Malicious code in eslint-plugin-public-forever-pegasus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142238"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

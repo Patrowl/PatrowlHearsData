@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176613", "enisaUuid": "319b5d90-381f-3611-81ed-1baf02a67b5d", "description": "Malicious code in rocket-package-sass-loader-avior (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189262"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

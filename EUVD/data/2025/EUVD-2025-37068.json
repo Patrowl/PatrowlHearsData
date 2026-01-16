@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37068", "enisaUuid": "6d9f7dad-0c59-3548-ba00-7a38cff43a36", "description": "Malicious code in greet-test (npm)", "datePublished": "2025-10-30T17:38:57", "dateUpdated": "2025-10-30T17:38:57", "baseScore": 0.0, "aliases": ["MAL-2025-49225"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

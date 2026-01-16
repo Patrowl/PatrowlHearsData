@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123793", "enisaUuid": "46b38343-9699-37f8-9efb-165c47d1eded", "description": "Malicious code in phenomic-css-minimizer-webpack-plugin-titan-vulcan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146128"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

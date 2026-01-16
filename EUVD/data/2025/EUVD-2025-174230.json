@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174230", "enisaUuid": "1436e864-3a48-3d62-9adc-6c1920f8f7ac", "description": "Malicious code in procyon-leda-nodejs-exec (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29701"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

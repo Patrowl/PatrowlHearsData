@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180625", "enisaUuid": "aa612109-c7b6-389b-ac40-8ac23f3ce371", "description": "Malicious code in publish-link-sedna-html-webpack-plugin (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-30820"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

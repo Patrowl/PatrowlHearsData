@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-54194", "enisaUuid": "ef0e6a56-79f0-3ede-8b3f-3ab3b00e0fa1", "description": "Malicious code in functional-fuchsia-bison (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-68455"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

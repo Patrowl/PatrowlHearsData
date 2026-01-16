@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168657", "enisaUuid": "174ba225-1ca4-3dad-8e87-6065d5652f18", "description": "Malicious code in jwt-webpack-procyon-thuban (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24139"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

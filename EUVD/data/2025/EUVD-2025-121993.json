@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121993", "enisaUuid": "e8e49828-8f9a-3ea1-bb15-ce66b1a64460", "description": "Malicious code in shelljs-ultra-venus-stop (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147930"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

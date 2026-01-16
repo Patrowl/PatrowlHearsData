@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112625", "enisaUuid": "421ae456-df7d-3c44-af1f-d2a039ddaafb", "description": "Malicious code in hyperion-materialize-nodemon-fork (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143487"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

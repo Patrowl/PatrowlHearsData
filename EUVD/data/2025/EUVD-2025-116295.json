@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116295", "enisaUuid": "e2f9383b-d71c-328c-9f50-45e20e657083", "description": "Malicious code in await-request-docusaurus-janus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139807"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

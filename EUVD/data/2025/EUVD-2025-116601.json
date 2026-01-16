@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116601", "enisaUuid": "d2fddc4c-ce6b-3172-8810-568877216f64", "description": "Malicious code in apollo-commitizen-koa-farout (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139501"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

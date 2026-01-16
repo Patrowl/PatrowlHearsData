@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193297", "enisaUuid": "a9eeaf9b-3083-3c69-8992-dbf8238e3e2e", "description": "Malicious code in auth-pulsar-local-transform (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43544"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

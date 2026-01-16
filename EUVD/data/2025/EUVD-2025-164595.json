@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164595", "enisaUuid": "894d815f-67f5-3421-8872-cf197ee423ef", "description": "Malicious code in express-image-bunker (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20075"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

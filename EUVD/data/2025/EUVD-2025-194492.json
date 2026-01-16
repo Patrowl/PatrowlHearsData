@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194492", "enisaUuid": "872b906d-26e3-3501-bd04-09754c230063", "description": "Malicious code in izar-neptune-spectron-webdriver-install (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44739"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

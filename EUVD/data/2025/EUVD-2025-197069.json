@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197069", "enisaUuid": "c6b48ba9-691b-36c9-a52d-17ae508c7f76", "description": "Malicious code in globalpayments-woocommerce (npm)", "datePublished": "2025-09-25T15:07:06", "dateUpdated": "2025-09-25T15:07:06", "baseScore": 0.0, "aliases": ["MAL-2025-47587"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183458", "enisaUuid": "ba041be5-ed8f-3541-a2ce-7b5d7e5c8dae", "description": "Malicious code in soundcloud-stream (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33673"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

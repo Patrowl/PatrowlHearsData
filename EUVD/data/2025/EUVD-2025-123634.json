@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123634", "enisaUuid": "1226639d-6a79-3f97-abb4-3ab7885c4386", "description": "Malicious code in playwright-stream-playwright-acamar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146287"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

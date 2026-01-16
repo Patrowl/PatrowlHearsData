@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166260", "enisaUuid": "afb9bc85-a247-36e2-b8d3-4cd3f4386c0e", "description": "Malicious code in gorestful (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21742"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

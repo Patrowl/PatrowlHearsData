@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115852", "enisaUuid": "ca08a9c8-61e8-31fb-86a0-b3f3e4d0e1a2", "description": "Malicious code in bunyan-promise-mongoose-restart (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140252"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

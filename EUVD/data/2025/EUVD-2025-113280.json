@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113280", "enisaUuid": "91f0c1b2-76d3-367f-b181-bd51b5d02a84", "description": "Malicious code in gatsby-axios-terser-webpack-plugin-nconf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142832"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

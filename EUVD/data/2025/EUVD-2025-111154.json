@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111154", "enisaUuid": "595fe572-92c4-3b8b-bc5c-4b3b632c63ce", "description": "Malicious code in middleware-mongodb-leda-barnard (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144961"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

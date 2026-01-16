@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111153", "enisaUuid": "f6213e0e-e34d-3b0c-b243-c159868b5af1", "description": "Malicious code in middleware-nashira-install-loglevel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144962"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

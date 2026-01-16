@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191054", "enisaUuid": "aec8644f-a2ed-3ea5-9853-69ec3991ecbb", "description": "Malicious code in cookie.gulp (npm)", "datePublished": "2025-08-23T09:13:38", "dateUpdated": "2025-08-23T09:13:38", "baseScore": 0.0, "aliases": ["MAL-2025-41276"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183020", "enisaUuid": "6fcdcecd-788c-32ee-9db0-02651a791425", "description": "Malicious code in signal-slow-reject-easy-object (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33235"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173412", "enisaUuid": "bc0af539-f9d5-3d70-a1d6-6bd0b5c4f8c5", "description": "Malicious code in parseapns (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28883"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

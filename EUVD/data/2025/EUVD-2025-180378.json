@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180378", "enisaUuid": "4a48b0df-cea7-3676-847a-b3c56066bca3", "description": "Malicious code in apollo-webdriver-manager-jasmine-wasat (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185510"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

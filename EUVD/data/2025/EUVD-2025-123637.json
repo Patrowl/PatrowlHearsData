@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123637", "enisaUuid": "351046cf-68dc-3988-a139-00cf5fb83d95", "description": "Malicious code in playwright-meteor-loglevel-enif (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146284"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

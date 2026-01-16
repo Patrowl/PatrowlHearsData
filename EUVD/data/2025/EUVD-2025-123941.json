@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123941", "enisaUuid": "8ec4a730-2219-342a-ae35-9c523c785a50", "description": "Malicious code in passport-galaxy-jovian-sedna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145980"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

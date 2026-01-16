@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121207", "enisaUuid": "d38f12a8-4cf9-37ac-9c90-f2d2ffecfd3f", "description": "Malicious code in toml-redis-janus-yildun (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148721"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

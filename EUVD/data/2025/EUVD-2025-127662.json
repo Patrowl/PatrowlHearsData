@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127662", "enisaUuid": "bdb880d8-7c47-37e9-a8ee-b3a9f99641c7", "description": "Malicious code in apilogicserver (PyPI)", "datePublished": "2025-05-17T03:44:30", "dateUpdated": "2025-05-17T03:44:30", "baseScore": 0.0, "aliases": ["MAL-2025-3929"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

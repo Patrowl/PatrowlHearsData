@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122288", "enisaUuid": "ef4c1f52-1b0f-3907-8196-304274c7982e", "description": "Malicious code in sagitta-zephyr-prettier-stylelint-levels (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147634"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111907", "enisaUuid": "a2510367-a7b1-3770-9604-aac348478c3a", "description": "Malicious code in koa-schema-hyperion-indus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144206"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

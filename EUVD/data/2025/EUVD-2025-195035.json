@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195035", "enisaUuid": "4c2a4c1c-2d6d-3675-a97d-7aa0052b3d5a", "description": "Malicious code in nebula-browserify-parcel-rocket (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45282"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

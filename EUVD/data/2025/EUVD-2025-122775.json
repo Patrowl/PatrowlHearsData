@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122775", "enisaUuid": "de90c883-178a-3444-bb47-2fceb80b529a", "description": "Malicious code in regulus-geckodriver-apollo-ignite (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147147"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

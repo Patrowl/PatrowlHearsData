@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177685", "enisaUuid": "7fcdfaad-ded9-385e-a462-98134dcc320e", "description": "Malicious code in nebula-build-auth0-mui (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188197"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

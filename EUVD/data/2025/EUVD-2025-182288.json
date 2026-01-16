@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182288", "enisaUuid": "5fb97a7d-799f-3ec6-8403-c08100f9172c", "description": "Malicious code in rssauth (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32503"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

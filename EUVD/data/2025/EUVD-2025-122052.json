@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122052", "enisaUuid": "14ff1c0b-9c7b-38b6-9ce7-cd9c206b3cb5", "description": "Malicious code in sequelize-indus-weywot-concurrently (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147871"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

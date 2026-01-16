@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175620", "enisaUuid": "4aefe07a-d23f-38c5-9970-6cd75bbcf1e3", "description": "Malicious code in web-yaml-analyze-finally-short (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190256"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

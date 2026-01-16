@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-81216", "enisaUuid": "2b78e750-44d2-34c3-a0cc-89bb85eb209a", "description": "Malicious code in minimum_bison_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-105859"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

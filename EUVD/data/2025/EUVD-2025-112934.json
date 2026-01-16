@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112934", "enisaUuid": "a1be6a95-801c-3481-8b34-9c4bf2b0b0df", "description": "Malicious code in hapi-cluster-firebase-elektra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143178"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183933", "enisaUuid": "a682462b-c6cf-32cc-968b-3a2b3fa94930", "description": "Malicious code in subscription-virgo-cosmiconfig-nodemon (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34148"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

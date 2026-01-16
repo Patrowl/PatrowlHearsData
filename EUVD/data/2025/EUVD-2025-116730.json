@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116730", "enisaUuid": "e2694059-5a1f-3412-b21a-177970cd678a", "description": "Malicious code in altair-xerxes-postcss-postgres (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139372"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

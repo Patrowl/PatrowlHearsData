@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130664", "enisaUuid": "0ac9b6b9-1f8a-3cb4-aca7-fb64b365f561", "description": "Malicious code in microsoft.azure.cognitiveservices.search.visualsearch (npm)", "datePublished": "2025-08-14T19:11:56", "dateUpdated": "2025-08-29T06:43:17", "baseScore": 0.0, "aliases": ["MAL-2025-6942"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

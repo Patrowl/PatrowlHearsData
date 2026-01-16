@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124864", "enisaUuid": "d45cc569-e18c-39b7-b4ac-318d450beba3", "description": "Malicious code in miranda-resolvers-pyxis-iota (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145054"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

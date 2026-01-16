@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111744", "enisaUuid": "f9a51a24-1dd3-3f64-97c8-3b8b49b0bfad", "description": "Malicious code in library-apollo-sagitta-relay (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144369"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

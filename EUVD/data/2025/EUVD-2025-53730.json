@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-53730", "enisaUuid": "79a3c472-f1dc-3d5b-afd1-38fb1f8d919b", "description": "Malicious code in insufficient-jade-panther (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-68919"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

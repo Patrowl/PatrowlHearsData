@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175979", "enisaUuid": "7e5ecf9a-2919-3172-9a23-e628147faf11", "description": "Malicious code in testcafe-jsonp-lyra-antd (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189896"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

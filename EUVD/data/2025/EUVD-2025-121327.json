@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121327", "enisaUuid": "997297c2-5a19-3b58-a84b-36caf8b70d05", "description": "Malicious code in testcafe-relay-chromedriver-webpack (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148601"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

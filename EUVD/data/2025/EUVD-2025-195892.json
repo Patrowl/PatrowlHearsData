@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195892", "enisaUuid": "b5467de6-0f69-326a-9565-8e42b348c8cd", "description": "Malicious code in start-less-loader-got-sirius (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46140"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

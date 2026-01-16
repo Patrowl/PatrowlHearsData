@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177499", "enisaUuid": "730370a5-b944-39b2-accf-8fed9f9aba1d", "description": "Malicious code in object-authorize-array-cluster-encrypt (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188383"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

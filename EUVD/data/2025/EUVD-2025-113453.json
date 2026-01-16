@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113453", "enisaUuid": "55429b57-f2b9-3b09-8f10-23d937afeae6", "description": "Malicious code in fornax-uninstall-epimetheus-writable (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142659"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

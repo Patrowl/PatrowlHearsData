@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114841", "enisaUuid": "8ca5f862-7dd7-3d8b-8688-8f7e589415fe", "description": "Malicious code in cross-env-restart-ophiuchus-google (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141268"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

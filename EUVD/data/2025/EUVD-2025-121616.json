@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121616", "enisaUuid": "aea37095-3260-3030-913a-5e9f63c5443e", "description": "Malicious code in stop-zenith-auriga-dotenv-parse-variables (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148309"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

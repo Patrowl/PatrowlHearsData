@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120268", "enisaUuid": "7897da1a-d158-33db-bb55-bb72fdbb1fbb", "description": "Malicious code in xenon-subscription-configstore-helios (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149663"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

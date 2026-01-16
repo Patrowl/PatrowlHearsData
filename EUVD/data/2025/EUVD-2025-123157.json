@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123157", "enisaUuid": "82428edf-4ce5-332d-a444-00dff5288a9a", "description": "Malicious code in public-passport-event-hapi (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146765"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

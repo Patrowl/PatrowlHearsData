@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126730", "enisaUuid": "1fd5af0f-a012-3528-9ac8-2b07f515ed10", "description": "Malicious code in pydantic-kit (PyPI)", "datePublished": "2025-03-28T13:06:04", "dateUpdated": "2025-03-28T13:06:04", "baseScore": 0.0, "aliases": ["MAL-2025-2989"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

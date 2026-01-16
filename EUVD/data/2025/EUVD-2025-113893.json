@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113893", "enisaUuid": "1492eb10-8e99-3a19-b9ae-f33b90fc11b4", "description": "Malicious code in eslint-enif-webpack-event (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142217"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

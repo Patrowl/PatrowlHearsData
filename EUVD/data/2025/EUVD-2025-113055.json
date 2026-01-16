@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113055", "enisaUuid": "651bfacb-4c82-3533-ae68-ec29648f92fe", "description": "Malicious code in grunt-cosmiconfig-inquirer-cosmos (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143057"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

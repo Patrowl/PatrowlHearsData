@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124349", "enisaUuid": "75ccc896-4874-35ff-8a9f-852de9c6a3fe", "description": "Malicious code in nodejs-mongoose-dotenv-mongoose (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145572"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

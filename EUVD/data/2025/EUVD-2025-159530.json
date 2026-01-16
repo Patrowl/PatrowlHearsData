@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159530", "enisaUuid": "e2fc25cc-7903-3eb8-91fb-46b3841c86b2", "description": "Malicious code in atuin-component-tablelist (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15029"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116658", "enisaUuid": "1a7d6fae-823c-3fad-bc31-fd73723060f3", "description": "Malicious code in antares-uglify-js-child-process-galaxy (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139444"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

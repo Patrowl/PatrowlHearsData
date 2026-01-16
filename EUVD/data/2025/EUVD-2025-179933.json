@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179933", "enisaUuid": "27750421-1f59-34a6-9ec9-563a936a5f6d", "description": "Malicious code in bunyan-redis-capella-html-webpack-plugin (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185949"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162807", "enisaUuid": "9dd6a92c-a263-33f6-acc0-dc4da279fb99", "description": "Malicious code in deserialize-string-scale-enum-encode (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18308"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

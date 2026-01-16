@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176384", "enisaUuid": "d84fedfe-83de-3fe7-a532-0335eedba645", "description": "Malicious code in sigma-try-deserialize-slow-omega (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189491"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

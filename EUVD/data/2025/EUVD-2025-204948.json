@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-204948", "enisaUuid": "f259cf68-ac3a-3775-8144-19926a25fce5", "description": "Malicious code in @ownbackup/ob-loader (npm)", "datePublished": "2025-12-23T07:49:19", "dateUpdated": "2025-12-24T00:53:15", "baseScore": 0.0, "aliases": ["MAL-2025-192705"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113107", "enisaUuid": "9c4f98c4-be80-3bb5-b3a7-88c056f3956f", "description": "Malicious code in graphql-loop-module-ultra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143005"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

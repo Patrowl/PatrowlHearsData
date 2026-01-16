@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113539", "enisaUuid": "465bc15a-fa83-3a7a-86a6-7a6f311d3fe1", "description": "Malicious code in forever-proxima-node-config-leda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142573"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

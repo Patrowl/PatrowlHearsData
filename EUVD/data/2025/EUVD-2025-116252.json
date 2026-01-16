@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116252", "enisaUuid": "7fd521cb-53ad-37c8-a9f1-e97b95cf8ad2", "description": "Malicious code in babel-dactyl-axios-neptune (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139850"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

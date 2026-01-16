@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-33115", "enisaUuid": "23c8a632-c44f-3e1b-bf8a-50c680307d07", "description": "Malicious code in react-rails-builds (npm)", "datePublished": "2025-10-04T13:59:16", "dateUpdated": "2025-10-04T13:59:16", "baseScore": 0.0, "aliases": ["MAL-2025-47906"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

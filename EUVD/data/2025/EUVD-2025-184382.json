@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184382", "enisaUuid": "81c948b1-9874-30ba-836e-7afc43d61f35", "description": "Malicious code in tcpdftest (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34598"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123225", "enisaUuid": "09079bd3-d8cf-3e7b-bffc-484c6a2ccba4", "description": "Malicious code in protractor-rocket-terser-postgres (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146697"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

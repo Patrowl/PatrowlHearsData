@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181492", "enisaUuid": "a2dc4975-4080-3360-ad95-d4e2db117288", "description": "Malicious code in ratstim (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31706"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175581", "enisaUuid": "2ee9002a-144f-3207-9425-903bc9456aa1", "description": "Malicious code in websockets-hawkingradiation-redis-barnard (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190295"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122772", "enisaUuid": "c1b4f0fa-a9bd-32f9-8e0e-ae042bce27d7", "description": "Malicious code in regulus-loopback-gravity-postgres (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147150"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

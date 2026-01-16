@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123019", "enisaUuid": "cb804588-63cb-303c-829d-8f32c6853a2f", "description": "Malicious code in quantum-hugo-markdown-pdf-registry (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146903"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

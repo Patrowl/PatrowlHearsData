@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-146532", "enisaUuid": "78691ddc-17a4-3f1d-87ca-57395a78effd", "description": "Malicious code in verify-aikun-mik (npm)", "datePublished": "2025-11-12T16:47:05", "dateUpdated": "2025-11-12T16:47:05", "baseScore": 0.0, "aliases": ["MAL-2025-170280"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

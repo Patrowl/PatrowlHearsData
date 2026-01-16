@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129319", "enisaUuid": "87ccd84e-8292-35ba-8fdd-b073ee613277", "description": "Malicious code in show-dependencies (npm)", "datePublished": "2025-07-03T07:00:51", "dateUpdated": "2025-07-11T02:21:42", "baseScore": 0.0, "aliases": ["MAL-2025-5591"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

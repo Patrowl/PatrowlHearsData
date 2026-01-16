@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173847", "enisaUuid": "edc44440-4ed3-3467-9a1f-b29486e08146", "description": "Malicious code in pipe-hash-minify-thread-char (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29318"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

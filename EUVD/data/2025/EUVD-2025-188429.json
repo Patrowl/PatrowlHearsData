@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188429", "enisaUuid": "9d4ed291-90c6-3c9f-9bc6-b5db9325533b", "description": "Malicious code in vrfi-cal-registration (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38641"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

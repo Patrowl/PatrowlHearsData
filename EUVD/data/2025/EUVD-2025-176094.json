@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176094", "enisaUuid": "6f4d7948-9f59-371b-b518-8cc3b42c229a", "description": "Malicious code in supervisor-helios-stream-rate-limiter (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189781"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

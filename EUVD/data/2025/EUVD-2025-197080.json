@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197080", "enisaUuid": "16fb6e9d-2f41-3030-be3c-4ae0e61661c1", "description": "Malicious code in @vietnetco-distribution/internal-sdk (npm)", "datePublished": "2025-09-26T09:19:45", "dateUpdated": "2025-09-26T09:19:45", "baseScore": 0.0, "aliases": ["MAL-2025-47607"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

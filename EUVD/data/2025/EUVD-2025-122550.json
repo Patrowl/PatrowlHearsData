@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122550", "enisaUuid": "9e5345fb-2cb3-36e6-95bb-b503fede0cf4", "description": "Malicious code in restart-alphard-procyon-phoebe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147372"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

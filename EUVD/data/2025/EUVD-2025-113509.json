@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113509", "enisaUuid": "ea158120-da67-35b7-9830-85fbe1d15d7a", "description": "Malicious code in fork-writable-miranda-dorado (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142603"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

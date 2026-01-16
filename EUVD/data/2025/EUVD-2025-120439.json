@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120439", "enisaUuid": "d9ec633a-bd07-3d49-b162-bb4964958abc", "description": "Malicious code in winston-eslint-config-impulse-pino-pretty (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149491"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

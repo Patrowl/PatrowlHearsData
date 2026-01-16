@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111785", "enisaUuid": "08122fd4-4ef7-33bb-a1f1-79b3829b0fc0", "description": "Malicious code in less-loader-quantum-miranda-html-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144328"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191622", "enisaUuid": "28a0abf0-319e-37bd-a97c-5c3d9502812a", "description": "Malicious code in @espace-client-axafr/fetch-helper (npm)", "datePublished": "2025-08-25T18:33:21", "dateUpdated": "2025-08-25T18:33:21", "baseScore": 0.0, "aliases": ["MAL-2025-41856"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

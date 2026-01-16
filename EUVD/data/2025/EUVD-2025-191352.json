@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191352", "enisaUuid": "b949624c-d2e6-3ea2-8553-fa8dc162553b", "description": "Malicious code in oneauth-mac (npm)", "datePublished": "2025-08-28T07:35:06", "dateUpdated": "2025-08-28T07:35:06", "baseScore": 0.0, "aliases": ["MAL-2025-41585"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

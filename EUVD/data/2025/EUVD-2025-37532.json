@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37532", "enisaUuid": "3a8d9bda-b021-3b45-ab2e-c129ce55505f", "description": "Malicious code in mbed-js-ble (npm)", "datePublished": "2025-11-02T20:00:51", "dateUpdated": "2025-11-03T19:06:18", "baseScore": 0.0, "aliases": ["MAL-2025-49315"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

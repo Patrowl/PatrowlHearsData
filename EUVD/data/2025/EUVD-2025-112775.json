@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112775", "enisaUuid": "60413dde-619b-3a8d-8dbb-c3170b876dea", "description": "Malicious code in hexo-changelog-sagitta-nconf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143337"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

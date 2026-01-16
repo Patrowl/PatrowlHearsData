@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114858", "enisaUuid": "307729d0-03fd-34b9-baff-4404d5f7cf71", "description": "Malicious code in cross-env-dactyl-regulus-ini (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141251"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

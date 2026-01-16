@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-101843", "enisaUuid": "298ebf2e-1cee-3511-9348-6ac2a0fe5949", "description": "Malicious code in accepted_walrus_z3n (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-124770"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

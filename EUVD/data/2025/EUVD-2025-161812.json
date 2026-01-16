@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161812", "enisaUuid": "642f1a9c-760e-3b3a-b3de-19df9f4c8ab5", "description": "Malicious code in com.apple.unityplugin.gamecontroller (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17313"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

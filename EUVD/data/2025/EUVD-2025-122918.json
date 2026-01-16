@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122918", "enisaUuid": "a6273576-ce93-33ef-b1be-b3c3aa492a54", "description": "Malicious code in quito-sequelize-spectron-wezen (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147004"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

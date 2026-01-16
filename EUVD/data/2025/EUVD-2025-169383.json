@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169383", "enisaUuid": "76c08aa8-7b32-3fc3-8ba8-3b9ddf04618f", "description": "Malicious code in l3mon (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24854"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

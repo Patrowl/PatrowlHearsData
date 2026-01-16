@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172282", "enisaUuid": "f01a9178-579b-3f5d-9059-9d84880a404a", "description": "Malicious code in nova-private-quasarjet-hyperion (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27753"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

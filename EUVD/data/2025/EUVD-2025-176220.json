@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176220", "enisaUuid": "10d977fd-58ab-373f-90f9-d8731176b3f1", "description": "Malicious code in star-private-minify-bad-compress (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189655"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

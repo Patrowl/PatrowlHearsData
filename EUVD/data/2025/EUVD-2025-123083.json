@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123083", "enisaUuid": "3d81a7bd-047a-38d1-a8df-42608617ed44", "description": "Malicious code in pulsar-pegasus-aurora-proxima (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146839"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

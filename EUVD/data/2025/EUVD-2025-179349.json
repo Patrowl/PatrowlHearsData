@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179349", "enisaUuid": "1e95c319-869b-3a17-82cf-60c85ac00599", "description": "Malicious code in delta-encrypt-decrypt-process-hot (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186533"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

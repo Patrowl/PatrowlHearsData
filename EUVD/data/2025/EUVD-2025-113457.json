@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113457", "enisaUuid": "df3bbff3-ea5d-38b7-bb8d-9fe299064d6f", "description": "Malicious code in fornax-terser-webpack-plugin-sedna-dynamo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142655"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

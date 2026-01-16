@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159732", "enisaUuid": "31a00145-03ed-329f-bde4-3dcc5ff050b5", "description": "Malicious code in aws-ui-runtime (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15231"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

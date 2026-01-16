@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153593", "enisaUuid": "506f2ba8-d068-382e-ba2a-d48c721a35a8", "description": "Malicious code in @marcos_feitoza/docker-image (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9092"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

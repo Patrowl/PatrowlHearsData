@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180273", "enisaUuid": "0e3c13fa-81ff-340f-8663-bc2fe91a1826", "description": "Malicious code in async-css-minimizer-webpack-plugin-heka-redgiant (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185615"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

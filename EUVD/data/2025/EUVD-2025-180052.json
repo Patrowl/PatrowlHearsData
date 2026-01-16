@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180052", "enisaUuid": "41e21028-cb71-36f3-af86-ce8d5bb4159a", "description": "Malicious code in biosignature-jasmine-solis-promise (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185830"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

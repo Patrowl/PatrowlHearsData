@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181071", "enisaUuid": "d2ff2575-3249-3b55-9d82-dd279b0efde0", "description": "Malicious code in query-sudo-web-yaml-iota (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31285"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

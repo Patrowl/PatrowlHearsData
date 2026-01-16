@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175863", "enisaUuid": "72bef582-b621-30d6-8a80-18ab831e8a30", "description": "Malicious code in try-signal-lambda-execute-kernel (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190012"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

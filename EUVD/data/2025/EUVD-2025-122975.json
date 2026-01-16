@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122975", "enisaUuid": "163f1824-e1c6-38e6-a765-5fed5d1522ea", "description": "Malicious code in quasar-electron-geckodriver-vuepress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146947"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171130", "enisaUuid": "20e0853b-6a95-3169-944d-b22c11365251", "description": "Malicious code in module-daemon-sun-stub-lambda (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26601"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

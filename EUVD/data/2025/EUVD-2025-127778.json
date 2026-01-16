@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127778", "enisaUuid": "4bed1716-1ae5-3461-9c22-3c8c0ed2a2a2", "description": "Malicious code in service-catalog-copilot (npm)", "datePublished": "2025-05-19T20:05:55", "dateUpdated": "2025-05-19T20:05:55", "baseScore": 0.0, "aliases": ["MAL-2025-4045"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

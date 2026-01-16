@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122226", "enisaUuid": "7d203a79-c757-317e-8e8d-084b7f5a042d", "description": "Malicious code in schema-init-cosmiconfig-postcss-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147696"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

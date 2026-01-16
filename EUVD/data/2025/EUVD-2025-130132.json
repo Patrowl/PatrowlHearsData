@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130132", "enisaUuid": "20bf1580-f5e9-3c89-81d4-1a530ae9161b", "description": "Malicious code in box-lib-node (npm)", "datePublished": "2025-07-31T19:26:02", "dateUpdated": "2025-07-31T19:26:02", "baseScore": 0.0, "aliases": ["MAL-2025-6405"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111776", "enisaUuid": "02533ee8-9d91-3129-a281-d5669de0e56f", "description": "Malicious code in less-loader-virgo-phenomic-typeorm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144337"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

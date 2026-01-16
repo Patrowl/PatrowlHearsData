@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170661", "enisaUuid": "e16266b9-148a-3703-aafa-61c39056106e", "description": "Malicious code in mechatronics-ophiuchus-loopback-auth0 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26132"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

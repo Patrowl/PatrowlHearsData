@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123426", "enisaUuid": "16057d58-9842-3328-ab79-203167d6bf70", "description": "Malicious code in prettier-plugin-markdown-sqlite-jest-publish (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146496"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

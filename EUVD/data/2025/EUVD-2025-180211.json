@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180211", "enisaUuid": "13860626-3ef6-3dd8-9e0e-66fd86db3f02", "description": "Malicious code in authorize-grid-table-cat-fast (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185674"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

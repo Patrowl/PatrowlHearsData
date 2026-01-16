@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200913", "enisaUuid": "5cc9a66c-34e3-3b00-b6c1-b45a3e761971", "description": "Malicious code in elf-stats-frostbitten-ribbon-950 (npm)", "datePublished": "2025-12-03T15:59:29", "dateUpdated": "2025-12-23T19:37:08", "baseScore": 0.0, "aliases": ["MAL-2025-192039"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

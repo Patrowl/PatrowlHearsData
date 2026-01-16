@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121700", "enisaUuid": "b5af5932-0570-3442-8a76-be942ddcb46f", "description": "Malicious code in sqlite-europa-remark-auth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148225"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

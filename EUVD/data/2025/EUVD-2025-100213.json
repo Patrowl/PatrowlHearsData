@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-100213", "enisaUuid": "f060240f-f922-3c45-9879-0329df26a1c1", "description": "Malicious code in correct_stingray_z3n (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-125628"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

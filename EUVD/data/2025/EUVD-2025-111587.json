@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111587", "enisaUuid": "c3707a7e-74ba-3ff0-b275-66448ec5ccef", "description": "Malicious code in loop-loglevel-rimraf-despina (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144528"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

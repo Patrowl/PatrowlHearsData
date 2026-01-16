@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153793", "enisaUuid": "530cf8fd-31b1-39dc-8db3-3ff37a06b823", "description": "Malicious code in @sellerly/szn-atm (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9292"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

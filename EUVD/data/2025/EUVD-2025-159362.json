@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159362", "enisaUuid": "0f63dacc-0037-37f8-ab0e-48189ca77a3f", "description": "Malicious code in array-hash-view-balance-authenticate (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14861"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

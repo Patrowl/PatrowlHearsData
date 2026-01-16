@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175856", "enisaUuid": "f6223738-dd1a-3d5d-82c5-4f461c4a8649", "description": "Malicious code in typeorm-protractor-cryovolcano-concurrently (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190019"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

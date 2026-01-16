@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163147", "enisaUuid": "0d6c0abe-e877-33ea-9e7d-43e12d20def2", "description": "Malicious code in dorado-html-webpack-plugin-less-procyon (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18648"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

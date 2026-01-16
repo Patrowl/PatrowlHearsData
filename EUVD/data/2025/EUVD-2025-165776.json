@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165776", "enisaUuid": "08f27f70-66d3-37b6-bad7-3b5f64fc8a9e", "description": "Malicious code in gemini-install-server-radioastronomy (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21257"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

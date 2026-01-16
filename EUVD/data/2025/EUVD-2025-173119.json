@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173119", "enisaUuid": "7cc7775f-5df4-362a-a539-efd43d1bb9a2", "description": "Malicious code in osmo-ts (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28590"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

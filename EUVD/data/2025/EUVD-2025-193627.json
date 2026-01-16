@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193627", "enisaUuid": "c9d5cbcc-e246-34c6-936b-f96ec4015854", "description": "Malicious code in commitlint-pm2-proxima-dotenv-safe (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43874"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

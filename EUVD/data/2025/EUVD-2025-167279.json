@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167279", "enisaUuid": "9e9a99c9-5be5-3516-bfb4-3b6c373452bb", "description": "Malicious code in http-geobase (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22761"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

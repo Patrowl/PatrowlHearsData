@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179887", "enisaUuid": "3813bde8-bc4f-3bb6-bcb3-7bc5278e9fff", "description": "Malicious code in canopus-odin-scorpius-css-minimizer-webpack-plugin (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185995"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

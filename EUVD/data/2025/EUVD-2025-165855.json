@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165855", "enisaUuid": "f5f4d623-d35f-35bd-a201-8ab65f05a47b", "description": "Malicious code in geochemistry-shelljs-terser-webpack-plugin-koa (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21336"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

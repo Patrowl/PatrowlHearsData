@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125625", "enisaUuid": "53487725-8f0c-3916-821b-3011b7d939dd", "description": "Malicious code in lyft-service (npm)", "datePublished": "2025-03-03T13:31:44", "dateUpdated": "2025-03-03T13:31:44", "baseScore": 0.0, "aliases": ["MAL-2025-1883"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

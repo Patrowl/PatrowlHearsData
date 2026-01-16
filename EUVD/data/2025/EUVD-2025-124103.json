@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124103", "enisaUuid": "300f2fcb-d95c-3183-987a-df65abddbfa4", "description": "Malicious code in ophiuchus-halley-graphql-pavo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145818"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

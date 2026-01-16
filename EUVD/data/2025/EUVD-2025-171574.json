@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171574", "enisaUuid": "d6be4b39-dc00-3e34-b728-03b9e550d626", "description": "Malicious code in n8n-nodes-msdyn365bc (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27045"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

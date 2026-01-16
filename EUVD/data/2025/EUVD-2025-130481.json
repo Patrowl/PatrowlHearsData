@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130481", "enisaUuid": "5b5bf285-507c-32a5-be93-4f89012c760e", "description": "Malicious code in sentry-core (npm)", "datePublished": "2025-07-30T17:46:04", "dateUpdated": "2025-07-30T17:46:04", "baseScore": 0.0, "aliases": ["MAL-2025-6758"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

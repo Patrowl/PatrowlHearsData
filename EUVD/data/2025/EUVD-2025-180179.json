@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180179", "enisaUuid": "185c4420-fa0f-3bba-bc9e-bbf648b455bb", "description": "Malicious code in awk-encode-good-byte-uglify (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185703"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121195", "enisaUuid": "8b43c7a7-ff6e-3676-8692-d17ad7fec882", "description": "Malicious code in tool-dotenv-safe-deimos-magellan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148733"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

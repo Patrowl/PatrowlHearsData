@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116300", "enisaUuid": "7e2c85e6-3fb1-3532-bcf6-11e155b90a10", "description": "Malicious code in await-nightwatch-atlas-envconfig (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139802"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

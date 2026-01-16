@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112991", "enisaUuid": "fb4d7585-cfed-3b6e-820f-e36feae95941", "description": "Malicious code in gulp-package-remark-non-blocking (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143121"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113037", "enisaUuid": "72d3ae8f-da2b-385c-9f57-8255fc32b3ad", "description": "Malicious code in grunt-rimraf-altair-enif (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143075"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

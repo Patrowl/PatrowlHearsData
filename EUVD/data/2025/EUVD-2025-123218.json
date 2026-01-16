@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123218", "enisaUuid": "9563e93e-9232-3898-a28e-385716cc45e0", "description": "Malicious code in protractor-zenobia-npm-upgrade (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146704"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

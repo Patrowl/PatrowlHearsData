@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123095", "enisaUuid": "3d4daae3-2f8b-36ab-8dc0-0a75389d5afc", "description": "Malicious code in pulsar-despina-apollo-cosmiconfig (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146827"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

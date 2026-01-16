@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129992", "enisaUuid": "3965adeb-7b25-3791-bb70-6ef12953f321", "description": "Malicious code in message_gateway (RubyGems)", "datePublished": "2025-07-27T11:10:27", "dateUpdated": "2025-07-27T11:10:27", "baseScore": 0.0, "aliases": ["MAL-2025-6265"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

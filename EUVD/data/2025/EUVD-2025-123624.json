@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123624", "enisaUuid": "f944d1a3-68b3-35f3-bcc2-dcbb89d43a6d", "description": "Malicious code in pm2-eleventy-google-epimetheus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146297"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

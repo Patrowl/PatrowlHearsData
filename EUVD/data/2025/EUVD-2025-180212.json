@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180212", "enisaUuid": "7572dd55-9a3a-3ed1-afc4-95da6fd96ab7", "description": "Malicious code in authorize-float-signal-string-table (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185673"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

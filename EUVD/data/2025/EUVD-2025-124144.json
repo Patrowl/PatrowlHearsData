@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124144", "enisaUuid": "de1376d8-1ce7-358f-afac-9ec0b4959e19", "description": "Malicious code in octans-pino-spawn-redis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145777"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

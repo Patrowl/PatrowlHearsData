@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184751", "enisaUuid": "fd055a00-ea5e-3162-abcd-9d1e8d7b6f26", "description": "Malicious code in test-mlw2-blind-bogie (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34967"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111126", "enisaUuid": "206216b0-ad83-3f04-bd0c-bfa1bd3f8fd8", "description": "Malicious code in mini-css-extract-plugin-process-taurus-rollup-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144989"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

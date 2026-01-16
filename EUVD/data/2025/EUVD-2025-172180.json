@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172180", "enisaUuid": "3e2fbc8b-2482-31a2-b466-598a402170f7", "description": "Malicious code in node-red-contrib-ys7 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27651"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

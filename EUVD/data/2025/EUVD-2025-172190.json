@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172190", "enisaUuid": "f4e63891-f0b6-321c-a275-2120aaab487a", "description": "Malicious code in node-unified-login-url (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27661"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174017", "enisaUuid": "56b7ac93-d49c-3b3c-9816-84f7fbf9c05e", "description": "Malicious code in poltergeist-ha-artnet-node (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29488"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

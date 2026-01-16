@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176043", "enisaUuid": "0c24fb30-f26a-3465-a7d9-9698bafc5d22", "description": "Malicious code in taurus-webdriverio-helios-gemini (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189832"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

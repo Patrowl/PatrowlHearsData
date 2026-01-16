@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188738", "enisaUuid": "14c500bf-3ab8-38cf-b2e3-8eb6853a0d83", "description": "Malicious code in wdio-junit-reporter-file (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38952"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

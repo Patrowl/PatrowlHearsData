@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115058", "enisaUuid": "288ab07f-2265-3f86-b7ea-5e97f4767bb1", "description": "Malicious code in configstore-firebase-dotenv-parse-variables-auth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141051"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176168", "enisaUuid": "9a2adefb-93b6-3803-8eb9-35ee8284ef32", "description": "Malicious code in style-loader-node-sass-graphql-nashira (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189707"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

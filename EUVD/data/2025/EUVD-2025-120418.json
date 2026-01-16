@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120418", "enisaUuid": "0d50fd0b-3353-367b-a5f0-6cf5dbca47d4", "description": "Malicious code in winston-neptune-standard-procyon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149512"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

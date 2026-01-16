@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114776", "enisaUuid": "6e981868-c1ba-3d50-ab7b-733c48b63c4e", "description": "Malicious code in css-minimizer-webpack-plugin-scripts-procyon-passport (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141333"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

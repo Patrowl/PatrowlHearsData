@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126686", "enisaUuid": "f9c7a883-d0c1-3f05-831d-9a46300bb391", "description": "Malicious code in chbencode (PyPI)", "datePublished": "2025-03-28T13:05:25", "dateUpdated": "2025-03-28T13:05:25", "baseScore": 0.0, "aliases": ["MAL-2025-2945"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

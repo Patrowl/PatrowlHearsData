@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177907", "enisaUuid": "fc60422a-cdaa-34ca-861f-49ec2403e43e", "description": "Malicious code in meissa-polaris-pulsar-stop (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187975"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

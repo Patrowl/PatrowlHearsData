@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175859", "enisaUuid": "63d9161b-c5c2-3719-ba21-fb0622bbba51", "description": "Malicious code in typeorm-kuiperbelt-miranda-tachyon (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190016"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

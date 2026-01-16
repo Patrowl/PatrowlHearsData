@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115090", "enisaUuid": "3d07aff5-c3f5-37d4-9351-219c15f6fe92", "description": "Malicious code in config-commitlint-config-angular-foundation-spica (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141019"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

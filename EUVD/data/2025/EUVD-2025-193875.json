@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193875", "enisaUuid": "9b7258c7-7ebb-3b82-91ab-5af00f684367", "description": "Malicious code in electron-postcss-io-dynamo (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44122"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

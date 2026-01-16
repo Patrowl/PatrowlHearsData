@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-146505", "enisaUuid": "53c65e7b-c9e2-33f3-af26-8a355288a655", "description": "Malicious code in verify-ain-ukas (npm)", "datePublished": "2025-11-12T16:47:05", "dateUpdated": "2025-11-12T16:47:05", "baseScore": 0.0, "aliases": ["MAL-2025-170307"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

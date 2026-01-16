@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124503", "enisaUuid": "4d1ad950-956a-36af-9af0-19035d2fd452", "description": "Malicious code in nextjs-mdx-auriga-rate-limiter (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145418"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111921", "enisaUuid": "ada7e968-fb2f-376c-8339-5b809cd29dfb", "description": "Malicious code in koa-electron-reveal-md-pavo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144192"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

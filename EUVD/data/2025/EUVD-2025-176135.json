@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176135", "enisaUuid": "50c06729-aec6-39b1-8880-cb92ec64270e", "description": "Malicious code in superagent-parallax-winston-phoebe (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189740"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

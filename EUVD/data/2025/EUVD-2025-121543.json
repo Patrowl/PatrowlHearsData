@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121543", "enisaUuid": "b5080d58-be80-3af0-9e98-7c9db009e486", "description": "Malicious code in superagent-hydra-kinetic-procyon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148383"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167273", "enisaUuid": "fe124ac3-f733-3fd1-978b-d10def2b5c66", "description": "Malicious code in html5-escape (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22755"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

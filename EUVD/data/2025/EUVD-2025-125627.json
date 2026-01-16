@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125627", "enisaUuid": "b8e0beb9-e208-30c5-8d9b-8598822bf7f4", "description": "Malicious code in mapbox-demo-components (npm)", "datePublished": "2025-03-03T13:31:53", "dateUpdated": "2025-03-03T13:31:53", "baseScore": 0.0, "aliases": ["MAL-2025-1885"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

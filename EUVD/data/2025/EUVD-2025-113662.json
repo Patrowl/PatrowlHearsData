@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113662", "enisaUuid": "f41773b2-2066-3829-a645-49b71d43d1ef", "description": "Malicious code in fetch-jasmine-frontend-equinox (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142449"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181600", "enisaUuid": "96ec3c4b-5557-3987-ba8d-cf14496f675e", "description": "Malicious code in react-native-elemets (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31815"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

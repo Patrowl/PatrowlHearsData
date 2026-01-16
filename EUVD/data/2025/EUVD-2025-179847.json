@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179847", "enisaUuid": "3b26fa5b-80f3-39ad-85fc-75f0d7a3a997", "description": "Malicious code in catch-bash-mu-daemon-slow (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186035"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

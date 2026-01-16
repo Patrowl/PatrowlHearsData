@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113097", "enisaUuid": "ff6060f1-6144-3862-8920-09f42c821347", "description": "Malicious code in graphql-webdriverio-neptune-phenomic (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143015"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

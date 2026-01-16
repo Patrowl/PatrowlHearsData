@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130799", "enisaUuid": "f901356a-7154-36e8-a947-d2bb85ffb198", "description": "Malicious code in @amber-team/web-platform-utils (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7077"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

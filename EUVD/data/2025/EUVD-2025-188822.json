@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188822", "enisaUuid": "4a0c9dfa-19ca-3c84-a01c-e05909baee4b", "description": "Malicious code in webpack-xenon-registry-biohacking (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39036"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

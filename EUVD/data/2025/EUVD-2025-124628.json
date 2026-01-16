@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124628", "enisaUuid": "6ae93df1-ec16-3d9d-b6a8-e1708fdc396b", "description": "Malicious code in native-magellan-despina-callback (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145290"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

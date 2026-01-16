@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115049", "enisaUuid": "b0538bdb-16a3-38a6-a630-488ac78bf095", "description": "Malicious code in configstore-prettier-css-loader-neptune (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141060"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

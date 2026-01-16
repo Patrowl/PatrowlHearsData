@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191122", "enisaUuid": "576b29b5-67b1-3c36-9b17-52ad45a3141f", "description": "Malicious code in xpoc-ts-lib (npm)", "datePublished": "2025-08-23T15:05:00", "dateUpdated": "2025-08-25T07:32:50", "baseScore": 0.0, "aliases": ["MAL-2025-41344"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

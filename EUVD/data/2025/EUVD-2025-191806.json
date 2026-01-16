@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191806", "enisaUuid": "db39eaa7-4e3d-3d68-9478-2d946ae94964", "description": "Malicious code in node-pdfmake (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-42041"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

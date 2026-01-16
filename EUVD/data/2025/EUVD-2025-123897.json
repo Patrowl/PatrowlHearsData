@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123897", "enisaUuid": "326023a8-533c-388c-ad8f-91d03eace494", "description": "Malicious code in pegasus-dotenv-safe-build-wolf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146024"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

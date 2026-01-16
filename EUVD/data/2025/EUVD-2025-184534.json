@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184534", "enisaUuid": "20d4f4e1-d222-37fd-93c5-b3777539fa95", "description": "Malicious code in terser-aldebaran-run-script-websockets (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34750"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

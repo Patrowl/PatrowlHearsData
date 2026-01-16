@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197397", "enisaUuid": "d65110dd-3f5c-38e3-9553-ba193e28e1fd", "description": "Malicious code in dhpm2 (npm)", "datePublished": "2025-10-26T19:03:27", "dateUpdated": "2025-10-26T19:03:27", "baseScore": 0.0, "aliases": ["MAL-2025-48671"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

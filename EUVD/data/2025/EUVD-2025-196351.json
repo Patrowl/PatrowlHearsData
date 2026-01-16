@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196351", "enisaUuid": "d418f559-1979-3732-952e-9df7845b7eaa", "description": "Malicious code in webdriver-mocha-brane-request-sagitta (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46599"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

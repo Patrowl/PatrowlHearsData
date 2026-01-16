@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164306", "enisaUuid": "e73421d4-2ee2-3239-960f-d4d1602d5893", "description": "Malicious code in erlstats (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19785"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

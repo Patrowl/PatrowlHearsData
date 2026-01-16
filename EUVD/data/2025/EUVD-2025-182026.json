@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182026", "enisaUuid": "42420780-8cd9-323b-bfe7-1339cce36393", "description": "Malicious code in ringcentral-web-modules (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32241"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

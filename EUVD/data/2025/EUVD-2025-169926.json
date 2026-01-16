@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169926", "enisaUuid": "b7deb029-6f9a-3212-bfb8-3ec524af5331", "description": "Malicious code in link-rest-client (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25397"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

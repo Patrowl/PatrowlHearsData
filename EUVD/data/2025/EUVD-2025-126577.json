@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126577", "enisaUuid": "f767be63-6659-3172-9460-5bc2e686a28d", "description": "Malicious code in arkose-labs-react-native-example (npm)", "datePublished": "2025-03-28T12:38:53", "dateUpdated": "2025-05-22T14:07:46", "baseScore": 0.0, "aliases": ["MAL-2025-2836"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

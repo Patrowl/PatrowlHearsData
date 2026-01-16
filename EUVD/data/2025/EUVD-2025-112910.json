@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112910", "enisaUuid": "e06bd06f-3650-3508-af1d-222ec05f3f3b", "description": "Malicious code in heka-chromedriver-relay-dorado (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143202"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

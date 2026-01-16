@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168475", "enisaUuid": "8a1380be-0aca-35d1-af30-1c9f45adf18b", "description": "Malicious code in json-search (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23957"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

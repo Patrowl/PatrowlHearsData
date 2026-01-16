@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179233", "enisaUuid": "3fdfe29d-a2ae-33ab-a23f-2b8f8731d888", "description": "Malicious code in duplex-request-astrometry-titan (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186649"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

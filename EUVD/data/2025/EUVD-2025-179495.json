@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179495", "enisaUuid": "9b869e6d-ad4f-3db7-aa5c-735a8021f5ec", "description": "Malicious code in cross-env-vega-native-blazar (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186387"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

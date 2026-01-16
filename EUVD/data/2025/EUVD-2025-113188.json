@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113188", "enisaUuid": "e02b59c6-64b5-3541-ad78-fff746787981", "description": "Malicious code in global-await-version-prettier-stylelint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142924"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

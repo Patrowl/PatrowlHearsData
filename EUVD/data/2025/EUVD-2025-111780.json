@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111780", "enisaUuid": "75120e1d-275a-3193-a892-a799f4a32581", "description": "Malicious code in less-loader-stream-publish-aurora (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144333"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

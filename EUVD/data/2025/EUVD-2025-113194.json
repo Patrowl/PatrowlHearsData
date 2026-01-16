@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113194", "enisaUuid": "26cf73ef-2f67-393a-a00d-55c8e9d3b80b", "description": "Malicious code in gemini-server-ini-sagitta (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142918"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

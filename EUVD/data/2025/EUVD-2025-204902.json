@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-204902", "enisaUuid": "c17f1dc6-f0a5-3ce6-be15-5275c3251075", "description": "Malicious code in elf-stats-jolly-snowglobe-266 (npm)", "datePublished": "2025-12-23T08:08:32", "dateUpdated": "2025-12-24T00:53:16", "baseScore": 0.0, "aliases": ["MAL-2025-192773"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

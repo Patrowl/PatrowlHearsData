@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124826", "enisaUuid": "bf870972-cb84-3bc0-b621-a3c9640323d5", "description": "Malicious code in mocha-sedna-css-minimizer-webpack-plugin-perseus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145092"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

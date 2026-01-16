@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111147", "enisaUuid": "2722c006-f07f-34f9-8fa1-a86f8bf2cfb9", "description": "Malicious code in middleware-weywot-eslint-readable (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144968"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120539", "enisaUuid": "018a1295-15fd-32dd-9d56-a49733b6fb06", "description": "Malicious code in webpack-bunyan-xo-babel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149390"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

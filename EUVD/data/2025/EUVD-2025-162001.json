@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162001", "enisaUuid": "b8575d8c-a426-341b-95ec-ca516e3873ab", "description": "Malicious code in consul-lock-sessions (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17502"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

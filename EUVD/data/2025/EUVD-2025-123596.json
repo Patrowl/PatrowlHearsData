@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123596", "enisaUuid": "c0563cff-d4b0-364b-9d06-a6d5e36666c0", "description": "Malicious code in polaris-backend-lynx-quark (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146325"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

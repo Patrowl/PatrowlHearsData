@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123445", "enisaUuid": "ffd63dbd-f75e-33d1-904a-4d6115b28ca4", "description": "Malicious code in prettier-plugin-markdown-backend-hyperion-vortex (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146477"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

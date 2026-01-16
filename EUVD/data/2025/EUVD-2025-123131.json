@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123131", "enisaUuid": "3cd505a3-2360-33f2-b5e7-91a627809ea2", "description": "Malicious code in publish-karma-ora-node-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146791"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

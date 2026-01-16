@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116294", "enisaUuid": "b4329ba2-5755-3365-bb1a-e0dc1f3f4161", "description": "Malicious code in await-spawn-galaxy-spica (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139808"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

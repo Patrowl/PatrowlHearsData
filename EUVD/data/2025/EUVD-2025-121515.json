@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121515", "enisaUuid": "772582c8-fe86-3a62-b67e-6ad23bada62f", "description": "Malicious code in sync-adonis-rate-limiter-command (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148413"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

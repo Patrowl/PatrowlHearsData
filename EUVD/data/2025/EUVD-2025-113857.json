@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113857", "enisaUuid": "f71d26a7-8853-3e69-a490-69c4a5721b0d", "description": "Malicious code in eslint-transform-terser-oberon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142253"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

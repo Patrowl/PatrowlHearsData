@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111598", "enisaUuid": "8aab4a35-aa82-38b8-bb3a-0bc0b7e5ecea", "description": "Malicious code in loglevel-postcss-pm2-rollup (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144517"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

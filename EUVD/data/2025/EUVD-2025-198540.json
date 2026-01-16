@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-198540", "enisaUuid": "e146e7de-0f70-38d4-b1b1-ccde35e14802", "description": "Malicious code in airbnb-react-router-legacy-v3 (npm)", "datePublished": "2025-11-22T10:03:05", "dateUpdated": "2025-11-24T16:09:27", "baseScore": 0.0, "aliases": ["MAL-2025-190605"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

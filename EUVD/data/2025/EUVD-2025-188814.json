@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188814", "enisaUuid": "1eb8c47d-4302-30d7-a105-8be15276a852", "description": "Malicious code in webpack-optimize-css-assets-webpack-plugin-xenon-enif (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39028"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

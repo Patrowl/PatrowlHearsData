@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124782", "enisaUuid": "4e7386d7-92ed-372b-bbdd-f492dd27785c", "description": "Malicious code in mongodb-postcss-loader-async-scorpius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145136"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182395", "enisaUuid": "6f023034-2856-39e4-b563-8b93e1e762a7", "description": "Malicious code in sadr-cache-update-module (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32610"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

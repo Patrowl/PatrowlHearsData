@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120577", "enisaUuid": "0ae92ce5-9f97-3bd0-b1f6-43a576f6089b", "description": "Malicious code in webdriver-mocha-leda-prettier-oberon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149352"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

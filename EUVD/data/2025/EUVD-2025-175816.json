@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175816", "enisaUuid": "2af5fc91-fc15-3936-96d0-126a1c85bbae", "description": "Malicious code in unix-web-export-key-data (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190059"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

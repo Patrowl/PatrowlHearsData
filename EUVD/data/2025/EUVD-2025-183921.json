@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183921", "enisaUuid": "bf6e8fd9-1d9c-3b99-b5c2-44c12f29e775", "description": "Malicious code in subduction-node-config-event-browserify (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34136"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

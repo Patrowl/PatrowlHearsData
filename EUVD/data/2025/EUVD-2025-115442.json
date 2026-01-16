@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115442", "enisaUuid": "fd8deb1c-d728-3eb3-974d-86ecff1def1d", "description": "Malicious code in changelog-concurrently-sync-antares (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140665"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

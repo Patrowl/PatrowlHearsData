@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124699", "enisaUuid": "28004417-1d68-3087-bb9c-5f3cadf6a40b", "description": "Malicious code in mutation-configstore-fetch-polaris (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145219"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

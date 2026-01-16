@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191029", "enisaUuid": "fe04dfa8-0904-331d-b697-1a201fc5f742", "description": "Malicious code in @navify-platform/idle (npm)", "datePublished": "2025-08-20T15:06:05", "dateUpdated": "2025-08-20T15:06:05", "baseScore": 0.0, "aliases": ["MAL-2025-41251"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

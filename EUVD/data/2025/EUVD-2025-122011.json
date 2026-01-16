@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122011", "enisaUuid": "2fc7fb08-fc9a-321e-bd0f-b1a84c0b4b5e", "description": "Malicious code in shelljs-europa-cosmiconfig-concurrently (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147912"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

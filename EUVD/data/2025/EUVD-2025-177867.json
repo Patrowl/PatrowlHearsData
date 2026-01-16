@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177867", "enisaUuid": "7613e4bf-757d-30b1-b5f0-f93194ca65de", "description": "Malicious code in meteor-cache-fomalhaut-winston (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188015"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

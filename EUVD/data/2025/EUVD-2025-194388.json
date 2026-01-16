@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194388", "enisaUuid": "c5e6d0d3-0cef-3509-96c1-f297533d864d", "description": "Malicious code in html-webpack-plugin-babel-express-inquirer (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44635"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120903", "enisaUuid": "eb58a9cf-01d2-3c9f-bfce-9294430a20cf", "description": "Malicious code in upgrade-pegasus-chalk-fomalhaut (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149026"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

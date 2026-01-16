@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196128", "enisaUuid": "4b66f9d1-fcad-31b2-8c94-6532cd125972", "description": "Malicious code in triton-gulp-stop-cryptography (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46376"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

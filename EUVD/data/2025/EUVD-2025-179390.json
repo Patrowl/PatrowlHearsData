@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179390", "enisaUuid": "ff354aea-1545-3cf6-8770-7c094acfe836", "description": "Malicious code in data-omicron-static-quick-serialize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186492"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

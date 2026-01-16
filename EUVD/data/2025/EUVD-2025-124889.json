@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124889", "enisaUuid": "b9ab9dae-4fb1-386c-94ee-bfd51109e1da", "description": "Malicious code in miranda-dotenv-parse-variables-middleware-link (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145029"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

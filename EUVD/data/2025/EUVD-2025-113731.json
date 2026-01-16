@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113731", "enisaUuid": "56ac1157-773c-363e-8950-0602e23515c1", "description": "Malicious code in express-ini-soap-local (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142379"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181619", "enisaUuid": "b905626d-9198-3a31-8eca-15534794f88a", "description": "Malicious code in react-on-liferay (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31834"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

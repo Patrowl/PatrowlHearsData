@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115359", "enisaUuid": "2eca1d27-ad34-3b49-a16b-2378ae4ef0e1", "description": "Malicious code in child-process-graphql-unuk-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140748"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

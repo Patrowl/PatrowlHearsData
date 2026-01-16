@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165526", "enisaUuid": "70484a55-0ef1-3dd8-b57c-00f4db856a8c", "description": "Malicious code in fs-filter (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21007"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

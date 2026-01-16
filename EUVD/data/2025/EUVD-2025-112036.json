@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112036", "enisaUuid": "4f35d1c0-354e-3445-9265-b597b5ba047a", "description": "Malicious code in jwt-json-commitlint-config-angular-quark (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144077"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

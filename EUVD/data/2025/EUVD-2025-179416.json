@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179416", "enisaUuid": "04316b02-ec95-3f14-9cc2-193dfeb47c63", "description": "Malicious code in daemon-old-mu-interpret-deserialize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186466"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

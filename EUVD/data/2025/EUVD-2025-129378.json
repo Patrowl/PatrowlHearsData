@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129378", "enisaUuid": "3770c0aa-936a-3e6b-907c-30efc8d96959", "description": "Malicious code in @virtru-private/infer-web-env (npm)", "datePublished": "2025-07-07T15:52:33", "dateUpdated": "2025-07-07T16:07:28", "baseScore": 0.0, "aliases": ["MAL-2025-5650"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

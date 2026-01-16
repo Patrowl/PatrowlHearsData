@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162397", "enisaUuid": "4c7bd2b6-02f2-3472-b14f-f15e6dd71de4", "description": "Malicious code in cypress-weywot-pipe-sqlite (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17898"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75838", "enisaUuid": "b894d911-c16f-31e8-b2ce-aa499268c8f5", "description": "Malicious code in relative_toucan-smiletea (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-107844"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

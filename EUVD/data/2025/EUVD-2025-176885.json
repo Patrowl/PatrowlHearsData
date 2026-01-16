@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176885", "enisaUuid": "dc1a6d1f-1948-3159-aaa7-1a127a8b42df", "description": "Malicious code in pyxis-hercules-scripts-request (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188990"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

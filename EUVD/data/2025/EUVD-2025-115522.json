@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115522", "enisaUuid": "9d0099c7-13e2-35f7-b907-28afc82e0a58", "description": "Malicious code in chai-bunyan-gacrux-docusaurus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140585"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

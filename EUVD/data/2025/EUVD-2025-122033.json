@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122033", "enisaUuid": "e3c8a034-e962-31d7-a47c-cdc7b594edd1", "description": "Malicious code in server-astro-publish-capella (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147890"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

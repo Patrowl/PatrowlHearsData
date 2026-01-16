@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121692", "enisaUuid": "5b1f260a-04e2-3378-a2de-52152fc3acb2", "description": "Malicious code in sqlite-npm-uglify-js-airbnb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148233"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

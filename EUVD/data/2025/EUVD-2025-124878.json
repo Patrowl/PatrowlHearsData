@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124878", "enisaUuid": "05cf9db5-b87a-36d1-87f3-a09a96d3253c", "description": "Malicious code in miranda-janus-lynx-resolvers (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145040"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

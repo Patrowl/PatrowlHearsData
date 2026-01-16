@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111217", "enisaUuid": "198b5ac5-4cbd-39be-9ed7-806ee6e13c6f", "description": "Malicious code in meteor-apollo-upgrade-zenobia (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144898"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

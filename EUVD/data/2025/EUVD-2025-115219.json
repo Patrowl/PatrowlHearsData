@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115219", "enisaUuid": "8b11191f-20ab-31af-8db5-8ec1d1aff258", "description": "Malicious code in comet-proxima-csv-release-it (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140889"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

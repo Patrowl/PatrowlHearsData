@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161372", "enisaUuid": "93d38a27-4775-3cb0-91ed-e44e84d970ea", "description": "Malicious code in che-theia-ssh-extension (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16871"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

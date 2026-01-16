@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193674", "enisaUuid": "183229ab-d1b5-345c-91e7-3a18eaf38f81", "description": "Malicious code in cygnus-dotenv-parse-variables-pm2-sequelize (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43921"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

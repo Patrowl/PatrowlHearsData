@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-88873", "enisaUuid": "3fd8cdc7-4b6e-3f0f-b1e8-4477b2de47d9", "description": "Malicious code in sensitive_leech_z3n (npm)", "datePublished": "2025-11-11T15:19:32", "dateUpdated": "2025-11-11T15:19:32", "baseScore": 0.0, "aliases": ["MAL-2025-117011"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

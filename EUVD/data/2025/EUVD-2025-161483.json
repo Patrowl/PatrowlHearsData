@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161483", "enisaUuid": "bfafa075-c91e-31a2-9250-f5fa0cfb67a1", "description": "Malicious code in childprocess-tracker (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16982"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

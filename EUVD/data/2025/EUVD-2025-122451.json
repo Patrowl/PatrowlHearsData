@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122451", "enisaUuid": "4912d1f5-f522-3621-b13e-a603f89b6b10", "description": "Malicious code in rocket-jwt-webdriver-mocha-sirius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147471"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

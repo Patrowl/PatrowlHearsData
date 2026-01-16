@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178732", "enisaUuid": "3bb2b6db-c43b-3ccf-8850-ad428ed5775f", "description": "Malicious code in genomics-upgrade-webpack-bellatrix (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187150"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

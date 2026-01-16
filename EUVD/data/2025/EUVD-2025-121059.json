@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121059", "enisaUuid": "a2863b1b-339a-3e57-97f4-ee9344f122c6", "description": "Malicious code in uglify-js-child-process-meissa-firebase (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148869"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

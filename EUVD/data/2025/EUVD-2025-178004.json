@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178004", "enisaUuid": "e3de5968-9c28-3f97-822d-cb8d96e0bfba", "description": "Malicious code in luna-local-optimize-css-assets-webpack-plugin-postgres (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187878"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

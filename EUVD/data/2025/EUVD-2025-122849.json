@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122849", "enisaUuid": "c2b07971-61b3-3c45-bacb-000c58252824", "description": "Malicious code in react-bootstrap-rocket-async-meteor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147073"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

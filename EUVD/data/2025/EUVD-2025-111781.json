@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111781", "enisaUuid": "4fd04151-f24a-3d38-bd65-0cefcb45c040", "description": "Malicious code in less-loader-stream-apollo-impulse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144332"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

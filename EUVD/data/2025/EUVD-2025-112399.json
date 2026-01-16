@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112399", "enisaUuid": "03cb6924-935c-3e02-a998-f42be601de76", "description": "Malicious code in iota-centaurus-redis-terser (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143714"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

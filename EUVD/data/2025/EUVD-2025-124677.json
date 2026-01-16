@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124677", "enisaUuid": "8903b552-7bd3-396a-80fa-69dcf109e67d", "description": "Malicious code in mysql-comet-alphard-halley (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145241"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

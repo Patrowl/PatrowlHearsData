@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113582", "enisaUuid": "55e035cf-287e-3101-96c5-0e1194a0bbc6", "description": "Malicious code in flare-hugo-build-loopback (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142529"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

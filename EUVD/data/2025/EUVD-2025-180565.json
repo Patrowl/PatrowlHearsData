@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180565", "enisaUuid": "a24b108b-5809-3d7a-b229-80c400ec4dff", "description": "Malicious code in puppeteer-dactyl-backend-zenith (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-30854"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

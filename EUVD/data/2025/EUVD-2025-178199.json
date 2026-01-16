@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178199", "enisaUuid": "801a37f4-845a-390a-86fc-20817045285c", "description": "Malicious code in key-notify-stack-water-module (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187683"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

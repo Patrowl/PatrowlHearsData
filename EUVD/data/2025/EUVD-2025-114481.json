@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114481", "enisaUuid": "f7ef2797-4744-3ed8-a044-82360ca9c43e", "description": "Malicious code in development-query-pm2-uglify-js (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141628"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

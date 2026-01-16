@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188809", "enisaUuid": "0ddab12b-8b70-3039-8aae-a9bf1c7dddbd", "description": "Malicious code in webpack-jupiter-nova-graphql (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39023"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76912", "enisaUuid": "43e619f5-4d62-3645-806b-912c11988f7a", "description": "Malicious code in expensive_snipe-apptea (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-102375"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

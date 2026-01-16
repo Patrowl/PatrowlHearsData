@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-82326", "enisaUuid": "7c403ed4-9a12-3b59-b52c-6a56a7514579", "description": "Malicious code in crosby-validator-catalyst (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-101094"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

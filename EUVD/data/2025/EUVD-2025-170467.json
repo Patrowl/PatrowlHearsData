@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170467", "enisaUuid": "243f4c14-307f-3d54-b40b-da587c102a5a", "description": "Malicious code in markdown-it-embed (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25938"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

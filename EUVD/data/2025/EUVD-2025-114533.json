@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114533", "enisaUuid": "bdacb2b2-6a24-3952-87f1-abc7f225f305", "description": "Malicious code in dependencies-neptune-update-supervisor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141576"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

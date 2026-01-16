@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195258", "enisaUuid": "84df05ad-0c25-3f45-99f9-85b8babcd3a1", "description": "Malicious code in parse-logger (npm)", "datePublished": "2025-09-05T16:38:20", "dateUpdated": "2025-09-05T16:38:20", "baseScore": 0.0, "aliases": ["MAL-2025-45506"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

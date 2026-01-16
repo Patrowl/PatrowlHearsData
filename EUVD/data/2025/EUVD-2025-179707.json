@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179707", "enisaUuid": "d4eb1d09-530b-3d73-9330-8b7d8eca0a62", "description": "Malicious code in cloud-user-static-promise-stub (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186175"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

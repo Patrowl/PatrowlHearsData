@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191589", "enisaUuid": "ed8fbfdd-9ce2-3818-8c20-ae1ddf2a32f9", "description": "Malicious code in @axaclient-socle-front/redux-helpers (npm)", "datePublished": "2025-08-25T18:30:56", "dateUpdated": "2025-08-25T18:30:56", "baseScore": 0.0, "aliases": ["MAL-2025-41823"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

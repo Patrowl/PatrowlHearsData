@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120016", "enisaUuid": "d8683ec7-3f0d-3bca-8aa0-bfceb2a73e91", "description": "Malicious code in net_halibut_azure-65 (npm)", "datePublished": "2025-11-12T04:37:36", "dateUpdated": "2025-11-12T04:37:36", "baseScore": 0.0, "aliases": ["MAL-2025-145407"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

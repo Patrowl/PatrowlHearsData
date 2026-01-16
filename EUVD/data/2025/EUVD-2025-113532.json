@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113532", "enisaUuid": "67f3d518-c49f-3e43-9ab0-ab539e0ddfad", "description": "Malicious code in fork-carpo-commitlint-gulp (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142580"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122876", "enisaUuid": "c1f995db-c18c-3d2d-abbc-4d5783b2260a", "description": "Malicious code in rate-limiter-postcss-vega-chromedriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147046"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

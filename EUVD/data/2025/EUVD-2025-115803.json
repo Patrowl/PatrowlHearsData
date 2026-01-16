@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115803", "enisaUuid": "4ea5926f-b522-394a-a4a6-ce55286149d8", "description": "Malicious code in callback-package-apollo-chariklo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140303"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

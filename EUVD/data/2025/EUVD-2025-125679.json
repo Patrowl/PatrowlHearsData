@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125679", "enisaUuid": "44e6cc55-056b-39b6-b406-3ef07f13c617", "description": "Malicious code in sdk-coin-near (npm)", "datePublished": "2025-03-03T13:39:12", "dateUpdated": "2025-03-03T13:39:12", "baseScore": 0.0, "aliases": ["MAL-2025-1937"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

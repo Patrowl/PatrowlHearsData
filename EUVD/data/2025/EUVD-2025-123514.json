@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123514", "enisaUuid": "b240b2e9-bd7e-32db-9e30-be77fee0ba85", "description": "Malicious code in postcss-loader-sagitta-dynamo-altair (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146407"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

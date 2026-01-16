@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188242", "enisaUuid": "23b0ef3a-e21f-3b19-a855-d082fa962069", "description": "Malicious code in virtualize-balance-lambda-pipe-validate (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38454"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

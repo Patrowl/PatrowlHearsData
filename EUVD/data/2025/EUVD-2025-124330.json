@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124330", "enisaUuid": "84be3f03-cf91-3420-a330-5213b2375f91", "description": "Malicious code in nodemon-procyon-async-gatsby (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145591"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

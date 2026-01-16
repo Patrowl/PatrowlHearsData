@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191272", "enisaUuid": "5d532355-3ae3-36d8-91f6-e643584c745f", "description": "Malicious code in @twork-data-services/proxy-get-client-id-by-acc-number (npm)", "datePublished": "2025-08-28T07:16:44", "dateUpdated": "2025-08-28T07:16:44", "baseScore": 0.0, "aliases": ["MAL-2025-41503"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

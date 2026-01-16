@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181808", "enisaUuid": "f7fc5a94-8d9b-3d35-8b2c-5dfa968e9212", "description": "Malicious code in registry-oauth-vortex-hapi (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32023"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191837", "enisaUuid": "efa6b1a6-0af9-3e5c-a211-963c0e6a2eeb", "description": "Malicious code in safe-winston (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-42076"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

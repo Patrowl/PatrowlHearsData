@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153613", "enisaUuid": "00b73133-a114-3116-a445-e6ff86d47480", "description": "Malicious code in @neednova/credit-passport-supply (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-29T06:43:16", "baseScore": 0.0, "aliases": ["MAL-2025-9112"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

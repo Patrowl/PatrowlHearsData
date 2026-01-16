@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162144", "enisaUuid": "f44a40f2-da01-3518-8b6b-8c04fee15701", "description": "Malicious code in cp-image-crop (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17645"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

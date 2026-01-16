@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112630", "enisaUuid": "0f4a3ae0-7b43-35be-930b-16a733dfccc0", "description": "Malicious code in hyperion-jsonp-rimraf-hapi (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143482"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

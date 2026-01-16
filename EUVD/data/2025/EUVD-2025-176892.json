@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176892", "enisaUuid": "906c6e8d-d7ef-30a9-9dcd-f429b240f23c", "description": "Malicious code in puppeteer-prettier-stylelint-cluster-delphinus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188983"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

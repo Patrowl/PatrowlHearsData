@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175930", "enisaUuid": "d9e7aca2-09ad-3144-ba40-b0e1d8ce27b4", "description": "Malicious code in toml-csrf-quark-geodynamo (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189945"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

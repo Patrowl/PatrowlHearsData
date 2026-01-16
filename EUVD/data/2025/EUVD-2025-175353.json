@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175353", "enisaUuid": "60c009ca-e4e2-39a3-8383-14bb912d5b9b", "description": "Malicious code in ember-addon-with-dependencies (npm)", "datePublished": "2025-11-11T03:32:44", "dateUpdated": "2025-11-13T18:10:20", "baseScore": 0.0, "aliases": ["MAL-2025-76661"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

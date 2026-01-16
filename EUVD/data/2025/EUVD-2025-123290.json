@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123290", "enisaUuid": "a9ea7c06-4f57-3efe-b793-c250b2505a5f", "description": "Malicious code in promise-antares-nconf-elara (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146632"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

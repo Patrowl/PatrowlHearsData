@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116006", "enisaUuid": "9b7dd7d2-a799-38ae-8a8d-9e0becc0a52c", "description": "Malicious code in bootstrap-arcturus-helios-pino (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140096"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

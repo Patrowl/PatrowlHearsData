@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129531", "enisaUuid": "ecf48c80-1989-33ac-a9df-112360c41759", "description": "Malicious code in @tui-react-internal/select-account-icon (npm)", "datePublished": "2025-07-10T19:25:05", "dateUpdated": "2025-07-10T19:25:05", "baseScore": 0.0, "aliases": ["MAL-2025-5803"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

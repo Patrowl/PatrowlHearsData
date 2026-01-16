@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179599", "enisaUuid": "ef229f2d-c9e0-3e6c-87e2-7b2e5bfac58c", "description": "Malicious code in configstore-eslint-config-celeste-archaeometry (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186283"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

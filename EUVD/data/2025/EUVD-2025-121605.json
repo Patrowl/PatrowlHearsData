@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121605", "enisaUuid": "223c39e7-df80-342f-8524-9491f3ef157e", "description": "Malicious code in stream-jasmine-global-hydra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148320"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

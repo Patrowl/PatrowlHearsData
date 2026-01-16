@@ -1,0 +1,1 @@
+{"id": "EUVD-2026-0021", "enisaUuid": "3b9783d0-6829-3979-a933-fc3da991fb0d", "description": "Malicious code in rules-deployer (npm)", "datePublished": "2026-01-01T16:52:37", "dateUpdated": "2026-01-01T16:52:37", "baseScore": 0.0, "aliases": ["MAL-2026-3"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

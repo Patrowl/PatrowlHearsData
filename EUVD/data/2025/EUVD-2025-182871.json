@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182871", "enisaUuid": "bcaec5c0-4336-37cc-90c8-37e7aaef567d", "description": "Malicious code in shelljs-eleventy-fetch-aether (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33086"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111492", "enisaUuid": "aafff36a-aa34-3d89-8c5d-8ec750da4e3a", "description": "Malicious code in magellan-auth0-markdownlint-puppeteer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144623"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

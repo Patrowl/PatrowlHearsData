@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124775", "enisaUuid": "ccc013c4-0aaf-3a7e-ac5f-84eb62854da3", "description": "Malicious code in mongodb-winston-jovian-eclipse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145143"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

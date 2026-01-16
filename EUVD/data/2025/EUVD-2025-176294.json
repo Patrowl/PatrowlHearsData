@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176294", "enisaUuid": "bd9a6ce7-193b-3c79-b2df-6c2f67f0a030", "description": "Malicious code in socketio-webdriver-mocha-kinetic-quantum (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189581"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

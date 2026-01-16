@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122724", "enisaUuid": "ca2da426-07f3-3941-894b-6048d675d497", "description": "Malicious code in relay-cli-altair-forever (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147198"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

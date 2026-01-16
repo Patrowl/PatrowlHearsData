@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120125", "enisaUuid": "a61463f9-54c8-33c8-935d-2bb0c9af41f0", "description": "Malicious code in yildun-build-install-socketio (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149807"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

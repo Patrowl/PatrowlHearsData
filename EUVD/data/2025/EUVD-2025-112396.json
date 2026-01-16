@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112396", "enisaUuid": "a69b319c-c02c-33d6-a961-d623e70dad80", "description": "Malicious code in iota-cross-env-socketio-child-process (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143717"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

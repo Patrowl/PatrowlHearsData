@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179739", "enisaUuid": "6029a012-65a5-33a6-8a5e-d4d6a40b38b8", "description": "Malicious code in child-process-concurrently-chakra-ui-node-sass (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186143"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

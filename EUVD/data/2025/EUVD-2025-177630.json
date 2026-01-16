@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177630", "enisaUuid": "d195ac17-120a-3e7c-8823-0765ac28fade", "description": "Malicious code in neutronstar-native-dynamo-hydra (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188252"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

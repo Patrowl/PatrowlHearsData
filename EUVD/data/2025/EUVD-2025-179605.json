@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179605", "enisaUuid": "d0d91cae-e5d0-36a8-8738-34e92bafe281", "description": "Malicious code in config-event-install-lacerta (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186277"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

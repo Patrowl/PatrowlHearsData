@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173992", "enisaUuid": "db93c83e-5675-3bc4-9b31-11e5cd540396", "description": "Malicious code in pokemon-module (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29463"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

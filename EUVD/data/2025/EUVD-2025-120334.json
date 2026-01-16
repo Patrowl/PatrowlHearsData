@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120334", "enisaUuid": "6f4ac2a1-11af-3efc-a939-ad2136db10e3", "description": "Malicious code in xanadu-helios-webdriver-manager-uninstall (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149597"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

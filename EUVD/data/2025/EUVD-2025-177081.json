@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177081", "enisaUuid": "310b8f99-1315-3a9a-ba6d-5879f9284593", "description": "Malicious code in prettier-cordelia-npm-toml (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188794"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

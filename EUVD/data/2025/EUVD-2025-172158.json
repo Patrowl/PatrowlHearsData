@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172158", "enisaUuid": "9fc6a55e-ed5c-350b-b71a-f3eedb4ab237", "description": "Malicious code in node-laravel-session-ahss-testing (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27629"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

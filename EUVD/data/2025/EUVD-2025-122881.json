@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122881", "enisaUuid": "2309792f-5405-3121-a528-f80ad97eedeb", "description": "Malicious code in rate-limiter-jwt-webdriver-mocha-dotenv (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147041"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

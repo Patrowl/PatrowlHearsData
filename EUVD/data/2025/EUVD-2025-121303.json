@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121303", "enisaUuid": "deec5a65-3e27-3f92-ae7b-c7909eca2891", "description": "Malicious code in tethys-non-blocking-hexo-spinner (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148625"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

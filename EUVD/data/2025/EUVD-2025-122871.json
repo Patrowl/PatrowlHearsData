@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122871", "enisaUuid": "be13c15e-507e-3c8b-be80-06f22e73d854", "description": "Malicious code in react-bootstrap-auth0-quito-sedna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147051"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191723", "enisaUuid": "aea5b9bf-ecca-3bd3-ab85-a53bf2607ecf", "description": "Malicious code in contentful-app-entry-localization-matrix (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-41957"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

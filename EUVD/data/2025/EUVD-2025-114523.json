@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114523", "enisaUuid": "ce5754ab-eca5-35c7-9540-6a060892df4b", "description": "Malicious code in dependencies-thuban-gulp-command (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141586"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

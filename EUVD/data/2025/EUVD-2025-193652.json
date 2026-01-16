@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193652", "enisaUuid": "4b10f7b4-c01f-3305-883f-678d12f9b77c", "description": "Malicious code in cosmiconfig-build-javascript-ini (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43899"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

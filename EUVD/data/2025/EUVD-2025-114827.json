@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114827", "enisaUuid": "fb0b5673-e164-3de9-a7f8-985f8987aa54", "description": "Malicious code in csrf-cressida-graphql-rest (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141282"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121870", "enisaUuid": "59565772-983b-3c73-a7a7-be45d309c9a9", "description": "Malicious code in socketio-less-pino-promise (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148055"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

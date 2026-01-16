@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129862", "enisaUuid": "43e54238-f507-365a-8ed0-e4949be883da", "description": "Malicious code in vue4-google-auth (npm)", "datePublished": "2025-07-21T16:58:05", "dateUpdated": "2025-07-21T16:58:05", "baseScore": 0.0, "aliases": ["MAL-2025-6135"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

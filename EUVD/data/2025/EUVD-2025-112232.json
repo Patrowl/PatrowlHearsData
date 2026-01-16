@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112232", "enisaUuid": "419cd0b1-6dd7-397c-a48c-e919b69cc997", "description": "Malicious code in javascript-loglevel-chalk-soap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143881"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

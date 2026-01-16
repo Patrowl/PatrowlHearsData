@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159080", "enisaUuid": "8aa4c871-11ce-323d-a92a-78152d86eb1c", "description": "Malicious code in antares-geoarchaeology-robotics-geckodriver (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14579"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

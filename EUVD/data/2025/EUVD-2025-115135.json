@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115135", "enisaUuid": "fb63509c-cd1b-3f33-8848-86528b4d38af", "description": "Malicious code in commitlint-config-angular-ultra-bellatrix-mdx (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140973"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

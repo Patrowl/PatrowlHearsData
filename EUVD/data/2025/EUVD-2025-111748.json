@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111748", "enisaUuid": "65049d51-8db5-3c17-9130-5b231c10d7cf", "description": "Malicious code in levels-telesto-eslint-postgres (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144365"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

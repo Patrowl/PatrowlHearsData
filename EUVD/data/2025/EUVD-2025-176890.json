@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176890", "enisaUuid": "fb9b89ac-6d4f-3025-aca8-56c244556b1d", "description": "Malicious code in puppeteer-tailwindcss-karma-postcss (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188985"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

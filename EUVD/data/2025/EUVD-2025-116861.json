@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116861", "enisaUuid": "c396c627-0ce1-316e-8e9d-25f03ca36cc2", "description": "Malicious code in aether-redis-eris-slidev (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139241"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

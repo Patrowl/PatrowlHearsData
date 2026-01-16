@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123626", "enisaUuid": "f1a067b2-503b-3317-a4fc-2ee720d533eb", "description": "Malicious code in pm2-cz-conventional-changelog-config-release-it (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146295"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

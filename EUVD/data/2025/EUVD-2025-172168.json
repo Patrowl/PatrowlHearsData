@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172168", "enisaUuid": "f886182d-3a3a-3d84-ac8f-796d1e44c674", "description": "Malicious code in node-postcodeanywhere-api (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27639"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

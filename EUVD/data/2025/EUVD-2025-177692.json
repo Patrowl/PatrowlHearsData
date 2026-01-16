@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177692", "enisaUuid": "c1a8dc22-777a-34af-b331-c75c3c770451", "description": "Malicious code in nconf-gemini-webdriver-mocha-forever (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188190"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160706", "enisaUuid": "7dcc09b7-4163-3e22-90da-9b3a0c81c844", "description": "Malicious code in browserify-robotics-loglevel-stratigraphy (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16205"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130592", "enisaUuid": "b44f132c-274a-3681-b6fa-011866e7007b", "description": "Malicious code in @angular_devkit/build-webpack (npm)", "datePublished": "2025-08-14T04:18:20", "dateUpdated": "2025-08-14T04:18:20", "baseScore": 0.0, "aliases": ["MAL-2025-6870"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123996", "enisaUuid": "b9490781-20d1-3589-96a0-7dde10e7dcc5", "description": "Malicious code in package-bunyan-uninstall-gridsome (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145925"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

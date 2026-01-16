@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125555", "enisaUuid": "5b2900ce-1a47-3005-9a0e-97c0a65b69af", "description": "Malicious code in foxy-node-google-pay-decrypt (npm)", "datePublished": "2025-03-03T13:26:39", "dateUpdated": "2025-03-03T13:26:39", "baseScore": 0.0, "aliases": ["MAL-2025-1812"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

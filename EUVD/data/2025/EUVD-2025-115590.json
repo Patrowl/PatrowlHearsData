@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115590", "enisaUuid": "ad8657dc-bdb4-31f4-aa7f-0ebefca00bc7", "description": "Malicious code in celeste-optimize-css-assets-webpack-plugin-bulma-ini (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140517"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

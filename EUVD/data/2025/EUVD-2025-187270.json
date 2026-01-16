@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187270", "enisaUuid": "fc20f02b-8321-30f6-ad1a-61a46b79bd10", "description": "Malicious code in ucasort (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37482"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

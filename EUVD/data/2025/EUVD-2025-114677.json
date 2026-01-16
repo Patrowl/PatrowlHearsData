@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114677", "enisaUuid": "659b3748-4551-3cb5-8598-0508bdb5614c", "description": "Malicious code in cz-conventional-changelog-request-axios-resolvers (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141432"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

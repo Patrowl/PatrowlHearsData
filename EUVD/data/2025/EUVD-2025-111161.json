@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111161", "enisaUuid": "932d327a-883a-3bc5-97b1-895c8c92ccbc", "description": "Malicious code in middleware-elektra-webdriver-manager-sedna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144954"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

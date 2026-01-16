@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112296", "enisaUuid": "d5e81ee0-1f64-31a4-9a81-752501d69afd", "description": "Malicious code in janus-meissa-async-concurrently (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143817"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

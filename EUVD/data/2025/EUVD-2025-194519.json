@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194519", "enisaUuid": "91784911-4eda-3b60-b9c0-8e76c7843c7f", "description": "Malicious code in javascript-auth0-selenology-blaze (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44766"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

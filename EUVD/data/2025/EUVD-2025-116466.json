@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116466", "enisaUuid": "a658cc86-2226-3237-b330-e8969bfa76a5", "description": "Malicious code in async-procyon-webdriver-manager-private (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139636"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

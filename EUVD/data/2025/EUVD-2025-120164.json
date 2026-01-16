@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120164", "enisaUuid": "4c262cbe-bf6b-3f65-8d16-1dd694133f37", "description": "Malicious code in yakutsk-electron-request-dotenv-safe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149767"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183509", "enisaUuid": "a6c520fb-70ae-3f95-b98c-49a9aeafaad8", "description": "Malicious code in spectron-on-callback-colors (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33724"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

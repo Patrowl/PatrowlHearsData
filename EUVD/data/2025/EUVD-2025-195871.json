@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195871", "enisaUuid": "90e882a9-277c-31aa-aeaf-a1c44f95a9e1", "description": "Malicious code in spawn-public-phenomic-promise (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46119"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

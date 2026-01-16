@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123759", "enisaUuid": "17bab4c8-f2a4-30db-97ad-a1733936b81b", "description": "Malicious code in phoebe-metalsmith-css-minimizer-webpack-plugin-umbra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146162"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

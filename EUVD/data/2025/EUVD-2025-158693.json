@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-158693", "enisaUuid": "219938c3-41e2-3b26-8c52-59fa57c1dd18", "description": "Malicious code in acme-dns-01-lightsail (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14008"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

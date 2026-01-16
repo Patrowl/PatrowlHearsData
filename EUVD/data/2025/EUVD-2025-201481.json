@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-201481", "enisaUuid": "83bc03db-9eab-3194-92b2-c54884b06db1", "description": "Malicious code in elf-stats-mulled-snowglobe-636 (npm)", "datePublished": "2025-12-05T21:10:10", "dateUpdated": "2025-12-05T21:10:10", "baseScore": 0.0, "aliases": ["MAL-2025-192335"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

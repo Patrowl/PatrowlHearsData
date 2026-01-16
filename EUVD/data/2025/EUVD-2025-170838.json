@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170838", "enisaUuid": "5b8ab9b4-dc06-378d-aeed-7c1ee83e05b5", "description": "Malicious code in midway-cache (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26309"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

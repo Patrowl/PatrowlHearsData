@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114442", "enisaUuid": "8a82c436-02f2-399e-84c4-ffacfe7f872c", "description": "Malicious code in docusaurus-hyperion-postcss-jwt (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141667"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

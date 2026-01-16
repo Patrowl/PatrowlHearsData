@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115337", "enisaUuid": "9e74a742-040b-31fb-841e-7e5929301bdb", "description": "Malicious code in chromedriver-farout-link-registry (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140770"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

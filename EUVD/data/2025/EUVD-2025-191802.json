@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191802", "enisaUuid": "c81b3f13-c039-3d7c-beb3-058745a2e127", "description": "Malicious code in node-logflow (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-42037"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

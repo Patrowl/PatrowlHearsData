@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115340", "enisaUuid": "afc7bf2e-0446-3378-ac5a-a01add7276ea", "description": "Malicious code in chromedriver-dione-server-sqlite (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140767"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

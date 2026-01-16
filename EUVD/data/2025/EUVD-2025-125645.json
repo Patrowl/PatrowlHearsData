@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125645", "enisaUuid": "97b5c846-9ff2-3fcc-af8c-fdbb7461b9e4", "description": "Malicious code in mev-sdk (npm)", "datePublished": "2025-03-03T13:32:28", "dateUpdated": "2025-03-03T13:32:28", "baseScore": 0.0, "aliases": ["MAL-2025-1903"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

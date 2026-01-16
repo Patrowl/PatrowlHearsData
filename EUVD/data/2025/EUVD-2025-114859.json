@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114859", "enisaUuid": "c9b96aa3-03d6-3b9f-8a82-10cee0c86b07", "description": "Malicious code in cross-env-csv-sedna-bunyan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141250"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

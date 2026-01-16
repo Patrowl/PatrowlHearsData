@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178904", "enisaUuid": "de4e5fdd-23f2-3368-b0b6-7ea556876ddf", "description": "Malicious code in final-daemon-route-boolean-permission (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186978"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

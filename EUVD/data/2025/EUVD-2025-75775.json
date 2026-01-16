@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75775", "enisaUuid": "35aed039-7904-34fd-9fbc-f20f7cfc7bc9", "description": "Malicious code in round_panther-silentdev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-108216"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

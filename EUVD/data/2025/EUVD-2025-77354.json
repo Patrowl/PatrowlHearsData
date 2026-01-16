@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77354", "enisaUuid": "8f0590a2-c3b0-3c11-b8e3-9bff43e184aa", "description": "Malicious code in chemical_butterfly-appteadev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-100370"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

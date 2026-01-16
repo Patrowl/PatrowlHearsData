@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-33152", "enisaUuid": "c6044d4a-80f8-3fed-8807-148df24ee208", "description": "Malicious code in cors-init (npm)", "datePublished": "2025-10-02T05:18:22", "dateUpdated": "2025-10-02T05:18:22", "baseScore": 0.0, "aliases": ["MAL-2025-47872"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

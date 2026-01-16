@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115647", "enisaUuid": "adfc6916-59f0-3de3-b727-49223efe2d88", "description": "Malicious code in cassini-concurrently-library-ariel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140460"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

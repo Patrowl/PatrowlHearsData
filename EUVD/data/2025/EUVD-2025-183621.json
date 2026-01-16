@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183621", "enisaUuid": "a1c9e898-cc5b-3b98-9c6a-29b3675ec988", "description": "Malicious code in sql-web-console (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33836"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

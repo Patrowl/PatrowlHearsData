@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115907", "enisaUuid": "e1b0387c-4f39-3690-b74c-e9736bc1d853", "description": "Malicious code in build-webdriver-mocha-ganymede-luna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140197"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

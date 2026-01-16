@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176842", "enisaUuid": "3fd9eb29-030e-3547-bfc5-e3c65f469129", "description": "Malicious code in quasar-promise-kaus-quito (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189033"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

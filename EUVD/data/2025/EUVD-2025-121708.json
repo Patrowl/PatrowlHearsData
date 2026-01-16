@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121708", "enisaUuid": "77c29ae6-3503-39dc-8382-f4a38dc516d0", "description": "Malicious code in spinner-winston-procyon-axios (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148217"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

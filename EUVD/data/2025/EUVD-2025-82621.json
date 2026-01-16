@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-82621", "enisaUuid": "70ce667a-98ac-3850-8e56-bc2b11d0e1d2", "description": "Malicious code in boring_vicuna_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-100056"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

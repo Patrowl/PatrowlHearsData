@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112852", "enisaUuid": "fc2ef53a-2b61-34e2-a062-928b8af0a37c", "description": "Malicious code in helmet-public-odin-commitlint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143260"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

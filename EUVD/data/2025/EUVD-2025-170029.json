@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170029", "enisaUuid": "61023f5e-e0ef-316d-841f-711986e6c1b2", "description": "Malicious code in lodache (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25500"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

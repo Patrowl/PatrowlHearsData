@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187049", "enisaUuid": "bda71015-1cf7-39d8-9b88-0edbd07e6e55", "description": "Malicious code in twitch-styles (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37384"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

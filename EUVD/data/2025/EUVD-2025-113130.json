@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113130", "enisaUuid": "f1479e7f-7563-3069-a8db-109b7dd47a6f", "description": "Malicious code in got-prettier-stylelint-server-nextjs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142982"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

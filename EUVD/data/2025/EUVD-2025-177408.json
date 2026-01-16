@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177408", "enisaUuid": "9c2a2826-6297-3b12-87d3-0c41cdb0b633", "description": "Malicious code in orchestrate-process-cache-data-async (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188474"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

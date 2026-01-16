@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180440", "enisaUuid": "1ff6175a-47a8-3a4c-b826-46880676a6d0", "description": "Malicious code in analyze-abstract-hash-code-iota (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185448"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

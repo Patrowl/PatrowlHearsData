@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128780", "enisaUuid": "df31340f-313a-3152-acb3-f412af8a089f", "description": "Malicious code in react-expiry-date (npm)", "datePublished": "2025-06-13T01:31:54", "dateUpdated": "2025-06-13T01:31:54", "baseScore": 0.0, "aliases": ["MAL-2025-5051"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

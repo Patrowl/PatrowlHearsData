@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112914", "enisaUuid": "5b32e698-d54d-3880-ad46-ff874a5a65aa", "description": "Malicious code in hapi-run-script-draco-hermes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143198"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130554", "enisaUuid": "8b431d33-4119-34ed-a62f-7e2511b17eb2", "description": "Malicious code in @sangith/newrelic (npm)", "datePublished": "2025-08-09T11:12:09", "dateUpdated": "2025-08-18T06:10:43", "baseScore": 0.0, "aliases": ["MAL-2025-6832"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

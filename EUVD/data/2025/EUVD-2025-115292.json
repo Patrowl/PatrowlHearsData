@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115292", "enisaUuid": "52619a71-f5ca-3884-98c0-c839e833cf8f", "description": "Malicious code in cli-vuepress-html-webpack-plugin-eris (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140816"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

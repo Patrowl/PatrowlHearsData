@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167347", "enisaUuid": "643235cd-5b80-32be-b9a3-ced4b3a1890e", "description": "Malicious code in hw-timeout-layer (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22829"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

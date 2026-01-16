@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175824", "enisaUuid": "8d73ae3c-8e4a-3905-8b93-4baa272fd28b", "description": "Malicious code in umbriel-transform-corvus-request (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190051"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

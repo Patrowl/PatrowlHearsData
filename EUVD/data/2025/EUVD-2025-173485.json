@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173485", "enisaUuid": "42141475-46aa-3598-b9d6-3b147058c852", "description": "Malicious code in paysera-logger (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28956"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

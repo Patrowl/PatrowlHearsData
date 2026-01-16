@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-54482", "enisaUuid": "dc30c80a-20b3-31df-8877-37d38975e3d1", "description": "Malicious code in expected-fuchsia-salmon (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-68167"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115644", "enisaUuid": "6fdccd29-7c3a-3a4e-ba52-1b2ca88bf169", "description": "Malicious code in cassini-dependencies-leda-sequelize (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140463"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

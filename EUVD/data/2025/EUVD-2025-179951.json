@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179951", "enisaUuid": "6fbd804f-ce71-3cf1-9928-8b10c99d3ba3", "description": "Malicious code in build-perseus-repository-asteroid (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185931"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

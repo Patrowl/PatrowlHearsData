@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-60211", "enisaUuid": "dbeea6b9-9e68-3213-a027-b1685265f0c0", "description": "Malicious code in dependent_takin_z3n (npm)", "datePublished": "2025-11-11T00:17:57", "dateUpdated": "2025-11-11T00:17:57", "baseScore": 0.0, "aliases": ["MAL-2025-62427"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

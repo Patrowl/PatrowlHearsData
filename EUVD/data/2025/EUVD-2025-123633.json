@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123633", "enisaUuid": "a703e8dc-d24f-376c-94ba-7ddfe6df845b", "description": "Malicious code in playwright-wasat-sagitta-xenon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146288"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

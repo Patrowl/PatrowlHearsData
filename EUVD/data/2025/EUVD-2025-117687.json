@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-117687", "enisaUuid": "063ff1da-c889-359f-a737-a760cebce97e", "description": "Malicious code in hard_tick_z3n (npm)", "datePublished": "2025-11-11T22:56:38", "dateUpdated": "2025-11-11T22:56:38", "baseScore": 0.0, "aliases": ["MAL-2025-134105"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

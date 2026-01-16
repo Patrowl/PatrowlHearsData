@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124730", "enisaUuid": "3c396731-1031-3638-8eb9-01763a81ae7b", "description": "Malicious code in morgan-typeorm-auth-bellatrix (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145188"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

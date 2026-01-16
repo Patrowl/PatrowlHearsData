@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113041", "enisaUuid": "e38b8468-aa04-3a87-b019-470ddaf15bf3", "description": "Malicious code in grunt-promise-vuetify-middleware (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143071"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113718", "enisaUuid": "e4b39a89-132c-3575-a364-4c05aeed23c4", "description": "Malicious code in express-titan-andromeda-shelljs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142392"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

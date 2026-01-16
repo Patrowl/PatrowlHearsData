@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191226", "enisaUuid": "eec238b7-7a97-3546-bc2e-47cbb6848a26", "description": "Malicious code in @sfdc-www-emu/clientlibs-web-components (npm)", "datePublished": "2025-08-28T07:15:16", "dateUpdated": "2025-08-28T07:15:16", "baseScore": 0.0, "aliases": ["MAL-2025-41457"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196226", "enisaUuid": "c73a6aab-f581-3ce4-870b-e6d2ad700f7e", "description": "Malicious code in upgrade-react-bootstrap-antares-airbnb (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46474"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

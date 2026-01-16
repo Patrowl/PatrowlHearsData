@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193295", "enisaUuid": "f3a083cc-8d14-34d9-bc23-e8cd0db752d4", "description": "Malicious code in auth-dotenv-halley-prettier-stylelint (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43542"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

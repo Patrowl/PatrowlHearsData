@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122087", "enisaUuid": "92e336f4-84a5-33bb-b0a3-9926c790c038", "description": "Malicious code in semantic-release-sails-webdriver-mocha-npm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147836"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

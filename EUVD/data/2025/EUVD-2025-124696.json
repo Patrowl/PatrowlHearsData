@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124696", "enisaUuid": "c2a5c73c-c7ac-39b0-8679-fed23298967c", "description": "Malicious code in mutation-foundation-mocha-cosmos (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145222"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

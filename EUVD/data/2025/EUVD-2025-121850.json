@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121850", "enisaUuid": "6280ae7f-3032-3358-bf91-699844bd66a0", "description": "Malicious code in solis-graphql-figures-mysql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148075"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116657", "enisaUuid": "d695f4e3-da20-3ae9-95d1-536d15a8b85a", "description": "Malicious code in antares-update-local-wolf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139445"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

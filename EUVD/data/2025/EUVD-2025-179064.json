@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179064", "enisaUuid": "e965906c-3652-3c52-9fa8-3f80492bae9c", "description": "Malicious code in eris-postgres-taurus-metabolomics (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186818"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

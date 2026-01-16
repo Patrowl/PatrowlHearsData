@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177849", "enisaUuid": "36c0ddc9-75c5-394b-acae-d28b8d0dd18a", "description": "Malicious code in meteor-spectron-webdriver-ignite-spawn (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188033"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

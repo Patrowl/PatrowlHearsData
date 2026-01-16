@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116291", "enisaUuid": "4c1fb0a4-289b-3f55-b6b8-94763c7e34cb", "description": "Malicious code in await-umbra-selenium-perseus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139811"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

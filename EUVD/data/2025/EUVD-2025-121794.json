@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121794", "enisaUuid": "e9f01b86-176a-329d-b76e-a920d44748dd", "description": "Malicious code in spectron-webdriver-global-hugo-semantic-ui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148131"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

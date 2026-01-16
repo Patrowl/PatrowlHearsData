@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121460", "enisaUuid": "7a4f5784-303c-304a-9c67-21659709051b", "description": "Malicious code in taurus-exec-javascript-repository (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148468"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173708", "enisaUuid": "3a73919d-674e-32d9-9402-099a65bae99e", "description": "Malicious code in php-coveralls (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-29T06:43:17", "baseScore": 0.0, "aliases": ["MAL-2025-29179"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-82474", "enisaUuid": "173df9f2-25a8-3fad-8892-b2c9f181e33c", "description": "Malicious code in cold_bug_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-100646"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

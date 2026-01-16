@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122171", "enisaUuid": "8960c0ad-ffc8-3fdd-9a58-3ced1d511189", "description": "Malicious code in scripts-webdriver-mocha-promise-loglevel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147751"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

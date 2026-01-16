@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121401", "enisaUuid": "32c25105-0f41-3532-a07f-48b4ff94b8da", "description": "Malicious code in terser-mdx-barnard-buffer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148527"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191515", "enisaUuid": "1754125e-ede5-38e8-bef3-c14d2d7217cd", "description": "Malicious code in reversepkg (PyPI)", "datePublished": "2025-08-28T07:11:47", "dateUpdated": "2025-08-28T07:11:47", "baseScore": 0.0, "aliases": ["MAL-2025-41748"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113972", "enisaUuid": "1ed3ba2a-a64e-3602-90a0-86d61a9c726e", "description": "Malicious code in equinox-wezen-mocha-cors (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142138"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

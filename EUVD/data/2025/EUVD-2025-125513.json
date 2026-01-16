@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125513", "enisaUuid": "e9dd2d7a-e787-31b1-b87e-cd409cf25363", "description": "Malicious code in coinbase-utils (npm)", "datePublished": "2025-03-03T13:22:11", "dateUpdated": "2025-03-03T13:22:11", "baseScore": 0.0, "aliases": ["MAL-2025-1770"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

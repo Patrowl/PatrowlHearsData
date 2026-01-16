@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120562", "enisaUuid": "e582ea86-90b2-3701-ba4a-95e5d54b8dfd", "description": "Malicious code in webdriverio-electron-eris-version (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149367"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120526", "enisaUuid": "881a3d41-8e0a-351b-a591-a222c223ff60", "description": "Malicious code in webpack-postgres-draco-bunyan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149403"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

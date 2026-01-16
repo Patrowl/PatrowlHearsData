@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160885", "enisaUuid": "62c52484-8d31-33ba-a85d-c9c00c5f1d17", "description": "Malicious code in buvfer-xor (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16384"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

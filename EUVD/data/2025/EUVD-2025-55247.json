@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-55247", "enisaUuid": "0a1ac900-c3c8-3ac5-8780-542b2a9053b0", "description": "Malicious code in confident-azure-locust (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-67402"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

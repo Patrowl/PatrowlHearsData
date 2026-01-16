@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123970", "enisaUuid": "29d72439-6ca8-30d4-941e-a163f331a4e4", "description": "Malicious code in parcel-build-castor-prompts (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145951"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

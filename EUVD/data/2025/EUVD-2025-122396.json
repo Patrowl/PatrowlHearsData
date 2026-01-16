@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122396", "enisaUuid": "98f1aaea-ce96-3280-9638-104b5d8f2e8b", "description": "Malicious code in rollup-plugin-wolf-markdownlint-pegasus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147526"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

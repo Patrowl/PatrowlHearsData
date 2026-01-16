@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169385", "enisaUuid": "cff4c296-1fe7-3861-9b37-d95233b69f10", "description": "Malicious code in l3mon-chat (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24856"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

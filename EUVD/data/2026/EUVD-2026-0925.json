@@ -1,0 +1,1 @@
+{"id": "EUVD-2026-0925", "enisaUuid": "b1d55d9b-1c21-33d4-8025-ccf30e11cb8b", "description": "Malicious code in react-transition-group-legacy (npm)", "datePublished": "2026-01-05T21:25:51", "dateUpdated": "2026-01-08T09:13:17", "baseScore": 0.0, "aliases": ["MAL-2026-57"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

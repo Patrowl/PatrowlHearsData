@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121996", "enisaUuid": "7483a4b4-68a3-353b-adde-af39ab91f21d", "description": "Malicious code in shelljs-sagitta-forever-iota (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147927"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120768", "enisaUuid": "1deeebf5-286e-3169-bd0f-016f8f817bac", "description": "Malicious code in virgo-neptune-rate-limiter-cypress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149161"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

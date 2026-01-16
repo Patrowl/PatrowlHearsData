@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125493", "enisaUuid": "2e6676cd-62b3-3971-947b-153ce438e99e", "description": "Malicious code in calypso-polyfills (npm)", "datePublished": "2025-03-03T13:21:10", "dateUpdated": "2025-03-03T13:21:10", "baseScore": 0.0, "aliases": ["MAL-2025-1750"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

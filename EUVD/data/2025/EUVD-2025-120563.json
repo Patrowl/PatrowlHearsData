@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120563", "enisaUuid": "05e3346f-1280-3313-8774-2c44a3417ef2", "description": "Malicious code in webdriverio-dotenv-safe-andromeda-cache (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149366"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

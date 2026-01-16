@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169379", "enisaUuid": "ef7e4d06-223d-3659-8f34-2f6d5945a64e", "description": "Malicious code in kyso-instance-server (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24850"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

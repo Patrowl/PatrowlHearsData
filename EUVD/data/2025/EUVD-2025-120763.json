@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120763", "enisaUuid": "c66aff0c-c701-3c7a-8083-21db18093549", "description": "Malicious code in virgo-proxima-webpack-transform (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149166"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

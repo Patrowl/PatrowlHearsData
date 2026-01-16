@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160096", "enisaUuid": "45ece471-3c3f-3abf-baf2-347fae3209fb", "description": "Malicious code in benchmark-deserialize-mu-epsilon-shell (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15595"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

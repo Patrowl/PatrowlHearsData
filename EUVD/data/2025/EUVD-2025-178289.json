@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178289", "enisaUuid": "bef8cb11-9b41-33ad-82c0-9649a8df24fd", "description": "Malicious code in java-simple-void-fork-sudo (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187593"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

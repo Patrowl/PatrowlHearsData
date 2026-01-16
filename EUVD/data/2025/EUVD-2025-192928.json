@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-192928", "enisaUuid": "f7a01925-f962-330c-9307-f6808e33a005", "description": "Malicious code in @zalastax/nolb-crt (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43175"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113115", "enisaUuid": "8f83f309-55a5-3c7a-b8fd-f36f7b71939c", "description": "Malicious code in graphql-chai-schema-elara (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142997"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

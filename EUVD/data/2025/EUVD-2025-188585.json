@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188585", "enisaUuid": "9ff0c528-7f17-34a0-8f91-6bac86b28f63", "description": "Malicious code in wasat-quantum-computing-tectonic-less-loader (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38799"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63112", "enisaUuid": "f9c7c5a4-2a75-3dce-8ebd-4852e2c13e7b", "description": "Malicious code in melted_puma_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-95442"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

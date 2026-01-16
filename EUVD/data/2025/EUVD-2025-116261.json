@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116261", "enisaUuid": "9777cc98-4dcf-31b0-9751-447c212861df", "description": "Malicious code in axios-thuban-eslint-plugin-got (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139841"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

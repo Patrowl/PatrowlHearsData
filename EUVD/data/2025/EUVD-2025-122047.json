@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122047", "enisaUuid": "097f01d3-1f0f-3d2b-b702-9209dce11f5d", "description": "Malicious code in sequelize-semantic-ui-farout-public (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147876"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

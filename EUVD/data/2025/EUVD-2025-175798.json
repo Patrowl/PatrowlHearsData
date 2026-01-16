@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175798", "enisaUuid": "4ff72258-4955-39ab-9775-ec3ed0e9b14c", "description": "Malicious code in update-leda-ora-bootes (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190077"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

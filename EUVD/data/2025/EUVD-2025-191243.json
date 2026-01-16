@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191243", "enisaUuid": "94eb5117-9068-3d81-a804-5df28cff6db5", "description": "Malicious code in @twork-data-services/company-accounts (npm)", "datePublished": "2025-08-28T07:16:00", "dateUpdated": "2025-08-28T07:16:00", "baseScore": 0.0, "aliases": ["MAL-2025-41474"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

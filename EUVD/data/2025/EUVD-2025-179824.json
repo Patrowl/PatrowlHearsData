@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179824", "enisaUuid": "bfcddbd7-e8da-359f-8e0f-b55d4d89a770", "description": "Malicious code in centaurus-backend-json-draco (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186058"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

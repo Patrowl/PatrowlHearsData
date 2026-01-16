@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122388", "enisaUuid": "39a9f06a-4fdc-39c7-a85d-3a422bed69bc", "description": "Malicious code in rollup-standard-dotenv-safe-commitlint-config-angular (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147534"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

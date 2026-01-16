@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181577", "enisaUuid": "f3612567-64b8-3411-9240-ef8e6400704c", "description": "Malicious code in react-google-publisher-tag-v15 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31792"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

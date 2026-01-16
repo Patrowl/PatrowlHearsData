@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169043", "enisaUuid": "2804fcbc-102c-338f-a454-bad03d9267a7", "description": "Malicious code in kinetic-mongodb-lepton-rollup-plugin (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24525"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

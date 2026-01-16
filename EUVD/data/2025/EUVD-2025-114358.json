@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114358", "enisaUuid": "1286113a-7070-346f-81a1-26ace8f27b17", "description": "Malicious code in dotenv-safe-elektra-build-octans (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141751"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

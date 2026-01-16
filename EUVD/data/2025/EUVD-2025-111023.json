@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111023", "enisaUuid": "12741c5f-3ca5-3e0e-9599-5b74a5319285", "description": "Malicious code in indirect_swift_z3n (npm)", "datePublished": "2025-11-11T22:56:38", "dateUpdated": "2025-11-11T22:56:38", "baseScore": 0.0, "aliases": ["MAL-2025-134346"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

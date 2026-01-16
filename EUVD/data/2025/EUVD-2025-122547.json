@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122547", "enisaUuid": "08dac648-7972-3884-be2b-62b7f758478d", "description": "Malicious code in restart-chromedriver-release-it-resolvers (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147375"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

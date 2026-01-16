@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-81193", "enisaUuid": "eac64aaa-c1c4-3ece-b8bf-3ccbd98c650a", "description": "Malicious code in mobile_dolphin_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-105920"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

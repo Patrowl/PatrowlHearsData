@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-190678", "enisaUuid": "fd508795-1dc3-3bb4-a6fd-a5f9d8d16df4", "description": "Malicious code in zephyr-evergreen-fnh566-project (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-40900"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

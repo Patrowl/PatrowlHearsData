@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120080", "enisaUuid": "a3502d83-449c-3dfd-8e6a-1817c4e3a7a8", "description": "Malicious code in zenith-got-mocha-nconf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149852"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

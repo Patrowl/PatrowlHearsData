@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-192241", "enisaUuid": "f7f22c18-2204-3771-b25b-4353a030425c", "description": "Malicious code in @ember-velcro/monorepo-root (npm)", "datePublished": "2025-09-05T16:38:20", "dateUpdated": "2025-09-05T16:38:20", "baseScore": 0.0, "aliases": ["MAL-2025-42485"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

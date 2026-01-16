@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37285", "enisaUuid": "ac97b84f-e700-399c-9043-80588a5ed4e5", "description": "Malicious code in @qwant-internal/datahub-logger (npm)", "datePublished": "2025-10-31T02:28:48", "dateUpdated": "2025-10-31T02:28:48", "baseScore": 0.0, "aliases": ["MAL-2025-49279"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

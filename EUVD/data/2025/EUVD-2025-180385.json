@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180385", "enisaUuid": "743d7147-1ff2-3184-96d2-dfb98399ab86", "description": "Malicious code in apollo-geochronology-stream-readable (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185503"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

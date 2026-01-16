@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121726", "enisaUuid": "1c697af8-44d3-346d-9e4f-5a6194e342fa", "description": "Malicious code in spinner-hydra-mocha-rest (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148199"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

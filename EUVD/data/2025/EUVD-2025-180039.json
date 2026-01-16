@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180039", "enisaUuid": "a75d2db2-beb4-36e2-97ff-50b7f36a9a7e", "description": "Malicious code in blackhole-jupiter-spectron-webdriver-meteor (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185843"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

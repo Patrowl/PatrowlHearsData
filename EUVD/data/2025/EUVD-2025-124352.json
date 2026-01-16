@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124352", "enisaUuid": "61dd9b7c-9d79-3e84-896e-9292a7f36bbc", "description": "Malicious code in nodejs-javascript-winston-aether (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145569"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

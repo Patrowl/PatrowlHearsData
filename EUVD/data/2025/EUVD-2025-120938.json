@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120938", "enisaUuid": "04cffecb-5354-37c1-a354-7cf499ca4746", "description": "Malicious code in update-blitz-karma-auth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148991"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

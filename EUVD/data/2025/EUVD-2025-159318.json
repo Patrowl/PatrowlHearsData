@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159318", "enisaUuid": "e444be17-2ff1-303f-a029-3de165396e60", "description": "Malicious code in ares-api-search (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14817"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

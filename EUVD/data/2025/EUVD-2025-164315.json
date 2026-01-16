@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164315", "enisaUuid": "fefbdd43-0157-3de9-99cc-ae7741b8dc3f", "description": "Malicious code in error-float-report-resolve-sigma (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19794"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

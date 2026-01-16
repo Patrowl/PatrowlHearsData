@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180200", "enisaUuid": "1e841b3b-8e56-321e-a793-060986a3977f", "description": "Malicious code in avior-atlas-draco-websockets (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185682"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

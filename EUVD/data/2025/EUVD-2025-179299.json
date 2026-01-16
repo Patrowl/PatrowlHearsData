@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179299", "enisaUuid": "205d3c52-0f91-38d9-b504-8a7dba31282c", "description": "Malicious code in development-webdriver-mocha-leda-bellatrix (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186583"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

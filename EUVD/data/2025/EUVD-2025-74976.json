@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-74976", "enisaUuid": "fd38910c-90c7-3a35-a014-c80440f14af2", "description": "Malicious code in awake_finch-strongdev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-99693"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

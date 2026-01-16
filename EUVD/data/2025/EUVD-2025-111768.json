@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111768", "enisaUuid": "9a404b9d-fb9c-3fe5-95f9-cd21fe8b0ab4", "description": "Malicious code in less-selenium-sedna-buffer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144345"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

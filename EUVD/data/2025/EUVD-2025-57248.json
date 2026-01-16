@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-57248", "enisaUuid": "9c6a7540-e85c-34d1-860f-2f870fc79468", "description": "Malicious code in sleepy_condor_z3n (npm)", "datePublished": "2025-11-11T00:17:57", "dateUpdated": "2025-11-11T00:17:57", "baseScore": 0.0, "aliases": ["MAL-2025-65391"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

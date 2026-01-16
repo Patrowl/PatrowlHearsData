@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128807", "enisaUuid": "8518c101-eb0c-304d-bbde-e4c698b2ede4", "description": "Malicious code in esb-core-helpers (npm)", "datePublished": "2025-06-18T10:27:23", "dateUpdated": "2025-06-18T10:27:23", "baseScore": 0.0, "aliases": ["MAL-2025-5078"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

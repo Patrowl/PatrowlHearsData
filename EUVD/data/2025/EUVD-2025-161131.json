@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161131", "enisaUuid": "1f6e519a-3e74-3619-95dd-faf901362eed", "description": "Malicious code in cassini-public-typeorm-lepton (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16630"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

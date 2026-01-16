@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111175", "enisaUuid": "4d34b69f-a9cf-36eb-8286-b5c07527791e", "description": "Malicious code in meteor-start-query-cressida (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144940"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

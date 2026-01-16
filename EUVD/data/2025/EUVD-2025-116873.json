@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116873", "enisaUuid": "c59f67f9-4a19-3c9b-9acd-f4c20de1ec50", "description": "Malicious code in aether-cygnus-nodejs-got (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139229"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

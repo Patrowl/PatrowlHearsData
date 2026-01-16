@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-33150", "enisaUuid": "00ede1ef-62c7-3f62-adf1-088bc0acacc2", "description": "Malicious code in node-db-init (npm)", "datePublished": "2025-10-02T05:18:22", "dateUpdated": "2025-10-02T05:18:22", "baseScore": 0.0, "aliases": ["MAL-2025-47874"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

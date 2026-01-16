@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182667", "enisaUuid": "0923e66a-6206-33f7-8ec3-8b6cd4acdc45", "description": "Malicious code in securicrypt-api (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32882"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

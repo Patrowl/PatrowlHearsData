@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191093", "enisaUuid": "522bc668-659a-3b06-9ddc-dbe24ea8f048", "description": "Malicious code in package-extractor-test-02 (npm)", "datePublished": "2025-08-23T14:37:28", "dateUpdated": "2025-08-25T07:32:49", "baseScore": 0.0, "aliases": ["MAL-2025-41315"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

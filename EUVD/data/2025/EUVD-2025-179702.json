@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179702", "enisaUuid": "bf9189ab-53e3-39e9-a961-a16982f8c8ca", "description": "Malicious code in cluster-decompress-double-encode-quick (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186180"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

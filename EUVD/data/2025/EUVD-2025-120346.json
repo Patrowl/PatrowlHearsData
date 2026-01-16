@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120346", "enisaUuid": "766bade8-55b4-3704-9973-2a461228bba0", "description": "Malicious code in writable-yakutsk-loglevel-koa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149585"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

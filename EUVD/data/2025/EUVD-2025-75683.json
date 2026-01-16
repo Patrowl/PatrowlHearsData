@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75683", "enisaUuid": "45db620c-1235-3496-aea9-93616b2d6964", "description": "Malicious code in selected_tern-tool (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-108507"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

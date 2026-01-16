@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114057", "enisaUuid": "f71c70d4-2bfe-32b0-9357-144e462db52a", "description": "Malicious code in enif-meteor-protractor-cross-env (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142053"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

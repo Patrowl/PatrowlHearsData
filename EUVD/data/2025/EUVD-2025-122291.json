@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122291", "enisaUuid": "b46a62b4-8c7c-35e3-8694-75eefe88ef08", "description": "Malicious code in sagitta-xml-child-process-loopback (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147631"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

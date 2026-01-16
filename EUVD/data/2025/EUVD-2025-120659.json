@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120659", "enisaUuid": "82e03361-47cf-3349-810f-b4cb8026d3a1", "description": "Malicious code in warp-jwt-postcss-local (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149270"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

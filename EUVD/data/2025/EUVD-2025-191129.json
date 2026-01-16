@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191129", "enisaUuid": "a00e4b2c-8346-3f0e-af83-c1e90b8311f6", "description": "Malicious code in @hpx-core-experiences/react-my-account-payments (npm)", "datePublished": "2025-08-19T14:55:29", "dateUpdated": "2025-08-19T14:55:29", "baseScore": 0.0, "aliases": ["MAL-2025-41351"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

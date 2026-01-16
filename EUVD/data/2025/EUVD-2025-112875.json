@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112875", "enisaUuid": "2721f417-e429-3646-bb65-65a05e102d80", "description": "Malicious code in helios-odin-start-stream (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143237"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116901", "enisaUuid": "c39f1d0e-d4ad-3db7-bf58-9a81f67c686c", "description": "Malicious code in achernar-magellan-server-auth0 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139201"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

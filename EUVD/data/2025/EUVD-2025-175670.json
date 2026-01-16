@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175670", "enisaUuid": "2fa9d2ef-42c3-399a-a5b4-aad26f15acb4", "description": "Malicious code in vulcan-nestjs-pm2-biohacking (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190206"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

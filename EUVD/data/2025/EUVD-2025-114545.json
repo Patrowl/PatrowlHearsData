@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114545", "enisaUuid": "5cd31a96-f291-365c-a750-0e4ae591a51e", "description": "Malicious code in dependencies-comet-polaris-aurora (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141564"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

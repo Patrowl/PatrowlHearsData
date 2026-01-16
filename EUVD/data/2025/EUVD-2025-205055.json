@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-205055", "enisaUuid": "efb74918-9e40-3ece-b595-6646de8e3694", "description": "Malicious code in estree-util (npm)", "datePublished": "2025-12-23T08:12:35", "dateUpdated": "2025-12-24T00:53:17", "baseScore": 0.0, "aliases": ["MAL-2025-192796"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

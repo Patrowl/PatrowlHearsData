@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113104", "enisaUuid": "290070a3-67a4-3757-aa5d-a3dd31b0ec4f", "description": "Malicious code in graphql-registry-sedna-configstore (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143008"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

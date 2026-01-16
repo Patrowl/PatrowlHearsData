@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113197", "enisaUuid": "490179b0-1d7f-31bf-8d22-7d61d6e1b771", "description": "Malicious code in gemini-relay-readable-sadr (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142915"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

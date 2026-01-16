@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116352", "enisaUuid": "e46057a3-181c-330e-ab23-5bd4a3c926d5", "description": "Malicious code in auth0-kinetic-halley-xenon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139750"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

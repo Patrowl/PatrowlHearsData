@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123509", "enisaUuid": "f52f1008-9c25-32ae-9df3-e7f72295788d", "description": "Malicious code in postcss-loader-telesto-vulcan-phenomic (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146412"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

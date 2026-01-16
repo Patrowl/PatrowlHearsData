@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111589", "enisaUuid": "f4599613-019f-39df-b413-cc316fcc54ce", "description": "Malicious code in loop-geckodriver-ceres-neptune (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144526"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

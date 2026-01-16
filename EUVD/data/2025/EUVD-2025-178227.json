@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178227", "enisaUuid": "8ef664ee-9cda-32b6-bf50-35ecb05f9276", "description": "Malicious code in kappa-debug-lambda-daemon-upsilon (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187655"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

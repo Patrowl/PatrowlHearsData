@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128440", "enisaUuid": "545c9a1d-05e6-3679-9367-4490ab3ec5a1", "description": "Malicious code in www-cfg (npm)", "datePublished": "2025-06-06T03:55:46", "dateUpdated": "2025-06-18T15:07:36", "baseScore": 0.0, "aliases": ["MAL-2025-4708"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

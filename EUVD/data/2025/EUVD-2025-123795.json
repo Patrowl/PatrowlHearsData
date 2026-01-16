@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123795", "enisaUuid": "c2384e07-1a3f-3e89-82a8-5c21c93b4f6c", "description": "Malicious code in phenomic-ceres-uninstall-nodemon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146126"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

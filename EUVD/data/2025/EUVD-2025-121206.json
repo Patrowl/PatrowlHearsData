@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121206", "enisaUuid": "cfc186a3-3ce5-3b6c-bcc1-ceba451aa760", "description": "Malicious code in toml-transform-colors-uninstall (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148722"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

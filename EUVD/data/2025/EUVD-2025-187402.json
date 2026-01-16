@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187402", "enisaUuid": "5cf50328-f163-3f9b-b24f-6882f3830d74", "description": "Malicious code in ujet-processor-manager (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37614"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

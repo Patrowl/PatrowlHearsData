@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111357", "enisaUuid": "f5d41515-c88e-3a45-8c22-63623ac1b2bb", "description": "Malicious code in materialize-winston-rate-limiter-webdriver-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144758"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124257", "enisaUuid": "601c2189-6b9b-3756-aef3-e654f19c7650", "description": "Malicious code in nova-postcss-loader-nuxtjs-duplex (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145664"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113740", "enisaUuid": "e24db8c0-e869-34a0-b9b7-997937421731", "description": "Malicious code in express-cassini-warp-soap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142370"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

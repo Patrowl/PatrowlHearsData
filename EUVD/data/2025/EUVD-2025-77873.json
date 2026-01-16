@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77873", "enisaUuid": "ec840ad1-d449-3d1b-b234-9d221f1dc48a", "description": "Malicious code in yappy_vicuna_z3n (npm)", "datePublished": "2025-11-11T07:31:13", "dateUpdated": "2025-11-11T07:31:13", "baseScore": 0.0, "aliases": ["MAL-2025-111249"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

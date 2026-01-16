@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121660", "enisaUuid": "788e7d51-a7cc-3081-9bec-0af33b58255c", "description": "Malicious code in start-bootes-upgrade-subscription (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148265"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

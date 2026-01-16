@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193732", "enisaUuid": "de43ed08-a2ae-308e-8847-59084ad7f99c", "description": "Malicious code in determine-remain-about (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43979"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189552", "enisaUuid": "b7245252-2053-3c48-bb6d-c4b7de95ab15", "description": "Malicious code in xi-secure-lambda-uglify-authorize (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39766"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

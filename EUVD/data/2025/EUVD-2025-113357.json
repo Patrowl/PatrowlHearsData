@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113357", "enisaUuid": "c3842439-6fc8-3edf-85e1-2f281f7082f6", "description": "Malicious code in gacrux-chromedriver-cosmiconfig-markdownlint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142755"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

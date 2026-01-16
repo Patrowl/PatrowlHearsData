@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172433", "enisaUuid": "4ad026dc-9d30-3186-abcf-3e96fd14892c", "description": "Malicious code in nuntius-api-client (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27904"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

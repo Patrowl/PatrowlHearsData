@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120193", "enisaUuid": "6b5447d0-e807-3708-a637-40688aa12fcf", "description": "Malicious code in xml-umbra-pavo-pm2 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149738"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

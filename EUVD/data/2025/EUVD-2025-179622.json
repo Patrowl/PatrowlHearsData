@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179622", "enisaUuid": "2d464bf3-316b-3156-ad1a-3a9d92f8adf0", "description": "Malicious code in compile-validate-sandbox-node-async (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186260"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126574", "enisaUuid": "d49439b9-8126-3e70-8529-0f6a5961339f", "description": "Malicious code in @vercel-internals/tsconfig (npm)", "datePublished": "2025-03-28T12:34:25", "dateUpdated": "2025-03-28T12:34:25", "baseScore": 0.0, "aliases": ["MAL-2025-2833"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

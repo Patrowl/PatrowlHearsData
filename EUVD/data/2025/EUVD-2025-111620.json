@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111620", "enisaUuid": "0c22ce92-0eec-381d-8218-3566252b1d76", "description": "Malicious code in local-registry-vega-prettier-plugin-markdown (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144495"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

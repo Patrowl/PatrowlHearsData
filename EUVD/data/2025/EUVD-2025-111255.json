@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111255", "enisaUuid": "3c9bf420-25d3-33a0-bc47-2985c79db0ef", "description": "Malicious code in mensa-process-nightwatch-webdriver-manager (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144860"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

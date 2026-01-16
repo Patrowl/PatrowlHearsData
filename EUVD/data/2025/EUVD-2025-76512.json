@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76512", "enisaUuid": "2b7baae5-2c0d-383a-9186-fc1f9537c414", "description": "Malicious code in isolated_koala-appteadev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-104434"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

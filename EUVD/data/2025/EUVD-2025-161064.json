@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161064", "enisaUuid": "3a459d55-9e80-3237-bd88-40feea707b69", "description": "Malicious code in carrot-echo-k6n6 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16563"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

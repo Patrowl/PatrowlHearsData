@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111928", "enisaUuid": "855a0016-1e31-31fc-b695-14971408ec68", "description": "Malicious code in kinetic-restart-json-meissa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144185"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

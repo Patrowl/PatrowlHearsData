@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187120", "enisaUuid": "9190af7a-a164-38fd-8b46-c02f7af9077b", "description": "Malicious code in trezor-link-chrome-extension (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37191"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112897", "enisaUuid": "36ff7e08-e56a-3601-b9f8-22583957e656", "description": "Malicious code in heka-quito-pipe-eslint-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143215"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

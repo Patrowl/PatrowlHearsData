@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120559", "enisaUuid": "80935901-fe5d-39a4-b257-b8bc46acae2b", "description": "Malicious code in webdriverio-heka-weywot-fomalhaut (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149370"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

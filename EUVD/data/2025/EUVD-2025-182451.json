@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182451", "enisaUuid": "04503d6f-4a32-38e3-aa5b-19109c39f165", "description": "Malicious code in sandbox-report-cat-orchestrate-orchestrate (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32666"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

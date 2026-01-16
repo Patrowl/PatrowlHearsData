@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168868", "enisaUuid": "f8b151e7-5fbd-3360-98c8-e35b52d8b1a9", "description": "Malicious code in kaus-oauth-chakra-ui-membrane (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24350"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

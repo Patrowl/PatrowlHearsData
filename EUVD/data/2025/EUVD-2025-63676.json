@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63676", "enisaUuid": "0fa49980-65d6-3587-be0c-6a25545c33d3", "description": "Malicious code in human_gecko_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-94878"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

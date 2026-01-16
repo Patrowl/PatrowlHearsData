@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111856", "enisaUuid": "6fd32527-55ff-3bf0-8a77-cc403da2449a", "description": "Malicious code in leda-async-nodejs-izar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144257"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

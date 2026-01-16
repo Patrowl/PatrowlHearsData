@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112429", "enisaUuid": "4c23c8f5-7558-3134-844c-0de0a36a1a34", "description": "Malicious code in install-sagitta-forever-repository (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143684"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

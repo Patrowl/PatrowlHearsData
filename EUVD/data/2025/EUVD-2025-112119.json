@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112119", "enisaUuid": "47165818-9663-3eeb-b622-9ba22125c2e0", "description": "Malicious code in jsonp-configstore-janus-semantic-ui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143994"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

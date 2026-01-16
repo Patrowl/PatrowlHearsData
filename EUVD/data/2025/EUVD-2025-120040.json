@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120040", "enisaUuid": "448fc9da-c387-3885-aa99-33ed794ac5ec", "description": "Malicious code in zephyr-npm-farout-izar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149892"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

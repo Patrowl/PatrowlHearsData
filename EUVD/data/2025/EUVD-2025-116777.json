@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116777", "enisaUuid": "2eaa8bf5-7cba-39ed-b9ef-69a5702722c9", "description": "Malicious code in alphard-halley-run-script-magellan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139325"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

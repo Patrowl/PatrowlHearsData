@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-102709", "enisaUuid": "c0bc97b5-9080-3d57-bd58-3804f628596b", "description": "Malicious code in ready_mandrill_z3n (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-129696"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

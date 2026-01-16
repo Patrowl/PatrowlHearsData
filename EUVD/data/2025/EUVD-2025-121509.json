@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121509", "enisaUuid": "139cb30f-0007-3acd-8a9a-af0a34f8c650", "description": "Malicious code in sync-commitlint-materialize-eris (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148419"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

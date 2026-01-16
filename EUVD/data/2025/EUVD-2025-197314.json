@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197314", "enisaUuid": "8046bddd-6d8e-3594-8511-cb8845569692", "description": "Malicious code in @vscode-bicep-ui/components (npm)", "datePublished": "2025-10-17T03:28:23", "dateUpdated": "2025-10-17T03:28:23", "baseScore": 0.0, "aliases": ["MAL-2025-48475"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127890", "enisaUuid": "94fdbd1d-c94f-338b-beb6-175f058ff74f", "description": "Malicious code in @rf-ui-platform/react-ui-components (npm)", "datePublished": "2025-05-22T12:36:07", "dateUpdated": "2025-05-22T12:36:07", "baseScore": 0.0, "aliases": ["MAL-2025-4158"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

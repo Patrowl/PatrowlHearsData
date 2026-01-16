@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187736", "enisaUuid": "55a099dd-70ae-3760-8d2d-0ce9f1b4d489", "description": "Malicious code in urlmod (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37948"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

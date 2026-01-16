@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195088", "enisaUuid": "ff8acf85-2730-3c2e-a5a4-347fe94387a4", "description": "Malicious code in node-winston-logger (npm)", "datePublished": "2025-09-05T16:38:20", "dateUpdated": "2025-09-05T16:38:20", "baseScore": 0.0, "aliases": ["MAL-2025-45336"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

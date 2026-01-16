@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180185", "enisaUuid": "611acf1a-e969-35a4-84d8-83bd3dc4e7a7", "description": "Malicious code in await-mesosphere-meissa-halley (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185697"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

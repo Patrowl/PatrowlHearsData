@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197339", "enisaUuid": "bfde5ff0-db78-3353-8986-2c5edfa8325c", "description": "Malicious code in spot-electron-sdk (npm)", "datePublished": "2025-10-14T03:20:12", "dateUpdated": "2025-12-02T09:12:17", "baseScore": 0.0, "aliases": ["MAL-2025-48507"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

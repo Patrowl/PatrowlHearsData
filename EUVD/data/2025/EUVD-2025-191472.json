@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191472", "enisaUuid": "63eaa105-6cc8-3bf7-8d10-a4850f7d89bb", "description": "Malicious code in ncurses (PyPI)", "datePublished": "2025-08-28T07:11:24", "dateUpdated": "2025-08-28T07:11:24", "baseScore": 0.0, "aliases": ["MAL-2025-41705"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162295", "enisaUuid": "7028a609-a3dd-3b5d-8d3f-4b30da753683", "description": "Malicious code in css-minimizer-webpack-plugin-nightwatch-callback-rimraf (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17796"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

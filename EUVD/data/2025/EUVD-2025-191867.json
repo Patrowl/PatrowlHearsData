@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191867", "enisaUuid": "3e34cd39-669d-39da-87dd-1b2eb9c1ddab", "description": "Malicious code in valid-sha256 (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-42107"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

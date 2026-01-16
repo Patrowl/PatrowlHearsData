@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116653", "enisaUuid": "e7fe988f-68d4-3daa-bfab-cc26251fb428", "description": "Malicious code in antares-xanadu-delphinus-dotenv-safe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139449"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

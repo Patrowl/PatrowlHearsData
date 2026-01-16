@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173900", "enisaUuid": "50b0e952-55a8-36a3-a4f8-f12872f9a0ec", "description": "Malicious code in planmill-auth (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29371"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

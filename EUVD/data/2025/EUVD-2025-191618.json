@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191618", "enisaUuid": "85b1c32f-b7f1-360b-b201-05f151a756e0", "description": "Malicious code in @espace-client-axafr/demat-contract (npm)", "datePublished": "2025-08-25T18:33:29", "dateUpdated": "2025-08-25T18:33:29", "baseScore": 0.0, "aliases": ["MAL-2025-41852"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

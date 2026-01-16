@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176786", "enisaUuid": "f6aad894-6488-30cb-ac5a-9a4b229544d5", "description": "Malicious code in rate-limiter-writable-dotenv-safe-geckodriver (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189089"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162169", "enisaUuid": "d885d311-61fe-38b0-b177-3657fb683e79", "description": "Malicious code in credit-card-balance256 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17670"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113698", "enisaUuid": "3a708946-1048-39b0-870d-2f4b6784a6e9", "description": "Malicious code in farout-fornax-nodemon-commitlint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142412"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

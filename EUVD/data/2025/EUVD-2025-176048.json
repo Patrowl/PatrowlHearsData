@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176048", "enisaUuid": "86f46c4a-ff8c-3168-9569-4d5f386d4df2", "description": "Malicious code in taurus-firebase-vuepress-uninstall (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189827"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

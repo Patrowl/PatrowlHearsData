@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-192102", "enisaUuid": "c64a6c6a-01b7-3689-b193-192b4c398fa6", "description": "Malicious code in @crabas0npm/quasi-nemo-error (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-42346"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

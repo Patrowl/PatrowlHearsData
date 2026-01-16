@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180161", "enisaUuid": "56f06dd6-4340-3d6b-8f03-95991c6aae5e", "description": "Malicious code in babel-init-changelog-algol (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185721"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

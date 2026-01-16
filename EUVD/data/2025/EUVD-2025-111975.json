@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111975", "enisaUuid": "a4a9a973-e63c-3d6d-a264-d17c6352241d", "description": "Malicious code in kaus-cassini-pulsar-tool (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144138"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

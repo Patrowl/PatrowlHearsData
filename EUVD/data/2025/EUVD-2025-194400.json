@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194400", "enisaUuid": "b7093009-ef7c-345a-8336-d40eb314c60d", "description": "Malicious code in hugo-xenos-soap-deneb (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44647"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

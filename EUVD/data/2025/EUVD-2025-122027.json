@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122027", "enisaUuid": "34db6c8e-1675-3fcd-b94b-a7281bdc176e", "description": "Malicious code in server-element-ui-aldebaran-spectron (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147896"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

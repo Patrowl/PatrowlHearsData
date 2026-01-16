@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121064", "enisaUuid": "ab9d6283-88e2-3a1a-b79c-2fcc608b6a7b", "description": "Malicious code in typeorm-xenos-hermes-iota (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148864"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

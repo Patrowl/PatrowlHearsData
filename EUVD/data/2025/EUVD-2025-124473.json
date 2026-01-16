@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124473", "enisaUuid": "9ec797a7-31e2-3225-821c-1004483dcff9", "description": "Malicious code in nightmare-sequelize-proxima-eslint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145448"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

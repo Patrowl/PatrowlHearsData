@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177438", "enisaUuid": "de1643fb-9d2f-321b-8a12-b2c63e5b237f", "description": "Malicious code in ophiuchus-spectron-webdriver-sedna-halley (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188444"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-201053", "enisaUuid": "43064489-f20b-3113-ba84-41d4e4111c67", "description": "Malicious code in elf-stats-wintry-cocoa-831 (npm)", "datePublished": "2025-12-03T17:22:10", "dateUpdated": "2025-12-23T22:09:11", "baseScore": 0.0, "aliases": ["MAL-2025-192243"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

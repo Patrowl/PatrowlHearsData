@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123659", "enisaUuid": "057dc0ea-1b32-3f39-85a8-1ad8fc4bc20e", "description": "Malicious code in pipe-dynamo-nodejs-stream (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146262"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

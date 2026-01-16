@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121370", "enisaUuid": "fbab5b02-3963-36e4-9620-9dc888aa8686", "description": "Malicious code in terser-webpack-plugin-non-blocking-gemini-colors (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148558"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

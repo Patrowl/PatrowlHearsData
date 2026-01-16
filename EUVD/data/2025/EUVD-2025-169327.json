@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169327", "enisaUuid": "cd344836-af0a-370f-8a0d-d6115cd98643", "description": "Malicious code in kube-config (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24798"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

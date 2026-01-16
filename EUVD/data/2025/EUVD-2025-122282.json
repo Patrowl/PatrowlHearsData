@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122282", "enisaUuid": "80648767-fea5-395b-8624-9a325679bfed", "description": "Malicious code in sails-configstore-umbriel-magellan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147640"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

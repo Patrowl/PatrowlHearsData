@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120541", "enisaUuid": "4e6c7f4d-4bbd-3ebd-bd4d-16f8e084cc2a", "description": "Malicious code in webpack-apollo-remark-sedna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149388"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

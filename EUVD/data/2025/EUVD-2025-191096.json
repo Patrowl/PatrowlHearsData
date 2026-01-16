@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191096", "enisaUuid": "d3aec6d2-2ebd-3aa2-9b63-eaca1cf1284d", "description": "Malicious code in rehype-headerless-table-plugin (npm)", "datePublished": "2025-08-23T14:47:46", "dateUpdated": "2025-08-25T07:32:49", "baseScore": 0.0, "aliases": ["MAL-2025-41318"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

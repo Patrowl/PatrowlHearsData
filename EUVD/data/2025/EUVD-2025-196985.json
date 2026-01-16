@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196985", "enisaUuid": "a5a3e832-a835-36bf-b663-3220789e49fa", "description": "Malicious code in valid-ip-check (npm)", "datePublished": "2025-09-17T20:52:16", "dateUpdated": "2025-09-26T11:06:46", "baseScore": 0.0, "aliases": ["MAL-2025-47448"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

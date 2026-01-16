@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182526", "enisaUuid": "ed621658-1c20-36fa-aa3d-5d78b0b55f2c", "description": "Malicious code in save-dev (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32741"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115862", "enisaUuid": "7d32cb55-55d8-3297-9c87-8d2ad1b70ba2", "description": "Malicious code in bunyan-gridsome-init-andromeda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140242"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

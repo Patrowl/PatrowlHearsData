@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179898", "enisaUuid": "e0e25b60-46e0-3429-9086-3b48f08394a6", "description": "Malicious code in callback-zephyr-semantic-ui-carpo (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185984"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

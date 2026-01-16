@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114063", "enisaUuid": "81a81b96-12ce-3310-beb0-e8f3c7187ea5", "description": "Malicious code in enif-forever-auth0-atlas (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142047"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

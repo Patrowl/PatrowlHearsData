@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179844", "enisaUuid": "b9ff35c5-bdda-30f3-b3b1-5239f1660669", "description": "Malicious code in catch-daemon-mock-emulate-validate (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186038"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

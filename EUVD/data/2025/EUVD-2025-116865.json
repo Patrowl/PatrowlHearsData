@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116865", "enisaUuid": "78fc22de-5903-30f2-b6c1-635a059102da", "description": "Malicious code in aether-playwright-wolf-child-process (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139237"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

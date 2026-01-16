@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122563", "enisaUuid": "b878a8f7-5c8a-3256-9628-21d26b6d2aae", "description": "Malicious code in rest-nightmare-postcss-loader-ophiuchus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147359"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

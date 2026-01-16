@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112412", "enisaUuid": "ab54a6d5-7ecf-3d51-bcd4-2643d80eed1a", "description": "Malicious code in io-nestjs-ora-wezen (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143701"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176591", "enisaUuid": "a62c8a59-3826-3a2c-baf3-ca45f88b3d2c", "description": "Malicious code in route-await-root-monitor-nu (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189284"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

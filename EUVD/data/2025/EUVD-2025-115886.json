@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115886", "enisaUuid": "efc0f1ab-0d2a-332e-ab89-6530f836f63f", "description": "Malicious code in bulma-middleware-procyon-buffer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140218"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

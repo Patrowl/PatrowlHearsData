@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168263", "enisaUuid": "e2247d06-d15e-3107-9332-1edae3665067", "description": "Malicious code in jest-sync-json-reporter (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23745"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

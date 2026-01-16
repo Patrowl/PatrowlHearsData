@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122318", "enisaUuid": "0c3af7ff-7dd8-3cf3-87b1-b5cf67fcf516", "description": "Malicious code in sagitta-luna-uninstall-sadr (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147604"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

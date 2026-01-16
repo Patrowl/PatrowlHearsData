@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114890", "enisaUuid": "b406920a-d5b6-3330-b8bd-76f7ab0bd837", "description": "Malicious code in cosmos-selenium-sequelize-ultra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141219"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

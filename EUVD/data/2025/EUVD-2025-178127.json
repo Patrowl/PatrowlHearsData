@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178127", "enisaUuid": "318476cb-4e2c-33b7-94e2-2737ffb3b37e", "description": "Malicious code in less-loader-gulp-yaml-crust (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187755"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

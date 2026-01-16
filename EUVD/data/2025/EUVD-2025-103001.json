@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-103001", "enisaUuid": "b5ba0e65-711f-362c-aff3-a326c56a7e3c", "description": "Malicious code in present_cardinal_z3n (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-129404"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

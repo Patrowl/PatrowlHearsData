@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112262", "enisaUuid": "cdb4adbf-7ca4-36d7-bb6b-f8923d20c5f6", "description": "Malicious code in jasmine-fetch-standard-terser-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143851"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124669", "enisaUuid": "3e28d875-421d-3cf6-a582-521a6ac068d3", "description": "Malicious code in mysql-janus-chromedriver-apex (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145249"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

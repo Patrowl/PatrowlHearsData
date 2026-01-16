@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180743", "enisaUuid": "b5982df3-2349-37c1-9c5c-b3382c089ff3", "description": "Malicious code in pyshared (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-30957"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

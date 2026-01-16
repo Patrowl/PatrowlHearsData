@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162375", "enisaUuid": "c1c09c93-0303-3b3e-8a5c-885669053dc3", "description": "Malicious code in cycle-monorepo-sandbox-rx-run (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17876"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

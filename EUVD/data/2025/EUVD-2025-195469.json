@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195469", "enisaUuid": "fc85ce10-a701-3cba-8556-509a9d85f275", "description": "Malicious code in quantum-regulus-concurrently-yaml (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45717"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

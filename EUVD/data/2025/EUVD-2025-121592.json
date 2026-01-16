@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121592", "enisaUuid": "bd5989c9-4a09-3055-9446-f79a3050734d", "description": "Malicious code in style-loader-mocha-hermes-selenium (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148333"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

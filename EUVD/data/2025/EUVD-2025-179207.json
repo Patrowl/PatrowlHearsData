@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179207", "enisaUuid": "c1345a71-f5ca-35d0-a936-d6ea810fa807", "description": "Malicious code in easy-serialize-omicron-mu-assert (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186675"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

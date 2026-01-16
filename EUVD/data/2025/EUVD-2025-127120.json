@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127120", "enisaUuid": "ed86eb41-1e45-3a7b-a945-c04ffb86a841", "description": "Malicious code in audio_helper_utils (npm)", "datePublished": "2025-04-23T15:45:40", "dateUpdated": "2025-04-23T15:45:40", "baseScore": 0.0, "aliases": ["MAL-2025-3379"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

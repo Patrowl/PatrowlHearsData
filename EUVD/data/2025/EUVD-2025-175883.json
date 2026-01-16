@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175883", "enisaUuid": "0a08684d-0488-3fa0-b03e-4ce439a93bdb", "description": "Malicious code in tree-function-kappa-decrypt-assert (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189992"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

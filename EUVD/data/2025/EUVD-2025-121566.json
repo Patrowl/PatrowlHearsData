@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121566", "enisaUuid": "0c7d3e34-9ea2-3fe3-a194-be8dcfa4dd56", "description": "Malicious code in subscription-kinetic-eleventy-cluster (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148360"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

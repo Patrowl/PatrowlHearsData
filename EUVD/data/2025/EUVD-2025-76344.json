@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76344", "enisaUuid": "fe7da8d8-08a7-3816-a29f-410e9047cf7a", "description": "Malicious code in many_condor-appteadev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-105602"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

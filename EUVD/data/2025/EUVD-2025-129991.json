@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129991", "enisaUuid": "0db20b89-a046-33dc-bc5d-25f3aab9c7c3", "description": "Malicious code in hast-util-to-babel-ast (npm)", "datePublished": "2025-07-26T17:54:58", "dateUpdated": "2025-07-28T01:58:36", "baseScore": 0.0, "aliases": ["MAL-2025-6264"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

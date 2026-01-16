@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175530", "enisaUuid": "905e1f1a-7c9e-3aa4-a6b0-68dad3aeb820", "description": "Malicious code in writable-jovian-pino-markdownlint (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190346"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

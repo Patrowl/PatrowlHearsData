@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189444", "enisaUuid": "b9f64c93-d134-3dab-b2a8-72ec0d695e43", "description": "Malicious code in xenon-markdown-pdf-backend-playwright (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39658"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123050", "enisaUuid": "67b9da2a-227e-3448-8487-3466852a9ebc", "description": "Malicious code in pyxis-config-eslint-plugin-exec (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146872"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

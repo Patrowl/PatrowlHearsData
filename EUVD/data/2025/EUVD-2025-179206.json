@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179206", "enisaUuid": "af91a75c-8444-35b3-aac7-1b4e2fce6e8b", "description": "Malicious code in easy-throw-cron-rho-sanitize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186676"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

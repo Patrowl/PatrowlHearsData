@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193908", "enisaUuid": "f8f9d25e-19c5-3a0f-a87e-3b420aedf9fd", "description": "Malicious code in eris-interferometry-astrochemistry-sequelize (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44155"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

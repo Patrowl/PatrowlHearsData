@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116558", "enisaUuid": "e58af21b-92c9-374a-bb1d-67c1b1fd2d2d", "description": "Malicious code in aquarius-perseus-cross-env-csrf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139544"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

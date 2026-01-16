@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176554", "enisaUuid": "9be9dac5-dcfb-3bf9-924b-cd546c0fbc0b", "description": "Malicious code in sagitta-schema-release-it-husky (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189321"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

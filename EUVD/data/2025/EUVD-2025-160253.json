@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160253", "enisaUuid": "5e196043-ff7c-3571-8581-15abba809d5d", "description": "Malicious code in bitcoin-sweep (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15752"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

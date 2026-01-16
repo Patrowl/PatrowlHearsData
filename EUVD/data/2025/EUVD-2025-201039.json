@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-201039", "enisaUuid": "0b210d41-aa61-3cf4-8074-208b52bff348", "description": "Malicious code in elf-stats-cocoa-ribbon-476 (npm)", "datePublished": "2025-12-03T16:50:41", "dateUpdated": "2025-12-23T19:09:02", "baseScore": 0.0, "aliases": ["MAL-2025-192203"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

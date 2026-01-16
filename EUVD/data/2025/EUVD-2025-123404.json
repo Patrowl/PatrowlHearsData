@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123404", "enisaUuid": "2c9a781c-eea1-3027-9831-c505f4955a99", "description": "Malicious code in prettier-stylelint-semantic-release-concurrently-vega (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146518"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

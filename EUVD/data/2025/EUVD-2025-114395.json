@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114395", "enisaUuid": "bc57a42f-cb31-3063-a11e-350badc96fa4", "description": "Malicious code in dotenv-parse-variables-cosmiconfig-ignite-eris (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141714"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

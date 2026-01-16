@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-64622", "enisaUuid": "1da3b50a-023b-3861-ae32-e66b5d66a688", "description": "Malicious code in dear_kangaroo_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-93932"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

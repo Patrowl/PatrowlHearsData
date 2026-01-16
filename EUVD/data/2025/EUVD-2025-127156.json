@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127156", "enisaUuid": "931797de-c7f6-3e49-9933-e4713bbc946e", "description": "Malicious code in snyk-malware-poc (npm)", "datePublished": "2025-04-01T10:38:59", "dateUpdated": "2025-04-30T02:34:30", "baseScore": 0.0, "aliases": ["MAL-2025-3415"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

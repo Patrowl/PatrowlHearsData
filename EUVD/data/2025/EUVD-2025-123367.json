@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123367", "enisaUuid": "ed461586-0c8d-3657-b39e-d4509906e2dc", "description": "Malicious code in process-jsonp-build-concurrently (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146555"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

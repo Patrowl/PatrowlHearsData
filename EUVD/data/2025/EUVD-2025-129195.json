@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129195", "enisaUuid": "03183c9d-d618-3b5d-9785-e8f3cb6baa5a", "description": "Malicious code in test_for_ntu_note_2 (npm)", "datePublished": "2025-06-18T17:30:02", "dateUpdated": "2025-06-18T17:30:02", "baseScore": 0.0, "aliases": ["MAL-2025-5467"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

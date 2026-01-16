@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170166", "enisaUuid": "32727fc4-4659-3aed-9429-a744419c155e", "description": "Malicious code in luasel (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25637"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

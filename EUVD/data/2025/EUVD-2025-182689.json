@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182689", "enisaUuid": "e35a834c-e1b7-3d99-bb05-e276dbd4fa6c", "description": "Malicious code in sedona-angular-gulp-tasks (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32904"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

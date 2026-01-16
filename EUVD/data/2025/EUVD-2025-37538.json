@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37538", "enisaUuid": "4c8d8fa3-0c7f-340e-b7c7-29a134c07f96", "description": "Malicious code in pil2-compiler (npm)", "datePublished": "2025-11-03T18:59:00", "dateUpdated": "2025-11-03T18:59:00", "baseScore": 0.0, "aliases": ["MAL-2025-49343"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

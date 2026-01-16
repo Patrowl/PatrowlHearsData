@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128809", "enisaUuid": "79d13064-adb0-3a85-808c-978fe43d5f36", "description": "Malicious code in framework_boclient (npm)", "datePublished": "2025-06-18T10:29:08", "dateUpdated": "2025-06-18T10:29:08", "baseScore": 0.0, "aliases": ["MAL-2025-5080"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

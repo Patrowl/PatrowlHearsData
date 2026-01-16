@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112929", "enisaUuid": "f35d03bc-fd1a-3685-b9d1-072e47c1a43d", "description": "Malicious code in hapi-hyperion-corvus-upgrade (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143183"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

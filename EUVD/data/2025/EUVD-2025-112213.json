@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112213", "enisaUuid": "d7dc4f1f-98ff-3662-ade9-71705df30a52", "description": "Malicious code in jekyll-dagda-google-cross-env (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143900"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

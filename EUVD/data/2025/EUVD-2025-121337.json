@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121337", "enisaUuid": "ee927b26-af38-33a7-aee3-c6d7a46c0579", "description": "Malicious code in testcafe-css-loader-uglify-js-tailwindcss (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148591"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

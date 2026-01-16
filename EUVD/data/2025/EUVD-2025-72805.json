@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-72805", "enisaUuid": "e1f6cb31-daba-33f7-bee5-9bb9e04f2359", "description": "Malicious code in yearling_squid_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-97485"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

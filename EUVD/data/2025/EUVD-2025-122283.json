@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122283", "enisaUuid": "b8a792ba-1a64-3ae9-a7a8-b95094bbd9f6", "description": "Malicious code in sails-concurrently-css-minimizer-webpack-plugin-wasat (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147639"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

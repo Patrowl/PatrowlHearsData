@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177303", "enisaUuid": "58cf852a-3e12-3746-a5d8-868fa144294f", "description": "Malicious code in passport-pino-library-schema (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188579"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

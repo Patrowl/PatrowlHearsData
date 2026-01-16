@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112911", "enisaUuid": "ca3a0935-5b1c-3fd0-9125-d67867da8162", "description": "Malicious code in heka-axios-norma-npm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143201"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

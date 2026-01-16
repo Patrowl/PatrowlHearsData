@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130133", "enisaUuid": "37d23ff1-ad08-3f2f-ac9e-9683041ff832", "description": "Malicious code in cloudflared-x64 (npm)", "datePublished": "2025-07-31T19:26:34", "dateUpdated": "2025-07-31T19:26:34", "baseScore": 0.0, "aliases": ["MAL-2025-6406"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

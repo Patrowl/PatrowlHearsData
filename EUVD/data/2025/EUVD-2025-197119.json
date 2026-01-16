@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197119", "enisaUuid": "237592f3-6af1-33f5-901a-bb1ec50309fe", "description": "Malicious code in com.unity.xr.hands (npm)", "datePublished": "2025-09-26T09:26:47", "dateUpdated": "2025-09-26T09:26:47", "baseScore": 0.0, "aliases": ["MAL-2025-47646"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-154085", "enisaUuid": "9fa40e3c-f16f-3517-9724-55cc076a24c2", "description": "Malicious code in @typescript_eslinter/prettier (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9584"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

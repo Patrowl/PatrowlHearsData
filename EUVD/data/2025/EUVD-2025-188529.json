@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188529", "enisaUuid": "7481716f-bd91-3566-975a-ec8a6f5dbf65", "description": "Malicious code in walletfi-paypal (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38743"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

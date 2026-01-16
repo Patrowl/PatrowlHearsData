@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178839", "enisaUuid": "a6d66e7e-89c6-3644-918b-a1f731bfd034", "description": "Malicious code in framework-baryon-install-iota (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187043"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

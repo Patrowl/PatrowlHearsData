@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121844", "enisaUuid": "4a46387e-1411-35c0-a7ca-b97e45298037", "description": "Malicious code in solis-phoenix-webdriver-mocha-apex (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148081"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

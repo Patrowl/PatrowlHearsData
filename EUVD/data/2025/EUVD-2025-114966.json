@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114966", "enisaUuid": "13d19d92-1bfe-316c-833b-c3898b61f518", "description": "Malicious code in cors-webdriver-mocha-perseus-subscription (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141143"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

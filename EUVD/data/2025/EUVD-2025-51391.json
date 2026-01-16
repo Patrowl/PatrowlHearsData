@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-51391", "enisaUuid": "8433f0d7-a910-362c-86b8-1bc1fe3362b0", "description": "Malicious code in underlying-fuchsia-wren (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-71258"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

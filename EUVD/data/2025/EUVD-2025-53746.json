@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-53746", "enisaUuid": "ca0290ea-bd0b-3a34-900e-d6ccb9128d27", "description": "Malicious code in inner-lime-mink (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-68903"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

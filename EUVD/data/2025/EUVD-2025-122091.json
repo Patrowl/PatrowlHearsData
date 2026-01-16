@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122091", "enisaUuid": "1290e6b2-ccee-37a6-8a27-cc7f242f8b48", "description": "Malicious code in semantic-release-native-server-mysql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147832"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178108", "enisaUuid": "a8917d40-3916-3ec5-99dc-285e21820622", "description": "Malicious code in library-bellatrix-cli-cors (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187774"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

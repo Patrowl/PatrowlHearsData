@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125616", "enisaUuid": "8034fb27-6c7a-3a49-b564-95f8f9080569", "description": "Malicious code in linkedin-logger (npm)", "datePublished": "2025-03-03T13:31:08", "dateUpdated": "2025-03-03T13:31:08", "baseScore": 0.0, "aliases": ["MAL-2025-1874"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

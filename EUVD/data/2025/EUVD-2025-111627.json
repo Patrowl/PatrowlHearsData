@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111627", "enisaUuid": "5a07bba3-8afd-3962-8fb6-95e9ee17188c", "description": "Malicious code in local-hydra-lint-cypress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144488"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

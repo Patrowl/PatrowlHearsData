@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180066", "enisaUuid": "346637e1-bd42-3e1c-9be3-bc877c5282d1", "description": "Malicious code in biohacking-mysql-registry-levels (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185816"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

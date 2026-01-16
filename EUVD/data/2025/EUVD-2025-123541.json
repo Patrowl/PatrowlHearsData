@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123541", "enisaUuid": "700bd90f-f2d5-36e4-a5f5-2b0737abe119", "description": "Malicious code in postcss-await-janus-triton (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146380"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

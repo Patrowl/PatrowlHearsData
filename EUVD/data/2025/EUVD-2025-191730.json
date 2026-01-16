@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191730", "enisaUuid": "435476a7-3b4f-3e44-919c-6bc8286524bc", "description": "Malicious code in d360-strapi (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-41964"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

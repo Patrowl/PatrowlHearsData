@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173488", "enisaUuid": "3337b4a2-bf33-3b99-8f2d-9719da056ba2", "description": "Malicious code in payulib (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28959"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

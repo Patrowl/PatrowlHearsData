@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121899", "enisaUuid": "80deb748-3d93-39d0-a059-8c5bf80376ba", "description": "Malicious code in soap-loop-terser-luna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148026"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

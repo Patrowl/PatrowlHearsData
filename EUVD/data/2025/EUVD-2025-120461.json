@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120461", "enisaUuid": "45bf4d81-a0f5-3a19-b1a6-45b6fce41734", "description": "Malicious code in wezen-soap-grus-framework (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149469"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

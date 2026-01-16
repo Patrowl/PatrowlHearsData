@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122651", "enisaUuid": "8aced181-a1ce-311f-9dbb-a36c0ab68874", "description": "Malicious code in repository-lyra-husky-await (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147271"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113571", "enisaUuid": "d2fc63e7-6bce-3be7-b57f-79bdc4d09373", "description": "Malicious code in fomalhaut-gridsome-sagitta-html-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142541"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

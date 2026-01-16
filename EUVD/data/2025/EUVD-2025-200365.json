@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200365", "enisaUuid": "30fbe2d7-95d6-314f-9390-6e53332d97d3", "description": "Malicious code in auth-1s7epg (npm)", "datePublished": "2025-12-01T13:03:31", "dateUpdated": "2025-12-02T21:37:28", "baseScore": 0.0, "aliases": ["MAL-2025-191565"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195341", "enisaUuid": "9480aaf7-3ad0-381a-a98e-49f447b39f98", "description": "Malicious code in prettier-stylelint-event-sadr-init (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45589"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

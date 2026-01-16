@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160801", "enisaUuid": "e11da594-e24e-30d0-960e-e8af3ea70353", "description": "Malicious code in buffer-xos (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16300"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

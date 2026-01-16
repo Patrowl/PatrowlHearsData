@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123107", "enisaUuid": "829b1dc3-c3d6-3e9b-9110-f5db57ebb66a", "description": "Malicious code in publish-spectron-europa-enif (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146815"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

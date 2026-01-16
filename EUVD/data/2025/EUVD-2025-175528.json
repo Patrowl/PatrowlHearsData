@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175528", "enisaUuid": "54c7749e-9ae4-30fc-b948-6de99088e3bf", "description": "Malicious code in xanadu-dotenv-safe-markdownlint-materialize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190348"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

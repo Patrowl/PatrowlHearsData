@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193292", "enisaUuid": "e470cd8f-87d3-3930-8ee1-e5ab143e88ce", "description": "Malicious code in auriga-spectron-webdriver-nuxtjs-native (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43539"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

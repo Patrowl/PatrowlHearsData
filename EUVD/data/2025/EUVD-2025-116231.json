@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116231", "enisaUuid": "1553d7ef-b08a-3205-8f00-82fa322fae5e", "description": "Malicious code in babel-react-bootstrap-cache-rate-limiter (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139871"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

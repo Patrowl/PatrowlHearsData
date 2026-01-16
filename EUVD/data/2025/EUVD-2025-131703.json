@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131703", "enisaUuid": "d3bc3271-f3d2-3018-93f8-f951c13eeb31", "description": "Malicious code in @ginger-dev/eslint-config (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7981"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

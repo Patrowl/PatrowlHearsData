@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122286", "enisaUuid": "faa51f13-c1c2-37ca-bef9-50225e14c68e", "description": "Malicious code in sails-atlas-achernar-start (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147636"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

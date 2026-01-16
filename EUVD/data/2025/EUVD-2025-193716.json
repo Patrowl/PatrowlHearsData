@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193716", "enisaUuid": "e7e97d63-f28d-32b9-8a8d-e56360e1a190", "description": "Malicious code in dependencies-backend-mutation-string (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43963"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

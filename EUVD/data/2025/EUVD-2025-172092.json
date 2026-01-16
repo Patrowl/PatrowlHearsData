@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172092", "enisaUuid": "a0659a45-7140-3902-9a08-7756d59cd64a", "description": "Malicious code in nit-template-service-core-lib (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27563"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115654", "enisaUuid": "4e78a554-39ee-3939-86e7-4fc7f3ec49d8", "description": "Malicious code in carpo-subscription-meteor-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140453"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

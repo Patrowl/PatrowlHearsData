@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175402", "enisaUuid": "1edb0dc2-14ef-3b56-a543-442df2142f72", "description": "Malicious code in zero-epsilon-bash-cache-query (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190474"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

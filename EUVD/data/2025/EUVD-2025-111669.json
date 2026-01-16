@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111669", "enisaUuid": "771f8ab5-4272-3c95-964d-b4c05d385076", "description": "Malicious code in lint-prettier-stylelint-phenomic-arcturus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144445"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

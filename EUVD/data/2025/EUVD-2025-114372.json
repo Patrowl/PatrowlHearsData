@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114372", "enisaUuid": "7be181af-f7f1-3caf-8bf2-0d275a8f65b0", "description": "Malicious code in dotenv-parse-variables-vuetify-winston-sass-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141737"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

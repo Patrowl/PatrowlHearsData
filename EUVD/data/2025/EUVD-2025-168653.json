@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168653", "enisaUuid": "ea31ab4e-82f3-342f-916b-d06e9f04b60b", "description": "Malicious code in jwt-mongodb-nestjs-gacrux (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24135"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

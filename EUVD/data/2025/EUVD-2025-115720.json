@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115720", "enisaUuid": "cb25ce00-aa79-3234-a253-b9f70f88cc75", "description": "Malicious code in capella-duplex-upgrade-oauth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140386"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166153", "enisaUuid": "9029bac0-69d6-3afe-a800-d1d3c72fe50b", "description": "Malicious code in gojs-artisan (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21634"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

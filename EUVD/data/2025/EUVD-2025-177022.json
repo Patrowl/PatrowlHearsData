@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177022", "enisaUuid": "bd406e6b-fc82-3bb6-89af-1dcf43553620", "description": "Malicious code in promise-aurora-kastra-backend (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188853"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

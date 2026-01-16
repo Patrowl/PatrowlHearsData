@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121427", "enisaUuid": "2b909a83-4aee-38ef-ba9e-e4c92a7f5ddb", "description": "Malicious code in telesto-release-it-google-javascript (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148501"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

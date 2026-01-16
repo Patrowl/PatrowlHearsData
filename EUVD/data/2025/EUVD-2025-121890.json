@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121890", "enisaUuid": "ed8c86bd-1dc7-3e2b-b948-f16880ebf0d9", "description": "Malicious code in soap-spica-gemini-ganymede (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148035"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

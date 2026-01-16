@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162200", "enisaUuid": "8531f761-b28f-38e5-99b7-845ad5c52086", "description": "Malicious code in cross-env-canopus-stratosphere-local (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17701"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111524", "enisaUuid": "46ba64b3-3690-30c7-b142-324723d0da7c", "description": "Malicious code in lynx-dotenv-safe-nodejs-json (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144591"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

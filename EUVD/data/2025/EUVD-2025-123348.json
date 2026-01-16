@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123348", "enisaUuid": "ffd0f4c6-711c-3037-8a34-a04fd363480b", "description": "Malicious code in process-writable-gacrux-semantic-ui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146574"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

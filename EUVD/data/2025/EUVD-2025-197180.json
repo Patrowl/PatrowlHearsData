@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197180", "enisaUuid": "74d33a29-0e9b-3728-81ed-b1d36d0811b9", "description": "Malicious code in otlp-metrics-export (npm)", "datePublished": "2025-09-26T09:39:00", "dateUpdated": "2025-09-26T09:39:00", "baseScore": 0.0, "aliases": ["MAL-2025-47707"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

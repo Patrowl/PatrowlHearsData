@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124874", "enisaUuid": "abf2c48e-0f31-3cf3-9617-9bbcafe9c317", "description": "Malicious code in miranda-nightwatch-restart-nightwatch (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145044"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

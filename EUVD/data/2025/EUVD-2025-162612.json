@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162612", "enisaUuid": "43771b74-c14f-3716-b9c3-a5c52ed885c6", "description": "Malicious code in dd-transcode-ctrl (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18113"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121825", "enisaUuid": "e8ce0f94-2e1a-3d0d-adfe-705556578fcf", "description": "Malicious code in spawn-kastra-got-json (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148100"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

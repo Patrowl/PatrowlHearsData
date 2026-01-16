@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120548", "enisaUuid": "694338d0-55f9-30ca-9ac7-753378e8d32a", "description": "Malicious code in webdriverio-relay-update-deneb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149381"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

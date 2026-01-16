@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160487", "enisaUuid": "27e52b3a-994b-36e2-a1c2-f28791d9b505", "description": "Malicious code in bootstrap-arcturus-jupiter-electron-builder (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15986"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

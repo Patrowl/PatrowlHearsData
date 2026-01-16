@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122006", "enisaUuid": "4d7403db-4af3-3395-963d-72cea8497196", "description": "Malicious code in shelljs-jabbah-prettier-triton (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147917"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

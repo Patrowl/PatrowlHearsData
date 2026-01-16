@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112444", "enisaUuid": "db5ad978-60eb-3abe-9e1f-c34aa1d33c34", "description": "Malicious code in install-betelgeuse-zenith-nodemon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143669"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

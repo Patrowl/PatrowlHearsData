@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111283", "enisaUuid": "f27639a9-614f-3a0d-8cbb-be7c140fa0bd", "description": "Malicious code in meissa-semantic-ui-javascript-webdriver-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144832"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

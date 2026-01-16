@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182732", "enisaUuid": "9108d9fb-d473-39f3-b431-07aadde542f6", "description": "Malicious code in sendgst (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32947"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

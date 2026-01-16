@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170957", "enisaUuid": "3ed90153-d413-3a9a-ae57-74256627ad9d", "description": "Malicious code in mini-redux-form (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26428"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

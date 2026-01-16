@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173430", "enisaUuid": "e2b74214-e16e-3e70-9813-0f62db985b4e", "description": "Malicious code in passport-ibm-openidconnect (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28901"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

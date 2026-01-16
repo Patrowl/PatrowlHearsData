@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123443", "enisaUuid": "6de8e6d0-4d89-35d2-9b67-972ba95c1363", "description": "Malicious code in prettier-plugin-markdown-concurrently-helmet-carina (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146479"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

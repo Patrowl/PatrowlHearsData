@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111359", "enisaUuid": "a47ecb4c-23e8-390f-933c-5c29492e7127", "description": "Malicious code in materialize-spinner-superagent-castor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144756"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

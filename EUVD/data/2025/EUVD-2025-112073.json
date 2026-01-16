@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112073", "enisaUuid": "e147c7a2-d74a-3b86-971c-64c97d8923f8", "description": "Malicious code in juno-superagent-stop-antares (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144040"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

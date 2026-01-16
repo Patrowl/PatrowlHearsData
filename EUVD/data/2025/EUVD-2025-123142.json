@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123142", "enisaUuid": "612846e9-5970-333a-b57d-322f0636a690", "description": "Malicious code in publish-concurrently-gacrux-sirius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146780"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

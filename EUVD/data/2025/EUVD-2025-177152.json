@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177152", "enisaUuid": "26b4453f-9454-37b8-8c0c-785244b6fa78", "description": "Malicious code in pipe-parallax-build-kinetic (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188723"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191207", "enisaUuid": "b5635f4b-3147-3f79-9e74-7af036d89f29", "description": "Malicious code in epc-ui-tour (npm)", "datePublished": "2025-08-26T15:13:12", "dateUpdated": "2025-08-26T15:13:12", "baseScore": 0.0, "aliases": ["MAL-2025-41430"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

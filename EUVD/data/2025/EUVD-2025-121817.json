@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121817", "enisaUuid": "ec7f0303-a026-3e52-b451-6296d072de22", "description": "Malicious code in spawn-wasat-kronos-child-process (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148108"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

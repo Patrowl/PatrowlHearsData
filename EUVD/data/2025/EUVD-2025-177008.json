@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177008", "enisaUuid": "bc4d454f-fd02-394d-8190-04757e59daa2", "description": "Malicious code in promise-yonder-lint-pyxis (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188867"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

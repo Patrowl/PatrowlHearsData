@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113441", "enisaUuid": "293e6222-2c0a-390f-bf25-0aeb4ee16e68", "description": "Malicious code in foundation-sagitta-meissa-dotenv-parse-variables (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142671"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128736", "enisaUuid": "1f03f7f4-0c11-35e7-a361-debae3027898", "description": "Malicious code in @ftapi/components (npm)", "datePublished": "2025-06-17T09:06:01", "dateUpdated": "2025-06-18T01:11:33", "baseScore": 0.0, "aliases": ["MAL-2025-5004"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

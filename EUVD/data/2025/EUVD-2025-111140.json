@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111140", "enisaUuid": "43bda253-d112-339a-a08e-e2fbeb6086c7", "description": "Malicious code in mini-css-extract-plugin-graphql-karma-nodejs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144975"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

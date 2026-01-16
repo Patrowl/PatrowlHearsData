@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177779", "enisaUuid": "f024f8df-4d47-3d64-ac30-fe0255892f15", "description": "Malicious code in module-serialize-fire-bash-mu (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188103"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

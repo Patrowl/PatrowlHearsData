@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196171", "enisaUuid": "743a9610-644c-32f6-9655-7d575bd30ad3", "description": "Malicious code in typespec-validation (npm)", "datePublished": "2025-09-05T16:38:20", "dateUpdated": "2025-09-05T16:38:20", "baseScore": 0.0, "aliases": ["MAL-2025-46419"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

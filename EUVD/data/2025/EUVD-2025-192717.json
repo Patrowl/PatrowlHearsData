@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-192717", "enisaUuid": "17fd3344-31c4-300b-bc9c-2cb61679dd1a", "description": "Malicious code in @trp-beacon-ui-kit/style-tokens (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-42964"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

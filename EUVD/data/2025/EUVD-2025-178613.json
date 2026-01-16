@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178613", "enisaUuid": "507c4c77-3603-3f38-a413-87e8d5494c8a", "description": "Malicious code in halley-pm2-semantic-ui-commitlint-config-angular (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187269"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

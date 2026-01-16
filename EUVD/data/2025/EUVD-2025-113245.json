@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113245", "enisaUuid": "1a9eded3-81fe-3ae3-8a88-965f5eec822d", "description": "Malicious code in geckodriver-indus-testcafe-barnard (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142867"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

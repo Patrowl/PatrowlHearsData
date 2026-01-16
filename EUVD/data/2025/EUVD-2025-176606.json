@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176606", "enisaUuid": "d1b09453-7995-36b3-95a2-4e1951b292e6", "description": "Malicious code in rollup-plugin-chai-soap-terser-webpack-plugin (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189269"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

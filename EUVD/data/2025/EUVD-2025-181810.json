@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181810", "enisaUuid": "379c9cd5-e929-3f1c-a821-7d12f6b4a30f", "description": "Malicious code in registry-promise-quantumfoam-playwright (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32025"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121157", "enisaUuid": "605185b1-ff5a-39f5-8207-b94ba7e86a4e", "description": "Malicious code in transform-pegasus-browserify-docusaurus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148771"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

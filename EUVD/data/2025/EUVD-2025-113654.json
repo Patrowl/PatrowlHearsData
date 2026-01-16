@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113654", "enisaUuid": "e3403d19-1202-3c25-86a1-a9f6181cc9a0", "description": "Malicious code in fetch-socketio-cosmiconfig-tool (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142457"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

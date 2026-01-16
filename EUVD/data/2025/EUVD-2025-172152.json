@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172152", "enisaUuid": "59d1061a-7b22-390a-b36d-06631b73022a", "description": "Malicious code in node-freefare (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27623"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

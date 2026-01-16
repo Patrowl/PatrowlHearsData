@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116543", "enisaUuid": "bd79f88a-b749-3aa6-bf37-0da7c0146fcd", "description": "Malicious code in aquarius-webdriver-mocha-hyperion-cross-env (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139559"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180260", "enisaUuid": "de71c405-b82d-3bfa-b4aa-063560a112e9", "description": "Malicious code in async-public-eslint-plugin-loop (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185628"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176676", "enisaUuid": "100da1b1-48b9-395f-be20-0c4acf372f3b", "description": "Malicious code in resolvers-heliophysics-apollo-cli (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189199"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

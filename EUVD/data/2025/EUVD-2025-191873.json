@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191873", "enisaUuid": "d4b4b264-1fdc-354c-9cb4-2994528c96b4", "description": "Malicious code in vortex-logger (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-42113"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116305", "enisaUuid": "e118c705-4084-3fb8-a7b0-78fc83ca6905", "description": "Malicious code in await-dynamo-europa-development (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139797"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

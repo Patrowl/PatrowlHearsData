@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112497", "enisaUuid": "fcac4dc1-be42-3a77-ad32-d90fefb555ab", "description": "Malicious code in init-carpo-kastra-auth0 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143616"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

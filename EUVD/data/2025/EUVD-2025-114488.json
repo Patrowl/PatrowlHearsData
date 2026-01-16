@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114488", "enisaUuid": "e76abd62-761d-3024-a874-a5a575cd3fea", "description": "Malicious code in development-heka-fetch-deimos (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141621"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

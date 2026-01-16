@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177319", "enisaUuid": "2fe0a49b-24ae-3f80-a4bb-1857a103884c", "description": "Malicious code in parse-array-slow-emulate-notify (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188563"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

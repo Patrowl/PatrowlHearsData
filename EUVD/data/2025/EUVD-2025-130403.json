@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130403", "enisaUuid": "bc82531c-7fd8-3631-bfc7-eda1950f3322", "description": "Malicious code in local-dep (npm)", "datePublished": "2025-08-04T19:45:56", "dateUpdated": "2025-08-04T19:45:56", "baseScore": 0.0, "aliases": ["MAL-2025-6680"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

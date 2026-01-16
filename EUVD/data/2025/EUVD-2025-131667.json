@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131667", "enisaUuid": "eb40308d-389d-3637-bc17-9b854fcefdbf", "description": "Malicious code in @frozen-team/rp-agent-js-codecept (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7945"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

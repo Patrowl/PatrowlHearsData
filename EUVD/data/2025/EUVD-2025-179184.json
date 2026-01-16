@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179184", "enisaUuid": "fed7451d-d189-335c-b612-782ca7829564", "description": "Malicious code in electron-builder-csv-npm-asteroid (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186698"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

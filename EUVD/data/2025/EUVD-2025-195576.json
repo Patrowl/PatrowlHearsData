@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195576", "enisaUuid": "e5238244-0001-391e-92f0-5ef86e24d99a", "description": "Malicious code in restart-dependencies-antares-cluster (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45824"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

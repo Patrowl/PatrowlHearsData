@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128724", "enisaUuid": "cad7c115-3090-3bd0-b36c-e8d3ab159f6c", "description": "Malicious code in just-config-data (npm)", "datePublished": "2025-06-16T22:11:11", "dateUpdated": "2025-06-19T01:34:40", "baseScore": 0.0, "aliases": ["MAL-2025-4992"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

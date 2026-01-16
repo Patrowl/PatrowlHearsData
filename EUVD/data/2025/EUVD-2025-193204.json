@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193204", "enisaUuid": "45bb8b14-4bdc-3c9f-9533-6b297c5e5eab", "description": "Malicious code in antares-native-ablation-soap (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43451"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

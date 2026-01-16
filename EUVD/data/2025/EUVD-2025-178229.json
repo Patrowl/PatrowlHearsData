@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178229", "enisaUuid": "4a7997c9-3679-34b1-87e9-1019ab4d350c", "description": "Malicious code in kappa-awk-deploy-simulate-encrypt (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187653"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

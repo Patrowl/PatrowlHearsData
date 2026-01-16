@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122529", "enisaUuid": "ede029e0-c2cf-36f3-a374-4805e7cdcf94", "description": "Malicious code in restart-quantum-venus-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147393"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

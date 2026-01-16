@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195319", "enisaUuid": "d19683ee-aae8-32b1-bbc4-32e94db5cbf7", "description": "Malicious code in playwright-config-titan-greatfilter (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45567"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

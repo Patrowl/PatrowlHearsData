@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179242", "enisaUuid": "7b3d264d-5507-3099-a3c1-8d845b1fcaa6", "description": "Malicious code in draco-hermes-betelgeuse-auth0 (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186640"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

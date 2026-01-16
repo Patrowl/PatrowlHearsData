@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123978", "enisaUuid": "5ebeef00-7092-3443-9d45-2b6904ab1417", "description": "Malicious code in package-prompts-jwt-ophiuchus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145943"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

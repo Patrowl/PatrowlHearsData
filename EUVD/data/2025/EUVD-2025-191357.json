@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191357", "enisaUuid": "ad1e7874-abad-39f1-a406-e79ad2c34ee9", "description": "Malicious code in ort-whisper (npm)", "datePublished": "2025-08-28T07:35:34", "dateUpdated": "2025-08-28T07:35:34", "baseScore": 0.0, "aliases": ["MAL-2025-41590"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

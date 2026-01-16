@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111733", "enisaUuid": "a5e7436f-2fd5-3659-b472-3b07cf49c195", "description": "Malicious code in library-markdown-proxima-cluster (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144380"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

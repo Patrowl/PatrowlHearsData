@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115604", "enisaUuid": "a3f716fc-d44b-341c-82a9-f3d07a2be910", "description": "Malicious code in celeste-cli-uglify-js-update (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140503"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

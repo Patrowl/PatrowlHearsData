@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115548", "enisaUuid": "69357b87-49b3-3c7b-9e2c-66b352ee3271", "description": "Malicious code in ceres-configstore-jwt-chalk (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140559"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

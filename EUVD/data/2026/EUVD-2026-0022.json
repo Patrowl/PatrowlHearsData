@@ -1,0 +1,1 @@
+{"id": "EUVD-2026-0022", "enisaUuid": "07b47c3e-8df5-3887-a2a9-656587e16f11", "description": "Malicious code in common-cli-utils (npm)", "datePublished": "2026-01-01T16:50:05", "dateUpdated": "2026-01-01T16:50:05", "baseScore": 0.0, "aliases": ["MAL-2026-2"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

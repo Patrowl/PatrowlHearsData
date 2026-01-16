@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183708", "enisaUuid": "5fa6b573-452f-3fd4-b827-9ca39aa6db5c", "description": "Malicious code in star-cold-sudo-encrypt-void (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33923"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171178", "enisaUuid": "2fd5f1a7-4fb1-33c9-a75a-a45072b8751d", "description": "Malicious code in monitor-eta-decode-cold-assert (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26649"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

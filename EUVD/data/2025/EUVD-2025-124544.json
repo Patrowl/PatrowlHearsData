@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124544", "enisaUuid": "39a7e7ec-ea61-3079-8c79-11abca73cfd3", "description": "Malicious code in neptune-postgres-google-ganymede (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145376"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

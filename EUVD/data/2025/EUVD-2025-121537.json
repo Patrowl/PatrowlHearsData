@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121537", "enisaUuid": "d72bacb0-df12-3842-a675-9f19ca3d2f4a", "description": "Malicious code in supervisor-callback-xo-gridsome (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148389"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

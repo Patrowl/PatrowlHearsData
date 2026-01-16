@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111891", "enisaUuid": "6cc26c48-9453-36b7-a512-51130b594656", "description": "Malicious code in kronos-library-jasmine-spectron (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144222"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

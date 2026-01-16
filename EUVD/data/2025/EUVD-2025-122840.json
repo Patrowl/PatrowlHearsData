@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122840", "enisaUuid": "375d95be-23b6-3a2d-846b-3a334a71bb3c", "description": "Malicious code in readable-heka-chakra-ui-lacerta (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147082"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

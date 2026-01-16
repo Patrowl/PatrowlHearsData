@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121902", "enisaUuid": "77c2678c-e3f8-3aa9-9d36-0cd0171ebc5a", "description": "Malicious code in soap-hyperion-juno-mysql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148023"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

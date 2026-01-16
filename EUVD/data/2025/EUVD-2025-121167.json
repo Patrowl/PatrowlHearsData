@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121167", "enisaUuid": "fcc3a184-2b46-3b7c-8cdf-94b8ab6324f6", "description": "Malicious code in transform-delphinus-umbriel-pm2 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148761"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

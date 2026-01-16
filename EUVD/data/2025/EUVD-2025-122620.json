@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122620", "enisaUuid": "0c66b441-5daa-38a1-a936-cd1632717432", "description": "Malicious code in request-mysql-equinox-ariel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147302"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

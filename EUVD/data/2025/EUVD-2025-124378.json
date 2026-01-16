@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124378", "enisaUuid": "c3a80a0e-f5e3-39c9-a246-328e04e57237", "description": "Malicious code in node-sass-grunt-pegasus-convict (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145543"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

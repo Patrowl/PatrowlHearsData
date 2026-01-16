@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122473", "enisaUuid": "0b001a7f-8672-3f2e-a1d2-684036fd3ade", "description": "Malicious code in rimraf-dotenv-safe-wasat-hugo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147449"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

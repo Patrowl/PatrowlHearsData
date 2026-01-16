@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129859", "enisaUuid": "04aa8e74-9dec-3414-9c69-811e7707bfee", "description": "Malicious code in ts-browser-webpack (npm)", "datePublished": "2025-07-17T14:57:45", "dateUpdated": "2025-08-23T13:37:40", "baseScore": 0.0, "aliases": ["MAL-2025-6132"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

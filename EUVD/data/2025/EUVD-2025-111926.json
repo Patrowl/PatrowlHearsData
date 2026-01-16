@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111926", "enisaUuid": "164267f1-abba-3b6a-affd-cdb9c14290fd", "description": "Malicious code in kinetic-typeorm-less-loader-markdownlint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144187"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

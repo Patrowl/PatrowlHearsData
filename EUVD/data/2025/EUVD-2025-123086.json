@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123086", "enisaUuid": "d5ea1f59-8a4c-3bd7-8cb0-689c3141c090", "description": "Malicious code in pulsar-mongoose-aquarius-betelgeuse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146836"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

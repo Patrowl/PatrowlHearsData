@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-38428", "enisaUuid": "4d2ebe8a-d8a2-349d-9f31-e810b4a11130", "description": "Malicious code in elf-stats-northbound-ledger-135 (npm)", "datePublished": "2025-11-09T00:17:09", "dateUpdated": "2025-11-09T00:17:09", "baseScore": 0.0, "aliases": ["MAL-2025-49402"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

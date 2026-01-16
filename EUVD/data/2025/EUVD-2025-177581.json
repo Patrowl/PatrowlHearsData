@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177581", "enisaUuid": "ca1f9077-5e77-3f39-b9a6-2259e485602b", "description": "Malicious code in node-awk-resolve-dog-public (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188301"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122720", "enisaUuid": "5ea1bab5-326c-3fdc-909b-3273301fb90c", "description": "Malicious code in relay-link-algol-quasar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147202"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

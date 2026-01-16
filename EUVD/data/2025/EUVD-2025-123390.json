@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123390", "enisaUuid": "92d3fab2-81d1-3f27-9b40-71a2f8b38315", "description": "Malicious code in private-figures-package-commitlint-config-angular (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146532"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

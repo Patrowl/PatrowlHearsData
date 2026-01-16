@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180304", "enisaUuid": "3a283938-2e96-38cb-91d5-ad432795e4a0", "description": "Malicious code in astro-cors-pulsar-neutrino (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185584"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

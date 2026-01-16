@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112028", "enisaUuid": "35153628-5d4a-30a6-99be-1d52bd5ef1ec", "description": "Malicious code in jwt-semantic-ui-nuxtjs-library (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144085"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

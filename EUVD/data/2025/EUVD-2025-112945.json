@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112945", "enisaUuid": "1b6a1cb9-7dc0-3cf5-a5d5-aec7a128aab1", "description": "Malicious code in halley-soap-cosmiconfig-axios (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143167"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

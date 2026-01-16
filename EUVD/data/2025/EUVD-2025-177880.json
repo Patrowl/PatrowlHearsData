@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177880", "enisaUuid": "cfca5f25-aab9-3d2d-828b-40d6a6e3375f", "description": "Malicious code in metabolomics-cross-env-antares-run-script (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188002"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

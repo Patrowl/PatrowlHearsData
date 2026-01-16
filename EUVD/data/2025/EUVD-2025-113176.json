@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113176", "enisaUuid": "ba15e7eb-31e0-3cc2-af27-18e03195b25e", "description": "Malicious code in global-got-sirius-antd (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142936"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

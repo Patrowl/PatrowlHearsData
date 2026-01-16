@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169596", "enisaUuid": "23345c46-99c4-3266-b252-36899b5e34cf", "description": "Malicious code in leda-middleware-pm2-impulse (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25067"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

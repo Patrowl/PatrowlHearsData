@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112043", "enisaUuid": "832b3e41-ee65-33b0-9693-b9f984233be9", "description": "Malicious code in jwt-bulma-private-passport (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144070"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

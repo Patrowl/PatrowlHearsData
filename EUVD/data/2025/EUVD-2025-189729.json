@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189729", "enisaUuid": "aab11ee7-58ec-3b46-a655-d417d2b0ac78", "description": "Malicious code in xray-k3s-project (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39951"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

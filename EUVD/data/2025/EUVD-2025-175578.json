@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175578", "enisaUuid": "7551242a-f915-3126-ab0d-b04e08680b65", "description": "Malicious code in websockets-winston-neptune-ablation (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190298"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

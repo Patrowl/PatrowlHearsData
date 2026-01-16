@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113301", "enisaUuid": "0f4745b8-bc12-3af5-89fb-bb510f0f20af", "description": "Malicious code in ganymede-morgan-child-process-mysql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142811"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

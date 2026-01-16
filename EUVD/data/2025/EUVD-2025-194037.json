@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194037", "enisaUuid": "4651169d-0c0c-3261-b6b1-47dd7b1ea832", "description": "Malicious code in flight-rest-successful (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44284"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

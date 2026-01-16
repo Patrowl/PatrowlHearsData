@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128749", "enisaUuid": "a462e9fa-d532-3d6d-a89a-31da9610a7be", "description": "Malicious code in @biovia/amd-loader (npm)", "datePublished": "2025-06-12T21:16:06", "dateUpdated": "2025-06-12T21:16:06", "baseScore": 0.0, "aliases": ["MAL-2025-5017"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

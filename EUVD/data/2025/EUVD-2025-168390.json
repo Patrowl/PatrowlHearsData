@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168390", "enisaUuid": "4b1cd8e1-b3a3-371f-8a50-9a8705cc8691", "description": "Malicious code in joviology-fomalhaut-superagent-fetch (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23872"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

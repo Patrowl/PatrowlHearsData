@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176075", "enisaUuid": "8d3c9931-4bb2-32ec-a60d-c3d1c004c6f7", "description": "Malicious code in tachyon-string-version-sequelize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189800"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

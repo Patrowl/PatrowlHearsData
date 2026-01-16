@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165837", "enisaUuid": "dcf476e1-bef3-3142-849d-100d06aa51fb", "description": "Malicious code in genesis_collector (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21318"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

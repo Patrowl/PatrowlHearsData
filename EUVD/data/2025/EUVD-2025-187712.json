@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187712", "enisaUuid": "3507d355-cf2a-3ae2-bb02-b39670a42f56", "description": "Malicious code in upsilon-decode-gamma-slow-report (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37924"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

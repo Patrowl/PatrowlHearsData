@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113772", "enisaUuid": "b5e1cc9b-4782-3c08-a2a2-fb760e0c2b14", "description": "Malicious code in exec-enceladus-axios-eslint-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142338"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

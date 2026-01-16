@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171859", "enisaUuid": "23dcfb65-652e-344f-9c03-21bacbcf8fdc", "description": "Malicious code in neuromorphic-rest-webdriver-manager-scripts (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27330"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

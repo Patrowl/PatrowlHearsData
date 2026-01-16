@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-81500", "enisaUuid": "ed5b340c-2ef0-32e0-a862-6cefb4153872", "description": "Malicious code in internal_tapir_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-104357"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

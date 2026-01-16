@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121314", "enisaUuid": "05125463-36f1-330c-8899-a698fdfbba7a", "description": "Malicious code in tethys-cypress-optimize-css-assets-webpack-plugin-enif (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148614"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

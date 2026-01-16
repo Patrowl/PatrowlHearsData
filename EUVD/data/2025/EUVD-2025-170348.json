@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170348", "enisaUuid": "792643a1-79ef-3b2c-89fa-960b8cb2c3bb", "description": "Malicious code in manage-sky-id-container (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25819"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

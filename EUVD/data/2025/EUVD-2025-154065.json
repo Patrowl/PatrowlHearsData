@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-154065", "enisaUuid": "0b9358d6-bea0-3375-9c81-9eddc3f3ca4d", "description": "Malicious code in @tiktok-frontend/app-center-connect (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9564"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

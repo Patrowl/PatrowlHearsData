@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175682", "enisaUuid": "178d895e-1e03-3b62-9a40-e7d956c5b057", "description": "Malicious code in vuepress-toml-magellan-rimraf (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190194"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

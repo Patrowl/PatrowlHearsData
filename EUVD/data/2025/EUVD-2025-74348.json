@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-74348", "enisaUuid": "173329a5-91d9-3e7b-9c15-8215bda02263", "description": "Malicious code in primitive_cockroach_tomato-32 (npm)", "datePublished": "2025-11-11T07:47:12", "dateUpdated": "2025-11-11T07:47:12", "baseScore": 0.0, "aliases": ["MAL-2025-112204"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

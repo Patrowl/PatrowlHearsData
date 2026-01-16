@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112229", "enisaUuid": "5da2e59a-58ff-35e3-9c47-27a0bb040985", "description": "Malicious code in javascript-nodejs-lint-staged-build (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143884"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116293", "enisaUuid": "736e7aae-efa6-3c80-9f5d-7248b4c99f7a", "description": "Malicious code in await-sqlite-betelgeuse-fork (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139809"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122898", "enisaUuid": "f12b6bdb-8f02-34ac-9708-8ad0f42bf22f", "description": "Malicious code in radiant-spinner-prompts-puppeteer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147024"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114754", "enisaUuid": "d60c33c3-312f-3c8a-8293-60032a92428a", "description": "Malicious code in csv-quantum-gemini-meteor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141355"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183367", "enisaUuid": "24a0e097-be4d-3cf6-8429-501a1439192f", "description": "Malicious code in socfetch (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33582"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175726", "enisaUuid": "308748f4-804d-3a9c-bd62-99ab65139960", "description": "Malicious code in view-object-promise-xi-table (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190149"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

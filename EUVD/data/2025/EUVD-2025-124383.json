@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124383", "enisaUuid": "f44bab46-0fd8-3bd6-82f1-5067f7efe0fb", "description": "Malicious code in node-sass-firebase-enceladus-loopback (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145538"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

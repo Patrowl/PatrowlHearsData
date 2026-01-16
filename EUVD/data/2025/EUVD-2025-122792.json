@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122792", "enisaUuid": "643af57a-57fc-3e84-885b-3549ebb4d1cf", "description": "Malicious code in registry-koa-iota-wolf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147130"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

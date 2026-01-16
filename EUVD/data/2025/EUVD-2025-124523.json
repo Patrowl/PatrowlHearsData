@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124523", "enisaUuid": "bac8c30f-1651-3a21-9451-40cfea8de239", "description": "Malicious code in nestjs-google-websockets-rocket (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145397"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

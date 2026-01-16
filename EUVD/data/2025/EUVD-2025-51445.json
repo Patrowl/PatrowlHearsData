@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-51445", "enisaUuid": "b55c7b42-e79e-3e82-9e3d-6f545c5c4794", "description": "Malicious code in typical-fuchsia-grouse (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-71204"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

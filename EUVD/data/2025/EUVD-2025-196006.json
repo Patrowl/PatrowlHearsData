@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196006", "enisaUuid": "0f239fc2-7a9b-39ad-8399-a963f15c973b", "description": "Malicious code in terser-webpack-plugin-loglevel-eridanus-enceladus (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46254"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

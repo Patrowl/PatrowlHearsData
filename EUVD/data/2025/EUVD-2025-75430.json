@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75430", "enisaUuid": "ee4c9afd-64bf-3a24-a3a0-1df9886c94e9", "description": "Malicious code in thundering_raven-silentdev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-109654"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

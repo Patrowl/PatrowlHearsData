@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127138", "enisaUuid": "4b82e34f-e3e9-3ba2-8746-51b0d2a252f6", "description": "Malicious code in eslint-config-bfx-ui (npm)", "datePublished": "2025-04-23T15:49:56", "dateUpdated": "2025-04-23T15:49:56", "baseScore": 0.0, "aliases": ["MAL-2025-3397"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

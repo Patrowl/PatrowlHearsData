@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189683", "enisaUuid": "b07e9cb2-1282-3007-94ce-2b88ab5d06ad", "description": "Malicious code in xo-bounce (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39899"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

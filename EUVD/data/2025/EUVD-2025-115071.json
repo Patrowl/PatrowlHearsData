@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115071", "enisaUuid": "481300ce-c120-335b-990a-d690801f8068", "description": "Malicious code in config-resolvers-dynamo-elektra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141038"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

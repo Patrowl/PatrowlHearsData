@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123925", "enisaUuid": "e7aa1d3b-0dae-3472-90d5-5f534dd7fe94", "description": "Malicious code in pavo-dotenv-safe-cosmos-cordelia (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145996"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

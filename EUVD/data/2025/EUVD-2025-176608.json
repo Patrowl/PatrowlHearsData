@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176608", "enisaUuid": "26981b93-e845-349d-a810-e875e619e18e", "description": "Malicious code in rollup-nova-wavefunction-rimraf (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189267"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

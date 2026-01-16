@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121410", "enisaUuid": "5b8dc60a-74bf-336b-a6c9-783ab4d244b6", "description": "Malicious code in terser-eslint-config-got-scorpius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148518"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

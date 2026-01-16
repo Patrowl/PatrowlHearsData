@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130315", "enisaUuid": "656e510e-f9ac-3960-8664-5a69d67c6090", "description": "Malicious code in sparseml-nightly (PyPI)", "datePublished": "2025-07-31T19:16:30", "dateUpdated": "2025-07-31T19:16:30", "baseScore": 0.0, "aliases": ["MAL-2025-6590"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

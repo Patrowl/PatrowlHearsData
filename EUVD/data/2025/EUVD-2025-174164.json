@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174164", "enisaUuid": "ffdd5a64-306c-39e1-a31e-a77a5064fb1b", "description": "Malicious code in prettify-error (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29635"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

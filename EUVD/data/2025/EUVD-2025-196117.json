@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196117", "enisaUuid": "42459adb-8e4e-332b-a0d5-d5b85568772b", "description": "Malicious code in tool-cypress-atlas-weywot (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46365"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

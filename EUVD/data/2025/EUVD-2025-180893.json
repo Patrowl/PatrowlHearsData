@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180893", "enisaUuid": "c2cac913-3b6a-3922-bf69-c6c75a52fddc", "description": "Malicious code in quarry-xray-ldfa (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31107"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

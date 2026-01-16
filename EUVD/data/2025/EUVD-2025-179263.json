@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179263", "enisaUuid": "b80f20c4-2aae-3f02-be03-087a5d3505e7", "description": "Malicious code in dotenv-parse-variables-public-cosmiconfig-zenobia (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186619"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

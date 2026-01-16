@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131676", "enisaUuid": "9a872387-4b83-3c21-97ca-b94ea3c6a0ca", "description": "Malicious code in @frozen-team-qa/oti-service (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7954"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

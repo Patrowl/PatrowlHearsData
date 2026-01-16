@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115518", "enisaUuid": "89bde462-472c-36d3-81cf-6cb294431bb6", "description": "Malicious code in chai-firebase-koa-wezen (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140589"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

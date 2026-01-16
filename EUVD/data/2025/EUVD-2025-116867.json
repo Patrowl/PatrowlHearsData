@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116867", "enisaUuid": "832e8d7b-17be-3ffa-a162-a0993dfdb3c3", "description": "Malicious code in aether-nebula-sequelize-readable (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139235"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

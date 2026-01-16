@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76938", "enisaUuid": "911dd234-0d9e-3ddb-9cf6-21b750e4a037", "description": "Malicious code in evident_pelican-appteadev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-102288"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

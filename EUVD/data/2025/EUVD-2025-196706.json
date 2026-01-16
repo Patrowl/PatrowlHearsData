@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196706", "enisaUuid": "6647ae02-42e8-3b3b-b001-736d0a807c7c", "description": "Malicious code in monolith-twirp-octoshift-imports (RubyGems)", "datePublished": "2025-09-01T09:52:38", "dateUpdated": "2025-09-01T09:52:38", "baseScore": 0.0, "aliases": ["MAL-2025-46954"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

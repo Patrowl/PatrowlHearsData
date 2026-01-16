@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174072", "enisaUuid": "6d1abe98-a1d3-3747-9ab1-e78bd86c4570", "description": "Malicious code in postcss-minify-browser (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29543"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

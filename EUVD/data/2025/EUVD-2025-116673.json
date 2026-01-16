@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116673", "enisaUuid": "a61a732e-7925-3696-a374-ca1d023842a2", "description": "Malicious code in antares-pegasus-request-uglify-js (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139429"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

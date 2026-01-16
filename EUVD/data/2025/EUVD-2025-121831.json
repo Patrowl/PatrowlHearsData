@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121831", "enisaUuid": "0c1b74ed-c646-38b4-8975-d3fabfb20897", "description": "Malicious code in spawn-chai-ursa-eslint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148094"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

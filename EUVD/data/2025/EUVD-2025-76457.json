@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76457", "enisaUuid": "c2e43a58-12e6-37ee-8cb1-3eb737f2f5c5", "description": "Malicious code in known_snail-apptea (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-104842"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

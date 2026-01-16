@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121703", "enisaUuid": "0dfbde98-146f-33b3-a907-55951023364b", "description": "Malicious code in sqlite-cluster-perseus-aquarius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148222"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

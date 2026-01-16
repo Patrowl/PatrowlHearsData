@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164159", "enisaUuid": "eeb18323-c273-33fe-9514-4dcbe6c15a51", "description": "Malicious code in emulate-slow-execute-try-small (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19638"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

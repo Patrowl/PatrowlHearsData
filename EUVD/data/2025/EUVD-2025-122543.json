@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122543", "enisaUuid": "3db5e4c8-e5d3-30f6-9ab7-09286202a6b1", "description": "Malicious code in restart-dotenv-safe-proxima-celeste (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147379"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

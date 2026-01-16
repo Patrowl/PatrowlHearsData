@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122125", "enisaUuid": "8ed653cd-81da-3f67-97ca-de24306cc31d", "description": "Malicious code in sedna-upgrade-eslint-enif (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147798"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

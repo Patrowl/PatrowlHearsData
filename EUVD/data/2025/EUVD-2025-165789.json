@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165789", "enisaUuid": "7d0cb9e9-e172-38eb-866f-9d125c4e9597", "description": "Malicious code in generator-accelerate-redux (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21270"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178825", "enisaUuid": "fb509bb8-b74f-30ed-9119-358758706a70", "description": "Malicious code in function-finally-beta-fast-deploy (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187057"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

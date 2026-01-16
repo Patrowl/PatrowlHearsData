@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111881", "enisaUuid": "2dccf62b-5f9c-3e77-ba40-5ea5406eb654", "description": "Malicious code in lacerta-apex-weywot-socketio (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144232"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

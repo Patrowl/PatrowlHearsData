@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121250", "enisaUuid": "70e3ba1f-47ed-3696-be38-f78930e91f82", "description": "Malicious code in titan-fomalhaut-node-config-quark (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148678"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

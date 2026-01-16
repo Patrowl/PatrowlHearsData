@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178041", "enisaUuid": "e1a50963-a368-3bec-bb78-45c5946a1606", "description": "Malicious code in local-terser-postcss-loader-eventhoriz (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187841"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

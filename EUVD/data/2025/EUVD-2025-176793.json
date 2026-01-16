@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176793", "enisaUuid": "05def763-f797-3aa3-a9ef-a460297aa284", "description": "Malicious code in rate-limiter-chalk-miranda-cassini (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189082"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

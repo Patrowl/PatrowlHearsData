@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-36281", "enisaUuid": "ec5d7da8-702e-3ca0-9dc6-61fe3f7f1ac0", "description": "Malicious code in @testerconfusion/malicious-poc (npm)", "datePublished": "2025-10-04T01:16:58", "dateUpdated": "2025-10-27T18:09:48", "baseScore": 0.0, "aliases": ["MAL-2025-48354"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

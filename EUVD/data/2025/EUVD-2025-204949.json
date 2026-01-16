@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-204949", "enisaUuid": "302c3fbd-0947-31f1-8857-b5e63aa52d38", "description": "Malicious code in @ownbackup/ob-design-system (npm)", "datePublished": "2025-12-23T07:49:18", "dateUpdated": "2025-12-24T00:53:15", "baseScore": 0.0, "aliases": ["MAL-2025-192704"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

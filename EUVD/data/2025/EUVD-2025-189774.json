@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189774", "enisaUuid": "725d2783-5570-330a-ad7a-7d2530ebb874", "description": "Malicious code in xslasa20-poly1305-encoding (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39996"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

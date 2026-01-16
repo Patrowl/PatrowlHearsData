@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180312", "enisaUuid": "f09ef535-679a-3d51-afe8-231629f91b35", "description": "Malicious code in assert-analyze-authorize-awk-eta (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185576"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124772", "enisaUuid": "2ad71b28-b71c-32ce-b363-76eab2755d28", "description": "Malicious code in mongoose-andromeda-janus-chai (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145146"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

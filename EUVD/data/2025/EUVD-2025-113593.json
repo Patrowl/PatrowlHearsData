@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113593", "enisaUuid": "5a761a1f-a235-33cb-b4f7-15f6dd86a923", "description": "Malicious code in firebase-webdriver-manager-vega-neptune (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142518"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

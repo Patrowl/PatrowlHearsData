@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125685", "enisaUuid": "8f5f9842-48a8-31aa-946f-beff5fc1b507", "description": "Malicious code in sysaid-query-data (npm)", "datePublished": "2025-03-03T13:40:50", "dateUpdated": "2025-03-03T13:40:50", "baseScore": 0.0, "aliases": ["MAL-2025-1943"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

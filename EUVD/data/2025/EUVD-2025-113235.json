@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113235", "enisaUuid": "947f2a1e-8277-3f7e-97ff-283bb81a0d1b", "description": "Malicious code in geckodriver-nuxtjs-typeorm-virgo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142877"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

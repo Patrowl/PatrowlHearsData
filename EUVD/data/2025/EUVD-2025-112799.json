@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112799", "enisaUuid": "03368e68-897e-3162-9050-f121754dec76", "description": "Malicious code in hermes-css-minimizer-webpack-plugin-local-request (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143313"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

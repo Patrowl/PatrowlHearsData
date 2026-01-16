@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122810", "enisaUuid": "14c8f72f-526d-3062-a6df-0b76a41f2d15", "description": "Malicious code in redis-promise-sails-umbra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147112"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167784", "enisaUuid": "384e0587-a194-3a4d-ae30-956f95e215ee", "description": "Malicious code in integrationkit-nodejs (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23266"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

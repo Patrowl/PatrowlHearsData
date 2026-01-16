@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160920", "enisaUuid": "fcce00b8-bf03-373a-a58c-59a3038ed239", "description": "Malicious code in cache-cluster-async-gamma-serialize (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16419"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

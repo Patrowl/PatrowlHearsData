@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122955", "enisaUuid": "b198cb93-1838-3734-aa25-fbb8de64f7dd", "description": "Malicious code in query-epimetheus-chromedriver-prettier-plugin-markdown (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146967"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

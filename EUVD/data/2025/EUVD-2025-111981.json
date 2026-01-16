@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111981", "enisaUuid": "b9d14c6a-c872-3175-940c-7f80ea359c9b", "description": "Malicious code in kastra-scorpius-mocha-fetch (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144132"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

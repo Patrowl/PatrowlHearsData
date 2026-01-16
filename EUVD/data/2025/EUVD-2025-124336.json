@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124336", "enisaUuid": "e2a870ec-5fc6-3b82-b917-b67f59f71d5e", "description": "Malicious code in nodemon-mongoose-middleware-kastra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145585"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

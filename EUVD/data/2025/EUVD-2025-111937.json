@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111937", "enisaUuid": "9ec34be4-be5d-3dba-9841-80da741bc45c", "description": "Malicious code in kinetic-lint-staged-commitlint-config-angular-vortex (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144176"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

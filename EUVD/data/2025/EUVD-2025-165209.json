@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165209", "enisaUuid": "51a9f2c7-8995-314c-acd4-4a69d1f9a8b0", "description": "Malicious code in flatmap-stream (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20690"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

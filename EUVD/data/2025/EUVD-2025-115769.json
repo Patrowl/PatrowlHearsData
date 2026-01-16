@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115769", "enisaUuid": "22a4b4de-2be2-337e-b11c-4ccc7194a54c", "description": "Malicious code in callisto-jwt-fomalhaut-triton (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140337"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

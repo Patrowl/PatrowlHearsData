@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162205", "enisaUuid": "f1a4f4a9-1ed9-3b9e-abbe-4d1a2e9a4a11", "description": "Malicious code in cross-env-wormhole-passport-regulus (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17706"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

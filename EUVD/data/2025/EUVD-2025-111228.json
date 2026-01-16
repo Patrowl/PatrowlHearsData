@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111228", "enisaUuid": "715a762b-2de9-39b5-804e-cd9e740d66ae", "description": "Malicious code in metalsmith-polaris-browserify-zenith (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144887"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124310", "enisaUuid": "91a9b5bc-2a8f-3050-b4a8-77ec21cfa5db", "description": "Malicious code in non-blocking-html-webpack-plugin-exec-epimetheus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145611"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

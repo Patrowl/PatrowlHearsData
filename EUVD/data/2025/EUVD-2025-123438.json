@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123438", "enisaUuid": "541f662c-d8ce-3d28-9aab-19b2f9b51a07", "description": "Malicious code in prettier-plugin-markdown-hydra-sass-loader-auth0 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146484"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

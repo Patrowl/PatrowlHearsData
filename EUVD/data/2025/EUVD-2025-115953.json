@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115953", "enisaUuid": "0a4c62b2-5d5f-3bc2-b1aa-988440517b0c", "description": "Malicious code in buffer-airbnb-rollup-plugin-aether (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140151"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

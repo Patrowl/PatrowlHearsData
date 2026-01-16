@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122838", "enisaUuid": "392e8dc2-c366-3e37-9271-4a499ebe6d2a", "description": "Malicious code in readable-kastra-spectron-oberon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147084"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

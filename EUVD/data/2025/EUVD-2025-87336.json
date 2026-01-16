@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-87336", "enisaUuid": "dfb9e72f-2642-3d39-a498-0286a0bad2aa", "description": "Malicious code in accepted_anaconda_z3n (npm)", "datePublished": "2025-11-11T04:25:34", "dateUpdated": "2025-11-11T15:48:12", "baseScore": 0.0, "aliases": ["MAL-2025-82842"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

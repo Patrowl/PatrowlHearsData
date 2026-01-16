@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114657", "enisaUuid": "970b98ea-1d12-3cba-a111-901db35f7b43", "description": "Malicious code in dactyl-rate-limiter-janus-spica (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141452"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

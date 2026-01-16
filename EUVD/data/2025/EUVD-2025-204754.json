@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-204754", "enisaUuid": "6be2924d-bb74-3f98-8a97-6b478a6b6038", "description": "Malicious code in mw-proto-ts (npm)", "datePublished": "2025-12-11T12:17:38", "dateUpdated": "2025-12-22T21:38:12", "baseScore": 0.0, "aliases": ["MAL-2025-192543"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

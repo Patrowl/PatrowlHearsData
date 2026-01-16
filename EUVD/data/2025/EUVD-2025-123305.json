@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123305", "enisaUuid": "09a59842-a405-3fb6-9192-f2bdda594206", "description": "Malicious code in procyon-supervisor-mongoose-hugo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146617"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

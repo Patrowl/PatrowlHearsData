@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127456", "enisaUuid": "c0f53d5c-fd40-3e94-9ceb-be87bc6e2474", "description": "Malicious code in crypto-provider (npm)", "datePublished": "2025-05-07T02:18:32", "dateUpdated": "2025-05-07T02:18:32", "baseScore": 0.0, "aliases": ["MAL-2025-3715"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

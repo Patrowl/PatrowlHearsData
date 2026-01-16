@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116479", "enisaUuid": "ace5a4d5-cc89-3b25-8f06-11f3b9447eaf", "description": "Malicious code in async-development-jovian-jwt (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139623"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

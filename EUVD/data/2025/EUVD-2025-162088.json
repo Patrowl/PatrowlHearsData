@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162088", "enisaUuid": "cb5c7a52-c54c-30f9-9085-7b26534e02b0", "description": "Malicious code in cors-apollo-quantum-await (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17589"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-158508", "enisaUuid": "e1578f2b-369d-3d74-a10d-6c232d8bcfda", "description": "Malicious code in achernar-typeorm-webdriver-manager-ursa (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14000"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179587", "enisaUuid": "11613b3b-4605-3a65-aba1-4abde80264eb", "description": "Malicious code in convict-axios-cosmogenic-miranda (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186295"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

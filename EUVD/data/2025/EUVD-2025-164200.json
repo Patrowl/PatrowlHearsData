@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164200", "enisaUuid": "3ce01cd9-45d6-311a-bb5b-6e40af765a5c", "description": "Malicious code in env-variables-extension (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19679"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126697", "enisaUuid": "e6d6e783-a020-39a0-a3ed-a6e5a728e1b5", "description": "Malicious code in django-storage (PyPI)", "datePublished": "2025-03-28T13:05:34", "dateUpdated": "2025-03-28T13:05:34", "baseScore": 0.0, "aliases": ["MAL-2025-2956"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

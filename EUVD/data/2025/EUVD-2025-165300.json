@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165300", "enisaUuid": "ab42d1fe-1584-3eb1-8b60-362520a2698e", "description": "Malicious code in fork-daemon-container-wind-boolean (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20781"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

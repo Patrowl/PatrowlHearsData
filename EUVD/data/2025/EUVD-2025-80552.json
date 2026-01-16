@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80552", "enisaUuid": "377164dc-27d3-3ebc-9986-2b7ca13475ca", "description": "Malicious code in simple_yak_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-108705"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

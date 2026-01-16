@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159484", "enisaUuid": "f555eaa2-09aa-3ea3-98af-33567b90b957", "description": "Malicious code in async-apollo-standard-child-process (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14983"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113493", "enisaUuid": "34b4ea01-396e-3bcb-8db3-a849259dd3af", "description": "Malicious code in fornax-epimetheus-uninstall-spectron-webdriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142619"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

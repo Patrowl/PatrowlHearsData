@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172716", "enisaUuid": "49ed36b6-b24a-3ebf-9f8d-4d6343ebd7ff", "description": "Malicious code in okta-sdk-golang-openapi (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28187"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

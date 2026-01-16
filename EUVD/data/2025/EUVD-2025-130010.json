@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130010", "enisaUuid": "7938b0f2-4f47-331b-b960-e85d4712951a", "description": "Malicious code in drive-sdk (npm)", "datePublished": "2025-07-24T15:47:29", "dateUpdated": "2025-07-24T15:47:29", "baseScore": 0.0, "aliases": ["MAL-2025-6283"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

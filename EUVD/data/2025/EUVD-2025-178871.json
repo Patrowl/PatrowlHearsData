@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178871", "enisaUuid": "eab680e7-0dfe-31b4-8d76-b4904394ce1b", "description": "Malicious code in forever-heka-polaris-elektra (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187011"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

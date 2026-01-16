@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115946", "enisaUuid": "92156b57-93ab-376d-bd46-32068b6b08b4", "description": "Malicious code in buffer-google-polaris-pegasus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140158"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

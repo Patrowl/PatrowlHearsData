@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176959", "enisaUuid": "06ca1279-e4bd-3998-b643-dd156cc960fb", "description": "Malicious code in proxima-nightmare-postgres-seismology (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188916"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

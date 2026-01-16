@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124714", "enisaUuid": "3bf75ab6-9b68-34d0-83ed-38ae783015f3", "description": "Malicious code in mui-mysql-mysql-sails (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145204"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

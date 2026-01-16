@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159595", "enisaUuid": "3a9f2398-ef84-32a9-a696-2f609a158add", "description": "Malicious code in auth0-remark-mutation-morgan (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15094"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

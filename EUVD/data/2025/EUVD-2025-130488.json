@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130488", "enisaUuid": "ae35184a-c260-37f5-98e4-b8309b73a483", "description": "Malicious code in tableau-redirection-service (npm)", "datePublished": "2025-08-01T17:05:12", "dateUpdated": "2025-08-01T17:05:12", "baseScore": 0.0, "aliases": ["MAL-2025-6765"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121867", "enisaUuid": "0c7c10c7-345f-3b78-8118-37e7c4b2ff29", "description": "Malicious code in socketio-lyra-selenium-child-process (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148058"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

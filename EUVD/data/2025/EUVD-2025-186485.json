@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-186485", "enisaUuid": "39c8ff86-ce52-31cb-b3f5-d77645991e76", "description": "Malicious code in test-syncfusion-bridge (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-36701"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

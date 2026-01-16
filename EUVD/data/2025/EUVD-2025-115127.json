@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115127", "enisaUuid": "170255d0-18be-3aa1-99b7-e058bde319ca", "description": "Malicious code in commitlint-event-hapi-duplex (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140981"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80075", "enisaUuid": "34f459a1-731c-3e9c-a63e-b5130b5691db", "description": "Malicious code in weak_hummingbird_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-110765"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

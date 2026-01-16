@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-198538", "enisaUuid": "0ec15dab-57c6-31a5-98a1-2f95845a4e5d", "description": "Malicious code in airbnb-blueimp-file-upload (npm)", "datePublished": "2025-11-22T10:00:39", "dateUpdated": "2025-11-24T16:09:27", "baseScore": 0.0, "aliases": ["MAL-2025-190601"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

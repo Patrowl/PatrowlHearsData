@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122972", "enisaUuid": "1d6c2b61-9fb0-3fc4-9f93-3834d3c5d069", "description": "Malicious code in quasar-geckodriver-got-chakra-ui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146950"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

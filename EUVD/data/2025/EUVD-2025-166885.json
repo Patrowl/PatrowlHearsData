@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166885", "enisaUuid": "e3b5b53c-cea4-37d4-8427-65e51dbd744f", "description": "Malicious code in hello-world-target (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22367"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

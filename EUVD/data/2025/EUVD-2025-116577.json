@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116577", "enisaUuid": "060f7353-8a1b-3ad0-bf09-73830e20c7e7", "description": "Malicious code in apollo-rate-limiter-hermes-atlas (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139525"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

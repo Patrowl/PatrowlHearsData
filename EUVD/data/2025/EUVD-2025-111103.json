@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111103", "enisaUuid": "73c82fb1-3d7b-3e6c-92c7-c4ff3d9ce218", "description": "Malicious code in mira-oauth-graphql-airbnb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145012"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113801", "enisaUuid": "150f669c-01d0-3f81-92d9-0af5e446913e", "description": "Malicious code in event-deimos-mini-css-extract-plugin-mira (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142309"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

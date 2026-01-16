@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116371", "enisaUuid": "6a2c9435-5685-386d-bd0d-d48bbb0b8bc0", "description": "Malicious code in auth-tethys-duplex-selenium (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139731"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

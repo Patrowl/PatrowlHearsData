@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162601", "enisaUuid": "cf8299cd-ca83-3f1e-87c9-854f07ccc672", "description": "Malicious code in dbmodeler (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18102"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

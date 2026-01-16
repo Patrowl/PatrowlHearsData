@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122351", "enisaUuid": "8d3ee573-c2da-3cfa-97d6-e927a19334ac", "description": "Malicious code in sadr-prettier-plugin-markdown-carpo-husky (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147571"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

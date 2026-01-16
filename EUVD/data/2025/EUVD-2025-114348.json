@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114348", "enisaUuid": "b3c04ce8-8c0f-39ac-96fb-243821bf3246", "description": "Malicious code in dotenv-safe-mongodb-aldebaran-nashira (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141761"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

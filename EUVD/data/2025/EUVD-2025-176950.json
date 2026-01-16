@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176950", "enisaUuid": "b9d31b71-5501-315f-b74a-89fea7cae1ad", "description": "Malicious code in proxy-encode-cache-easy-delta (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188925"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112847", "enisaUuid": "769c5826-ea9e-3e34-9222-36d36a9233f8", "description": "Malicious code in helmet-taurus-json-alphard (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143265"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

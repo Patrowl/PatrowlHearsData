@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189664", "enisaUuid": "e41e2f9c-4baf-3859-bc5f-ce04f1c0fc7e", "description": "Malicious code in xml-query-minify-error-lambda (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39878"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

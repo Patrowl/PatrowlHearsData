@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126675", "enisaUuid": "50198099-9b25-37cf-804b-46abaea5c9b7", "description": "Malicious code in alibabacloud-gateway-fc-util-py2 (PyPI)", "datePublished": "2025-03-28T13:05:17", "dateUpdated": "2025-03-28T13:05:17", "baseScore": 0.0, "aliases": ["MAL-2025-2934"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

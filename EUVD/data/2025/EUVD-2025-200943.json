@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200943", "enisaUuid": "73834731-c1c0-3c8d-9c97-f66b29a8f44a", "description": "Malicious code in elf-stats-cocoa-northstar-632 (npm)", "datePublished": "2025-12-03T15:59:29", "dateUpdated": "2025-12-23T17:09:49", "baseScore": 0.0, "aliases": ["MAL-2025-192008"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

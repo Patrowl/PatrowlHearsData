@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120067", "enisaUuid": "64d026b2-ecfe-3aec-9bc8-6a9f8e8392e6", "description": "Malicious code in zenobia-cluster-package-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149865"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

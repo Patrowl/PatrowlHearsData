@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113963", "enisaUuid": "734a337a-4d06-31b8-a899-9536bfe463db", "description": "Malicious code in eridanus-install-supervisor-deneb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142147"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

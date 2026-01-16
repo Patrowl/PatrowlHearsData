@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123930", "enisaUuid": "c5ff7edc-a929-32da-9064-1641af80fd09", "description": "Malicious code in pavo-backend-neptune-semantic-release (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145991"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

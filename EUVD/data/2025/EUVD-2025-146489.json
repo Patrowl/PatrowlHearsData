@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-146489", "enisaUuid": "062960ae-e10a-3d97-a1c6-a08336595adb", "description": "Malicious code in verify-aya-al (npm)", "datePublished": "2025-11-12T16:47:05", "dateUpdated": "2025-11-12T16:47:05", "baseScore": 0.0, "aliases": ["MAL-2025-170323"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

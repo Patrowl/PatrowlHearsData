@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76208", "enisaUuid": "ce4749c1-0c14-3afe-8deb-ec4f3379285a", "description": "Malicious code in necessary_echidna-smiletea (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-106239"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

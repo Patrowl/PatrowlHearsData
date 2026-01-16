@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111609", "enisaUuid": "04318c96-5ddd-37a3-b023-411c6c71a626", "description": "Malicious code in loglevel-cross-env-exec-update (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144506"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

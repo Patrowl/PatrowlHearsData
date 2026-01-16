@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176296", "enisaUuid": "437e311d-fa5f-379a-ba87-2cba04956a4c", "description": "Malicious code in socketio-polaris-restart-adonis (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189579"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

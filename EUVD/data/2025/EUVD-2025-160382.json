@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160382", "enisaUuid": "0effbd52-f8fe-3c1e-bb0e-46b2f2371ff1", "description": "Malicious code in bluebutton-hapi (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15881"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

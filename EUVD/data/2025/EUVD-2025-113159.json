@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113159", "enisaUuid": "35cd0fec-b0a6-3b37-a0db-5ecf5fbec1d9", "description": "Malicious code in global-writable-hugo-yonder (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142953"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

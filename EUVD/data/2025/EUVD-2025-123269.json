@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123269", "enisaUuid": "fac6124f-fb93-38e7-ae83-7f0e8b92419f", "description": "Malicious code in promise-uglify-js-chalk-sagitta (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146653"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

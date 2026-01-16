@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183507", "enisaUuid": "0f699ff3-02e1-344e-9daf-f04b5a1bb219", "description": "Malicious code in spectron-hapi-quark-miranda (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33722"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

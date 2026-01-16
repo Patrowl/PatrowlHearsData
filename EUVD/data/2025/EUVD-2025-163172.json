@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163172", "enisaUuid": "cac93269-8eba-3ae8-b008-e51549ce35ed", "description": "Malicious code in dotenv-safe-winston-dotenv-safe-markdown-pdf (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18673"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166520", "enisaUuid": "83b31f00-008e-3dfa-8155-e6cf1b13c95b", "description": "Malicious code in grunt-vox-asset-bundle-parser (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22002"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

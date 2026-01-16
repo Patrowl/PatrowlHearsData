@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193619", "enisaUuid": "c741938d-729d-3ed6-b84f-1837cce0d702", "description": "Malicious code in comet-json-proxima-kastra (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43866"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191067", "enisaUuid": "35944d37-520b-337f-a2d0-fdd34f7b159a", "description": "Malicious code in health-cards-validation-sdk (npm)", "datePublished": "2025-08-23T14:23:26", "dateUpdated": "2025-08-23T14:23:26", "baseScore": 0.0, "aliases": ["MAL-2025-41289"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

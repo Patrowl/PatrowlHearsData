@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176553", "enisaUuid": "51d41e87-0fe1-32ed-b5bc-dd66f8a092e9", "description": "Malicious code in sagitta-shelljs-halley-grunt (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189322"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

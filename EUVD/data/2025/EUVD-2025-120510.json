@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120510", "enisaUuid": "df713fa7-b8a3-3479-8835-a8903896fe93", "description": "Malicious code in websockets-dactyl-element-ui-sync (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149419"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

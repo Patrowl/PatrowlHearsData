@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113173", "enisaUuid": "9e05fc09-a37d-3c71-a2c8-7cc14a21d15b", "description": "Malicious code in global-karma-socketio-algol (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142939"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

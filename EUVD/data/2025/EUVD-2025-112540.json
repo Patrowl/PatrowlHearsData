@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112540", "enisaUuid": "2f5cc80e-b545-3b26-9cfe-341a0f9ac937", "description": "Malicious code in indus-perseus-publish-rate-limiter (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143573"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

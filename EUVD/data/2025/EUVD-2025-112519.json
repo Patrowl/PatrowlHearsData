@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112519", "enisaUuid": "e7246a84-3375-3cf3-8ef3-49a22534749c", "description": "Malicious code in ini-middleware-build-xo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143594"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

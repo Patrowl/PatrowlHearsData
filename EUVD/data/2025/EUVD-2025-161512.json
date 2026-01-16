@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161512", "enisaUuid": "8d52a1d8-78e8-3569-b305-b86ef8309267", "description": "Malicious code in ci-queue (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17011"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

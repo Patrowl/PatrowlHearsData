@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175946", "enisaUuid": "59ce00f0-c11f-3237-bae7-9c850a0b48ee", "description": "Malicious code in throw-simple-old-export-info (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189929"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

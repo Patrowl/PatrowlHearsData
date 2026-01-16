@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193663", "enisaUuid": "8b34383d-468b-3a82-bb1d-76e8613aa661", "description": "Malicious code in cross-env-html-webpack-plugin-writable-dactyl (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43910"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

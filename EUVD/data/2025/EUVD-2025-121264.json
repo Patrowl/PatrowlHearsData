@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121264", "enisaUuid": "c6ad49ef-8f5c-3f11-8321-33975a775f9a", "description": "Malicious code in thuban-run-script-callback-meteor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148664"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

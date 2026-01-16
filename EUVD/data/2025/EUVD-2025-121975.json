@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121975", "enisaUuid": "34832d4d-73c6-3103-ba51-c3a105759cbe", "description": "Malicious code in sirius-fork-nodejs-bellatrix (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147950"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

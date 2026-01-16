@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178934", "enisaUuid": "98827301-ee26-3c8e-b2d8-c9383e8c4032", "description": "Malicious code in fast-table-import-async-double (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186948"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

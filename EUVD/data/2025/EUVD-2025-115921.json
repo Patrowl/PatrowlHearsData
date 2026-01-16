@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115921", "enisaUuid": "7c9c64c0-0aa7-333e-8a36-5141a378fb61", "description": "Malicious code in build-eridanus-mini-css-extract-plugin-dynamo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140183"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

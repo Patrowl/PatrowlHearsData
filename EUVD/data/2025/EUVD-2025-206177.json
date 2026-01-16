@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-206177", "enisaUuid": "611e5cbf-f225-38c3-95ff-01117c25e7a0", "description": "Malicious code in portal-aes (npm)", "datePublished": "2025-12-23T08:24:49", "dateUpdated": "2026-01-02T21:37:29", "baseScore": 0.0, "aliases": ["MAL-2025-192853"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-152908", "enisaUuid": "c95ea4b5-f37f-3ae9-a314-4685b0ff8495", "description": "Malicious code in @leaffm/leaf-connect-thrudark (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-8407"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

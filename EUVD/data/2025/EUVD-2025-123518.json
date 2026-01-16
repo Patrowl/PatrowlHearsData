@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123518", "enisaUuid": "f5ecbdbe-33a6-348e-b8e3-0938a7fd9b09", "description": "Malicious code in postcss-loader-npm-child-process-gravity (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146403"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

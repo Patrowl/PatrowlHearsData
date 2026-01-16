@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177274", "enisaUuid": "65fa4ce4-3ebc-3155-bf0b-cf0c6f052403", "description": "Malicious code in pegasus-toml-neptune-nightwatch (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188608"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

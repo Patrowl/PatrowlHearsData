@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124528", "enisaUuid": "a5b110fe-77d9-33dc-8778-a84ef96dde19", "description": "Malicious code in nestjs-dotenv-kinetic-eslint-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145392"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

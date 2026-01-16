@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173734", "enisaUuid": "bf64e8dc-7b9a-32a7-87c9-669f4aad204e", "description": "Malicious code in pi-async-runtime-report-sun (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29205"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

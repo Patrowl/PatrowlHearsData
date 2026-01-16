@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123915", "enisaUuid": "43a270f5-7046-366c-ab15-bc2c22808c35", "description": "Malicious code in pavo-pm2-neptune-axios (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146006"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

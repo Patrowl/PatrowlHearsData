@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176154", "enisaUuid": "ac46a669-4e6a-3a9d-819a-4e4f397ea840", "description": "Malicious code in subscription-firebase-buffer-json (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189721"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

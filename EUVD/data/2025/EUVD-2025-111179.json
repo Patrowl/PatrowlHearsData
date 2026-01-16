@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111179", "enisaUuid": "7c5accea-ae83-3aee-a60a-96b41dbdefff", "description": "Malicious code in meteor-shelljs-miranda-oauth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144936"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

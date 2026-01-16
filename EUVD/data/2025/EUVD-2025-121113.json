@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121113", "enisaUuid": "525cd017-ea0e-386d-84e2-ef3553cde2bd", "description": "Malicious code in triton-dynamo-draco-subscription (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148815"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

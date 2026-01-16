@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120507", "enisaUuid": "d359ec12-085e-3a2e-b8db-cb2f9748428d", "description": "Malicious code in websockets-graphql-regulus-canopus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149422"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

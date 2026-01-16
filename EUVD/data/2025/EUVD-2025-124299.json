@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124299", "enisaUuid": "404ba719-a2f7-3936-a583-4aa2fce6abc6", "description": "Malicious code in non-blocking-sqlite-toml-xo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145622"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

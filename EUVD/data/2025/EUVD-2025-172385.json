@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172385", "enisaUuid": "f2519f63-2726-3b38-b048-4684c1c796d0", "description": "Malicious code in nqm-auth-server (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27856"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

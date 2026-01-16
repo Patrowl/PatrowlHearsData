@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115051", "enisaUuid": "ccec972f-f9c8-3105-bfbd-89186d48bf8f", "description": "Malicious code in configstore-markdown-convict-auth0 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141058"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

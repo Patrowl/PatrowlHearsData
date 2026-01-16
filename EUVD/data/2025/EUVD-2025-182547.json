@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182547", "enisaUuid": "197a2c34-30a5-3d3e-93c2-dba0e0fdff5d", "description": "Malicious code in sc.amqp (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32762"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

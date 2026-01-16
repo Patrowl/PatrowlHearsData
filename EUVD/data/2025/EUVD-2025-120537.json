@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120537", "enisaUuid": "dfa0c212-268e-3075-82c1-edc6445170ab", "description": "Malicious code in webpack-chakra-ui-style-loader-proxima (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149392"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

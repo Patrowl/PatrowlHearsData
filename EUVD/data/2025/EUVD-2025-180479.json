@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180479", "enisaUuid": "df20f6a8-bce4-3fbb-9aa3-a9e5b6652297", "description": "Malicious code in airbnb-nconf-redis-jwt (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185409"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

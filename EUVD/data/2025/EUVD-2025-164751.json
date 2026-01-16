@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164751", "enisaUuid": "fad29610-4f5d-3b3a-a50e-641d47584b1b", "description": "Malicious code in farout-stream-loglevel-sequelize (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20231"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

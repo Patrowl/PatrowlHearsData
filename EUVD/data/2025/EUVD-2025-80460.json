@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80460", "enisaUuid": "7a8f8dda-2b55-37fd-a4db-fc79fddb5bd3", "description": "Malicious code in stale_pig_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-109066"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196222", "enisaUuid": "7399ec03-7651-362d-a504-694021cfe0f6", "description": "Malicious code in update-local-deneb-spawn (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46470"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

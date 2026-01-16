@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164606", "enisaUuid": "6b40177e-d892-3237-bdc0-c4c6d6e769eb", "description": "Malicious code in express-transport-celeste-carpo (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20086"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

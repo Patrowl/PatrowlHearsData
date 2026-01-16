@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165451", "enisaUuid": "38a0e6c3-fa28-3349-b173-6440e54b916c", "description": "Malicious code in frantic-time-thread (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20932"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

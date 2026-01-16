@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130011", "enisaUuid": "ed9d9bfc-a33e-34f8-8138-ccd67004c953", "description": "Malicious code in events-web (npm)", "datePublished": "2025-07-25T19:48:30", "dateUpdated": "2025-07-25T19:48:30", "baseScore": 0.0, "aliases": ["MAL-2025-6284"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

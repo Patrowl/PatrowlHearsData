@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159083", "enisaUuid": "81a6de29-cb1e-3452-a154-d588603b4764", "description": "Malicious code in antares-library-auth0-supervisor (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14582"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

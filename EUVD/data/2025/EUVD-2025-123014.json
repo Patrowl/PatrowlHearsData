@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123014", "enisaUuid": "a383522d-c837-3f51-9d90-af429c0f2baf", "description": "Malicious code in quantum-materialize-sqlite-jovian (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146908"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

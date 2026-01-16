@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164187", "enisaUuid": "d5cc6ff2-15be-3ad5-b4a4-40c1b8bb0962", "description": "Malicious code in enqrypt (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19666"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

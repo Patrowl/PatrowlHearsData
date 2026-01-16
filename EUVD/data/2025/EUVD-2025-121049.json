@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121049", "enisaUuid": "ec3e9b7f-acfa-37e4-828a-3698e696bfd0", "description": "Malicious code in uglify-js-query-rest-triton (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148879"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

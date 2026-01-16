@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111525", "enisaUuid": "6940f987-6036-3bc6-92ed-37e3154fef91", "description": "Malicious code in lynx-csv-bunyan-repository (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144590"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159950", "enisaUuid": "bb1bb79c-984c-3aec-8287-47682849ba81", "description": "Malicious code in bangscripts-sockets (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15449"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

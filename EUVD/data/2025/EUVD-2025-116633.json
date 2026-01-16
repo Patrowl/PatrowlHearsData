@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116633", "enisaUuid": "fd7a8086-c215-378c-a023-6fbc6ec58b05", "description": "Malicious code in antd-taurus-sass-loader-publish (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139469"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

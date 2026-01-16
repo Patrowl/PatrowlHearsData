@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176239", "enisaUuid": "09595d94-295f-39aa-af95-349cb31eb930", "description": "Malicious code in sqlite-telesto-commitlint-figures (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189636"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

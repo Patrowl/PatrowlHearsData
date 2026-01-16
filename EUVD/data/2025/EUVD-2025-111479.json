@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111479", "enisaUuid": "f7f43541-a062-39a5-ab36-f7a6752f4764", "description": "Malicious code in magellan-frontend-loopback-cypress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144636"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

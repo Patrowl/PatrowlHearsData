@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191276", "enisaUuid": "f7a96b78-b535-3490-89c5-06b10e1c3fae", "description": "Malicious code in @twork-data-services/proxy-invest-api-v1-notes (npm)", "datePublished": "2025-08-28T07:16:52", "dateUpdated": "2025-08-28T07:16:52", "baseScore": 0.0, "aliases": ["MAL-2025-41507"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

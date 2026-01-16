@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114341", "enisaUuid": "32e73e1a-8359-3bef-af23-0420555bb6f6", "description": "Malicious code in dotenv-safe-parcel-convict-umbriel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141768"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

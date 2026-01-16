@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115947", "enisaUuid": "1ccd3a9e-e97a-3d0a-9487-b49e0421d261", "description": "Malicious code in buffer-gatsby-less-sync (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140157"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

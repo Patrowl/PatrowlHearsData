@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129265", "enisaUuid": "c2029fbb-7872-3dec-8d51-ebf724d3427d", "description": "Malicious code in @frontend-clients/design-system (npm)", "datePublished": "2025-07-02T22:05:07", "dateUpdated": "2025-07-02T22:38:27", "baseScore": 0.0, "aliases": ["MAL-2025-5537"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177695", "enisaUuid": "731850d2-46f5-3056-b01d-33ccb92a5ec9", "description": "Malicious code in native-transform-nightmare-polaris (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188187"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

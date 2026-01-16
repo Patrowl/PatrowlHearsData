@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122632", "enisaUuid": "e1e3b9fa-f5ff-320f-864d-cf634cba9d99", "description": "Malicious code in request-cordelia-cypress-spica (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147290"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

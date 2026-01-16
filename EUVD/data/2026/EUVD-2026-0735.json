@@ -1,0 +1,1 @@
+{"id": "EUVD-2026-0735", "enisaUuid": "270f3874-0b25-3cf3-8de2-048855762d48", "description": "Malicious code in jest-config-ibm-cloud-cognitive (npm)", "datePublished": "2026-01-02T22:06:48", "dateUpdated": "2026-01-02T22:06:48", "baseScore": 0.0, "aliases": ["MAL-2026-19"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170179", "enisaUuid": "f37d68b6-0ffd-3b55-94bf-3b11dd9d8da3", "description": "Malicious code in lukemftp (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25650"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

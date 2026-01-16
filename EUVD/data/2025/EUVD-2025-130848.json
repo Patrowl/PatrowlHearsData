@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130848", "enisaUuid": "4a060c8c-ba57-3278-8dbe-f27fe2103f91", "description": "Malicious code in @citrix-dc/dc-test (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7126"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

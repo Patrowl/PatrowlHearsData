@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160893", "enisaUuid": "dd387e05-a72a-3a99-81c1-3bd668343f70", "description": "Malicious code in bwffer-xor (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16392"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

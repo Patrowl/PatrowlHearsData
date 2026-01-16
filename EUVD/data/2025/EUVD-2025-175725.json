@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175725", "enisaUuid": "66586043-b958-363d-b8d6-eb6f7bfb6cd2", "description": "Malicious code in view-omicron-unix-compress-authorize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190150"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

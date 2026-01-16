@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165306", "enisaUuid": "ef24acbb-88fb-335d-98a7-b53f773ecb89", "description": "Malicious code in fork-ts-checker-webpack-plugin-v5 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20787"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

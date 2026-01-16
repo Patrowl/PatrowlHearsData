@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173390", "enisaUuid": "ffc2bd14-fb35-35e7-b7e1-d95d1e0cd23c", "description": "Malicious code in parallax-hadron-mysql-galaxy (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28861"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

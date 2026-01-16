@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123880", "enisaUuid": "4b4678c3-05f8-3b2d-a1d1-3fab2b9d58ee", "description": "Malicious code in pegasus-lyra-rate-limiter-css-minimizer-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146041"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123642", "enisaUuid": "0e230631-6827-3670-9f3d-e660fa33ea88", "description": "Malicious code in playwright-cressida-rehype-dotenv-safe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146279"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

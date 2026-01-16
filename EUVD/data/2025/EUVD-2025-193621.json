@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193621", "enisaUuid": "ac7870ee-0ac1-36c5-843a-fd93afa63449", "description": "Malicious code in command-frontend-leda-zephyr (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43868"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

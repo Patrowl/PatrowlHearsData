@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165204", "enisaUuid": "53f3116a-c38d-3b5f-a345-d5909c58ac59", "description": "Malicious code in flaskbase (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20685"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

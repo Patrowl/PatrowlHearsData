@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184340", "enisaUuid": "979efdf6-b7da-3ea0-8f12-ff16ebb3f80f", "description": "Malicious code in tarbackup (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34556"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

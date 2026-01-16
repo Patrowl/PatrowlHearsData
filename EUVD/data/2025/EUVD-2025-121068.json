@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121068", "enisaUuid": "f5d0118a-1810-3929-9394-5bd5ada50e4c", "description": "Malicious code in typeorm-typeorm-development-apollo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148860"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

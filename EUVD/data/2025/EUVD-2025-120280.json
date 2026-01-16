@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120280", "enisaUuid": "fe266b7c-48df-35c8-a768-2afe2c9dfc23", "description": "Malicious code in xenon-mensa-wolf-csrf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149651"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

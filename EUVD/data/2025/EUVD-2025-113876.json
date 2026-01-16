@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113876", "enisaUuid": "64bd3746-d718-366c-8923-b42b2666fbb1", "description": "Malicious code in eslint-plugin-nightwatch-javascript-restart (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142234"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

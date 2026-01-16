@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111828", "enisaUuid": "6bfd6f56-b420-3c63-b209-97b2e3ebfdf8", "description": "Malicious code in leda-pino-pretty-command-postcss (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144285"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

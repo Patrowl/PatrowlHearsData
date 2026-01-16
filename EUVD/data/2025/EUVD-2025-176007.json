@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176007", "enisaUuid": "144c9b6f-9d1c-392e-9fce-42f813116481", "description": "Malicious code in terser-sequelize-oberon-config (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189868"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

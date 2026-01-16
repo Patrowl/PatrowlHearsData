@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121894", "enisaUuid": "69705bd5-cff8-3eec-8751-20d54312f921", "description": "Malicious code in soap-postcss-kaus-concurrently (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148031"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

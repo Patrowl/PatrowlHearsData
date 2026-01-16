@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182590", "enisaUuid": "a2688dc8-8e15-3654-8689-f1c39c620a94", "description": "Malicious code in scn-login (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32805"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196671", "enisaUuid": "ff25449d-6a33-3a5e-9cba-809d6f1e4d01", "description": "Malicious code in proto-dependency-graph-api (RubyGems)", "datePublished": "2025-09-01T09:50:37", "dateUpdated": "2025-09-01T09:50:37", "baseScore": 0.0, "aliases": ["MAL-2025-46919"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

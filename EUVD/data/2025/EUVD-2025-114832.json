@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114832", "enisaUuid": "38f29309-3e00-33b9-a17b-1e45948851cf", "description": "Malicious code in cross-env-yaml-meteor-aurora (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141277"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

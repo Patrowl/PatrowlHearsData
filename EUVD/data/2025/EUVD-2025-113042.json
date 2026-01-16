@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113042", "enisaUuid": "30b1ea8e-0182-333a-a57c-f07a2af0d1c3", "description": "Malicious code in grunt-prettier-lacerta-miranda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143070"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

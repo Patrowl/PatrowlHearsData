@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170013", "enisaUuid": "8b2bf9cb-0024-3bc0-a628-98ed74dbdeea", "description": "Malicious code in local-phoebe-soap-react-bootstrap (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25484"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

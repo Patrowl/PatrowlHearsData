@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124379", "enisaUuid": "872c17fa-5386-3f7d-bac1-85d2c466398c", "description": "Malicious code in node-sass-google-node-sass-jest (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145542"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

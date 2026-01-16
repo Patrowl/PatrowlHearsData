@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163605", "enisaUuid": "e8388e56-4d8c-3fdc-a6ae-c2a749a09417", "description": "Malicious code in ebos_lambda_utils (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19107"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

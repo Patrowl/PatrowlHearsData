@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194983", "enisaUuid": "b053f6d7-b6dd-3f79-a542-6a258397e650", "description": "Malicious code in mongodb-spinner-grus-avior (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45230"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

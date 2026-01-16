@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167312", "enisaUuid": "6d59eb6f-2cea-3925-8aba-5647d36431db", "description": "Malicious code in humanapi-mongoose-list (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22794"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

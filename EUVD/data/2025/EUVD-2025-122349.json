@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122349", "enisaUuid": "fd6665e4-59d1-3d33-9ca3-b1e3de5ea392", "description": "Malicious code in sadr-private-cache-cygnus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147573"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

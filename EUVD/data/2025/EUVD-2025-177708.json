@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177708", "enisaUuid": "1db6b4ad-b06b-392e-a39e-ec6ee943830e", "description": "Malicious code in native-blackhole-parcel-node-sass (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188174"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

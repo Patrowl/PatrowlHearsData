@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113185", "enisaUuid": "89b0a681-4123-3bfd-9234-9f84b1eaf740", "description": "Malicious code in global-csrf-xml-package (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142927"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

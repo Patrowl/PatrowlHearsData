@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123169", "enisaUuid": "0aeaaac5-829d-3c15-a34f-041e82876198", "description": "Malicious code in public-antares-publish-neptune (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146753"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

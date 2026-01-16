@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121779", "enisaUuid": "5a8ab9c4-913d-3ee8-91b2-192237f99c94", "description": "Malicious code in spectron-webdriver-winston-vega-venus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148146"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

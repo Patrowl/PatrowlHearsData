@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178260", "enisaUuid": "82793392-5188-369f-a44a-62a5595955bd", "description": "Malicious code in json-apollo-rate-limiter-cross-env (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187622"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

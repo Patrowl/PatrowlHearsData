@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116530", "enisaUuid": "c3976bee-468f-32f9-932b-d47593c8ad20", "description": "Malicious code in arcturus-loopback-typeorm-vortex (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139572"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

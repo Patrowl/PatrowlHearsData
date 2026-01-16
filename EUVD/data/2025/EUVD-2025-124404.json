@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124404", "enisaUuid": "0983fca5-70fb-36ce-8805-7ac2258d2c37", "description": "Malicious code in node-config-pulsar-google-weywot (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145517"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

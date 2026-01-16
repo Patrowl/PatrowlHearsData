@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179617", "enisaUuid": "2ca9dbff-dbe3-3eb4-8968-bb178b8d6cc1", "description": "Malicious code in concurrently-configstore-lyra-perseus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186265"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

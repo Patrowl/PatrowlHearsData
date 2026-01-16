@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123420", "enisaUuid": "0eabd7ca-7948-30fa-8a6a-3e2ed8178e4f", "description": "Malicious code in prettier-rollup-plugin-astro-virgo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146502"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

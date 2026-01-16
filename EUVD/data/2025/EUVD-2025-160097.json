@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160097", "enisaUuid": "80805725-275e-358a-a7ac-5b843e7fe2b8", "description": "Malicious code in benchmark-epsilon-runtime-authenticate-slow (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15596"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

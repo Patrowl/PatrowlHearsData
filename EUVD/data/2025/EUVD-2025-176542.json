@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176542", "enisaUuid": "b5a97049-f43f-3c7f-91c2-aedbd9462db7", "description": "Malicious code in sails-soap-link-webdriver-mocha (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189333"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

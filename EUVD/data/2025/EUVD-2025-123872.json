@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123872", "enisaUuid": "882bbd83-7487-30e9-a165-3c4542203dcd", "description": "Malicious code in pegasus-restart-jest-development (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146049"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

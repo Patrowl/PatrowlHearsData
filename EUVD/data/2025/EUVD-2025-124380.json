@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124380", "enisaUuid": "08a55433-803d-3ad7-8e9c-223912898f31", "description": "Malicious code in node-sass-geckodriver-colors-pulsar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145541"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

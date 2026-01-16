@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129828", "enisaUuid": "30086b02-f23b-3675-a524-bc59639ff59b", "description": "Malicious code in jsr305 (npm)", "datePublished": "2025-07-22T16:30:04", "dateUpdated": "2025-07-22T16:30:04", "baseScore": 0.0, "aliases": ["MAL-2025-6101"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

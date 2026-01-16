@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123188", "enisaUuid": "86b6f713-977d-35ef-a446-683993031c2b", "description": "Malicious code in proxima-quito-middleware-library (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146734"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

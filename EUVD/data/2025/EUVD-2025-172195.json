@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172195", "enisaUuid": "2abcea6d-6635-3eb5-8605-5f377f3ac5ee", "description": "Malicious code in node-zenvia (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27666"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

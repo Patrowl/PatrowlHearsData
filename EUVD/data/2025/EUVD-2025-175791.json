@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175791", "enisaUuid": "882f0cb1-8431-37b7-b929-08b806e15d14", "description": "Malicious code in upgrade-hexo-gulp-cosmogenic (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190084"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

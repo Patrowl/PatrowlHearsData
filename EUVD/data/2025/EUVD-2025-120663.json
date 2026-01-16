@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120663", "enisaUuid": "3f1769aa-6bfd-3277-b390-18d77e67a82c", "description": "Malicious code in warp-comet-csrf-slidev (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149266"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

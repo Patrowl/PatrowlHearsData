@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182812", "enisaUuid": "b3defb5c-bf45-356a-9a9b-a647943f6fbd", "description": "Malicious code in setup-jsonnet (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33027"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

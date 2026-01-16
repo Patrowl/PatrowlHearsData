@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191614", "enisaUuid": "c9f9d53d-60c0-3dc6-9fb9-2004f62bc664", "description": "Malicious code in @espace-client-axafr/contract-selection (npm)", "datePublished": "2025-08-25T18:32:20", "dateUpdated": "2025-08-25T18:32:20", "baseScore": 0.0, "aliases": ["MAL-2025-41848"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161205", "enisaUuid": "319163ba-6d8f-3bdd-829e-0f119e150ad7", "description": "Malicious code in celeste-pm2-deimos-toml (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16704"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

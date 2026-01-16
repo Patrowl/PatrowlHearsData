@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114631", "enisaUuid": "bcfed2d9-9d52-303c-b941-b55a3dd2f5c9", "description": "Malicious code in dagda-nodejs-magellan-mysql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141478"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

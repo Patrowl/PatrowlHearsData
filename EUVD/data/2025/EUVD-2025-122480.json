@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122480", "enisaUuid": "0e63ff25-e064-3db1-bf23-9eb4f6b267d1", "description": "Malicious code in rigel-websockets-centaurus-lyra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147442"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

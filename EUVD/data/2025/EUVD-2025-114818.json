@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114818", "enisaUuid": "b7deb4bb-54c5-3f7e-a5ff-47eaa3d6586e", "description": "Malicious code in csrf-nconf-halley-jest (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141291"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

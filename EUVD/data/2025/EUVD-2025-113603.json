@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113603", "enisaUuid": "7057beae-f7dc-39a2-9f81-9984fb16793d", "description": "Malicious code in firebase-process-sedna-node-sass (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142508"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

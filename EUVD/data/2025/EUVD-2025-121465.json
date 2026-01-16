@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121465", "enisaUuid": "aa1cd836-755d-3a29-867e-19e39c99f4e1", "description": "Malicious code in taurus-castor-concurrently-nextjs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148463"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

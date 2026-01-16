@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177184", "enisaUuid": "16329aa2-bf4d-34c4-ad39-a13cf237e5c1", "description": "Malicious code in pi-authenticate-cold-encrypt-alert (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188693"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

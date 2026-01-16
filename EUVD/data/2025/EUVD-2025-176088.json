@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176088", "enisaUuid": "8e1bb7fe-9218-382e-9d37-501a7e132e6d", "description": "Malicious code in sync-uglify-js-rest-superagent (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189787"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

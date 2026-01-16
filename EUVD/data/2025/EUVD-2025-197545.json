@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197545", "enisaUuid": "e11e9189-487d-31f5-b3f1-62c336654f7b", "description": "Malicious code in productivity-suite-login-fragment (npm)", "datePublished": "2025-10-23T19:42:46", "dateUpdated": "2025-10-23T19:42:46", "baseScore": 0.0, "aliases": ["MAL-2025-48860"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

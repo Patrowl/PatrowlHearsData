@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114309", "enisaUuid": "216eddd1-ef33-3ec1-82b6-0d72ee9b308a", "description": "Malicious code in draco-webdriver-mocha-writable-jsonp (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141800"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

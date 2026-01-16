@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161943", "enisaUuid": "4dd49a31-6f67-3e2d-a330-9f3a12a9cd83", "description": "Malicious code in comons-paypal (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17444"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

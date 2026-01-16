@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130549", "enisaUuid": "009fb1c1-dff3-3697-9d45-6ee727787f54", "description": "Malicious code in mda-localise (npm)", "datePublished": "2025-08-12T09:21:00", "dateUpdated": "2025-08-12T10:40:27", "baseScore": 0.0, "aliases": ["MAL-2025-6827"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

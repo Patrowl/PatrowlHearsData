@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191670", "enisaUuid": "f18bc640-2e25-3e12-b6d9-f903ed484b29", "description": "Malicious code in @espace-client-axafr/social-security-input (npm)", "datePublished": "2025-08-25T18:37:04", "dateUpdated": "2025-08-25T18:37:04", "baseScore": 0.0, "aliases": ["MAL-2025-41904"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

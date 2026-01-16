@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113737", "enisaUuid": "1b6f9258-bc1f-3f00-b2e6-90a14a1cc829", "description": "Malicious code in express-electron-builder-eslint-plugin-firebase (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142373"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

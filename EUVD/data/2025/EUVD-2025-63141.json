@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63141", "enisaUuid": "2c7f5e72-dcc7-382d-bd8f-deec7953ae39", "description": "Malicious code in mathematical_tapir_z3n (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-95413"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130380", "enisaUuid": "3d09e283-24cb-3bc1-a262-2e49bbc1c5c1", "description": "Malicious code in simple-auth-manager-ui (npm)", "datePublished": "2025-07-31T19:41:39", "dateUpdated": "2025-07-31T19:41:39", "baseScore": 0.0, "aliases": ["MAL-2025-6656"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

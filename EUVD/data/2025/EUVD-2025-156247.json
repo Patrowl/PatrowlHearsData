@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-156247", "enisaUuid": "588529b8-f684-3665-8fe6-5bc1d7bca04f", "description": "Malicious code in @zalastax/nolb-graphql (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-11746"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

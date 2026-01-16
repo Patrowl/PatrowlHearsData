@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176322", "enisaUuid": "6dad89ed-b60b-326e-b0fe-ad2fee17b5fe", "description": "Malicious code in soap-comet-adonis-karma (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189553"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

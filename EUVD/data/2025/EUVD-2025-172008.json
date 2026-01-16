@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172008", "enisaUuid": "56223d18-dd13-349c-8529-318f720a4f3a", "description": "Malicious code in nginxmq (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27479"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114022", "enisaUuid": "d1f40d19-08d1-368b-8ed8-71719dad62fb", "description": "Malicious code in envconfig-wasat-bootstrap-rocket (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142088"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

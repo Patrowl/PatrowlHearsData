@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-81148", "enisaUuid": "0ac1fd8a-077a-3cd7-979b-0b78af746087", "description": "Malicious code in mutual_limpet_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-106059"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

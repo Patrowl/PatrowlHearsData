@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180150", "enisaUuid": "ba2667dd-eb22-3f8f-965f-a9831a4a53d0", "description": "Malicious code in bad-grep-web-private-cat (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185732"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

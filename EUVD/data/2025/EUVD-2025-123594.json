@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123594", "enisaUuid": "c10f4714-2d18-3c86-9aa7-581a17e97aa1", "description": "Malicious code in polaris-cache-geckodriver-gravity (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146327"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

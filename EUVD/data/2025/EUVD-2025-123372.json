@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123372", "enisaUuid": "f8f1aae6-33c9-3588-b556-705cb6d48b5e", "description": "Malicious code in process-figures-run-script-node-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146550"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

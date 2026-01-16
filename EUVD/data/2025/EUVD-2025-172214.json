@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172214", "enisaUuid": "6c327972-c41a-3517-95d8-08bded8183a0", "description": "Malicious code in nodemon-electron-builder-babel-vega (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27685"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130692", "enisaUuid": "49bc2eac-04c3-323c-879a-75d087ecec1d", "description": "Malicious code in xor4096 (npm)", "datePublished": "2025-08-15T03:09:04", "dateUpdated": "2025-08-15T03:09:04", "baseScore": 0.0, "aliases": ["MAL-2025-6970"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

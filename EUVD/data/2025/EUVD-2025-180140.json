@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180140", "enisaUuid": "909e9f19-f655-3ed3-86a2-b9ab35ba54ee", "description": "Malicious code in balance-char-byte-final-big (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185742"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

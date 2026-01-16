@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121533", "enisaUuid": "4b731548-5012-36c0-832a-3dec32b460be", "description": "Malicious code in supervisor-install-postgres-node-sass (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148393"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

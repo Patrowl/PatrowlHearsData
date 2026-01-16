@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164404", "enisaUuid": "f6f646fb-c2e9-36fe-9d49-390decfd8598", "description": "Malicious code in eta-xml-wind-parse-cron (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19884"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

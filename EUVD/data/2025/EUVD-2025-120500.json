@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120500", "enisaUuid": "7c0b824f-e6b3-323b-9106-4e23dcf5a344", "description": "Malicious code in websockets-vega-hyperion-nextjs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149429"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

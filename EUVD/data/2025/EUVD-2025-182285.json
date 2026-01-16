@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182285", "enisaUuid": "64b39a3f-5c45-380a-a35c-29c49851163f", "description": "Malicious code in rs-thrift2ts-win32-x64-msvc (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32500"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

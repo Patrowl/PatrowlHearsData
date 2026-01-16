@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121691", "enisaUuid": "5ab4b15d-8417-3605-8d81-2c855e50bb9f", "description": "Malicious code in sqlite-orbit-xenos-heka (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148234"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

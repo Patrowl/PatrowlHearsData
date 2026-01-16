@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200829", "enisaUuid": "2e098275-8d5e-33a0-a913-2491be617f4b", "description": "Malicious code in elf-stats-rooftop-hammer-362 (npm)", "datePublished": "2025-12-03T15:59:29", "dateUpdated": "2025-12-23T21:08:54", "baseScore": 0.0, "aliases": ["MAL-2025-192123"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116821", "enisaUuid": "53227f20-8390-3912-b1a3-123b575163ca", "description": "Malicious code in aldebaran-heka-prompts-selenium (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139281"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

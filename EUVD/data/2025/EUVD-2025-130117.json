@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130117", "enisaUuid": "a756d7c2-8127-3900-9d4c-c615a1617e6c", "description": "Malicious code in eslint-config-pdffiller-typescript (npm)", "datePublished": "2025-08-01T03:37:23", "dateUpdated": "2025-08-29T06:43:16", "baseScore": 0.0, "aliases": ["MAL-2025-6390"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

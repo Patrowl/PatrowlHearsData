@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116743", "enisaUuid": "d897adcc-d180-3af2-95e6-f8f1eee22182", "description": "Malicious code in altair-procyon-impulse-socketio (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139359"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

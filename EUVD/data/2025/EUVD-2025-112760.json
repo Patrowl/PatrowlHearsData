@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112760", "enisaUuid": "448a6dd8-8a6b-3ca8-85ef-356e3df2e108", "description": "Malicious code in hexo-sails-element-ui-jsonp (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143352"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

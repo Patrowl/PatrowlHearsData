@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179026", "enisaUuid": "e23cf5cd-b479-32fd-a35f-12dc02e51084", "description": "Malicious code in eta-refactor-execute-float-load (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186856"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

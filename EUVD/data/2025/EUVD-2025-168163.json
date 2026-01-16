@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168163", "enisaUuid": "e0b9a3a6-1c76-3a99-9200-4daa0a9167da", "description": "Malicious code in jasmine-stream-element-ui-config (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23645"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

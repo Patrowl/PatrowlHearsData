@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191079", "enisaUuid": "8e3a04ac-6ccd-3ab4-aa70-3049532b9aaa", "description": "Malicious code in invalid-polyfill-missing (npm)", "datePublished": "2025-08-23T14:25:40", "dateUpdated": "2025-08-23T16:06:30", "baseScore": 0.0, "aliases": ["MAL-2025-41301"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

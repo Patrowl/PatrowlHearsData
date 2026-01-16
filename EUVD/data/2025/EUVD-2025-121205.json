@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121205", "enisaUuid": "0efcbb65-95ec-30f9-8f0f-c2a60f361e6e", "description": "Malicious code in toml-transform-mongoose-cz-conventional-changelog (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148723"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

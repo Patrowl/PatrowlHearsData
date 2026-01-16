@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112517", "enisaUuid": "505a4bba-9619-39bf-89d2-9b955c6ab05d", "description": "Malicious code in ini-passport-quito-mongoose (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143596"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

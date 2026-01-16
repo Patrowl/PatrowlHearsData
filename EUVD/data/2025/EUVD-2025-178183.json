@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178183", "enisaUuid": "2b6ef16e-e197-3325-bcc9-7465a45a4d00", "description": "Malicious code in koa-eslint-plugin-corvus-dotenv-parse-variables (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187699"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123132", "enisaUuid": "c539a7f0-4977-332a-96bf-0a4124a91e6d", "description": "Malicious code in publish-jekyll-miranda-exec (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146790"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

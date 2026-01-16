@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116527", "enisaUuid": "56bef368-dc2d-3d2c-8584-4f3374188df1", "description": "Malicious code in arcturus-proxima-cosmiconfig-websockets (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139575"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

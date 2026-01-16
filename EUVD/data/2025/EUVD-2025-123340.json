@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123340", "enisaUuid": "9243e38d-3bf7-3620-bfc6-58e5c5582469", "description": "Malicious code in procyon-chakra-ui-comet-init (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146582"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

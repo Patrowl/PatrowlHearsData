@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131665", "enisaUuid": "8256fe82-ed07-3c7c-8c37-c2963ac8483b", "description": "Malicious code in @frozen-team/eslint-config-base (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7943"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

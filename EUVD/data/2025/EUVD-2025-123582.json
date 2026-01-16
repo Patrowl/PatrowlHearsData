@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123582", "enisaUuid": "6f3d5f92-d1c0-3c0f-803e-d1a51b372f6c", "description": "Malicious code in polaris-eslint-bunyan-pegasus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146339"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

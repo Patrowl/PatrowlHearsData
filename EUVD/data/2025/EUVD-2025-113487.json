@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113487", "enisaUuid": "8ee71a00-0bd5-3f8b-b019-519cb282b600", "description": "Malicious code in fornax-hermes-soap-eleventy (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142625"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120300", "enisaUuid": "7c6f3e21-7835-31b9-9ba0-ae7fb0c58971", "description": "Malicious code in xanthus-middleware-sadr-winston (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149631"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

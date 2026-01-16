@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124403", "enisaUuid": "1a1cff1c-9ce7-3447-a497-18d6ae9e4ad7", "description": "Malicious code in node-config-sadr-node-sass-loglevel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145518"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

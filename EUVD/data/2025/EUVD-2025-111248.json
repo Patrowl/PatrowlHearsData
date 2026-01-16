@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111248", "enisaUuid": "8b9e5702-57f9-3e23-8d1f-0392693e73c3", "description": "Malicious code in mensa-typeorm-node-sass-ursa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144867"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181825", "enisaUuid": "ab99644a-d646-33fc-8c7b-1fee2ef515d1", "description": "Malicious code in reject-stub-nu-long-delta (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32040"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

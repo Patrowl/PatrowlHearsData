@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167777", "enisaUuid": "f3f9a1d2-37be-38ec-b70a-37df22c382cf", "description": "Malicious code in int_affirm_sfra (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23259"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

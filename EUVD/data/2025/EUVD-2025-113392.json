@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113392", "enisaUuid": "8dc1fc4d-283a-3ad6-b091-59e980411698", "description": "Malicious code in fusion-apollo-style-loader-envconfig (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142720"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

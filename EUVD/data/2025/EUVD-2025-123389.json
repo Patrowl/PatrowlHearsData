@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123389", "enisaUuid": "3fd40476-7b66-3b16-a859-4a981903e83f", "description": "Malicious code in private-halley-nodejs-subscription (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146533"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

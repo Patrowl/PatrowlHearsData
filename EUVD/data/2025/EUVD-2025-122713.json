@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122713", "enisaUuid": "4811de95-c99e-3512-84d6-17091d068afe", "description": "Malicious code in relay-sails-postcss-quito (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147209"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122559", "enisaUuid": "e35bcf23-b5ea-36b1-890c-5b00b45627c8", "description": "Malicious code in rest-rate-limiter-xanadu-helios (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147363"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

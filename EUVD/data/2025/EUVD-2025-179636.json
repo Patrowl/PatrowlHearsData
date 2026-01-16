@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179636", "enisaUuid": "59a28ff7-292d-32a4-858a-6a700a9376a9", "description": "Malicious code in commitlint-chalk-eclipse-init (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186246"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

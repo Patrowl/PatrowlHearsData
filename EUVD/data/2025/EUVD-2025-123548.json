@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123548", "enisaUuid": "c8edad9e-248e-3d04-8c29-b3abba278a0f", "description": "Malicious code in polaris-sync-procyon-sagitta (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146373"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

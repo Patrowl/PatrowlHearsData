@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168129", "enisaUuid": "144154dd-64ac-394d-a55d-9e8eea51155e", "description": "Malicious code in janus-postcss-loader-element-ui-spectron (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23611"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

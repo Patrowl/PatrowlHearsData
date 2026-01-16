@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77143", "enisaUuid": "e0ef2d99-375f-3251-a573-7ca2a4f2f213", "description": "Malicious code in deep_coyote-silentdev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-101256"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113251", "enisaUuid": "0f5f6a1d-9563-32c0-94b3-3a25cf223984", "description": "Malicious code in geckodriver-chromedriver-gridsome-callisto (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142861"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

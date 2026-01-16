@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182810", "enisaUuid": "a771e9c8-b56d-37d7-9650-271ccb0eb320", "description": "Malicious code in setup-foreman (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33025"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

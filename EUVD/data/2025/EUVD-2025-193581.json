@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193581", "enisaUuid": "0ed8d25e-85af-33b4-9e34-c806abf0ee62", "description": "Malicious code in cli-public-proxima-oberon (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43828"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

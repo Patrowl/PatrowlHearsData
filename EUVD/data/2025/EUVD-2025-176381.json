@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176381", "enisaUuid": "f78c8e78-24e8-3bee-82d0-b8bdfce189de", "description": "Malicious code in signal-authenticate-cluster-await-byte (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189494"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

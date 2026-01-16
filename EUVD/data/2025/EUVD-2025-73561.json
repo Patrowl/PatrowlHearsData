@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-73561", "enisaUuid": "221994cb-fc5d-3d1a-b5cf-72ee756ebdf1", "description": "Malicious code in spontaneous_ocelot_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-96729"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

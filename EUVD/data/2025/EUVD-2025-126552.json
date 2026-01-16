@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126552", "enisaUuid": "82b15ebf-11b7-3cd3-bf1f-05e4fb0cbf98", "description": "Malicious code in @uniqa/claims-ms-api (npm)", "datePublished": "2025-03-28T12:33:50", "dateUpdated": "2025-03-28T12:33:50", "baseScore": 0.0, "aliases": ["MAL-2025-2811"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

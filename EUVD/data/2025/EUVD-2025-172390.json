@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172390", "enisaUuid": "37ccf695-b37b-33eb-b7b9-c687edbf652e", "description": "Malicious code in nrg-timekeeper (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27861"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

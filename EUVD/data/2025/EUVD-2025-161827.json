@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161827", "enisaUuid": "05f88bec-a456-3ea6-951d-d509928a87ad", "description": "Malicious code in com.microsoft.mixedreality.input (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17328"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

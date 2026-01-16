@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176484", "enisaUuid": "795c47b9-893f-3782-868a-7e53f62ff934", "description": "Malicious code in scripts-shelljs-quark-gridsome (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189391"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

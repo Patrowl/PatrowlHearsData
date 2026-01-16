@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111778", "enisaUuid": "3625e104-092d-3c25-9905-a4be0d58ba69", "description": "Malicious code in less-loader-toml-private-soap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144335"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177626", "enisaUuid": "4f4c8aeb-92f6-34f3-b1f3-0540274701bc", "description": "Malicious code in new-decode-process-orchestrate-balance (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188256"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

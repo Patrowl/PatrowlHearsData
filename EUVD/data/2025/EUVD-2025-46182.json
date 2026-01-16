@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-46182", "enisaUuid": "750e33cc-65af-3108-a8c4-0d1e70572f1a", "description": "Malicious code in native_zebra_z3n (npm)", "datePublished": "2025-11-10T17:21:43", "dateUpdated": "2025-11-10T17:21:43", "baseScore": 0.0, "aliases": ["MAL-2025-57793"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

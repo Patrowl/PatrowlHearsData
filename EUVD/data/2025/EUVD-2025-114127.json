@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114127", "enisaUuid": "4c6f807c-f43e-3307-8bdd-da2d97153b2a", "description": "Malicious code in element-ui-spectron-webdriver-mdx-flare (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141983"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

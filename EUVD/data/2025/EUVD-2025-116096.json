@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116096", "enisaUuid": "e0f26f8c-6389-3455-ad06-7d7831a0a8db", "description": "Malicious code in betelgeuse-slidev-webdriver-mocha-duplex (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140006"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

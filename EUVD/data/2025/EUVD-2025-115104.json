@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115104", "enisaUuid": "26504025-1405-3f1c-90a0-8bf175e79578", "description": "Malicious code in concurrently-firebase-remark-postcss-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141005"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

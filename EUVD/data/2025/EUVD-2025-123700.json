@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123700", "enisaUuid": "12d6d4f4-8bcc-3fe5-8f79-088733f20529", "description": "Malicious code in pino-loop-relay-xml (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146221"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

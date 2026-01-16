@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116429", "enisaUuid": "18362c84-2380-3e98-b1ba-ec82c29e999d", "description": "Malicious code in auriga-babel-ceres-sequelize (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139673"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80264", "enisaUuid": "f647c830-6d84-3e9a-b3bc-1e3d927ac7f7", "description": "Malicious code in townsend-wallet-store (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-109787"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195944", "enisaUuid": "aef5ac23-7826-3ffb-9275-3e6fb3798da3", "description": "Malicious code in tailwindcss-tailwindcss-dotenv-safe-less-loader (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46192"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

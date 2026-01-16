@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191210", "enisaUuid": "08804637-4cbd-3f35-9a03-2c7290eae777", "description": "Malicious code in uitk_hb_button (npm)", "datePublished": "2025-08-26T15:10:55", "dateUpdated": "2025-08-26T15:10:55", "baseScore": 0.0, "aliases": ["MAL-2025-41433"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170843", "enisaUuid": "d6ab1556-056b-36ad-92ee-0aefe61ad925", "description": "Malicious code in migration-progress-announce (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26314"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

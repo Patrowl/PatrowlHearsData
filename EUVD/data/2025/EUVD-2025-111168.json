@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111168", "enisaUuid": "0e4b963c-0ad7-36ee-892f-1537b9d251c6", "description": "Malicious code in middleware-barnard-update-semantic-release (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144947"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

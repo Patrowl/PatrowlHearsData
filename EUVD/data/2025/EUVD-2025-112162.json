@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112162", "enisaUuid": "7b71b67e-3ef5-386f-b4d2-55080511f4df", "description": "Malicious code in jovian-loopback-terser-webpack-plugin-protractor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143951"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

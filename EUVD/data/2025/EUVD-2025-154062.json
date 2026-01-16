@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-154062", "enisaUuid": "609d89ed-df85-3037-8e4c-0accdc056a47", "description": "Malicious code in @telepo/web-attendant (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9561"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

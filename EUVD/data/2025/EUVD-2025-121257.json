@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121257", "enisaUuid": "92dcfab0-e1fa-3a69-9bea-450f0f9358e8", "description": "Malicious code in titan-auth-websockets-algol (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148671"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

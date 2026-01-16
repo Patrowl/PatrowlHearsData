@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164598", "enisaUuid": "7a5837e2-07ab-3863-becd-b4882516ab68", "description": "Malicious code in express-meetings (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20078"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

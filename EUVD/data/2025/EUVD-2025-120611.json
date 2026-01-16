@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120611", "enisaUuid": "e1e958c3-607c-3e24-9ecb-1e181590790c", "description": "Malicious code in webdriver-manager-fetch-epimetheus-dactyl (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149318"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112572", "enisaUuid": "d1fd9180-48b9-322a-bfb5-7f365cf52619", "description": "Malicious code in impulse-dotenv-safe-prompts-miranda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143541"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

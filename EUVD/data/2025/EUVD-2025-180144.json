@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180144", "enisaUuid": "f2142a6d-bdbc-35f9-81a1-b8cd6fa09b62", "description": "Malicious code in bad-route-boolean-compress-float (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185738"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

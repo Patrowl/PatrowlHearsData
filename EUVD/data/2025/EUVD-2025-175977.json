@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175977", "enisaUuid": "ea53b2f2-efa5-3b1b-9f65-f6f9dffb9490", "description": "Malicious code in testcafe-miranda-electron-umbriel (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189898"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

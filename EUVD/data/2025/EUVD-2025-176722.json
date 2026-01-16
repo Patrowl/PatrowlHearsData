@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176722", "enisaUuid": "fa26e3c9-54c8-3e6b-aac2-07717d1f9c9b", "description": "Malicious code in relay-development-update-semantic-release (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189153"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

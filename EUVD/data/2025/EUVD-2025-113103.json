@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113103", "enisaUuid": "9c02e5ef-2598-3a6f-94d0-0bd87982a923", "description": "Malicious code in graphql-selenium-antares-luna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143009"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112628", "enisaUuid": "2769c248-b958-3227-8071-316f81cd9c12", "description": "Malicious code in hyperion-loglevel-quark-auth0 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143484"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112072", "enisaUuid": "10a1eef8-9216-36bd-982f-0f3f1a4608ec", "description": "Malicious code in juno-sync-middleware-ini (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144041"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

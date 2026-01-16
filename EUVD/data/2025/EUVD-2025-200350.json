@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200350", "enisaUuid": "84477376-a259-3400-ab64-b19471591bf2", "description": "Malicious code in lbank-connector-nodejs (npm)", "datePublished": "2025-12-01T13:15:08", "dateUpdated": "2025-12-24T10:09:28", "baseScore": 0.0, "aliases": ["MAL-2025-191579"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

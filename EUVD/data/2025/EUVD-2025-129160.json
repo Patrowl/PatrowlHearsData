@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129160", "enisaUuid": "9a0736a3-f553-3920-9b8f-04c34c0e4fe3", "description": "Malicious code in load-nyc-config (npm)", "datePublished": "2025-06-25T19:29:10", "dateUpdated": "2025-06-25T19:29:10", "baseScore": 0.0, "aliases": ["MAL-2025-5431"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

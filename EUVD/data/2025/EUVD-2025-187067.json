@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187067", "enisaUuid": "a4407d22-76e4-31fb-a246-5d42d90c86ae", "description": "Malicious code in ts2c-target-arduino (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37253"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

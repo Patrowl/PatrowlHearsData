@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177939", "enisaUuid": "0e1df422-f302-325b-9170-bc94982d1760", "description": "Malicious code in materialize-framework-electron-builder-enceladus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187943"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

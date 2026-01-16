@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122463", "enisaUuid": "96e0c0e1-ce38-324a-a6af-fd8037a3165b", "description": "Malicious code in rimraf-sync-koa-test (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147459"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

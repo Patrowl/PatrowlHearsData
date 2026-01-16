@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175970", "enisaUuid": "f0d3ccc4-23d8-37f5-9728-4e6ca567013a", "description": "Malicious code in tethys-geodynamo-mongoose-venus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189905"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

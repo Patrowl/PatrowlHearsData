@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116583", "enisaUuid": "6b3871f3-4079-3e90-adfc-435ee3a6d011", "description": "Malicious code in apollo-library-metalsmith-tool (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139519"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

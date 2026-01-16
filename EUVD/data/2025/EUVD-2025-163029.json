@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163029", "enisaUuid": "e6ca4212-37b8-3c27-b44f-63bb6e0b136a", "description": "Malicious code in dlrepo (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18530"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

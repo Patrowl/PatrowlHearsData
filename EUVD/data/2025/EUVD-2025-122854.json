@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122854", "enisaUuid": "cf2430a3-8d29-3898-996c-40fad9f8e21e", "description": "Malicious code in react-bootstrap-native-rehype-style-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147068"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

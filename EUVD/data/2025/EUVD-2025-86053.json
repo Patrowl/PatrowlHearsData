@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-86053", "enisaUuid": "0b38fb64-1cd3-35d6-ba3b-f39bb11034c6", "description": "Malicious code in financial_iguana_z3n (npm)", "datePublished": "2025-11-11T04:25:34", "dateUpdated": "2025-11-11T15:48:16", "baseScore": 0.0, "aliases": ["MAL-2025-85576"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196225", "enisaUuid": "1c2faa50-16f1-30cd-8fd1-9bc3b4e45a84", "description": "Malicious code in upgrade-grus-publish-aether (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46473"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

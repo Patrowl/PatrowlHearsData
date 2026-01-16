@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161930", "enisaUuid": "2242e5a4-b1db-34db-8ec2-8beb9bd29376", "description": "Malicious code in common-server-utils (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17431"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172192", "enisaUuid": "2a8077f0-a7cd-3de7-83f1-64a74b0db321", "description": "Malicious code in node-venues (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27663"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

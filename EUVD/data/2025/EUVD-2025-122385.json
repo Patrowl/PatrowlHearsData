@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122385", "enisaUuid": "ab41aefb-69fe-3c8b-a479-f986a511d8ef", "description": "Malicious code in rollup-terser-local-neptune (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147537"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

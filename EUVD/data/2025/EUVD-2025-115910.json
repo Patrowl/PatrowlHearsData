@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115910", "enisaUuid": "2256107e-f712-3ac9-a179-21109d161b8a", "description": "Malicious code in build-triton-webpack-wezen (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140194"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114627", "enisaUuid": "5a203c8d-1434-32b2-8dc8-54c1858efaf0", "description": "Malicious code in dagda-rate-limiter-webpack-subscription (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141482"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

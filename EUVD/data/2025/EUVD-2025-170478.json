@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170478", "enisaUuid": "a8ca0712-5e3a-3632-935f-15ff5abea4f7", "description": "Malicious code in markdownlint-spectroscopy-wasat-start (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25949"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

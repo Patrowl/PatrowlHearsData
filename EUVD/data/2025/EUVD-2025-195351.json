@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195351", "enisaUuid": "ed8ee552-d7ae-3efd-b215-1ed49613638b", "description": "Malicious code in procyon-typeorm-pegasus-backend (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45599"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

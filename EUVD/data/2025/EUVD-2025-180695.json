@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180695", "enisaUuid": "2fe43cc2-848d-3baf-b8bd-31b34a7caf0c", "description": "Malicious code in pxinetd (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-30909"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180436", "enisaUuid": "eb678163-d3b7-376e-957f-b5458efe713f", "description": "Malicious code in analyze-key-simple-long-gamma (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185452"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

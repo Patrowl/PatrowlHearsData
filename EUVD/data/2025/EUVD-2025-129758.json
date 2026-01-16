@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129758", "enisaUuid": "5b916147-df06-3d7a-982e-62fe673c70e1", "description": "Malicious code in @ivy-shared-components/testing (npm)", "datePublished": "2025-07-17T03:58:58", "dateUpdated": "2025-08-01T10:07:40", "baseScore": 0.0, "aliases": ["MAL-2025-6031"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

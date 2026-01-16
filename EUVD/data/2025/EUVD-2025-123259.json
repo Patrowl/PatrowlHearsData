@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123259", "enisaUuid": "3c83d67f-6598-3816-9ae5-2b8ddd394433", "description": "Malicious code in prompts-elara-neptune-middleware (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146663"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

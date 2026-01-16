@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121493", "enisaUuid": "989e5393-07e5-31e7-8eb1-894969344f4c", "description": "Malicious code in sync-transport-resolvers-quantum (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148435"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

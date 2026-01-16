@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-31795", "enisaUuid": "0522f1eb-fec0-38c7-b621-8b0f4f1787e7", "description": "Malicious code in pmcrypto-v6-canary (npm)", "datePublished": "2025-09-30T05:20:04", "dateUpdated": "2025-09-30T05:20:04", "baseScore": 0.0, "aliases": ["MAL-2025-47859"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

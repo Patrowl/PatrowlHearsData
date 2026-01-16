@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124236", "enisaUuid": "48f7a050-7ea0-3235-8a64-1d10e09961cb", "description": "Malicious code in npm-nodemon-docusaurus-scorpius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145685"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

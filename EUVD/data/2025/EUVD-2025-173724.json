@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173724", "enisaUuid": "6b568962-bff4-377e-9931-c5d29ca2e4e2", "description": "Malicious code in phpsemver (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29195"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

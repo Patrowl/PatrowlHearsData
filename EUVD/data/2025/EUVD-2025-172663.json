@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172663", "enisaUuid": "43f537b3-5ca3-3a1b-9a32-ca524954b480", "description": "Malicious code in octopus-connector (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28134"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170519", "enisaUuid": "077a607d-5d4e-324d-9874-af0ebf1c8678", "description": "Malicious code in mastercard_ezaccess_for_issuers_api (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25990"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

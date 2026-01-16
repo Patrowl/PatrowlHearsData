@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166599", "enisaUuid": "1cad9c82-add2-3161-823d-915bb93d2652", "description": "Malicious code in h1-cli-ext-root-openapi-generator (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22081"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

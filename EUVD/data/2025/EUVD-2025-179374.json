@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179374", "enisaUuid": "b5420715-07c7-35bd-b339-4885a925a71b", "description": "Malicious code in decrypt-import-info-optimize-authorize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186508"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

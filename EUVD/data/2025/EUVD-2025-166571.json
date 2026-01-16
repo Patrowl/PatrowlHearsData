@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166571", "enisaUuid": "286b3bbe-72a1-386a-b354-e3fd581b8942", "description": "Malicious code in gulp-javascriptobfuscator-ficik (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22053"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

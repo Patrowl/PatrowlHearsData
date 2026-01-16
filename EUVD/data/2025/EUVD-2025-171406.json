@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171406", "enisaUuid": "6834ac7f-1995-36ef-b0e2-207571e7099c", "description": "Malicious code in multer-sharp-minio-storage (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26877"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

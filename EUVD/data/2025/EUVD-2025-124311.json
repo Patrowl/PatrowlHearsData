@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124311", "enisaUuid": "da913619-5488-3263-84f4-393d1806433f", "description": "Malicious code in non-blocking-hapi-less-package (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145610"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

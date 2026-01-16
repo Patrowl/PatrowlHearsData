@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116149", "enisaUuid": "4db3d424-4b68-3c75-b4d3-bf1eb930ec5a", "description": "Malicious code in bellatrix-process-buffer-sequelize (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139953"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

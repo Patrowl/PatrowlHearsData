@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121934", "enisaUuid": "1781e86b-32e5-34b5-823a-5dfff9fdeadc", "description": "Malicious code in slides-non-blocking-dotenv-safe-loopback (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147991"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

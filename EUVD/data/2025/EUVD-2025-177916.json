@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177916", "enisaUuid": "0d9bb2d6-4c3f-39d5-8255-87f56d84c4cc", "description": "Malicious code in meissa-duplex-request-install (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187966"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

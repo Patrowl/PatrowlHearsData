@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130523", "enisaUuid": "c905ef9d-78fd-3eb0-ae35-6c0cf2e85522", "description": "Malicious code in sendbird-notifications-extension-example (npm)", "datePublished": "2025-08-07T06:05:56", "dateUpdated": "2025-08-07T06:05:56", "baseScore": 0.0, "aliases": ["MAL-2025-6801"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

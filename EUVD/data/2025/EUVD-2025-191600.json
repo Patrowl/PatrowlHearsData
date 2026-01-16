@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191600", "enisaUuid": "dc64a7de-5000-39ff-befa-a38a8bc79a9e", "description": "Malicious code in @espace-client-axafr/alert-resilience-message (npm)", "datePublished": "2025-08-25T18:31:29", "dateUpdated": "2025-08-25T18:31:29", "baseScore": 0.0, "aliases": ["MAL-2025-41834"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

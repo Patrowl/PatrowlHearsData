@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111111", "enisaUuid": "1864472f-b2f6-39a9-86d5-70dcb2796fc5", "description": "Malicious code in mira-cache-cross-env-babel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145004"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

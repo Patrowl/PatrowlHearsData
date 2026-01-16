@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123522", "enisaUuid": "50d02c21-f26d-3ba3-b964-e444d615c508", "description": "Malicious code in postcss-loader-meteor-mocha-phoenix (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146399"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

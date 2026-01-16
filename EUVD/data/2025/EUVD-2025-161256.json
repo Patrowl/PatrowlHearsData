@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161256", "enisaUuid": "1e571686-d355-3e32-bfae-97671e6817ac", "description": "Malicious code in ch-react-modal (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16755"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

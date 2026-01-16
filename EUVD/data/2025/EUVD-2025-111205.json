@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111205", "enisaUuid": "77726661-75dd-348a-bc0c-3051a2998319", "description": "Malicious code in meteor-foundation-callback-grus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144910"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

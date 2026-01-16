@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115877", "enisaUuid": "1e7dce82-44a9-3adc-bc46-acfd71bc5a09", "description": "Malicious code in bulma-rest-test-winston (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140227"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127894", "enisaUuid": "cc686909-10df-3c5c-86a1-4dd85a605b5a", "description": "Malicious code in atg-breakpoints (npm)", "datePublished": "2025-05-22T12:40:34", "dateUpdated": "2025-05-22T12:40:34", "baseScore": 0.0, "aliases": ["MAL-2025-4162"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

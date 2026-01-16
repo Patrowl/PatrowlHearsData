@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182125", "enisaUuid": "2875901d-66a8-323b-9bd9-0a5352b85b5e", "description": "Malicious code in rocket-callback-bellatrix-typeorm (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32340"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

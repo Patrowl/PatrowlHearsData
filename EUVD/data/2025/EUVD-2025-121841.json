@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121841", "enisaUuid": "e421c3cb-2025-318a-82c5-2d64ccea6f1e", "description": "Malicious code in solis-repository-envconfig-exec (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148084"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

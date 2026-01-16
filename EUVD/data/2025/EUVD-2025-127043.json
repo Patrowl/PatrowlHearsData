@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127043", "enisaUuid": "e7347364-4b07-3e05-9523-58a1ea1ff2b2", "description": "Malicious code in @saferpay/prettier-config (npm)", "datePublished": "2025-04-23T15:39:13", "dateUpdated": "2025-04-23T15:39:13", "baseScore": 0.0, "aliases": ["MAL-2025-3302"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

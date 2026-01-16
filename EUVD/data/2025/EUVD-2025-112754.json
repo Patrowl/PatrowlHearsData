@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112754", "enisaUuid": "e2584186-7eb2-31bd-85c7-5d9551382d40", "description": "Malicious code in html-webpack-plugin-csrf-link-changelog (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143358"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

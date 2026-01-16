@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115184", "enisaUuid": "12b4d903-5df3-3b34-8df2-9a5fa96e63af", "description": "Malicious code in commitizen-await-commitlint-config-angular-chalk (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140924"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

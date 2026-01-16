@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77411", "enisaUuid": "a9bae58c-4642-3d87-9c2b-3c4f99351d89", "description": "Malicious code in breakable_vicuna-smiletea (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-100091"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

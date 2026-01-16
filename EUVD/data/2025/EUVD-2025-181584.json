@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181584", "enisaUuid": "e3d14c6f-8597-3049-90e1-f964a79d1471", "description": "Malicious code in react-image2base64 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31799"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

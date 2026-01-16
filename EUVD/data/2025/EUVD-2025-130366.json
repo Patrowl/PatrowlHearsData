@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130366", "enisaUuid": "b1f079de-5811-3c3d-9b88-7e1d745e03da", "description": "Malicious code in node-melitk-otel (npm)", "datePublished": "2025-07-31T19:36:05", "dateUpdated": "2025-07-31T19:36:05", "baseScore": 0.0, "aliases": ["MAL-2025-6641"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

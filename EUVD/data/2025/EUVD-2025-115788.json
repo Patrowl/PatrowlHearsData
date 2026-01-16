@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115788", "enisaUuid": "b51b7b6a-5c68-3837-833c-a509cd50e16b", "description": "Malicious code in callback-spica-rollup-schema (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140318"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

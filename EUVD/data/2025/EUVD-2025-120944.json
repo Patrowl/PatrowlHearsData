@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120944", "enisaUuid": "65343bde-d491-3daf-87f5-5631e8a1afa9", "description": "Malicious code in unuk-schema-cross-env-browserify (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148985"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

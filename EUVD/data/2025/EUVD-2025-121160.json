@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121160", "enisaUuid": "3b19aa55-1080-34b3-923d-d3e8a5559e25", "description": "Malicious code in transform-morgan-frontend-epimetheus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148768"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

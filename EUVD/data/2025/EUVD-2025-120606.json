@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120606", "enisaUuid": "943f9c4c-5a4a-3594-b751-c3871b3c1ff9", "description": "Malicious code in webdriver-manager-lacerta-selenium-package (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149323"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

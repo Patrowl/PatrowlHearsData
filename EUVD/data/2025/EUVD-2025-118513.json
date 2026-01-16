@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-118513", "enisaUuid": "531f682f-f5ea-3921-a618-e5ae7bc36537", "description": "Malicious code in experimental_echidna_z3n (npm)", "datePublished": "2025-11-11T22:56:38", "dateUpdated": "2025-11-11T22:56:38", "baseScore": 0.0, "aliases": ["MAL-2025-133279"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176321", "enisaUuid": "0be77daf-49bb-3b83-834b-be6143b32399", "description": "Malicious code in soap-commitizen-markdown-janus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189554"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

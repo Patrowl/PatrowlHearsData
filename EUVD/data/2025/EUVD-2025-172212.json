@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172212", "enisaUuid": "8715b6c2-c9f0-3231-82ba-3c17b6d74b39", "description": "Malicious code in nodejs-sqlite-astrometry-axios (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27683"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

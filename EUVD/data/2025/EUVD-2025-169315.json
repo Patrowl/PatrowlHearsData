@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169315", "enisaUuid": "c5b8df7b-82f6-352d-a388-47085500bc9d", "description": "Malicious code in kryptor-session (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24786"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

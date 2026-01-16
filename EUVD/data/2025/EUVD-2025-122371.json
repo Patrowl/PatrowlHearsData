@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122371", "enisaUuid": "258fca94-8b31-3494-b26d-864af8194335", "description": "Malicious code in run-script-pyxis-chromedriver-sqlite (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147551"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178838", "enisaUuid": "b1afbdb8-b3db-3249-9af7-79bd6d920ea7", "description": "Malicious code in framework-bellatrix-await-unuk (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187044"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

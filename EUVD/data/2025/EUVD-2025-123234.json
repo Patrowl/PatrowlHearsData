@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123234", "enisaUuid": "36251e5a-7313-35aa-8800-436c74368b6f", "description": "Malicious code in protractor-loglevel-telesto-module (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146688"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

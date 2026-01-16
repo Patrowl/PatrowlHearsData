@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124815", "enisaUuid": "649fc709-ad62-3ed5-838c-c8b63e04711d", "description": "Malicious code in module-eslint-plugin-cypress-nodemon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145103"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

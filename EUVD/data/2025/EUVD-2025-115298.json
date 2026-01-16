@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115298", "enisaUuid": "4d0ac108-f5b6-334f-8267-5b221d093aa8", "description": "Malicious code in cli-sedna-xo-tool (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140810"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

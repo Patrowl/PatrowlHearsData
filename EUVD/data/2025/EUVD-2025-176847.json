@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176847", "enisaUuid": "01effb01-b8e7-3aad-b340-dd4f05bdc0ad", "description": "Malicious code in quasar-backend-altair-callback (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189028"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

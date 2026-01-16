@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113497", "enisaUuid": "4f96865d-e3a8-3cae-b062-8f8c40760bba", "description": "Malicious code in fornax-csrf-buffer-remark (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142615"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176527", "enisaUuid": "63812b9f-9819-3cd6-82e1-11bc0c8c69b9", "description": "Malicious code in sanitize-module-pi-code-static (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189348"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

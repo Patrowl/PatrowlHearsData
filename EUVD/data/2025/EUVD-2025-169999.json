@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169999", "enisaUuid": "0e992f2f-71f9-340d-9302-855deca55adb", "description": "Malicious code in load-hot-info-delta-encode (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25470"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

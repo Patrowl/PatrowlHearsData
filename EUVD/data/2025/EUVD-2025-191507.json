@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191507", "enisaUuid": "0d0e7159-9192-3cb2-b19f-7bfac7769214", "description": "Malicious code in reqeuest-new (PyPI)", "datePublished": "2025-08-28T07:11:44", "dateUpdated": "2025-08-28T07:11:44", "baseScore": 0.0, "aliases": ["MAL-2025-41740"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

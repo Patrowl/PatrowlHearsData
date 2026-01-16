@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172145", "enisaUuid": "650f6fd4-4d2a-3590-ad57-eede2a399030", "description": "Malicious code in node-fecht (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27616"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

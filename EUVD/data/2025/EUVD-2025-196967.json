@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196967", "enisaUuid": "3cffc9ac-3c78-3c6d-af04-c6b98fc44c30", "description": "Malicious code in @jupiter-sdk/trade (npm)", "datePublished": "2025-09-17T20:52:16", "dateUpdated": "2025-09-17T20:52:16", "baseScore": 0.0, "aliases": ["MAL-2025-47430"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187094", "enisaUuid": "b1e3c21c-f31e-3889-b445-2deaf764258e", "description": "Malicious code in transport-cluster-grunt-phoenix (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37165"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

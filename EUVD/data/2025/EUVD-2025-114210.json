@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114210", "enisaUuid": "0fef65fa-c932-320a-93b5-c1ea5db9f027", "description": "Malicious code in electron-builder-dactyl-duplex-ignite (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141900"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

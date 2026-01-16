@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162965", "enisaUuid": "f1b5fd51-d229-3788-ac76-0264a8a6c7da", "description": "Malicious code in dip-client-impl (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18466"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

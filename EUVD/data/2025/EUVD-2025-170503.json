@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170503", "enisaUuid": "83b87f3a-ffc2-3efb-9d20-3f746fb9b057", "description": "Malicious code in marudor-hazelcast-client (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25974"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

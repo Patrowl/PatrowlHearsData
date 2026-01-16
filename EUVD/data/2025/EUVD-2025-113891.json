@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113891", "enisaUuid": "1bd0ac1c-9c33-37ed-86cf-78fb46b73a5c", "description": "Malicious code in eslint-gatsby-init-express (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142219"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

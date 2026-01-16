@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176725", "enisaUuid": "372fe53e-5b4c-3464-a0bd-1d443aed9672", "description": "Malicious code in reject-report-water-thread-parse (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189150"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

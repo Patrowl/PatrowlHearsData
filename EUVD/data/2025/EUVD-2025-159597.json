@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159597", "enisaUuid": "490dca6b-9ffe-3952-9e09-e1fd65acbd75", "description": "Malicious code in authenticate-log-lambda-double-notify (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15096"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

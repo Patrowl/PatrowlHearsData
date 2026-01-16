@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115019", "enisaUuid": "730c9075-4265-3519-9722-e8c0d219a272", "description": "Malicious code in convict-rollup-plugin-buffer-sagitta (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141090"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

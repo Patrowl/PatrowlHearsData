@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111400", "enisaUuid": "e1b567f6-ff6f-31bf-a980-40065f3db061", "description": "Malicious code in markdown-rollup-plugin-quark-zephyr (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144715"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111955", "enisaUuid": "f1e928a0-d158-397c-8f10-c4adcdc3d77e", "description": "Malicious code in kaus-vega-oauth-sqlite (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144158"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

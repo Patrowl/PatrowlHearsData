@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127776", "enisaUuid": "97d89e22-ce70-3ebc-acf9-7b51b283e2ec", "description": "Malicious code in fireblocks-netlink-v2-api-validator (npm)", "datePublished": "2025-05-19T12:28:04", "dateUpdated": "2025-05-19T12:28:04", "baseScore": 0.0, "aliases": ["MAL-2025-4043"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

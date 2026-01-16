@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175516", "enisaUuid": "7e0bca69-3991-3d5b-b4c7-7a658e720177", "description": "Malicious code in xanthus-websockets-helios-duplex (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190360"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

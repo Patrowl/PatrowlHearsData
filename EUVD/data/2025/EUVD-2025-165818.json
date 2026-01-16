@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165818", "enisaUuid": "2180159f-ff63-365f-adac-8adbb2c0114c", "description": "Malicious code in generator-plyo (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21299"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

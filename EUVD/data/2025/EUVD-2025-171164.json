@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171164", "enisaUuid": "2ba715ae-1a52-35e3-a021-6735dbeca3eb", "description": "Malicious code in mongodb-chatbot-eval (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26635"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

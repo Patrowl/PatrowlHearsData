@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115380", "enisaUuid": "12c2d388-6d05-3d23-a13f-b52f8569a300", "description": "Malicious code in charon-mongodb-webdriver-manager-comet (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140727"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

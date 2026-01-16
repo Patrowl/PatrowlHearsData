@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-62921", "enisaUuid": "c851f0c9-ab2e-3ed9-8881-dea2c7749e19", "description": "Malicious code in net_canid_z3n (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-95633"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113902", "enisaUuid": "ab53534f-f76b-3e42-8a4a-cabec7fdda37", "description": "Malicious code in eslint-config-query-cosmiconfig-kastra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142208"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

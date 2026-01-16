@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126753", "enisaUuid": "5f701277-8633-348f-8505-8d8f66a85ead", "description": "Malicious code in twilio-rest (PyPI)", "datePublished": "2025-03-28T13:06:27", "dateUpdated": "2025-03-28T13:06:27", "baseScore": 0.0, "aliases": ["MAL-2025-3012"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

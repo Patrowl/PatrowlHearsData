@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120485", "enisaUuid": "b99ffb99-69b0-3955-b456-802f832bb0bb", "description": "Malicious code in weywot-remark-titan-auth0 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149445"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

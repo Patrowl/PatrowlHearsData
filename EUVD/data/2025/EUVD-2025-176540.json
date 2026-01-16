@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176540", "enisaUuid": "21a34ccd-cab2-309b-b6e1-527372819597", "description": "Malicious code in sandbox-bash-authorize-hot-simulate (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189335"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

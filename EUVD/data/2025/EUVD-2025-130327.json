@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130327", "enisaUuid": "b09f9a6b-d367-3a35-ac26-ffc8ce3a8feb", "description": "Malicious code in torchao-nightly (PyPI)", "datePublished": "2025-07-31T19:16:47", "dateUpdated": "2025-07-31T19:16:47", "baseScore": 0.0, "aliases": ["MAL-2025-6602"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

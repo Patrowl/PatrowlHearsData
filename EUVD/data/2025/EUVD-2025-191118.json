@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191118", "enisaUuid": "d38e383a-f41b-3290-926c-c5c3498e4f33", "description": "Malicious code in typescript-5.8 (npm)", "datePublished": "2025-08-23T15:00:03", "dateUpdated": "2025-08-25T07:32:50", "baseScore": 0.0, "aliases": ["MAL-2025-41340"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

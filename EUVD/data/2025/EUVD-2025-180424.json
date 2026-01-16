@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180424", "enisaUuid": "4515c801-cbfc-3134-a72e-bd3f4f0ea7e6", "description": "Malicious code in antares-cluster-ursa-javascript (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185464"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

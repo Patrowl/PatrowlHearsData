@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160252", "enisaUuid": "1b213b6b-d001-344c-8654-a0ea1c249378", "description": "Malicious code in bitcoin-osp (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15751"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

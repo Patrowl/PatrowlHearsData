@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116476", "enisaUuid": "8ff81393-9cff-3ce1-96b8-9de36dc3926a", "description": "Malicious code in async-hugo-yaml-rimraf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139626"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

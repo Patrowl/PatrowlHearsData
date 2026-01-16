@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173426", "enisaUuid": "154fcf42-b393-3b29-b008-4fb4b859da9c", "description": "Malicious code in passmark-worker (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28897"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

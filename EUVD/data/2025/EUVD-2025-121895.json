@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121895", "enisaUuid": "e5b87d3b-cc96-39ad-8ffc-ca2b1a68a06f", "description": "Malicious code in soap-pavo-terser-got (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148030"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

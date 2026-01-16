@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162957", "enisaUuid": "386e8a2d-c147-3a1e-86cd-99f1d952e307", "description": "Malicious code in dione-electron-dotenv-safe-elara (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18458"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

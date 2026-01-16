@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-73879", "enisaUuid": "f41bc7d4-fb5a-300c-a761-1a1620756f96", "description": "Malicious code in round_rat_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-96411"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

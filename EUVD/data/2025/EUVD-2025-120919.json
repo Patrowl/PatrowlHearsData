@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120919", "enisaUuid": "5787c111-2a01-3650-b0b6-90ddd9cdd2c8", "description": "Malicious code in upgrade-electron-builder-pipe-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149010"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

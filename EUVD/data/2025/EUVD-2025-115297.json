@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115297", "enisaUuid": "437a5345-1dd4-36b9-99b8-6445bbaf0557", "description": "Malicious code in cli-start-husky-pyxis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140811"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

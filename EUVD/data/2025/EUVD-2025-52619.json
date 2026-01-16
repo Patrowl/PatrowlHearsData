@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-52619", "enisaUuid": "730094c3-445f-3391-80fa-cfc4cc82d706", "description": "Malicious code in productive-azure-wasp (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-70030"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

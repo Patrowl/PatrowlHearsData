@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175895", "enisaUuid": "52870265-9aa6-3e72-a0ca-440ac7b47d88", "description": "Malicious code in transpile-pi-cron-secure-double (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189980"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

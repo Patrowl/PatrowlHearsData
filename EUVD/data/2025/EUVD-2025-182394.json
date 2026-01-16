@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182394", "enisaUuid": "024be70b-1a90-3716-a4a2-fe96fb7410f8", "description": "Malicious code in sadr-cache-optimize-css-assets-webpack-plugin-ursa (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32609"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

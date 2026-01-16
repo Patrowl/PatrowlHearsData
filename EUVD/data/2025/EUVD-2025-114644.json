@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114644", "enisaUuid": "a0ecd3e5-6a35-3143-bb7e-d10bf514bb50", "description": "Malicious code in dagda-convict-nova-mongodb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141465"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

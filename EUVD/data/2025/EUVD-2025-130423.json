@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130423", "enisaUuid": "0923b1fd-7406-335d-9865-fab6cd74a24d", "description": "Malicious code in bp-console-fe-sg (npm)", "datePublished": "2025-08-03T22:55:14", "dateUpdated": "2025-08-05T06:46:43", "baseScore": 0.0, "aliases": ["MAL-2025-6700"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

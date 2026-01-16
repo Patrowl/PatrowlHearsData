@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113688", "enisaUuid": "5f133974-c119-3a32-90ca-28fd9c17f418", "description": "Malicious code in farout-redis-levels-odin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142422"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161220", "enisaUuid": "eaa643c9-50c9-35f5-96e7-2802fa00eb77", "description": "Malicious code in centaurus-release-it-jsonp-meteor (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16719"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

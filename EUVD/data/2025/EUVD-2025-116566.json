@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116566", "enisaUuid": "de84bd30-5971-3f7d-a5c6-bd0cfccea7e5", "description": "Malicious code in aquarius-fornax-mocha-resolvers (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139536"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

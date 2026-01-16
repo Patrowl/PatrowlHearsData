@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113904", "enisaUuid": "c27c2af1-8d85-37ee-baa8-99e74edada0e", "description": "Malicious code in eslint-config-prettier-plugin-markdown-zephyr-airbnb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142206"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

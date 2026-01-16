@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191673", "enisaUuid": "f167d43c-e2e9-3b88-905a-553ed2bc635b", "description": "Malicious code in @espace-client-axafr/sticker-policy-list (npm)", "datePublished": "2025-08-25T18:36:40", "dateUpdated": "2025-08-25T18:36:40", "baseScore": 0.0, "aliases": ["MAL-2025-41907"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

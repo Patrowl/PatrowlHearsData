@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177987", "enisaUuid": "c3942369-8fda-383d-8413-842ea6924f4b", "description": "Malicious code in lyra-xanthus-csrf-pm2 (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187895"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

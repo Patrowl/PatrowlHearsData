@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112033", "enisaUuid": "473c9458-eac1-353b-9934-52fe0f192e1f", "description": "Malicious code in jwt-markdownlint-chakra-ui-sadr (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144080"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

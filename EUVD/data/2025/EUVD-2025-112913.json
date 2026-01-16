@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112913", "enisaUuid": "699d842f-ae27-3591-afb1-891d127f16de", "description": "Malicious code in hapi-winston-halley-fornax (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143199"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

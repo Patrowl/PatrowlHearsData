@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123573", "enisaUuid": "0d949f18-1afe-3930-98da-c0d438361a0a", "description": "Malicious code in polaris-inquirer-playwright-vuepress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146348"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

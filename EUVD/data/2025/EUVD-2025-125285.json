@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125285", "enisaUuid": "6fa80921-ccda-369b-bf80-f7eefa1b46ad", "description": "Malicious code in charts-e2e (npm)", "datePublished": "2025-02-23T05:16:15", "dateUpdated": "2025-02-23T05:16:15", "baseScore": 0.0, "aliases": ["MAL-2025-1541"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

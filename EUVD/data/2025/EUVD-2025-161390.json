@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161390", "enisaUuid": "d9ece581-490c-3559-b80c-c4a1fd7004a4", "description": "Malicious code in cheerio-ajax (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16889"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

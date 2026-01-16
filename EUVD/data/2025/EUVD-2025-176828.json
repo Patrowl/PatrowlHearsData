@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176828", "enisaUuid": "598a2105-5c66-3b6f-a8ea-e38b4b51f29e", "description": "Malicious code in quick-validate-transpile-cluster-route (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189047"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

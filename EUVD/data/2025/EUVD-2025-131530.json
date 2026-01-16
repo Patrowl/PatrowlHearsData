@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131530", "enisaUuid": "0b1a3731-9b08-3df8-add0-294deb533d80", "description": "Malicious code in @dq-ui/source (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-29T06:43:15", "baseScore": 0.0, "aliases": ["MAL-2025-7808"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

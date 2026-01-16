@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112686", "enisaUuid": "9ef9cc53-f4ec-3d64-bf94-3dd26a163045", "description": "Malicious code in husky-quito-electron-frontend (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143426"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

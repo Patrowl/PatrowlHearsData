@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-186800", "enisaUuid": "52f433bb-f665-3cf3-984d-e9a63501b56a", "description": "Malicious code in toggle-nose (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37010"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

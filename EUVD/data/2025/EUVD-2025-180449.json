@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180449", "enisaUuid": "1db30699-3189-3286-85f1-732c5bdf1980", "description": "Malicious code in alphard-fetch-electron-builder-levels (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185439"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

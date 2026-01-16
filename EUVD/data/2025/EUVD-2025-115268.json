@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115268", "enisaUuid": "593a5a32-e4ca-3a53-8a10-184ab4f46ad3", "description": "Malicious code in cluster-vuepress-local-polaris (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140840"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

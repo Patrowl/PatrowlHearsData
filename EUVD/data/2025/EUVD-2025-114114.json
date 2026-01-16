@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114114", "enisaUuid": "05ef57c7-0774-3f1b-875a-db139ecdbdf1", "description": "Malicious code in eleventy-envconfig-xml-private (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141996"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

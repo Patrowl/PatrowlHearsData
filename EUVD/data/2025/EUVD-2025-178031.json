@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178031", "enisaUuid": "87d48a4e-4a68-323e-9e15-5acec934c6bd", "description": "Malicious code in loglevel-meteor-mui-version (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187851"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

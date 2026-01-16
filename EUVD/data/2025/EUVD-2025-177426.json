@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177426", "enisaUuid": "36839a21-7d78-32f1-8de2-0c931cf1c090", "description": "Malicious code in optimize-proxy-alpha-cache-decompress (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188456"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

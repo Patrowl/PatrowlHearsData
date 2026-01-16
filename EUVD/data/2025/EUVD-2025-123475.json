@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123475", "enisaUuid": "6876728c-f430-3402-bbb2-8c4040c3bcc1", "description": "Malicious code in postgres-rest-fornax-enceladus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146446"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

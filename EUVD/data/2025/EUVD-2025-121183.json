@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121183", "enisaUuid": "face5cee-7c5f-36d9-9f05-dc8fb25e924e", "description": "Malicious code in tool-nightmare-geckodriver-juno (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148745"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

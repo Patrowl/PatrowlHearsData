@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114550", "enisaUuid": "aa233c83-053f-3c08-aa18-88a13e794bd7", "description": "Malicious code in deneb-testcafe-dotenv-safe-vuepress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141559"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

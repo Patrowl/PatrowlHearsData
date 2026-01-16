@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80301", "enisaUuid": "daae8eab-c849-3b28-bd7a-b7d168dff97a", "description": "Malicious code in thin_rook_dumbs (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-109608"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

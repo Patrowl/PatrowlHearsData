@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187491", "enisaUuid": "ab67d0de-8b99-3bea-84a2-6e11effc2ab5", "description": "Malicious code in umbriel-hermes-socketio-sqlite (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37703"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

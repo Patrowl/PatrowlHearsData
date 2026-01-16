@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80392", "enisaUuid": "89fafdea-dd2b-3ec3-815a-24cbe009c0b9", "description": "Malicious code in subtle_bedbug_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-109244"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

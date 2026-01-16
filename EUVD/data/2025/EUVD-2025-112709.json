@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112709", "enisaUuid": "3de40cd1-4abb-3276-85f8-1fcb83579548", "description": "Malicious code in hugo-spinner-optimize-css-assets-webpack-plugin-luna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143403"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

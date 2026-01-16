@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123749", "enisaUuid": "ee533e08-426b-3fe7-9d3d-9a5f523de492", "description": "Malicious code in phoebe-prompts-hercules-cache (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146172"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

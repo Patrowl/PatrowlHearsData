@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120623", "enisaUuid": "23e654d0-5032-35ee-821e-199a43c41581", "description": "Malicious code in webdriver-manager-acamar-publish-express (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149306"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

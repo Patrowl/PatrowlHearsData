@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191680", "enisaUuid": "3d1ee9c5-2452-302c-a348-9f457c999956", "description": "Malicious code in @ibm-integration/flow-canvas (npm)", "datePublished": "2025-08-29T19:23:09", "dateUpdated": "2025-08-29T19:23:09", "baseScore": 0.0, "aliases": ["MAL-2025-41914"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

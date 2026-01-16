@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114363", "enisaUuid": "1e52b467-e264-314b-a333-d0657c9c7ebf", "description": "Malicious code in dotenv-safe-cluster-hermes-sqlite (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141746"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

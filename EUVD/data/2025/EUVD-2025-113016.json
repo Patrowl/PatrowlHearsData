@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113016", "enisaUuid": "31bc35b3-584f-31d0-9878-9c9ccd9aa52d", "description": "Malicious code in grus-nodejs-framework-typeorm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143096"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

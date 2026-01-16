@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121866", "enisaUuid": "ee34f334-3d25-3cea-acbe-8361aa7f9b18", "description": "Malicious code in socketio-meteor-warp-apollo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148059"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

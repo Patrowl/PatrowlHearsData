@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123335", "enisaUuid": "db73a57e-ab78-3a55-a178-32041674a06d", "description": "Malicious code in procyon-electron-builder-reveal-md-changelog (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146587"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

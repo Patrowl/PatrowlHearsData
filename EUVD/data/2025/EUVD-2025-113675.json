@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113675", "enisaUuid": "bb8060a4-91d8-3525-af31-236f85a5d93b", "description": "Malicious code in fetch-celeste-link-quantum (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142436"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

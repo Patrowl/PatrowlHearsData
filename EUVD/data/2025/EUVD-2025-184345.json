@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184345", "enisaUuid": "3b1b56f4-f000-331b-9cef-982ba7f637ed", "description": "Malicious code in tardigrade-public-rehype-uninstall (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34561"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

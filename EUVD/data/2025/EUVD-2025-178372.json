@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178372", "enisaUuid": "6e2e61af-bd0e-37ce-a4cd-ee58bd4a1965", "description": "Malicious code in interface-stack-mock-execute-log (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187510"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

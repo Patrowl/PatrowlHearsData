@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193462", "enisaUuid": "ec73fa1a-cce6-3027-9d60-0e34c7b2075a", "description": "Malicious code in cassini-async-fomalhaut-testcafe (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43709"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175044", "enisaUuid": "ca4c15c8-3204-3ce9-9f20-43bdf21a4112", "description": "Malicious code in project-sha2a-watermelon (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-30515"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

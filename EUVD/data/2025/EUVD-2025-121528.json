@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121528", "enisaUuid": "356bec4b-4209-3acd-8889-56a85a92b645", "description": "Malicious code in supervisor-pegasus-odin-proxima (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148398"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

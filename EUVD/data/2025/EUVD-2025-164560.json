@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164560", "enisaUuid": "32e3eb7b-7600-33d9-82c3-420bb6f1b2ac", "description": "Malicious code in exec-less-request-cosmicweb (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20040"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124676", "enisaUuid": "378384b0-15fe-37ec-aa07-a4566ccc6199", "description": "Malicious code in mysql-commitlint-json-standard (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145242"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

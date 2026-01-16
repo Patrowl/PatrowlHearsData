@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130613", "enisaUuid": "02107c33-2474-33f9-a004-4050588f4f5d", "description": "Malicious code in signup-ui-lego-core (npm)", "datePublished": "2025-08-13T03:36:07", "dateUpdated": "2025-08-29T06:43:17", "baseScore": 0.0, "aliases": ["MAL-2025-6891"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

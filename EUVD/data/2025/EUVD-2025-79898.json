@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-79898", "enisaUuid": "10405bc7-8e43-3971-8d5d-d5e8f32f7334", "description": "Malicious code in abstract_limpet_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-99047"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

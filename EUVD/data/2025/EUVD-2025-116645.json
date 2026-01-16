@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116645", "enisaUuid": "92b5160d-3d86-3fea-87db-0b3107c138da", "description": "Malicious code in antd-hydra-ganymede-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139457"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

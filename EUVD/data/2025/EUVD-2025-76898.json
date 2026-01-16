@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76898", "enisaUuid": "f0273865-e6c8-3467-8fd8-53e1ebf0d568", "description": "Malicious code in external_mosquito-strongdev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-102420"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

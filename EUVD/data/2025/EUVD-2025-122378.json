@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122378", "enisaUuid": "5844c631-de79-3c57-86e7-f9085354e837", "description": "Malicious code in run-script-got-cross-env-yaml (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147544"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

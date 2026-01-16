@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122051", "enisaUuid": "7c1c4fcc-9028-38f5-891c-ebf039205573", "description": "Malicious code in sequelize-janus-phoebe-library (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147872"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

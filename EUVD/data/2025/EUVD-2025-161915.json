@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161915", "enisaUuid": "37cb6b91-1772-3e2b-845f-150ed477ba79", "description": "Malicious code in commitizen-tailwindcss-buffer-publish (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17416"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

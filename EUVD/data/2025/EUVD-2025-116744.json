@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116744", "enisaUuid": "3b743f2c-ccf6-382c-93a4-35d4bc0f5b5e", "description": "Malicious code in altair-playwright-webpack-comet (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139358"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

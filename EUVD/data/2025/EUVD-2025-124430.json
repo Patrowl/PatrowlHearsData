@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124430", "enisaUuid": "25daf317-7576-31cf-94e3-b2ae743a150a", "description": "Malicious code in nightwatch-triton-chromedriver-rigel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145491"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

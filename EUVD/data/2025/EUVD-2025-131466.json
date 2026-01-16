@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131466", "enisaUuid": "97a7daa7-f7b3-390f-ab7d-b178c6332b28", "description": "Malicious code in @ctra/utils (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-29T06:43:15", "baseScore": 0.0, "aliases": ["MAL-2025-7744"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

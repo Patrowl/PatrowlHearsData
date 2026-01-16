@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179713", "enisaUuid": "5647781a-721a-3dbd-8812-65a829f30ee6", "description": "Malicious code in cli-protractor-sqlite-library (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186169"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

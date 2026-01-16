@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124651", "enisaUuid": "acce4de8-8050-3b85-8925-4f5f248a85fc", "description": "Malicious code in mysql-websockets-webdriverio-loglevel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145267"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

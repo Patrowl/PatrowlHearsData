@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-81283", "enisaUuid": "9aedead4-4e43-3149-9e18-4d02bfd605fa", "description": "Malicious code in mass_ocelot_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-105650"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

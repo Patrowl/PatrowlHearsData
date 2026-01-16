@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123879", "enisaUuid": "ae5aed7b-91db-3a25-91e7-b76fa71310b1", "description": "Malicious code in pegasus-mongoose-nconf-charon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146042"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

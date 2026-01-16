@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175866", "enisaUuid": "48846db8-2bf2-3770-8ab5-a8255fd808d5", "description": "Malicious code in try-data-signal-cloud-report (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190009"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

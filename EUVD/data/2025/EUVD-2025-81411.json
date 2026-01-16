@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-81411", "enisaUuid": "346f1f0f-3c8b-3904-9e17-9902a473b02d", "description": "Malicious code in lazy_panther_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-105035"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

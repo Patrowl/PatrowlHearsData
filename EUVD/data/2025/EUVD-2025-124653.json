@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124653", "enisaUuid": "f56b46d6-b907-3434-b0fa-1bcf973faa45", "description": "Malicious code in mysql-typeorm-zenobia-upgrade (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145265"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

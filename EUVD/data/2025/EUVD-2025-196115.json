@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196115", "enisaUuid": "3a2369f7-c22f-3845-a64f-ad3009a62a59", "description": "Malicious code in toml-superposition-barnard-sqlite (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46363"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

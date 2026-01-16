@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187514", "enisaUuid": "2d15f427-6ee3-3600-b9fe-58bac3420550", "description": "Malicious code in undertow-tornado-hee230-project (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37726"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112285", "enisaUuid": "a50274ba-d6cc-32a1-84f7-8418792f9014", "description": "Malicious code in janus-private-phoebe-dotenv-parse-variables (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143828"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

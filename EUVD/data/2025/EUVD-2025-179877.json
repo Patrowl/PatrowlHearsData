@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179877", "enisaUuid": "4d908d4b-8392-36ff-8024-70597ae3ac64", "description": "Malicious code in carpo-aurora-pegasus-sqlite (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186005"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

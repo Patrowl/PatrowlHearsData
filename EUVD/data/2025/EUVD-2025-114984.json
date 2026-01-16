@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114984", "enisaUuid": "cfba2ea1-bc7e-3887-8fb2-681cf2ee3c3b", "description": "Malicious code in cors-ganymede-typeorm-stop (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141125"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

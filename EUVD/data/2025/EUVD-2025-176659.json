@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176659", "enisaUuid": "8377dccd-26ac-3c7f-a88d-f85fcb9513a3", "description": "Malicious code in rest-rocket-lint-staged-triton (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189216"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159683", "enisaUuid": "7353c019-1ecd-3857-896e-f0cb9e48dc3b", "description": "Malicious code in avalon-plugin-opengl (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15182"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

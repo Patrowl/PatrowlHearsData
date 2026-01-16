@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182389", "enisaUuid": "b0e56e46-3cf6-3e04-bb25-1380a195c53f", "description": "Malicious code in saber-string (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32604"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

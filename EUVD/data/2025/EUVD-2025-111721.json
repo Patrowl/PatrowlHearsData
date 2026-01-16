@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111721", "enisaUuid": "18f22a78-02fa-3ec8-888a-b6b31cb1c7ea", "description": "Malicious code in library-webdriverio-zephyr-gatsby (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144392"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

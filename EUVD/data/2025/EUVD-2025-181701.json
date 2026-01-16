@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181701", "enisaUuid": "349c8796-a17d-370c-8544-623dff853747", "description": "Malicious code in redaction-lib-osx (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31916"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

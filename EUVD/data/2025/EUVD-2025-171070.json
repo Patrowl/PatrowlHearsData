@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171070", "enisaUuid": "b9b158eb-afd0-359e-a9b8-89fdca2e538f", "description": "Malicious code in mnt-ima-html5 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26541"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

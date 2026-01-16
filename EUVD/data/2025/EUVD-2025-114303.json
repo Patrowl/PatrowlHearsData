@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114303", "enisaUuid": "3bc85808-f549-3035-83bf-f2dee891b8e2", "description": "Malicious code in duplex-cordelia-package-mysql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141806"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-110919", "enisaUuid": "286beae6-83bb-37c0-b204-cedebf4ff596", "description": "Malicious code in isolated_mongoose_z3n (npm)", "datePublished": "2025-11-11T22:56:38", "dateUpdated": "2025-11-11T22:56:38", "baseScore": 0.0, "aliases": ["MAL-2025-134450"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

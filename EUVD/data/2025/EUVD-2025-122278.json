@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122278", "enisaUuid": "bbf98f58-3e01-36e3-b91f-c0ef0afd7932", "description": "Malicious code in sails-dependencies-metalsmith-equinox (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147644"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

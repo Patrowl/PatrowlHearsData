@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197462", "enisaUuid": "4920bc23-eeca-3291-8a09-7f433b703853", "description": "Malicious code in o-pgdump (npm)", "datePublished": "2025-10-26T19:03:27", "dateUpdated": "2025-10-26T19:03:27", "baseScore": 0.0, "aliases": ["MAL-2025-48747"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

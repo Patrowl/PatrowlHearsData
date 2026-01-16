@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179865", "enisaUuid": "f4e79ea1-724a-3153-b370-4b5a0309e317", "description": "Malicious code in cassini-terser-prettier-mysql (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186017"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

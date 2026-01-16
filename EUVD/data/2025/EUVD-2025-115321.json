@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115321", "enisaUuid": "ef15a11a-2cdd-3a3b-9d7e-ea5ec4759dc4", "description": "Malicious code in cli-browserify-mini-css-extract-plugin-frontend (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140787"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

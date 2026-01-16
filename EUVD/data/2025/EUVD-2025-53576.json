@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-53576", "enisaUuid": "6c536292-7bce-32f3-afba-9d0d03fe704d", "description": "Malicious code in lazy-fuchsia-clam (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-69073"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

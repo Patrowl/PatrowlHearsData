@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123071", "enisaUuid": "6d6883ac-f0a4-3a2c-8c2a-f794ea1deaa4", "description": "Malicious code in puppeteer-epimetheus-socketio-reveal-md (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146851"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

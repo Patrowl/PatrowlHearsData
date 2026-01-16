@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153827", "enisaUuid": "49aecf0c-7d65-339b-990c-93964b6338a4", "description": "Malicious code in @sequoia-engineering/test (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9326"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

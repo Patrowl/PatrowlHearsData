@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123350", "enisaUuid": "e886cc9a-77e6-354b-8cf4-eb8f3b7f74ae", "description": "Malicious code in process-standard-miranda-standard (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146572"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

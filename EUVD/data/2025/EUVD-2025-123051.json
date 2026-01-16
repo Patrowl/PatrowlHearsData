@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123051", "enisaUuid": "92958de9-49c4-3f40-b91b-d033141482cb", "description": "Malicious code in pyxis-charon-neptune-install (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146871"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

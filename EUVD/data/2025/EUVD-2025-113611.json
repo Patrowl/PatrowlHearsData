@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113611", "enisaUuid": "d1104c37-93ff-3097-8a0c-2f9cfc98cb1e", "description": "Malicious code in firebase-io-webdriverio-react-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142500"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

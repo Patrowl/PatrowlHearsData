@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176726", "enisaUuid": "8b86e5d3-08fd-34fd-a9c0-d3900fef8e1f", "description": "Malicious code in reject-process-link-cat-encrypt (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189149"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

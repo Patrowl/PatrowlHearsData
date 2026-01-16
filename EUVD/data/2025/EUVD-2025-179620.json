@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179620", "enisaUuid": "df885742-1a6b-3de1-b87c-4b265c7d3afa", "description": "Malicious code in compress-async-rho-boolean-assert (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186262"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

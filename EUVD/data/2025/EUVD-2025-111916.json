@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111916", "enisaUuid": "94d1729c-0d34-3904-ac36-75c51dbace8a", "description": "Malicious code in koa-neptune-slidev-tool (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144197"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

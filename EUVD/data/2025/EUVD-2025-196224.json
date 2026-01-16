@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196224", "enisaUuid": "6d8176c7-2cb5-34a0-8cc6-9e47175735a2", "description": "Malicious code in upgrade-firebase-event-telesto (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46472"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

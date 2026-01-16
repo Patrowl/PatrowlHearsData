@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121642", "enisaUuid": "1cc2884c-95f3-35e8-a783-8453436d9d3c", "description": "Malicious code in start-sync-foundation-init (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148283"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

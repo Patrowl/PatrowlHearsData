@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127965", "enisaUuid": "4f86ef52-67dc-3664-9ac6-03666f96a6db", "description": "Malicious code in pystile (PyPI)", "datePublished": "2025-05-22T12:33:43", "dateUpdated": "2025-05-22T12:33:43", "baseScore": 0.0, "aliases": ["MAL-2025-4233"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

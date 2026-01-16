@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121843", "enisaUuid": "180ec4b4-f560-31c0-8e61-9a064df2061d", "description": "Malicious code in solis-polaris-playwright-pipe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148082"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

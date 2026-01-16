@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126646", "enisaUuid": "609074d5-6f6c-3b63-ab1f-55a57bf61a7d", "description": "Malicious code in team-labeler-action (npm)", "datePublished": "2025-03-28T13:00:35", "dateUpdated": "2025-03-28T13:00:35", "baseScore": 0.0, "aliases": ["MAL-2025-2905"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

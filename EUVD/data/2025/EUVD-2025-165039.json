@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165039", "enisaUuid": "69276f4a-b4a2-3c4b-82d4-bafa9854ff1b", "description": "Malicious code in figma-api-spellcheck (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20520"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

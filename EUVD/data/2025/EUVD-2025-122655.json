@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122655", "enisaUuid": "bddc9dcd-3290-3ac5-b341-de1e7e9ff4e7", "description": "Malicious code in repository-hexo-vulcan-vuepress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147267"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

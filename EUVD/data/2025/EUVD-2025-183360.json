@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183360", "enisaUuid": "7f79ce16-f065-394f-8761-e1b3aff1ca3a", "description": "Malicious code in soap-local-celeste-magellan (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33575"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

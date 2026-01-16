@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120194", "enisaUuid": "64abf0bb-9d25-3a57-9e8f-98a0f34acfde", "description": "Malicious code in xml-triton-flare-auth0 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149737"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

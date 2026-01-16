@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170706", "enisaUuid": "146bc001-cbf8-39fd-b9e8-fc307446caec", "description": "Malicious code in memdiff (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26177"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

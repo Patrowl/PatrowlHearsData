@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178964", "enisaUuid": "67d439c1-c9a1-3072-99ae-4d0297b1408e", "description": "Malicious code in exosphere-scripts-halley-upgrade (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186918"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

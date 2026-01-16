@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-192242", "enisaUuid": "7f651dee-a0da-3238-b73a-5e5b20232fb3", "description": "Malicious code in @eooce/sbx (npm)", "datePublished": "2025-08-12T19:51:34", "dateUpdated": "2025-09-08T04:38:55", "baseScore": 0.0, "aliases": ["MAL-2025-42486"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

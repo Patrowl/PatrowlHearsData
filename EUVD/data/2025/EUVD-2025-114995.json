@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114995", "enisaUuid": "1728f755-ff77-311d-903c-aa3355593e80", "description": "Malicious code in cors-antares-commitlint-config-angular-iota (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141114"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

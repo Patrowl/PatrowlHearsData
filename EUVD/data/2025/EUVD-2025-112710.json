@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112710", "enisaUuid": "12b70c71-6e65-30c9-ac8c-e25a017f1338", "description": "Malicious code in hugo-spectron-webdriver-oauth-husky (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143402"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122059", "enisaUuid": "a4257c0b-1411-3811-b22a-6bc7a156e44b", "description": "Malicious code in sequelize-deimos-cressida-hapi (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147864"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

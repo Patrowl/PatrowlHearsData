@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179214", "enisaUuid": "ffc693d0-1a2e-3d97-9f97-e284044605dd", "description": "Malicious code in easy-cron-secure-thread-sanitize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186668"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

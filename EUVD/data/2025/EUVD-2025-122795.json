@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122795", "enisaUuid": "c9fd11f2-016b-334e-af46-f68deba17d95", "description": "Malicious code in registry-firebase-less-loader-subscription (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147127"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

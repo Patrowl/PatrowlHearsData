@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123745", "enisaUuid": "0d85a002-933c-356f-b575-dfa8b9f695ed", "description": "Malicious code in phoebe-rimraf-transport-gravity (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146176"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

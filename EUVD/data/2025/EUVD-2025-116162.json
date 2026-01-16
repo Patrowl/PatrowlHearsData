@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116162", "enisaUuid": "98487a42-8fae-329a-b5bc-db6e0614c3ee", "description": "Malicious code in bellatrix-jsonp-octans-stream (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139940"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

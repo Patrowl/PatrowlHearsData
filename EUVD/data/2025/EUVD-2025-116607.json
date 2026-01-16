@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116607", "enisaUuid": "673ae1aa-df6d-3310-8999-e80fa768429f", "description": "Malicious code in apollo-backend-callback-cordelia (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139495"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

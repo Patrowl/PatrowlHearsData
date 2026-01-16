@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116292", "enisaUuid": "dda84d59-55df-3621-b288-a4238041f169", "description": "Malicious code in await-toml-jovian-hapi (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139810"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

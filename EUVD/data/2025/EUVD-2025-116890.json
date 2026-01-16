@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116890", "enisaUuid": "c08cbadf-db8a-31af-818c-6043b3317c56", "description": "Malicious code in adonis-inquirer-webdriver-mocha-publish (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139212"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

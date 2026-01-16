@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170597", "enisaUuid": "dcfe7e98-b13f-3870-a583-8072c337d2da", "description": "Malicious code in mdrclient (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26068"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

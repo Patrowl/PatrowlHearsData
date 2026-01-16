@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120499", "enisaUuid": "16db9414-a9d1-3ffe-a482-305d0cff0f17", "description": "Malicious code in websockets-winston-rigel-xenos (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149430"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

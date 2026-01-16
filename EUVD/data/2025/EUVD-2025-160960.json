@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160960", "enisaUuid": "2b030335-c1f3-3a93-bebe-2cb7a6700b18", "description": "Malicious code in callback-oberon-framework-magellan (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16459"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

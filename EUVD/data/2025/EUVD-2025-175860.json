@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175860", "enisaUuid": "8a380af2-2a98-3161-bec9-fc08032b3fd5", "description": "Malicious code in typeorm-indus-restart-update (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190015"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

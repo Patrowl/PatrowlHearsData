@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196687", "enisaUuid": "4666a992-85c6-3936-b28e-7fd40a4bf1e6", "description": "Malicious code in monolith-twirp-packageregistry-auditlog (RubyGems)", "datePublished": "2025-09-01T09:53:22", "dateUpdated": "2025-09-01T09:53:22", "baseScore": 0.0, "aliases": ["MAL-2025-46935"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

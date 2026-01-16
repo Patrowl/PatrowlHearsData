@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122555", "enisaUuid": "5a177738-0214-3d68-ac22-f2a706601a71", "description": "Malicious code in rest-sqlite-exec-hugo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147367"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

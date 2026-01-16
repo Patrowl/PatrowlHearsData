@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114848", "enisaUuid": "ff92b093-827f-33e1-a116-cd207c47f73d", "description": "Malicious code in cross-env-nodemon-sedna-local (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141261"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

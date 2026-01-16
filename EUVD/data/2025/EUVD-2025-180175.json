@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180175", "enisaUuid": "c6191ff2-8a2d-31ec-bf1c-675cc5c59791", "description": "Malicious code in awk-node-abstract-interpret-alert (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185707"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

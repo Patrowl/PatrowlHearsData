@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122808", "enisaUuid": "60cdb3f5-ae48-3e2f-91eb-5c6ca39a861a", "description": "Malicious code in redis-rehype-ursa-apollo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147114"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

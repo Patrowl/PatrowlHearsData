@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165487", "enisaUuid": "ac39037a-0a9a-3944-b5f7-2809291e99ff", "description": "Malicious code in frontend-auth-client (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20968"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

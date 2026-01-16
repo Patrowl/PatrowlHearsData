@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113674", "enisaUuid": "be9958ee-9764-32b7-838a-b3ed841159db", "description": "Malicious code in fetch-chalk-mysql-ganymede (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142437"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

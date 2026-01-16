@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176188", "enisaUuid": "a2759e4a-b8d5-3602-b06a-8515f5a15385", "description": "Malicious code in stream-redis-bellatrix-oscillation (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189687"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

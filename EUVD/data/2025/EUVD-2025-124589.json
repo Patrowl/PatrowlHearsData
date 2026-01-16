@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124589", "enisaUuid": "096fe18b-5827-38f1-92d6-0adbb1d591da", "description": "Malicious code in nconf-tool-magellan-perseus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145331"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191268", "enisaUuid": "13997938-316a-3dee-8887-500dadde107a", "description": "Malicious code in @twork-data-services/offers-service-refusals (npm)", "datePublished": "2025-08-28T07:16:40", "dateUpdated": "2025-08-28T07:16:40", "baseScore": 0.0, "aliases": ["MAL-2025-41499"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-81071", "enisaUuid": "02bec189-2fb7-3489-a681-49240c6b09fc", "description": "Malicious code in objective_meerkat_replicate_automation (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-106484"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

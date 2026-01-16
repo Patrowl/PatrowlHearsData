@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130670", "enisaUuid": "a6e58cf9-bcba-3997-a3a3-500c61e2d881", "description": "Malicious code in pngquant-bin-static (npm)", "datePublished": "2025-08-14T19:27:04", "dateUpdated": "2025-08-29T06:43:17", "baseScore": 0.0, "aliases": ["MAL-2025-6948"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

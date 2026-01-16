@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113168", "enisaUuid": "346f57ac-7a43-337f-9689-7925b2a34b90", "description": "Malicious code in global-norma-toml-cypress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142944"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

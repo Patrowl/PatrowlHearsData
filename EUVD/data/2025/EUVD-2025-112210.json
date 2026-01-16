@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112210", "enisaUuid": "19067354-061c-3f33-8dd9-749b265a16bf", "description": "Malicious code in jekyll-elektra-vortex-dotenv-parse-variables (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143903"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

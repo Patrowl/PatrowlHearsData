@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115302", "enisaUuid": "d47a4a34-4f03-3887-994d-8339be61fa8d", "description": "Malicious code in cli-npm-postcss-loader-juno (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140806"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

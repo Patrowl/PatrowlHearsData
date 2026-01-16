@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121574", "enisaUuid": "d3942731-0c77-3cf1-92ae-a6ce5f01b6d0", "description": "Malicious code in subscription-css-minimizer-webpack-plugin-carpo-lynx (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148352"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

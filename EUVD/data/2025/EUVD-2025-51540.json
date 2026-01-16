@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-51540", "enisaUuid": "93505eac-80e4-3ca2-8619-b2d89543e482", "description": "Malicious code in thin-fuchsia-magpie (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-71109"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113449", "enisaUuid": "32c90049-e996-3c7e-94d7-a06bb1057175", "description": "Malicious code in fornax-winston-browserify-registry (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142663"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

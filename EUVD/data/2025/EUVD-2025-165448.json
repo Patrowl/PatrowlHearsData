@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165448", "enisaUuid": "0829c8dd-c6d0-3190-a1b7-12bfde7ee04a", "description": "Malicious code in framework-webdriver-manager-init-virgo (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20929"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

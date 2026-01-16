@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-103508", "enisaUuid": "c9aec722-962b-3642-95ee-b74391e4ea7f", "description": "Malicious code in new_alpaca_z3n (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-128897"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

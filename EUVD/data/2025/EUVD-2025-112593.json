@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112593", "enisaUuid": "e78da7d6-c765-36fd-a9e5-b7ec7823f1de", "description": "Malicious code in ignite-morgan-postcss-loader-morgan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143519"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

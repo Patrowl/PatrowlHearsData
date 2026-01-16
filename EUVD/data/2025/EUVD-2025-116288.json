@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116288", "enisaUuid": "6f3472e6-ee1d-3a48-9681-ab1dacc5c6dc", "description": "Malicious code in await-wezen-nconf-meteor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139814"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

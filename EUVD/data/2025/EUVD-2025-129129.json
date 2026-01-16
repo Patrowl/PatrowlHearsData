@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129129", "enisaUuid": "b3877664-b6a6-30cd-b7cd-dc4f2d1e2f2c", "description": "Malicious code in ember-glimmer (npm)", "datePublished": "2025-06-25T14:57:44", "dateUpdated": "2025-06-25T14:57:44", "baseScore": 0.0, "aliases": ["MAL-2025-5400"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

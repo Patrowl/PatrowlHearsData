@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111382", "enisaUuid": "cbdea989-0c8d-37d4-91b3-f5bb8e906f8c", "description": "Malicious code in materialize-await-cosmiconfig-slides (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144733"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

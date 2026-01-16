@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176138", "enisaUuid": "46cd7c5a-f903-3609-b9f2-8d72729e07ca", "description": "Malicious code in sun-throw-export-xml-java (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189737"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

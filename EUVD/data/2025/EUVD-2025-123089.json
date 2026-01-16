@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123089", "enisaUuid": "5532a67f-552d-3a42-bda1-ca1cb618084f", "description": "Malicious code in pulsar-html-webpack-plugin-yaml-passport (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146833"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

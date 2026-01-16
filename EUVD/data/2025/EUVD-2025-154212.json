@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-154212", "enisaUuid": "3f763203-a58c-3ece-bf7b-3cdeb297b40e", "description": "Malicious code in @youla-web/im (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9711"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

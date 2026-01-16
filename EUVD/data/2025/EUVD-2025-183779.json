@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183779", "enisaUuid": "03fde95b-ccad-35cc-a5ff-d794f9071615", "description": "Malicious code in stop-galaxy-commitlint-config-angular-parallax (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33994"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

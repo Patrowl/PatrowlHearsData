@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122359", "enisaUuid": "4b19c95d-34f5-375d-a71a-2f5f149977ac", "description": "Malicious code in sadr-jest-await-elektra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147563"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

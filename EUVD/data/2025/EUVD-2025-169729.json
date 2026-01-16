@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169729", "enisaUuid": "a0a8013e-3165-30aa-8ac4-e5a2e49e3ae8", "description": "Malicious code in level-json-cache (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25200"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

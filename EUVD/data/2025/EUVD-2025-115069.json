@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115069", "enisaUuid": "ddfc99b9-35cf-3af6-a65f-8450c3aa33d7", "description": "Malicious code in config-sync-stream-jasmine (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141040"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

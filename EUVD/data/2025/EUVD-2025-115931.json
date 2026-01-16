@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115931", "enisaUuid": "569f65e1-8ab9-3bca-b650-bf7e052baea4", "description": "Malicious code in buffer-sqlite-lint-telesto (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140173"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

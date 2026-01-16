@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124605", "enisaUuid": "e70fd61e-2e4d-36af-aeaf-96e4a743ae8a", "description": "Malicious code in nconf-eslint-plugin-postgres-hydra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145315"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114845", "enisaUuid": "b5d028d1-4ec1-3d54-a162-2c33298003c4", "description": "Malicious code in cross-env-pegasus-async-ganymede (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141264"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

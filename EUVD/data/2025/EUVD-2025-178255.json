@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178255", "enisaUuid": "9806c320-e241-36da-a13a-9fa57829e8e8", "description": "Malicious code in json-protractor-nestjs-auth0 (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187627"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

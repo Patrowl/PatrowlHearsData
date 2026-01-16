@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169934", "enisaUuid": "f65a3fee-45b9-31ba-bdbe-c70e4275b4e0", "description": "Malicious code in lint-framework-link-toml (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25405"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

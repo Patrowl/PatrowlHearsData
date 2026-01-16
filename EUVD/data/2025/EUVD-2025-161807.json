@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161807", "enisaUuid": "2161219d-d22a-30e4-b3be-7e6ee24d3937", "description": "Malicious code in com.apple.unityplugin.arcade.cloudsaves (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17308"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

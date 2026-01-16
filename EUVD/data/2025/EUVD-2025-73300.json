@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-73300", "enisaUuid": "9f8ef883-904d-31f3-93f7-a4db1b9ad80b", "description": "Malicious code in thin_quelea_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-96990"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

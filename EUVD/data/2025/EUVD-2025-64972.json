@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-64972", "enisaUuid": "2a20edb4-1db2-37ad-95c1-9d2154887a97", "description": "Malicious code in clinical_krill_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-93582"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

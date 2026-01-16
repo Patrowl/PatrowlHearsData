@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115394", "enisaUuid": "4130b603-d4a7-3e40-8dd3-b2a64436cfb7", "description": "Malicious code in chariklo-socketio-json-readable (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140713"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191594", "enisaUuid": "fedf588c-b982-31df-b42a-33bd7195b1da", "description": "Malicious code in @callcenter-frontend/shared-types (npm)", "datePublished": "2025-08-29T19:20:58", "dateUpdated": "2025-09-15T00:19:20", "baseScore": 0.0, "aliases": ["MAL-2025-41828"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

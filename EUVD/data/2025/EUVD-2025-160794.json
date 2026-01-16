@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160794", "enisaUuid": "2aa22b15-9976-3d92-96a5-fc9505c8aa9e", "description": "Malicious code in buffer-xgr (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16293"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

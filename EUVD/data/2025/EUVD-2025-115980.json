@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115980", "enisaUuid": "ee886d88-7f1e-3342-acda-b81329c804b9", "description": "Malicious code in bootstrap-standard-yonder-miranda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140122"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

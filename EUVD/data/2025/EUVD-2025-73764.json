@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-73764", "enisaUuid": "e7840336-8707-3882-ae4b-b31ee9fc87e3", "description": "Malicious code in separate_impala_z3n (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-96526"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

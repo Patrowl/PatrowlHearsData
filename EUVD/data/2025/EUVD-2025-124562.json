@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124562", "enisaUuid": "9d26851e-3d17-3092-8a40-3cfe000891cc", "description": "Malicious code in neptune-eridanus-dynamo-callback (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145358"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

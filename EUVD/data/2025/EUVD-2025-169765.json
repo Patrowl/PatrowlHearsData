@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169765", "enisaUuid": "97b5adbe-9d82-3f74-9367-da50e1d16b3d", "description": "Malicious code in libinoro (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25236"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

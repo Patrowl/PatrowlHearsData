@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116615", "enisaUuid": "0da49bf6-51c9-3ef9-b9e6-e55f156ae716", "description": "Malicious code in apex-unuk-postgres-standard (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139487"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

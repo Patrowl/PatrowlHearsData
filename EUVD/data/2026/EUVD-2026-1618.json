@@ -1,0 +1,1 @@
+{"id": "EUVD-2026-1618", "enisaUuid": "a0732b1c-3d10-3af7-9d3e-7c2364d03bb8", "description": "Malicious code in @zuora-marketing/linting (npm)", "datePublished": "2026-01-08T15:40:55", "dateUpdated": "2026-01-15T22:09:17", "baseScore": 0.0, "aliases": ["MAL-2026-168"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

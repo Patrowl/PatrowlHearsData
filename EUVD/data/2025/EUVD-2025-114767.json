@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114767", "enisaUuid": "00c63abe-a0cc-3c42-99fb-01971372fef4", "description": "Malicious code in csv-changelog-dagda-rimraf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141342"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

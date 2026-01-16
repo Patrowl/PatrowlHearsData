@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159805", "enisaUuid": "89e49787-9d53-31ab-991d-b85800e72829", "description": "Malicious code in babel-preset-env-cx (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15304"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131561", "enisaUuid": "a1d9e391-dc28-3b5f-8a27-e7642d6f778c", "description": "Malicious code in @epc-infra/lambda-utils (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7839"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

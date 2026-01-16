@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111366", "enisaUuid": "e7ef0c8b-6d6a-307b-92f9-aa49e7a9cf8b", "description": "Malicious code in materialize-polaris-gatsby-bunyan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144749"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

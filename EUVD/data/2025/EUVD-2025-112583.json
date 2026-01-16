@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112583", "enisaUuid": "c240fcbd-af88-3de7-8f41-90aefbe0d8b3", "description": "Malicious code in ignite-supervisor-mocha-polaris (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143529"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

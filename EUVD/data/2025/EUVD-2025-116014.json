@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116014", "enisaUuid": "369df148-43cf-3cfc-9cde-3b3d87c065f5", "description": "Malicious code in bootes-postgres-module-ursa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140088"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114532", "enisaUuid": "4b70b246-0ca8-34da-8736-8bf36c2e3f26", "description": "Malicious code in dependencies-ophiuchus-mira-oauth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141577"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115411", "enisaUuid": "120dfefc-f526-3daf-a96d-9b298b4b8b9f", "description": "Malicious code in chariklo-gulp-sync-child-process (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140696"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

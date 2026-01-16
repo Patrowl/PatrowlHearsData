@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161176", "enisaUuid": "c2fcb949-0d79-3c22-8f4e-f9f5c50d154d", "description": "Malicious code in cb-serverless-plugins (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16675"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

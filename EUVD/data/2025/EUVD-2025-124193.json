@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124193", "enisaUuid": "1332de49-1f9b-3b88-b35c-7235d2d0b7be", "description": "Malicious code in oauth-eclipse-rest-rate-limiter (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145728"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

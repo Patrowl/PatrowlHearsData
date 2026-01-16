@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-55834", "enisaUuid": "f0756bcb-06c7-3806-95f6-a9783bae039f", "description": "Malicious code in applicable-azure-stoat (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-66815"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

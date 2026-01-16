@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120939", "enisaUuid": "5f6bbdd7-1446-30b2-8d6e-ad44575cc238", "description": "Malicious code in update-await-uninstall-testcafe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148990"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

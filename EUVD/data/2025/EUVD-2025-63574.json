@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63574", "enisaUuid": "bbc167f4-a621-3b77-aca6-6af8e2e1976b", "description": "Malicious code in increasing_cockroach_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-94980"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

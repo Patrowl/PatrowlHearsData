@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178013", "enisaUuid": "3eb8fddb-ca34-3f39-a598-e1c017bf3655", "description": "Malicious code in loopback-magellan-foundation-csrf (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187869"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

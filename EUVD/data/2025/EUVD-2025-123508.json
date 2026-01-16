@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123508", "enisaUuid": "575f8f81-1f9c-3ac4-b7b3-86e5990cd60a", "description": "Malicious code in postcss-loader-webdriver-manager-chalk-json (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146413"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

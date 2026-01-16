@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175862", "enisaUuid": "68f6307c-20df-368f-9db6-c557a664d22b", "description": "Malicious code in try-stub-yaml-query-awk (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190013"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

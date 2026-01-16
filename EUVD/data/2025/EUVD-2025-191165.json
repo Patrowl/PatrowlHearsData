@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191165", "enisaUuid": "e9f8b561-6a21-3b83-97a8-c0c0c40e39cc", "description": "Malicious code in grab-service-worker (npm)", "datePublished": "2025-08-19T14:55:11", "dateUpdated": "2025-08-19T14:55:11", "baseScore": 0.0, "aliases": ["MAL-2025-41388"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

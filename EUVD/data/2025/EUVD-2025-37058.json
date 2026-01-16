@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37058", "enisaUuid": "08b41c96-ab6e-3bd1-b0e5-76f635666207", "description": "Malicious code in qa-egs-rollback (npm)", "datePublished": "2025-10-30T17:38:57", "dateUpdated": "2025-10-30T17:38:57", "baseScore": 0.0, "aliases": ["MAL-2025-49235"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

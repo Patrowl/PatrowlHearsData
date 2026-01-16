@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80422", "enisaUuid": "6f70fa83-8617-3a6e-a9d7-c017bc2b5272", "description": "Malicious code in stout-wallet-store (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-109163"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

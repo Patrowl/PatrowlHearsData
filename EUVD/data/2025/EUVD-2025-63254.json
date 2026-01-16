@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63254", "enisaUuid": "dcbe6290-246f-3d55-baa3-cbe8a023a597", "description": "Malicious code in local_narwhal_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-95300"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

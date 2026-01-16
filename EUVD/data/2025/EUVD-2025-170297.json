@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170297", "enisaUuid": "3688db35-8cad-3f90-8b2c-8b6e653c927b", "description": "Malicious code in magellan-xo-dotenv-safe-typeorm (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25768"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

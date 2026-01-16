@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188772", "enisaUuid": "ef777773-637b-3710-a3e8-fc0efb7bce56", "description": "Malicious code in webauthn-browser-signature (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38986"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

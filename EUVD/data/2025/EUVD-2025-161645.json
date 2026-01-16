@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161645", "enisaUuid": "2cb849ee-5c8c-3aa5-89f5-2bc93cce404d", "description": "Malicious code in cljsuit (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17145"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

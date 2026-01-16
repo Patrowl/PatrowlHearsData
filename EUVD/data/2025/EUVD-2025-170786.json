@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170786", "enisaUuid": "2d8687f9-c2ec-3cea-a28a-ff723c57df71", "description": "Malicious code in meteor-yonder-soap-hermes (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26257"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

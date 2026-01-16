@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167033", "enisaUuid": "c39042f8-3a39-3d3f-b68d-b191efb88cf0", "description": "Malicious code in homematic-js-km200 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22515"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

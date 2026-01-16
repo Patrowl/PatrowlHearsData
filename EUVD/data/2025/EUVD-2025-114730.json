@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114730", "enisaUuid": "fe6db6ba-2d89-3ebd-83c7-2e951a2f485e", "description": "Malicious code in cygnus-schema-pino-playwright (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141379"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

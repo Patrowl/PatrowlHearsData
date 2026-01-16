@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121613", "enisaUuid": "e4a8d371-9563-3132-a36a-d867788145be", "description": "Malicious code in stream-chalk-elara-node-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148312"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

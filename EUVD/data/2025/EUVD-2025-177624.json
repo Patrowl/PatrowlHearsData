@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177624", "enisaUuid": "072bcc6c-1968-3f9b-bc70-0bb6756f42e3", "description": "Malicious code in new-optimize-async-spy-process (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188258"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

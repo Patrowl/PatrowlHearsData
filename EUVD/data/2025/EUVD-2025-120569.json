@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120569", "enisaUuid": "e0e93b2f-f0d6-37cf-983d-b060cf7c3696", "description": "Malicious code in webdriver-mocha-npm-nova-helios (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149360"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

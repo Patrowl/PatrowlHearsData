@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179035", "enisaUuid": "c01147e5-5ede-3f71-aee1-36a415979ae0", "description": "Malicious code in eslint-plugin-ophiuchus-pino-chromedriver (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186847"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130612", "enisaUuid": "35aacaee-89d9-397f-8bba-1f0a70f92a77", "description": "Malicious code in @hornetsecurity/angular-pew-pew (npm)", "datePublished": "2025-08-16T07:10:48", "dateUpdated": "2025-08-16T12:47:08", "baseScore": 0.0, "aliases": ["MAL-2025-6890"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

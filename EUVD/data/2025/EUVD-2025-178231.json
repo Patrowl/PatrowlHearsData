@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178231", "enisaUuid": "85a0ecf5-d610-33f8-80cb-ab0b6c4082fb", "description": "Malicious code in jwt-sync-ora-selenium (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187651"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

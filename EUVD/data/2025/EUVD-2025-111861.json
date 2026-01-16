@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111861", "enisaUuid": "b065f1d6-566f-37ae-91e6-5355e36c6665", "description": "Malicious code in lacerta-ursa-process-epimetheus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144252"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

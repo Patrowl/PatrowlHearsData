@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-52933", "enisaUuid": "020b60fa-4320-3253-b5e1-35edb504cf83", "description": "Malicious code in only-fuchsia-dormouse (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-69716"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

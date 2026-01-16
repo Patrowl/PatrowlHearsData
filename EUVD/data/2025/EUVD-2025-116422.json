@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116422", "enisaUuid": "58b95661-2f4e-3097-9870-b6e94488f1a6", "description": "Malicious code in auriga-jovian-webdriver-mocha-barnard (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139680"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

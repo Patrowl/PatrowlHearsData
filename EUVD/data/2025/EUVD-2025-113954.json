@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113954", "enisaUuid": "0f37cb62-701b-35a3-bb2f-f83154e2c00e", "description": "Malicious code in eridanus-superagent-enif-nestjs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142156"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

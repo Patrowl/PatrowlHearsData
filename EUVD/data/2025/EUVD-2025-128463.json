@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128463", "enisaUuid": "e4df69b7-82ae-3baf-a0e9-09fafef13e07", "description": "Malicious code in beacon-labs-translations (npm)", "datePublished": "2025-06-01T16:09:11", "dateUpdated": "2025-06-18T15:07:35", "baseScore": 0.0, "aliases": ["MAL-2025-4731"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

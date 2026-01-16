@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112476", "enisaUuid": "84f0d7ba-a464-35ed-8b48-5dac8391a60a", "description": "Malicious code in init-yildun-proxima-async (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143637"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

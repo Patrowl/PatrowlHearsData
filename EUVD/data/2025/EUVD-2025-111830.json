@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111830", "enisaUuid": "8f7b6c15-de18-364c-837c-fbed651dae95", "description": "Malicious code in leda-npm-chai-sync (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144283"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

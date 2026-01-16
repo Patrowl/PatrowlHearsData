@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191711", "enisaUuid": "eef995b9-6ae6-341d-b56f-3ace45977df6", "description": "Malicious code in awsdocuments-ls-client (npm)", "datePublished": "2025-08-28T14:51:59", "dateUpdated": "2025-08-28T14:51:59", "baseScore": 0.0, "aliases": ["MAL-2025-41945"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

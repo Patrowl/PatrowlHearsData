@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122530", "enisaUuid": "a1c1c4a5-8d25-3889-a09e-599ac5571a94", "description": "Malicious code in restart-proxima-apex-despina (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147392"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

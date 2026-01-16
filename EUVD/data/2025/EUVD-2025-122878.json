@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122878", "enisaUuid": "6fe0170f-80dd-3056-965f-8abcdca415c6", "description": "Malicious code in rate-limiter-mira-test-figures (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147044"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

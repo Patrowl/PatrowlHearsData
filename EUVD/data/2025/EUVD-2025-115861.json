@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115861", "enisaUuid": "4e61b0c2-0b7f-3b61-9eb9-eb104c6b582d", "description": "Malicious code in bunyan-heka-spawn-json (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140243"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

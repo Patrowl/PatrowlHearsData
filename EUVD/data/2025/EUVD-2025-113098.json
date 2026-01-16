@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113098", "enisaUuid": "3302dca3-1d91-3cd0-ae9d-0dfd5172cf1d", "description": "Malicious code in graphql-webdriverio-husky-magellan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143014"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

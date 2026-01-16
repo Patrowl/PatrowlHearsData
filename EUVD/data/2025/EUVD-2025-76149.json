@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76149", "enisaUuid": "c14664af-62f8-3b18-8b0c-61a5dc1b463d", "description": "Malicious code in obvious_swallow-apptea (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-106499"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

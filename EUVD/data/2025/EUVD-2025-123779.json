@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123779", "enisaUuid": "44099217-2d0d-37c4-8f63-fedcfe92b0cd", "description": "Malicious code in phoebe-callback-javascript-sequelize (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146142"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

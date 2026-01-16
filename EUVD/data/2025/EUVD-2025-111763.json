@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111763", "enisaUuid": "db24f001-b679-3012-ac05-f0a9537247c8", "description": "Malicious code in levels-canopus-webdriver-mocha-spectron (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144350"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

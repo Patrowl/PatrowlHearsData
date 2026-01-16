@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115664", "enisaUuid": "a2531244-5f37-3038-ba5d-467813f07118", "description": "Malicious code in carpo-hermes-telesto-oauth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140443"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

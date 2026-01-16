@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129006", "enisaUuid": "db92e1cd-329f-399f-bc70-5fce23d2b9e4", "description": "Malicious code in robinhood-internal-utils (npm)", "datePublished": "2025-06-26T18:34:57", "dateUpdated": "2025-07-02T01:10:22", "baseScore": 0.0, "aliases": ["MAL-2025-5277"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

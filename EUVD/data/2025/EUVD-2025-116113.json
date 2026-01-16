@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116113", "enisaUuid": "7c166a45-d3b0-3bd0-bb9c-122ab06a6f79", "description": "Malicious code in betelgeuse-middleware-bellatrix-ursa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139989"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

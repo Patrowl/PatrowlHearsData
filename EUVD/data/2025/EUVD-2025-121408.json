@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121408", "enisaUuid": "c725f336-baeb-313c-88be-0106af01f444", "description": "Malicious code in terser-flare-css-loader-pipe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148520"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

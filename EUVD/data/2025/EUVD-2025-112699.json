@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112699", "enisaUuid": "0a980027-93ff-3b38-bff9-b479424bcaad", "description": "Malicious code in husky-cli-axios-private (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143413"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

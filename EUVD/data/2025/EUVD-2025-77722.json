@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77722", "enisaUuid": "3ece3f54-6d9e-3902-b513-244e0098e19f", "description": "Malicious code in automatic_panther_z3n (npm)", "datePublished": "2025-11-11T07:31:13", "dateUpdated": "2025-11-11T07:31:13", "baseScore": 0.0, "aliases": ["MAL-2025-99665"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

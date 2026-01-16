@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176257", "enisaUuid": "263c9338-a896-3bd6-8c06-92bcb9b225d1", "description": "Malicious code in spectroscopy-webdriver-manager-await-bootstrap (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189618"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

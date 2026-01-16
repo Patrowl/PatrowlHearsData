@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179890", "enisaUuid": "7d963f7d-cb13-394d-aca9-171ad39ce1a2", "description": "Malicious code in callisto-module-module-antares (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185992"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180301", "enisaUuid": "8336d371-e43a-34b9-9473-b26289790d17", "description": "Malicious code in astro-photon-publish-blazar (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185587"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

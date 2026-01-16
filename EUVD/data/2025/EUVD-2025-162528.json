@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162528", "enisaUuid": "555095de-dac4-3ef5-8924-ea168a84338a", "description": "Malicious code in date-fns.js (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18029"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

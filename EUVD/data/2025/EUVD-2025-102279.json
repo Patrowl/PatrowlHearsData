@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-102279", "enisaUuid": "6bc3a459-5c9f-3b3e-9ee7-734c11045451", "description": "Malicious code in significant_llama_z3n (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-130126"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

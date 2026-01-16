@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111343", "enisaUuid": "d31408c6-9a1e-32e3-a593-ddf2f7942708", "description": "Malicious code in mdx-puppeteer-spectron-webdriver-leda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144772"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

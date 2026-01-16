@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115853", "enisaUuid": "f7c765b6-323b-3deb-8396-b7f229061a0e", "description": "Malicious code in bunyan-ora-typeorm-terser (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140251"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

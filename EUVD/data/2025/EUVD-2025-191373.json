@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191373", "enisaUuid": "efa27762-316a-3b5b-9b58-d15635031b28", "description": "Malicious code in solana-pump-sdk-test (npm)", "datePublished": "2025-08-28T07:40:45", "dateUpdated": "2025-08-28T07:40:45", "baseScore": 0.0, "aliases": ["MAL-2025-41606"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

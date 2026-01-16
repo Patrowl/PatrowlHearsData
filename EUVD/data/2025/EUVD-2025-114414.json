@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114414", "enisaUuid": "71d75b7f-dbb1-3ed0-b462-31a14c4c9f6f", "description": "Malicious code in dorado-perseus-sequelize-markdownlint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141695"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

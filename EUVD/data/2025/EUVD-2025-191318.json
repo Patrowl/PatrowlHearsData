@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191318", "enisaUuid": "cd5ac54d-1a38-348e-a382-0ed3a3865485", "description": "Malicious code in deepseek-r1-webgpu (npm)", "datePublished": "2025-08-28T07:25:25", "dateUpdated": "2025-08-28T07:25:25", "baseScore": 0.0, "aliases": ["MAL-2025-41550"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

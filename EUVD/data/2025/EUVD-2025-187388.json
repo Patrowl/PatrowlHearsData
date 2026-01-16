@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187388", "enisaUuid": "a2b78217-9330-3730-b26d-03d317c2e235", "description": "Malicious code in ui5-mobx-state-tree (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37600"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

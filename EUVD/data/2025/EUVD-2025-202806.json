@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-202806", "enisaUuid": "fe387473-17b8-315a-a09d-4a954dd241ee", "description": "Malicious code in elf-stats-fuzzy-workbench-102 (npm)", "datePublished": "2025-12-11T19:46:09", "dateUpdated": "2025-12-11T19:46:09", "baseScore": 0.0, "aliases": ["MAL-2025-192503"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

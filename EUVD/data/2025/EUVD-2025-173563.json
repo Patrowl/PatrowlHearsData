@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173563", "enisaUuid": "6a6a9f53-57cd-3098-b464-2cfc000c0c6a", "description": "Malicious code in penneo-application-loader (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29034"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

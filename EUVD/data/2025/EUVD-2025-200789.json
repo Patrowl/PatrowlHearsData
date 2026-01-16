@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200789", "enisaUuid": "39c9e53a-bdf6-3550-9b10-e5d0f2f0396a", "description": "Malicious code in elf-stats-starlit-rocket-905 (npm)", "datePublished": "2025-12-03T15:59:29", "dateUpdated": "2025-12-23T21:38:09", "baseScore": 0.0, "aliases": ["MAL-2025-192163"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

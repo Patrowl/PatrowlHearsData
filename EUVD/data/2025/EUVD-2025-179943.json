@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179943", "enisaUuid": "50100654-5362-33cf-a50b-173fd3a24fc1", "description": "Malicious code in bundle-alert-runtime-private-bundle (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185939"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

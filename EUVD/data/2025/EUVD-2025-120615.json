@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120615", "enisaUuid": "9ea1504a-5ea3-3d39-a8e1-68e7c3dc3ef3", "description": "Malicious code in webdriver-manager-dione-graphql-public (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149314"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

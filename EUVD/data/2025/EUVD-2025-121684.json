@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121684", "enisaUuid": "7a1f11cc-7ff6-364b-bbdc-56e246522ad7", "description": "Malicious code in sqlite-stop-blitz-morgan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148241"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

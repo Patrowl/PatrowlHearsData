@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130535", "enisaUuid": "d4d54517-90c7-3460-8ab5-ff35b1b6cba1", "description": "Malicious code in hcs-image-viewer (npm)", "datePublished": "2025-08-09T14:24:12", "dateUpdated": "2025-08-11T02:30:42", "baseScore": 0.0, "aliases": ["MAL-2025-6813"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

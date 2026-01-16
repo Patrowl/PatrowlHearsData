@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114032", "enisaUuid": "7e3d6183-825e-3f6e-8dfe-f83fc514c541", "description": "Malicious code in envconfig-magellan-magellan-eslint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142078"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

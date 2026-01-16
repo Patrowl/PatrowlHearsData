@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127987", "enisaUuid": "c69eddbf-707a-367e-8e89-0983f2082214", "description": "Malicious code in verifysteream (PyPI)", "datePublished": "2025-05-22T12:33:54", "dateUpdated": "2025-05-22T12:33:54", "baseScore": 0.0, "aliases": ["MAL-2025-4255"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

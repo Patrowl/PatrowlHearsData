@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178448", "enisaUuid": "94548b75-0960-3d71-976d-384768391766", "description": "Malicious code in import-debug-compress-byte-long (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187434"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

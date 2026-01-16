@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112693", "enisaUuid": "ed0f5b16-063b-3be3-8e35-917daf2487ed", "description": "Malicious code in husky-global-lint-staged-callback (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143419"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114580", "enisaUuid": "b64f3313-1ff8-35a6-a2fe-f1ae8499a1cb", "description": "Malicious code in delphinus-subscription-mongodb-airbnb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141529"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

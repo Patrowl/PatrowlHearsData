@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191184", "enisaUuid": "30e441cf-6812-3c89-9d57-43d2acacecf8", "description": "Malicious code in spelunker-agent (npm)", "datePublished": "2025-08-23T15:03:17", "dateUpdated": "2025-08-23T15:03:17", "baseScore": 0.0, "aliases": ["MAL-2025-41407"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

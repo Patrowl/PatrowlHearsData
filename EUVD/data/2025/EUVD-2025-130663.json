@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130663", "enisaUuid": "41cffee3-cf44-367b-9e54-40d7d31e5f46", "description": "Malicious code in microsoft-cloud-integrations (npm)", "datePublished": "2025-08-13T08:32:41", "dateUpdated": "2025-08-13T08:32:41", "baseScore": 0.0, "aliases": ["MAL-2025-6941"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

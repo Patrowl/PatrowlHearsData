@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169594", "enisaUuid": "85ebf6ce-4a31-36b0-b189-31c32125c672", "description": "Malicious code in leda-development-config-eclipse (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25065"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

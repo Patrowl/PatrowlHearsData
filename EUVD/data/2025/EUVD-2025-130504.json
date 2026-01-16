@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130504", "enisaUuid": "0adeb756-0d0d-3bec-bd45-13009d1bcdc0", "description": "Malicious code in weavejs-backend (npm)", "datePublished": "2025-07-30T17:45:44", "dateUpdated": "2025-07-30T17:45:44", "baseScore": 0.0, "aliases": ["MAL-2025-6781"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

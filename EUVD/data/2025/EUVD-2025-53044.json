@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-53044", "enisaUuid": "9c51ed55-37fc-36ac-982e-7697bdac9ca9", "description": "Malicious code in net-gray-bison (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-69605"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

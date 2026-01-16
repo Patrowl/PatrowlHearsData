@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129077", "enisaUuid": "e307aac6-5b4a-3046-adfa-093412d31900", "description": "Malicious code in @exitman_ctf/steal (npm)", "datePublished": "2025-06-18T15:37:20", "dateUpdated": "2025-06-18T15:37:20", "baseScore": 0.0, "aliases": ["MAL-2025-5348"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

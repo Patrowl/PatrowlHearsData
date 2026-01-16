@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166458", "enisaUuid": "c182b553-f296-3e8e-b20d-fd9d9225cfb5", "description": "Malicious code in groovyxsd (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21940"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

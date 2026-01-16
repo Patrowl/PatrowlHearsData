@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111621", "enisaUuid": "f19932d7-fb35-3dd8-9782-3240cab2792e", "description": "Malicious code in local-prompts-webdriver-mocha-dotenv-safe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144494"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

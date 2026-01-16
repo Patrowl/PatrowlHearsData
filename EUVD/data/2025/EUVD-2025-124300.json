@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124300", "enisaUuid": "f439870b-5690-3028-845f-98f351be213a", "description": "Malicious code in non-blocking-sqlite-comet-eclipse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145621"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

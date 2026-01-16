@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121398", "enisaUuid": "afc4173e-ba44-3442-beb5-824d1a74937b", "description": "Malicious code in terser-meteor-element-ui-callisto (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148530"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

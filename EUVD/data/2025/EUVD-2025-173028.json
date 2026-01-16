@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173028", "enisaUuid": "6b32004e-e5a7-3500-91de-c34d542c2bae", "description": "Malicious code in ort_wgsl_template_gen (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-09-26T11:06:45", "baseScore": 0.0, "aliases": ["MAL-2025-28499"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

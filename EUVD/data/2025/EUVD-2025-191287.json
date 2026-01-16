@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191287", "enisaUuid": "69bd57fb-d526-34a4-8902-4f68567c2595", "description": "Malicious code in @twork-data-services/proxy-prime-api-v1-balances-info (npm)", "datePublished": "2025-08-28T07:17:08", "dateUpdated": "2025-08-28T07:17:08", "baseScore": 0.0, "aliases": ["MAL-2025-41518"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

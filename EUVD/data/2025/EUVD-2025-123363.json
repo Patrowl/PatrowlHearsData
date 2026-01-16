@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123363", "enisaUuid": "5be5a0ae-2003-3cc8-9975-de8a682deb0b", "description": "Malicious code in process-mysql-graphql-achernar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146559"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

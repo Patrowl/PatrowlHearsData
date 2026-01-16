@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160256", "enisaUuid": "0827aa0e-bc1b-3301-badd-ce95fc983003", "description": "Malicious code in bitcoisnj-lib (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15755"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

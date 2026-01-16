@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122604", "enisaUuid": "759b7f89-6e2d-3787-8981-be65c8b68530", "description": "Malicious code in resolvers-bellatrix-jsonp-public (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147318"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

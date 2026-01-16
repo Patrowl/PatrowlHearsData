@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176792", "enisaUuid": "f8e8209f-e466-34dd-9ef5-846309a7a418", "description": "Malicious code in rate-limiter-express-iota-registry (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189083"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

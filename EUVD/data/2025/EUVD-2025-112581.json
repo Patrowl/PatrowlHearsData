@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112581", "enisaUuid": "8e5db04f-edd2-391b-832c-a5a3aef4c341", "description": "Malicious code in ignite-test-less-loader-kaus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143531"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

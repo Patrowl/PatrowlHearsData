@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130839", "enisaUuid": "056714df-d92a-3955-95e1-2f0f494d3f1f", "description": "Malicious code in @berush/referral-cookie-handler (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7117"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

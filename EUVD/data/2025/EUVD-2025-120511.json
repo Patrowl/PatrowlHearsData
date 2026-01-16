@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120511", "enisaUuid": "9c312a5f-b9a2-3f08-87bd-b8682ab311b4", "description": "Malicious code in websockets-cluster-puppeteer-adonis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149418"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

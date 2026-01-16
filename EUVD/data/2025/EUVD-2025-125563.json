@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125563", "enisaUuid": "50ab936d-3973-3daf-88ae-0b10dc844a28", "description": "Malicious code in google-event (npm)", "datePublished": "2025-03-03T13:27:27", "dateUpdated": "2025-03-03T13:27:27", "baseScore": 0.0, "aliases": ["MAL-2025-1820"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

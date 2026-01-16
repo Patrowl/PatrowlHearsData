@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121018", "enisaUuid": "0208ee82-44b6-3dec-b744-da734f7e8468", "description": "Malicious code in ultra-stream-cli-lynx (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148910"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

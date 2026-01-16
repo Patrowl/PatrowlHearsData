@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173491", "enisaUuid": "f4bc94c7-6c1a-309f-a7db-52b4ee8a2c51", "description": "Malicious code in pbfdump (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28962"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

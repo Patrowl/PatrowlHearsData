@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113949", "enisaUuid": "06605c50-0910-39e5-a271-918dd66397b8", "description": "Malicious code in eris-auth-fusion-nodemon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142161"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

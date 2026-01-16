@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179631", "enisaUuid": "b86ee5e6-a501-37d3-8193-a317c023e133", "description": "Malicious code in commitlint-config-angular-init-miranda-luna (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186251"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

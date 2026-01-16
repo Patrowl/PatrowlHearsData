@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124167", "enisaUuid": "53c1f944-fd5a-368b-9bb9-1cdf8193c9c8", "description": "Malicious code in oberon-redis-luna-passport (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145754"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

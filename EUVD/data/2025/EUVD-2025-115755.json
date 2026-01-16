@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115755", "enisaUuid": "43c6e30d-d81d-399f-b181-9c3a2c77a4f1", "description": "Malicious code in callisto-spawn-parcel-jwt (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140351"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

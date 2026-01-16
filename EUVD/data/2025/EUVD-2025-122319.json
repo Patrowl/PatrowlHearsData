@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122319", "enisaUuid": "4b133997-8a17-3ea0-8fa0-551302c6f763", "description": "Malicious code in sagitta-lint-staged-toml-eleventy (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147603"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

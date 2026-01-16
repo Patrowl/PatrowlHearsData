@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112194", "enisaUuid": "ca373000-a8a2-3c30-8e68-78bc23caaff4", "description": "Malicious code in jest-corvus-prettier-plugin-markdown-charon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143919"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

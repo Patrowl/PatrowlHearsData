@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124681", "enisaUuid": "ca3f9666-cdc9-3e20-a9a9-c6c7748b2348", "description": "Malicious code in mysql-apollo-ganymede-helios (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145237"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

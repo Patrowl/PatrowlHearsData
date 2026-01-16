@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125631", "enisaUuid": "92d6cfd2-84c8-3575-8149-973e9fd42aca", "description": "Malicious code in meli-payment (npm)", "datePublished": "2025-03-03T13:32:08", "dateUpdated": "2025-03-03T13:32:08", "baseScore": 0.0, "aliases": ["MAL-2025-1889"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131844", "enisaUuid": "6f10e3ff-2303-3066-99fb-6bd4556eedb4", "description": "Malicious code in @kms-types/config (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-8122"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130407", "enisaUuid": "36bbc06f-4109-3c6c-96a3-230c726fb48e", "description": "Malicious code in @0xme5war/apicli (npm)", "datePublished": "2025-07-30T17:45:30", "dateUpdated": "2025-07-30T17:45:30", "baseScore": 0.0, "aliases": ["MAL-2025-6684"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

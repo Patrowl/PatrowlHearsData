@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123895", "enisaUuid": "1a291f32-9939-3298-87db-7811a070bafd", "description": "Malicious code in pegasus-envconfig-wasat-supervisor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146026"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

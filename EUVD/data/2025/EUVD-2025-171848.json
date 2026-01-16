@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171848", "enisaUuid": "b47ddf7a-a641-38b5-9216-ccf57b136bfc", "description": "Malicious code in netsuite-suitetalk-wsdl-v2019-2.0 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27319"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

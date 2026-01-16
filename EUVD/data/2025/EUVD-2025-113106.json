@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113106", "enisaUuid": "ebe5563c-fa05-3b9e-b95f-6b59012a7e77", "description": "Malicious code in graphql-orbit-csrf-yaml (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143006"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

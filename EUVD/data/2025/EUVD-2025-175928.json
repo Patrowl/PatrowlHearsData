@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175928", "enisaUuid": "4d09990c-71e6-3175-93cc-2a53733847bf", "description": "Malicious code in toml-json-express-event (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189947"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

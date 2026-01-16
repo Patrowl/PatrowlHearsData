@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176720", "enisaUuid": "61d4353b-ef54-3f46-b8d9-6f1b4c03efc2", "description": "Malicious code in relay-halley-ophiuchus-public (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189155"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123096", "enisaUuid": "3b786d0f-0eae-34cb-bdbb-6e3adba9ac3c", "description": "Malicious code in pulsar-astro-backend-xenon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146826"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

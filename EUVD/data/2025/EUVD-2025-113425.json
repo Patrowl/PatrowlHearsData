@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113425", "enisaUuid": "ca42257e-8d58-3eb0-9ea0-bf99be5b1e4c", "description": "Malicious code in framework-mysql-regulus-element-ui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142687"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

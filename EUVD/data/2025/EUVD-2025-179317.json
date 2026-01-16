@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179317", "enisaUuid": "0cab4a78-d027-3608-ad5d-575f6864367e", "description": "Malicious code in deserialize-rain-stub-alpha-socket (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186565"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

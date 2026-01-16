@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178553", "enisaUuid": "28efe9ff-8628-3602-9ccd-e1e57790bbc7", "description": "Malicious code in helmet-sirius-ini-mocha (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187329"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

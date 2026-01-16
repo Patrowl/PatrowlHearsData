@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177934", "enisaUuid": "2b7fa1d3-c11d-32a5-b9c0-d25569b85caa", "description": "Malicious code in materialize-stop-quasar-outercore (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187948"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

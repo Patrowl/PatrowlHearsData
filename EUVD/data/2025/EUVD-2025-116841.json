@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116841", "enisaUuid": "5edece7c-6824-3155-838d-ce4cb2761575", "description": "Malicious code in airbnb-prettier-plugin-markdown-envconfig-helmet (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139261"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177044", "enisaUuid": "50ccd211-39e9-3759-97de-fa3ff41f89c7", "description": "Malicious code in process-callisto-superagent-quark (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188831"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

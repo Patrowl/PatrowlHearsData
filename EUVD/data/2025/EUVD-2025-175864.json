@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175864", "enisaUuid": "ad55f737-9aa8-3f03-93fe-1a65828236ae", "description": "Malicious code in try-phi-lambda-public-validate (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190011"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

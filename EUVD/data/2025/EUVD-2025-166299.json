@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166299", "enisaUuid": "bae8f89a-a62f-3d73-bb4b-70fe68fc7a02", "description": "Malicious code in gp-db-models (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21781"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

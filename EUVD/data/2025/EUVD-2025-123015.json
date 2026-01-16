@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123015", "enisaUuid": "a4d7e067-1be0-3a2c-b3b5-d1d2b0b55d92", "description": "Malicious code in quantum-loopback-element-ui-wasat (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146907"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

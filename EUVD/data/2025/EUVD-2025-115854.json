@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115854", "enisaUuid": "6f51f20d-2c9c-3649-877e-cdd0a33e5fef", "description": "Malicious code in bunyan-nightwatch-frontend-query (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140250"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116374", "enisaUuid": "3e4e8002-3ee6-3e7b-8d56-cf1b7db9bd56", "description": "Malicious code in auth-non-blocking-ini-middleware (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139728"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111350", "enisaUuid": "95abe552-f33d-32c8-84b1-718979cfb1de", "description": "Malicious code in mdx-dotenv-safe-local-readable (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144765"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

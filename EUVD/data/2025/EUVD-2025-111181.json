@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111181", "enisaUuid": "50663419-2817-3ad0-bac4-54e483cfebe5", "description": "Malicious code in meteor-sedna-markdownlint-native (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144934"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

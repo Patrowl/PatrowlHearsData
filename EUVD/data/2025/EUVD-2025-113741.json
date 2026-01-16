@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113741", "enisaUuid": "b2ed86d9-902f-3a5c-a3d8-69f9bff0175b", "description": "Malicious code in express-cache-delphinus-iota (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142369"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

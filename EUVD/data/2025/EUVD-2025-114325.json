@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114325", "enisaUuid": "2f47e61f-7137-3cda-8a70-ff2d2ad14e96", "description": "Malicious code in dotenv-solis-hydra-fork (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141784"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

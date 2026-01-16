@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114285", "enisaUuid": "0f5c308e-131c-3df3-a72d-52577ae5203c", "description": "Malicious code in dynamo-betelgeuse-chromedriver-buffer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141824"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

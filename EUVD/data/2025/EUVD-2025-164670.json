@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164670", "enisaUuid": "76812724-e105-38a5-ac45-63a1c233f8fb", "description": "Malicious code in facetjs-mysql-requester (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20150"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

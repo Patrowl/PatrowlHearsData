@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178105", "enisaUuid": "6d914c8e-50f2-3a8b-a873-25bea62b6e13", "description": "Malicious code in library-dotenv-safe-gridsome-singularity (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187777"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

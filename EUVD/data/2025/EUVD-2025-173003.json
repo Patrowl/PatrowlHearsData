@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173003", "enisaUuid": "d74cb20e-e3c4-38a5-bbde-7f4cfd4a3289", "description": "Malicious code in orchestrate-finally-static-long-cloud (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28474"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

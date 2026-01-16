@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113420", "enisaUuid": "38195ba3-97c6-3af3-a1dc-720b90fcbaf6", "description": "Malicious code in framework-quasar-spawn-commitlint-config-angular (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142692"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

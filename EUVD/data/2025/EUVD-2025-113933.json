@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113933", "enisaUuid": "d400f85d-ea58-3f4f-89b7-96f85c958954", "description": "Malicious code in eris-miranda-csv-halley (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142177"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165513", "enisaUuid": "2a939076-50dd-34fe-8ba5-42522c524633", "description": "Malicious code in frost-secp256k1-evm (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20994"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122220", "enisaUuid": "51ae6460-b5bc-368a-8186-60bda7539886", "description": "Malicious code in scorpius-betelgeuse-repository-nodejs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147702"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

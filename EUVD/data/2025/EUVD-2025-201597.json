@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-201597", "enisaUuid": "209b0ef1-c530-3b29-8dff-564298ff56e1", "description": "Malicious code in react-hook-form-5 (npm)", "datePublished": "2025-12-07T09:31:09", "dateUpdated": "2025-12-10T21:09:39", "baseScore": 0.0, "aliases": ["MAL-2025-192366"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

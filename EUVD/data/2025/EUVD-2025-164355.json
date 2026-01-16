@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164355", "enisaUuid": "df1cdc5c-5ee0-363b-acbb-6f2d3a05eaad", "description": "Malicious code in eslint-config-lendesk (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19835"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

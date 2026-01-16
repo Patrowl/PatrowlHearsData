@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112441", "enisaUuid": "ddb7f272-3a71-31d7-a38e-aaeab1cc44be", "description": "Malicious code in install-config-hydra-pm2 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143672"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

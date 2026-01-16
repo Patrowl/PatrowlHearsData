@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121179", "enisaUuid": "bd6fef62-6da9-34d0-be67-f9dd24d4b6b6", "description": "Malicious code in tool-proxima-shelljs-corvus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148749"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

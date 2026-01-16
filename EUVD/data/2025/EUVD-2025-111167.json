@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111167", "enisaUuid": "ef1a973e-a99a-3d51-8cd6-7d4599bb7f20", "description": "Malicious code in middleware-bellatrix-pm2-npm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144948"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

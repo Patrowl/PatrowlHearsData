@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159783", "enisaUuid": "e7300a4e-2aac-321e-8e4b-30ecb98ccfa6", "description": "Malicious code in babel-loadre (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15282"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

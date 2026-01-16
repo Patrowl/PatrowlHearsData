@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184171", "enisaUuid": "c8bed0cc-f1dc-359d-90f6-02cd4850849d", "description": "Malicious code in tailwind_lodash (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34387"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

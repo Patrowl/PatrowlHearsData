@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121743", "enisaUuid": "cf0df688-b9b2-3525-99f5-a846143712e5", "description": "Malicious code in spica-terser-rimraf-cypress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148182"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

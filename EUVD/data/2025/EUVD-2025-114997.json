@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114997", "enisaUuid": "e5a582a5-0dc8-3189-b478-b65d9d215d19", "description": "Malicious code in cordelia-transport-axios-janus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141112"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

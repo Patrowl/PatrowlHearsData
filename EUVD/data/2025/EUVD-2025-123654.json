@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123654", "enisaUuid": "a3efa4de-4515-3f36-bb7b-83c043ab24f3", "description": "Malicious code in pipe-query-puppeteer-postcss (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146267"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

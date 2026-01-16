@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115484", "enisaUuid": "0bb2364e-83df-34ef-9a7b-ff939fa15506", "description": "Malicious code in chakra-ui-nodemon-metalsmith-loop (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140623"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130142", "enisaUuid": "0cb6418c-052d-35fd-b389-db750b5a2140", "description": "Malicious code in ethers-js-core (npm)", "datePublished": "2025-07-31T19:29:35", "dateUpdated": "2025-07-31T19:29:35", "baseScore": 0.0, "aliases": ["MAL-2025-6416"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

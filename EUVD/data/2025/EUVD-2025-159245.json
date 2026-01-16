@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159245", "enisaUuid": "0bdbf5f4-4837-373d-ba6d-1d060b4fc5ef", "description": "Malicious code in appversion-generator (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14744"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

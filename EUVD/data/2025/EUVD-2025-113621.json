@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113621", "enisaUuid": "9ac94111-d567-3c67-85ed-31f07cb8abbf", "description": "Malicious code in firebase-cluster-readable-chakra-ui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142490"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

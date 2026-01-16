@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121627", "enisaUuid": "8feb3eba-50e7-33f3-8af8-d1d40c6ce8d1", "description": "Malicious code in stop-magellan-uninstall-ariel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148298"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

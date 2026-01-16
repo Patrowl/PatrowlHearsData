@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159228", "enisaUuid": "b376d07c-c921-31e5-910f-2bc783fd8119", "description": "Malicious code in applications.services.devcloud.image-search-client (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-09-26T11:06:44", "baseScore": 0.0, "aliases": ["MAL-2025-14727"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159032", "enisaUuid": "b0705fc8-454c-3f0c-b146-3b343e340ac2", "description": "Malicious code in angular-rs-alerts (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14531"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

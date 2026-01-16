@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174240", "enisaUuid": "37d46ce6-f7cc-358c-b45f-158450f22079", "description": "Malicious code in production_registry_client (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29711"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

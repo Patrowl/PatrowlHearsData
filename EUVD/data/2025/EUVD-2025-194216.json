@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194216", "enisaUuid": "d5ff76d5-e1ca-31bc-bbe8-6cede3b952a8", "description": "Malicious code in gravitationalwave-corvus-dotenv-parse-variables-xo (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44463"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

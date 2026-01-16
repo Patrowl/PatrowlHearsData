@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115996", "enisaUuid": "848d94f2-87f7-3ac6-91a7-36c92c384a3a", "description": "Malicious code in bootstrap-gemini-carpo-registry (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140106"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

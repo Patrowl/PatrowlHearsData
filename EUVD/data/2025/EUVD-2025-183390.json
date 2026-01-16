@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183390", "enisaUuid": "96b79505-447e-39ea-9826-da6f3d42bdcf", "description": "Malicious code in softer_delete (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33605"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

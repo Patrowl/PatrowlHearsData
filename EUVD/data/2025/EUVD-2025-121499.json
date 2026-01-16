@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121499", "enisaUuid": "7f80a604-56fa-30be-8f01-3b46aad5c627", "description": "Malicious code in sync-pulsar-child-process-gridsome (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148429"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

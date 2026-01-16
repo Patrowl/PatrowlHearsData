@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111191", "enisaUuid": "1f62458a-121e-3374-b53d-ff7970331a8e", "description": "Malicious code in meteor-postcss-galaxy-markdown (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144924"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

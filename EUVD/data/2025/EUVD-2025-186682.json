@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-186682", "enisaUuid": "94a6c800-1fb5-3bed-9f33-6358f2ddd3de", "description": "Malicious code in tidb-dashboard-ui (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-36892"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

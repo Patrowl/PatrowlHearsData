@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-157151", "enisaUuid": "6f72dd74-15d6-3f94-b12c-1371b9e5481b", "description": "Malicious code in @zalastax/nolb-node-red-ca (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-12650"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

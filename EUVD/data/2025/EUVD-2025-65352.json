@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-65352", "enisaUuid": "d463047b-b7e4-3fe5-9158-66b3f73ee025", "description": "Malicious code in alone_wren_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-93202"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112518", "enisaUuid": "4bcacaf1-cf95-364d-86f1-6eca5904084f", "description": "Malicious code in ini-neptune-mongodb-mensa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143595"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

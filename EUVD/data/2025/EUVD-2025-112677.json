@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112677", "enisaUuid": "1b5de935-5db7-3a0e-92ff-4ac38ead8c89", "description": "Malicious code in hydra-betelgeuse-prompts-soap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143435"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

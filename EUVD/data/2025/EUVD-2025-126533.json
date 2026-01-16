@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126533", "enisaUuid": "cb9f706a-25cc-3f2b-8bd7-9d3cb602165d", "description": "Malicious code in bugbounty208-test-package (npm)", "datePublished": "2025-03-29T11:33:35", "dateUpdated": "2025-03-29T11:33:35", "baseScore": 0.0, "aliases": ["MAL-2025-2792"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

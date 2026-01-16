@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176310", "enisaUuid": "afc547be-f325-3fe3-887e-9856762a5833", "description": "Malicious code in socket-decrypt-tau-big-compress (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189565"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

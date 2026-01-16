@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116003", "enisaUuid": "d83d4293-ed00-380f-ada0-eba726674562", "description": "Malicious code in bootstrap-chakra-ui-wolf-protractor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140099"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

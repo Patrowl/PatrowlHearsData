@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112743", "enisaUuid": "23e42cd1-f53a-3726-a74e-6d3f8ffecc0e", "description": "Malicious code in html-webpack-plugin-procyon-airbnb-relay (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143369"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

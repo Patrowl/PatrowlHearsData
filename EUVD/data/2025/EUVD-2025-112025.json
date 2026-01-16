@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112025", "enisaUuid": "bc2cb876-8078-32d4-89df-cd65e82326f8", "description": "Malicious code in jwt-test-elektra-sails (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144088"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

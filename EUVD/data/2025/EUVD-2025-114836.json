@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114836", "enisaUuid": "2b92e7f5-61eb-30da-89be-955a68d9099f", "description": "Malicious code in cross-env-soap-winston-fomalhaut (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141273"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120278", "enisaUuid": "a9dab2c4-22a4-379f-b223-277d2b596afe", "description": "Malicious code in xenon-nodejs-tethys-husky (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149653"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

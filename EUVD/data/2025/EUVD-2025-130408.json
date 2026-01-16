@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130408", "enisaUuid": "2a50cd07-7a03-3bf1-b103-df404feb647a", "description": "Malicious code in @azet/api (npm)", "datePublished": "2025-07-30T08:40:42", "dateUpdated": "2025-08-05T06:46:42", "baseScore": 0.0, "aliases": ["MAL-2025-6685"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

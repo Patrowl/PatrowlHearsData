@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180376", "enisaUuid": "9604061c-07cd-335d-a505-66196449455b", "description": "Malicious code in aquarius-babel-nconf-build (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185512"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

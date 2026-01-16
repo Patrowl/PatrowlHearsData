@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112107", "enisaUuid": "9d1859b7-9f86-393d-a279-92200708ab9f", "description": "Malicious code in jsonp-sagitta-comet-module (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144006"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

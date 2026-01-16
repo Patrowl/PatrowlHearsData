@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114015", "enisaUuid": "a37cebbb-9c6d-3e33-90ad-761800ea3ec1", "description": "Malicious code in epimetheus-ganymede-native-superagent (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142095"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

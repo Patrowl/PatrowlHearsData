@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-88882", "enisaUuid": "ecddf3c5-38de-34ba-b4a6-ae79fa8944b7", "description": "Malicious code in secret_roundworm_z3n (npm)", "datePublished": "2025-11-11T15:19:32", "dateUpdated": "2025-11-11T15:19:32", "baseScore": 0.0, "aliases": ["MAL-2025-117002"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

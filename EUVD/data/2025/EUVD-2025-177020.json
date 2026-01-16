@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177020", "enisaUuid": "07247a6c-fedd-3265-817a-3608bf2a93e6", "description": "Malicious code in promise-compile-interface-benchmark-fire (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188855"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

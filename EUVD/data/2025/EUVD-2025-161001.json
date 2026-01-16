@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161001", "enisaUuid": "78ed887e-587b-3ab0-bda2-7480cf48514d", "description": "Malicious code in canopus-middleware-jsonp-slidev (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16500"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

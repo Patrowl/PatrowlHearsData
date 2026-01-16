@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113386", "enisaUuid": "482247b5-aa15-338d-a9da-4cbc74c9ecba", "description": "Malicious code in fusion-callback-soap-markdownlint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142726"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

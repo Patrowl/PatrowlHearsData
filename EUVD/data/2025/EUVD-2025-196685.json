@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196685", "enisaUuid": "6eefc54e-db37-3dd1-95d0-53bb03a832dd", "description": "Malicious code in monolith-twirp-modelsgateway-telemetry (RubyGems)", "datePublished": "2025-09-01T09:53:19", "dateUpdated": "2025-09-01T09:53:19", "baseScore": 0.0, "aliases": ["MAL-2025-46933"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

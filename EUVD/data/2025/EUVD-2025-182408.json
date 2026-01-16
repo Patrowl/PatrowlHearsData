@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182408", "enisaUuid": "6ce65680-1e0c-3383-bb9e-fd9121cf7860", "description": "Malicious code in sagemaker_notebooks_extension (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32623"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

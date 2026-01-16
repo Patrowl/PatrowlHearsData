@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164422", "enisaUuid": "2be79862-1cc0-3088-adcd-befe05c9f137", "description": "Malicious code in eui-react-scripts (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19902"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

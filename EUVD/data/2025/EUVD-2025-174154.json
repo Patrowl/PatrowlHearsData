@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174154", "enisaUuid": "6385a51e-1340-331e-b4f6-f6a442d2e41f", "description": "Malicious code in prettier-plugin-liquid (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29625"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

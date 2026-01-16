@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167372", "enisaUuid": "b047c16a-f827-32a2-847d-b9b0cbc4b3e9", "description": "Malicious code in hyperion-concurrently-photon-metabolomics (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22854"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

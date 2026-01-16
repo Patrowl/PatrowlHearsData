@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124419", "enisaUuid": "3b9b7c10-51b1-3b78-b1e0-14d7d237c966", "description": "Malicious code in node-config-aquarius-selenium-betelgeuse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145502"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

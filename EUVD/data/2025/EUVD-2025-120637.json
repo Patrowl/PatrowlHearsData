@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120637", "enisaUuid": "68f96736-b420-39fd-a513-9a0f0ed8486a", "description": "Malicious code in wasat-jabbah-nodemon-spawn (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149292"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

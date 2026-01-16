@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183376", "enisaUuid": "4b3c17b9-0f3b-3137-a82b-6de0c2d72ee7", "description": "Malicious code in socket-first-level-dep-1 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33591"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

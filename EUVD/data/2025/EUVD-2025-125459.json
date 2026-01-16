@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125459", "enisaUuid": "c658a5f8-adc1-3111-966b-da281ee34a67", "description": "Malicious code in airbnb-logger (npm)", "datePublished": "2025-03-03T13:15:36", "dateUpdated": "2025-03-03T13:15:36", "baseScore": 0.0, "aliases": ["MAL-2025-1715"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189659", "enisaUuid": "f7b3524e-e22c-3b7e-afcc-605b3ba419a1", "description": "Malicious code in xlsx-to-json-lh (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39873"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

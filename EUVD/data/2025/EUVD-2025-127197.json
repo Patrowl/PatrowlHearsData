@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127197", "enisaUuid": "38f71d67-fac5-35e3-8b73-c798e726f0ed", "description": "Malicious code in pyapimove (PyPI)", "datePublished": "2025-04-23T16:06:32", "dateUpdated": "2025-04-23T16:06:32", "baseScore": 0.0, "aliases": ["MAL-2025-3456"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

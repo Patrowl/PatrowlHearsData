@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112789", "enisaUuid": "a5704e6f-5e50-3b98-94c5-e80a4b668e65", "description": "Malicious code in hermes-rehype-writable-eleventy (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143323"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

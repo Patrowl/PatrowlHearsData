@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121903", "enisaUuid": "7bda2468-f9c6-3da1-94ab-c816a4d54174", "description": "Malicious code in soap-husky-playwright-rate-limiter (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148022"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124779", "enisaUuid": "5eabf15a-085e-3199-a76e-70c7afbfd035", "description": "Malicious code in mongodb-semantic-release-elektra-delphinus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145139"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

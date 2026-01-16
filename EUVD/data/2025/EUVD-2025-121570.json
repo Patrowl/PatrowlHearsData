@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121570", "enisaUuid": "a0c72f07-dacc-388f-ad1d-dd851838c5d4", "description": "Malicious code in subscription-fetch-orbit-hermes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148356"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

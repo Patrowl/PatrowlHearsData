@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120540", "enisaUuid": "2a96dd0c-f38d-3db7-b94b-b1ad7282ddc1", "description": "Malicious code in webpack-bootes-ariel-envconfig (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149389"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

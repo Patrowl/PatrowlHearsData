@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121756", "enisaUuid": "a56ef744-c554-365f-a56b-a0fe59a5584f", "description": "Malicious code in spica-mocha-castor-inquirer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148169"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

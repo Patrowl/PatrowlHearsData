@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179637", "enisaUuid": "8cee9b6f-6e4b-3d4e-8d13-a5227eedbd09", "description": "Malicious code in commitlint-betelgeuse-yaml-indus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186245"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

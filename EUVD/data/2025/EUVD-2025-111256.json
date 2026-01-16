@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111256", "enisaUuid": "bd12e7d6-5db6-3ae6-a349-bb8d5735d1c6", "description": "Malicious code in mensa-pm2-metalsmith-eslint-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144859"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

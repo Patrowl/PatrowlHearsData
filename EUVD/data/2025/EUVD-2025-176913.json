@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176913", "enisaUuid": "f66ddb6a-521e-3eac-84fb-9d54973109c4", "description": "Malicious code in publish-xanthus-cypress-redis (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188962"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

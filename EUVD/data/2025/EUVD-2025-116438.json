@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116438", "enisaUuid": "9824132b-b74e-30d3-84bf-36dbbfa1e848", "description": "Malicious code in atlas-uglify-js-dependencies-playwright (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139664"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

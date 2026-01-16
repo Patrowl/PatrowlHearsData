@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182419", "enisaUuid": "3945f158-403c-3d54-9ae2-91fad75b2f2d", "description": "Malicious code in sagitta-package-subscription-google (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32634"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111566", "enisaUuid": "f72150e7-e86c-3074-820e-2758766f4ca5", "description": "Malicious code in loopback-framework-loopback-janus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144549"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

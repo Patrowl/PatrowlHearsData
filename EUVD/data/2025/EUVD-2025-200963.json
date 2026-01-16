@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200963", "enisaUuid": "eb64132d-4b87-334c-97ae-7eaa585f5d56", "description": "Malicious code in elf-stats-aurora-candy-291 (npm)", "datePublished": "2025-12-03T15:59:29", "dateUpdated": "2025-12-03T15:59:29", "baseScore": 0.0, "aliases": ["MAL-2025-191988"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

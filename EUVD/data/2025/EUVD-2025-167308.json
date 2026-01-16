@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167308", "enisaUuid": "589b1a8c-b43e-36ce-a7a8-f5fcbfa10561", "description": "Malicious code in humanapi-grunt-tasks (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22790"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

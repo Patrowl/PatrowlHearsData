@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113764", "enisaUuid": "1e1fe338-41c1-3977-ab5a-6ff58f92bfe7", "description": "Malicious code in exec-jekyll-redis-apollo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142346"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

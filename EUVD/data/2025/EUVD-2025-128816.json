@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128816", "enisaUuid": "22de1d00-6c71-3861-bb54-e76505ee9067", "description": "Malicious code in react-web3-cache (npm)", "datePublished": "2025-06-18T10:38:16", "dateUpdated": "2025-06-18T10:38:16", "baseScore": 0.0, "aliases": ["MAL-2025-5087"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112893", "enisaUuid": "b513afd8-4b1f-345f-8d78-b6a502ef9c35", "description": "Malicious code in heka-tool-fornax-schema (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143219"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

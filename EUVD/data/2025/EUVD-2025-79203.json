@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-79203", "enisaUuid": "6b476fc3-3e86-3909-a42a-6fdd1230197f", "description": "Malicious code in forward_pinniped_z3n (npm)", "datePublished": "2025-11-11T07:31:13", "dateUpdated": "2025-11-11T07:31:13", "baseScore": 0.0, "aliases": ["MAL-2025-102887"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

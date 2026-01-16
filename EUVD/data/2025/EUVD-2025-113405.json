@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113405", "enisaUuid": "ad8309f8-704c-3d95-863e-688e5f3b59e5", "description": "Malicious code in frontend-magellan-metalsmith-chai (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142707"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

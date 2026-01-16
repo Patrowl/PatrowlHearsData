@@ -1,0 +1,1 @@
+{"id": "EUVD-2026-2840", "enisaUuid": "1f1c8fe7-aab8-3a7a-b77d-dc30a658aa27", "datePublished": "2026-01-15T00:31:38", "dateUpdated": "2026-01-15T00:31:38", "baseScore": 0.0, "references": ["https://nvd.nist.gov/vuln/detail/CVE-2025-12533"], "aliases": ["CVE-2025-12533", "GHSA-qqx4-rrqf-qwx2"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

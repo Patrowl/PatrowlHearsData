@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180434", "enisaUuid": "796397f7-6019-3055-89ce-aa30302bf947", "description": "Malicious code in analyze-signal-bundle-query-mock (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185454"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

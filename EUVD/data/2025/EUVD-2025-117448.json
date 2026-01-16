@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-117448", "enisaUuid": "8dc8b355-ccf8-3367-82cc-02e313ea11ae", "description": "Malicious code in determined-aqua-mackerel (npm)", "datePublished": "2025-11-12T03:04:12", "dateUpdated": "2025-11-12T03:04:12", "baseScore": 0.0, "aliases": ["MAL-2025-138654"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

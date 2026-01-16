@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124298", "enisaUuid": "7fc03d9a-ad82-3124-8183-3bd9846b31ef", "description": "Malicious code in non-blocking-start-sequelize-fetch (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145623"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

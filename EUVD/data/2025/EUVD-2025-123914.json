@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123914", "enisaUuid": "165b81df-74e3-3291-b3db-b3e0837a9180", "description": "Malicious code in pavo-process-socketio-husky (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146007"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

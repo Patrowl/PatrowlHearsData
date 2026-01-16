@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193666", "enisaUuid": "f3aa1bc6-fd91-352e-93f3-3fb3d400c276", "description": "Malicious code in css-minimizer-webpack-plugin-taphonomy-tectonic-hydra (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43913"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

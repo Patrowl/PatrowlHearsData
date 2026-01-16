@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188751", "enisaUuid": "8f1ece2d-66e9-36b6-9b1e-24ba3d9b4285", "description": "Malicious code in web-api-mongodb-connection-factory (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38965"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

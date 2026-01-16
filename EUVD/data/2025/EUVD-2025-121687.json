@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121687", "enisaUuid": "da61df82-d1a5-3818-90f4-12ebc8cffa38", "description": "Malicious code in sqlite-run-script-transform-cordelia (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148238"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

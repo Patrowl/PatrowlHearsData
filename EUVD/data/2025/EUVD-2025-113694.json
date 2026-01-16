@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113694", "enisaUuid": "9f75c68a-5e60-3fac-be62-5c8c5fffdff8", "description": "Malicious code in farout-ini-spectron-markdownlint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142416"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

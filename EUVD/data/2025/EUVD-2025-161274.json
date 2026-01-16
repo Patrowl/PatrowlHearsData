@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161274", "enisaUuid": "8d592be1-e02e-3a32-bf7a-3d913110014f", "description": "Malicious code in chalk-spectron-webdriver-child-process-dione (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16773"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

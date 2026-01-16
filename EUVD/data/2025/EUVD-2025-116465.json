@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116465", "enisaUuid": "fd168fd4-b260-3bd6-b4a1-95ab682a14f2", "description": "Malicious code in async-sedna-prompts-less-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139637"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

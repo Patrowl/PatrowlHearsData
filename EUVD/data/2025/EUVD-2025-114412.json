@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114412", "enisaUuid": "700e69a0-c4b5-3c0a-a9df-634a14fb93e5", "description": "Malicious code in dorado-supervisor-child-process-cygnus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141697"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

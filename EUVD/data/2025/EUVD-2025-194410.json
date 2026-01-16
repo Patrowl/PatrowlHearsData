@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194410", "enisaUuid": "12839e81-5c9f-3649-9fb7-0bdc1a7fddd1", "description": "Malicious code in hydra-command-cz-conventional-changelog-resolvers (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44657"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

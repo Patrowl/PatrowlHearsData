@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189032", "enisaUuid": "99adca39-a815-35aa-8625-f712fcf0a9a4", "description": "Malicious code in whitedwarf-kaus-auth0-membrane (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39246"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

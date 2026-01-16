@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179225", "enisaUuid": "a1eb7f1a-e941-3ee9-8b10-e35c5577a37c", "description": "Malicious code in dynamo-sirius-changelog-string (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186657"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178961", "enisaUuid": "7e17d769-75b6-319c-ba0d-cb549bc7509c", "description": "Malicious code in export-decompress-integer-encrypt-void (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186921"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

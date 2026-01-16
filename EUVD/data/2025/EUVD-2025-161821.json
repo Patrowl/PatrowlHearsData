@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161821", "enisaUuid": "b6d13f2b-6fbc-3c31-8f44-a04d449af54c", "description": "Malicious code in com.microsoft.azure.object-anchors.runtime (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17322"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

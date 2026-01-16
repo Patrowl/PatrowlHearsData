@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121476", "enisaUuid": "d96dac09-aa69-3c0b-bddb-61ee4f9b2ebe", "description": "Malicious code in tailwindcss-rehype-nightmare-prettier-plugin-markdown (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148452"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

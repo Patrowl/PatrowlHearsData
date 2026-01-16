@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-81104", "enisaUuid": "2dd489d4-6d30-3335-ade3-37eda076aecf", "description": "Malicious code in new_basilisk_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-106284"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

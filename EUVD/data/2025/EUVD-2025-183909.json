@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183909", "enisaUuid": "4db5c183-82ac-38f2-8c89-05febde6b2b6", "description": "Malicious code in stylelint-config-edx (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34124"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

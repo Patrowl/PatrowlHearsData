@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175738", "enisaUuid": "0b404f29-7f7a-379d-b0ff-9c816a851b85", "description": "Malicious code in venus-dactyl-publish-markdownlint (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190137"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

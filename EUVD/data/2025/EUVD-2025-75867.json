@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75867", "enisaUuid": "e0e72adb-09d4-3bb0-b2a4-25852e0088a5", "description": "Malicious code in rational_tortoise-tool (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-107731"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

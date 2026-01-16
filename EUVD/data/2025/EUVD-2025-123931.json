@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123931", "enisaUuid": "d8077d6f-cabe-3b48-895d-12dd651d5f8b", "description": "Malicious code in pavo-antares-run-script-lyra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145990"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

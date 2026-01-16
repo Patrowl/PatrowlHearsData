@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113474", "enisaUuid": "e681670e-4f2b-3916-8cba-423632b75ae8", "description": "Malicious code in fornax-miranda-dotenv-parse-variables-proxima (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142638"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

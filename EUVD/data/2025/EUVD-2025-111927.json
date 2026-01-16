@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111927", "enisaUuid": "ac32f005-4a85-3b71-940c-adc1a9e3e90e", "description": "Malicious code in kinetic-spawn-stop-browserify (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144186"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

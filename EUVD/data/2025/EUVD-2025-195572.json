@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195572", "enisaUuid": "77966c85-56a1-3f41-8dcc-44469891007c", "description": "Malicious code in rest-changelog-mini-css-extract-plugin-eslint-plugin (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45820"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

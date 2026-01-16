@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-79779", "enisaUuid": "664f8d6f-9a37-3cd3-b948-b36ca3381126", "description": "Malicious code in atomic_mongoose_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-99651"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

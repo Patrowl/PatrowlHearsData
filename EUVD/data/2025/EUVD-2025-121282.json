@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121282", "enisaUuid": "340611f3-47f1-3578-9c9e-8b67073f2422", "description": "Malicious code in thuban-delphinus-rollup-plugin-graphql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148646"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

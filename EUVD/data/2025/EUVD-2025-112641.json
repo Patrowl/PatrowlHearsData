@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112641", "enisaUuid": "ec54aa17-4796-386b-b2bc-ea90d520b9a6", "description": "Malicious code in hyperion-epimetheus-pavo-toml (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143471"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

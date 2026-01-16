@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111737", "enisaUuid": "98ee2b56-2e3d-39f0-94ef-586313bb234e", "description": "Malicious code in library-ganymede-axios-phoebe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144376"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177754", "enisaUuid": "420a624f-651c-3ce8-86e3-8c79d0cf000c", "description": "Malicious code in morgan-readable-auriga-promise (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188128"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

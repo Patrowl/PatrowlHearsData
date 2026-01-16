@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111745", "enisaUuid": "d50a731b-0bbe-392f-8212-ea881d80848c", "description": "Malicious code in levels-yaml-build-shelljs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144368"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

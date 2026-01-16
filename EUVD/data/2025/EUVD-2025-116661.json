@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116661", "enisaUuid": "cd2e6394-bc1c-3bab-ae5e-4f84622e98b0", "description": "Malicious code in antares-spectron-apollo-version (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139441"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

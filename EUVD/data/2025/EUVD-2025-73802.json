@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-73802", "enisaUuid": "7edc530f-6c77-325d-8f1b-3ddd1e060a4b", "description": "Malicious code in secure_constrictor_z3n (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-96488"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

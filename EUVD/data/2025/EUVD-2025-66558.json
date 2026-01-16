@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-66558", "enisaUuid": "980c7efd-9c16-3a90-8dff-da79924e8af5", "description": "Malicious code in small_mastodon_z3n (npm)", "datePublished": "2025-11-11T04:25:34", "dateUpdated": "2025-11-11T04:25:34", "baseScore": 0.0, "aliases": ["MAL-2025-90696"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124599", "enisaUuid": "0c54496e-fd30-3cd9-b418-f5abef5e1ad1", "description": "Malicious code in nconf-jekyll-firebase-prettier (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145321"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

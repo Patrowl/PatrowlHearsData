@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116842", "enisaUuid": "69b23fe9-a74c-3844-9329-ced4e6744354", "description": "Malicious code in airbnb-node-sass-leda-procyon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139260"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

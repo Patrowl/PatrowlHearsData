@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191148", "enisaUuid": "36e6332d-c99b-3aa3-bf71-7fbd6cf56d93", "description": "Malicious code in bc-compare (npm)", "datePublished": "2025-08-22T17:38:13", "dateUpdated": "2025-08-22T17:38:13", "baseScore": 0.0, "aliases": ["MAL-2025-41371"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

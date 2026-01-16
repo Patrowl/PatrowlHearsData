@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-51831", "enisaUuid": "382baacb-3411-39bc-91cf-b3bbb30d83e0", "description": "Malicious code in stale-jade-amphibian (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-70818"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179417", "enisaUuid": "517dc783-d7da-32bb-bc10-225b3e29ef31", "description": "Malicious code in daemon-function-throw-file-dog (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186465"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

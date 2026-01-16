@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112469", "enisaUuid": "8488b79a-909c-32fb-974c-d61fbc080d93", "description": "Malicious code in inquirer-cosmos-sqlite-shelljs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143644"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

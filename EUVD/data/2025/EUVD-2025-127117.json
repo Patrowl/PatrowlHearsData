@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127117", "enisaUuid": "f0c872d2-ccf8-33b2-9640-ca4ec70f1268", "description": "Malicious code in amazon-chime-sdk-js-exp (npm)", "datePublished": "2025-04-26T10:53:41", "dateUpdated": "2025-05-22T14:07:46", "baseScore": 0.0, "aliases": ["MAL-2025-3376"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

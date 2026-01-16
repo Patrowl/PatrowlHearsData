@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-186478", "enisaUuid": "3bd07ccd-48c3-3aa6-96e4-dc46a7384950", "description": "Malicious code in test-npm-contribs (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-36694"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

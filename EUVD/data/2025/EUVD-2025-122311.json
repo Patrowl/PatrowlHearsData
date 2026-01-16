@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122311", "enisaUuid": "5a10be60-f5bf-3c98-9139-406289180b56", "description": "Malicious code in sagitta-publish-less-figures (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147611"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

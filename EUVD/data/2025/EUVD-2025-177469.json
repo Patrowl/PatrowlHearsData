@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177469", "enisaUuid": "ce2b1023-d85d-3f5f-a544-644c5324d9cf", "description": "Malicious code in omega-string-view-double-warn (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188413"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

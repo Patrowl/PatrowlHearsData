@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196085", "enisaUuid": "6da58b3d-9ef8-3d6e-aa0c-43f0fb993459", "description": "Malicious code in titan-triton-publish-selenium (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46333"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121471", "enisaUuid": "6902bd64-c956-3070-a45f-d7b5ebe05533", "description": "Malicious code in tailwindcss-superagent-eslint-config-eleventy (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148457"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

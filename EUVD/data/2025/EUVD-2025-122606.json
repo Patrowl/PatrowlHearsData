@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122606", "enisaUuid": "65af0f15-f104-3f99-a5d0-26c4214ba1cd", "description": "Malicious code in request-wasat-mui-lynx (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147316"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

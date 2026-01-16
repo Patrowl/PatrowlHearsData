@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112539", "enisaUuid": "28fb2c0d-7728-3b40-8d4a-002c51316f71", "description": "Malicious code in indus-relay-nightwatch-google (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143574"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

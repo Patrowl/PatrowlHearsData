@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-60279", "enisaUuid": "7b7a9bd3-403c-3ad0-823a-e7d13236c8fa", "description": "Malicious code in clean_beetle_z3n (npm)", "datePublished": "2025-11-11T00:17:57", "dateUpdated": "2025-11-11T00:17:57", "baseScore": 0.0, "aliases": ["MAL-2025-62359"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

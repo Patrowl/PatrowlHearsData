@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123411", "enisaUuid": "99160fcb-cbda-3762-914b-919df4d192fd", "description": "Malicious code in prettier-stylelint-mysql-ultra-winston (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146511"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

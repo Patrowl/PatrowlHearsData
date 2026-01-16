@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113723", "enisaUuid": "3ffdb116-16ff-3883-a309-58ad76723784", "description": "Malicious code in express-nconf-husky-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142387"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

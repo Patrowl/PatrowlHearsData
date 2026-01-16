@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111819", "enisaUuid": "30d814c7-aca6-3cb0-9fd8-033d48992283", "description": "Malicious code in leda-sequelize-pm2-sagitta (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144294"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122172", "enisaUuid": "f7381e2a-1323-3c77-94fd-9b62af7c326d", "description": "Malicious code in scripts-typeorm-thuban-perseus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147750"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121514", "enisaUuid": "b94c33b6-372a-3847-8fbf-2981c4cfb35e", "description": "Malicious code in sync-antares-rehype-yaml (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148414"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

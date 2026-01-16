@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176537", "enisaUuid": "4a779223-e47e-3933-acd4-7f60b0917697", "description": "Malicious code in sandbox-hot-cron-query-boolean (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189338"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

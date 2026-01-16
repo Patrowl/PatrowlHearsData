@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-55676", "enisaUuid": "7f3e6e77-2adc-3e1d-ba0d-9ccca611bfd6", "description": "Malicious code in bipy-calculator (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-66973"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

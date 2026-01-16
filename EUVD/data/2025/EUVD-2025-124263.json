@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124263", "enisaUuid": "69471382-eb3d-36c1-a90a-bfd1b6953fe4", "description": "Malicious code in nova-farout-test-auth0 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145658"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121404", "enisaUuid": "d8fdf27b-f7a5-3cd8-8a1b-3147794e4080", "description": "Malicious code in terser-jsonp-version-uninstall (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148524"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

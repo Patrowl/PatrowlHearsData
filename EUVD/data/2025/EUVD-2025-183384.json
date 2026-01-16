@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183384", "enisaUuid": "69840050-df86-386d-b11e-1c0a8fd6b55d", "description": "Malicious code in socketmp (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33599"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

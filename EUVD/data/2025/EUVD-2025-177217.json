@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177217", "enisaUuid": "e421e7a1-28b9-35be-9b7f-d8be372b681d", "description": "Malicious code in phi-transpile-delta-table-unix (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188665"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

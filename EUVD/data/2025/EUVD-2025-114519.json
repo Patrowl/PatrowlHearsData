@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114519", "enisaUuid": "a898f519-1c22-378f-8488-8d5e82ce9b83", "description": "Malicious code in dependencies-xerxes-gulp-equinox (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141590"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

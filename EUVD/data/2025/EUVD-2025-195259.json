@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195259", "enisaUuid": "d5a72f1c-60ad-39ec-b75a-950f0b90642b", "description": "Malicious code in parsec-eris-enceladus-metabolomics (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45507"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123604", "enisaUuid": "fc72da0b-0673-33c0-8d3f-e5e40f2c1b1a", "description": "Malicious code in pm2-yakutsk-config-puppeteer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146317"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

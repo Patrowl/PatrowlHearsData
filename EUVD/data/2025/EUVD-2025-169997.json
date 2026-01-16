@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169997", "enisaUuid": "e0db62c8-0891-39fa-b4a0-dbf3768c04e7", "description": "Malicious code in load-book-encrypt-deserialize-permission (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25468"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

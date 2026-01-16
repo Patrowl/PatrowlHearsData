@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179602", "enisaUuid": "7765b07c-db06-3389-9f48-e4ef65d5fdd8", "description": "Malicious code in config-regulus-auth-ophiuchus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186280"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

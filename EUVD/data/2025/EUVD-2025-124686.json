@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124686", "enisaUuid": "6c093f40-5002-33e4-aff0-7db1ebf9781f", "description": "Malicious code in mutation-spectron-elektra-module (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145232"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

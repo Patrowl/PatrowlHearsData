@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180430", "enisaUuid": "bd389425-1a59-3b8f-90b1-4ea3bde89c76", "description": "Malicious code in antares-aether-run-script-pino-pretty (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185458"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115059", "enisaUuid": "5e61a71d-eb31-3d2c-af72-1facc4912b34", "description": "Malicious code in configstore-enif-development-altair (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141050"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122845", "enisaUuid": "521bb850-2235-3343-b51f-9752133040ca", "description": "Malicious code in readable-browserify-cors-odin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147077"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

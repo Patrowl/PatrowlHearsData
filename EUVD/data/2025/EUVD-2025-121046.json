@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121046", "enisaUuid": "6db330fc-b4d4-3c30-94ab-fb60849e700f", "description": "Malicious code in uglify-js-schema-spica-arcturus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148882"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

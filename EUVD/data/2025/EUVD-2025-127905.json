@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127905", "enisaUuid": "5bf6b362-b92c-339d-90b4-b39aa816810d", "description": "Malicious code in gatsby-theme-newrelic (npm)", "datePublished": "2025-05-22T12:45:29", "dateUpdated": "2025-05-22T12:45:29", "baseScore": 0.0, "aliases": ["MAL-2025-4173"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

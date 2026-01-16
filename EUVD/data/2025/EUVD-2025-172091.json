@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172091", "enisaUuid": "68e98000-ceb5-3a04-ad3a-4edf73fdc30a", "description": "Malicious code in nit-quotation-service-core-lib (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-09-26T11:06:45", "baseScore": 0.0, "aliases": ["MAL-2025-27562"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

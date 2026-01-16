@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124184", "enisaUuid": "14e21e85-89a5-30f4-8dc6-81973d75034f", "description": "Malicious code in oauth-writable-aurora-docusaurus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145737"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

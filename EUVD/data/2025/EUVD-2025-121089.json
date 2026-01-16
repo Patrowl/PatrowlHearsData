@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121089", "enisaUuid": "d9a70990-3bfe-3532-ac4b-3d629c86c14e", "description": "Malicious code in typeorm-chalk-eslint-config-geckodriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148839"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

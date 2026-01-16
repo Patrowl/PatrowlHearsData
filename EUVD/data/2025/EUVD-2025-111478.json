@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111478", "enisaUuid": "c39645fa-a6ec-336c-a636-9b653e9ae5a2", "description": "Malicious code in magellan-got-pm2-jest (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144637"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180359", "enisaUuid": "b5ff565c-1872-3914-8a85-165f0ade8cff", "description": "Malicious code in archaeogenetics-typeorm-superagent-event (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185529"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

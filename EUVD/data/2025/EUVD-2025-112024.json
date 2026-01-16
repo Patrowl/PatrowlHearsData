@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112024", "enisaUuid": "22bbf86d-3cb6-3720-9a2b-4931752b1d3d", "description": "Malicious code in jwt-tethys-eleventy-request (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144089"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123801", "enisaUuid": "90f488e5-5507-3c01-905a-1aeb9c52b1c7", "description": "Malicious code in perseus-test-transport-loglevel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146120"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

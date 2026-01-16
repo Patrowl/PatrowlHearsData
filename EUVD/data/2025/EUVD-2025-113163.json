@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113163", "enisaUuid": "bd234b5e-0c74-39b5-aad0-e24062aa9b9c", "description": "Malicious code in global-shelljs-socketio-passport (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142949"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

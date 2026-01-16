@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112919", "enisaUuid": "2480971a-8349-37ef-8fbb-da769b85a3e4", "description": "Malicious code in hapi-mutation-kronos-deimos (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143193"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

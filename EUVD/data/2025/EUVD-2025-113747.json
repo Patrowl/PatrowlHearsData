@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113747", "enisaUuid": "41301515-1ddf-36d9-90e7-cbe6c91d7f6d", "description": "Malicious code in exec-winston-loop-nightwatch (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142363"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

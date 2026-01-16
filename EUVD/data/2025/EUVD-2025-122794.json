@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122794", "enisaUuid": "92066149-1316-3763-82d6-73f876e3c547", "description": "Malicious code in registry-fork-terser-webpack-plugin-rollup (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147128"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

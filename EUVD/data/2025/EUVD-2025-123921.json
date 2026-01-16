@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123921", "enisaUuid": "72207e9c-10bd-3623-9e69-6b1002d900d2", "description": "Malicious code in pavo-less-loader-convict-uglify-js (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146000"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

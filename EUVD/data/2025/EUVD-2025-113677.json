@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113677", "enisaUuid": "b64d5d5e-2ec5-3a0f-9a47-b9b2775d7807", "description": "Malicious code in fetch-betelgeuse-schema-sync (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142434"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

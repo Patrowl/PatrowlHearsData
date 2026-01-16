@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114462", "enisaUuid": "b0fc29a7-952b-389b-85d9-a768b335de35", "description": "Malicious code in dione-ora-sequelize-rocket (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141647"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

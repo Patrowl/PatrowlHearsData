@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80822", "enisaUuid": "1f675fcf-dbf5-3c34-9eb8-848df05ebf4f", "description": "Malicious code in quiet_ocelot_replicate_automation (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-107664"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

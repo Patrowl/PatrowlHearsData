@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113645", "enisaUuid": "8f838d25-6e6b-3394-9e15-4c092c3e9a07", "description": "Malicious code in figures-elektra-server-buffer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142466"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112638", "enisaUuid": "9cd2ea98-d87a-3c15-b8f4-771ce9879ee4", "description": "Malicious code in hyperion-ganymede-perseus-middleware (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143474"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

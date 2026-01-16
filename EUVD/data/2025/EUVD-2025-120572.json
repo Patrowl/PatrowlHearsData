@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120572", "enisaUuid": "66ab2f96-ac9c-37d9-a888-7362fee7abdc", "description": "Malicious code in webdriver-mocha-miranda-virgo-hydra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149357"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

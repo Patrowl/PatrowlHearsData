@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129144", "enisaUuid": "712dd9c5-17cf-3da6-8935-3d97cb16f5d7", "description": "Malicious code in homey-web-app (npm)", "datePublished": "2025-06-24T16:25:10", "dateUpdated": "2025-06-24T16:25:10", "baseScore": 0.0, "aliases": ["MAL-2025-5415"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114844", "enisaUuid": "cab49d59-8485-37b8-bdf3-ee7c37a11e6b", "description": "Malicious code in cross-env-prompts-equinox-mdx (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141265"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

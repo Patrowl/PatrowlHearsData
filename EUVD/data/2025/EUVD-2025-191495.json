@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191495", "enisaUuid": "6dcbaca3-35c0-3714-b1ec-9ce491dfff21", "description": "Malicious code in pyxhttp (PyPI)", "datePublished": "2025-08-28T07:11:39", "dateUpdated": "2025-08-28T07:11:39", "baseScore": 0.0, "aliases": ["MAL-2025-41728"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

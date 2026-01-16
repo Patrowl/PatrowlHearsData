@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188824", "enisaUuid": "ca873f61-edc8-33de-9425-f62ebd6dc55e", "description": "Malicious code in webpay-webserviceAPI (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39038"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176324", "enisaUuid": "8264ee85-0844-376a-ab50-b83d3dff8e5a", "description": "Malicious code in soap-auth0-tailwindcss-convict (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189551"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

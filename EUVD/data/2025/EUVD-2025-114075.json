@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114075", "enisaUuid": "457733ae-f8af-33a1-b50f-12466d761424", "description": "Malicious code in enceladus-registry-middleware-nova (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142035"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

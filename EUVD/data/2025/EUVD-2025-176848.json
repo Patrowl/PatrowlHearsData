@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176848", "enisaUuid": "38a7d47c-b4df-3c34-9cf4-55230056e9b9", "description": "Malicious code in quasar-auth-spectron-thuban (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189027"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

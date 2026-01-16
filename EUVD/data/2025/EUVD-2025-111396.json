@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111396", "enisaUuid": "98c63d17-c5b4-3a50-9b5e-25e69bdd189c", "description": "Malicious code in markdownlint-algol-chai-terser-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144719"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

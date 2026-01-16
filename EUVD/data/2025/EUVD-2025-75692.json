@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75692", "enisaUuid": "f5d66e78-d8b4-3dd9-a34a-da70e71b2dd4", "description": "Malicious code in secret_sturgeon-tool (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-108489"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

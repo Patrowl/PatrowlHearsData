@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159135", "enisaUuid": "01f88d9c-9638-39a4-90e3-942d57e56159", "description": "Malicious code in apex-promise-transport-commitizen (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14634"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

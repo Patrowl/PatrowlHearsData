@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121180", "enisaUuid": "1287c21e-2630-3de8-9875-8c517cc4f89d", "description": "Malicious code in tool-passport-sqlite-triton (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148748"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

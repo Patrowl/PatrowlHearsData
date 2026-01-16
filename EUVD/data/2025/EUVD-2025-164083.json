@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164083", "enisaUuid": "2992b6a2-8ecd-3d57-bb70-a6c273506a8f", "description": "Malicious code in ember-mfp-digest-display (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19562"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

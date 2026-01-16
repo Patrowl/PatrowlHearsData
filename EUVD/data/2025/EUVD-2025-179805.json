@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179805", "enisaUuid": "86e30dd4-9ba0-3759-9377-26bdd2b83b78", "description": "Malicious code in chai-got-pino-commitizen (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186077"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

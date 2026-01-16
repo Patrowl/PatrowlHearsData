@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178237", "enisaUuid": "5a422b96-b550-3da5-afb9-396b1971d63a", "description": "Malicious code in jwt-firebase-izar-gulp (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187645"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

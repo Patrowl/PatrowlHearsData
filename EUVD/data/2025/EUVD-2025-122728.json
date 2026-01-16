@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122728", "enisaUuid": "fd4790a9-a0c7-3f77-9d39-767d95fd9cde", "description": "Malicious code in rehype-yaml-tailwindcss-levels (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147194"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

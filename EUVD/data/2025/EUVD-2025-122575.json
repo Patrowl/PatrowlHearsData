@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122575", "enisaUuid": "b4789967-3da5-381b-9690-5289a45981d4", "description": "Malicious code in rest-exec-graphql-algol (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147347"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

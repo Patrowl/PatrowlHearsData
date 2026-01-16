@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165781", "enisaUuid": "62b19d5a-f99e-375f-9363-023694bea92b", "description": "Malicious code in generator-accelerate-couchdb (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21262"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

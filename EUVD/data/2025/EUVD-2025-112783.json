@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112783", "enisaUuid": "8c6689e4-b1d9-3e69-b440-7ce3af4e839a", "description": "Malicious code in hermes-superagent-google-koa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143329"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

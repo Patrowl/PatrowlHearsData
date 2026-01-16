@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124012", "enisaUuid": "2c71f52f-b4e6-3cde-8103-ecadc11a8fa6", "description": "Malicious code in orbit-native-dotenv-oauth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145909"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

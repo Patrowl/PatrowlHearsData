@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168635", "enisaUuid": "f341ae7c-a555-37e5-af71-c980c157cb9c", "description": "Malicious code in just-function-curry (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24117"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191695", "enisaUuid": "1ee54b28-60d5-3ffe-a818-529371872982", "description": "Malicious code in @rbapp/models (npm)", "datePublished": "2025-08-28T14:55:18", "dateUpdated": "2025-09-26T11:06:44", "baseScore": 0.0, "aliases": ["MAL-2025-41929"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

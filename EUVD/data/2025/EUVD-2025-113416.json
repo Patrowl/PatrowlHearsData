@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113416", "enisaUuid": "d80c2d94-3f58-366c-a688-b6a5cdff3abb", "description": "Malicious code in framework-wolf-yaml-electron-builder (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142696"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

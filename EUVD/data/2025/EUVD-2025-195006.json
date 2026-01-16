@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195006", "enisaUuid": "5d9059a8-60cd-396a-ae63-5672aeb6eaac", "description": "Malicious code in mutation-nodemon-semantic-release-barnard (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45253"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

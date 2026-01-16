@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131567", "enisaUuid": "6f8a79bb-8eb2-3810-b961-ccc6862589a9", "description": "Malicious code in @epc-tools/jest (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7845"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

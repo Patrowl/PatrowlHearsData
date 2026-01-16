@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114017", "enisaUuid": "1e78780a-9bb5-3704-b771-b1662fbb11b0", "description": "Malicious code in epimetheus-enceladus-commitlint-antares (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142093"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

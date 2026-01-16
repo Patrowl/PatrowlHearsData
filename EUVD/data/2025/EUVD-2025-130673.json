@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130673", "enisaUuid": "46b802f3-6d05-3e6a-a9fd-c0c38aacf8af", "description": "Malicious code in pydantic-settings (npm)", "datePublished": "2025-08-14T19:13:06", "dateUpdated": "2025-08-14T19:13:06", "baseScore": 0.0, "aliases": ["MAL-2025-6951"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176317", "enisaUuid": "cf419fec-8747-3e1d-b658-553b7cebf9cf", "description": "Malicious code in soap-slidev-carpo-restart (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189558"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125582", "enisaUuid": "dffd97e0-f985-3f25-9d0f-2f339d022e7d", "description": "Malicious code in iberia-logger (npm)", "datePublished": "2025-03-03T13:28:44", "dateUpdated": "2025-03-03T13:28:44", "baseScore": 0.0, "aliases": ["MAL-2025-1840"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166300", "enisaUuid": "f7e3a1e6-8b05-3821-b16f-f7f7700a2041", "description": "Malicious code in gp-logger (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21782"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

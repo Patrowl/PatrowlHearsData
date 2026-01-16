@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162100", "enisaUuid": "f99941e0-3381-3026-88ee-a11203337bd5", "description": "Malicious code in corvus-build-blaze-mongodb (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17601"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

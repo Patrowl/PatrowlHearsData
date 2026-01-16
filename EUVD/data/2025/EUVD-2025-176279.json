@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176279", "enisaUuid": "6214c715-3f8e-3aa0-ba17-37fdee8c7e3b", "description": "Malicious code in spawn-miranda-publish-galaxy (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189596"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

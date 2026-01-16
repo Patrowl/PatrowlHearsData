@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171917", "enisaUuid": "150a470b-60c2-3c60-bc01-07cb679b54cd", "description": "Malicious code in newstat (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27388"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

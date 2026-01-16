@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115367", "enisaUuid": "534d4cdc-0d95-38e9-864a-02162545fc83", "description": "Malicious code in charon-webdriver-mocha-grunt-kinetic (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140740"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

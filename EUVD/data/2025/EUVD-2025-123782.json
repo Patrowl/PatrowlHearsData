@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123782", "enisaUuid": "c5ba0ad3-0312-3b47-b12f-74ad5bc31e02", "description": "Malicious code in phenomic-upgrade-library-loop (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146139"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165310", "enisaUuid": "c1f69128-2fdc-36a2-b600-98807b828c10", "description": "Malicious code in formik.js (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20791"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

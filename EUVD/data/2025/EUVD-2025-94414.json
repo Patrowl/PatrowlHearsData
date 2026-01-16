@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-94414", "enisaUuid": "c933ef71-7017-3503-889d-a33dd80066e7", "description": "Malicious code in used_pinniped_z3n (npm)", "datePublished": "2025-11-11T20:11:48", "dateUpdated": "2025-11-11T20:11:48", "baseScore": 0.0, "aliases": ["MAL-2025-123886"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

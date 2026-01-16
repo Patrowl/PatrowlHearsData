@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177857", "enisaUuid": "2c8a6dd9-3db3-3563-845e-8a3f30933eb9", "description": "Malicious code in meteor-hadron-hermes-lint (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188025"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

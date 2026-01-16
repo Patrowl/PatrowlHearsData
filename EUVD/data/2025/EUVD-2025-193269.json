@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193269", "enisaUuid": "080e3ad7-2007-3667-a3f1-fde79ef63c84", "description": "Malicious code in artillery-engine-spark (npm)", "datePublished": "2025-09-05T16:38:20", "dateUpdated": "2025-09-05T16:38:20", "baseScore": 0.0, "aliases": ["MAL-2025-43516"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

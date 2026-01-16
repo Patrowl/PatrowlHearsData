@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159583", "enisaUuid": "6479b0c9-1b45-33a5-b0e8-f98406166435", "description": "Malicious code in auth-apollo-geckodriver-package (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15082"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

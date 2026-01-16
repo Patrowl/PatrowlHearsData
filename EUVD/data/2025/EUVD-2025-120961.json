@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120961", "enisaUuid": "3d0b40f9-d1f3-3d8f-a427-a76944fbb8b7", "description": "Malicious code in uninstall-sadr-odin-nconf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148968"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

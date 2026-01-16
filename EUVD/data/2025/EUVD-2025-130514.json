@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130514", "enisaUuid": "016df4df-7754-3f8d-bf9c-79edcc27b2e2", "description": "Malicious code in powerbi-visuals-powerkpi (npm)", "datePublished": "2025-08-05T21:37:08", "dateUpdated": "2025-08-29T08:39:52", "baseScore": 0.0, "aliases": ["MAL-2025-6791"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

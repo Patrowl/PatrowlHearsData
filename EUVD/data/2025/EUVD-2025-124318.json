@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124318", "enisaUuid": "2ed8a401-82d0-398d-8431-b2739f8454ac", "description": "Malicious code in non-blocking-auriga-inquirer-graphql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145603"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

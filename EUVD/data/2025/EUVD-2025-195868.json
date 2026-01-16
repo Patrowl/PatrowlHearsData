@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195868", "enisaUuid": "817bc29c-162a-354f-8336-ed6cba161416", "description": "Malicious code in spark-nextjs-app (npm)", "datePublished": "2025-09-05T16:38:20", "dateUpdated": "2025-09-05T16:38:20", "baseScore": 0.0, "aliases": ["MAL-2025-46116"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

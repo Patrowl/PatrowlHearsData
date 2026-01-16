@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172610", "enisaUuid": "f4a35ba2-1d0c-3464-ab78-4146975a0b6a", "description": "Malicious code in oce-login-enabler (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28081"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

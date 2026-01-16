@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165973", "enisaUuid": "354f03ba-95a9-31ba-afdf-c40e51523c1c", "description": "Malicious code in git-lg (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21454"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

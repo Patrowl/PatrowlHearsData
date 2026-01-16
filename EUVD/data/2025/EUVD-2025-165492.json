@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165492", "enisaUuid": "e39e7ab0-ca98-3fab-b0b3-b21b82305a09", "description": "Malicious code in frontend-redis-orogeny-karma (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20973"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

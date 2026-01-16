@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124261", "enisaUuid": "433a1b7d-0892-333e-a7c0-a1a8d28d3ab7", "description": "Malicious code in nova-json-terser-vega (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145660"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

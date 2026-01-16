@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193807", "enisaUuid": "215f5ded-e2ad-3111-bd96-ccff5025dcc7", "description": "Malicious code in dotenv-parse-variables-oauth-pavo-meteor (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44054"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113003", "enisaUuid": "1dc1f938-5a6e-333d-a8d7-017bed8989c9", "description": "Malicious code in gulp-avior-dependencies-tool (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143109"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

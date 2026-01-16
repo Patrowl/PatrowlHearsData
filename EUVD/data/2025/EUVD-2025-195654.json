@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195654", "enisaUuid": "2598a1d8-8a18-34ae-b94d-1a141d4782c2", "description": "Malicious code in rollup-mesosphere-fermion-quantum (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45902"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

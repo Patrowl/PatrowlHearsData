@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179449", "enisaUuid": "1c3b96a5-8629-3369-b614-40bc18977421", "description": "Malicious code in csv-puppeteer-phoenix-event (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186433"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187839", "enisaUuid": "1ee267d2-722c-3588-b22d-19f9e497754c", "description": "Malicious code in validate-function-parse-execute-interface (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38051"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172679", "enisaUuid": "745fb6de-7f5e-3faa-a86b-a11d56b2132a", "description": "Malicious code in odin-ganymede-upgrade-semantic-release (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28150"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

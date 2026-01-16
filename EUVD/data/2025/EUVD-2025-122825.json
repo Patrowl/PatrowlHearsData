@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122825", "enisaUuid": "6a88ea0d-e0c7-37de-a6bc-4e168a13a8e0", "description": "Malicious code in redis-despina-process-aquarius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147097"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166295", "enisaUuid": "6bbeab42-3b67-3cec-b84c-10b7169c624b", "description": "Malicious code in got-webpack-selenium-sails (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21777"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

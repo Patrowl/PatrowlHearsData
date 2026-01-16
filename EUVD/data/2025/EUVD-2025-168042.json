@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168042", "enisaUuid": "2c539381-8559-32f1-94b9-2a51d5badd2b", "description": "Malicious code in j3-sha3 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23524"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

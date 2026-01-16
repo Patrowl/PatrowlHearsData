@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161776", "enisaUuid": "b6f43114-eb43-34c3-9ae0-f8902dc08525", "description": "Malicious code in cold-analyze-code-cat-process (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17277"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

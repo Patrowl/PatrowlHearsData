@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77413", "enisaUuid": "12962a14-42bc-3faa-b743-18aa971097b4", "description": "Malicious code in breakable_badger-apptea (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-100086"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

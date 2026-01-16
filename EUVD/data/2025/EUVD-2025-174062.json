@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174062", "enisaUuid": "9646e8f8-ebb9-3f96-8440-b819de05e659", "description": "Malicious code in postcss-blaze-hermes-wolf (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29533"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

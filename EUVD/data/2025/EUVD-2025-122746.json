@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122746", "enisaUuid": "48f675b5-2e6a-3dd5-8a48-c6daf40cf7eb", "description": "Malicious code in rehype-meteor-pegasus-transform (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147176"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

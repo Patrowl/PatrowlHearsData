@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183912", "enisaUuid": "00e37974-db25-381d-9ba3-09c7b0b33890", "description": "Malicious code in stylelint-polaris (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34127"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

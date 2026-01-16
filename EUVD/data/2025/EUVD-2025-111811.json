@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111811", "enisaUuid": "e6d7a40c-2f65-35a0-81d8-f5d2828392d6", "description": "Malicious code in leda-xenos-redis-spinner (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144302"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114787", "enisaUuid": "19b7eae0-ca54-376c-8d48-4eff75026109", "description": "Malicious code in css-minimizer-webpack-plugin-comet-impulse-loop (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141322"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115796", "enisaUuid": "7dfc5d59-1ddc-3dbb-b201-7cfa7bb7f3ce", "description": "Malicious code in callback-request-server-node-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140310"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

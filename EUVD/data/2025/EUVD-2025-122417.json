@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122417", "enisaUuid": "5cd4dac7-56ae-3484-9842-c453da4a4c4f", "description": "Malicious code in rollup-nova-inquirer-magellan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147505"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

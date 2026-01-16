@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112035", "enisaUuid": "5d395966-abc6-3c7c-b2ba-aad4fb9f363a", "description": "Malicious code in jwt-leda-framework-module (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144078"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176590", "enisaUuid": "cd3f04f8-784f-31c1-a878-ac624aa7f676", "description": "Malicious code in route-compile-good-private-tree (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189285"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

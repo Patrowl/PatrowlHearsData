@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123267", "enisaUuid": "0111f32e-ff7c-351f-bd87-4b295f41dadf", "description": "Malicious code in promise-ursa-testcafe-spawn (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146655"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

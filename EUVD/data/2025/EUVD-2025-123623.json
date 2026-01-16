@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123623", "enisaUuid": "91f6b214-1b62-3ab9-a33c-6872d6516359", "description": "Malicious code in pm2-grus-castor-hermes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146298"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

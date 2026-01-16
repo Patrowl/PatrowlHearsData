@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193375", "enisaUuid": "6316ae4b-86db-3d57-906b-02f4452c24d3", "description": "Malicious code in bioinformatics-quantum-apex-nextjs (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43622"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

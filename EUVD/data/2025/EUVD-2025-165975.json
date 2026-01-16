@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165975", "enisaUuid": "b9853141-2584-3e7d-a4f3-7f02fe022721", "description": "Malicious code in git-ocr (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21456"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

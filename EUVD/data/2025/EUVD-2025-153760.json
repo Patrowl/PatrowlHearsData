@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153760", "enisaUuid": "37f07714-0032-3859-ac0e-bc1dcddb0eee", "description": "Malicious code in @pricing/c2g-ui-components (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9259"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

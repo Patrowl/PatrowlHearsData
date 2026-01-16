@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123281", "enisaUuid": "5cb471d8-147d-3c57-9927-bae45163691c", "description": "Malicious code in promise-graphql-start-superagent (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146641"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

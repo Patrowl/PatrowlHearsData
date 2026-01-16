@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169240", "enisaUuid": "599f8f43-0647-3455-8e05-6475f26a0f9d", "description": "Malicious code in koa-vulcan-auth-quasarjet (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24722"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

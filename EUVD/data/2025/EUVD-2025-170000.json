@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170000", "enisaUuid": "7acd5dfd-5a2b-379b-9c47-5f13a07583e0", "description": "Malicious code in load-lambda-fire-code-emulate (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25471"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

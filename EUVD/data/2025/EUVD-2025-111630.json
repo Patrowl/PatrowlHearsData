@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111630", "enisaUuid": "7512d102-b9a8-31bf-ad1a-5d6a2b19c61c", "description": "Malicious code in local-css-loader-ursa-venus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144485"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

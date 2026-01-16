@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175851", "enisaUuid": "0f377086-e918-3ceb-816f-7f57f4a022a2", "description": "Malicious code in uglify-js-gatsby-mocha-titan (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190024"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

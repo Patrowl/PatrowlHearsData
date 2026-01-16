@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-201486", "enisaUuid": "0e1a676d-29ff-3003-9ece-b1230495e21d", "description": "Malicious code in elf-stats-cranberry-pinecone-878 (npm)", "datePublished": "2025-12-05T21:10:10", "dateUpdated": "2025-12-23T19:09:02", "baseScore": 0.0, "aliases": ["MAL-2025-192330"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

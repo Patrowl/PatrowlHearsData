@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-95981", "enisaUuid": "bced1527-3dd0-37fd-880e-f445ecf4d3cf", "description": "Malicious code in okta-kue4-breki (npm)", "datePublished": "2025-11-11T20:11:48", "dateUpdated": "2025-11-11T20:11:48", "baseScore": 0.0, "aliases": ["MAL-2025-122319"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

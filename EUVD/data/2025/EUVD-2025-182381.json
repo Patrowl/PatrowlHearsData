@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182381", "enisaUuid": "7a13c797-c4c6-3ca8-bd1f-215214a97f74", "description": "Malicious code in s4-node-test-backend (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32596"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

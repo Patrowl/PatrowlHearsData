@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197458", "enisaUuid": "193bdfff-999e-31a0-9d1d-ac82cc3a314c", "description": "Malicious code in minter-typescript (npm)", "datePublished": "2025-10-26T19:03:27", "dateUpdated": "2025-10-26T19:03:27", "baseScore": 0.0, "aliases": ["MAL-2025-48741"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

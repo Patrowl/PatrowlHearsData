@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112374", "enisaUuid": "7b2fdea2-fcea-3e39-9858-0a160bbb1ccd", "description": "Malicious code in iota-publish-farout-terser-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143739"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-190745", "enisaUuid": "fa98612d-27a7-3fb3-acee-593282c936d3", "description": "Malicious code in zfsdump (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-40967"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

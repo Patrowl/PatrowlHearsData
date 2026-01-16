@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180455", "enisaUuid": "ebd633eb-b410-3d3b-9ebf-4410edb02232", "description": "Malicious code in alpha-integer-pi-assert-export (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185433"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

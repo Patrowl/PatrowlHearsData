@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122944", "enisaUuid": "932dbd64-3856-30ca-87bc-f4bbc21aaaeb", "description": "Malicious code in query-sirius-materialize-morgan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146978"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

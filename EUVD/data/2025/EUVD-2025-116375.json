@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116375", "enisaUuid": "1bcf0a22-fbd3-31eb-bbbf-12b928561928", "description": "Malicious code in auth-nightwatch-grunt-forever (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139727"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

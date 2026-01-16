@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124265", "enisaUuid": "4e73ba15-03d9-3613-877e-ac62e1c6b027", "description": "Malicious code in nova-css-minimizer-webpack-plugin-prettier-meteor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145656"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

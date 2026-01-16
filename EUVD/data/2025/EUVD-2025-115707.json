@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115707", "enisaUuid": "090cd8ad-f8ae-3ce2-93e0-3b40f80431b9", "description": "Malicious code in capella-webpack-octans-postgres (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140399"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

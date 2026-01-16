@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121332", "enisaUuid": "50a706f4-5a71-38c7-bd2b-191735c3bf53", "description": "Malicious code in testcafe-hyperion-envconfig-tool (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148596"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

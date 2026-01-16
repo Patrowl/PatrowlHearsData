@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111571", "enisaUuid": "52750b4a-81df-330a-baf8-89436dba0bfc", "description": "Malicious code in loopback-changelog-nova-deimos (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144544"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

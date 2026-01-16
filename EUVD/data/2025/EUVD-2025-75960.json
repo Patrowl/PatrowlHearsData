@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75960", "enisaUuid": "82a5d0b0-5bc6-36b1-b519-e2dabe8ec3dd", "description": "Malicious code in primitive_tarsier-appteadev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-107270"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

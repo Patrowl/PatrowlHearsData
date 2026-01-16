@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180232", "enisaUuid": "db6ad9bc-5b41-35ed-9dc8-0c8b8e3b7242", "description": "Malicious code in aurora-sync-buffer-canopus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185656"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

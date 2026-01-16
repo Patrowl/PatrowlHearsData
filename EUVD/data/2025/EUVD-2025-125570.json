@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125570", "enisaUuid": "80aebc88-52de-3556-8bd2-fb55d71646d3", "description": "Malicious code in google-sync (npm)", "datePublished": "2025-03-03T13:27:39", "dateUpdated": "2025-03-03T13:27:39", "baseScore": 0.0, "aliases": ["MAL-2025-1828"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

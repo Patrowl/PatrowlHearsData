@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181823", "enisaUuid": "ec46ac7c-a89b-3cf7-8850-e9a30cffab15", "description": "Malicious code in reject-book-execute-bash-code (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32038"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

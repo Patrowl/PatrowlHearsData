@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111420", "enisaUuid": "ca95b9aa-593c-3088-a18b-dc695ad02f66", "description": "Malicious code in markdown-pdf-mocha-lynx-nightwatch (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144695"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

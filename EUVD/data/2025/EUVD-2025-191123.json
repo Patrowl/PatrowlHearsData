@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191123", "enisaUuid": "18a7e432-f5de-3b96-b982-915de33319a5", "description": "Malicious code in prettier-v2 (npm)", "datePublished": "2025-08-23T17:49:59", "dateUpdated": "2025-08-23T17:49:59", "baseScore": 0.0, "aliases": ["MAL-2025-41345"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

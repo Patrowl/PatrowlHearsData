@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177788", "enisaUuid": "681190dd-0166-319d-9c75-14bf39de42c3", "description": "Malicious code in mock-string-simple-final-data (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188094"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}
