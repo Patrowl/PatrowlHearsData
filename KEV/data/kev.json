@@ -1,9 +1,84 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2025.12.22",
-    "dateReleased": "2025-12-22T18:30:33.167Z",
-    "count": 1483,
+    "catalogVersion": "2026.01.13",
+    "dateReleased": "2026-01-13T21:11:22.3769Z",
+    "count": 1488,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2026-20805",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Information Disclosure Vulnerability",
+            "dateAdded": "2026-01-13",
+            "shortDescription": "Microsoft Windows Desktop Windows Manager contains an information disclosure vulnerability that allows an authorized attacker to disclose information locally.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2026-02-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2026-20805 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-20805",
+            "cwes": [
+                "CWE-200"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-8110",
+            "vendorProject": "Gogs",
+            "product": "Gogs",
+            "vulnerabilityName": "Gogs Path Traversal Vulnerability",
+            "dateAdded": "2026-01-12",
+            "shortDescription": "Gogs contains a path traversal vulnerability affecting improper Symbolic link handling in the PutContents API that could allow for code execution.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2026-02-02",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/github.com\/gogs\/gogs\/commit\/553707f3fd5f68f47f531cfcff56aa3ec294c6f6 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-8110",
+            "cwes": [
+                "CWE-22"
+            ]
+        },
+        {
+            "cveID": "CVE-2009-0556",
+            "vendorProject": "Microsoft",
+            "product": "Office",
+            "vulnerabilityName": "Microsoft Office PowerPoint Code Injection Vulnerability",
+            "dateAdded": "2026-01-07",
+            "shortDescription": "Microsoft Office PowerPoint contains a code injection vulnerability that allows remote attackers to execute arbitrary code via a PowerPoint file with an OutlineTextRefAtom containing an invalid index value that triggers memory corruption.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2026-01-28",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/learn.microsoft.com\/en-us\/security-updates\/securitybulletins\/2009\/ms09-017 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2009-0556",
+            "cwes": [
+                "CWE-94"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-37164",
+            "vendorProject": "Hewlett Packard Enterprise (HPE)",
+            "product": "OneView",
+            "vulnerabilityName": "Hewlett Packard Enterprise (HPE) OneView Code Injection Vulnerability",
+            "dateAdded": "2026-01-07",
+            "shortDescription": "Hewlett Packard Enterprise (HPE) OneView contains a code injection vulnerability that allows a remote unauthenticated user to perform remote code execution.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2026-01-28",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/support.hpe.com\/hpesc\/public\/docDisplay?docId=hpesbgn04985en_us&docLocale=en_US ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-37164",
+            "cwes": [
+                "CWE-94"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-14847",
+            "vendorProject": "MongoDB",
+            "product": "MongoDB and MongoDB Server",
+            "vulnerabilityName": "MongoDB and MongoDB Server Improper Handling of Length Parameter Inconsistency Vulnerability",
+            "dateAdded": "2025-12-29",
+            "shortDescription": "MongoDB Server contains an improper handling of length parameter inconsistency vulnerability in Zlib compressed protocol headers. This vulnerability may allow a read of uninitialized heap memory by an unauthenticated client.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2026-01-19",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "This vulnerability could affect an open-source component, third-party library, protocol, or proprietary implementation that could be used by different products. For more information, please see: https:\/\/jira.mongodb.org\/browse\/SERVER-115508 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-14847",
+            "cwes": [
+                "CWE-130"
+            ]
+        },
         {
             "cveID": "CVE-2023-52163",
             "vendorProject": "Digiever",
