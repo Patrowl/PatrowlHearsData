@@ -1,8 +1,8 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2026.01.26",
-    "dateReleased": "2026-01-26T19:53:47.7289Z",
-    "count": 1498,
+    "dateReleased": "2026-01-26T20:47:09.659Z",
+    "count": 1499,
     "vulnerabilities": [
         {
             "cveID": "CVE-2018-14634",
@@ -62,6 +62,21 @@
             "notes": "This vulnerability could affect an open-source component, third-party library, protocol, or proprietary implementation that could be used by different products. For more information, please see: https:\/\/cgit.git.savannah.gnu.org\/cgit\/inetutils.git ; https:\/\/codeberg.org\/inetutils\/inetutils\/commit\/ccba9f748aa8d50a38d7748e2e60362edd6a32cc; https:\/\/codeberg.org\/inetutils\/inetutils\/commit\/fd702c02497b2f398e739e3119bed0b23dd7aa7b ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-24061",
             "cwes": [
                 "CWE-88"
+            ]
+        },
+        {
+            "cveID": "CVE-2026-21509",
+            "vendorProject": "Microsoft",
+            "product": "Office",
+            "vulnerabilityName": "Microsoft Office Security Feature Bypass Vulnerability",
+            "dateAdded": "2026-01-26",
+            "shortDescription": "Microsoft Office contains a security feature bypass vulnerability in which reliance on untrusted inputs in a security decision in Microsoft Office could allow an unauthorized attacker to bypass a security feature locally.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2026-02-16",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "Please adhere to Microsoft\u2019s recommended guidelines to address this vulnerability. Implement all final mitigations provided by the vendor for Office 2021, and apply the interim corresponding mitigations for Office 2016 and Office 2019 until the final patch becomes available. For more information please see: https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2026-21509 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-21509",
+            "cwes": [
+                "CWE-807"
             ]
         },
         {
