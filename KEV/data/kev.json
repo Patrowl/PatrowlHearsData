@@ -1,9 +1,99 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2026.02.06",
-    "dateReleased": "2026-02-06T13:29:56.5485Z",
-    "count": 1507,
+    "catalogVersion": "2026.02.10",
+    "dateReleased": "2026-02-10T19:37:12.3899Z",
+    "count": 1513,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2026-21513",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft MSHTML Framework Protection Mechanism Failure Vulnerability",
+            "dateAdded": "2026-02-10",
+            "shortDescription": "Microsoft MSHTML Framework contains a protection mechanism failure vulnerability that could allow an unauthorized attacker to bypass a security feature over a network.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2026-03-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/portal.msrc.microsoft.com\/en-US\/security-guidance\/advisory\/CVE-2026-21513 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-21513",
+            "cwes": [
+                "CWE-693"
+            ]
+        },
+        {
+            "cveID": "CVE-2026-21525",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows NULL Pointer Dereference Vulnerability",
+            "dateAdded": "2026-02-10",
+            "shortDescription": "Microsoft Windows Remote Access Connection Manager contains a NULL pointer dereference that could allow an unauthorized attacker to deny service locally.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2026-03-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2026-21525 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-21525",
+            "cwes": [
+                "CWE-476"
+            ]
+        },
+        {
+            "cveID": "CVE-2026-21510",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Shell Protection Mechanism Failure Vulnerability",
+            "dateAdded": "2026-02-10",
+            "shortDescription": "Microsoft Windows Shell contains a protection mechanism failure vulnerability that could allow an unauthorized attacker to bypass a security feature over a network. ",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2026-03-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2026-21510 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-21510 ",
+            "cwes": [
+                "CWE-693"
+            ]
+        },
+        {
+            "cveID": "CVE-2026-21533",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Improper Privilege Management Vulnerability",
+            "dateAdded": "2026-02-10",
+            "shortDescription": "Microsoft Windows Remote Desktop Services contains an improper privilege management vulnerability that could allow an authorized attacker to elevate privileges locally.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2026-03-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2026-21533 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-21533",
+            "cwes": [
+                "CWE-269"
+            ]
+        },
+        {
+            "cveID": "CVE-2026-21519",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Type Confusion Vulnerability",
+            "dateAdded": "2026-02-10",
+            "shortDescription": "Microsoft Desktop Windows Manager contains a type confusion vulnerability that could allow an authorized attacker to elevate privileges locally.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2026-03-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2026-21519 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-21519",
+            "cwes": [
+                "CWE-843"
+            ]
+        },
+        {
+            "cveID": "CVE-2026-21514",
+            "vendorProject": "Microsoft",
+            "product": "Office",
+            "vulnerabilityName": "Microsoft Office Word Reliance on Untrusted Inputs in a Security Decision Vulnerability",
+            "dateAdded": "2026-02-10",
+            "shortDescription": "Microsoft Office Word contains a reliance on untrusted inputs in a security decision vulnerability that could allow an authorized attacker to elevate privileges locally.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2026-03-03",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2026-21514 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-21514",
+            "cwes": [
+                "CWE-807"
+            ]
+        },
         {
             "cveID": "CVE-2025-11953",
             "vendorProject": "React Native Community",
