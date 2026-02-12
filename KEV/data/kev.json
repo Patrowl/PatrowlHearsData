@@ -1,9 +1,54 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2026.02.11",
-    "dateReleased": "2026-02-11T15:13:05.1967Z",
-    "count": 1513,
+    "catalogVersion": "2026.02.12",
+    "dateReleased": "2026-02-12T18:01:14.1716Z",
+    "count": 1516,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2026-20700",
+            "vendorProject": "Apple",
+            "product": "Multiple Products",
+            "vulnerabilityName": "Apple Multiple Buffer Overflow Vulnerability",
+            "dateAdded": "2026-02-12",
+            "shortDescription": "Apple iOS, macOS, tvOS, watchOS, and visionOS contain an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow an attacker with memory write the capability to execute arbitrary code.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2026-03-05",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/support.apple.com\/en-us\/126346 ; https:\/\/support.apple.com\/en-us\/126348 ; https:\/\/support.apple.com\/en-us\/126351 ; https:\/\/support.apple.com\/en-us\/126352 ; https:\/\/support.apple.com\/en-us\/126353 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-20700",
+            "cwes": [
+                "CWE-119"
+            ]
+        },
+        {
+            "cveID": "CVE-2024-43468",
+            "vendorProject": "Microsoft",
+            "product": "Configuration Manager",
+            "vulnerabilityName": "Microsoft Configuration Manager SQL Injection Vulnerability",
+            "dateAdded": "2026-02-12",
+            "shortDescription": "Microsoft Configuration Manager contains an SQL injection vulnerability. An unauthenticated attacker could exploit this vulnerability by sending specially crafted requests to the target environment which are processed in an unsafe manner enabling the attacker to execute commands on the server and\/or underlying database.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2026-03-05",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2024-43468 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2024-43468",
+            "cwes": [
+                "CWE-89"
+            ]
+        },
+        {
+            "cveID": "CVE-2025-15556",
+            "vendorProject": "Notepad++",
+            "product": "Notepad++",
+            "vulnerabilityName": "Notepad++ Download of Code Without Integrity Check Vulnerability",
+            "dateAdded": "2026-02-12",
+            "shortDescription": "Notepad++ when using the WinGUp updater, contains a download of code without integrity check vulnerability that could allow an attacker to intercept or redirect update traffic to download and execute an attacker-controlled installer. This could lead to arbitrary code execution with the privileges of the user.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2026-03-05",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/notepad-plus-plus.org\/news\/clarification-security-incident\/ ; https:\/\/community.notepad-plus-plus.org\/topic\/27298\/notepad-v8-8-9-vulnerability-fix ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-15556",
+            "cwes": [
+                "CWE-494"
+            ]
+        },
         {
             "cveID": "CVE-2026-21513",
             "vendorProject": "Microsoft",
