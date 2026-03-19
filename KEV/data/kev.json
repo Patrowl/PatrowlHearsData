@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2026.03.18",
-    "dateReleased": "2026-03-18T19:24:20.2811Z",
+    "catalogVersion": "2026.03.19",
+    "dateReleased": "2026-03-19T13:06:37.0655Z",
     "count": 1545,
     "vulnerabilities": [
         {
@@ -696,7 +696,7 @@
         {
             "cveID": "CVE-2018-14634",
             "vendorProject": "Linux",
-            "product": "Kernal",
+            "product": "Kernel",
             "vulnerabilityName": "Linux Kernel Integer Overflow Vulnerability",
             "dateAdded": "2026-01-26",
             "shortDescription": "Linux Kernel contains an integer overflow vulnerability in the create_elf_tables() function which could allow an unprivileged local user with access to SUID (or otherwise privileged) binary to escalate their privileges on the system.",
