@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2026.03.27",
-    "dateReleased": "2026-03-27T19:29:44.5852Z",
+    "dateReleased": "2026-03-27T22:10:24.4772Z",
     "count": 1554,
     "vulnerabilities": [
         {
@@ -10,7 +10,7 @@
             "product": "BIG-IP",
             "vulnerabilityName": "F5 BIG-IP Unspecified Vulnerability",
             "dateAdded": "2026-03-27",
-            "shortDescription": "F5 BIG-IP AMP contains an unspecified vulnerability that could allow a threat actor to achieve remote code execution.",
+            "shortDescription": "F5 BIG-IP APM contains an unspecified vulnerability that could allow a threat actor to achieve remote code execution.",
             "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2026-03-30",
             "knownRansomwareCampaignUse": "Unknown",
