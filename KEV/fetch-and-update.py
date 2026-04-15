@@ -56,7 +56,7 @@ if not os.path.exists(BASEDIR + "/data/"):
     os.makedirs(BASEDIR + "/data/")
 
 print("[+] Downloading and storing latest KEV data")
-r_file = requests.get(KEV_URL)
+r_file = requests.get(KEV_URL, timeout=30)
 KEV_FILE = f"{BASEDIR}/data/{KEV_FILENAME}"
 if r_file.ok:
     with open(f"{KEV_FILE}.new", "wb") as f:

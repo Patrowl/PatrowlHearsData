@@ -22,7 +22,7 @@ if not os.path.exists(BASEDIR+'/data/'):
 
 try:
     print("[+] Download latest VIA references")
-    r = requests.get('https://www.cve-search.org/feeds/via4.json', stream=True)
+    r = requests.get('https://www.cve-search.org/feeds/via4.json', stream=True, timeout=30)
     with open(BASEDIR+"/data/via-latest.json", 'wb') as f:
         pbar = tqdm(unit="B", unit_scale=True, total=int(r.headers['Content-Length']), desc="Download VIA.json")
         for chunk in r.iter_content(chunk_size=1024):

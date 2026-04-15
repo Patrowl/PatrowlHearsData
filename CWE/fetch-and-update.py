@@ -11,7 +11,7 @@ BASEDIR = os.path.dirname(os.path.realpath(__file__))
 if not os.path.exists(BASEDIR+'/data/'):
     os.makedirs(BASEDIR+'/data/')
 
-r = requests.get('https://cwe.mitre.org/data/xml/cwec_latest.xml.zip')
+r = requests.get('https://cwe.mitre.org/data/xml/cwec_latest.xml.zip', timeout=30)
 z = zipfile.ZipFile(io.BytesIO(r.content))
 xmlfile = z.open(z.namelist()[0])
 root = ET.fromstring(xmlfile.read())

@@ -217,7 +217,7 @@ patrowl_vendors = get_monitored_technologies(NUCLEI_VENDORS_FILE)
 print("[+] Downloading CVE dictionaries by year from NVD v2")
 for year in range(2002, datetime.now().year + 1):
     filename = f"nvdcve-2.0-{year}.json.zip"
-    r_file = requests.get(f"https://nvd.nist.gov/feeds/json/cve/2.0/{filename}", stream=True)
+    r_file = requests.get(f"https://nvd.nist.gov/feeds/json/cve/2.0/{filename}", stream=True, timeout=30)
 
     with open(BASEDIR+"/tmp-nvd/" + filename, 'wb') as f:
         pbar = tqdm(unit="B", unit_scale=True, total=int(r_file.headers['Content-Length']), desc=filename)
@@ -282,4 +282,4 @@ for year in range(START_YEAR, datetime.now().year + 1):
     # break
 
 
-    
+   
