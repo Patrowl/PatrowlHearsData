@@ -37,7 +37,7 @@ if not os.path.exists(BASEDIR+'/data/'):
     os.makedirs(BASEDIR+'/data/')
 
 print("[+] Downloading latest EPSS data")
-r_file = requests.get(f"https://epss.cyentia.com/{EPSS_FILENAME}", stream=True)
+r_file = requests.get(f"https://epss.cyentia.com/{EPSS_FILENAME}", stream=True, timeout=30)
 with open(f"{BASEDIR}/data/{EPSS_FILENAME}", 'wb') as f:
     pbar = tqdm(unit="B", unit_scale=True, total=int(r_file.headers['Content-Length']), desc=EPSS_FILENAME)
     for chunk in r_file.iter_content(chunk_size=1024):
