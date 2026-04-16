@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2026.04.14",
-    "dateReleased": "2026-04-14T17:02:49.9122Z",
+    "catalogVersion": "2026.04.16",
+    "dateReleased": "2026-04-16T13:06:56.6232Z",
     "count": 1568,
     "vulnerabilities": [
         {
@@ -113,7 +113,7 @@
             "cveID": "CVE-2026-21643",
             "vendorProject": "Fortinet",
             "product": "FortiClient EMS",
-            "vulnerabilityName": "Fortinet SQL Injection Vulnerability",
+            "vulnerabilityName": "Fortinet FortiClient EMS SQL Injection Vulnerability",
             "dateAdded": "2026-04-13",
             "shortDescription": "Fortinet FortiClient EMS contains a SQL injection vulnerability that may allow an unauthenticated attacker to execute unauthorized code or commands via specifically crafted HTTP requests.",
             "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
