@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2026.05.08",
-    "dateReleased": "2026-05-08T17:31:07.6877Z",
+    "catalogVersion": "2026.05.13",
+    "dateReleased": "2026-05-13T17:58:37.3518Z",
     "count": 1590,
     "vulnerabilities": [
         {
@@ -10,7 +10,7 @@
             "product": "LiteLLM",
             "vulnerabilityName": "BerriAI LiteLLM SQL Injection Vulnerability",
             "dateAdded": "2026-05-08",
-            "shortDescription": "BerriAI LiteLLM contains a SQL injection vulnerability that allows an attacker to read data from the proxy's database and potentially modify it, leading to unauthorised access to the proxy and the credentials it manages.",
+            "shortDescription": "BerriAI LiteLLM contains a SQL injection vulnerability that allows an attacker to read data from the proxy's database and potentially modify it, leading to unauthorized access to the proxy and the credentials it manages.",
             "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2026-05-11",
             "knownRansomwareCampaignUse": "Unknown",
@@ -41,7 +41,7 @@
             "vulnerabilityName": "Palo Alto Networks PAN-OS Out-of-bounds Write Vulnerability",
             "dateAdded": "2026-05-06",
             "shortDescription": "Palo Alto Networks PAN-OS contains an out-of-bounds write vulnerability in the User-ID Authentication Portal (aka Captive Portal) service that can allow an unauthenticated attacker to execute arbitrary code with root privileges on the PA-Series and VM-Series firewalls by sending specially crafted packets.",
-            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.    Until the vendor releases an official fix, the following workaround should be implemented:  - Restrict User-ID Authentication Portal access to only trusted zones.  - Disable User-ID Authentication Portal if not required.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Until the vendor releases an official fix, the following workaround should be implemented:  - Restrict User-ID Authentication Portal access to only trusted zones.  - Disable User-ID Authentication Portal if not required. 5\/13\/2026: Palo Alto has released a variety of patches. If these are relevant to your environment, please apply the designated patch.",
             "dueDate": "2026-05-09",
             "knownRansomwareCampaignUse": "Unknown",
             "notes": "https:\/\/security.paloaltonetworks.com\/CVE-2026-0300 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-0300",
