@@ -1,42 +1,107 @@
-![](https://github.com/Patrowl/PatrowlDocs/blob/master/images/logos/logo-patrowl-light.png)
+# PatrowlHearsData
 
-[![Join the chat at https://gitter.im/Patrowl/Support](https://badges.gitter.im/Patrowl/Support.png)](https://gitter.im/Patrowl/Support)
+[![Stars](https://img.shields.io/github/stars/Patrowl/PatrowlHearsData?style=flat-square)](https://github.com/Patrowl/PatrowlHearsData/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/Patrowl/PatrowlHearsData?style=flat-square)](https://github.com/Patrowl/PatrowlHearsData/commits/main)
+[![License](https://img.shields.io/github/license/Patrowl/PatrowlHearsData?style=flat-square)](./LICENSE)
 
+Open-source vulnerability intelligence data and collection scripts for CVE, CPE, CWE, EPSS, KEV, exploit, and threat feeds.
 
-# **PatrowlHearsData**
-[PatrowlHears](https://www.patrowlhears.io/) provides scalable, free and open-source solutions for orchestrating Security Operations and providing Threat Intelligence feeds. **PatrowlHears** is an advanced and real-time Vulnerability Intelligence platform, including CVE, exploits and threats news.
-**PatrowlHearsData** is the public repository of raw data and scrapping scripts that collect CVE, CPE, CWE and exploit references (cf. CVE-SEARCH project).
+## Table of Contents
+- [Overview](#overview)
+- [What is included](#what-is-included)
+- [Repository layout](#repository-layout)
+- [Quick start](#quick-start)
+- [How updates work](#how-updates-work)
+- [Use cases](#use-cases)
+- [Security](#security)
+- [Contributing](#contributing)
+- [Support](#support)
+- [License](#license)
 
-# Try it now!
-To try PatrowlHearsData, install it with the `install.sh` script.
+## Overview
+[PatrowlHears](https://www.patrowlhears.io/) is a real-time vulnerability intelligence platform focused on CVE, exploit, and threat monitoring.
 
-# License
-PatrowlHearsData is an open source and free software released under the [Apache 2.0](https://github.com/Patrowl/PatrowlHearsData/blob/master/LICENSE). We are committed to ensure that PatrowlHears and PatrowlHearsData will remain a free and open source project on the long-run.
+This repository contains the public raw datasets and scraping scripts that feed the platform. It is useful if you want to:
+- mirror public vulnerability intelligence sources,
+- inspect how feeds are collected and updated,
+- build your own enrichment pipeline on top of structured security data.
 
-# Updates
-Information, news and updates are regularly posted on [Patrowl.io Twitter account](https://twitter.com/patrowl_io).
+## What is included
+- **CVE** data and supporting metadata
+- **CPE** and **CWE** reference data
+- **EPSS** and **KEV** datasets
+- **VIA** and exploit-related collection sources
+- update scripts such as `fetch-updates.sh`
 
-# Contributing
-Please see our [Code of conduct](https://github.com/Patrowl/PatrowlDocs/blob/master/support/code_of_conduct.md). We welcome your contributions. Please feel free to fork the code, play with it, make some patches and send us pull requests via [issues](https://github.com/Patrowl/PatrowlHearsData/issues).
+## Repository layout
+```text
+CPE/             Product enumeration data
+CVE/             Vulnerability records and related data
+CWE/             Weakness taxonomy data
+EPSS/            Exploit Prediction Scoring System data
+KEV/             Known Exploited Vulnerabilities data
+VIA/             Additional intelligence sources
+fetch-updates.sh Update workflow entrypoint
+install.sh       Local setup helper
+requirements.txt Python dependencies
+```
 
-# Support
-Please [open an issue on GitHub](https://github.com/Patrowl/PatrowlHearsData/issues) if you'd like to report a bug or request a feature. We are also available on [Gitter](https://gitter.im/PatrowlHears/Support) to help you out.
+## Quick start
+### Prerequisites
+- Python 3
+- pip / virtualenv
+- Git
 
-If you need to contact the project team, send an email to <getsupport@patrowl.io>.
+### Installation
+Use the provided installer:
 
-# Pro Edition available in SaaS and on-premise
-A commercial Pro Edition is available and officially supported by the PatrOwl company. It includes following extra and awesome engines:
-- [x] PatrOwl CSIRT feeds, managed by qualified Cyber-Threat Intelligence analysts
-- [x] Official Pro Support
+```bash
+chmod +x install.sh
+./install.sh
+```
 
-**PatrowlHears** is available on the official PatrOwl SaaS platform or on-premise.
-See: https://patrowlhears.io
+Or install manually:
 
-# Commercial Services
-Looking for advanced support, training, integration, custom developments, dual-licensing ? Contact us at getsupport@patrowl.io
+```bash
+python3 -m venv env
+source env/bin/activate
+pip install -r requirements.txt
+```
 
-# Security contact
-Please disclose any security-related issues or vulnerabilities by emailing security@patrowl.io, instead of using the public issue tracker.
+### Usage
+Fetch or refresh the public datasets:
 
-# Copyright
-Copyright (C) 2020-2023 Nicolas MATTIOCCO ([@MaKyOtOx](https://twitter.com/MaKyOtOx) - nicolas@patrowl.io)
+```bash
+./fetch-updates.sh
+```
+
+After the update completes, inspect the dataset folders directly or wire them into your own analysis pipeline.
+
+## How updates work
+The repository is organized around source-specific datasets plus scripts that refresh those datasets from public intelligence feeds. This makes it easy to automate scheduled sync jobs or selectively consume only the data families you need.
+
+## Use cases
+- vulnerability intelligence enrichment
+- internal security dashboards
+- exploit and threat feed aggregation
+- research workflows around CVE/CPE/CWE relationships
+
+## Security
+If you need to report a vulnerability in the project itself, please follow [SECURITY.md](./SECURITY.md).
+
+## Contributing
+Contributions are welcome. A good starting point is to:
+1. open an issue describing the improvement or data-source problem,
+2. test your changes on a local clone,
+3. submit a pull request with context about the affected feed or script.
+
+Project-wide community expectations are documented in the [Patrowl code of conduct](https://github.com/Patrowl/PatrowlDocs/blob/master/support/code_of_conduct.md).
+
+## Support
+- Issues: https://github.com/Patrowl/PatrowlHearsData/issues
+- Gitter: https://gitter.im/PatrowlHears/Support
+- Email: getsupport@patrowl.io
+- Product site: https://patrowlhears.io
+
+## License
+Released under the [Apache 2.0 License](./LICENSE).
