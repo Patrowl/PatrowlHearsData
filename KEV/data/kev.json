@@ -1,9 +1,24 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2026.05.28",
-    "dateReleased": "2026-05-28T16:27:12.9227Z",
-    "count": 1606,
+    "catalogVersion": "2026.05.29",
+    "dateReleased": "2026-05-29T19:00:06.3429Z",
+    "count": 1607,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2026-0257",
+            "vendorProject": "Palo Alto Networks",
+            "product": "PAN-OS",
+            "vulnerabilityName": "Palo Alto Networks PAN-OS Authentication Bypass Vulnerability",
+            "dateAdded": "2026-05-29",
+            "shortDescription": "Palo Alto Networks PAN-OS contains an authentication bypass vulnerability that allows attackers to bypass security restrictions and establish an unauthorized VPN connection.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2026-06-01",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/security.paloaltonetworks.com\/CVE-2026-0257 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-0257",
+            "cwes": [
+                "CWE-565"
+            ]
+        },
         {
             "cveID": "CVE-2026-48027",
             "vendorProject": "Nx",
