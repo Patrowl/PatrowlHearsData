@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2026.06.08",
-    "dateReleased": "2026-06-08T19:00:18.3481Z",
+    "catalogVersion": "2026.06.09",
+    "dateReleased": "2026-06-09T15:22:35.6996Z",
     "count": 1614,
     "vulnerabilities": [
         {
@@ -29,7 +29,7 @@
             "shortDescription": "Check Point Security Gateway contains an improper authentication vulnerability in IKEv1 key exchange that could allow an unauthenticated remote attacker to bypass user authentication and establish a remote access VPN connection without a valid user password.",
             "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2026-06-11",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/blog.checkpoint.com\/security\/check-point-releases-important-hotfix-for-vulnerabilities-in-deprecated-ikev1-vpn-protocol\/ ; https:\/\/support.checkpoint.com\/results\/sk\/sk185033?_gl=1*1wqeqhc*_gcl_au*MTI1MzE5MjI2LjE3ODA5MzQ1NTM. ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-50751",
             "cwes": [
                 "CWE-287"
