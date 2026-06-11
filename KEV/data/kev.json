@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2026.06.11",
-    "dateReleased": "2026-06-11T18:31:27.874Z",
+    "dateReleased": "2026-06-11T19:02:08.0715Z",
     "count": 1618,
     "vulnerabilities": [
         {
@@ -10,7 +10,7 @@
             "product": "Sentry",
             "vulnerabilityName": "Ivanti Sentry OS Command Injection Vulnerability",
             "dateAdded": "2026-06-11",
-            "shortDescription": "Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution.",
+            "shortDescription": "Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors.",
             "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
             "dueDate": "2026-06-14",
             "knownRansomwareCampaignUse": "Unknown",
