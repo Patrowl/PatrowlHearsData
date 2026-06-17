@@ -1,9 +1,161 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2026.06.05",
-    "dateReleased": "2026-06-05T17:00:14.652Z",
-    "count": 1612,
+    "catalogVersion": "2026.06.16",
+    "dateReleased": "2026-06-16T19:21:58.433Z",
+    "count": 1622,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2026-48907",
+            "vendorProject": "Widget Factory",
+            "product": "Joomla Content Editor ",
+            "vulnerabilityName": "Widget Factory Joomla Content Editor Improper Access Control Vulnerability",
+            "dateAdded": "2026-06-16",
+            "shortDescription": "Widget Factory Joomla Content Editor contains an improper access control vulnerability which could allow for upload and execution of PHP code via the creation of new editor profiles for unauthenticated users. ",
+            "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+            "dueDate": "2026-06-19",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.joomlacontenteditor.net\/news\/jce-security-update-and-a-free-patch-for-older-sites ; https:\/\/www.joomlacontenteditor.net\/support\/changelog\/editor ; BOD 26-04: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-48907",
+            "cwes": [
+                "CWE-284"
+            ]
+        },
+        {
+            "cveID": "CVE-2026-54420",
+            "vendorProject": "LiteSpeed",
+            "product": "cPanel Plugin",
+            "vulnerabilityName": "LiteSpeed cPanel Plugin UNIX Symbolic Link (Symlink) Following Vulnerability",
+            "dateAdded": "2026-06-15",
+            "shortDescription": "LiteSpeed cPanel plugin contains a UNIX symbolic link (Symlink) following vulnerability that could allow a user with FTP or web shell access on a shared hosting server running CloudLinux\/CageFS.",
+            "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+            "dueDate": "2026-06-18",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/blog.litespeedtech.com\/2026\/06\/01\/security-update-for-litespeed-cpanel-plugin-2\/ ; BOD 26-04: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-54420",
+            "cwes": [
+                "CWE-61"
+            ]
+        },
+        {
+            "cveID": "CVE-2026-20262",
+            "vendorProject": "Cisco",
+            "product": "Catalyst SD-WAN Manager",
+            "vulnerabilityName": "Cisco Catalyst SD-WAN Manager Directory or Path Traversal Vulnerability",
+            "dateAdded": "2026-06-15",
+            "shortDescription": "Cisco Catalyst SD-WAN Manager contains a directory or path traversal vulnerability that could allow an authenticated, remote attacker to create a file or overwrite any file on the filesystem of an affected system.",
+            "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+            "dueDate": "2026-06-29",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/sec.cloudapps.cisco.com\/security\/center\/content\/CiscoSecurityAdvisory\/cisco-sa-sdwan-arbfw-c2rZvQ ; BOD 26-04: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-20262",
+            "cwes": [
+                "CWE-22"
+            ]
+        },
+        {
+            "cveID": "CVE-2026-35273",
+            "vendorProject": "Oracle",
+            "product": " PeopleSoft Enterprise PeopleTools",
+            "vulnerabilityName": "Oracle PeopleSoft Enterprise PeopleTools Missing Authentication for Critical Function Vulnerability",
+            "dateAdded": "2026-06-12",
+            "shortDescription": "Oracle PeopleSoft Enterprise PeopleTools contains a missing authentication for critical function vulnerability which could allow an unauthenticated attacker to obtain takeover of PeopleSoft Enterprise PeopleTools.",
+            "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+            "dueDate": "2026-06-15",
+            "knownRansomwareCampaignUse": "Known",
+            "notes": "https:\/\/www.oracle.com\/security-alerts\/alert-cve-2026-35273.html ; https:\/\/support.oracle.com\/signin\/ ; BOD 26-04: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-35273",
+            "cwes": [
+                "CWE-306"
+            ]
+        },
+        {
+            "cveID": "CVE-2026-10520",
+            "vendorProject": "Ivanti",
+            "product": "Sentry",
+            "vulnerabilityName": "Ivanti Sentry OS Command Injection Vulnerability",
+            "dateAdded": "2026-06-11",
+            "shortDescription": "Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors.",
+            "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+            "dueDate": "2026-06-14",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/hub.ivanti.com\/s\/article\/Security-Advisory-Ivanti-Sentry-CVE-2026-10520-CVE-2026-10523?language=en_US ; BOD 26-04: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-10520",
+            "cwes": [
+                "CWE-78"
+            ]
+        },
+        {
+            "cveID": "CVE-2026-11645",
+            "vendorProject": "Google",
+            "product": "Chromium V8",
+            "vulnerabilityName": "Google Chromium V8 Out-of-Bounds Read and Write Vulnerability",
+            "dateAdded": "2026-06-09",
+            "shortDescription": "Google Chromium V8 out-of-bounds read and write vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2026-06-23",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/chromereleases.googleblog.com\/2026\/06\/stable-channel-update-for-desktop_0153744567.html ; https:\/\/issues.chromium.org\/issues\/506689381 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-11645",
+            "cwes": [
+                "CWE-787",
+                "CWE-125"
+            ]
+        },
+        {
+            "cveID": "CVE-2026-7473",
+            "vendorProject": "Arista",
+            "product": "Extensible Operating System",
+            "vulnerabilityName": "Arista Extensible Operating System Incomplete Comparison with Missing Factors Vulnerability",
+            "dateAdded": "2026-06-09",
+            "shortDescription": "Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2026-06-23",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.arista.com\/en\/support\/advisories-notices\/security-advisory\/24005-security-advisory-0137 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-7473",
+            "cwes": [
+                "CWE-1023"
+            ]
+        },
+        {
+            "cveID": "CVE-2026-20245",
+            "vendorProject": "Cisco",
+            "product": "Catalyst SD-WAN Manager",
+            "vulnerabilityName": "Cisco Catalyst SD-WAN Manager Improper Encoding or Escaping of Output Vulnerability",
+            "dateAdded": "2026-06-09",
+            "shortDescription": "Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2026-06-23",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/sec.cloudapps.cisco.com\/security\/center\/content\/CiscoSecurityAdvisory\/cisco-sa-sdwan-privesc-4uxFrdzx ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-20245",
+            "cwes": [
+                "CWE-116"
+            ]
+        },
+        {
+            "cveID": "CVE-2026-42271",
+            "vendorProject": "BerriAI",
+            "product": "LiteLLM",
+            "vulnerabilityName": "BerriAI LiteLLM Command Injection Vulnerability",
+            "dateAdded": "2026-06-08",
+            "shortDescription": "BerriAI LiteLLM contains a command injection vulnerability that could allow any authenticated user, including holders of low-privilege internal-user keys, to run arbitrary commands on the host.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2026-06-22",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. Please check with specific vendors for information on patching status. For more information, please see: https:\/\/github.com\/BerriAI\/litellm\/security\/advisories\/GHSA-v4p8-mg3p-g94g ; https:\/\/github.com\/BerriAI\/litellm\/releases\/tag\/v1.83.7-stable ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-42271",
+            "cwes": [
+                "CWE-78",
+                "CWE-77"
+            ]
+        },
+        {
+            "cveID": "CVE-2026-50751",
+            "vendorProject": "Check Point",
+            "product": "Security Gateway",
+            "vulnerabilityName": "Check Point Security Gateway Improper Authentication Vulnerability",
+            "dateAdded": "2026-06-08",
+            "shortDescription": "Check Point Security Gateway contains an improper authentication vulnerability in IKEv1 key exchange that could allow an unauthenticated remote attacker to bypass user authentication and establish a remote access VPN connection without a valid user password.",
+            "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
+            "dueDate": "2026-06-11",
+            "knownRansomwareCampaignUse": "Known",
+            "notes": "https:\/\/blog.checkpoint.com\/security\/check-point-releases-important-hotfix-for-vulnerabilities-in-deprecated-ikev1-vpn-protocol\/ ; https:\/\/support.checkpoint.com\/results\/sk\/sk185033?_gl=1*1wqeqhc*_gcl_au*MTI1MzE5MjI2LjE3ODA5MzQ1NTM. ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-50751",
+            "cwes": [
+                "CWE-287"
+            ]
+        },
         {
             "cveID": "CVE-2026-28318",
             "vendorProject": "SolarWinds",
