@@ -127,8 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
 .DS_Store
+.claude/
 
 mitre/cti
 nohup.out
@@ -139,5 +139,7 @@ CVE/tmp
 CVE/tmp/*
 CVE/tmp-nvd/
 GHSA/tmp/*
+SSVC/tmp
+SSVC/tmp/*
 #**/data/*.json
 #**/data/*.json.old
