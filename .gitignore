@@ -138,5 +138,6 @@ EPSS/data/*.gz
 CVE/tmp
 CVE/tmp/*
 CVE/tmp-nvd/
+GHSA/tmp/*
 #**/data/*.json
 #**/data/*.json.old

@@ -6,3 +6,4 @@ tqdm==4.54.1
 urllib3==1.26.2
 GitPython==3.1.43
 python-dateutil
+cvss==3.6
