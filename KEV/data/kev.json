@@ -1,9 +1,40 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2026.06.23",
-    "dateReleased": "2026-06-23T17:00:37.2944Z",
-    "count": 1627,
+    "catalogVersion": "2026.06.25",
+    "dateReleased": "2026-06-25T19:03:21.8037Z",
+    "count": 1629,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2026-12569",
+            "vendorProject": "PTC",
+            "product": "Windchill and FlexPLM",
+            "vulnerabilityName": "PTC Windchill and FlexPLM Improper Input Validation Vulnerability",
+            "dateAdded": "2026-06-25",
+            "shortDescription": "PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network.",
+            "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+            "dueDate": "2026-06-28",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.ptc.com\/en\/support\/article\/CS473270 ; BOD 26-04: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-12569",
+            "cwes": [
+                "CWE-20",
+                "CWE-502"
+            ]
+        },
+        {
+            "cveID": "CVE-2026-20230",
+            "vendorProject": "Cisco",
+            "product": "Unified Communications Manager",
+            "vulnerabilityName": "Cisco Unified Communications Manager Server-Side Request Forgery (SSRF) Vulnerability",
+            "dateAdded": "2026-06-25",
+            "shortDescription": "Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root.",
+            "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+            "dueDate": "2026-06-28",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.cisco.com\/c\/en\/us\/support\/docs\/csa\/cisco-sa-cucm-ssrf-cXPnHcW.html ; BOD 26-04: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-20230",
+            "cwes": [
+                "CWE-918"
+            ]
+        },
         {
             "cveID": "CVE-2025-67038",
             "vendorProject": "Lantronix",
