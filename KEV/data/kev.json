@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2026.06.25",
-    "dateReleased": "2026-06-25T19:03:21.8037Z",
+    "catalogVersion": "2026.06.29",
+    "dateReleased": "2026-06-29T18:23:24.7879Z",
     "count": 1629,
     "vulnerabilities": [
         {
@@ -776,7 +776,7 @@
             "shortDescription": "Microsoft Defender contains an insufficient granularity of access control vulnerability that could allow an authorized attacker to escalate privileges locally.",
             "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2026-05-06",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "https:\/\/msrc.microsoft.com\/update-guide\/vulnerability\/CVE-2026-33825 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-33825",
             "cwes": [
                 "CWE-1220"
