@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2026.07.01",
-    "dateReleased": "2026-07-01T19:00:06.9016Z",
+    "catalogVersion": "2026.07.07",
+    "dateReleased": "2026-07-07T14:03:18.1605Z",
     "count": 1631,
     "vulnerabilities": [
         {
@@ -4470,7 +4470,7 @@
             "shortDescription": "Langflow contains a missing authentication vulnerability in the \/api\/v1\/validate\/code endpoint that allows a remote, unauthenticated attacker to execute arbitrary code via crafted HTTP requests.",
             "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-05-26",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "notes": "This vulnerability affects a common open-source project, third-party library, or a protocol used by different products. For more information, please see: https:\/\/github.com\/advisories\/GHSA-c995-4fw3-j39m ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-3248",
             "cwes": [
                 "CWE-306"
