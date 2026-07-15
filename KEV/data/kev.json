@@ -1,9 +1,41 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2026.07.15",
-    "dateReleased": "2026-07-15T14:53:48.946Z",
-    "count": 1642,
+    "dateReleased": "2026-07-15T16:42:14.8261Z",
+    "count": 1644,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2026-46817",
+            "vendorProject": "Oracle",
+            "product": "E-Business Suite",
+            "vulnerabilityName": "Oracle E-Business Suite Improper Privilege Management Vulnerability",
+            "dateAdded": "2026-07-15",
+            "shortDescription": "Oracle E-Business Suite contains an improper privilege management vulnerability that allows an unauthenticated attacker with network access via HTTP to compromise Oracle Payments. Successful attacks of this vulnerability can result in takeover of Oracle Payments.",
+            "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+            "dueDate": "2026-07-18",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.oracle.com\/security-alerts\/cspumay2026.html ; BOD 26-04: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-46817",
+            "cwes": [
+                "CWE-269",
+                "CWE-287",
+                "CWE-306"
+            ]
+        },
+        {
+            "cveID": "CVE-2023-4346",
+            "vendorProject": "KNX Association",
+            "product": "KNX Protocol Connection Authorization Option 1",
+            "vulnerabilityName": "KNX Association KNX Protocol Connection Authorization Option 1 Overly Restrictive Account Lockout Mechanism Vulnerability",
+            "dateAdded": "2026-07-15",
+            "shortDescription": "KNX Association KNX Protocol Connection Authorization Option 1 contains an overly restrictive account lockout mechanism vulnerability that could allow an attacker to purge all devices without additional security options enabled and set a BCU key to lock the device. ",
+            "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+            "dueDate": "2026-07-29",
+            "knownRansomwareCampaignUse": "Unknown",
+            "notes": "https:\/\/www.cisa.gov\/news-events\/ics-advisories\/icsa-23-236-01 ; BOD 26-04: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2023-4346",
+            "cwes": [
+                "CWE-645"
+            ]
+        },
         {
             "cveID": "CVE-2026-56155",
             "vendorProject": "Microsoft",
