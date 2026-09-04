@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2026.09.02",
-    "dateReleased": "2026-09-02T16:54:39.8321Z",
+    "catalogVersion": "2026.09.04",
+    "dateReleased": "2026-09-04T15:31:56.2523Z",
     "count": 1694,
     "vulnerabilities": [
         {
@@ -13846,7 +13846,7 @@
             "shortDescription": "Microsoft Windows Common Log File System (CLFS) driver contains an unspecified vulnerability that allows for privilege escalation.",
             "requiredAction": "Apply updates per vendor instructions.",
             "dueDate": "2022-10-05",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "forensicTriage": "No",
             "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2022-37969;  https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-37969",
             "cwes": [
@@ -20191,7 +20191,7 @@
             "shortDescription": "An access of resource using incompatible type vulnerability exists within Adobe Flash Player that allows an attacker to perform remote code execution.",
             "requiredAction": "The impacted product is end-of-life and should be disconnected if still in use.",
             "dueDate": "2022-03-24",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "forensicTriage": "No",
             "notes": "https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2016-4117",
             "cwes": []
