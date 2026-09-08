@@ -1,9 +1,75 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2026.09.04",
-    "dateReleased": "2026-09-04T16:47:03.5197Z",
-    "count": 1695,
+    "catalogVersion": "2026.09.08",
+    "dateReleased": "2026-09-08T18:00:21.1079Z",
+    "count": 1699,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2026-75650",
+            "vendorProject": "Adobe",
+            "product": "Commerce and Magento",
+            "vulnerabilityName": "Adobe Commerce and Magento Improper Neutralization of Special Elements Used in a Template Engine Vulnerability",
+            "dateAdded": "2026-09-08",
+            "shortDescription": "Adobe Commerce and Magento Open Source contain an improper neutralization of special elements used in a template engine vulnerability that could allow an attacker to execute arbitrary code.",
+            "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+            "dueDate": "2026-09-11",
+            "knownRansomwareCampaignUse": "Unknown",
+            "forensicTriage": "Yes",
+            "notes": "https:\/\/helpx.adobe.com\/security\/products\/magento\/apsb26-146.html ; BOD 26-04: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-75650",
+            "cwes": [
+                "CWE-1336"
+            ]
+        },
+        {
+            "cveID": "CVE-2026-81963",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Link Following Vulnerability",
+            "dateAdded": "2026-09-08",
+            "shortDescription": "Microsoft Windows Update Stack contains a link following vulnerability that allows a local attacker to escalate privileges locally up to SYSTEM.",
+            "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+            "dueDate": "2026-09-22",
+            "knownRansomwareCampaignUse": "Unknown",
+            "forensicTriage": "No",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2026-81963 ; BOD 26-04: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-81963",
+            "cwes": [
+                "CWE-59",
+                "CWE-284"
+            ]
+        },
+        {
+            "cveID": "CVE-2026-86218",
+            "vendorProject": "N-able",
+            "product": "N-central",
+            "vulnerabilityName": "N-able N-central Static Code Injection Vulnerability",
+            "dateAdded": "2026-09-08",
+            "shortDescription": "N-able N-central contains a static code injection vulnerability that could allow for pre-authentication remote code execution.",
+            "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+            "dueDate": "2026-09-11",
+            "knownRansomwareCampaignUse": "Unknown",
+            "forensicTriage": "Yes",
+            "notes": "https:\/\/status.n-able.com\/2026\/09\/06\/n-central-2026-3-hotfix-4-cve-2026-86218\/ ; https:\/\/me.n-able.com\/s\/security-advisory\/aArVy0000002Ld3KAE\/cve202686218-preauthentication-remote-code-execution ; BOD 26-04: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-86218",
+            "cwes": [
+                "CWE-96"
+            ]
+        },
+        {
+            "cveID": "CVE-2026-85880",
+            "vendorProject": "Microsoft",
+            "product": "Windows",
+            "vulnerabilityName": "Microsoft Windows Heap-Based Buffer Overflow Vulnerability",
+            "dateAdded": "2026-09-08",
+            "shortDescription": "Microsoft Windows Advanced Local Procedure Call contains a heap-based buffer overflow vulnerability that allows an attacker to elevate privileges locally.",
+            "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+            "dueDate": "2026-09-22",
+            "knownRansomwareCampaignUse": "Unknown",
+            "forensicTriage": "No",
+            "notes": "https:\/\/msrc.microsoft.com\/update-guide\/en-US\/vulnerability\/CVE-2026-85880 ; BOD 26-04: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-85880",
+            "cwes": [
+                "CWE-122",
+                "CWE-908"
+            ]
+        },
         {
             "cveID": "CVE-2026-85046",
             "vendorProject": "Google",
@@ -3423,7 +3489,7 @@
             "shortDescription": "WatchGuard Fireware OS iked process contains an out of bounds write vulnerability in the OS iked process. This vulnerability may allow a remote unauthenticated attacker to execute arbitrary code and affects both the mobile user VPN with IKEv2 and the branch office VPN using IKEv2 when configured with a dynamic gateway peer.",
             "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
             "dueDate": "2025-12-26",
-            "knownRansomwareCampaignUse": "Unknown",
+            "knownRansomwareCampaignUse": "Known",
             "forensicTriage": "No",
             "notes": "Check for signs of potential compromise on all internet accessible instances after applying mitigations. For more information please see: https:\/\/www.watchguard.com\/wgrd-psirt\/advisory\/wgsa-2025-00027 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2025-14733",
             "cwes": [
