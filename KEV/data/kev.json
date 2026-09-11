@@ -1,9 +1,58 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2026.09.11",
-    "dateReleased": "2026-09-11T15:39:54.626Z",
-    "count": 1705,
+    "dateReleased": "2026-09-11T18:00:42.7628Z",
+    "count": 1708,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2026-84869",
+            "vendorProject": "ConnectWise",
+            "product": "ScreenConnect",
+            "vulnerabilityName": "ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability",
+            "dateAdded": "2026-09-11",
+            "shortDescription": "ConnectWise ScreenConnect contains both an improper privilege management and missing authorization vulnerability that may allow an attacker to file transfer and execution through an active remote sessions without authorization or host confirmation.",
+            "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+            "dueDate": "2026-09-14",
+            "knownRansomwareCampaignUse": "Unknown",
+            "forensicTriage": "Yes",
+            "notes": "https:\/\/www.connectwise.com\/company\/trust\/security-bulletins\/2026-09-08-screenconnect-bulletin ; BOD 26-04: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-84869",
+            "cwes": [
+                "CWE-269",
+                "CWE-862"
+            ]
+        },
+        {
+            "cveID": "CVE-2026-42016",
+            "vendorProject": "JFrog",
+            "product": "Artifactory",
+            "vulnerabilityName": "JFrog Artifactory Incorrect Authorization Vulnerability",
+            "dateAdded": "2026-09-11",
+            "shortDescription": "JFrog Artifactory contains an incorrect authorization vulnerability that allows leads to privilege escalation attack due to a validation check of the token signature\/issuer and not the token\u2019s scope.",
+            "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+            "dueDate": "2026-09-25",
+            "knownRansomwareCampaignUse": "Unknown",
+            "forensicTriage": "No",
+            "notes": "https:\/\/docs.jfrog.com\/releases\/docs\/jfrog-security-advisories ; https:\/\/docs.jfrog.com\/releases\/docs\/artifactory-self-managed-releases ; BOD 26-04: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-42016",
+            "cwes": [
+                "CWE-863"
+            ]
+        },
+        {
+            "cveID": "CVE-2026-42018",
+            "vendorProject": "JFrog",
+            "product": "Artifactory",
+            "vulnerabilityName": "JFrog Artifactory Improper Authentication Vulnerability",
+            "dateAdded": "2026-09-11",
+            "shortDescription": "JFrog Artifactory contains an improper authentication vulnerability that could return an internal anonymous-user token to an unauthenticated caller when anonymous access is disabled, potentially exposing sensitive resources.",
+            "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+            "dueDate": "2026-09-25",
+            "knownRansomwareCampaignUse": "Unknown",
+            "forensicTriage": "No",
+            "notes": "https:\/\/docs.jfrog.com\/releases\/docs\/jfrog-security-advisories ; https:\/\/docs.jfrog.com\/releases\/docs\/artifactory-self-managed-releases ; BOD 26-04: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-42018",
+            "cwes": [
+                "CWE-287"
+            ]
+        },
         {
             "cveID": "CVE-2026-86060",
             "vendorProject": "MikroTik",
