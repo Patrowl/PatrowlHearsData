@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2026.10.08",
-    "dateReleased": "2026-10-08T17:20:54.304Z",
+    "dateReleased": "2026-10-08T19:15:35.2182Z",
     "count": 1739,
     "vulnerabilities": [
         {
@@ -173,9 +173,9 @@
             "dateAdded": "2026-09-29",
             "shortDescription": "Apple iOS, macOS, and iPadOS contain an out-of-bounds write vulnerability in CoreGraphics that may lead to arbitrary code execution.",
             "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-            "dueDate": "2026-10-02",
+            "dueDate": "2026-10-13",
             "knownRansomwareCampaignUse": "Unknown",
-            "forensicTriage": "Yes",
+            "forensicTriage": "No",
             "notes": "https:\/\/support.apple.com\/en-us\/149226 ; https:\/\/support.apple.com\/en-us\/149228 ; https:\/\/support.apple.com\/en-us\/149229 ; BOD 26-04: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-86950",
             "cwes": [
                 "CWE-787"
@@ -976,9 +976,9 @@
             "dateAdded": "2026-08-26",
             "shortDescription": "Linux Kernel contains an out-of-bounds memory write vulnerability which could allow a local user to gain privileged access or cause a denial of service on the system.",
             "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-            "dueDate": "2026-09-09",
+            "dueDate": "2026-08-29",
             "knownRansomwareCampaignUse": "Unknown",
-            "forensicTriage": "No",
+            "forensicTriage": "Yes",
             "notes": "This vulnerability affects an open-source component, third-party library, protocol, or proprietary implementation that could be used by different products. For more information, please see: https:\/\/git.kernel.org\/pub\/scm\/linux\/kernel\/git\/torvalds\/linux.git\/commit\/?id=93ce93587d36493f2f86921fa79921b3cba63fbb ; BOD 26-04: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2022-0995",
             "cwes": [
                 "CWE-787"
