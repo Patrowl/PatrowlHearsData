@@ -1,9 +1,25 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2026.10.08",
-    "dateReleased": "2026-10-08T20:09:18.9833Z",
-    "count": 1739,
+    "catalogVersion": "2026.10.13",
+    "dateReleased": "2026-10-13T14:34:17.9076Z",
+    "count": 1740,
     "vulnerabilities": [
+        {
+            "cveID": "CVE-2026-104935",
+            "vendorProject": "Ivanti",
+            "product": "Connect Secure",
+            "vulnerabilityName": "Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability",
+            "dateAdded": "2026-10-13",
+            "shortDescription": "Ivanti Connect Secure contains an authentication bypass by spoofing vulnerability that allows a remote unauthenticated attacker to execute arbitrary commands.",
+            "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+            "dueDate": "2026-10-16",
+            "knownRansomwareCampaignUse": "Unknown",
+            "forensicTriage": "No",
+            "notes": "https:\/forums.ivanti.com\/s\/article\/Security-Advisory-Ivanti-Connect-Secure-CVE-2026-104935 ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-104935",
+            "cwes": [
+                "CWE-290"
+            ]
+        },
         {
             "cveID": "CVE-2015-5477",
             "vendorProject": "ISC",
@@ -1779,7 +1795,7 @@
             "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
             "dueDate": "2026-06-28",
             "knownRansomwareCampaignUse": "Known",
-            "forensicTriage": "No",
+            "forensicTriage": "Yes",
             "notes": "https:\/\/www.ptc.com\/en\/support\/article\/CS473270 ; BOD 26-04: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-12569",
             "cwes": [
                 "CWE-20",
