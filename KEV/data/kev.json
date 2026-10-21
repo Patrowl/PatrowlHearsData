@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2026.10.20",
-    "dateReleased": "2026-10-20T19:00:31.8765Z",
+    "catalogVersion": "2026.10.21",
+    "dateReleased": "2026-10-21T14:04:39.8983Z",
     "count": 1754,
     "vulnerabilities": [
         {
@@ -465,7 +465,7 @@
             "dueDate": "2026-09-28",
             "knownRansomwareCampaignUse": "Unknown",
             "forensicTriage": "No",
-            "notes": "https:\/\/mikrotik.com\/supportsec\/september-2026-vulnerability\/?utm_source=chatgpt.com ; ; BOD 26-04: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-67279",
+            "notes": "https:\/\/mikrotik.com\/supportsec\/september-2026-vulnerability ; BOD 26-04: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https:\/\/www.cisa.gov\/news-events\/directives\/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https:\/\/nvd.nist.gov\/vuln\/detail\/CVE-2026-67279",
             "cwes": [
                 "CWE-841"
             ]
