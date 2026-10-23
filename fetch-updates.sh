@@ -61,6 +61,7 @@ git pull
 	env/bin/python CWE/fetch-and-update.py
 	env/bin/python CPE/fetch-and-update.py
 	env/bin/python CVE/fetch-and-update.py
+	env/bin/python EUVD/fetch-and-update.py
 	env/bin/python VIA/fetch-and-update.py
 	env/bin/python EPSS/fetch-and-update.py
 	env/bin/python KEV/fetch-and-update.py
