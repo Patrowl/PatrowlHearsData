@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111445", "enisaUuid": "911f30ff-d12f-3c3f-8360-f228d3eae688", "description": "Malicious code in magellan-tool-materialize-oauth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144670"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

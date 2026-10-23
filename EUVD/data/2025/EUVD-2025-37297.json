@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37297", "enisaUuid": "4ca0d94d-88c0-3c3f-a5cc-1a67f7e2e820", "description": "Malicious code in dx_auth2_app (npm)", "datePublished": "2025-10-31T03:06:14", "dateUpdated": "2025-10-31T03:06:14", "baseScore": 0.0, "aliases": ["MAL-2025-49295"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

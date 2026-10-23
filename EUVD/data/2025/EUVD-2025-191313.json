@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191313", "enisaUuid": "e2164478-0e8d-3d67-b617-af5fe495d9a8", "description": "Malicious code in cordova-plugin-zendesk (npm)", "datePublished": "2025-08-28T07:24:30", "dateUpdated": "2025-08-28T07:24:30", "baseScore": 0.0, "aliases": ["MAL-2025-41545"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

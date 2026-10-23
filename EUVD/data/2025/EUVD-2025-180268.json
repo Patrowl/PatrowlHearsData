@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180268", "enisaUuid": "50949c29-5c7d-3e90-abaf-b5c3957a87ee", "description": "Malicious code in async-gridsome-xanadu-webdriver-mocha (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185620"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

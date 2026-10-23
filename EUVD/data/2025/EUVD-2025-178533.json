@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178533", "enisaUuid": "ec59934e-2597-34f9-8204-b33647c3257a", "description": "Malicious code in hermes-websockets-arcturus-meteor (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187349"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123018", "enisaUuid": "9142bce4-5b43-3fd6-a300-23ace3d4ea78", "description": "Malicious code in quantum-install-puppeteer-link (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146904"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

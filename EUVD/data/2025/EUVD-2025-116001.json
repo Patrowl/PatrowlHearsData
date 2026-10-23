@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116001", "enisaUuid": "d7379c73-b3d1-3c90-a746-fbb4d449bbc0", "description": "Malicious code in bootstrap-enceladus-readable-mongoose (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140101"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

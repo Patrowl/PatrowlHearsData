@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116446", "enisaUuid": "5323be0b-0687-375d-81de-03aa6a3e03af", "description": "Malicious code in atlas-redis-axios-europa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139656"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

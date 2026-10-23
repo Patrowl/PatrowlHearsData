@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179696", "enisaUuid": "d4293644-8282-3d76-9fc6-52017bda9711", "description": "Malicious code in cluster-sirius-promise-neutrino (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186186"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

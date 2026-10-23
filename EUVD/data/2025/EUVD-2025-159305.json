@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159305", "enisaUuid": "842ef993-8857-3ccd-8c16-209be0534b58", "description": "Malicious code in arcturus-genomics-nestjs-boson (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14804"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

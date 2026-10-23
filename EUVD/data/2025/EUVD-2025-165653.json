@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165653", "enisaUuid": "55f4d4f9-8747-36ad-9f33-0f2280fc3ffc", "description": "Malicious code in galaxy-stream-query-astrometry (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21134"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

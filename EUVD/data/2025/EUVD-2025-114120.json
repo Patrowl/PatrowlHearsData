@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114120", "enisaUuid": "e3e2518e-c172-31a7-b791-61c266d11592", "description": "Malicious code in eleventy-aurora-csrf-semantic-release (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141990"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

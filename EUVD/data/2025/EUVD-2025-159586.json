@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159586", "enisaUuid": "2c78239e-0cbe-3704-9812-cce68b6bb8f5", "description": "Malicious code in auth-jwt-csrf-kinetic (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15085"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

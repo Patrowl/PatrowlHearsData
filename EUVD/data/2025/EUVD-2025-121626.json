@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121626", "enisaUuid": "3d51ac42-2dcb-3e4c-8acf-044e9e9421d2", "description": "Malicious code in stop-node-config-zenith-sqlite (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148299"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

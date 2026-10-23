@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195855", "enisaUuid": "bcaee35f-f782-3302-a4a0-23d6bee5006b", "description": "Malicious code in soap-socketio-taurus-async (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46103"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

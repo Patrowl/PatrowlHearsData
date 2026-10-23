@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180626", "enisaUuid": "52d7f026-9739-360a-ae60-6e39ff9eec49", "description": "Malicious code in publish-process-postcss-loader-protractor (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-30821"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

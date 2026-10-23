@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197472", "enisaUuid": "c3dccdd0-44a0-3f22-ba72-1758a30a2664", "description": "Malicious code in wpe-php-compat1mm (npm)", "datePublished": "2025-10-23T16:19:40", "dateUpdated": "2025-10-23T16:19:40", "baseScore": 0.0, "aliases": ["MAL-2025-48772"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

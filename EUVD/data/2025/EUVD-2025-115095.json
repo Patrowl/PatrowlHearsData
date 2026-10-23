@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115095", "enisaUuid": "85b5fc32-23d9-395c-a008-5bf8f64fe65d", "description": "Malicious code in concurrently-standard-bellatrix-element-ui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141014"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

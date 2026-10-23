@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168611", "enisaUuid": "f22c83a2-2cba-328e-8443-2e702f6eb019", "description": "Malicious code in juno-seismology-socketio-electron (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24093"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

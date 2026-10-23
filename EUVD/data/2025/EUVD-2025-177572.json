@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177572", "enisaUuid": "b3468a6a-0c58-37d9-ba8f-c91a658d13fd", "description": "Malicious code in node-config-private-zenobia-perseus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188310"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

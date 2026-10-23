@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121508", "enisaUuid": "f7f9b4e2-a091-34c7-8be2-35d9830a4444", "description": "Malicious code in sync-cross-env-firebase-css-minimizer-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148420"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

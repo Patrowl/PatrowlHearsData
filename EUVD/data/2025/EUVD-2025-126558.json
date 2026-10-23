@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126558", "enisaUuid": "697e593d-2a44-37e4-aafd-f827ae109afd", "description": "Malicious code in @uniqa/digital-inventory-ms-spec-api (npm)", "datePublished": "2025-03-28T12:34:00", "dateUpdated": "2025-03-28T12:34:00", "baseScore": 0.0, "aliases": ["MAL-2025-2817"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121208", "enisaUuid": "d739700b-26c2-3626-afa4-b07fa8b0cd8f", "description": "Malicious code in toml-nodejs-spinner-uglify-js (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148720"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

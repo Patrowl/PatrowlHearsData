@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115926", "enisaUuid": "ea0285cf-73a0-37d8-bca2-31ee076f0465", "description": "Malicious code in buffer-virgo-eslint-plugin-centauri (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140178"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

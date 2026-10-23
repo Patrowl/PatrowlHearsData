@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172207", "enisaUuid": "f4ed5cd8-96ea-32e2-8701-b2831792485d", "description": "Malicious code in nodejs-crust-eslint-config-avior (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27678"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

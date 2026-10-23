@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181700", "enisaUuid": "82baa3bb-bc5e-3084-80f4-75f9305cd584", "description": "Malicious code in redaction-lib (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31915"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

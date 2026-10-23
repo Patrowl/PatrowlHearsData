@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123567", "enisaUuid": "a2a92fe5-a001-3ae5-a626-873e4f593c3e", "description": "Malicious code in polaris-mdx-pulsar-transport (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146354"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

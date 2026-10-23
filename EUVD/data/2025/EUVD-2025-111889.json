@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111889", "enisaUuid": "a5db6714-cc3f-342e-b391-98ab09881394", "description": "Malicious code in kronos-restart-csrf-jsonp (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144224"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

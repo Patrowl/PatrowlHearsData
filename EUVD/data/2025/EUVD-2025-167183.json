@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167183", "enisaUuid": "765e9ce5-e155-3484-a912-b168539cddc9", "description": "Malicious code in hot-decrypt-private-orchestrate-tau (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22665"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

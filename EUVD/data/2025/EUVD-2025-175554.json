@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175554", "enisaUuid": "01f8f58f-c3a3-387d-962a-09233b5fdc7d", "description": "Malicious code in wind-char-function-resolve-enum (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190322"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

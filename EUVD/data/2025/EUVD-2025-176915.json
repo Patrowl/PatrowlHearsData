@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176915", "enisaUuid": "744d851f-3411-3856-92dc-6be7893d8405", "description": "Malicious code in publish-vuepress-sails-foundation (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188960"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

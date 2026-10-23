@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193232", "enisaUuid": "f9f17ea5-6c4e-36e5-8eab-8524012f8d18", "description": "Malicious code in apex-spawn-typeorm-delphinus (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43479"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

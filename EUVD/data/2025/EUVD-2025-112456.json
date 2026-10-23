@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112456", "enisaUuid": "3d0426c2-8cc4-37a5-9ac8-851abef2a99e", "description": "Malicious code in inquirer-redis-nebula-public (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143657"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

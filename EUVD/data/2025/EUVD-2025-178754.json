@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178754", "enisaUuid": "ca60cf8a-985b-3fea-a925-75fcf4afe03d", "description": "Malicious code in geckodriver-nebula-spawn-apollo (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187128"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164938", "enisaUuid": "e852bf80-ad6a-347e-8460-35044cade492", "description": "Malicious code in fetch-cluster-carpo-await (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20419"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

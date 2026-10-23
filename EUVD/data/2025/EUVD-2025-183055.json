@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183055", "enisaUuid": "fccb3e11-14ed-3803-90ab-0c0eaf4c506b", "description": "Malicious code in simple-js-sha3-384 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33270"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130474", "enisaUuid": "e11952ec-666f-36d8-8767-7b1312e1bfd8", "description": "Malicious code in playwright-config-pdffiller (npm)", "datePublished": "2025-08-01T17:02:51", "dateUpdated": "2025-08-01T17:02:51", "baseScore": 0.0, "aliases": ["MAL-2025-6751"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

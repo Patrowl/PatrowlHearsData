@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178898", "enisaUuid": "768fa2a6-0417-3ba6-b28c-96486e682425", "description": "Malicious code in finally-notify-table-orchestrate-sigma (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186984"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160700", "enisaUuid": "3f3c4950-ec91-3140-b177-90e9ddc2fe7b", "description": "Malicious code in browser-sync-task-runner (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16199"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

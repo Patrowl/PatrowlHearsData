@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123233", "enisaUuid": "d9ca8d5e-0b97-3199-a7c2-852656c1521f", "description": "Malicious code in protractor-markdown-pdf-epimetheus-chromedriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146689"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191685", "enisaUuid": "9809562b-55aa-3ccc-95e4-6cd1ad012c44", "description": "Malicious code in @rbacore/i8n (npm)", "datePublished": "2025-08-28T14:54:56", "dateUpdated": "2025-09-26T11:06:44", "baseScore": 0.0, "aliases": ["MAL-2025-41919"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

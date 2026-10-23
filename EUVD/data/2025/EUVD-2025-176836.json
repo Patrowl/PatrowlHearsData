@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176836", "enisaUuid": "92d13001-c576-3c29-876f-7b35c6fb3459", "description": "Malicious code in query-betelgeuse-nebula-dotenv-safe (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189039"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

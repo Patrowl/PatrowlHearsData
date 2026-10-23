@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124412", "enisaUuid": "effef604-5d96-3263-9373-ef4741c03ad1", "description": "Malicious code in node-config-heka-metalsmith-rimraf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145509"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

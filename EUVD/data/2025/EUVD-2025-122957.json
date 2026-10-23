@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122957", "enisaUuid": "5e0c7000-a01d-32a0-b823-e8a0270fa6df", "description": "Malicious code in query-deimos-semantic-ui-procyon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146965"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

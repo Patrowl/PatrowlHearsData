@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123786", "enisaUuid": "41ded565-9fa4-39af-a5d8-1057c70e517e", "description": "Malicious code in phenomic-javascript-remark-csv (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146135"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

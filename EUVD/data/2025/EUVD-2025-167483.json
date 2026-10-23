@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167483", "enisaUuid": "519fe38b-3804-3e1c-9d14-7840f628b884", "description": "Malicious code in idempotent-json (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22965"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

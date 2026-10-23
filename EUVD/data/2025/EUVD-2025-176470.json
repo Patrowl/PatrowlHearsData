@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176470", "enisaUuid": "c1b1c8f4-ae02-3124-8116-029cfd522ac0", "description": "Malicious code in sed-shell-cat-encrypt-parse (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189405"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

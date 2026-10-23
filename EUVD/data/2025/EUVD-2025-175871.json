@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175871", "enisaUuid": "2b9ed6c3-7b9c-363a-97c7-7176f7a19e38", "description": "Malicious code in troposphere-comet-changelog-html-webpack-plugin (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190004"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

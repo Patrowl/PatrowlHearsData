@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175454", "enisaUuid": "31d205ee-086b-35d4-bb6d-d1b2cd52202b", "description": "Malicious code in yaml-cache-sails-jwt (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190422"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

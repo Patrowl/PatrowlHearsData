@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-51082", "enisaUuid": "6c6f0745-76cd-3990-a621-c921b7019dba", "description": "Malicious code in whole-fuchsia-butterfly (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-71567"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

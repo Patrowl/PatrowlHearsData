@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115312", "enisaUuid": "8655e527-f889-31b1-b2d3-9a9418ef7108", "description": "Malicious code in cli-gacrux-slidev-redis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140796"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

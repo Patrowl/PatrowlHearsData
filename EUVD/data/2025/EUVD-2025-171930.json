@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171930", "enisaUuid": "ff417b43-eea4-3cbe-b8d3-d3934d8c8aba", "description": "Malicious code in nextjs-cosmos-spinner-auth0 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27401"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

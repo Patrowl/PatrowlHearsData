@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153821", "enisaUuid": "364a9303-783a-3ec4-88cf-e762f108db39", "description": "Malicious code in @sempay/core (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9320"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

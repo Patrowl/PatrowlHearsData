@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113609", "enisaUuid": "269396d5-be18-3960-bf76-757f7a4c6059", "description": "Malicious code in firebase-materialize-morgan-titan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142502"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

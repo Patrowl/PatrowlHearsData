@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116380", "enisaUuid": "5e594b94-2ba8-39d8-acf3-eb59d229620d", "description": "Malicious code in auth-europa-json-cosmiconfig (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139722"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

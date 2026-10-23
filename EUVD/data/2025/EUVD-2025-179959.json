@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179959", "enisaUuid": "d53e7bf6-e66e-348d-b8c0-27e7b65e772a", "description": "Malicious code in buffer-package-bionics-graphql (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185923"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

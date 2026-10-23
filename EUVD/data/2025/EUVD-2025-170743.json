@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170743", "enisaUuid": "9e9a371b-e3ec-3f31-b93d-6ef180df432e", "description": "Malicious code in meta-analyze-cold-code-old (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26214"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

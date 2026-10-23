@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123054", "enisaUuid": "9d055023-8ae3-34ef-b7a7-bd67cfcdc795", "description": "Malicious code in puppeteer-writable-blaze-phenomic (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146868"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122821", "enisaUuid": "86db3599-644d-3e3e-99a3-99a9ec8b40f2", "description": "Malicious code in redis-gulp-lynx-spectron-webdriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147101"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-143669", "enisaUuid": "80b8ee52-ac6e-3a0b-ac03-4809b2ad64fe", "description": "Malicious code in @mipta1/r2sds (npm)", "datePublished": "2025-11-12T19:18:14", "dateUpdated": "2025-11-12T19:18:14", "baseScore": 0.0, "aliases": ["MAL-2025-172634"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191637", "enisaUuid": "d6b227f6-a925-3dcb-985c-2a62cb5992df", "description": "Malicious code in @espace-client-axafr/otp-code (npm)", "datePublished": "2025-08-25T18:35:39", "dateUpdated": "2025-08-25T18:35:39", "baseScore": 0.0, "aliases": ["MAL-2025-41871"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

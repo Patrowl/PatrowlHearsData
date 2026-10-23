@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114707", "enisaUuid": "50c52301-d24c-39ee-ab8d-233ddb49b428", "description": "Malicious code in cypress-nashira-configstore-prettier-plugin-markdown (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141402"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

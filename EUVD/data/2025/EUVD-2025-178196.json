@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178196", "enisaUuid": "ec3f1a37-f2ed-3eff-8082-16ba6439e724", "description": "Malicious code in key-static-authorize-authenticate-quick (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187686"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

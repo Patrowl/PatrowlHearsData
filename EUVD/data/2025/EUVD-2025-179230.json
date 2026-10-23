@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179230", "enisaUuid": "8c235f22-75c6-3c3b-82b5-99fb00ad5764", "description": "Malicious code in dynamo-ganymede-init-sequelize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186652"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

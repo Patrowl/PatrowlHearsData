@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181253", "enisaUuid": "847cc920-f0b0-3bd4-8bd5-ce339305d72c", "description": "Malicious code in rack-path_mapper (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31467"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

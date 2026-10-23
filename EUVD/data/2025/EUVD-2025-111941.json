@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111941", "enisaUuid": "063e4297-9f0e-325c-8ccc-53189322f331", "description": "Malicious code in kinetic-frontend-csrf-unuk (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144172"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

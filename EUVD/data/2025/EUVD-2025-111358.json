@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111358", "enisaUuid": "45439021-83f7-3c02-a236-07176b704b39", "description": "Malicious code in materialize-titan-start-morgan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144757"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

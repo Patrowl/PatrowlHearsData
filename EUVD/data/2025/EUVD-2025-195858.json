@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195858", "enisaUuid": "ce30fd4c-ce56-355a-afe7-270c143835bd", "description": "Malicious code in socketio-spectroscopy-tardigrade-parsec (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46106"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

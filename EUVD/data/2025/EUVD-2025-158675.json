@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-158675", "enisaUuid": "7a6ee92a-c3c4-39ae-beca-69159ee83793", "description": "Malicious code in adminauthserv (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14098"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-53538", "enisaUuid": "368ff25c-f6c2-3f23-b66c-00d25011af45", "description": "Malicious code in legitimate-plum-panda (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-69111"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111722", "enisaUuid": "e091c0e6-3fb9-3d78-8197-20629f4aa988", "description": "Malicious code in library-transport-iota-arcturus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144391"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

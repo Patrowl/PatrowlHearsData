@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-54851", "enisaUuid": "2b8c980b-5c3c-3e0b-8893-f37a8f13dac7", "description": "Malicious code in distinguished-azure-damselfly (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-67798"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

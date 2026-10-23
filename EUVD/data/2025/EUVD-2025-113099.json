@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113099", "enisaUuid": "3f8a5da4-620f-3a7f-8081-aacc1275bdaf", "description": "Malicious code in graphql-vuepress-husky-bellatrix (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143013"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

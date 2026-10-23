@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115970", "enisaUuid": "00b03e11-25dc-3b0b-a4e2-39f4b344fc30", "description": "Malicious code in browserify-mongodb-eslint-config-pegasus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140134"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172088", "enisaUuid": "5e4b111b-fe06-3483-8953-b7d7202bfc47", "description": "Malicious code in niodependencytest (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27559"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

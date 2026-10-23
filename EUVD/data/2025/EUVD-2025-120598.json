@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120598", "enisaUuid": "27ca81aa-5b20-3bcb-aec3-13b899c66425", "description": "Malicious code in webdriver-manager-ophiuchus-magellan-jupiter (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149331"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

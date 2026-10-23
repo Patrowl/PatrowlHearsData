@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170964", "enisaUuid": "315473ea-9aff-3349-8195-7dd1fbab9645", "description": "Malicious code in minify-catch-function-object-epsilon (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26435"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

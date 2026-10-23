@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160472", "enisaUuid": "245a9487-1f0d-31ac-8752-1b779e2b25fe", "description": "Malicious code in bootes-fetch-eclipse-aether (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15971"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

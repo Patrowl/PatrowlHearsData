@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123571", "enisaUuid": "70c0a834-e917-347f-b487-a2c78f071421", "description": "Malicious code in polaris-janus-dotenv-dactyl (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146350"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

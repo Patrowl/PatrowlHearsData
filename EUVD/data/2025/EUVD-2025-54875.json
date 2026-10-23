@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-54875", "enisaUuid": "d345903c-9442-345c-aa7b-086718fe8f1d", "description": "Malicious code in disabled-azure-condor (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-67774"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116268", "enisaUuid": "da991878-efd9-308a-aae5-2d34d8714183", "description": "Malicious code in axios-native-concurrently-ursa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139834"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

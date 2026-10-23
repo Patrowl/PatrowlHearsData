@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127897", "enisaUuid": "4cef8171-4f47-3db8-a4d2-8dab16fd275f", "description": "Malicious code in bitcoinjs-lib-v5 (npm)", "datePublished": "2025-05-22T12:41:19", "dateUpdated": "2025-05-22T12:41:19", "baseScore": 0.0, "aliases": ["MAL-2025-4165"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

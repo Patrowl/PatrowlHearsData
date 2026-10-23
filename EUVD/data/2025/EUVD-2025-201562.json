@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-201562", "enisaUuid": "437f5a18-a5fd-3433-9452-3c5bbabf93aa", "description": "Malicious code in ssf-desktop-api-openfin (npm)", "datePublished": "2025-12-06T16:23:18", "dateUpdated": "2025-12-10T21:09:40", "baseScore": 0.0, "aliases": ["MAL-2025-192360"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

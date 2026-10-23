@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-36285", "enisaUuid": "00e6fd93-3e25-3b5d-9cb7-f79c509a183e", "description": "Malicious code in gd-flag-content (npm)", "datePublished": "2025-09-23T18:30:46", "dateUpdated": "2025-10-27T18:09:48", "baseScore": 0.0, "aliases": ["MAL-2025-47586"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

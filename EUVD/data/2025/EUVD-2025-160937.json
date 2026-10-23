@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160937", "enisaUuid": "4cd3c719-660b-3ecb-825d-c55311603e60", "description": "Malicious code in cakemail-import (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16436"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

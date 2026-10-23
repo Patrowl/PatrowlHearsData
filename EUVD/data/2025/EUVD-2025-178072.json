@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178072", "enisaUuid": "7396d115-2192-3ac2-8c29-4c5329b51d27", "description": "Malicious code in lint-nuxtjs-babel-socketio (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187810"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

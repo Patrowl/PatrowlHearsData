@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164204", "enisaUuid": "3f03ca54-58f2-3b02-a8d1-7364323cac5a", "description": "Malicious code in envconfig-deimos-astro-test (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19683"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

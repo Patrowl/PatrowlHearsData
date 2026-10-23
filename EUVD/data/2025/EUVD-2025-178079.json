@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178079", "enisaUuid": "1fe45b00-329e-35f5-a4a9-9adb9984ccb5", "description": "Malicious code in lint-auth0-joviology-jovian (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187803"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

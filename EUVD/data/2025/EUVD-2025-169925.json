@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169925", "enisaUuid": "946579fd-a286-3251-b108-a7fc6cfe9bfc", "description": "Malicious code in link-phoenix-jsonp-concurrently (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25396"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

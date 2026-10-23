@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195923", "enisaUuid": "b493e27b-7ef4-39c5-8609-2bdd60f07677", "description": "Malicious code in superflare-winston-bunyan-nova (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46171"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

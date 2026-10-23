@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175907", "enisaUuid": "c936869b-9497-34c6-8ed1-63ae627fd6e2", "description": "Malicious code in transform-robotics-filament-orbit (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189968"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

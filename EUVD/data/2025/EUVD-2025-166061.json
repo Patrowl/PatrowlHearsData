@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166061", "enisaUuid": "836057c3-ea44-328c-b2b6-41eb554f1ad5", "description": "Malicious code in glaciology-query-fetch-exec (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21542"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

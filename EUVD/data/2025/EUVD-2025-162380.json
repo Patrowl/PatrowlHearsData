@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162380", "enisaUuid": "dbe39b6d-4b48-3e76-8830-d2ae5b43f5e1", "description": "Malicious code in cydashboard-directives (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17881"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

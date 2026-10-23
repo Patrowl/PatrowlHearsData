@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80022", "enisaUuid": "48454f7d-414e-38e6-94db-2f4812bed608", "description": "Malicious code in wily_giraffe_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-110952"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

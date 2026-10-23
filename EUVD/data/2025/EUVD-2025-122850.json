@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122850", "enisaUuid": "b51b80ee-526e-36da-9de3-3259412d985c", "description": "Malicious code in react-bootstrap-publish-concurrently-command (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147072"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

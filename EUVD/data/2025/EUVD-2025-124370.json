@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124370", "enisaUuid": "bcfaa6f0-cf19-3f97-b4a7-7b38a1c94106", "description": "Malicious code in node-sass-process-wolf-init (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145551"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122121", "enisaUuid": "1e56929e-b135-3bf4-ba28-b19edafe2330", "description": "Malicious code in selenium-cypress-izar-exec (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147802"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

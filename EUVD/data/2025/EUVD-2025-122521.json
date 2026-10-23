@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122521", "enisaUuid": "ab31c29b-036f-3c8d-8ad2-e8d54932683b", "description": "Malicious code in restart-webdriver-manager-websockets-eleventy (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147401"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

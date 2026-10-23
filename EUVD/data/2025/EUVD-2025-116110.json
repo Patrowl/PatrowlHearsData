@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116110", "enisaUuid": "ca8604fe-1d7b-3db3-aa16-8ed831228e81", "description": "Malicious code in betelgeuse-nconf-mongoose-flare (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139992"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

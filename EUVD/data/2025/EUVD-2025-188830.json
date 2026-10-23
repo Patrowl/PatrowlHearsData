@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188830", "enisaUuid": "85c17b41-85fd-37f0-b6fe-4cfe96fad83b", "description": "Malicious code in webruntime-branding-shared (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39044"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

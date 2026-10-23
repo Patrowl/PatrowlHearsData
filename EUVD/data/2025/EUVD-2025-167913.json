@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167913", "enisaUuid": "71d0f81f-4bc2-32dd-ae99-770f5982cb26", "description": "Malicious code in is-mlcs (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23395"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188787", "enisaUuid": "149c4194-43c5-3b0e-bb6b-ac7e169b7a85", "description": "Malicious code in webdriverio-nucleosynthesis-fork-dotenv-parse-variables (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39001"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

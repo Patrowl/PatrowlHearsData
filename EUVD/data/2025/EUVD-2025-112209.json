@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112209", "enisaUuid": "2d4b120d-a290-3652-bf6a-fc7da00a0f37", "description": "Malicious code in jekyll-fetch-lyra-lint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143904"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

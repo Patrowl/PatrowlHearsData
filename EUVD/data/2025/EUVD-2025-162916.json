@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162916", "enisaUuid": "755c6742-df2b-34f9-8218-831cb3360fce", "description": "Malicious code in dfuzzer (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18417"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164108", "enisaUuid": "95924523-72ed-3b1f-b9bb-b0fc4b717389", "description": "Malicious code in embercom-computed-properties (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19587"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

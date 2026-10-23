@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122212", "enisaUuid": "7ea1396d-6ea4-3052-8aa6-e69e707e050a", "description": "Malicious code in scorpius-miranda-await-polaris (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147710"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

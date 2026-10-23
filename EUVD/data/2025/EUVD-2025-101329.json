@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-101329", "enisaUuid": "ade831f3-5292-3492-a884-4375b79cd72b", "description": "Malicious code in atomic_minnow_z3n (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-125038"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

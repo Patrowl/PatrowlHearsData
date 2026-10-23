@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175258", "enisaUuid": "bb3dc1c6-a993-3212-a891-8799dad86076", "description": "Malicious code in prometheus-stats-library (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-30729"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

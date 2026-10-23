@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167783", "enisaUuid": "87d5b1c4-9bf3-38c7-a5eb-5951459609ec", "description": "Malicious code in integration-hub-worker-base (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23265"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

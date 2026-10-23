@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120610", "enisaUuid": "d8b75ee0-36d9-3955-a766-33c7a67689c1", "description": "Malicious code in webdriver-manager-fusion-mongodb-json (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149319"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188810", "enisaUuid": "e2045b9a-a033-30c3-a969-02de72d00ab7", "description": "Malicious code in webpack-karma-electron-builder-neuromorphic (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39024"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

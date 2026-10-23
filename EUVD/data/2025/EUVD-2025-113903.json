@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113903", "enisaUuid": "02b48274-c1f6-38e2-b91b-6c89f4059220", "description": "Malicious code in eslint-config-promise-jest-winston (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142207"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

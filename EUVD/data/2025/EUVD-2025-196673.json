@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196673", "enisaUuid": "cc097f5b-0c58-34dc-84b6-70355b6e4a05", "description": "Malicious code in sarif (RubyGems)", "datePublished": "2025-09-01T09:50:42", "dateUpdated": "2025-09-01T09:50:42", "baseScore": 0.0, "aliases": ["MAL-2025-46921"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

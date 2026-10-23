@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177845", "enisaUuid": "9978696a-ae86-3453-bc7d-98dbf44d7edd", "description": "Malicious code in middleware-backend-async-oortcloud (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188037"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

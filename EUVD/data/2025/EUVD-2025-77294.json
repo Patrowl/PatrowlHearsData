@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77294", "enisaUuid": "14de2a71-8740-3a4b-8ad7-ade691d36b0e", "description": "Malicious code in complete_ferret-strongdev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-100767"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

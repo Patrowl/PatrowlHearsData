@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181847", "enisaUuid": "b554a415-ac75-3241-a003-c3fd3bdd1a73", "description": "Malicious code in remark-betelgeuse-shelljs-stream (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32062"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

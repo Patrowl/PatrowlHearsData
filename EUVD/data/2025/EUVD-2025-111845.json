@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111845", "enisaUuid": "d16a0f3d-62ce-30c8-bbae-133eca550874", "description": "Malicious code in leda-envconfig-odin-sass-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144268"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125468", "enisaUuid": "343d3c78-2236-3f69-a9e0-cbb5189d66f7", "description": "Malicious code in amazon-utils (npm)", "datePublished": "2025-03-03T13:16:05", "dateUpdated": "2025-03-03T13:16:05", "baseScore": 0.0, "aliases": ["MAL-2025-1725"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

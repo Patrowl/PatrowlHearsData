@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120873", "enisaUuid": "99633852-7c47-3613-bc92-30fe0f3b1b31", "description": "Malicious code in ursa-express-buffer-commitizen (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149056"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

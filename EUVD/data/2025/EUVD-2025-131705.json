@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131705", "enisaUuid": "ce2f49bd-9940-31b7-bf9a-e6454357335b", "description": "Malicious code in @ginger-team/billing-notifications (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7983"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

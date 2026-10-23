@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116868", "enisaUuid": "3bf742a8-633c-3267-ab0d-c3ec24685df6", "description": "Malicious code in aether-mysql-eslint-config-html-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139234"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

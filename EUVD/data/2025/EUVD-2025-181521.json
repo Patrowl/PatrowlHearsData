@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181521", "enisaUuid": "0029d338-b95a-383a-a8d6-435769c133e8", "description": "Malicious code in rbmc.logger (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31735"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

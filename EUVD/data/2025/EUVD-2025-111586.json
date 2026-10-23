@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111586", "enisaUuid": "6a0404f4-38ff-3596-a2fe-484ee74b6b5b", "description": "Malicious code in loop-mensa-xml-winston (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144529"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123306", "enisaUuid": "03dc25d8-8ad8-3540-83dc-23c8c53f59dd", "description": "Malicious code in procyon-stream-registry-perseus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146616"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

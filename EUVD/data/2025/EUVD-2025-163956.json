@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163956", "enisaUuid": "e00791a7-64e8-3952-9c93-057f778d8f83", "description": "Malicious code in eleme-pay-sdk (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19484"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115932", "enisaUuid": "fc87212d-91f9-3768-985a-a8d1a25cdfac", "description": "Malicious code in buffer-soap-vortex-mini-css-extract-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140172"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

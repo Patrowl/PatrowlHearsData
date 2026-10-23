@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177721", "enisaUuid": "3fcfbdfc-c188-3b13-8f88-468e7aa13535", "description": "Malicious code in mysql-heka-version-saturnology (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188161"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

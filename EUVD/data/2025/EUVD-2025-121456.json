@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121456", "enisaUuid": "a8f6d5e1-ad79-36a2-a7cb-6265ef657372", "description": "Malicious code in taurus-mdx-promise-browserify (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148472"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

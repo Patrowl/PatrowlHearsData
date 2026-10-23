@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-88124", "enisaUuid": "82098e2f-94ca-355a-aa71-afb69310aadf", "description": "Malicious code in valid_gazelle_z3n (npm)", "datePublished": "2025-11-11T15:19:32", "dateUpdated": "2025-11-11T15:19:32", "baseScore": 0.0, "aliases": ["MAL-2025-117760"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

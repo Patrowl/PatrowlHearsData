@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116362", "enisaUuid": "82e533ad-cca3-319a-82d2-d62271b521f3", "description": "Malicious code in auth0-carpo-npm-castor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139740"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124322", "enisaUuid": "d38eb339-5818-338c-ad32-6c629ca31c7a", "description": "Malicious code in nodemon-triton-oberon-express (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145599"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

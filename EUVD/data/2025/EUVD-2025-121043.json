@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121043", "enisaUuid": "06cca348-661e-38a1-a649-937d11db1d0f", "description": "Malicious code in uglify-js-upgrade-scorpius-cors (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148885"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

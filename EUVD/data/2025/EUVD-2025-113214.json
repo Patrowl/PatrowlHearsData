@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113214", "enisaUuid": "e8112fd0-ee84-3c85-80e6-5a16a68e006a", "description": "Malicious code in gemini-grunt-spectron-webdriver-tethys (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142898"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

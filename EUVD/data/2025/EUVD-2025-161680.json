@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161680", "enisaUuid": "59fb5128-96b1-3256-b95e-816c43045ec0", "description": "Malicious code in cloudinary-url-builder (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17181"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

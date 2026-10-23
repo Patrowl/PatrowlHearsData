@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177942", "enisaUuid": "75ae0904-9f06-3ed8-960a-46999f8be059", "description": "Malicious code in materialize-cache-neptune-cosmogenic (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187940"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126572", "enisaUuid": "ffa9b1c5-1cb8-386b-b47f-8b6917c9e27d", "description": "Malicious code in @uniqa-extern/capacitor-plugin-unblu (npm)", "datePublished": "2025-03-28T12:33:49", "dateUpdated": "2025-03-28T12:33:49", "baseScore": 0.0, "aliases": ["MAL-2025-2831"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

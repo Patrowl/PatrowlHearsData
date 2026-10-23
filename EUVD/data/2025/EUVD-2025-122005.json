@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122005", "enisaUuid": "ae0b6c99-6422-3c7d-8c76-dd63a3f1c71c", "description": "Malicious code in shelljs-library-development-commitlint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147918"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

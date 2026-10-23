@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122237", "enisaUuid": "2f24e716-83e5-3bc9-9846-d2168bcfe203", "description": "Malicious code in sass-loader-xml-altair-dotenv-safe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147685"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

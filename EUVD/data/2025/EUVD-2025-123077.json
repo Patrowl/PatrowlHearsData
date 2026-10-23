@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123077", "enisaUuid": "7bad609d-b5df-3fd1-8a96-c9df8079804c", "description": "Malicious code in pulsar-terser-publish-oauth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146845"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-30183", "enisaUuid": "cdbc6186-2332-3545-bad5-38acf7a7d6af", "description": "Malicious code in @pc-analytics-filter/core (npm)", "datePublished": "2025-09-16T19:23:30", "dateUpdated": "2025-09-18T02:31:37", "baseScore": 0.0, "aliases": ["MAL-2025-47391"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

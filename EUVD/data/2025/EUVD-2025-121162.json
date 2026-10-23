@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121162", "enisaUuid": "86dbdb63-ecd9-389d-90bd-f03e1fa4a0df", "description": "Malicious code in transform-jwt-vulcan-dione (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148766"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

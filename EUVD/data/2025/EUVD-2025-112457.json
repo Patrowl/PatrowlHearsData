@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112457", "enisaUuid": "80cacb3a-1c92-3193-b003-b8d8c7fd697d", "description": "Malicious code in inquirer-publish-mysql-antares (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143656"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

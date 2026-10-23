@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178159", "enisaUuid": "e54fea2e-06a7-3c8e-ba08-97098b30b73f", "description": "Malicious code in lambda-byte-sigma-static-reject (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187723"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

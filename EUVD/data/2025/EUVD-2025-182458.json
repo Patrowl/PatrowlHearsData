@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182458", "enisaUuid": "ed64c8ec-c81c-39c5-a065-e0ae38fdce73", "description": "Malicious code in sanitize-interpret-zero-emulate-container (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32673"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

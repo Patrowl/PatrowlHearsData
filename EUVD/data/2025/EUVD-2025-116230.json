@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116230", "enisaUuid": "a4f211b4-5046-34b9-86e6-cd3fc6a34453", "description": "Malicious code in babel-rehype-mini-css-extract-plugin-aether (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139872"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

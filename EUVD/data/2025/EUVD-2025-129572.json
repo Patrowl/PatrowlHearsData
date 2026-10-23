@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129572", "enisaUuid": "5f72d17b-e57f-3c73-b99e-d84001c4dec8", "description": "Malicious code in workspace-loader (npm)", "datePublished": "2025-07-14T15:02:07", "dateUpdated": "2025-07-14T15:02:07", "baseScore": 0.0, "aliases": ["MAL-2025-5845"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

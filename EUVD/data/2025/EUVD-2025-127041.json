@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127041", "enisaUuid": "a13c0a02-85da-351d-94e3-8ab366b17943", "description": "Malicious code in @flutterfire/source-versions (npm)", "datePublished": "2025-04-23T15:38:14", "dateUpdated": "2025-04-23T15:38:14", "baseScore": 0.0, "aliases": ["MAL-2025-3300"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

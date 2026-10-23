@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188469", "enisaUuid": "2de82722-2008-32fd-9e58-89e2e905121b", "description": "Malicious code in vuetify-commitizen-prompts-dotenv-parse-variables (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38683"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

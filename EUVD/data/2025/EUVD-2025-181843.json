@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181843", "enisaUuid": "ebb762f8-d7f8-3b1f-bb99-5c18d91b5dcb", "description": "Malicious code in release-to-github (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32058"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

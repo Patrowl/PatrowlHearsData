@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122380", "enisaUuid": "42951358-2ff9-3938-b2fc-9023828d9c34", "description": "Malicious code in run-script-eclipse-library-blaze (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147542"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

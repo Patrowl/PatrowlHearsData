@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115942", "enisaUuid": "8c0b59f2-28e5-3fc8-9ff8-acfe2bbe627b", "description": "Malicious code in buffer-mutation-changelog-karma (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140162"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

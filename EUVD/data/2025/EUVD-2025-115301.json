@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115301", "enisaUuid": "6c210987-9afa-3f7c-adf7-e29388e5a21f", "description": "Malicious code in cli-passport-iota-corvus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140807"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176770", "enisaUuid": "c9732224-601a-3534-bc8a-9f31e85a942a", "description": "Malicious code in redis-adonis-quito-io (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189105"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

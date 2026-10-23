@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76019", "enisaUuid": "6c9c5f03-ebcf-36cd-8940-b06db571a1f9", "description": "Malicious code in plain_gorilla-gooddev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-107084"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

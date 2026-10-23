@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127217", "enisaUuid": "1e89c028-e98f-311c-b46b-2ab292e89cd5", "description": "Malicious code in tronclipy (PyPI)", "datePublished": "2025-04-23T16:06:47", "dateUpdated": "2025-04-23T16:06:47", "baseScore": 0.0, "aliases": ["MAL-2025-3476"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120463", "enisaUuid": "3c4d8a4c-de8b-3362-b950-f9e577bd010e", "description": "Malicious code in wezen-rehype-redis-dotenv-parse-variables (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149467"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

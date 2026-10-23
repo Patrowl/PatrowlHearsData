@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195851", "enisaUuid": "e14cf225-87f9-301f-91df-140c4675ac8c", "description": "Malicious code in soap-commitlint-config-angular-adonis-cors (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46099"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

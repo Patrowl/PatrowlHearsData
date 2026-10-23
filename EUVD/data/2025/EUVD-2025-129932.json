@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129932", "enisaUuid": "dc2300ef-9471-3c11-9146-add228763f9d", "description": "Malicious code in catalyst_lib (npm)", "datePublished": "2025-07-16T00:42:12", "dateUpdated": "2025-07-23T02:45:09", "baseScore": 0.0, "aliases": ["MAL-2025-6205"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

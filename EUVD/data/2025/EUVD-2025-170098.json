@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170098", "enisaUuid": "81a0fc98-94d4-361c-9b2f-8d0ec3084b60", "description": "Malicious code in long-boolean-thread-notify-fast (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25569"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

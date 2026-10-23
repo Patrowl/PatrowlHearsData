@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124770", "enisaUuid": "386e3921-6936-390b-9562-50281dad815d", "description": "Malicious code in mongoose-atlas-levels-xenon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145148"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

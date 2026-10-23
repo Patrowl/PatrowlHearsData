@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127282", "enisaUuid": "b36cccba-ea78-3231-95d2-ea6e111cee5a", "description": "Malicious code in express-cookie-parser (npm)", "datePublished": "2025-04-23T09:23:53", "dateUpdated": "2025-04-23T09:23:53", "baseScore": 0.0, "aliases": ["MAL-2025-3541"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

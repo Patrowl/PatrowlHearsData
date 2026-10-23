@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170703", "enisaUuid": "d8b953af-f823-369d-ae35-c635d1650b69", "description": "Malicious code in membrane-commitlint-config-angular-async-octans (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26174"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

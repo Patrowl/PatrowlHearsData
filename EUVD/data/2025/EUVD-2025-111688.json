@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111688", "enisaUuid": "f3653b69-bfa2-33b9-bd1e-86fa632fdce1", "description": "Malicious code in link-stream-global-upgrade (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144426"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

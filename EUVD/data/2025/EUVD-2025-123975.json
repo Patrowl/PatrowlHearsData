@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123975", "enisaUuid": "8f03629b-9bdc-36c5-bbc3-3445c94495d3", "description": "Malicious code in parcel-algol-websockets-delphinus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145946"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

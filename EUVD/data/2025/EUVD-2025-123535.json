@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123535", "enisaUuid": "e4349344-72a8-3db0-b77e-ae8a7b7a121b", "description": "Malicious code in postcss-deimos-express-fusion (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146386"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

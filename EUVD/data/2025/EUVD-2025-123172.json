@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123172", "enisaUuid": "1d3f2e88-7b2b-36c8-ba8b-786fd59c43b1", "description": "Malicious code in proxima-xenon-transport-janus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146750"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

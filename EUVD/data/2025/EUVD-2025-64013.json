@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-64013", "enisaUuid": "2239bf24-ae39-394c-8eb9-653a11e4ae11", "description": "Malicious code in flexible_armadillo_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-94541"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

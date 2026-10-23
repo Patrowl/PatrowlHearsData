@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179376", "enisaUuid": "e80f9f70-0bf7-3dfa-9d67-6bb75188ad3d", "description": "Malicious code in decompress-simple-lambda-container-meta (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186506"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

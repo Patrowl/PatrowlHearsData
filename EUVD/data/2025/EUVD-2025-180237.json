@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180237", "enisaUuid": "eea3e34e-7d21-33c2-9f68-799e7598b4c3", "description": "Malicious code in auriga-postgres-fermion-filament (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185651"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

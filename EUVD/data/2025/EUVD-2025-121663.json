@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121663", "enisaUuid": "a658a948-2218-3902-9ef2-53a094b43c2f", "description": "Malicious code in start-avior-node-config-zephyr (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148262"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

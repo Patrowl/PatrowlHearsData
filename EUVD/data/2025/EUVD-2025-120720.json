@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120720", "enisaUuid": "561f5fc5-8d16-3f46-ac5a-0dbc6fb3f375", "description": "Malicious code in vuetify-fork-xml-cache (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149209"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

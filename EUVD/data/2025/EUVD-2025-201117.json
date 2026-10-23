@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-201117", "enisaUuid": "7f81554a-2d9b-34e6-81b8-df1973a70202", "description": "Malicious code in elf-stats-mulled-nightcap-782 (npm)", "datePublished": "2025-12-03T19:35:48", "dateUpdated": "2025-12-03T20:10:12", "baseScore": 0.0, "aliases": ["MAL-2025-192274"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

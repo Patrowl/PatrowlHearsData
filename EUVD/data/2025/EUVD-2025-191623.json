@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191623", "enisaUuid": "e7cc4a3b-d03e-30cb-9828-13a768546a18", "description": "Malicious code in @espace-client-axafr/file-upload-block (npm)", "datePublished": "2025-08-25T18:33:40", "dateUpdated": "2025-08-25T18:33:40", "baseScore": 0.0, "aliases": ["MAL-2025-41857"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

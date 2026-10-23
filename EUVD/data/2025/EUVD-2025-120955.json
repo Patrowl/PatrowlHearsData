@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120955", "enisaUuid": "c422febd-34ac-3f3c-849a-977c33a5892d", "description": "Malicious code in uninstall-zephyr-publish-aether (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148974"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

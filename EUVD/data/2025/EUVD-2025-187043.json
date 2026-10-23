@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187043", "enisaUuid": "9212485f-4fae-3826-801a-16032f97758b", "description": "Malicious code in twine-to-yoto (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37378"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

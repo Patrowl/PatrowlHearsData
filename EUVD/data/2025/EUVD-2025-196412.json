@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196412", "enisaUuid": "45f35301-94be-3a08-84eb-b6a83e2cb1d7", "description": "Malicious code in xanadu-csrf-module-npm (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46660"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

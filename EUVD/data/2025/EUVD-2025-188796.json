@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188796", "enisaUuid": "056e2f5e-8ad6-3f52-a518-cf8353b206b2", "description": "Malicious code in webhook_client (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39010"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194147", "enisaUuid": "8658c765-6904-3498-b9f0-0d75110c0280", "description": "Malicious code in geodynamo-build-passport-writable (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44394"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178997", "enisaUuid": "e4086f70-fc3d-3b99-84bc-a83eaff883c1", "description": "Malicious code in exec-antimatter-jovian-postgres (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186885"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

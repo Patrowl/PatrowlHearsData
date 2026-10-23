@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123124", "enisaUuid": "88ad08fe-b9d5-3c55-856e-03683a25468e", "description": "Malicious code in publish-nova-aether-bellatrix (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146798"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

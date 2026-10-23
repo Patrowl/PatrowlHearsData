@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124771", "enisaUuid": "6fcf9f28-df3c-36ff-a9cf-814aa912434e", "description": "Malicious code in mongoose-atlas-jsonp-equinox (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145147"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

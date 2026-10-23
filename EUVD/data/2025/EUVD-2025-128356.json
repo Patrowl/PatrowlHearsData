@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128356", "enisaUuid": "d6b6edd0-c628-379a-87e6-97f2234b10b3", "description": "Malicious code in inter-frontend-svgs (npm)", "datePublished": "2025-06-01T20:10:29", "dateUpdated": "2025-06-10T04:43:39", "baseScore": 0.0, "aliases": ["MAL-2025-4624"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

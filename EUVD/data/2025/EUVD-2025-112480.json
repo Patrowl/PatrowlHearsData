@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112480", "enisaUuid": "ae50c58f-bc12-3089-ae62-5db124a21fdd", "description": "Malicious code in init-titan-rollup-sagitta (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143633"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

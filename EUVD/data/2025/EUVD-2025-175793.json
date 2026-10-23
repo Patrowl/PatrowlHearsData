@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175793", "enisaUuid": "4a4de193-ac38-3ff1-b636-8b798c2d6543", "description": "Malicious code in upgrade-async-forever-nextjs (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190082"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

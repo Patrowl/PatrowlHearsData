@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120513", "enisaUuid": "1798f529-753d-35fb-a828-0213cf83cdbc", "description": "Malicious code in websockets-auriga-aether-airbnb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149416"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

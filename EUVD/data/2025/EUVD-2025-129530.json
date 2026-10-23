@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129530", "enisaUuid": "070cc08a-050f-354f-b2d5-8fece644e14b", "description": "Malicious code in @super-alpha/api (npm)", "datePublished": "2025-07-04T22:31:30", "dateUpdated": "2025-07-04T22:31:30", "baseScore": 0.0, "aliases": ["MAL-2025-5802"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

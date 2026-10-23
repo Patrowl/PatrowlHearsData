@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116406", "enisaUuid": "c1d8e000-374d-3507-a9ad-bf8b974932d7", "description": "Malicious code in aurora-cache-soap-solis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139696"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

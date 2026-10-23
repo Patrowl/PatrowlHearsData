@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175890", "enisaUuid": "f540a995-8fb9-3e53-88ab-c271f75215b3", "description": "Malicious code in transport-postcss-loader-terser-betelgeuse (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189985"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

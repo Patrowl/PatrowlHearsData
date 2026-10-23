@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179626", "enisaUuid": "f3b9882c-2f96-3852-95f3-cc0170d31a9f", "description": "Malicious code in commitlint-resolvers-procyon-pm2 (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186256"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

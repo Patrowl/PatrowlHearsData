@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161867", "enisaUuid": "6ffa4776-cf41-39a3-802f-c8ff8ccaa489", "description": "Malicious code in com.unity.xr.arcore (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17368"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

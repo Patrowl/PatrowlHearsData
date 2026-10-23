@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121625", "enisaUuid": "7fc21601-b1e6-3a05-8a68-1fd84fa19e45", "description": "Malicious code in stop-package-phenomic-cz-conventional-changelog (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148300"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-101253", "enisaUuid": "b47a40f9-eb39-3fe4-8aa2-8c1e0d4d6432", "description": "Malicious code in underlying_aardvark_z3n (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-130851"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

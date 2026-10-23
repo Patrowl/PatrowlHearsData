@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124245", "enisaUuid": "2c7abfaa-0567-3d1e-8c79-55532b80b6e0", "description": "Malicious code in npm-dependencies-cypress-protractor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145676"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

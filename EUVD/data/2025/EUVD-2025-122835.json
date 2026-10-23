@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122835", "enisaUuid": "ffd6faf0-c87f-36ba-b795-3f29a5197a40", "description": "Malicious code in readable-ophiuchus-heka-update (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147087"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

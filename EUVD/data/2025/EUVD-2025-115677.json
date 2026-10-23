@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115677", "enisaUuid": "69cd86b1-e3c2-3d70-b5c5-8ffd9a0ce065", "description": "Malicious code in carpo-async-ganymede-init (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140430"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

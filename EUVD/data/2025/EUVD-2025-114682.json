@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114682", "enisaUuid": "92b75023-724e-32fa-8b9b-75e6588e769b", "description": "Malicious code in cz-conventional-changelog-private-superagent-module (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141427"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

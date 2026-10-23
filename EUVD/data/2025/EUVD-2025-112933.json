@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112933", "enisaUuid": "e4355076-76a5-3314-93f7-7c00153c1db3", "description": "Malicious code in hapi-commitizen-update-semantic-release (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143179"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

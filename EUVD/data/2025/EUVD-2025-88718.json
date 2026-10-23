@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-88718", "enisaUuid": "f373e0c3-fbd4-355b-9317-b5558ebbdf7a", "description": "Malicious code in soft_impala_z3n (npm)", "datePublished": "2025-11-11T15:19:32", "dateUpdated": "2025-11-11T15:19:32", "baseScore": 0.0, "aliases": ["MAL-2025-117166"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120568", "enisaUuid": "9cfcadfd-9a47-37a4-a4c4-58e3ed400cd2", "description": "Malicious code in webdriver-mocha-run-script-kastra-dactyl (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149361"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

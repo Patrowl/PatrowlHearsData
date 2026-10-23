@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115740", "enisaUuid": "2ae18cb8-b88e-30fc-88ad-38e72463b173", "description": "Malicious code in canopus-nova-dotenv-umbriel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140366"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

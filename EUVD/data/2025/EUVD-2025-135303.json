@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-135303", "enisaUuid": "278e4623-012b-37b1-971b-201a69e6db8b", "description": "Malicious code in tray-opzp-putrad (npm)", "datePublished": "2025-11-12T19:18:14", "dateUpdated": "2025-11-12T19:18:14", "baseScore": 0.0, "aliases": ["MAL-2025-179226"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

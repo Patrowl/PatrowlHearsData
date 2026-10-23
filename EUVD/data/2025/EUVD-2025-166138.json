@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166138", "enisaUuid": "6aff379d-4e41-3b1e-b7a3-508f23d3219b", "description": "Malicious code in go-notify (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21619"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

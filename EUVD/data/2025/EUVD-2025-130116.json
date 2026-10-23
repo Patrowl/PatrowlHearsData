@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130116", "enisaUuid": "a5c95d59-511e-38f7-aea2-18619c60c8b7", "description": "Malicious code in component-detection (npm)", "datePublished": "2025-08-01T01:31:41", "dateUpdated": "2025-08-05T03:22:33", "baseScore": 0.0, "aliases": ["MAL-2025-6389"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

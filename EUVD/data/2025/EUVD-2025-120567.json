@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120567", "enisaUuid": "178facc7-2de9-3448-b887-65efeaba16bf", "description": "Malicious code in webdriver-mocha-sadr-halley-build (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149362"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

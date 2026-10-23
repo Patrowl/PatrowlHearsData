@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123979", "enisaUuid": "709449fa-84eb-3035-ad3d-68314d63972f", "description": "Malicious code in package-playwright-webpack-antares (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145942"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

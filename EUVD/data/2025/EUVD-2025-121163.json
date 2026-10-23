@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121163", "enisaUuid": "3891a2a2-2fcf-33c8-8f99-8e1f3fb32bf9", "description": "Malicious code in transform-json-react-bootstrap-telesto (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148765"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

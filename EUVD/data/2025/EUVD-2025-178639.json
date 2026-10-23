@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178639", "enisaUuid": "a8bd1d36-cca4-3b71-ac40-96b678dd225d", "description": "Malicious code in grus-neutrino-html-webpack-plugin-cluster (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187243"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

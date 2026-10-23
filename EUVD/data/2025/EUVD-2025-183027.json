@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183027", "enisaUuid": "12b3e115-ec42-36c9-bd5d-bf2a09c29633", "description": "Malicious code in signpost-signer (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33242"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

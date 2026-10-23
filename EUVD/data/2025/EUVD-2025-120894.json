@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120894", "enisaUuid": "b1eae1c1-5c20-3330-a675-b2a4c3077eca", "description": "Malicious code in upgrade-telesto-forever-webdriver-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149035"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

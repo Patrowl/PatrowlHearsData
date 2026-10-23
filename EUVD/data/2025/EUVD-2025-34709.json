@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-34709", "enisaUuid": "6d335897-6d5a-3bbf-84b0-7df877687a61", "description": "Malicious code in internal-plugin-lifecycle-card (npm)", "datePublished": "2025-10-16T03:40:49", "dateUpdated": "2025-10-16T03:40:49", "baseScore": 0.0, "aliases": ["MAL-2025-48434"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

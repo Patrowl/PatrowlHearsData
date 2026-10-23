@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122616", "enisaUuid": "bf36b61d-d4d3-38a9-858b-be286bff4f6b", "description": "Malicious code in request-react-bootstrap-eslint-config-superagent (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147306"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

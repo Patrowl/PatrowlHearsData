@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76582", "enisaUuid": "901b6ab0-4e3c-3eca-aef2-0b492f288e03", "description": "Malicious code in inc_parrotfish-notthedev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-104061"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

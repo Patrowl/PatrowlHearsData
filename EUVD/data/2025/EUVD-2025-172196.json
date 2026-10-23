@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172196", "enisaUuid": "d41a64b4-49fd-338c-bbb2-b6bd31e5efdd", "description": "Malicious code in node-zoodubbo (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27667"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

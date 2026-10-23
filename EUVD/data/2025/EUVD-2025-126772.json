@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126772", "enisaUuid": "c33a09b2-116c-3cfb-aef9-b6b3c1433431", "description": "Malicious code in one-venafi-local-store-manager (npm)", "datePublished": "2025-04-02T17:40:46", "dateUpdated": "2025-04-02T18:40:58", "baseScore": 0.0, "aliases": ["MAL-2025-3031"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

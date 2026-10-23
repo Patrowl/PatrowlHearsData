@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114278", "enisaUuid": "07bce4e0-85c2-3058-ba93-9ca55d28a18b", "description": "Malicious code in dynamo-nodemon-bulma-dependencies (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141831"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

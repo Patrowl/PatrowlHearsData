@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113110", "enisaUuid": "b999077b-cdd0-3a2b-b38f-85d7dba81f34", "description": "Malicious code in graphql-enceladus-meteor-jasmine (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143002"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

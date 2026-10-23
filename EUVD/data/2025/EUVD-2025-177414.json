@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177414", "enisaUuid": "bae577e3-5fa9-3a1e-b7f8-0cbe62fdb683", "description": "Malicious code in orbit-publish-dynamo-helmet (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188468"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

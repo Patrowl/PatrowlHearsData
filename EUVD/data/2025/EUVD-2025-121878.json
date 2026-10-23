@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121878", "enisaUuid": "47a96eb6-fd57-36bf-b7a9-79db36beb94a", "description": "Malicious code in socketio-command-andromeda-async (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148047"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-54932", "enisaUuid": "cff8d6e8-4800-364f-80a8-f1d472351238", "description": "Malicious code in dependent-blue-sparrow (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-67717"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

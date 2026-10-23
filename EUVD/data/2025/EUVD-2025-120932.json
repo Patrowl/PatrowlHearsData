@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120932", "enisaUuid": "c59394b4-9197-3cbb-99ab-7c0bffb6011e", "description": "Malicious code in update-halley-framework-auriga (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148997"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

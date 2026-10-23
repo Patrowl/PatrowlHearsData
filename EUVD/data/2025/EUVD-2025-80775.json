@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80775", "enisaUuid": "1fd14b1e-f29b-3784-a6e6-fdc3c508814c", "description": "Malicious code in reginald-validator-catalyst (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-107807"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

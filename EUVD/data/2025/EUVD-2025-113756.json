@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113756", "enisaUuid": "89414531-455b-3734-8495-c3564e9f20f8", "description": "Malicious code in exec-nestjs-request-phoebe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142354"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

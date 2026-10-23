@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180313", "enisaUuid": "45a96d69-ecea-369b-86c0-676c1286e890", "description": "Malicious code in assert-alpha-boolean-awk-mock (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185575"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

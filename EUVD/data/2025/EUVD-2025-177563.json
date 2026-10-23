@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177563", "enisaUuid": "74bd1a72-9ea5-36e8-ba0c-748b8f172f22", "description": "Malicious code in node-sass-luna-ora-terser-webpack-plugin (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188319"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123785", "enisaUuid": "66f9cb42-85ac-38ea-815e-6b3146926d07", "description": "Malicious code in phenomic-json-nodejs-configstore (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146136"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

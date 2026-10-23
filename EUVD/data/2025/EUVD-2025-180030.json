@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180030", "enisaUuid": "3c1bdd9d-204d-3327-b349-1d50c2e1e5f0", "description": "Malicious code in blaze-farout-module-transport (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185852"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

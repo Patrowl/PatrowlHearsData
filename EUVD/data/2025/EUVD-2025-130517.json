@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130517", "enisaUuid": "e5fe561e-c6d1-30c2-afed-06733d67dc6f", "description": "Malicious code in productboard-freemail (npm)", "datePublished": "2025-08-06T06:16:06", "dateUpdated": "2025-08-06T18:45:10", "baseScore": 0.0, "aliases": ["MAL-2025-6795"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

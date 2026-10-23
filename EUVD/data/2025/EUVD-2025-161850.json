@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161850", "enisaUuid": "d6fc6518-1eb1-30d0-9baa-a7a096562728", "description": "Malicious code in com.unity.2d.tilemap (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17351"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

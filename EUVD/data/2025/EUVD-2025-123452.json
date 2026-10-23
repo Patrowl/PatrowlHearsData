@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123452", "enisaUuid": "72f397b6-72a7-3fed-9912-65110387d9c0", "description": "Malicious code in prettier-json-tailwindcss-changelog (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146470"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

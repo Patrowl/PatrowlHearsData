@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161554", "enisaUuid": "cc147876-471a-3073-8013-d1920f025aa6", "description": "Malicious code in cisco-k8s (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17054"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

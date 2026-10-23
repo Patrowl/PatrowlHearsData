@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-65431", "enisaUuid": "38ed505d-157c-31ff-a232-3fa46e0f5cef", "description": "Malicious code in added_python_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-93123"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

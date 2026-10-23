@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175855", "enisaUuid": "06b2493e-6e16-3213-a4ce-005f09a97d31", "description": "Malicious code in typeorm-warp-procyon-non-blocking (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190020"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

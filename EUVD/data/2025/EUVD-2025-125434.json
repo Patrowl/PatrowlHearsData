@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125434", "enisaUuid": "10f93b53-8ad6-3ca3-ae37-e71a8979e96c", "description": "Malicious code in @kamotive/api-file-upload (npm)", "datePublished": "2025-03-03T13:13:09", "dateUpdated": "2025-03-03T13:13:09", "baseScore": 0.0, "aliases": ["MAL-2025-1690"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

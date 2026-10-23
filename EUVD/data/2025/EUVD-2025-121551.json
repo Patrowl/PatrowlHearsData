@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121551", "enisaUuid": "c7f8ea60-653e-33db-943a-449812062264", "description": "Malicious code in superagent-castor-mongoose-morgan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148375"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

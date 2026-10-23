@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115972", "enisaUuid": "a8c9301c-554a-31a8-9aec-c1a95e45629d", "description": "Malicious code in browserify-meteor-exec-jsonp (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140132"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

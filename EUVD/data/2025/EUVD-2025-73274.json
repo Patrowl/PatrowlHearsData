@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-73274", "enisaUuid": "f0059302-94cc-36b4-afda-9b78acf32d40", "description": "Malicious code in tight_puma_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-97016"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

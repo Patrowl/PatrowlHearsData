@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169932", "enisaUuid": "6b48f7c3-6c0e-33cf-8d2d-c62c9e382f66", "description": "Malicious code in lint-apex-magnetar-pulsar (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25403"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

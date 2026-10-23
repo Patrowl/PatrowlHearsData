@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120917", "enisaUuid": "6f78eea0-ea93-3f2a-a123-b2736b48ce8b", "description": "Malicious code in upgrade-flare-delphinus-nodemon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149012"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

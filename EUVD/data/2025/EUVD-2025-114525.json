@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114525", "enisaUuid": "ff5d8275-b74a-3d93-9982-5a5a50d8beb3", "description": "Malicious code in dependencies-sequelize-titan-antares (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141584"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

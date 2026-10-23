@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123237", "enisaUuid": "f31e97a6-9e3c-3c90-92d5-4c28dc118066", "description": "Malicious code in protractor-event-meteor-ganymede (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146685"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

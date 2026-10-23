@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187667", "enisaUuid": "f585ee72-fd44-32be-819c-a9665ffaffe3", "description": "Malicious code in unsize (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37879"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

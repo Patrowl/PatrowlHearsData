@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111325", "enisaUuid": "160c8424-4669-3491-8d0f-29bac8709191", "description": "Malicious code in meissa-antares-supervisor-publish (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144790"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

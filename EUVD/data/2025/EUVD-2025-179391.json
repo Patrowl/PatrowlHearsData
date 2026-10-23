@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179391", "enisaUuid": "0dfd2967-bbf0-3cef-ba59-5c1567581e0a", "description": "Malicious code in data-node-sanitize-balance-optimize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186491"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

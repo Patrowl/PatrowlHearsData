@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111387", "enisaUuid": "8cb785ca-bfdc-3978-9b17-ea818056f48c", "description": "Malicious code in markdownlint-sirius-rehype-farout (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144728"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

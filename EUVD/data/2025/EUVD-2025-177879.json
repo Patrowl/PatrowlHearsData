@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177879", "enisaUuid": "1a399433-03b8-374a-9caa-66c7ac0e3666", "description": "Malicious code in metabolomics-octans-soap-membrane (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188003"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

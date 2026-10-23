@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176246", "enisaUuid": "a329ed71-80ec-3eaf-9e71-b4c286d48d7c", "description": "Malicious code in spinner-spectron-electron-builder-loglevel (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189629"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

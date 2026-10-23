@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112422", "enisaUuid": "5f8f553d-989f-3d81-9ac8-317fc417bbbc", "description": "Malicious code in install-writable-centaurus-wolf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143691"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

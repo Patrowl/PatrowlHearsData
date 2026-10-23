@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171671", "enisaUuid": "6658c876-7eb4-3eee-94c2-115a77432764", "description": "Malicious code in nconf-galaxy-repository-cosmos (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27142"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

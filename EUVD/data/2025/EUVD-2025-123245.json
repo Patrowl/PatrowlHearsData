@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123245", "enisaUuid": "256f829f-0dee-3f99-a71b-5dc36da7823f", "description": "Malicious code in prompts-zenobia-promise-stream (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146677"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

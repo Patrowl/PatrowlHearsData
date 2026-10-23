@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115347", "enisaUuid": "78655e32-3a51-37e6-a040-e9b4f67e13db", "description": "Malicious code in chromedriver-aldebaran-helmet-bunyan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140760"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

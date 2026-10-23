@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162858", "enisaUuid": "b63579ed-11f2-3ff0-8a33-397b906bbffb", "description": "Malicious code in device-detection-paypal (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18359"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

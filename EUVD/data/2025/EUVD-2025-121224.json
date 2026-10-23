@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121224", "enisaUuid": "a46882b9-3b64-3e8a-81fa-e6f70b14b764", "description": "Malicious code in toml-commitizen-mocha-epimetheus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148704"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-204638", "enisaUuid": "2f12b5d3-5881-37c9-ad04-41421fff24be", "description": "Malicious code in escaux-scrumboard-api (npm)", "datePublished": "2025-12-20T08:20:34", "dateUpdated": "2025-12-22T21:38:10", "baseScore": 0.0, "aliases": ["MAL-2025-192680"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

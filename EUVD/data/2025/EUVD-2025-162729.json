@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162729", "enisaUuid": "acbb0b19-e71f-3626-9bc6-9e6cce5a3861", "description": "Malicious code in delta-interpret-try-grid-alert (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18230"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

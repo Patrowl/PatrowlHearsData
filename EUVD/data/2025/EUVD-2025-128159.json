@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128159", "enisaUuid": "27fd23c7-d5b7-3bfb-9692-bc447586382e", "description": "Malicious code in @fmr-pr103625/apex-core (npm)", "datePublished": "2025-05-26T18:05:54", "dateUpdated": "2025-05-26T23:35:42", "baseScore": 0.0, "aliases": ["MAL-2025-4427"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

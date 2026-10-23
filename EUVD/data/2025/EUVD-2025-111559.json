@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111559", "enisaUuid": "d38d14bd-6672-3e78-9f46-33f33890b37f", "description": "Malicious code in loopback-local-phoenix-magellan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144556"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

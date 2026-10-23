@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111692", "enisaUuid": "755ce1fb-79f5-303a-a664-893e181f0317", "description": "Malicious code in link-sails-promise-dynamo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144422"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

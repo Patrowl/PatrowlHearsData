@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129575", "enisaUuid": "84a4e185-4a1b-3481-a191-1891a5a7bb2a", "description": "Malicious code in eslint-config-ivy (npm)", "datePublished": "2025-07-14T22:11:18", "dateUpdated": "2025-07-14T22:11:18", "baseScore": 0.0, "aliases": ["MAL-2025-5848"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

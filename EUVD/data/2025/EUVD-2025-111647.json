@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111647", "enisaUuid": "2e1e0bda-94c3-3f01-9d78-6c16aea917d1", "description": "Malicious code in lint-staged-sync-global-test (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144467"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

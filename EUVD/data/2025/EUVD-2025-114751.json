@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114751", "enisaUuid": "0d8cfb8b-af2f-30b5-a5b0-3b5feb90fb12", "description": "Malicious code in csv-sedna-epimetheus-yaml (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141358"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

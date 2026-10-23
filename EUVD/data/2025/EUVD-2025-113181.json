@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113181", "enisaUuid": "af3b827e-24b6-3f6e-9f2d-6e60351038cb", "description": "Malicious code in global-dotenv-safe-mysql-mira (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142931"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

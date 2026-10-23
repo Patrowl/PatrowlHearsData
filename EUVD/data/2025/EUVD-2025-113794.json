@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113794", "enisaUuid": "e2d7cb9a-67f7-3626-ba29-0f896794afb8", "description": "Malicious code in event-mensa-rest-husky (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142316"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

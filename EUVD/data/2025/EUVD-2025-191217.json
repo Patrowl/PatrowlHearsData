@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191217", "enisaUuid": "c5718ce6-7680-344f-ad59-e35913e6a6c7", "description": "Malicious code in @h1shiny/buildtools (npm)", "datePublished": "2025-08-28T07:13:48", "dateUpdated": "2025-08-28T07:13:48", "baseScore": 0.0, "aliases": ["MAL-2025-41448"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

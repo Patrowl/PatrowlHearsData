@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166569", "enisaUuid": "3b9d88fb-e99b-3988-a822-305ec5798b94", "description": "Malicious code in gulp-helios-adonis-helmet (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22051"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126551", "enisaUuid": "a8d2a3ae-8f99-30fa-b613-4ffbd9909808", "description": "Malicious code in @instant-messengers/vk-teams-bridge (npm)", "datePublished": "2025-03-28T12:32:44", "dateUpdated": "2025-03-28T12:32:44", "baseScore": 0.0, "aliases": ["MAL-2025-2810"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

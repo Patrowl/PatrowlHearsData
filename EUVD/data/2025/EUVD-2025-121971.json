@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121971", "enisaUuid": "6ae32b9a-491a-3669-b536-18db8f034336", "description": "Malicious code in sirius-geckodriver-enif-child-process (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147954"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191155", "enisaUuid": "566f3b63-113c-3dd1-8f87-8c1c1cd4fb71", "description": "Malicious code in cwl_shared (npm)", "datePublished": "2025-08-21T19:03:04", "dateUpdated": "2025-08-21T19:03:04", "baseScore": 0.0, "aliases": ["MAL-2025-41378"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112805", "enisaUuid": "803ed84b-fe95-32b2-992c-664c3fc35da0", "description": "Malicious code in hermes-child-process-event-firebase (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143307"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

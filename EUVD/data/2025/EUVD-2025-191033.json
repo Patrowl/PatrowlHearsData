@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191033", "enisaUuid": "1e205c49-762f-3fdf-afe4-2b09fb5ff009", "description": "Malicious code in ai-agent-email (npm)", "datePublished": "2025-08-20T17:46:04", "dateUpdated": "2025-08-20T17:46:04", "baseScore": 0.0, "aliases": ["MAL-2025-41255"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

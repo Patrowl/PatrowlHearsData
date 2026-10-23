@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127042", "enisaUuid": "81994fd9-c49a-370c-8062-e02b0d655180", "description": "Malicious code in @medibank-lib/medi-analytics (npm)", "datePublished": "2025-04-23T15:38:40", "dateUpdated": "2025-04-23T15:38:40", "baseScore": 0.0, "aliases": ["MAL-2025-3301"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

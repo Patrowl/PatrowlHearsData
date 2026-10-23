@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113887", "enisaUuid": "a93bb407-7c57-3814-9854-9af282aa6c68", "description": "Malicious code in eslint-markdown-pdf-gulp-eleventy (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142223"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

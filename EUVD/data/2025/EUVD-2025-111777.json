@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111777", "enisaUuid": "10f6d75d-1047-37cd-8c26-f5849f23ecce", "description": "Malicious code in less-loader-update-spica-mongoose (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144336"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

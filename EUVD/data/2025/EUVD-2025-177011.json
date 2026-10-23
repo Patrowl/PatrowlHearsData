@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177011", "enisaUuid": "ffee8ad8-e5f4-3b7a-96c7-d577620985ff", "description": "Malicious code in promise-umbra-css-loader-postcss-loader (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188864"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

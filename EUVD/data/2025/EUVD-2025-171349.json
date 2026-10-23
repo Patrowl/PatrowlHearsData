@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171349", "enisaUuid": "a6134bce-180d-3c20-910d-a93d8196403d", "description": "Malicious code in mplayer-binary-win32 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26820"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

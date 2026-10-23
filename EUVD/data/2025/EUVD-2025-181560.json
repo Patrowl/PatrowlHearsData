@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181560", "enisaUuid": "93431007-e5a0-3911-a861-557f9d4bf61f", "description": "Malicious code in react-context-stylizer (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31775"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

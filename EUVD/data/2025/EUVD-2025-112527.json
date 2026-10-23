@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112527", "enisaUuid": "3d7b443a-d4b8-3410-8693-4cc131dfadd2", "description": "Malicious code in ini-delphinus-fetch-sync (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143586"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

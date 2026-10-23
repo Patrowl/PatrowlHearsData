@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121083", "enisaUuid": "9ceee515-f169-3686-b11c-2d81fecd16bf", "description": "Malicious code in typeorm-fornax-centaurus-eridanus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148845"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

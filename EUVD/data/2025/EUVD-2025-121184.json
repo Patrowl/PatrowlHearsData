@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121184", "enisaUuid": "861fa240-b5e9-3acd-9a85-27c88c26df05", "description": "Malicious code in tool-nconf-uninstall-upgrade (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148744"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

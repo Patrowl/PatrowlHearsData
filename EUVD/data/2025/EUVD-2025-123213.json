@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123213", "enisaUuid": "368f9f84-077a-3f24-bd02-9fdbe4bb29bb", "description": "Malicious code in proxima-commitlint-config-angular-pyxis-fork (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146709"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115971", "enisaUuid": "dd48f8f6-cf4c-35cf-ad98-aabd3f44423f", "description": "Malicious code in browserify-miranda-perseus-mira (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140133"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

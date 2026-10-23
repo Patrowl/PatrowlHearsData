@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178379", "enisaUuid": "271fc3d2-a171-3934-9db1-e7fe72e33374", "description": "Malicious code in integer-pipe-beta-orchestrate-simulate (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187503"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

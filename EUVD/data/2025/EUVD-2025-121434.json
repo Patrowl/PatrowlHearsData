@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121434", "enisaUuid": "1db8c4b3-93c0-3316-a70f-06d2c199337b", "description": "Malicious code in telesto-eslint-config-writable-rate-limiter (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148494"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

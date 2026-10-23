@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178228", "enisaUuid": "13c162d0-85df-3d27-90b2-70b7a5837526", "description": "Malicious code in kappa-cache-process-byte-sudo (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187654"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

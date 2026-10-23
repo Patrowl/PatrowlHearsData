@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177094", "enisaUuid": "65ff9456-6a55-36d8-ac82-9ff3c1658b9a", "description": "Malicious code in postcss-loader-install-thuban-pipe (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188781"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172406", "enisaUuid": "0c53df5f-9a00-3dfe-bb39-3e0b65301e17", "description": "Malicious code in nu-refactor-load-boolean-log (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27877"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175405", "enisaUuid": "804bd03f-2fe0-3adb-9631-1ecc2bfc2a08", "description": "Malicious code in zephyr-sadr-child-process-bootes (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190471"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

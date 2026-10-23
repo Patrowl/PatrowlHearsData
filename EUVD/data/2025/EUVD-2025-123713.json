@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123713", "enisaUuid": "fd5a2988-2bb4-39d1-bcbb-256781d2f465", "description": "Malicious code in pino-altair-uninstall-sirius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146208"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

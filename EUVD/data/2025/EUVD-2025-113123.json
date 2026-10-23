@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113123", "enisaUuid": "9278a792-e1fa-3223-907b-8aa017b7a647", "description": "Malicious code in got-superagent-winston-rollup (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142989"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

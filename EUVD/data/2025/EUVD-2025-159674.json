@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159674", "enisaUuid": "1f4d16a8-6e44-3bbc-b95b-adaded5ee5ca", "description": "Malicious code in avalon-cli-server (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15173"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

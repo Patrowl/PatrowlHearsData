@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187710", "enisaUuid": "bbde49bc-feac-38ff-8daf-a7088bb7b2db", "description": "Malicious code in upload-to-release (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37922"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

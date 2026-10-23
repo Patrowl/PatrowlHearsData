@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-64366", "enisaUuid": "63ab33cf-92ce-380b-b16b-92d0b8d95047", "description": "Malicious code in elaborate_aphid_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-94188"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

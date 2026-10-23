@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184038", "enisaUuid": "9fe4542b-2dc7-3124-8c64-0226a8ce9fe6", "description": "Malicious code in svg-config-viewer (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34253"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

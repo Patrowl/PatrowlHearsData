@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112733", "enisaUuid": "adefc01a-5202-34b5-bc19-0f3afda8fefe", "description": "Malicious code in html-webpack-plugin-zenobia-terser-sqlite (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143379"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

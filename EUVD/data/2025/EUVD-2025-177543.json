@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177543", "enisaUuid": "0e82a9c3-06dc-3686-a74d-735815076d6f", "description": "Malicious code in non-blocking-luna-axios-pegasus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188339"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

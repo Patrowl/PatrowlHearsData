@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115351", "enisaUuid": "27c36784-12bb-369f-8d4f-e4acb0613ad4", "description": "Malicious code in child-process-socketio-envconfig-umbriel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140756"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

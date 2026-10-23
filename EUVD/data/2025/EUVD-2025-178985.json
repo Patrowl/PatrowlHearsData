@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178985", "enisaUuid": "4e767b8c-d4d7-35e3-9abc-190e41bca890", "description": "Malicious code in execute-long-pipe-file-encode (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186897"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

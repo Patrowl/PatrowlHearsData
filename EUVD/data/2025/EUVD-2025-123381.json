@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123381", "enisaUuid": "19eb3f01-250a-315f-a4be-ae99afb46ab3", "description": "Malicious code in private-readable-quantum-triton (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146541"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

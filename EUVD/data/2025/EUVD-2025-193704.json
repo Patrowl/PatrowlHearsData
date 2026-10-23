@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193704", "enisaUuid": "9a88041b-0c97-3443-bd25-c3f8c2f76b63", "description": "Malicious code in deimos-epimetheus-apollo-fornax (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43951"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-59181", "enisaUuid": "0c806cb4-a56b-3884-acb9-552637496405", "description": "Malicious code in inc_bandicoot_z3n (npm)", "datePublished": "2025-11-11T00:17:57", "dateUpdated": "2025-11-11T00:17:57", "baseScore": 0.0, "aliases": ["MAL-2025-63458"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

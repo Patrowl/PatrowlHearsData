@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116029", "enisaUuid": "f50da64b-5a1c-39ed-a924-04cd9a49d6a6", "description": "Malicious code in bootes-commitlint-config-angular-eris-nestjs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140073"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

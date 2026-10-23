@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112170", "enisaUuid": "cf1ef845-2b73-383e-be04-fe5ef48a716f", "description": "Malicious code in jovian-csrf-javascript-gridsome (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143943"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113562", "enisaUuid": "62551054-ec0f-31bb-af7b-7509838c3e3f", "description": "Malicious code in fomalhaut-pyxis-child-process-terser (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142550"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

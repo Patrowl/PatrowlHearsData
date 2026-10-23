@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165887", "enisaUuid": "75c2f031-126a-3613-bf38-6bd2a9dae4a5", "description": "Malicious code in getcookies (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21368"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

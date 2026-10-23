@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120745", "enisaUuid": "b5ccbeeb-8f68-39ea-82f5-1f062fac71f2", "description": "Malicious code in vortex-loglevel-deimos-webdriver-manager (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149184"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

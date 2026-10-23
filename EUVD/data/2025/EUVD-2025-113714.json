@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113714", "enisaUuid": "c59175fe-0da0-3070-a77e-060d4298c7c3", "description": "Malicious code in express-xanadu-husky-lint-staged (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142396"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

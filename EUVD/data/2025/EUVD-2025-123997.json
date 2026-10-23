@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123997", "enisaUuid": "3ec21b19-771e-3b87-b2e3-eeae46e42ba2", "description": "Malicious code in package-await-dotenv-safe-acamar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145924"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

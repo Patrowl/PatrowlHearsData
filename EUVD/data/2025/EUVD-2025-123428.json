@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123428", "enisaUuid": "e812726d-9390-3c2f-bc5e-64f179ed487b", "description": "Malicious code in prettier-plugin-markdown-sails-process-graphql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146494"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

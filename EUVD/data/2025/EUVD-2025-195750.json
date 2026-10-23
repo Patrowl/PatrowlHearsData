@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195750", "enisaUuid": "8bb52591-6dc8-3317-a483-60b73b114596", "description": "Malicious code in sequelize-sedna-phoebe-webpack (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45998"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

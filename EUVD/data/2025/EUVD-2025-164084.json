@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164084", "enisaUuid": "376d5f27-6b73-3201-b61c-64e0458027a4", "description": "Malicious code in ember-module-migration (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19563"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

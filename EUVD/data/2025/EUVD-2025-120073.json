@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120073", "enisaUuid": "8142eb6a-dc15-39ac-ad05-be803da9533a", "description": "Malicious code in zenith-polaris-warp-nodejs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149859"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

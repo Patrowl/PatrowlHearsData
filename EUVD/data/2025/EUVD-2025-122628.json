@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122628", "enisaUuid": "0899d304-3971-36aa-862f-bb10733d1825", "description": "Malicious code in request-halley-chakra-ui-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147294"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

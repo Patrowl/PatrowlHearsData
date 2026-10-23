@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124286", "enisaUuid": "dab4b36a-ea08-391e-ba39-09ae17918c14", "description": "Malicious code in norma-charon-cypress-oauth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145635"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

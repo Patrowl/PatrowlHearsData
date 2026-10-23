@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123757", "enisaUuid": "866bfc5e-86bc-3aeb-b459-3b04f060d28b", "description": "Malicious code in phoebe-morgan-install-concurrently (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146164"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

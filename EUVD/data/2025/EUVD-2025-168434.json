@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168434", "enisaUuid": "5a5a4a35-b9cb-3157-b20a-9606ee8db553", "description": "Malicious code in js-donkey (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23916"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

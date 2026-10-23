@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122806", "enisaUuid": "0122776c-5218-3bbd-bb1d-d3eef64c9e6b", "description": "Malicious code in redis-version-dependencies-zephyr (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147116"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

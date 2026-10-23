@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179433", "enisaUuid": "daa3ee15-e0aa-3ed4-b584-0c1a192cc42c", "description": "Malicious code in cypress-phoenix-higgs-chromedriver (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186449"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124673", "enisaUuid": "196758dd-78af-3e99-bf71-4ecddc8c2c1a", "description": "Malicious code in mysql-farout-morgan-supervisor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145245"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

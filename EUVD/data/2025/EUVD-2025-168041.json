@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168041", "enisaUuid": "ed7bd07e-12c7-3b06-82c2-959c6550c56c", "description": "Malicious code in j2-cli (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23523"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

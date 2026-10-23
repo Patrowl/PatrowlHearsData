@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-202809", "enisaUuid": "046f7ff0-589f-3b25-b01d-a46949632997", "description": "Malicious code in elf-stats-frostbitten-cookie-757 (npm)", "datePublished": "2025-12-11T19:46:09", "dateUpdated": "2025-12-23T19:37:08", "baseScore": 0.0, "aliases": ["MAL-2025-192500"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

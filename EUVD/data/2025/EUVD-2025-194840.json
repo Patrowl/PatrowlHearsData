@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194840", "enisaUuid": "9729fe39-d91f-3a36-bbb3-46a588048df8", "description": "Malicious code in magellan-ignite-graphql-innercore (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45087"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

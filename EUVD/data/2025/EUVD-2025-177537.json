@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177537", "enisaUuid": "f6f727c6-1c1f-336c-a7ac-74d4afbbd715", "description": "Malicious code in notify-beta-tree-mock-minify (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188345"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

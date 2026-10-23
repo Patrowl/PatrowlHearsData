@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114153", "enisaUuid": "722e9ccc-4fce-3d91-9c35-4ecb2107af80", "description": "Malicious code in elektra-zenobia-webdriver-mocha-async (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141957"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

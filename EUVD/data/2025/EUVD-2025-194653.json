@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194653", "enisaUuid": "ec2ee8d1-f833-345b-93cf-146ec5057a5d", "description": "Malicious code in kronos-geochemistry-query-solarnebula (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44900"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

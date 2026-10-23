@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179913", "enisaUuid": "9da8fd33-610d-342d-8b97-66b7d2f8276d", "description": "Malicious code in cache-simple-awk-sudo-class (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185969"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

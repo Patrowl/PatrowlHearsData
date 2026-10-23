@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112859", "enisaUuid": "bc5feb91-f99e-37ea-b0d9-38693619b064", "description": "Malicious code in helmet-fetch-forever-registry (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143253"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

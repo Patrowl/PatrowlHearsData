@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129982", "enisaUuid": "b0581916-fe12-327c-a0ce-6e7f671cf879", "description": "Malicious code in redux-probe-unknown-action-rce (npm)", "datePublished": "2025-07-26T11:15:52", "dateUpdated": "2025-07-28T01:58:37", "baseScore": 0.0, "aliases": ["MAL-2025-6255"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122729", "enisaUuid": "61009b17-b680-3d27-b5a8-8aed06c784f8", "description": "Malicious code in rehype-winston-webpack-iota (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147193"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

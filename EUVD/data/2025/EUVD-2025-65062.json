@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-65062", "enisaUuid": "777b5007-d79a-3f5a-baf7-987975b1f12a", "description": "Malicious code in certain_anaconda_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-93492"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

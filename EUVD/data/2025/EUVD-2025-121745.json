@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121745", "enisaUuid": "7d4b417a-b13c-3f5f-9337-f52ae90dc705", "description": "Malicious code in spica-spinner-rimraf-process (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148180"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

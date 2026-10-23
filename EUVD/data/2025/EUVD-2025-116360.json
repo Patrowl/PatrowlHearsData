@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116360", "enisaUuid": "dec8b849-8bdd-3d1b-bdda-941258791ada", "description": "Malicious code in auth0-cli-envconfig-capella (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139742"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

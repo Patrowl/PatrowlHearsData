@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111910", "enisaUuid": "541a1a71-167f-3dfb-bafe-0dc051bfc9a0", "description": "Malicious code in koa-pyxis-xanadu-library (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144203"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

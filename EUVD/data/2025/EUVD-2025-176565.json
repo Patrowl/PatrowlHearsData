@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176565", "enisaUuid": "83c9de77-ecb5-3895-ace9-a8c19d03f11e", "description": "Malicious code in sagitta-antares-winston-dotenv (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189310"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

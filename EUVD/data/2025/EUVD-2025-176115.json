@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176115", "enisaUuid": "4527f058-1405-3654-8ad2-445fe5781976", "description": "Malicious code in supernova-astrochemistry-webpack-supervisor (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189760"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

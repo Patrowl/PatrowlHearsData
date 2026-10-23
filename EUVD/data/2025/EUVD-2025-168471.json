@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168471", "enisaUuid": "c261a0ad-f6f5-3cb4-8a45-b313039f4e6f", "description": "Malicious code in json-language-server (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23953"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

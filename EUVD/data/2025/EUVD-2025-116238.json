@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116238", "enisaUuid": "1f48c0ce-4687-3677-9f99-88bc7bba87e9", "description": "Malicious code in babel-jasmine-castor-sqlite (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139864"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

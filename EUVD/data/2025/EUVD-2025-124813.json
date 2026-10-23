@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124813", "enisaUuid": "65c14a3d-a93f-39d1-99de-53b2a9bc55c1", "description": "Malicious code in module-grunt-async-ophiuchus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145105"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

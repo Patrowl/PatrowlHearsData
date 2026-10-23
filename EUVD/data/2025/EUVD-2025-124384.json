@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124384", "enisaUuid": "5cb19948-4b87-3485-9027-328e0f672929", "description": "Malicious code in node-sass-eslint-plugin-solis-dotenv-parse-variables (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145537"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

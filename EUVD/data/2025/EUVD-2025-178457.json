@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178457", "enisaUuid": "188543b7-3918-3a1d-86c1-a4b7dfdc763e", "description": "Malicious code in ignite-configstore-morgan-kastra (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187425"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

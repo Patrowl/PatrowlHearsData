@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-146440", "enisaUuid": "a38fdfc5-ff2e-3e33-9afc-812a3d8863fe", "description": "Malicious code in verify-ayca-amilsa (npm)", "datePublished": "2025-11-12T16:47:05", "dateUpdated": "2025-11-12T16:47:05", "baseScore": 0.0, "aliases": ["MAL-2025-170372"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

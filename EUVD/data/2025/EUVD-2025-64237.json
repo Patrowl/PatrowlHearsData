@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-64237", "enisaUuid": "9e8332c9-3f2f-38da-b775-f9215072522c", "description": "Malicious code in evident_bat_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-94317"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

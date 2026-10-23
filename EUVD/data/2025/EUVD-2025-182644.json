@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182644", "enisaUuid": "f9ff6501-afb3-3037-a89b-10ee02a61aff", "description": "Malicious code in sdm630-modbus-tcp (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32859"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163168", "enisaUuid": "840062fe-4038-36f8-9176-83793e6ae120", "description": "Malicious code in dotenv-safe-mira-polaris-passport (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18669"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

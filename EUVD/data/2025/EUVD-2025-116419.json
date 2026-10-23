@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116419", "enisaUuid": "c5dda6f2-66e9-380c-85eb-151b2e6076f2", "description": "Malicious code in auriga-lint-staged-janus-dotenv-safe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139683"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

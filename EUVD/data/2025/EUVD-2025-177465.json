@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177465", "enisaUuid": "db92d19f-789e-35e2-99e5-e5c00edfc0c2", "description": "Malicious code in omicron-enum-link-permission-double (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188417"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

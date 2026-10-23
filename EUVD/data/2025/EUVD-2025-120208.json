@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120208", "enisaUuid": "63cc3092-7d7b-34b3-a93b-0c62e482a94a", "description": "Malicious code in xerxes-webdriver-manager-ursa-registry (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149723"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

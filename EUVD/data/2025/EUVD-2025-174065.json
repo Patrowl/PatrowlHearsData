@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174065", "enisaUuid": "40824759-1808-3a83-ada5-89ec6e0cc68e", "description": "Malicious code in postcss-darkenergy-hermes-resolvers (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29536"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

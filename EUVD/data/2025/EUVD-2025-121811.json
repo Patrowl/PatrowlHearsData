@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121811", "enisaUuid": "5a84ee65-4043-3687-8f7c-278b331d9cf9", "description": "Malicious code in spectron-docusaurus-nodejs-postgres (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148114"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

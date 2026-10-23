@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123402", "enisaUuid": "c6595ee5-5a81-3e6f-a103-63bb07cd26e9", "description": "Malicious code in prettier-stylelint-sync-install-loopback (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146520"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

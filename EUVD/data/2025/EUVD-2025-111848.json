@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111848", "enisaUuid": "47ad16f4-4874-3702-aeef-e5a34ba70a4c", "description": "Malicious code in leda-dependencies-fomalhaut-rocket (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144265"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177846", "enisaUuid": "4d8c8b35-f0ea-3b48-af4f-4ab726b283e5", "description": "Malicious code in middleware-antd-hapi-nightwatch (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188036"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

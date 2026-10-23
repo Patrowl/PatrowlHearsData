@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188300", "enisaUuid": "5825df9f-6282-378b-b0fd-c768625836e1", "description": "Malicious code in vite-plugin-react-ping (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38512"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

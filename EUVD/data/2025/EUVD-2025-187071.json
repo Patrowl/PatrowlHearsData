@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187071", "enisaUuid": "a7cef566-dc9c-3b2f-bc4e-5d6969e0ae94", "description": "Malicious code in tslint-config-toolbox (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37261"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

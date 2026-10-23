@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153738", "enisaUuid": "7ed12c20-fc51-3a1a-9576-b6d5f02147f8", "description": "Malicious code in @plentific/dashboard (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-29T06:43:16", "baseScore": 0.0, "aliases": ["MAL-2025-9237"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

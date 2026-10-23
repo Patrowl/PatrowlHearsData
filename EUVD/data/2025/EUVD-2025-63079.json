@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63079", "enisaUuid": "8f9dc732-d775-3270-b12b-78fe8e364a16", "description": "Malicious code in mild_spider_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-95475"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

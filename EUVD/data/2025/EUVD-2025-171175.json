@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171175", "enisaUuid": "20d2e7e0-a031-3603-9cdd-cfbd1513f6ac", "description": "Malicious code in mongorito-validations (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26646"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124836", "enisaUuid": "48ec52aa-3be5-3c74-98fd-52255f1f66a0", "description": "Malicious code in mocha-hydra-semantic-ui-celeste (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145082"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169212", "enisaUuid": "60ac8818-d247-305a-9aa7-d5facbf76e21", "description": "Malicious code in knexpress (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24694"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

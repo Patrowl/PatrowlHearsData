@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159490", "enisaUuid": "7f38de0d-b479-30cf-96a9-55fd10659eee", "description": "Malicious code in async-operation (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14989"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

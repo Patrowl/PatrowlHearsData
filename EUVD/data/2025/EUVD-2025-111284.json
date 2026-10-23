@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111284", "enisaUuid": "258839da-6dd2-3ec4-ad4e-24e49f537947", "description": "Malicious code in meissa-rate-limiter-materialize-forever (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144831"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

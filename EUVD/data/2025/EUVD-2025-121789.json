@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121789", "enisaUuid": "c976d81d-3596-3c4c-82c2-119bfcc42023", "description": "Malicious code in spectron-webdriver-oauth-spectron-webdriver-commitlint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148136"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

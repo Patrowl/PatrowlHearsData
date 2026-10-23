@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126556", "enisaUuid": "0109f495-e298-3794-a351-db0a9fa19809", "description": "Malicious code in @uniqa/customer-masterdata-ms (npm)", "datePublished": "2025-03-28T12:33:56", "dateUpdated": "2025-03-28T12:33:56", "baseScore": 0.0, "aliases": ["MAL-2025-2815"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

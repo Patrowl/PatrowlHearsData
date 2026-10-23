@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160396", "enisaUuid": "8164941c-cff5-3bb8-b00c-eecaa60cd7de", "description": "Malicious code in blueshift-winston-run-script-jest (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15895"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

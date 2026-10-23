@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121688", "enisaUuid": "6b47739e-bbb2-3a03-a0b2-1c7eb57743a4", "description": "Malicious code in sqlite-release-it-markdown-pdf-comet (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148237"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

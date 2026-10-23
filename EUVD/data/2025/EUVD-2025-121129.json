@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121129", "enisaUuid": "deb2950b-039e-3c72-850d-a492146c6e45", "description": "Malicious code in transport-promise-proxima-spectron-webdriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148799"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

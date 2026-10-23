@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122912", "enisaUuid": "9e068731-8102-3298-8181-c534436ea076", "description": "Malicious code in radiant-chai-mocha-pulsar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147010"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112218", "enisaUuid": "84bb5a1f-3657-3a11-b4e6-83996bbef892", "description": "Malicious code in javascript-websockets-neptune-janus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143895"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

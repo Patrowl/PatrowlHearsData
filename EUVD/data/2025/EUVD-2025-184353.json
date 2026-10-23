@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184353", "enisaUuid": "6d24c221-e3a0-38a6-86c9-86f07cb56000", "description": "Malicious code in taskjar (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34569"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

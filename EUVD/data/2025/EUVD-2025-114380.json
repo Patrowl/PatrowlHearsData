@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114380", "enisaUuid": "83ff23b9-0f0c-3741-8a3d-143b223da761", "description": "Malicious code in dotenv-parse-variables-ora-aquarius-markdown (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141729"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116456", "enisaUuid": "6c48c734-42cc-3610-b495-9d9ab6fb8f28", "description": "Malicious code in atlas-jwt-antares-lint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139646"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111771", "enisaUuid": "e16ac806-cd57-3b1b-83d8-ea69e47cdfee", "description": "Malicious code in less-optimize-css-assets-webpack-plugin-miranda-algol (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144342"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

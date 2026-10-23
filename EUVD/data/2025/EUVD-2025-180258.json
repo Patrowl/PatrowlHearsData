@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180258", "enisaUuid": "50b01bfd-a6d3-30c9-9e17-3855a2abd18c", "description": "Malicious code in async-registry-build-xml (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185630"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

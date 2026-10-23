@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159489", "enisaUuid": "6d329846-0d5c-380e-a395-f4c7d5f46679", "description": "Malicious code in async-deserialize-xi-assert-shell (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14988"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116427", "enisaUuid": "bc00965c-ce56-3197-b04e-09a96cd62f4f", "description": "Malicious code in auriga-dotenv-draco-rollup-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139675"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

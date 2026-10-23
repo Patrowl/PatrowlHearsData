@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114811", "enisaUuid": "63849968-8815-37e7-8b29-c32c79a11922", "description": "Malicious code in csrf-uglify-js-library-procyon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141298"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

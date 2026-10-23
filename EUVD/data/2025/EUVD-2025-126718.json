@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126718", "enisaUuid": "aa90bfd4-3d57-35db-867c-18caaca60973", "description": "Malicious code in msgspec-python313-pre (PyPI)", "datePublished": "2025-03-28T13:05:52", "dateUpdated": "2025-03-28T13:05:52", "baseScore": 0.0, "aliases": ["MAL-2025-2977"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

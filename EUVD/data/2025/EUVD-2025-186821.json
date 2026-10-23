@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-186821", "enisaUuid": "e2be58a4-bcbf-3c4b-ba5e-07e493fc3262", "description": "Malicious code in toml-karma-nodejs-rocket (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37031"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

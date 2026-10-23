@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187770", "enisaUuid": "aa13d62e-b453-3b4c-8667-b3d9c78249a6", "description": "Malicious code in utils-joongo (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37982"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

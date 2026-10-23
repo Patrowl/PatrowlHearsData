@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153767", "enisaUuid": "ba05beac-b397-3a43-817a-96bf42d2f0e0", "description": "Malicious code in @react-native-website/lint-examples (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9266"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

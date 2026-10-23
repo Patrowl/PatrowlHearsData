@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63608", "enisaUuid": "c1bcb9ed-db84-3ddb-92b5-720e7e2a4eac", "description": "Malicious code in implicit_pony_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-94946"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

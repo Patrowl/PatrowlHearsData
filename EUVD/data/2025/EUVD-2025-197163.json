@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197163", "enisaUuid": "2989dc70-7905-3f46-8974-0ba1de4acaa3", "description": "Malicious code in multiturn-prompts-agent (npm)", "datePublished": "2025-09-26T09:36:48", "dateUpdated": "2025-09-26T09:36:48", "baseScore": 0.0, "aliases": ["MAL-2025-47690"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

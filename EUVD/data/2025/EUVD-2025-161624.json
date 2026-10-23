@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161624", "enisaUuid": "2f132fef-8335-37b4-8286-84a9e56dc0a2", "description": "Malicious code in client-hooks-eslint-es6 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17124"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

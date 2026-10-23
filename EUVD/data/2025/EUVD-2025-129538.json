@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129538", "enisaUuid": "2cd505ad-8849-3aee-8dc7-21a45259e2a6", "description": "Malicious code in dns-exfil-poc (npm)", "datePublished": "2025-07-03T15:06:55", "dateUpdated": "2025-07-03T15:06:55", "baseScore": 0.0, "aliases": ["MAL-2025-5810"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

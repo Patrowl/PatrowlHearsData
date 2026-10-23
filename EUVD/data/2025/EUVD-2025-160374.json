@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160374", "enisaUuid": "c581f533-9f41-3b7b-b5f4-a91e91b05d7a", "description": "Malicious code in bls-slack-service (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15873"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

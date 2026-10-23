@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112186", "enisaUuid": "bc88334c-e2d2-3933-9f80-a4ac86283e79", "description": "Malicious code in jest-markdown-loopback-superagent (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143927"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179808", "enisaUuid": "937cada1-c44a-363d-a046-041c1e9c129f", "description": "Malicious code in ceres-redis-umbra-terser-webpack-plugin (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186074"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

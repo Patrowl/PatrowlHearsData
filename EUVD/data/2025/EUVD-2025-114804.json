@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114804", "enisaUuid": "953a8890-b9c6-3dfc-ba1b-cac658ba270c", "description": "Malicious code in css-loader-hapi-webpack-library (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141305"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

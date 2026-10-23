@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120692", "enisaUuid": "34deaf80-805b-32cf-83e2-fa8f61bfe0db", "description": "Malicious code in vulcan-gulp-ora-browserify (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149237"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

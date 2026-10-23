@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184091", "enisaUuid": "aed5e197-3b2f-33fe-a647-dbb35df64182", "description": "Malicious code in sycamore-integration-algolia (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34307"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

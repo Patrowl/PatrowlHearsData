@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-73417", "enisaUuid": "1d2d3d31-5f5a-3e9b-b0cc-f1e82af9e1cb", "description": "Malicious code in supporting_clam_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-96873"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

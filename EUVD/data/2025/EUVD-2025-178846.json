@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178846", "enisaUuid": "fc882d71-09a5-3b7e-bbc3-b56148057aed", "description": "Malicious code in fornax-postgres-phoenix-semantic-ui (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187036"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

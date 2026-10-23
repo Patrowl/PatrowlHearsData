@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175797", "enisaUuid": "6177d34a-37d2-3323-b831-82d62d3a099a", "description": "Malicious code in update-meteor-jupiter-kaus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190078"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

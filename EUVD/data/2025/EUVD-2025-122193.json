@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122193", "enisaUuid": "c80a91cc-428c-385e-8abe-47e3a51b6cd4", "description": "Malicious code in scripts-equinox-achernar-init (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147729"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177665", "enisaUuid": "fec3221e-d48c-3065-a4dc-af96f37fa7ae", "description": "Malicious code in neptune-framework-cors-ora (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188217"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

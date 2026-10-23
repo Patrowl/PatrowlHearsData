@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112303", "enisaUuid": "6471066b-4f5a-356e-9ec1-8d327129b001", "description": "Malicious code in janus-firebase-postcss-loader-cygnus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143810"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

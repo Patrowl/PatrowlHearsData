@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115035", "enisaUuid": "074d44b9-df7e-33a2-a339-7f888499b7a0", "description": "Malicious code in convict-gemini-quark-command (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141074"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

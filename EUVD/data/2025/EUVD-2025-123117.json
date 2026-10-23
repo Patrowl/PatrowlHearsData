@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123117", "enisaUuid": "59cfdc1f-81e6-3515-99ed-05c7479c2995", "description": "Malicious code in publish-postgres-despina-start (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146805"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

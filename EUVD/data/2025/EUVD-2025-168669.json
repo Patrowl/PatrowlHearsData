@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168669", "enisaUuid": "a99f1dcc-fabf-3f38-869d-14c7308cd229", "description": "Malicious code in k8s_ci (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24151"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

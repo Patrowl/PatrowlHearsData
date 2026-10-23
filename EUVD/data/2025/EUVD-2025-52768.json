@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-52768", "enisaUuid": "c9ddbe48-0414-37ae-a151-2de8b87e1bdd", "description": "Malicious code in petite-fuchsia-sheep (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-69881"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

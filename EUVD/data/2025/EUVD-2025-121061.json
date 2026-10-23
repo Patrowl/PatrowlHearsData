@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121061", "enisaUuid": "cc0f2e51-141a-32a2-8ac2-f5212abf7d3d", "description": "Malicious code in uglify-js-bunyan-solis-neptune (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148867"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

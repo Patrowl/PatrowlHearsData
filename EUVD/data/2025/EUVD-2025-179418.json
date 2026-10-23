@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179418", "enisaUuid": "a14f9820-26a1-3d37-8eb7-6293e8b2d17a", "description": "Malicious code in daemon-epsilon-hash-link-slow (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186464"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

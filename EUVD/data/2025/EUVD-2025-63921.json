@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63921", "enisaUuid": "40e692ad-a7e7-36dc-af57-64646eb76862", "description": "Malicious code in functional_puma_z3n (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-94633"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

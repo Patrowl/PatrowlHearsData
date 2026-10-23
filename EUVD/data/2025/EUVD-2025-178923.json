@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178923", "enisaUuid": "aa99b5b4-691d-3453-8bb1-aaf6eea45629", "description": "Malicious code in fetch-readable-spectron-convict (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186959"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

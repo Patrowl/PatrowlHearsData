@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116341", "enisaUuid": "77ce3bad-d631-3961-b5a7-42e53aecc2cb", "description": "Malicious code in avior-apollo-oauth-dependencies (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139761"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177314", "enisaUuid": "765f9188-314b-3c04-b733-0c8a851b7a88", "description": "Malicious code in parsec-build-nconf-miranda (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188568"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

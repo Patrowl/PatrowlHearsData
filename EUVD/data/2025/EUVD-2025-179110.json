@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179110", "enisaUuid": "ffed3531-2052-390c-9725-ff1f0f5e59dc", "description": "Malicious code in envconfig-dotenv-safe-middleware-javascript (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186772"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

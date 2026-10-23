@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162642", "enisaUuid": "caba1f49-8c06-3298-ae35-eaf174010896", "description": "Malicious code in debug-await-transpile-final-authorize (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18143"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

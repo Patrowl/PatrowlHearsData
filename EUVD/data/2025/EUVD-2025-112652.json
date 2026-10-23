@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112652", "enisaUuid": "dd97e8b6-551e-3257-a742-187d7090fd60", "description": "Malicious code in hydra-uninstall-cli-pyxis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143460"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

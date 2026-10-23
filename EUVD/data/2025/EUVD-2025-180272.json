@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180272", "enisaUuid": "2742ae33-755a-328e-8ab2-b3250e46ae38", "description": "Malicious code in async-dotenv-pino-pretty-odin (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185616"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

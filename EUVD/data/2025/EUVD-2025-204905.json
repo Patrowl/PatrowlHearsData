@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-204905", "enisaUuid": "648339e2-5ad2-3b9d-9013-3c049c28b960", "description": "Malicious code in elf-stats-ginger-bow-370 (npm)", "datePublished": "2025-12-23T08:08:02", "dateUpdated": "2025-12-24T00:53:16", "baseScore": 0.0, "aliases": ["MAL-2025-192770"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

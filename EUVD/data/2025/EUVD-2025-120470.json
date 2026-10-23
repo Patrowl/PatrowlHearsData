@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120470", "enisaUuid": "ec5bf49f-0795-35e1-80f7-ad8a7222c23a", "description": "Malicious code in wezen-local-venus-graphql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149460"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

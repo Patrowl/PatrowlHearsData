@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128155", "enisaUuid": "e3dc0bf1-931d-3034-9c24-0822d1491c55", "description": "Malicious code in tml-sso (npm)", "datePublished": "2025-05-25T10:07:11", "dateUpdated": "2025-05-25T10:07:11", "baseScore": 0.0, "aliases": ["MAL-2025-4423"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

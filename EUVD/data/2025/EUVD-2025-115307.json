@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115307", "enisaUuid": "25cc0ac3-2aaf-36ff-b5cf-5841ccab3ef4", "description": "Malicious code in cli-install-hercules-prompts (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140801"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

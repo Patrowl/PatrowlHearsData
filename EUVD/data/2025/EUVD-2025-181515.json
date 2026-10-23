@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181515", "enisaUuid": "3dd24c1f-66f2-3ae9-ba6d-7d2b17f607bd", "description": "Malicious code in ray-dashboard-client (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31729"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

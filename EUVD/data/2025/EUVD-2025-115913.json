@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115913", "enisaUuid": "ea8c78e9-f2bf-3cc7-b3b1-9cddc8059e50", "description": "Malicious code in build-sails-postgres-commitizen (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140191"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

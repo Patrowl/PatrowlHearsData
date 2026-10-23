@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114651", "enisaUuid": "6c14c313-05fe-38ba-ba42-828d44f22968", "description": "Malicious code in dactyl-webpack-loopback-winston (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141458"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

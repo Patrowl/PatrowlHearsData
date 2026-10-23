@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123314", "enisaUuid": "7dc476f7-ee76-3c48-8e08-508cbad8d9f9", "description": "Malicious code in procyon-nodejs-link-metalsmith (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146608"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

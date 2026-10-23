@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112034", "enisaUuid": "6996aeab-f664-3baa-8409-180306dd0c44", "description": "Malicious code in jwt-magellan-sedna-stop (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144079"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

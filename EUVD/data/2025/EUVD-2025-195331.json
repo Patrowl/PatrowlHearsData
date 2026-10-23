@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195331", "enisaUuid": "9760a8bf-862f-3e68-9761-091e8866ed42", "description": "Malicious code in postgres-futurology-standard-postcss (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45579"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

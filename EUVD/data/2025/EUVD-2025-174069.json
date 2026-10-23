@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174069", "enisaUuid": "4ee2b41f-8ee5-3107-a43f-ee483d9db18e", "description": "Malicious code in postcss-loader-express-init-test (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29540"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

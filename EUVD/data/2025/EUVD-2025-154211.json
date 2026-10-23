@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-154211", "enisaUuid": "3fa344fa-9028-387d-b981-d339f0f3e183", "description": "Malicious code in @yotpo-platform-packages/platform-bridge (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9710"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

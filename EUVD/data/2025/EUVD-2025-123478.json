@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123478", "enisaUuid": "0ba7d7fc-0085-380c-a0e9-4ba01025b0ad", "description": "Malicious code in postgres-perseus-karma-tool (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146443"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

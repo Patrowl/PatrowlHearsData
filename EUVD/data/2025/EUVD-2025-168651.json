@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168651", "enisaUuid": "53ec586b-dbe6-391f-b7bb-fe5127d1ca40", "description": "Malicious code in jwt-convict-dependencies-resolvers (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24133"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166699", "enisaUuid": "54cac84f-7902-3855-8315-909da737148a", "description": "Malicious code in hapi-kafka-node (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22181"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

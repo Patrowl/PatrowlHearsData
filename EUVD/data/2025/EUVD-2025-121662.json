@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121662", "enisaUuid": "28136b6c-a32c-3e4b-af69-60c5fba4beb1", "description": "Malicious code in start-backend-delphinus-writable (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148263"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177045", "enisaUuid": "c6694432-1d6c-3c90-a527-e68d9533a40a", "description": "Malicious code in private-toml-nightwatch-rigel (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188830"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

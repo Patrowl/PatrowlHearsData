@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164698", "enisaUuid": "04d94185-9794-3603-b608-15f1e2fb98fe", "description": "Malicious code in fake-twilio (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20178"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

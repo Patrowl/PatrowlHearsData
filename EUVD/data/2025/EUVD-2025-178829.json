@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178829", "enisaUuid": "d397431e-a41f-3722-a516-02372d0d1f49", "description": "Malicious code in frontend-uninstall-foundation-prettier (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187053"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

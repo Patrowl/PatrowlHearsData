@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121331", "enisaUuid": "738c9875-839a-308a-b55b-074fc84c59a4", "description": "Malicious code in testcafe-impulse-auth-bellatrix (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148597"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

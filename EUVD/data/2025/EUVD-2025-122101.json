@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122101", "enisaUuid": "6d51b0e8-140a-3b8c-b44b-55bbc2f6f60e", "description": "Malicious code in semantic-release-bunyan-enif-zephyr (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147822"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

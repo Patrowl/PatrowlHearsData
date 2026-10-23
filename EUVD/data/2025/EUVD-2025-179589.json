@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179589", "enisaUuid": "07eca6c1-3bfb-371d-95fd-e71788a239f8", "description": "Malicious code in container-tree-signal-notify-permission (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186293"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

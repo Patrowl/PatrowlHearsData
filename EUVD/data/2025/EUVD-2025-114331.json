@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114331", "enisaUuid": "a9225661-506e-3f65-b047-72b8f453fc54", "description": "Malicious code in dotenv-safe-transport-aether-miranda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141778"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

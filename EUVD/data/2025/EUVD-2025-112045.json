@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112045", "enisaUuid": "9dcf29ce-8f8d-39ee-8bbf-eff0412b9153", "description": "Malicious code in jwt-alphard-cz-conventional-changelog-registry (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144068"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

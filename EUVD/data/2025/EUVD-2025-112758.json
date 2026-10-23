@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112758", "enisaUuid": "e3d5bc83-ada2-3087-adab-46f58d36acd4", "description": "Malicious code in hexo-spectron-webdriver-odin-library (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143354"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

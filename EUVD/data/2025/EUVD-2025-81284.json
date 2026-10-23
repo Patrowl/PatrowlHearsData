@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-81284", "enisaUuid": "32ef2173-84b1-3200-a7cd-8c3d1a36fdbc", "description": "Malicious code in mass_asp_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-105648"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

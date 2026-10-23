@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191023", "enisaUuid": "83bee841-8e5d-389e-a6f1-558e580b1003", "description": "Malicious code in @cf.cplace.platform/forms (npm)", "datePublished": "2025-08-19T09:16:03", "dateUpdated": "2025-08-19T09:16:03", "baseScore": 0.0, "aliases": ["MAL-2025-41245"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

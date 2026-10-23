@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127675", "enisaUuid": "e58d874a-4a05-3bae-a078-ce38541b3f3d", "description": "Malicious code in @isimplelab/ng2-charts (npm)", "datePublished": "2025-02-23T05:24:10", "dateUpdated": "2025-05-22T14:07:46", "baseScore": 0.0, "aliases": ["MAL-2025-3942"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

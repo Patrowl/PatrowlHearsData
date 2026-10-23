@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122901", "enisaUuid": "981897d0-de66-3fd1-afb4-d7177af1d72f", "description": "Malicious code in radiant-proxima-kastra-middleware (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147021"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

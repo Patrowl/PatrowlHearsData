@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122762", "enisaUuid": "ca7f95df-6423-3066-a3c4-0f369b0e2aeb", "description": "Malicious code in regulus-xenos-equinox-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147160"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

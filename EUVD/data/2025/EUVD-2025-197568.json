@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197568", "enisaUuid": "4e31243d-2a6c-3fcc-a1d8-1629a2f5f47b", "description": "Malicious code in verification-workers (npm)", "datePublished": "2025-10-23T19:50:22", "dateUpdated": "2025-10-23T19:50:22", "baseScore": 0.0, "aliases": ["MAL-2025-48883"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

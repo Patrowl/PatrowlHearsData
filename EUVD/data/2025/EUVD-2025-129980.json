@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129980", "enisaUuid": "bbad02d8-d6ae-3386-82b5-622160374634", "description": "Malicious code in dva-update-rce (npm)", "datePublished": "2025-07-26T11:15:45", "dateUpdated": "2025-07-28T01:58:36", "baseScore": 0.0, "aliases": ["MAL-2025-6253"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

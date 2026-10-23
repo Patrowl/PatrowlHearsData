@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-81101", "enisaUuid": "90f37be4-4a20-3fc5-80ca-2f8c754f1e54", "description": "Malicious code in new_lobster_replicate_automation (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-106288"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

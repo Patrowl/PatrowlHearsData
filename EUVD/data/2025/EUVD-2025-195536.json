@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195536", "enisaUuid": "2785a565-37c5-3e0b-bf58-c0f32d68e9dd", "description": "Malicious code in registry-library-registry-graphql (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45784"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

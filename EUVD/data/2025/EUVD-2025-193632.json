@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193632", "enisaUuid": "c2f6e2a2-3c5a-31d8-87e1-6413a8be0d24", "description": "Malicious code in config-subscription-quasar-await (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43879"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

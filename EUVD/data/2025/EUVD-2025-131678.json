@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131678", "enisaUuid": "5def5744-ac3f-31f7-9e35-402b0fa9151b", "description": "Malicious code in @frozen-team-qa/playwright-helpers (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7956"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

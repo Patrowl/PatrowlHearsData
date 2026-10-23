@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113059", "enisaUuid": "79b901bc-92b8-339c-a66b-4fd783fd4420", "description": "Malicious code in grunt-astro-geckodriver-standard (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143053"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

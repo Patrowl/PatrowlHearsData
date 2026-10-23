@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116358", "enisaUuid": "400678f9-f38e-37df-b6d0-34e26a635451", "description": "Malicious code in auth0-eleventy-sedna-delphinus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139744"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

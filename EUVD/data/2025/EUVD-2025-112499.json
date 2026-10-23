@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112499", "enisaUuid": "83e88078-8475-3392-b9c8-04e6e4dfc9f2", "description": "Malicious code in init-arcturus-native-server (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143614"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

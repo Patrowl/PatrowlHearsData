@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127877", "enisaUuid": "cea034df-3342-3d14-a70c-cb18757662a7", "description": "Malicious code in @bmwfedev/playwright-helpers (npm)", "datePublished": "2025-05-22T12:34:16", "dateUpdated": "2025-05-22T12:34:16", "baseScore": 0.0, "aliases": ["MAL-2025-4145"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

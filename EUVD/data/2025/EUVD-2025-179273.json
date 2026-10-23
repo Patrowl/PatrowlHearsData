@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179273", "enisaUuid": "abc675d9-772b-33f2-90b5-9a9a7f7070e0", "description": "Malicious code in dorado-norma-sequelize-hydrogeology (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186609"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

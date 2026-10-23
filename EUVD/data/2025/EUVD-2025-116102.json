@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116102", "enisaUuid": "4fd8a5e3-c155-31b7-be68-71b0638cd0f5", "description": "Malicious code in betelgeuse-registry-spawn-gulp (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140000"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

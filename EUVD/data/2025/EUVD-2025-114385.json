@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114385", "enisaUuid": "3c7c6296-c61a-318d-8c04-4c8efe833d3e", "description": "Malicious code in dotenv-parse-variables-jwt-soap-metalsmith (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141724"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

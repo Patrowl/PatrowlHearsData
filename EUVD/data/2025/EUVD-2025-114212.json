@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114212", "enisaUuid": "64305b8d-f2cf-3577-a131-f4b1b849ffbe", "description": "Malicious code in electron-builder-cassini-mutation-postcss-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141898"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

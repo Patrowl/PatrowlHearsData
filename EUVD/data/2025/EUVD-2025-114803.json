@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114803", "enisaUuid": "bb163c05-a74d-3809-b43e-78cf4c1e007b", "description": "Malicious code in css-loader-kaus-prettier-plugin-markdown-schema (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141306"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

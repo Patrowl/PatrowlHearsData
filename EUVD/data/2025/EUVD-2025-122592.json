@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122592", "enisaUuid": "f84073a7-8841-30f1-ab31-fb3b668c118a", "description": "Malicious code in resolvers-kastra-hydra-eclipse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147330"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

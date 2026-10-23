@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194811", "enisaUuid": "ed26d337-83ea-364f-b5e3-fc7c605eb5e9", "description": "Malicious code in loglevel-schema-elara-hercules (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45058"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

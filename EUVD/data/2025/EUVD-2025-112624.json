@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112624", "enisaUuid": "afec163c-6a2f-3988-98bb-85c5b3824863", "description": "Malicious code in hyperion-mocha-start-hermes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143488"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

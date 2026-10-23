@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164770", "enisaUuid": "ad9486b4-cbae-3257-b646-36a945f8b198", "description": "Malicious code in faustwp-cli (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20250"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

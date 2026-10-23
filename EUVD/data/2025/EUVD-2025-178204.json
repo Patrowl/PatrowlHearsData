@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178204", "enisaUuid": "8b2bc680-eb97-3803-a1c6-b9fa2e84b206", "description": "Malicious code in kernel-stack-grep-zero-table (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187678"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

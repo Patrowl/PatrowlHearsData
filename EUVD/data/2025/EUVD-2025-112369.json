@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112369", "enisaUuid": "c5cf9b79-2dac-321c-8d2b-10e582a3de1e", "description": "Malicious code in iota-triton-writable-cors (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143744"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

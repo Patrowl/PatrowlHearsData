@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120196", "enisaUuid": "53cbaa9f-2e7b-39c0-93e8-309f671386ad", "description": "Malicious code in xml-start-cosmiconfig-cypress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149735"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

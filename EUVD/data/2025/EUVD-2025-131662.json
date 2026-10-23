@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131662", "enisaUuid": "82b5106d-1872-300e-8557-fdc7eb0bf8ad", "description": "Malicious code in @frozen-team/deploy-log (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7940"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

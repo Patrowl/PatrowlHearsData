@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178911", "enisaUuid": "f5f6d08b-4c78-32ef-8d4a-fb6ccd728ea9", "description": "Malicious code in filament-axios-node-config-jasmine (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186971"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

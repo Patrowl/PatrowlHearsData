@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75814", "enisaUuid": "8a726c5a-4854-3ded-b726-f6b29102c796", "description": "Malicious code in resident_kite-apptea (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-107932"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

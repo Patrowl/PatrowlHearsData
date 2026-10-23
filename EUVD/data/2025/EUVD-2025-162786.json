@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162786", "enisaUuid": "eb1d720e-f530-3c95-b060-1f68e9167dac", "description": "Malicious code in dependencies-node-sass-arcturus-mini-css-extract-plugin (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18287"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

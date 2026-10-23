@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164586", "enisaUuid": "3ff9db70-0def-310c-b8a6-4dc0e92fc973", "description": "Malicious code in express-angular-seed (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20066"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

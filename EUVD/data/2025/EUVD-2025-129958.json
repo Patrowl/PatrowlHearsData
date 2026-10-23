@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129958", "enisaUuid": "7c201133-2f81-33b8-9142-b1435901c114", "description": "Malicious code in bufbuild-core (npm)", "datePublished": "2025-07-25T00:00:52", "dateUpdated": "2025-07-28T01:58:36", "baseScore": 0.0, "aliases": ["MAL-2025-6231"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

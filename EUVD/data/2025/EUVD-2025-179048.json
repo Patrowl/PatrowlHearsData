@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179048", "enisaUuid": "0b6fc1de-c2cc-3b84-9669-f2bdef932b6c", "description": "Malicious code in eslint-config-geckodriver-algol-middleware (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186834"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179902", "enisaUuid": "8713df3c-6dc9-3fed-a0eb-b7268ff3c72c", "description": "Malicious code in callback-typeorm-venus-umbriel (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185980"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

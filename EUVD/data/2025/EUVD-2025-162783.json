@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162783", "enisaUuid": "0503609a-160b-3221-8f94-1b7a3cde592d", "description": "Malicious code in deneb-version-terser-webpack-plugin-lyra (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18284"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

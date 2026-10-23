@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123991", "enisaUuid": "04a2c27e-4cc7-3f0f-a91a-c0c0108368de", "description": "Malicious code in package-framework-aurora-hermes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145930"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

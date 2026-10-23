@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180190", "enisaUuid": "e3087cb8-94a2-3319-8947-03d49acea66a", "description": "Malicious code in await-file-public-transpile-static (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185692"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

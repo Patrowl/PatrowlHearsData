@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180275", "enisaUuid": "bd81abc2-d66c-335f-8eac-724159edc3db", "description": "Malicious code in async-command-farout-hexo (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185613"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126576", "enisaUuid": "95e5c096-bf3d-3397-b3e5-dfa5c8f45176", "description": "Malicious code in aem-generated-project (npm)", "datePublished": "2025-03-28T12:35:22", "dateUpdated": "2025-03-28T12:35:22", "baseScore": 0.0, "aliases": ["MAL-2025-2835"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

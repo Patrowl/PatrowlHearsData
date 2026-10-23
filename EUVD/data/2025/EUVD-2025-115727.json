@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115727", "enisaUuid": "135b1a97-e8c3-3138-b03c-8d2b816443fa", "description": "Malicious code in capella-axios-build-ophiuchus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140379"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191157", "enisaUuid": "536f1386-233c-3ba0-8eea-97265e251e0e", "description": "Malicious code in decoupled-local-node-rig (npm)", "datePublished": "2025-08-23T14:49:39", "dateUpdated": "2025-08-30T08:07:22", "baseScore": 0.0, "aliases": ["MAL-2025-41380"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

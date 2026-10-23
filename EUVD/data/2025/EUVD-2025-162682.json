@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162682", "enisaUuid": "0f29c91b-b5c5-303e-bc55-4ce48e42df90", "description": "Malicious code in deimos-writable-miranda-got (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18183"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

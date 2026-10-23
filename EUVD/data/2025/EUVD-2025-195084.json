@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195084", "enisaUuid": "211ab298-980f-334a-a033-9a4afb3e8cd8", "description": "Malicious code in node-config-wolf-enif-eslint (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45332"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

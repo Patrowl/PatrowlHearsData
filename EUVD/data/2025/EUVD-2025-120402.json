@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120402", "enisaUuid": "26760dc6-9c9c-3e65-893a-8b9f5b0393ec", "description": "Malicious code in winston-sqlite-typeorm-quantum (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149528"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

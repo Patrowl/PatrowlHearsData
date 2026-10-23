@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178962", "enisaUuid": "eedbbcc5-aaaf-31e3-aab6-0dc0b6eacc92", "description": "Malicious code in export-bad-compress-fork-compress (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186920"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

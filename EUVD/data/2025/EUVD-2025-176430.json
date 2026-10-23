@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176430", "enisaUuid": "5027c57e-126e-3fc2-9a4d-f084d0989e3a", "description": "Malicious code in sequelize-ophiuchus-parcel-procyon (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189445"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

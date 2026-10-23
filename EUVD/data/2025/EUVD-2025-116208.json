@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116208", "enisaUuid": "cb802410-1999-3730-bfd1-c4327720197d", "description": "Malicious code in backend-phenomic-csrf-auriga (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139894"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

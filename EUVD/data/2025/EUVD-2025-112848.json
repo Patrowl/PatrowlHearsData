@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112848", "enisaUuid": "5d396333-46c7-3fa5-a919-dbb4e2e350ef", "description": "Malicious code in helmet-spectron-ophiuchus-lint-staged (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143264"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

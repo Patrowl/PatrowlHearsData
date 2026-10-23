@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177640", "enisaUuid": "94fe4a4b-0956-3608-91e5-372b7172e285", "description": "Malicious code in neuromorphic-corvus-rate-limiter-concurrently (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188242"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

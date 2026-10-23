@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124849", "enisaUuid": "0f499d19-26ef-324b-b9f8-afa53e200e8c", "description": "Malicious code in mocha-async-heka-eclipse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145069"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

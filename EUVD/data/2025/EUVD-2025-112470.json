@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112470", "enisaUuid": "157c66ae-e29e-33e0-8fdf-4ff182b385ac", "description": "Malicious code in inquirer-cli-spinner-antd (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143643"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

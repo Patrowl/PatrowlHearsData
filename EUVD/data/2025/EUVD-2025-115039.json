@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115039", "enisaUuid": "b78b89ea-b61e-3045-af0d-68287b740c50", "description": "Malicious code in convict-cross-env-fornax-buffer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141070"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

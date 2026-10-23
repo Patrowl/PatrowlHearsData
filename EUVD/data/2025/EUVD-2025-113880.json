@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113880", "enisaUuid": "8c139772-be0c-3b28-a64c-6b2f92715a01", "description": "Malicious code in eslint-plugin-dynamo-axios-lint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142230"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

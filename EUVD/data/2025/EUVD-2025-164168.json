@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164168", "enisaUuid": "372bb0c8-460e-38b9-8e3f-c49d089b9ee3", "description": "Malicious code in endgame-ui-input-text (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19647"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

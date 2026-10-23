@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114959", "enisaUuid": "3808a197-9105-3626-ac33-dd7ce4bd66ad", "description": "Malicious code in corvus-dotenv-safe-uninstall-babel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141150"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

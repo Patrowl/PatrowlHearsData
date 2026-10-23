@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112803", "enisaUuid": "6e557573-a26a-3f67-ade5-cb83b80b2518", "description": "Malicious code in hermes-concurrently-hermes-subscription (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143309"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

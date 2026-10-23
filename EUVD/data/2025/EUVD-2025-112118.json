@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112118", "enisaUuid": "c3688af1-f241-346a-850f-6d1ce3789c19", "description": "Malicious code in jsonp-cross-env-terser-webpack-plugin-grunt (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143995"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

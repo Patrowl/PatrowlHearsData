@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191649", "enisaUuid": "1004da27-6659-353d-a6ec-84693a493f67", "description": "Malicious code in @espace-client-axafr/popin-resilience (npm)", "datePublished": "2025-08-25T18:34:11", "dateUpdated": "2025-08-25T18:34:11", "baseScore": 0.0, "aliases": ["MAL-2025-41883"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

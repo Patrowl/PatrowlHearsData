@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183647", "enisaUuid": "9ec01c64-6d69-3bbd-867b-722b31b21928", "description": "Malicious code in srcclr (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33862"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

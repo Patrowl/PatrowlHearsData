@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123116", "enisaUuid": "439c7879-6b7a-36bd-a616-d82382e2394f", "description": "Malicious code in publish-process-proxima-geckodriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146806"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168843", "enisaUuid": "3a859eaf-5834-3632-b2ab-a50312cf9201", "description": "Malicious code in karma-middleware (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24325"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

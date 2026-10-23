@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-64967", "enisaUuid": "a762db43-64c9-3066-a7c7-c333412e243d", "description": "Malicious code in close_prawn_z3n (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-93587"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

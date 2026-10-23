@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113428", "enisaUuid": "df82dfd7-5a8c-3db3-ae8e-59c2ff4b976f", "description": "Malicious code in framework-jekyll-colors-library (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142684"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

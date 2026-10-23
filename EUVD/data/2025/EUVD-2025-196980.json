@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196980", "enisaUuid": "be1ededb-966a-3d7a-8b2e-dc030cf7fa2f", "description": "Malicious code in strutil-pro (npm)", "datePublished": "2025-09-17T20:52:16", "dateUpdated": "2025-09-17T20:52:16", "baseScore": 0.0, "aliases": ["MAL-2025-47443"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

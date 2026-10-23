@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111982", "enisaUuid": "04bd90f5-27e7-3779-b3f5-d5ada5f81bfc", "description": "Malicious code in kastra-run-script-firebase-blaze (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144131"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184366", "enisaUuid": "4c45892d-5ffc-30cc-9869-4ccd74300740", "description": "Malicious code in taxfix-required-documents (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34582"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

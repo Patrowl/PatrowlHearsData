@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113779", "enisaUuid": "2a8e270e-80aa-3531-bfb7-3a30b04b5755", "description": "Malicious code in event-virgo-electron-blaze (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142331"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

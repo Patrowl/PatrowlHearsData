@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170659", "enisaUuid": "102ee35a-b1ff-37d3-8ac6-29a55a986bc7", "description": "Malicious code in mechatronics-graphql-lepton-cryptography (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26130"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

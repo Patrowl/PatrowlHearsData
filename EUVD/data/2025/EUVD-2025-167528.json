@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167528", "enisaUuid": "30fada87-8014-3439-ae01-2aad02898f79", "description": "Malicious code in ignite-stop-superflare-rate-limiter (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23010"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

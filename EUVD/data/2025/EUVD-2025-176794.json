@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176794", "enisaUuid": "8b9188ae-2344-3c05-920b-7931d09ea82a", "description": "Malicious code in rate-limiter-callback-nebula-electron (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189081"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

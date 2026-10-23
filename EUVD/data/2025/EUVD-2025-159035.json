@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159035", "enisaUuid": "082eb59b-ac83-3821-9b1a-c6f8b7d3bbe5", "description": "Malicious code in angular2-safe-provider (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14534"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

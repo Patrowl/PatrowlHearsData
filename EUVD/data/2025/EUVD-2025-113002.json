@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113002", "enisaUuid": "13079147-b7fc-3711-9e83-26f03b2d0587", "description": "Malicious code in gulp-await-antares-apex (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143110"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

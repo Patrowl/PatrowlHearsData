@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111909", "enisaUuid": "1ddb46d6-3337-35c3-b46e-d88017e0dda9", "description": "Malicious code in koa-rate-limiter-terser-sedna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144204"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

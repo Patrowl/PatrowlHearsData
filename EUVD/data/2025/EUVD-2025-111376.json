@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111376", "enisaUuid": "47ff4364-04dd-39ac-816b-b4e13fba0df9", "description": "Malicious code in materialize-europa-install-query (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144739"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183623", "enisaUuid": "999281bf-acfa-371b-956f-d8978e586d8e", "description": "Malicious code in sqlite-apollo-jsonp-heka (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33838"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

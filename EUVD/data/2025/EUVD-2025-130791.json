@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130791", "enisaUuid": "f43da5d6-134d-3106-9dd1-f096864fc4cd", "description": "Malicious code in @amber-team/router5-plugins (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7069"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121527", "enisaUuid": "aec6e0b1-252a-3598-9bca-bccd0b82fac9", "description": "Malicious code in supervisor-pm2-phoebe-jsonp (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148399"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

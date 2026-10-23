@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114189", "enisaUuid": "373f0425-fdda-3838-9622-90c7317f1377", "description": "Malicious code in electron-init-vulcan-wolf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141921"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

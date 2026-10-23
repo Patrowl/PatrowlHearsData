@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123477", "enisaUuid": "f7f15b86-59b1-3d2a-9fbe-9be02a6fb70f", "description": "Malicious code in postgres-phoebe-vulcan-algol (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146444"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

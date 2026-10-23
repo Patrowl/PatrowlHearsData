@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121469", "enisaUuid": "f721c86b-a813-39cc-a2d3-1ad7a7c9fbca", "description": "Malicious code in taurus-apollo-postgres-colors (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148459"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

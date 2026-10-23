@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-152904", "enisaUuid": "525a6cf6-e071-3f0a-9690-85bcedac0f26", "description": "Malicious code in @leaffm/leaf-connect-test (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-8403"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

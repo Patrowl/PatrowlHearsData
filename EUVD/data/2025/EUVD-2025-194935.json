@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194935", "enisaUuid": "e9de0d46-dcf6-3df0-91ee-434a24a45077", "description": "Malicious code in meteor-envconfig-update-lightyear (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45182"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

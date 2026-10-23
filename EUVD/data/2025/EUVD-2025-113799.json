@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113799", "enisaUuid": "7a4e2671-a71a-3f61-b0f1-b346eec64ee5", "description": "Malicious code in event-eslint-airbnb-loop (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142311"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

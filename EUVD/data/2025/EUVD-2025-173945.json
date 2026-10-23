@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173945", "enisaUuid": "94eb2164-aada-31e4-a650-3670fda10eef", "description": "Malicious code in plugin-sass (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29416"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

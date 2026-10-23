@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115083", "enisaUuid": "9219d09d-175d-35c9-8621-20410b71ce62", "description": "Malicious code in config-izar-fetch-local (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141026"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

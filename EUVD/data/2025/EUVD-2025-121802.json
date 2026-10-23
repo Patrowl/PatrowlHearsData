@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121802", "enisaUuid": "56c90ebd-9888-3e6e-b126-4fe3b71a4aeb", "description": "Malicious code in spectron-redis-xo-test (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148123"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

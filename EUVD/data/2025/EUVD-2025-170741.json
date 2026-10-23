@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170741", "enisaUuid": "b006d3e7-118d-3291-b2c0-50a2e08fe7dc", "description": "Malicious code in messages-outbound (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26212"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195740", "enisaUuid": "f3e9ae30-f3cb-3f09-a3ac-f8957d88ebf4", "description": "Malicious code in seismology-xenon-chalk-commitlint (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45988"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

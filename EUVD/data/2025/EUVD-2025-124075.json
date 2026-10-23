@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124075", "enisaUuid": "c6ff2dba-8a1a-3aee-bd35-71ba597f8381", "description": "Malicious code in ophiuchus-ultra-janus-mysql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145846"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

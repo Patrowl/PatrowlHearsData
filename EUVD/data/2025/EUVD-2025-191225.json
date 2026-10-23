@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191225", "enisaUuid": "c5ed308b-6056-3562-bcc4-dad85b2cfe9e", "description": "Malicious code in @revizor/strategy-size (npm)", "datePublished": "2025-08-28T07:15:00", "dateUpdated": "2025-08-28T07:15:00", "baseScore": 0.0, "aliases": ["MAL-2025-41456"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

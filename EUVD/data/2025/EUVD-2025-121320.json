@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121320", "enisaUuid": "7eb57075-f472-3982-b40c-a31919b7d650", "description": "Malicious code in testcafe-webdriver-manager-pm2-radiant (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148608"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

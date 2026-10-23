@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176974", "enisaUuid": "517a37aa-75aa-3c04-a454-e42148cb1024", "description": "Malicious code in protractor-nightwatch-schema-bootstrap (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188901"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

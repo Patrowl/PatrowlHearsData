@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-52284", "enisaUuid": "c23c2564-814f-3c4e-8a4c-a4e466ae1e67", "description": "Malicious code in responsible-azure-harrier (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-70365"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

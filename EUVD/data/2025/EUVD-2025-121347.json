@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121347", "enisaUuid": "14b0cfff-f240-3d53-9026-b654583e7d9e", "description": "Malicious code in test-schema-blaze-grunt (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148581"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

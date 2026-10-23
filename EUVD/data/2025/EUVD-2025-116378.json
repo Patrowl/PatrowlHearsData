@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116378", "enisaUuid": "dacf5ad7-a7f2-3f13-83f7-d6754f9f3bde", "description": "Malicious code in auth-middleware-phoebe-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139724"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111449", "enisaUuid": "3d3e12e6-04ee-3ffd-bf3e-78a8d8c362e0", "description": "Malicious code in magellan-socketio-selenium-request (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144666"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

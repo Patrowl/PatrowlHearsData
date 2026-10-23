@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-79564", "enisaUuid": "28e34d85-90a7-3a95-861f-c780b40402a2", "description": "Malicious code in confidential_seahorse_z3n (npm)", "datePublished": "2025-11-11T07:31:13", "dateUpdated": "2025-11-11T07:31:13", "baseScore": 0.0, "aliases": ["MAL-2025-100844"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116114", "enisaUuid": "2d6a1ab8-3213-3521-aa4c-5cc9441fd155", "description": "Malicious code in betelgeuse-magellan-webdriver-manager-publish (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139988"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

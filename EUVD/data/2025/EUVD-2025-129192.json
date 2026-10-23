@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129192", "enisaUuid": "52afd866-59bd-3ac6-9522-3db35f08dea8", "description": "Malicious code in tableau-vizportal-webclient-api (npm)", "datePublished": "2025-06-27T14:15:28", "dateUpdated": "2025-06-27T14:15:28", "baseScore": 0.0, "aliases": ["MAL-2025-5464"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

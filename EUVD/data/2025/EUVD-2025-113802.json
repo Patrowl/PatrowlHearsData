@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113802", "enisaUuid": "d255e290-8a76-327e-8955-2814c4d4f056", "description": "Malicious code in event-centauri-hermes-rimraf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142308"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

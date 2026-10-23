@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182622", "enisaUuid": "74030b15-ce36-3010-a40d-b6e8c3d80e2d", "description": "Malicious code in scriptssh (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32837"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

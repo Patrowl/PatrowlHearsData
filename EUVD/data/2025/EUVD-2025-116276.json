@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116276", "enisaUuid": "739953d0-0ba7-36c5-9d71-550372d76f65", "description": "Malicious code in axios-docusaurus-node-sass-html-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139826"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

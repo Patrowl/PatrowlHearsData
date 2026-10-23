@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195507", "enisaUuid": "d88b82e5-62fe-3140-a66d-c9a27c01a20a", "description": "Malicious code in rate-limiter-io-antares-loopback (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45755"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

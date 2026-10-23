@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191628", "enisaUuid": "a80dcfb8-2647-36fd-b8d8-6ad9aa34bb2c", "description": "Malicious code in @espace-client-axafr/icc-ma-maison (npm)", "datePublished": "2025-08-25T18:35:36", "dateUpdated": "2025-08-25T18:35:36", "baseScore": 0.0, "aliases": ["MAL-2025-41862"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

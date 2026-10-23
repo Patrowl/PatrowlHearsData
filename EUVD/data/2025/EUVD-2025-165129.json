@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165129", "enisaUuid": "77cc12c2-b05f-34ce-9f27-24a82f068ef9", "description": "Malicious code in fis-msprd-react-build (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20610"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

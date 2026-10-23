@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116520", "enisaUuid": "d89a2b9b-1727-386b-ac83-685bd5fc9206", "description": "Malicious code in ariel-cluster-yaml-vega (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139582"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

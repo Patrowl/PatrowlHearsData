@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170125", "enisaUuid": "b9a64048-24d7-34b9-a868-d1fdffd8f03e", "description": "Malicious code in loopback-playwright-global-nashira (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25596"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

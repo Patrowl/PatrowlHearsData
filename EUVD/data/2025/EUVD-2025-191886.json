@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191886", "enisaUuid": "1a8cc5b2-b438-3eee-953c-6831d62bd3e6", "description": "Malicious code in azure-ipam-ui (npm)", "datePublished": "2025-08-28T13:25:52", "dateUpdated": "2025-08-28T13:25:52", "baseScore": 0.0, "aliases": ["MAL-2025-42127"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

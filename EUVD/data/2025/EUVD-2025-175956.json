@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175956", "enisaUuid": "45ae8e0f-2880-304f-8836-17ae4efecd17", "description": "Malicious code in thread-daemon-try-omega-mock (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189919"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

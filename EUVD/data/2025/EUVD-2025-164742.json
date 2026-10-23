@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164742", "enisaUuid": "ac930f9d-3378-322d-bc2d-2cd10d86d968", "description": "Malicious code in faraday-statsd (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20222"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

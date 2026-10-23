@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124539", "enisaUuid": "5ad88c36-a39d-335e-a5d0-99d92ac01703", "description": "Malicious code in neptune-stop-semantic-release-nestjs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145381"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

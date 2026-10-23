@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182710", "enisaUuid": "cca1b5ac-6be5-3afb-bca9-ef57f8bfc440", "description": "Malicious code in sellerhub-fe-featureflags (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32925"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

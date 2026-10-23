@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175607", "enisaUuid": "045502ba-fb57-3d23-ad8c-dc7a1173b181", "description": "Malicious code in webdriver-mocha-browserify-polaris-cache (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190269"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

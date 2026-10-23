@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123374", "enisaUuid": "107847fc-37bd-3b6a-ba0d-0821ac0f9268", "description": "Malicious code in process-eleventy-tool-semantic-release (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146548"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

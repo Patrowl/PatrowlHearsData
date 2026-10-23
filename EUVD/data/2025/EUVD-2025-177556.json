@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177556", "enisaUuid": "3bd4de65-6440-3d6f-81e2-f426b4b9e84d", "description": "Malicious code in nodejs-hyperion-quito-start (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188326"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115652", "enisaUuid": "9b92c611-da18-36cd-94b5-f2ba5a598398", "description": "Malicious code in carpo-typeorm-playwright-rimraf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140455"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

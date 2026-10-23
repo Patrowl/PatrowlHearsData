@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180117", "enisaUuid": "f35eeaec-d94b-3998-b4ab-867daf2a86ab", "description": "Malicious code in bellatrix-child-process-playwright-geodynamo (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185765"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

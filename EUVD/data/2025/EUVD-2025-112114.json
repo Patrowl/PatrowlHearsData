@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112114", "enisaUuid": "a058dd42-d000-36a8-92a7-cdf48e959db9", "description": "Malicious code in jsonp-jwt-avior-postcss-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143999"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

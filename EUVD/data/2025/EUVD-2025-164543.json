@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164543", "enisaUuid": "d27186ab-6ca1-377f-8d49-71c95f95b0f5", "description": "Malicious code in evvnt-submission-form-angular (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20023"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

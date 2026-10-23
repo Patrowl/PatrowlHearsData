@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-158410", "enisaUuid": "ac761b2d-a963-3876-85ea-56d2d332c892", "description": "Malicious code in @zyro-inc/eslint-config-zyro (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-13902"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115951", "enisaUuid": "f2c954be-321a-3919-af34-fccf0f5db284", "description": "Malicious code in buffer-canopus-winston-repository (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140153"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

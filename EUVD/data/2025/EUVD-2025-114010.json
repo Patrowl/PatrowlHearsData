@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114010", "enisaUuid": "6c884cfd-3dec-3c58-ab2a-523827908b2e", "description": "Malicious code in epimetheus-mutation-google-neptune (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142100"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

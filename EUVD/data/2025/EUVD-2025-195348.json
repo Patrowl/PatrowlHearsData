@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195348", "enisaUuid": "c567ef53-0c72-3eda-8a33-73ba665c2ad6", "description": "Malicious code in private-stop-draco-relay (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45596"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

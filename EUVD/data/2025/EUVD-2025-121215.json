@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121215", "enisaUuid": "68f25271-fcba-3b66-87fc-8064b4ecd645", "description": "Malicious code in toml-indus-ophiuchus-metalsmith (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148713"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

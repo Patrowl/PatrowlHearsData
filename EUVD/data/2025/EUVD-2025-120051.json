@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120051", "enisaUuid": "896990b8-3d3d-3499-ba88-b0318b3ad6a5", "description": "Malicious code in zephyr-capella-webdriverio-centaurus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149881"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

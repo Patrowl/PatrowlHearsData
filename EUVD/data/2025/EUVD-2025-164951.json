@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164951", "enisaUuid": "fd8b0ee8-7130-36c1-b592-49c42cfe276d", "description": "Malicious code in ffosrepl (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20432"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

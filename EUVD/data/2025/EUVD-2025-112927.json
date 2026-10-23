@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112927", "enisaUuid": "837dd0dc-0a02-3c1d-816f-3c8bedce2b18", "description": "Malicious code in hapi-iota-pipe-selenium (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143185"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

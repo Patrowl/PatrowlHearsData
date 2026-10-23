@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114607", "enisaUuid": "adc37d1d-22ea-37fb-9d76-fda40f095af6", "description": "Malicious code in deimos-ophiuchus-eslint-plugin-start (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141502"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

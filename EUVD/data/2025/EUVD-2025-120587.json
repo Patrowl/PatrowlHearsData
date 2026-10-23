@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120587", "enisaUuid": "54387a6f-f4eb-3b38-be2d-31b645eab486", "description": "Malicious code in webdriver-mocha-blitz-radiant-perseus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149342"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

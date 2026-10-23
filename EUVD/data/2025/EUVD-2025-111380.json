@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111380", "enisaUuid": "dd235f48-4e44-35cd-af04-d2c2af646752", "description": "Malicious code in materialize-cache-socketio-eleventy (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144735"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113255", "enisaUuid": "fd32f6c4-9945-3ff0-ab2a-2accfbbfc06c", "description": "Malicious code in geckodriver-bunyan-json-spectron (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142857"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123265", "enisaUuid": "7142723b-e302-30f5-bce2-74b301ca2f14", "description": "Malicious code in promise-yaml-scripts-quark (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146657"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

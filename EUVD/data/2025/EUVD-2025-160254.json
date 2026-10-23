@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160254", "enisaUuid": "1f7991f7-9dbe-3f75-ac36-72559e70ba59", "description": "Malicious code in bitcoin-url (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15753"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

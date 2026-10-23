@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111378", "enisaUuid": "489c4675-ff35-3fd4-a8e2-8c1f551dc951", "description": "Malicious code in materialize-css-loader-install-dagda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144737"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

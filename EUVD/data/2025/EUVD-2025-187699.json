@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187699", "enisaUuid": "04bbdae2-d64e-391f-b1b7-77dd7e79e65c", "description": "Malicious code in upgrade-proxima-epimetheus-draco (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37911"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

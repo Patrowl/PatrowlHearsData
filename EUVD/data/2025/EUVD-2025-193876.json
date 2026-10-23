@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193876", "enisaUuid": "0a97f7b9-d8e5-3781-9827-aa7635dea843", "description": "Malicious code in electron-redshift-hexo-nucleosynthesis (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44123"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115336", "enisaUuid": "9de4a5e6-ac0f-3ee7-9221-a71c598e41d1", "description": "Malicious code in chromedriver-fornax-stop-apex (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140771"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

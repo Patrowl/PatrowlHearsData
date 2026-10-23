@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197189", "enisaUuid": "73fad3d6-04c6-3bea-bcee-254d1c14cf69", "description": "Malicious code in pnpm_prune_lockfile_v8 (npm)", "datePublished": "2025-09-26T09:39:51", "dateUpdated": "2025-09-26T09:39:51", "baseScore": 0.0, "aliases": ["MAL-2025-47716"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

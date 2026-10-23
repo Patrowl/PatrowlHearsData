@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168631", "enisaUuid": "afb8783f-6633-38a7-9e60-28649085b1b6", "description": "Malicious code in just-array-remove (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24113"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

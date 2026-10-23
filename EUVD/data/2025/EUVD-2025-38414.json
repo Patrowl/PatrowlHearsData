@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-38414", "enisaUuid": "6d82b2f4-3346-3adb-ac67-30509e8b3d6f", "description": "Malicious code in icu-messageformat (npm)", "datePublished": "2025-11-09T00:17:09", "dateUpdated": "2025-11-09T00:17:09", "baseScore": 0.0, "aliases": ["MAL-2025-49416"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

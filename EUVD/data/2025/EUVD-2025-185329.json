@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-185329", "enisaUuid": "cf5d4cf1-e8b9-3f34-852b-5f3416cea731", "description": "Malicious code in test-mlw2-husky-blobs (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-35545"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

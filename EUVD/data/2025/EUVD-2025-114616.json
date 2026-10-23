@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114616", "enisaUuid": "2b9169a0-5fb6-3233-b89b-c631c29b397b", "description": "Malicious code in deimos-graphql-procyon-aurora (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141493"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

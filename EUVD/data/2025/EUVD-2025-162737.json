@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162737", "enisaUuid": "92c86d90-2541-304a-8a7c-61b350af03db", "description": "Malicious code in delta-object-sigma-file-star (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18238"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

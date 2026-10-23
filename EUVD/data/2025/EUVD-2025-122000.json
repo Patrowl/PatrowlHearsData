@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122000", "enisaUuid": "d8c48927-16b6-3896-9798-e1563c11ab91", "description": "Malicious code in shelljs-nightmare-perseus-elektra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147923"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

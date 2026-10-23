@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165583", "enisaUuid": "00bb97b5-7625-3297-afc1-5c84e0619d4f", "description": "Malicious code in fusion-plugin-auth-headers (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21064"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

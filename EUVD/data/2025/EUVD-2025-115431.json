@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115431", "enisaUuid": "0252e342-c4f8-3536-91a3-09fde2ab2cc9", "description": "Malicious code in changelog-package-eclipse-sirius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140676"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

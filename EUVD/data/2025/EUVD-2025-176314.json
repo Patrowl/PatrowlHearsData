@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176314", "enisaUuid": "ce4afd95-00ba-3b4d-bbe6-77b6ee87149e", "description": "Malicious code in soap-winston-thuban-pyxis (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189561"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

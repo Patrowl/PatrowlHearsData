@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123613", "enisaUuid": "2d7736f5-63c0-3350-a1dc-959330d89a0b", "description": "Malicious code in pm2-registry-kronos-janus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146308"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

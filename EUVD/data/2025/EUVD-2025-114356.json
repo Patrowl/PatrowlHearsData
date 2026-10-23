@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114356", "enisaUuid": "69dc18c1-c9a3-3c82-b39e-3e8bbbd6cb3d", "description": "Malicious code in dotenv-safe-global-jsonp-centaurus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141753"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

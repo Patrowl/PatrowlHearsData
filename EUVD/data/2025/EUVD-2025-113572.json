@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113572", "enisaUuid": "1f1c0ef2-a1d8-31a3-8f3b-712a2864ea17", "description": "Malicious code in fomalhaut-ganymede-yildun-mysql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142540"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

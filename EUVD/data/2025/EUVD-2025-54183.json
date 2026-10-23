@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-54183", "enisaUuid": "9dc10b22-47fd-3cf7-899f-dae1f3e07b08", "description": "Malicious code in fundamental-fuchsia-penguin (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-68466"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

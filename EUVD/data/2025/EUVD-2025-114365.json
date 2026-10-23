@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114365", "enisaUuid": "2aa84b78-71c3-3a71-9a70-117a20efac1b", "description": "Malicious code in dotenv-safe-astro-supervisor-blitz (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141744"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

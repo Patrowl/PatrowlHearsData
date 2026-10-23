@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121593", "enisaUuid": "d713740c-f2f6-3c83-a1fd-cc7211543a37", "description": "Malicious code in style-loader-mini-css-extract-plugin-warp-perseus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148332"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121877", "enisaUuid": "9d84bbd9-8923-342d-afaf-320188fceff1", "description": "Malicious code in socketio-dotenv-parse-variables-phoenix-chalk (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148048"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

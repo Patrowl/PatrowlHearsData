@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-52403", "enisaUuid": "3f604394-6404-313d-8889-3417c8edc10e", "description": "Malicious code in redundant-brown-basilisk (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-70246"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

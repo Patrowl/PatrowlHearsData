@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121289", "enisaUuid": "0fd95a34-9f71-37eb-b308-fe7f68e20edf", "description": "Malicious code in thuban-acamar-geckodriver-aldebaran (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148639"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

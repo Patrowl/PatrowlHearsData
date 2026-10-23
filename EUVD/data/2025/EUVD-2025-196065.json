@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196065", "enisaUuid": "21c6975e-c5ff-39db-90de-ad92106819e8", "description": "Malicious code in thuban-restart-heka-mdx (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46313"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

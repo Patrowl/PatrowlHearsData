@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121701", "enisaUuid": "18ae0fc2-3990-3ece-993d-a5a87bc28067", "description": "Malicious code in sqlite-cosmiconfig-passport-library (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148224"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

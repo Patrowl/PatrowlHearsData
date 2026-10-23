@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184542", "enisaUuid": "d11124b1-5672-31b3-aa48-217de92f38eb", "description": "Malicious code in terser-webpack-plugin-elara-framework-seismology (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34758"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

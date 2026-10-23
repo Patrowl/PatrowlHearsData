@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176271", "enisaUuid": "21be2d9e-9d10-337b-8fc2-2496aa751dfa", "description": "Malicious code in spectron-commitizen-server-jwt (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189604"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

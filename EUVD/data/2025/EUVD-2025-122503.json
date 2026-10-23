@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122503", "enisaUuid": "367bd2cf-5237-3d7c-84b2-50eff3be58f4", "description": "Malicious code in reveal-md-oauth-jsonp-prettier-plugin-markdown (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147419"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

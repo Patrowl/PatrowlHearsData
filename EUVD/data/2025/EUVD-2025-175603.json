@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175603", "enisaUuid": "0f8bd23d-11eb-3e85-82fd-cef0c1c111ed", "description": "Malicious code in webdriver-mocha-isostasy-arcturus-eslint-config (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190273"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

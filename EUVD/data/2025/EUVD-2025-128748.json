@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128748", "enisaUuid": "6ea73964-c560-3d5b-9e6d-06a0495f5c16", "description": "Malicious code in 0vulns-dependency-confusion-poc (npm)", "datePublished": "2025-06-12T17:49:59", "dateUpdated": "2025-06-12T17:49:59", "baseScore": 0.0, "aliases": ["MAL-2025-5016"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

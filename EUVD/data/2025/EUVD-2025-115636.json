@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115636", "enisaUuid": "db0b7767-05c1-3f45-98df-a7ee37bf695e", "description": "Malicious code in cassini-native-blitz-bunyan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140471"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

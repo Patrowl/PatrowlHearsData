@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112729", "enisaUuid": "e53ec81f-3c2b-370e-8ce7-b9a5b40545fb", "description": "Malicious code in hugo-chromedriver-koa-upgrade (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143383"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

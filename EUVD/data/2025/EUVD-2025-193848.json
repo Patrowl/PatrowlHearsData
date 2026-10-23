@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193848", "enisaUuid": "0ad626ee-1d67-39a0-81c1-ef52b5d897b0", "description": "Malicious code in eigenstate-parallax-init-miranda (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44095"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

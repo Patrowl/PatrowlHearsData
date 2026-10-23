@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188778", "enisaUuid": "8cfe58cc-52a0-3589-8494-677833c13302", "description": "Malicious code in webdriver-manager-janus-cosmos-redshift (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38992"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

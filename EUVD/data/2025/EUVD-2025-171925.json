@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171925", "enisaUuid": "599aad45-20f9-38b3-a680-3e12b36f8785", "description": "Malicious code in nexo-solidity-smart-contracts (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27396"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

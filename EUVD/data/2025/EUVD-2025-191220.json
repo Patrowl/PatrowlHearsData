@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191220", "enisaUuid": "a51c5719-b564-334d-831c-8a0d9c4b9cf3", "description": "Malicious code in @metadata-ipfs/validate-hash (npm)", "datePublished": "2025-08-28T07:14:24", "dateUpdated": "2025-08-28T07:14:24", "baseScore": 0.0, "aliases": ["MAL-2025-41451"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

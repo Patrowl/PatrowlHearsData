@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-186803", "enisaUuid": "4b044901-75a0-3793-a996-e6217274ca0c", "description": "Malicious code in token-converter (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37013"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

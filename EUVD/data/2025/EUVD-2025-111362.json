@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111362", "enisaUuid": "d1320a41-65f9-3115-b84e-7a8989b40251", "description": "Malicious code in materialize-rocket-standard-nestjs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144753"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

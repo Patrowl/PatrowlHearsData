@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114158", "enisaUuid": "a3597e67-fea3-3ffc-a886-cfaa0e26fd24", "description": "Malicious code in elektra-start-apex-radiant (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141952"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

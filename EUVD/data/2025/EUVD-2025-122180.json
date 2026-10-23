@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122180", "enisaUuid": "437d884c-13f9-3af3-acc6-151789b4360c", "description": "Malicious code in scripts-pino-event-regulus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147742"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

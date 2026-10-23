@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160843", "enisaUuid": "d3234616-efcd-3359-a36a-fe6d4df1934a", "description": "Malicious code in bundle-minify-query-void-java (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16342"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

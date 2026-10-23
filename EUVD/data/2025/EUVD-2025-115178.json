@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115178", "enisaUuid": "fddfc1c2-5cc6-3800-b6fb-3fa91990f228", "description": "Malicious code in commitizen-fetch-leda-webpack (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140930"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

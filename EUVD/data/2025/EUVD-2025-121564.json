@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121564", "enisaUuid": "44cfc879-8b2c-314f-bb45-7dc0cbd7b2f6", "description": "Malicious code in subscription-magellan-buffer-ignite (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148362"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200739", "enisaUuid": "fd79907c-ad41-3587-8912-5641befd1cab", "description": "Malicious code in elf-stats-sleighing-bow-514 (npm)", "datePublished": "2025-12-03T12:49:19", "dateUpdated": "2025-12-23T21:08:54", "baseScore": 0.0, "aliases": ["MAL-2025-191976"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

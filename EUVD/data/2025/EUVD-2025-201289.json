@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-201289", "enisaUuid": "c3493d32-1324-3653-b811-ffc6fad0a576", "description": "Malicious code in elf-stats-northbound-sparkler-410 (npm)", "datePublished": "2025-12-04T19:12:07", "dateUpdated": "2025-12-23T20:41:02", "baseScore": 0.0, "aliases": ["MAL-2025-192304"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

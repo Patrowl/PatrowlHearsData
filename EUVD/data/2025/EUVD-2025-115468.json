@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115468", "enisaUuid": "438c9e47-f53d-3f84-b3bb-17ad9cf0212b", "description": "Malicious code in chalk-ganymede-postgres-publish (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140639"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124847", "enisaUuid": "758df7b2-39ae-3deb-a709-a09f8f513103", "description": "Malicious code in mocha-commitlint-enif-mysql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145071"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

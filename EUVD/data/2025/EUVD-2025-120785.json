@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120785", "enisaUuid": "02a61ba2-847a-3e3e-a2ef-e4768e48eb7f", "description": "Malicious code in version-scripts-centauri-concurrently (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149144"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

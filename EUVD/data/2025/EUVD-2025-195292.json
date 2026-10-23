@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195292", "enisaUuid": "c5f088cb-6f59-3b18-b094-a9ca9eb402c6", "description": "Malicious code in perseus-changelog-await-postcss (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45540"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

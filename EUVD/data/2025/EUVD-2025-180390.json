@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180390", "enisaUuid": "1dba28bc-5a68-35d6-91c3-a54821846c3b", "description": "Malicious code in apollo-ceres-package-cors (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185498"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

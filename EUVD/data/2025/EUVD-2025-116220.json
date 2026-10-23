@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116220", "enisaUuid": "39d9a268-4f99-3c15-8784-fae351876e42", "description": "Malicious code in backend-configstore-node-sass-firebase (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139882"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

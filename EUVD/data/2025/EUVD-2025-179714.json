@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179714", "enisaUuid": "34ac0d02-289b-3665-ac9c-fdd77976d1b7", "description": "Malicious code in cli-module-publish-firebase (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186168"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125255", "enisaUuid": "3b138d45-0cef-3786-8bc2-3fbbf55a9f32", "description": "Malicious code in spacelift-webhook-receiver (npm)", "datePublished": "2025-02-21T16:50:14", "dateUpdated": "2025-02-21T16:50:14", "baseScore": 0.0, "aliases": ["MAL-2025-1511"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

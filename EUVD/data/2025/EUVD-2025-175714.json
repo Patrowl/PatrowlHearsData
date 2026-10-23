@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175714", "enisaUuid": "7cc41256-0eb5-3a94-9710-dcdfc39ed108", "description": "Malicious code in virtualize-cache-cloud-cat-slow (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190161"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

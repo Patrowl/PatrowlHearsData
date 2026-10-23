@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113970", "enisaUuid": "723850a3-0456-31b1-b09c-e5a795218ece", "description": "Malicious code in eridanus-apollo-webpack-ursa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142140"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

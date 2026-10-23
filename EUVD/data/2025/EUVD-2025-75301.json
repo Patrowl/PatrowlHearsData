@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75301", "enisaUuid": "c712e43b-731e-3200-b036-07ffa21f868f", "description": "Malicious code in valid_earwig-appteadev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-110321"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

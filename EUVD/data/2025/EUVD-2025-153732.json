@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153732", "enisaUuid": "a9bca472-8497-3513-aae0-01e85c0a3ce5", "description": "Malicious code in @paysol-widgets/ts-client (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9231"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

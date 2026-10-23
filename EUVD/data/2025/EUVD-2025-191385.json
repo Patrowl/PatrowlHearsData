@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191385", "enisaUuid": "6157d17c-6838-3cdb-b675-30bb6651b0c5", "description": "Malicious code in aiohttp-proxies-forked (PyPI)", "datePublished": "2025-08-28T07:10:37", "dateUpdated": "2025-08-28T07:10:37", "baseScore": 0.0, "aliases": ["MAL-2025-41618"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123254", "enisaUuid": "6727c2e5-422e-3be9-b2bf-d7aa13462930", "description": "Malicious code in prompts-meteor-superagent-meissa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146668"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

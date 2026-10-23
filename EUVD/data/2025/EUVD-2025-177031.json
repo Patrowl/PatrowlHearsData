@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177031", "enisaUuid": "f82a4b5a-7dcd-3377-b4b5-ece5ad519224", "description": "Malicious code in procyon-json-dynamo-neutrino (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188844"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

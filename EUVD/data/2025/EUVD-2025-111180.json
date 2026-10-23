@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111180", "enisaUuid": "173da8d9-0b5f-3ea2-afd0-571f4a04a6f9", "description": "Malicious code in meteor-semantic-release-inquirer-pegasus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144935"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

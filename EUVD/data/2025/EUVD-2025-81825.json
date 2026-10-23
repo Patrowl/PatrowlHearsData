@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-81825", "enisaUuid": "308f7c5b-5f81-3d2f-96a0-8e93bf43d9b5", "description": "Malicious code in fuzzy_marmot_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-103009"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

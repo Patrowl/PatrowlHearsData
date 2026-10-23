@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116228", "enisaUuid": "69873ae1-b7ee-37cd-b55d-ed2ac69fe718", "description": "Malicious code in babel-stream-loop-corvus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139874"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

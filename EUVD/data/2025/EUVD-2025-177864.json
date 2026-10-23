@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177864", "enisaUuid": "17f01bbd-5e87-3d5a-ad92-8d0da7f4e865", "description": "Malicious code in meteor-command-warp-colors (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188018"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177902", "enisaUuid": "b3ae31f5-01c8-3fdf-9570-17b805212676", "description": "Malicious code in mensa-koa-castor-typeorm (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187980"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

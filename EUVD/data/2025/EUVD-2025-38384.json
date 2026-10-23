@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-38384", "enisaUuid": "58fa1f21-fc1d-3be5-af65-88bc26e44b58", "description": "Malicious code in supxmlparser (npm)", "datePublished": "2025-11-09T00:17:09", "dateUpdated": "2025-12-24T10:09:30", "baseScore": 0.0, "aliases": ["MAL-2025-49446"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

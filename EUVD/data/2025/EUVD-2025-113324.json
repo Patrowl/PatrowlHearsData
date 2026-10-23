@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113324", "enisaUuid": "96a6580d-05f2-38de-bdce-2928d33c8147", "description": "Malicious code in galaxy-csv-middleware-levels (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142788"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

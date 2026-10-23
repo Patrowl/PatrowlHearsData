@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171864", "enisaUuid": "832ce17e-9acb-3abc-aa83-7ec2f85f0fbc", "description": "Malicious code in neutrino-envconfig-mechatronics-yonder (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27335"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114975", "enisaUuid": "1830db89-21f3-3d34-b840-c1e36b5e8428", "description": "Malicious code in cors-rest-charon-koa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141134"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

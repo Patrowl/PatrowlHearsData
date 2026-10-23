@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170069", "enisaUuid": "41b9227f-2046-3644-b835-07c18163eec0", "description": "Malicious code in loglevel-whitedwarf-postcss-loader-betelgeuse (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25540"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

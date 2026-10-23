@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194342", "enisaUuid": "64a3f131-a7f7-3a0f-9c87-b3650c95925c", "description": "Malicious code in hello-arc-windows (npm)", "datePublished": "2025-09-05T16:38:20", "dateUpdated": "2025-09-05T16:38:20", "baseScore": 0.0, "aliases": ["MAL-2025-44589"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75586", "enisaUuid": "8be661c1-16cd-3113-ae20-9e7ee83eee35", "description": "Malicious code in sour_haddock-apptea (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-108942"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112032", "enisaUuid": "17facdf7-126a-39b3-8801-06723e19e7c3", "description": "Malicious code in jwt-nebula-module-colors (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144081"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

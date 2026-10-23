@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180165", "enisaUuid": "4a95d86d-43a8-3184-bfaf-ebcee606b4dc", "description": "Malicious code in babel-babel-config-quark (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185717"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

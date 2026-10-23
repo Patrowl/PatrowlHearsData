@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124821", "enisaUuid": "22f5b90e-10ff-32c1-9b2a-1ff0b873973f", "description": "Malicious code in module-algol-npm-quantum (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145097"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

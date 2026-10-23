@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175933", "enisaUuid": "a5bb12dd-828b-3cbd-958e-5233a5a932ca", "description": "Malicious code in titan-soap-request-framework (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189942"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

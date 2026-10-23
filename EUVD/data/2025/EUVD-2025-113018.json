@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113018", "enisaUuid": "f9252eac-cd85-3ead-8c43-ba9be097ff7c", "description": "Malicious code in grus-magellan-typeorm-jest (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143094"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191056", "enisaUuid": "3611bdb8-1b78-3894-967a-fb7cb07249c7", "description": "Malicious code in agent-dispatcher (npm)", "datePublished": "2025-08-23T14:05:46", "dateUpdated": "2025-08-23T14:05:46", "baseScore": 0.0, "aliases": ["MAL-2025-41278"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

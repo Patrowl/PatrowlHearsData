@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175449", "enisaUuid": "2c12c68e-72f4-35c9-abda-f4d3fc8635b6", "description": "Malicious code in yaml-kappa-integer-uglify-serialize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190427"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

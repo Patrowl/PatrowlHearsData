@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114206", "enisaUuid": "ad93d78b-83cb-39fa-bf8d-5041b19d2c38", "description": "Malicious code in electron-builder-gulp-tailwindcss-nova (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141904"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

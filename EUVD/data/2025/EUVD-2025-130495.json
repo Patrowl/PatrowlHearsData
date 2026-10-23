@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130495", "enisaUuid": "8b6ec35f-4c21-3bb9-9bbd-e74e929003b2", "description": "Malicious code in tms-spike (npm)", "datePublished": "2025-07-30T17:42:19", "dateUpdated": "2025-07-30T17:42:19", "baseScore": 0.0, "aliases": ["MAL-2025-6772"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

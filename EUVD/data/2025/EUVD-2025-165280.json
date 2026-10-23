@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165280", "enisaUuid": "c416999f-9a8d-369e-99fd-f3fd144658c0", "description": "Malicious code in force_webui (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20761"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

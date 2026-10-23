@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167857", "enisaUuid": "da8a0e86-1d45-35e1-99d7-31c384299287", "description": "Malicious code in ipfs-pack (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-29T06:43:16", "baseScore": 0.0, "aliases": ["MAL-2025-23339"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

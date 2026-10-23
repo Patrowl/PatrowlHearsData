@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188460", "enisaUuid": "d71aaae8-ead2-36da-94a0-32f3ee97f75b", "description": "Malicious code in vue-storefront-stripe (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38674"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

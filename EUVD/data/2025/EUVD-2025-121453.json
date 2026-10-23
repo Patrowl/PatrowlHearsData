@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121453", "enisaUuid": "80ea4a19-572a-3236-b5f6-bcd32c0ba865", "description": "Malicious code in taurus-package-bellatrix-loglevel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148475"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

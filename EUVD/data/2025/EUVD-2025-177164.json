@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177164", "enisaUuid": "4732081b-df00-30c2-bfaf-ad1700117f2c", "description": "Malicious code in pino-remark-string-nestjs (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188711"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

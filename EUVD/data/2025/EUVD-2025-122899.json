@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122899", "enisaUuid": "eb76ddae-b826-356a-a47c-49f57c4b2e2e", "description": "Malicious code in radiant-spica-aquarius-css-minimizer-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147023"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

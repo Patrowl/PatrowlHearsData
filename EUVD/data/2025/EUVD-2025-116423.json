@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116423", "enisaUuid": "d5e95f39-3467-38f0-b427-ecafe078b85f", "description": "Malicious code in auriga-install-express-toml (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139679"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

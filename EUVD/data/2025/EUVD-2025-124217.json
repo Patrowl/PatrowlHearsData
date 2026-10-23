@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124217", "enisaUuid": "a5ac97ce-f6a5-3cd8-8bcd-0f15f33586c1", "description": "Malicious code in nuxtjs-gridsome-uglify-js-terser (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145704"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

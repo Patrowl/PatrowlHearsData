@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179265", "enisaUuid": "b02cc235-6c9d-3e95-9499-d71741de764b", "description": "Malicious code in dotenv-parse-variables-heliophysics-wasat-metalsmith (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186617"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

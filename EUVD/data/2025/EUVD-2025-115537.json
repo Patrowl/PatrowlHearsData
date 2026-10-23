@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115537", "enisaUuid": "d02fe221-c62c-34da-b38a-458b367c9a89", "description": "Malicious code in ceres-loopback-sequelize-browserify (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140570"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

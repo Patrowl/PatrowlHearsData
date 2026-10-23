@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179901", "enisaUuid": "c48a0799-cbc4-3d64-b572-b12becba98cd", "description": "Malicious code in callback-upgrade-ophiuchus-achernar (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185981"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

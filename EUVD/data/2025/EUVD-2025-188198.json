@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188198", "enisaUuid": "bd3262ec-390a-365a-9f94-bc2d01442ac5", "description": "Malicious code in vinyl-content-tostring (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38410"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

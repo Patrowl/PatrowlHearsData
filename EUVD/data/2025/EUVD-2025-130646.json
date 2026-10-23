@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130646", "enisaUuid": "6063b80b-5fe1-3c1f-803d-2354a8855cfe", "description": "Malicious code in electron-test-main (npm)", "datePublished": "2025-08-12T22:55:32", "dateUpdated": "2025-08-29T06:43:16", "baseScore": 0.0, "aliases": ["MAL-2025-6924"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

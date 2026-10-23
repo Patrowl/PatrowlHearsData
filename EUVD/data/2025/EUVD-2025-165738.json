@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165738", "enisaUuid": "4c93bf75-323c-3b03-9cc1-03ce1a42ab01", "description": "Malicious code in gazebo-falcon-qm3s (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21219"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123740", "enisaUuid": "a99b8135-fe0a-3e9c-be1a-c22a8038b21b", "description": "Malicious code in phoebe-sequelize-meissa-restart (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146181"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

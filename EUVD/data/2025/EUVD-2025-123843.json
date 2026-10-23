@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123843", "enisaUuid": "7e422fb8-5368-3c65-9560-d9200adcaa5c", "description": "Malicious code in perseus-configstore-regulus-chai (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146078"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

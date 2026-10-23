@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-51395", "enisaUuid": "91f8b8f6-f325-3db0-add3-49956e26320e", "description": "Malicious code in underlying-amethyst-weasel (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-71254"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

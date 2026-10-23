@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111370", "enisaUuid": "21b41a2e-4198-376e-a8a4-7769f8f668a9", "description": "Malicious code in materialize-lint-staged-supervisor-astro (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144745"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

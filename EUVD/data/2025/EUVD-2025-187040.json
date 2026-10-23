@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187040", "enisaUuid": "e2e47529-c52a-3d67-8474-360cfa884828", "description": "Malicious code in twilio-npm (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37375"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

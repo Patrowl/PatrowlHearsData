@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181065", "enisaUuid": "22fd3dcf-9914-38e6-95da-d2c360129ea5", "description": "Malicious code in query-emulate-stack-unix-phi (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31279"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

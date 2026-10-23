@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112187", "enisaUuid": "f8b4d02e-7a37-31ef-bdb1-0e430aa8c415", "description": "Malicious code in jest-hermes-configstore-supervisor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143926"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

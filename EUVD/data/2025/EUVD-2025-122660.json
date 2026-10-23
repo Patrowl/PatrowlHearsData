@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122660", "enisaUuid": "91aa787f-b76c-3824-bfae-1b69087dd209", "description": "Malicious code in repository-dependencies-hydra-async (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147262"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

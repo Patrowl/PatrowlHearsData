@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80073", "enisaUuid": "99ee74e0-b965-34c7-808e-ae03f7a30029", "description": "Malicious code in weak_walrus_dumbs (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-110768"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

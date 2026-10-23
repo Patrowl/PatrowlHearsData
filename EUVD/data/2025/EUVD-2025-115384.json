@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115384", "enisaUuid": "62465732-8ca2-3e0d-88ed-0d2c9fccd2be", "description": "Malicious code in charon-json-typeorm-nightwatch (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140723"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

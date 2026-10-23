@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111333", "enisaUuid": "c6c94a87-96f4-31ba-b15d-52f9d8ab4f00", "description": "Malicious code in mdx-terser-webpack-plugin-electron-builder-venus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144782"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

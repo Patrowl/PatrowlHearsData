@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170285", "enisaUuid": "90e64306-c75d-3c6c-840a-eb5cebb88f67", "description": "Malicious code in mage-wallet-js (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25756"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

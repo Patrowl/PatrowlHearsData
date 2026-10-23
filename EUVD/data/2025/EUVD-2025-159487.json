@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159487", "enisaUuid": "cc62a3ee-695e-3662-886f-6fd223a3f63f", "description": "Malicious code in async-changelog-semantic-release-higgs (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14986"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

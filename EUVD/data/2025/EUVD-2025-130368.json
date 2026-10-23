@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130368", "enisaUuid": "7669bfb5-567d-3aeb-ad85-a8101e7a2e28", "description": "Malicious code in npm-ot-test (npm)", "datePublished": "2025-07-31T19:36:19", "dateUpdated": "2025-07-31T19:36:19", "baseScore": 0.0, "aliases": ["MAL-2025-6643"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176267", "enisaUuid": "750e4f73-ae0b-3a68-96de-7635ccd9da74", "description": "Malicious code in spectron-grunt-auth-europa (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189608"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

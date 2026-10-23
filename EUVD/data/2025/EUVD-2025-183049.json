@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183049", "enisaUuid": "5d4020bc-4a11-37f5-bf31-f4cd697d6a1e", "description": "Malicious code in simple-api-key-validation (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33264"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

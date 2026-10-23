@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129180", "enisaUuid": "ae83001e-1b77-34ae-abc3-dd87c9c923ca", "description": "Malicious code in pnp-resume (npm)", "datePublished": "2025-06-25T14:53:03", "dateUpdated": "2025-06-25T14:53:03", "baseScore": 0.0, "aliases": ["MAL-2025-5452"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

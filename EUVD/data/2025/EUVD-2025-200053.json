@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200053", "enisaUuid": "777ab8ed-cc85-3177-9361-c0c97be2b0ab", "description": "Malicious code in markdownlint-cli2-action (npm)", "datePublished": "2025-12-01T16:16:28", "dateUpdated": "2025-12-01T16:16:28", "baseScore": 0.0, "aliases": ["MAL-2025-191516"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

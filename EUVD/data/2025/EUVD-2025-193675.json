@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193675", "enisaUuid": "3f05d03b-db8d-350e-9e9f-ac06fbdaa0f8", "description": "Malicious code in cygnus-uninstall-prettier-stylelint-start (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43922"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

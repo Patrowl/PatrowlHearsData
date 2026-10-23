@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-158857", "enisaUuid": "17854d5b-c06e-38b9-833e-32eb45cb05ce", "description": "Malicious code in alpha-encrypt-process-alert-phi (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14356"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

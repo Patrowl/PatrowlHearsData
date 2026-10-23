@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187449", "enisaUuid": "89027f1e-9351-3b85-93be-8df1742a968f", "description": "Malicious code in umbra-less-loader-tachyon-hermes (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37661"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

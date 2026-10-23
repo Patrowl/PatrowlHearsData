@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160170", "enisaUuid": "4f5228cc-c1c4-3139-9991-e66e7c8d1e37", "description": "Malicious code in bidi-utils (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15669"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

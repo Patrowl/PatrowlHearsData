@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123496", "enisaUuid": "76f5284e-dc3d-36af-83ed-fad61a8fe338", "description": "Malicious code in postcss-xanadu-test-mira (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146425"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

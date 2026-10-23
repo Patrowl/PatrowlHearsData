@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173978", "enisaUuid": "2dbb15ac-b482-3ae0-89ae-a530f88c2c03", "description": "Malicious code in pnpm-utils (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29449"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

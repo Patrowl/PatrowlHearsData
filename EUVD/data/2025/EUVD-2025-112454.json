@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112454", "enisaUuid": "b99a3a18-e547-3a52-991a-f705e61aef48", "description": "Malicious code in inquirer-remark-upgrade-run-script (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143659"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

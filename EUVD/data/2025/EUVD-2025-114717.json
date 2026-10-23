@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114717", "enisaUuid": "29e69a70-5244-342e-8618-607baeab09a0", "description": "Malicious code in cypress-apollo-geckodriver-mongoose (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141392"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

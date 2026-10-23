@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123387", "enisaUuid": "eee29793-3bf1-3aec-a44a-4102f284f647", "description": "Malicious code in private-node-config-less-loader-parcel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146535"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

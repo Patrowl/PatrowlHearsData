@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131796", "enisaUuid": "d90243c4-fe96-386a-b57f-234330cd436b", "description": "Malicious code in @ibm-ptc/greet-me (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-8074"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

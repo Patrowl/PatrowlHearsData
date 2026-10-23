@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167000", "enisaUuid": "92844d2b-3d10-30d9-8db7-551f5f393e50", "description": "Malicious code in hoauth (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22482"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

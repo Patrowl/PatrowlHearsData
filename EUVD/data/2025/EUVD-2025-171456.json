@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171456", "enisaUuid": "f306f86c-569c-313b-92f4-289755ac6aee", "description": "Malicious code in mvcauth (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26927"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

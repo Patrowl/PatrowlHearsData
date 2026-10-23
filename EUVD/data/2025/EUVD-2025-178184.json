@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178184", "enisaUuid": "e40449d8-5af0-324f-9740-e2dc330c7b3c", "description": "Malicious code in koa-callback-postcss-loader-webdriver-manager (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187698"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

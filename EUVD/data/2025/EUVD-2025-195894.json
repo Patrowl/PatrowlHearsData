@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195894", "enisaUuid": "e0e56098-cd9d-3c79-b347-da3e47dd3830", "description": "Malicious code in state-watch-running (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46142"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

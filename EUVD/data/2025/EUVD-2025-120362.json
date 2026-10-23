@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120362", "enisaUuid": "ca44a6c8-b5e6-3c52-9e19-5b83227744f0", "description": "Malicious code in writable-izar-tool-cli (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149569"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

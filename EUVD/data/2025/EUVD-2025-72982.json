@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-72982", "enisaUuid": "32cfd00c-c461-3fef-a45b-6962839beb2a", "description": "Malicious code in vulnerable_earwig_z3n (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-97308"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

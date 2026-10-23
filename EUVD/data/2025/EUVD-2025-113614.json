@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113614", "enisaUuid": "887cee88-6d90-35e5-9612-3f675381b58f", "description": "Malicious code in firebase-equinox-subscription-configstore (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142497"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

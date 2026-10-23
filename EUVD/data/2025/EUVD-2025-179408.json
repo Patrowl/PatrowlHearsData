@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179408", "enisaUuid": "52bf0639-f37c-3149-a1ca-5036c818b57f", "description": "Malicious code in dagda-pulsar-redshift-remark (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186474"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

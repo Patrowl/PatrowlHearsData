@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120257", "enisaUuid": "0c50679a-7af5-3766-8527-1dcffe258530", "description": "Malicious code in xenos-cypress-ursa-callback (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149674"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

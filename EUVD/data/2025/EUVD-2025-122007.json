@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122007", "enisaUuid": "69350e91-6f6c-3040-bf9f-68454677071a", "description": "Malicious code in shelljs-install-shelljs-proxima (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147916"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

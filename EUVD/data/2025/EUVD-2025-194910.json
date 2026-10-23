@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194910", "enisaUuid": "8165dd37-0d1d-3d22-91fb-d2259024ff38", "description": "Malicious code in mechatronics-procyon-nestjs-async (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45157"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

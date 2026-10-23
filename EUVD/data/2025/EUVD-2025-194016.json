@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194016", "enisaUuid": "e189693b-8648-3f95-aad5-6c770e49f993", "description": "Malicious code in filament-json-native-webdriver-manager (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44263"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

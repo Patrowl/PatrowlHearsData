@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179500", "enisaUuid": "bb33ab8f-0edf-3538-b4a1-3686e73dfbeb", "description": "Malicious code in cross-env-flare-hyperion-meissa (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186382"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

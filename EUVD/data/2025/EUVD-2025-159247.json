@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159247", "enisaUuid": "4403d9a2-fb39-3c4c-843f-94f347fe2ab4", "description": "Malicious code in appx-compiler (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14746"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

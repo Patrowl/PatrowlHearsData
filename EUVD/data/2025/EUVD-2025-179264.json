@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179264", "enisaUuid": "893b787b-0520-37ae-b231-6b4d9caa5639", "description": "Malicious code in dotenv-parse-variables-init-child-process-genomics (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186618"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

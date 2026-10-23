@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176262", "enisaUuid": "c9b0b562-afcb-32f8-9836-91e3952ee15f", "description": "Malicious code in spectron-ursa-yonder-command (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189613"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

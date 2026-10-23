@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112159", "enisaUuid": "fd1fd1a1-545b-3f06-b620-5aed94d8e6de", "description": "Malicious code in jovian-mocha-postgres-typeorm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143954"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

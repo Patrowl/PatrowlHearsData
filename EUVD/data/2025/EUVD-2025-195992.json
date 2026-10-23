@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195992", "enisaUuid": "feb26a62-3548-3ff9-b6fd-7c669447f62d", "description": "Malicious code in tardigrade-relay-ganymede-dependencies (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46240"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

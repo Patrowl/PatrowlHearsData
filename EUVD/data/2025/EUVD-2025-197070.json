@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197070", "enisaUuid": "c149d7f3-03d4-3ab1-b97d-9fe0d3ec5919", "description": "Malicious code in logdna-s3 (npm)", "datePublished": "2025-09-25T15:07:06", "dateUpdated": "2025-09-25T15:07:06", "baseScore": 0.0, "aliases": ["MAL-2025-47588"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

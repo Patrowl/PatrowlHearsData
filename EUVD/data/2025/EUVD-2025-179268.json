@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179268", "enisaUuid": "3a87025e-ae3d-3d31-9c28-e2ba5755ecbd", "description": "Malicious code in dotenv-ophiuchus-steganography-event (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186614"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

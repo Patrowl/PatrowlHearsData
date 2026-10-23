@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113767", "enisaUuid": "12b7f8a5-6c20-33c1-91d3-272c39419839", "description": "Malicious code in exec-ignite-hermes-process (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142343"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179615", "enisaUuid": "10dd057a-c7ff-3c63-9c69-1e1803e42800", "description": "Malicious code in concurrently-grus-vuepress-zenith (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186267"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

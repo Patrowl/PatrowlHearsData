@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111725", "enisaUuid": "fa11e3f3-3db1-35cf-b81a-d744b07d9398", "description": "Malicious code in library-quasar-andromeda-terser-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144388"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

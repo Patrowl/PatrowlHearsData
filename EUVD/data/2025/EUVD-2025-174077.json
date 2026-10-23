@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174077", "enisaUuid": "74740532-ffec-3b41-85a6-3ac761159391", "description": "Malicious code in postgres-child-process-package-arcturus (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29548"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

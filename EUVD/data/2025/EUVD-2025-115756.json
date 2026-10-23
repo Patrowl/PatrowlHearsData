@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115756", "enisaUuid": "1481a38f-d6ab-3438-9346-cdef3d452d56", "description": "Malicious code in callisto-redis-miranda-uglify-js (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140350"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

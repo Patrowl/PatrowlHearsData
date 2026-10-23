@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120561", "enisaUuid": "a426f35c-8308-3d0a-a6ce-d61492df89b2", "description": "Malicious code in webdriverio-eslint-cygnus-elara (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149368"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

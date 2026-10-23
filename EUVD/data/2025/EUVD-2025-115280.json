@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115280", "enisaUuid": "d05d4d05-25ab-3894-9089-b590c216cc36", "description": "Malicious code in cluster-ignite-ganymede-library (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140828"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

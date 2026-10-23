@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116927", "enisaUuid": "31c82768-95a1-32ad-9be4-5fa41313672c", "description": "Malicious code in acamar-helios-redis-chakra-ui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139175"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

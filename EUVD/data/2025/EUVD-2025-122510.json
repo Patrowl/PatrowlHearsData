@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122510", "enisaUuid": "06b554ca-ec54-37cf-9902-214d043abe59", "description": "Malicious code in reveal-md-hyperion-websockets-schema (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147412"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

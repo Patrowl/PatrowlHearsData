@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184036", "enisaUuid": "6da89a30-15c0-3f60-985d-668e3b603e89", "description": "Malicious code in sveltejs (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34251"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

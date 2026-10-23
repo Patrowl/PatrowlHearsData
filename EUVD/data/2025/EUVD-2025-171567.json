@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171567", "enisaUuid": "001f9d58-2cd7-372a-bd8e-e71e186607aa", "description": "Malicious code in mz-vue-datepicker (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27038"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

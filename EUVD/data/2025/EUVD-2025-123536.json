@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123536", "enisaUuid": "ba2b1a2c-c090-3ce2-9608-a4ada23a7002", "description": "Malicious code in postcss-cz-conventional-changelog-nova-element-ui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146385"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

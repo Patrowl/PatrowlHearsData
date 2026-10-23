@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153651", "enisaUuid": "13e364ca-f3f5-3650-ae12-57de86793359", "description": "Malicious code in @partnercenter-react/ui-webcore (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-29T06:43:16", "baseScore": 0.0, "aliases": ["MAL-2025-9150"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

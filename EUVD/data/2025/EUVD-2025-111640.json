@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111640", "enisaUuid": "22d4d1b0-a560-37c4-8615-ff5b6592692c", "description": "Malicious code in lint-toml-janus-cross-env (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144474"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

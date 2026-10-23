@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-36969", "enisaUuid": "a6a8587e-0523-3e42-802c-289afaa265eb", "description": "Malicious code in int_affirm_controllers (npm)", "datePublished": "2025-10-30T05:49:05", "dateUpdated": "2025-10-31T03:25:41", "baseScore": 0.0, "aliases": ["MAL-2025-49097"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112976", "enisaUuid": "d1932aa4-279d-3aef-90d5-30773c93c3de", "description": "Malicious code in halley-dotenv-safe-rehype-cross-env (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143136"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122546", "enisaUuid": "899b8d03-e4d3-353d-aa47-925a3ad2449d", "description": "Malicious code in restart-convict-juno-envconfig (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147376"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

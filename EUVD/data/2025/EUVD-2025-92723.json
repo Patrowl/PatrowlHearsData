@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-92723", "enisaUuid": "11a7b3fd-2542-33bc-8721-ea4a04ed9388", "description": "Malicious code in close_whale_z3n (npm)", "datePublished": "2025-11-11T15:19:32", "dateUpdated": "2025-11-11T15:19:32", "baseScore": 0.0, "aliases": ["MAL-2025-113161"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

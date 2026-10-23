@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112765", "enisaUuid": "eb32f54a-111c-3358-837d-0d962550790c", "description": "Malicious code in hexo-norma-cygnus-child-process (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143347"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177316", "enisaUuid": "8386ba94-33aa-37f0-aabd-26d0b125002d", "description": "Malicious code in parse-rho-wind-compress-simple (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188566"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

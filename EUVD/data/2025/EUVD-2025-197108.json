@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197108", "enisaUuid": "a6609471-8e05-3393-b7eb-0014ab070e9b", "description": "Malicious code in com.unity.serialization (npm)", "datePublished": "2025-09-26T09:26:27", "dateUpdated": "2025-09-26T09:26:27", "baseScore": 0.0, "aliases": ["MAL-2025-47635"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

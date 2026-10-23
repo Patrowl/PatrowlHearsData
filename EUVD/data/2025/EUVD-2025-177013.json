@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177013", "enisaUuid": "f9383aa0-ae62-3f53-b5e6-87071b17b5e2", "description": "Malicious code in promise-meta-node-orchestrate-proxy (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188862"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

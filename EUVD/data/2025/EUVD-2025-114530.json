@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114530", "enisaUuid": "81bf7396-c2a5-3801-91d0-637329a84a1b", "description": "Malicious code in dependencies-request-private-gridsome (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141579"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181816", "enisaUuid": "0097e012-1610-3c0b-a475-5c2cd6001df8", "description": "Malicious code in rehype-config-gravitationalwave-cli (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32031"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

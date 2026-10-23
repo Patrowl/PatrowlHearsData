@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159599", "enisaUuid": "f1972d12-d23d-39f8-a8aa-3ae52e57e2f3", "description": "Malicious code in authorize-daemon-container-awk-kernel (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15098"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

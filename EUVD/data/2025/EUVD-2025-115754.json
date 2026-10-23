@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115754", "enisaUuid": "8fd7349d-df82-3a20-9c62-4b0f2e74da44", "description": "Malicious code in callisto-spectron-hercules-cypress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140352"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

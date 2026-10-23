@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-51849", "enisaUuid": "0eaa473e-b73d-3e11-bc02-4d9743626ba3", "description": "Malicious code in spotty-fuchsia-guppy (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-70800"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

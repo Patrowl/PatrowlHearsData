@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113102", "enisaUuid": "22745e94-0f6f-396e-836a-0aceb4caf3d3", "description": "Malicious code in graphql-transport-umbriel-mini-css-extract-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143010"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

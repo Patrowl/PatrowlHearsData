@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-52114", "enisaUuid": "a64fa940-c92c-3ffe-8eb3-7f752c4fdb55", "description": "Malicious code in sensitive-white-dragonfly (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-70535"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

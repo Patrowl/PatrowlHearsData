@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113246", "enisaUuid": "e007d582-c2d7-31ef-b26d-827bf6e1f51c", "description": "Malicious code in geckodriver-hyperion-aurora-schema (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142866"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

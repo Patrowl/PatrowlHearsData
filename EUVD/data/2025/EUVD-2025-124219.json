@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124219", "enisaUuid": "f4c2bccb-fb09-390d-a47f-0454c085359f", "description": "Malicious code in nuxtjs-dotenv-parse-variables-release-it-nova (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145702"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

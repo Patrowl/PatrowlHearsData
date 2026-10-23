@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183983", "enisaUuid": "34fbd6c7-1d4f-3068-bd31-78694e859089", "description": "Malicious code in superagent-miranda-selenium-dynamo (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34198"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

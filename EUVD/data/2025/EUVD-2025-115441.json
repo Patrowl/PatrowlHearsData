@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115441", "enisaUuid": "808438f9-5ba9-377e-ba94-e3180f6358b4", "description": "Malicious code in changelog-cosmiconfig-sass-loader-commitlint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140666"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

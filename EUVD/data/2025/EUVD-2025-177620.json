@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177620", "enisaUuid": "646eaf45-2197-37cb-b85f-9737b292da0b", "description": "Malicious code in nextjs-event-chromedriver-pm2 (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188262"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

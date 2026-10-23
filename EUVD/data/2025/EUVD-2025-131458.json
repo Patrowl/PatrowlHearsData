@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131458", "enisaUuid": "358ff9dc-a75b-3a00-b641-4970b03be7ff", "description": "Malicious code in @crimson-team/sst-shared-components (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7736"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114709", "enisaUuid": "e3a35619-79e8-3b5d-abdc-cee83322f076", "description": "Malicious code in cypress-library-centaurus-meteor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141400"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

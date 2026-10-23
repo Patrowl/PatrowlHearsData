@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129117", "enisaUuid": "5b7485d1-2f96-3139-941d-52ce292224ec", "description": "Malicious code in data-catalog-api-schema (npm)", "datePublished": "2025-06-25T16:45:54", "dateUpdated": "2025-06-25T16:45:54", "baseScore": 0.0, "aliases": ["MAL-2025-5388"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

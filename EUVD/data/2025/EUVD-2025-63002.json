@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63002", "enisaUuid": "05abac7d-d38f-31ad-869d-5c7d99d19d1c", "description": "Malicious code in muddy_scorpion_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-95552"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

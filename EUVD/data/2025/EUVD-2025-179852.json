@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179852", "enisaUuid": "57101ee8-4090-3af4-87ea-2ab2c95be93c", "description": "Malicious code in cat-encrypt-export-kappa-validate (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186030"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

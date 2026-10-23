@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125630", "enisaUuid": "fbdf8173-adb4-3018-94e1-e624e53e9fb9", "description": "Malicious code in meli-parser (npm)", "datePublished": "2025-03-03T13:32:07", "dateUpdated": "2025-03-03T13:32:07", "baseScore": 0.0, "aliases": ["MAL-2025-1888"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

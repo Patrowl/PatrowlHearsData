@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160916", "enisaUuid": "f4413b4d-1947-3a19-aa0b-60874a6a060c", "description": "Malicious code in ca-npm-scripts (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16415"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

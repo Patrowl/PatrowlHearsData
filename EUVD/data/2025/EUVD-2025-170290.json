@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170290", "enisaUuid": "24903514-b2bb-30c4-b891-b8a6af9622dc", "description": "Malicious code in magellan-halley-socketio-uninstall (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25761"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

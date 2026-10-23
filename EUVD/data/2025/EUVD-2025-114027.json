@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114027", "enisaUuid": "e8c0f637-81cc-34a7-8e02-33cc81b3061d", "description": "Malicious code in envconfig-package-socketio-gacrux (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142083"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179062", "enisaUuid": "ea0aeaa6-4757-3b13-b8b0-c6253b760c27", "description": "Malicious code in eris-sync-loglevel-dorado (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186820"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

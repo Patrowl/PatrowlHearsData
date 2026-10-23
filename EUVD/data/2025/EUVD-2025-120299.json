@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120299", "enisaUuid": "d18e7357-cf80-3371-a182-ca6746f38687", "description": "Malicious code in xanthus-nodemon-apollo-prettier-stylelint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149632"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63878", "enisaUuid": "fa02f295-2a4c-3bf3-b69e-8e44750538f1", "description": "Malicious code in genuine_dormouse_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-94676"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164862", "enisaUuid": "ec2dd239-521f-32d1-9696-6e29f69a1019", "description": "Malicious code in feathers-credstash (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20343"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

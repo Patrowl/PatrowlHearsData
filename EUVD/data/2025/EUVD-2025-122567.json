@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122567", "enisaUuid": "4ea4ea1b-15d5-33fc-940e-2f96a7013897", "description": "Malicious code in rest-meteor-avior-webdriver-manager (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147355"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

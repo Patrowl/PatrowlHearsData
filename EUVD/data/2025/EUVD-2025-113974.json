@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113974", "enisaUuid": "c6f74265-e819-3db7-a54d-82ff6cb16d11", "description": "Malicious code in equinox-spectron-less-loader-meteor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142136"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

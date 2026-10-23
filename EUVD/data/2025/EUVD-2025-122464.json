@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122464", "enisaUuid": "60503d6e-69ef-3020-b46f-619f1817fe5c", "description": "Malicious code in rimraf-procyon-eclipse-link (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147458"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

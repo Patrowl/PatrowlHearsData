@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123470", "enisaUuid": "a2cfb2a3-5158-3e24-8acb-389a72449dfd", "description": "Malicious code in postgres-websockets-rocket-xerxes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146451"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

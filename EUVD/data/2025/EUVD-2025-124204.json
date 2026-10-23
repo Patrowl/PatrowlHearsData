@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124204", "enisaUuid": "b0faae65-e1e9-31dd-8893-d1516979aa48", "description": "Malicious code in nuxtjs-typeorm-odin-gulp (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145717"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

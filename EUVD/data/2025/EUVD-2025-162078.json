@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162078", "enisaUuid": "0e5c9acf-1903-3b99-a449-8f570fc018f1", "description": "Malicious code in coredns-dist-win32-x64 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17579"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122525", "enisaUuid": "1be14691-28f0-3a58-ab00-8181afec436b", "description": "Malicious code in restart-tailwindcss-dynamo-deneb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147397"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

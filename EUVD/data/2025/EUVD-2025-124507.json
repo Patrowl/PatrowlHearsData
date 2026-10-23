@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124507", "enisaUuid": "65e199e4-875d-3510-a8ad-94c9e2f63efe", "description": "Malicious code in nextjs-dynamo-gemini-version (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145414"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

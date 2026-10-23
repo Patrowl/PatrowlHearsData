@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116792", "enisaUuid": "eae9c977-1124-3a71-9eb5-73335695158c", "description": "Malicious code in algol-stream-node-config-enif (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139310"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

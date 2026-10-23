@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167833", "enisaUuid": "a0f839e8-6285-3c72-bef9-b7c4fa80bb45", "description": "Malicious code in ionosphere-promise-vuepress-spectron-webdriver (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23315"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

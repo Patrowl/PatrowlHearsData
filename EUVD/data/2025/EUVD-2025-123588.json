@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123588", "enisaUuid": "3c91090d-38ee-39b6-91a5-2f9c725898ef", "description": "Malicious code in polaris-csrf-solis-xanthus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146333"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

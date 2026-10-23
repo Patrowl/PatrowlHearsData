@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172184", "enisaUuid": "89651a23-b4a3-39e1-97f0-76144b2bd595", "description": "Malicious code in node-sfnt2woff-zopfli (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27655"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

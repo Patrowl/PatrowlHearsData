@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178377", "enisaUuid": "adcb67f1-b14b-3898-a1d0-330faaf5f4c7", "description": "Malicious code in integer-slow-java-object-string (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187505"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

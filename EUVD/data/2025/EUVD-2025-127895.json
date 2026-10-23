@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127895", "enisaUuid": "2ad58f5c-ee38-3967-b1db-72351d259928", "description": "Malicious code in atg-store-addons (npm)", "datePublished": "2025-05-22T12:40:40", "dateUpdated": "2025-05-22T12:40:40", "baseScore": 0.0, "aliases": ["MAL-2025-4163"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171359", "enisaUuid": "ba1210e6-bcb6-3b36-8c3d-8b7302da3c95", "description": "Malicious code in ms-azuretools.vscode-azureresourcegroups (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26830"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

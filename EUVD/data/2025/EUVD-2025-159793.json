@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159793", "enisaUuid": "56ecb2d5-9a90-3f82-89fc-4b1c95a285f0", "description": "Malicious code in babel-plugin-tedium (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15292"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

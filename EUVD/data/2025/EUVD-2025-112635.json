@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112635", "enisaUuid": "8498e6f6-afad-33c6-83bd-e5ba2a82f95d", "description": "Malicious code in hyperion-hermes-oauth-non-blocking (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143477"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

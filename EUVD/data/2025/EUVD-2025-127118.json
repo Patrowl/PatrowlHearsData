@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127118", "enisaUuid": "ece3a448-f621-3bc0-8328-c39daff5a1ee", "description": "Malicious code in angular2-tesla-common-1 (npm)", "datePublished": "2025-04-23T15:43:30", "dateUpdated": "2025-04-23T15:43:30", "baseScore": 0.0, "aliases": ["MAL-2025-3377"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

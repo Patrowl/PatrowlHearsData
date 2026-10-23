@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177300", "enisaUuid": "ef59ed17-1f89-3260-b942-85c6ed724ed6", "description": "Malicious code in passport-semantic-ui-miranda-dotenv-safe (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188582"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

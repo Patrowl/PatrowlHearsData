@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130627", "enisaUuid": "269e8bc3-438f-3396-b560-b9bdfec0804a", "description": "Malicious code in @identity-authn/authn-js-sdk (npm)", "datePublished": "2025-08-14T19:16:51", "dateUpdated": "2025-08-29T06:43:15", "baseScore": 0.0, "aliases": ["MAL-2025-6905"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

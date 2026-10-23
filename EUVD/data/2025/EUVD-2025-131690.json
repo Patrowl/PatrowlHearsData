@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131690", "enisaUuid": "b9e1eea1-61e7-359a-869c-4ef07cb412e8", "description": "Malicious code in @frozen-ui/feedback (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7968"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

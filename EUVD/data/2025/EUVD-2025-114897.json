@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114897", "enisaUuid": "67f1b389-8c3f-3fe1-a7c9-2f2e5614c9fa", "description": "Malicious code in cosmos-nightwatch-sync-redis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141212"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

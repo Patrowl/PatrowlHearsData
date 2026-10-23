@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176757", "enisaUuid": "e9f2a041-5ad1-3d68-9bb8-8c9a06517b43", "description": "Malicious code in refactor-cron-yaml-dog-debug (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189118"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

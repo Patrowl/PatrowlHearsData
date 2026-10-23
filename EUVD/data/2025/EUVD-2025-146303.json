@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-146303", "enisaUuid": "164fd89b-daf4-35b4-a335-b18b1ece55b1", "description": "Malicious code in verify-tecical-bisa (npm)", "datePublished": "2025-11-12T16:47:05", "dateUpdated": "2025-11-12T16:47:05", "baseScore": 0.0, "aliases": ["MAL-2025-170509"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

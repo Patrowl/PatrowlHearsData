@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131455", "enisaUuid": "3066aa88-4784-32f9-9ed0-722239e03445", "description": "Malicious code in @create-project-container/legacy (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7733"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181718", "enisaUuid": "7a02a3b6-ed3c-3e01-ad00-2582940805c0", "description": "Malicious code in redis-cosmogenic-foundation-xanthus (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31933"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

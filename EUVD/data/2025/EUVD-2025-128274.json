@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128274", "enisaUuid": "330a12d7-6d79-3adf-9599-0727df58e6d9", "description": "Malicious code in @hd-base/atoms (npm)", "datePublished": "2025-05-28T12:53:37", "dateUpdated": "2025-05-28T12:53:37", "baseScore": 0.0, "aliases": ["MAL-2025-4542"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129760", "enisaUuid": "3c4323c4-9168-3545-8cb0-4a3a9a624397", "description": "Malicious code in @nytt/sass-utils (npm)", "datePublished": "2025-07-20T16:46:22", "dateUpdated": "2025-07-20T16:46:22", "baseScore": 0.0, "aliases": ["MAL-2025-6033"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

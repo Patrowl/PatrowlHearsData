@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179683", "enisaUuid": "5c47b807-1135-394f-9fd1-a752c3f5cb3e", "description": "Malicious code in cold-hot-beta-log-daemon (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186199"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

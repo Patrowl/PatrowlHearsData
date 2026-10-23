@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178389", "enisaUuid": "3546f275-3b2d-3c6f-bd1d-2c5408ada38e", "description": "Malicious code in inquirer-winston-commitlint-cosmiconfig (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187493"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

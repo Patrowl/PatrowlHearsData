@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115322", "enisaUuid": "ba39ca33-0619-3d30-a9b0-1c33311bebb7", "description": "Malicious code in cli-axios-kronos-ophiuchus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140786"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169631", "enisaUuid": "0ace23fd-5faa-3a05-86f0-da16e466c77b", "description": "Malicious code in lemon-date-wdif (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25102"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

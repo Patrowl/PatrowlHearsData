@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180173", "enisaUuid": "7261929d-72f2-3fa3-9842-a35e54c21485", "description": "Malicious code in awk-sun-deploy-key-omega (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185709"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111213", "enisaUuid": "2ee940ca-ec7f-33c8-9e24-67a0b9503074", "description": "Malicious code in meteor-chalk-csrf-sagitta (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144902"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120592", "enisaUuid": "94975252-5217-38cf-8505-ea7390fc2f68", "description": "Malicious code in webdriver-manager-webdriverio-build-tethys (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149337"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

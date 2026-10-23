@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170835", "enisaUuid": "70de1ea4-9741-3a73-974d-cc217520cceb", "description": "Malicious code in midibin-api (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26306"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

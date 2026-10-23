@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37065", "enisaUuid": "05fe8f41-0a02-36df-880b-224bd15a1e70", "description": "Malicious code in mms-ref-dedserver (npm)", "datePublished": "2025-10-30T17:38:57", "dateUpdated": "2025-10-30T17:38:57", "baseScore": 0.0, "aliases": ["MAL-2025-49228"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

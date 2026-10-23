@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124145", "enisaUuid": "d3064719-7bcd-3323-94a3-7248c1100db0", "description": "Malicious code in octans-mysql-titan-selenium (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145776"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

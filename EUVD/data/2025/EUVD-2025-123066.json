@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123066", "enisaUuid": "608def31-91e2-3b95-a78f-9677f224dd01", "description": "Malicious code in puppeteer-nightmare-lynx-mongoose (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146856"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

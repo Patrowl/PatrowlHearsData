@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115574", "enisaUuid": "d3ff4469-a87c-32af-bd1a-e33493887c60", "description": "Malicious code in centauri-nconf-leda-cors (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140533"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

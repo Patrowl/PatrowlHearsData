@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130556", "enisaUuid": "6550a96c-f84d-3955-baf9-7a0b8939820d", "description": "Malicious code in asciidoctor.rb (npm)", "datePublished": "2025-08-08T19:57:32", "dateUpdated": "2025-08-08T19:57:32", "baseScore": 0.0, "aliases": ["MAL-2025-6834"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

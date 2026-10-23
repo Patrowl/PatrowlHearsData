@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121873", "enisaUuid": "8cea8f16-252e-310f-9fdb-2f2cad38e32d", "description": "Malicious code in socketio-fetch-deneb-redis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148052"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

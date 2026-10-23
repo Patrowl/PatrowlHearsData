@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189162", "enisaUuid": "f0430fa3-536d-3a48-8baf-154b530b5ac8", "description": "Malicious code in wm-plugin-user-behavior (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39376"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

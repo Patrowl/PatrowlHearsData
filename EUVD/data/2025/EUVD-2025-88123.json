@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-88123", "enisaUuid": "238acf1a-8866-37c6-aa88-ede9b631b4b2", "description": "Malicious code in valid_tapir_z3n (npm)", "datePublished": "2025-11-11T15:19:32", "dateUpdated": "2025-11-11T15:19:32", "baseScore": 0.0, "aliases": ["MAL-2025-117761"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

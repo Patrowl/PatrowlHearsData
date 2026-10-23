@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179159", "enisaUuid": "0dd63efb-4c90-350b-aec0-1b67fe63ead6", "description": "Malicious code in emulate-private-alpha-decompress-view (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186723"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159614", "enisaUuid": "e0436b2f-eaec-3c40-938f-4db123d1c778", "description": "Malicious code in autochmod (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15113"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

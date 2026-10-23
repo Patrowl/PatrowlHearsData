@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114538", "enisaUuid": "02f06fd3-a5c7-3ee5-913e-928f2fb71965", "description": "Malicious code in dependencies-jovian-bellatrix-await (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141571"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

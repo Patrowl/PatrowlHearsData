@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122817", "enisaUuid": "2924e89c-8749-3639-b8e9-de1325b623a9", "description": "Malicious code in redis-izar-react-bootstrap-run-script (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147105"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

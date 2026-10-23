@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-102462", "enisaUuid": "843fe071-1c08-34f5-861b-55acbc7bd703", "description": "Malicious code in robust_cuckoo_z3n (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-129943"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

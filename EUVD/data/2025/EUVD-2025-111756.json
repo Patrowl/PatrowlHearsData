@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111756", "enisaUuid": "db59a92b-8847-32ab-951a-951b6b9195f9", "description": "Malicious code in levels-node-config-nodejs-dione (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144357"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

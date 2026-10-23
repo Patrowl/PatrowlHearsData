@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180204", "enisaUuid": "b5448e71-8dcb-3888-acb5-cab5cabe710d", "description": "Malicious code in authorize-route-signal-grid-cache (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185679"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175697", "enisaUuid": "ff9a9635-c745-3e2b-b27f-007383d09ecc", "description": "Malicious code in void-fork-zero-log-code (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190179"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

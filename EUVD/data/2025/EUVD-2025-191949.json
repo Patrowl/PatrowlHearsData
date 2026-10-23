@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191949", "enisaUuid": "1fcd3cd0-4e4c-3f25-9fcf-196e711ea99e", "description": "Malicious code in @com-delta-idp/core (npm)", "datePublished": "2025-09-05T16:38:20", "dateUpdated": "2025-09-05T16:38:20", "baseScore": 0.0, "aliases": ["MAL-2025-42193"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

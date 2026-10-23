@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127108", "enisaUuid": "7c37e0ae-396f-3a94-b99a-ed6e7cc9c7e1", "description": "Malicious code in @sporta-technology/d11-web-components.toggle-button (npm)", "datePublished": "2025-04-23T15:41:05", "dateUpdated": "2025-04-23T15:41:05", "baseScore": 0.0, "aliases": ["MAL-2025-3367"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

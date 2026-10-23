@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189228", "enisaUuid": "bbd62d13-70b4-3c46-b686-be384edb6dca", "description": "Malicious code in work-cpu-process4 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39442"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

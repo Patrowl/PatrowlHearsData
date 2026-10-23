@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124357", "enisaUuid": "3b34d020-75dc-3683-a3c1-d13a6624d200", "description": "Malicious code in nodejs-framework-taurus-pyxis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145564"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

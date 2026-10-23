@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179751", "enisaUuid": "4e7eee0c-86b1-33ff-8e33-bbccca727df8", "description": "Malicious code in charon-stream-fornax-dotenv (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186131"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

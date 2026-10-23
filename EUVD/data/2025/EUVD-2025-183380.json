@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183380", "enisaUuid": "1d04ac6e-ff68-3465-ab45-f07f1fb6ca0b", "description": "Malicious code in socket.io-rails (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33595"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180457", "enisaUuid": "b855e7f9-8f1f-38a5-ae97-efa7e5342103", "description": "Malicious code in alpha-authenticate-serialize-long-try (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185431"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

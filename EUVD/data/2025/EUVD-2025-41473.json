@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-41473", "enisaUuid": "1252bb60-ef3b-31c2-961c-9d989f7348a1", "description": "Malicious code in candra-kue15-ruro (npm)", "datePublished": "2025-11-10T04:05:19", "dateUpdated": "2025-11-10T04:05:19", "baseScore": 0.0, "aliases": ["MAL-2025-49997"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

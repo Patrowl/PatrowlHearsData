@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168609", "enisaUuid": "6694ffa0-e895-3a7a-8484-bcf5100fcf54", "description": "Malicious code in juno-package-ursa-less-loader (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24091"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

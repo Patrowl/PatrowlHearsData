@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122965", "enisaUuid": "22f3041d-77e9-3a6a-a865-2fd231229412", "description": "Malicious code in quasar-query-mongoose-alphard (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146957"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

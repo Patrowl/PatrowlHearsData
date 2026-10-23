@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-154063", "enisaUuid": "e9b70adf-6d74-3c6f-ac6b-50763f8bd998", "description": "Malicious code in @tiger-team/scan (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9562"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

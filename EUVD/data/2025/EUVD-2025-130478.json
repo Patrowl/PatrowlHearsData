@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130478", "enisaUuid": "123b8482-bb0a-3e6b-acb4-ad0de8f2d4b7", "description": "Malicious code in react-native-gainsight-px (npm)", "datePublished": "2025-07-30T17:32:35", "dateUpdated": "2025-07-30T17:32:35", "baseScore": 0.0, "aliases": ["MAL-2025-6755"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

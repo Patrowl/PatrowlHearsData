@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164408", "enisaUuid": "8b60a452-e55e-320d-8713-2307a0b979ec", "description": "Malicious code in eth_private_key_to_address (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19888"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

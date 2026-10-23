@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114169", "enisaUuid": "c8b76bd9-66cc-38a2-948b-8b2179528ce9", "description": "Malicious code in elektra-css-minimizer-webpack-plugin-janus-semantic-ui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141941"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

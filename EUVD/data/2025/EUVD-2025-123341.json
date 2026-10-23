@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123341", "enisaUuid": "5e7c5f04-db30-3bcf-8b41-eb28e460afcf", "description": "Malicious code in procyon-castor-rate-limiter-europa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146581"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

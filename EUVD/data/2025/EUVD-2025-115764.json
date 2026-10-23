@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115764", "enisaUuid": "ba9e44b2-8119-34ab-8bd4-0b9ae700601e", "description": "Malicious code in callisto-miranda-commitlint-library (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140342"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

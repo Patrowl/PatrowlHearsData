@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179937", "enisaUuid": "249a236c-8071-3319-ac4b-70d8a094a04f", "description": "Malicious code in bunyan-cosmicray-membrane-terser (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185945"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

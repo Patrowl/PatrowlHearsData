@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124799", "enisaUuid": "c4880cca-bf02-3b71-925b-fc4682ae5d79", "description": "Malicious code in module-xml-meteor-meissa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145119"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

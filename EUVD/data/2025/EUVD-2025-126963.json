@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126963", "enisaUuid": "5fe1c53f-72b7-3825-8555-6bd315f57f4e", "description": "Malicious code in web-sim-control (npm)", "datePublished": "2025-04-17T19:36:05", "dateUpdated": "2025-04-17T19:36:05", "baseScore": 0.0, "aliases": ["MAL-2025-3222"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

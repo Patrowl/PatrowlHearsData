@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125696", "enisaUuid": "e1ace2e6-97fa-3c3b-9a16-988ef3a0a178", "description": "Malicious code in upm-template-utils (npm)", "datePublished": "2025-03-03T13:42:44", "dateUpdated": "2025-03-03T13:42:44", "baseScore": 0.0, "aliases": ["MAL-2025-1954"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

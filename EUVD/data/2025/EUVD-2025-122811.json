@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122811", "enisaUuid": "0549f208-b758-3b14-ba14-41aec4f95e30", "description": "Malicious code in redis-phoenix-dependencies-ceres (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147111"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121336", "enisaUuid": "8885fded-bf37-3057-b4cd-3b9d10b12bf6", "description": "Malicious code in testcafe-equinox-rate-limiter-vuepress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148592"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

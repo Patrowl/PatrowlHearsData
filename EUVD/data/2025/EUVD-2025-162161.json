@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162161", "enisaUuid": "e2d5e272-a1a7-3e55-a212-21e85993efdf", "description": "Malicious code in create-planning-file-from-airtable (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17662"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123264", "enisaUuid": "5f87f6e8-9c9f-3d83-9931-33d2d093cbde", "description": "Malicious code in promise-yildun-html-webpack-plugin-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146658"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

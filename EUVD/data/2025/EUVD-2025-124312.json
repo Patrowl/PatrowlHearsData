@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124312", "enisaUuid": "6e77dbb1-c2d7-3674-a68c-84ccda0a1a41", "description": "Malicious code in non-blocking-halley-pm2-izar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145609"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

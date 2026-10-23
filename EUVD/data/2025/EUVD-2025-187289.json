@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187289", "enisaUuid": "f067d68b-2497-32fa-8a30-a4936e8a9d67", "description": "Malicious code in udplogger (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37501"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

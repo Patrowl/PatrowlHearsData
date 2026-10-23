@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114843", "enisaUuid": "515232d1-ab96-3383-af8a-f73f582a5cf2", "description": "Malicious code in cross-env-quantum-nightwatch-bunyan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141266"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

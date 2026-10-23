@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116564", "enisaUuid": "3416dbd5-9fb3-37b5-a3c0-d012d400d714", "description": "Malicious code in aquarius-jwt-bulma-webdriver-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139538"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

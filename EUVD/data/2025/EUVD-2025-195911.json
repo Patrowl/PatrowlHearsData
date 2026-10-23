@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195911", "enisaUuid": "849136f7-4d32-3e8b-9fe9-90ac92fbee72", "description": "Malicious code in subscription-draco-writable-graphql (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46159"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125430", "enisaUuid": "5b188a5a-8667-3321-b376-e1d6db4bb91e", "description": "Malicious code in @aoflmkt/is-webp-qualified (npm)", "datePublished": "2025-03-03T13:12:20", "dateUpdated": "2025-03-03T13:12:20", "baseScore": 0.0, "aliases": ["MAL-2025-1686"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179565", "enisaUuid": "f6e24c39-c9c6-3738-ba7d-62915b771679", "description": "Malicious code in cors-google-mocha-prettier (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186317"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

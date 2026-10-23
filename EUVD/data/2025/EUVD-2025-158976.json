@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-158976", "enisaUuid": "838f584d-8616-3a6f-9575-633b77401863", "description": "Malicious code in analyze-lambda-daemon-kappa-file (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14475"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177773", "enisaUuid": "954972b4-13d8-34e5-b97d-3af89f948794", "description": "Malicious code in mongodb-nodemon-callback-areology (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188109"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

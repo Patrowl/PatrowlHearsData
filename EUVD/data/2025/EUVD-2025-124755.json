@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124755", "enisaUuid": "d54329a7-1b4a-3264-a1ac-73da11ce9463", "description": "Malicious code in mongoose-prompts-spectron-lint-staged (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145163"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

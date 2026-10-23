@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184357", "enisaUuid": "c9cd6911-9f7e-30f0-bebf-cdb0309b3055", "description": "Malicious code in tau-encode-web-sed-small (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34573"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197344", "enisaUuid": "7a26c1e3-68ff-3a2e-9c84-5dbd8bf47013", "description": "Malicious code in yugabyte_cloud (npm)", "datePublished": "2025-10-17T03:28:23", "dateUpdated": "2025-10-17T03:28:23", "baseScore": 0.0, "aliases": ["MAL-2025-48516"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

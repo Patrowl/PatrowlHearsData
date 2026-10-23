@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178690", "enisaUuid": "f13a8d58-6283-3947-b0d4-ff182ac18907", "description": "Malicious code in good-minify-private-container-object (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187192"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

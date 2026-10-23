@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111209", "enisaUuid": "21af2906-c558-3da4-81b0-ae25fa3d1441", "description": "Malicious code in meteor-cross-env-promise-comet (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144906"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

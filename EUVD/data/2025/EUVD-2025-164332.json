@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164332", "enisaUuid": "2555ef32-0780-3705-8901-d26b2a522daa", "description": "Malicious code in es6-demo-react-npm2 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19811"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

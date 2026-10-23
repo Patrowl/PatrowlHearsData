@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200345", "enisaUuid": "4ff1237e-d85e-30f0-b283-2f830d7b8f89", "description": "Malicious code in redirect-clrm2u (npm)", "datePublished": "2025-12-01T13:23:06", "dateUpdated": "2025-12-02T21:37:32", "baseScore": 0.0, "aliases": ["MAL-2025-191584"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

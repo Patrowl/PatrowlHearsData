@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179832", "enisaUuid": "61575f58-908c-3876-894d-55ec528ac3af", "description": "Malicious code in centauri-luna-cli-tethys (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186050"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

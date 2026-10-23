@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121855", "enisaUuid": "a8dd1f31-2a66-34e4-9c50-c1bc922a6f90", "description": "Malicious code in solis-buffer-vuetify-got (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148070"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

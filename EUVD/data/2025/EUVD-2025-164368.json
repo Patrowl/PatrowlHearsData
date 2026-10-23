@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164368", "enisaUuid": "c64a70e9-0a12-397e-83e8-9132e5868f3b", "description": "Malicious code in eslint-plugin-airbnb (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19848"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

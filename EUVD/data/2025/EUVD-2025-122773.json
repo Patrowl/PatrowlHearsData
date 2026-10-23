@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122773", "enisaUuid": "8b6ed866-3406-38a1-85ff-69f15671f877", "description": "Malicious code in regulus-local-eslint-config-callisto (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147149"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

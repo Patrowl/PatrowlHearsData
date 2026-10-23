@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-146366", "enisaUuid": "05c51d19-e419-361c-acfa-3445c875475e", "description": "Malicious code in verify-tac-mehanical (npm)", "datePublished": "2025-11-12T16:47:05", "dateUpdated": "2025-11-12T16:47:05", "baseScore": 0.0, "aliases": ["MAL-2025-170446"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

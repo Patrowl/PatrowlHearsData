@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176431", "enisaUuid": "98c32a44-d34d-3fc1-b1fa-0d8ee9b58ae0", "description": "Malicious code in sequelize-hawkingradiation-protractor-quasarjet (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189444"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

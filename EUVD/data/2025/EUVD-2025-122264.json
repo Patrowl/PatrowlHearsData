@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122264", "enisaUuid": "ee98e3d2-dda9-3f68-a5dc-29058aa97e16", "description": "Malicious code in sails-vuetify-remark-nconf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147658"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

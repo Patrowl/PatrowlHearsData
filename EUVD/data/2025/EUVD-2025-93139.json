@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-93139", "enisaUuid": "28d1f428-d4bd-37d5-8b47-a6a567059e49", "description": "Malicious code in automatic_llama_z3n (npm)", "datePublished": "2025-11-11T15:19:32", "dateUpdated": "2025-11-11T15:19:32", "baseScore": 0.0, "aliases": ["MAL-2025-112745"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

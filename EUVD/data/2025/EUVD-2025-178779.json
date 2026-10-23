@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178779", "enisaUuid": "226e53ec-5221-39b7-8a8f-a1ea6d294771", "description": "Malicious code in ganymede-mesosphere-nconf-local (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187103"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

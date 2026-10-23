@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111878", "enisaUuid": "8d4ebc76-6920-3035-96f7-1fcdb9d53a2f", "description": "Malicious code in lacerta-configstore-cz-conventional-changelog-janus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144235"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

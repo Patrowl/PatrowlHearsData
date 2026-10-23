@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115320", "enisaUuid": "d2251835-fec9-3154-8595-4e2b903b565a", "description": "Malicious code in cli-celeste-cors-fornax (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140788"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

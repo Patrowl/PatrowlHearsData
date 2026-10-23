@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115906", "enisaUuid": "1919a9a9-928e-391f-a420-bb86c931f2cd", "description": "Malicious code in build-wolf-kastra-lint-staged (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140198"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

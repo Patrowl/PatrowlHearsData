@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123065", "enisaUuid": "2373c48b-6f14-3ee1-a941-afa155256a85", "description": "Malicious code in puppeteer-pino-electron-builder-development (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146857"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

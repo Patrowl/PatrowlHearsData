@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180785", "enisaUuid": "0385278e-b244-361a-a0dc-e87db1dea4a8", "description": "Malicious code in qdrant-node-js-basic-example (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-30999"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

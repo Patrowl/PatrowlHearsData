@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195085", "enisaUuid": "1f0f907f-6b72-3e4b-8ec6-8e7965b526b7", "description": "Malicious code in node-sass-cz-conventional-changelog-foundation-nashira (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45333"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160581", "enisaUuid": "d981313c-117c-3c40-a46b-3e502010c3f5", "description": "Malicious code in brane-pegasus-corvus-rate-limiter (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16080"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

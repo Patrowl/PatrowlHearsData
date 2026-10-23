@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113032", "enisaUuid": "3f8c5f9b-caf1-38ce-b724-04a479bbd6ac", "description": "Malicious code in grunt-yaml-testcafe-tailwindcss (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143080"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

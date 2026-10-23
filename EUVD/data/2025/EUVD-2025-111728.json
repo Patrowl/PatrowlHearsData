@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111728", "enisaUuid": "69027b8a-d9ef-3a8e-bf14-c8f80d74e1f5", "description": "Malicious code in library-prettier-stylelint-semantic-release-centauri (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144385"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

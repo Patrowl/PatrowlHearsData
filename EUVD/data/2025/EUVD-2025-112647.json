@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112647", "enisaUuid": "8104f9e5-44fc-3e30-b98f-a4f74dc6b0cc", "description": "Malicious code in hyperion-auth-concurrently-request (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143465"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

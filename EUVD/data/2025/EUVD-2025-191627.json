@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191627", "enisaUuid": "fa88a3e3-d217-39c6-9014-5290b26115b0", "description": "Malicious code in @espace-client-axafr/healthcare-upload (npm)", "datePublished": "2025-08-25T18:34:48", "dateUpdated": "2025-08-25T18:34:48", "baseScore": 0.0, "aliases": ["MAL-2025-41861"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

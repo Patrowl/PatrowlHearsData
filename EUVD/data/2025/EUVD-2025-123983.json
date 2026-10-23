@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123983", "enisaUuid": "0496c709-1fbf-3932-9226-b06bf70bf3b3", "description": "Malicious code in package-luna-prettier-plugin-markdown-readable (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145938"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

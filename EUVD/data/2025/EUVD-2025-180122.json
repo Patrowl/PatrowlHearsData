@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180122", "enisaUuid": "0afa69ea-28dc-3b25-9f80-689e51f2a6c8", "description": "Malicious code in bash-unix-rho-sigma-quick (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185760"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

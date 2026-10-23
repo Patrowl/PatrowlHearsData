@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123059", "enisaUuid": "942551ba-2bc8-3381-8384-0b3eae4a6798", "description": "Malicious code in puppeteer-repository-pino-non-blocking (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146863"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

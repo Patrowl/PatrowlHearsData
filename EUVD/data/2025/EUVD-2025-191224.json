@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191224", "enisaUuid": "6adf9ff6-406f-3758-a6b9-5a71774c432c", "description": "Malicious code in @revizor/reporter-gitlab (npm)", "datePublished": "2025-08-28T07:14:59", "dateUpdated": "2025-08-28T07:14:59", "baseScore": 0.0, "aliases": ["MAL-2025-41455"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

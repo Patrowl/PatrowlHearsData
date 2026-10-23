@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116497", "enisaUuid": "ab45b0ba-3fda-3794-a1a6-77899753d16d", "description": "Malicious code in astro-geckodriver-janus-helios (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139605"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

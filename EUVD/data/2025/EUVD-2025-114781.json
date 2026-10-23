@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114781", "enisaUuid": "b74de28c-9dc6-37a5-ba91-7ad0743b8110", "description": "Malicious code in css-minimizer-webpack-plugin-hyperion-websockets-husky (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141328"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

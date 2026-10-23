@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121286", "enisaUuid": "4aca0f38-df31-3e98-88b0-bfe52e6b5d3d", "description": "Malicious code in thuban-backend-install-wolf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148642"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

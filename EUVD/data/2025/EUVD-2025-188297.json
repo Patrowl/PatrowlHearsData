@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188297", "enisaUuid": "c9adc2f3-bd5c-36dd-9830-8ad368c4fac6", "description": "Malicious code in vite-default (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-09-26T11:06:46", "baseScore": 0.0, "aliases": ["MAL-2025-38509"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114752", "enisaUuid": "61c067a6-1a11-3023-bb88-553d2855126b", "description": "Malicious code in csv-schema-alphard-taurus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141357"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184176", "enisaUuid": "deb9ca39-5c4d-392c-bdec-8e44c9f9465c", "description": "Malicious code in tailwindcss-pulsar-hyperion-standard (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34392"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

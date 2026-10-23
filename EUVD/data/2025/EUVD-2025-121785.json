@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121785", "enisaUuid": "a7a82f9a-6aff-3781-af68-ea5674987e99", "description": "Malicious code in spectron-webdriver-sedna-charon-iota (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148140"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

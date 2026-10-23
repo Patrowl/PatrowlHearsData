@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187272", "enisaUuid": "6e1d9310-dab7-3c6b-be96-f38c493d28df", "description": "Malicious code in ucifsplus (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37484"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

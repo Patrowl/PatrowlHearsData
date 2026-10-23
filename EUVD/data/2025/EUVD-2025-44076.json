@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-44076", "enisaUuid": "0a44ce2f-4a12-3660-b654-0ca2379200f6", "description": "Malicious code in @rce-web/ui-upgrade-dialog (npm)", "datePublished": "2025-11-10T16:31:05", "dateUpdated": "2025-11-12T02:38:44", "baseScore": 0.0, "aliases": ["MAL-2025-55023"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

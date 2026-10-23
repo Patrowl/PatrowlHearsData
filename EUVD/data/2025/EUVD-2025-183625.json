@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183625", "enisaUuid": "5fefe02d-2a7c-3a76-8ba9-802955625b3a", "description": "Malicious code in sqlite-command-luminescence-command (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33840"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

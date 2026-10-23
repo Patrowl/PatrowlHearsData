@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193833", "enisaUuid": "216d23b3-7b04-38b6-8e4a-f446fb375037", "description": "Malicious code in duplex-gemini-resolvers-norma (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44080"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

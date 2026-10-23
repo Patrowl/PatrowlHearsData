@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120622", "enisaUuid": "82160269-6861-395a-8ed2-6306bfc9c86b", "description": "Malicious code in webdriver-manager-acamar-relay-publish (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149307"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

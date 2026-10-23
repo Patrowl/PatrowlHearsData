@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172025", "enisaUuid": "5bf0d8f0-818f-312b-8c58-fc45962361a0", "description": "Malicious code in nift-contract-viewer (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27496"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

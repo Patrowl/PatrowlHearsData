@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162281", "enisaUuid": "4fd4dc01-df26-3aed-b8e4-dceb59536d37", "description": "Malicious code in csp-daemon-notifications-queue (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17782"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

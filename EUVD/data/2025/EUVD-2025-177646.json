@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177646", "enisaUuid": "385032c3-f660-37fa-be2b-088ed3dfa30b", "description": "Malicious code in neptunology-husky-dotenv-parse-variables-got (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188236"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

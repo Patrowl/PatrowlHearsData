@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162997", "enisaUuid": "0ae846c8-2eac-31bc-bc80-054b7debd626", "description": "Malicious code in disk-process2 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18498"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

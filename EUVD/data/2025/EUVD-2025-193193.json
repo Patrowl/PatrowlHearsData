@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193193", "enisaUuid": "8a84e3dc-a3aa-3a2d-ae89-69ce3379ec5e", "description": "Malicious code in altair-blaze-html-webpack-plugin-ora (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43440"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

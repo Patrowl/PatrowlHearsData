@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121350", "enisaUuid": "d63cafb8-ae9b-3aa6-8b67-850c7e1cf1c6", "description": "Malicious code in test-redis-pavo-version (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148578"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

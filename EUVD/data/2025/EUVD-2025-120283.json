@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120283", "enisaUuid": "2b052c35-2464-3642-be98-f4fa3eebf4ce", "description": "Malicious code in xenon-library-cors-ophiuchus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149648"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

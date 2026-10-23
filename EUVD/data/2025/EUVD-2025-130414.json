@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130414", "enisaUuid": "cf7d0245-4b25-30e2-89b0-aaaf9c213eee", "description": "Malicious code in actions-set-env-vars (npm)", "datePublished": "2025-07-30T19:37:58", "dateUpdated": "2025-07-30T19:37:58", "baseScore": 0.0, "aliases": ["MAL-2025-6691"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

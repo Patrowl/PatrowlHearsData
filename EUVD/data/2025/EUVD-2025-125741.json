@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125741", "enisaUuid": "d6f88cdc-ea4f-325a-bd4d-60548613216c", "description": "Malicious code in tronlinkpy (PyPI)", "datePublished": "2025-03-03T13:45:26", "dateUpdated": "2025-03-03T13:45:26", "baseScore": 0.0, "aliases": ["MAL-2025-1999"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

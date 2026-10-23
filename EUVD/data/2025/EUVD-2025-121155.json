@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121155", "enisaUuid": "df1420c5-97a2-3eec-8e9c-555fe12f68be", "description": "Malicious code in transform-sass-loader-polaris-relay (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148773"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

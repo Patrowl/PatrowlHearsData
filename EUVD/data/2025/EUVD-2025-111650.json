@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111650", "enisaUuid": "90411ca2-07ca-3dc6-b917-f75cfbd34670", "description": "Malicious code in lint-staged-pyxis-webdriver-manager-solis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144464"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

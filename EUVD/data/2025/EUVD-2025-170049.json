@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170049", "enisaUuid": "695fb54a-1491-3319-a0a3-fb0a964118d3", "description": "Malicious code in log-rendering-error (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25520"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

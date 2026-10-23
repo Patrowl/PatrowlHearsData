@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63294", "enisaUuid": "405145af-371d-3d62-a4b9-410794887880", "description": "Malicious code in linear_beaver_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-95260"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

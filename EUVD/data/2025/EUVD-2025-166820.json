@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166820", "enisaUuid": "19cc97d9-8b91-36ae-af3d-81eb6af981b2", "description": "Malicious code in hazel-redshift-60dx (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22302"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

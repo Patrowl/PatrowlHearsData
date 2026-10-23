@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111289", "enisaUuid": "69ea31d3-3a34-31b2-acdb-07091b6af247", "description": "Malicious code in meissa-pm2-middleware-socketio (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144826"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

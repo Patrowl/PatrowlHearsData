@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112508", "enisaUuid": "523ff9fb-ad4f-3be3-b2d7-32a8749963e6", "description": "Malicious code in ini-rigel-framework-helmet (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143605"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113789", "enisaUuid": "3412f83f-0a87-36e1-b4ab-b96d0a5283b2", "description": "Malicious code in event-proxima-webdriver-mocha-vortex (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142321"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111572", "enisaUuid": "753bc676-0402-319c-9ee6-439eef15ac35", "description": "Malicious code in loopback-bunyan-kinetic-neptune (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144543"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

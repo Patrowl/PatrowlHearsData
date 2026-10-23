@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111512", "enisaUuid": "a57b2184-c82f-3d41-83d4-24a6ab40dd10", "description": "Malicious code in lyra-backend-spectron-webdriver-prompts (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144603"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

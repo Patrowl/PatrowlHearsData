@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112230", "enisaUuid": "49dd54f1-11c7-352d-91f1-418ae35f63c0", "description": "Malicious code in javascript-nightmare-lint-staged-transform (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143883"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

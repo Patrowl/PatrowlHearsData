@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179737", "enisaUuid": "73edc9ec-6719-35b7-bb94-cd5bdc91e320", "description": "Malicious code in child-process-loglevel-elektra-eleventy (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186145"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

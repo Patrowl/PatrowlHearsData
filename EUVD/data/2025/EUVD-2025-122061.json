@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122061", "enisaUuid": "f696070d-647a-3199-bdf8-bb3aab1fb57c", "description": "Malicious code in sequelize-auth0-publish-dotenv (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147862"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

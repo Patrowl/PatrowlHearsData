@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-82264", "enisaUuid": "dd5aa9d7-4892-3374-8ee2-aa1cf35e1234", "description": "Malicious code in defensive_impala_replicate_automation (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-101272"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176575", "enisaUuid": "38954c6c-6759-3e30-a943-03f845bc6996", "description": "Malicious code in runtime-void-resolve-assert-public (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189300"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

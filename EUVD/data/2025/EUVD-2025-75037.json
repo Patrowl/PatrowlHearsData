@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75037", "enisaUuid": "9fdd8511-a609-3c83-a9cf-b6a27365b0a6", "description": "Malicious code in alert_cardinal-appteadev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-99343"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

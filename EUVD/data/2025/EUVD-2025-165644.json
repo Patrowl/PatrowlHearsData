@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165644", "enisaUuid": "8cb73063-7db6-384e-b59a-a57fa47a7bec", "description": "Malicious code in galaxy-callback-webdriver-mocha-neptunology (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21125"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

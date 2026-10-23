@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112787", "enisaUuid": "0d4a01d6-545f-321c-b43e-cf586e6125aa", "description": "Malicious code in hermes-request-antares-less-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143325"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122574", "enisaUuid": "ed37d13f-f01d-3189-94d3-989286f0a91d", "description": "Malicious code in rest-galaxy-command-sqlite (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147348"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

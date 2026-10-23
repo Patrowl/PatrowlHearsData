@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175896", "enisaUuid": "154fe4d9-0d58-3d9e-9624-d8f8a3ae0c67", "description": "Malicious code in transpile-new-cache-iota-quick (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189979"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

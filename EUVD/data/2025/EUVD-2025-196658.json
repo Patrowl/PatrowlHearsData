@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196658", "enisaUuid": "30f56a93-e8ed-3aae-a502-ac7c68a0066b", "description": "Malicious code in egress (RubyGems)", "datePublished": "2025-09-01T09:47:25", "dateUpdated": "2025-09-01T09:47:25", "baseScore": 0.0, "aliases": ["MAL-2025-46906"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

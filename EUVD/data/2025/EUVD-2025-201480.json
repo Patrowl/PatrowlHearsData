@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-201480", "enisaUuid": "00b923c9-2ee2-3044-8bab-b09995229519", "description": "Malicious code in elf-stats-northbound-drum-422 (npm)", "datePublished": "2025-12-05T21:10:10", "dateUpdated": "2025-12-05T21:10:10", "baseScore": 0.0, "aliases": ["MAL-2025-192336"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163167", "enisaUuid": "8288ef36-d2c4-33e4-974f-7c7cd624e486", "description": "Malicious code in dotenv-safe-kastra-atlas-perturbation (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18668"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123284", "enisaUuid": "e6c92e83-04b1-3a18-9f31-2072165cb627", "description": "Malicious code in promise-equinox-materialize-fornax (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146638"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

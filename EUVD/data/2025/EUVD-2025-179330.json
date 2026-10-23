@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179330", "enisaUuid": "4d5b0e4a-4d3e-3562-a96d-368bb2309d23", "description": "Malicious code in deneb-terser-webpack-plugin-lightyear-enceladus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186552"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

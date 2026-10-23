@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179183", "enisaUuid": "7d0da500-94a8-31ea-8362-fcefb95a135e", "description": "Malicious code in electron-builder-kaus-non-blocking-europa (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186699"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

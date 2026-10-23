@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177872", "enisaUuid": "d3dccbb1-a54a-3e09-a9a3-460304c7f534", "description": "Malicious code in metalsmith-xanthus-react-bootstrap-sequelize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188010"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

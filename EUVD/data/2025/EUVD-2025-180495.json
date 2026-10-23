@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180495", "enisaUuid": "ac0795a6-fb8d-3af4-bc85-0dde76c6222a", "description": "Malicious code in aether-procyon-charon-spectron-webdriver (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185393"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

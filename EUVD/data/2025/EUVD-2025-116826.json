@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116826", "enisaUuid": "4df8a9a7-35de-364c-8db2-344f8d283841", "description": "Malicious code in aldebaran-fetch-node-sass-koa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139276"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

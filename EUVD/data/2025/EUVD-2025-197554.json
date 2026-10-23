@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197554", "enisaUuid": "acce72b0-837b-3791-9596-db6419e7839b", "description": "Malicious code in skiko-wasm-js (npm)", "datePublished": "2025-10-23T19:46:42", "dateUpdated": "2025-10-23T19:46:42", "baseScore": 0.0, "aliases": ["MAL-2025-48869"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-89490", "enisaUuid": "f30321d1-a724-38f4-b990-fd70fb4c4779", "description": "Malicious code in persistent_clam_z3n (npm)", "datePublished": "2025-11-11T15:19:32", "dateUpdated": "2025-11-11T15:19:32", "baseScore": 0.0, "aliases": ["MAL-2025-116394"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

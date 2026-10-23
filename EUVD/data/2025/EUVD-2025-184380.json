@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184380", "enisaUuid": "5fac8d55-baf2-332f-b992-73e7f911bd0d", "description": "Malicious code in tchap-id-node (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34596"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

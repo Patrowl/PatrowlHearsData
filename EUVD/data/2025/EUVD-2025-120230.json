@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120230", "enisaUuid": "363cebd1-af93-3c43-8284-dd2d25e21826", "description": "Malicious code in xerxes-chromedriver-query-sedna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149701"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

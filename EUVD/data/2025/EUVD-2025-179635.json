@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179635", "enisaUuid": "c4e1dae2-f645-3279-b044-4ed82c5a4d8d", "description": "Malicious code in commitlint-chalk-neptune-auriga (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186247"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

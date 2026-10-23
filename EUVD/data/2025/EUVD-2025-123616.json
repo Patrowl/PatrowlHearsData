@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123616", "enisaUuid": "e13818ec-cb9d-3295-a23a-268382d84743", "description": "Malicious code in pm2-pegasus-leda-xerxes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146305"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

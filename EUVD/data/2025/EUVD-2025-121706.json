@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121706", "enisaUuid": "f8a32fa0-2a14-3c77-881b-1235fb87c0bd", "description": "Malicious code in sqlite-ariel-init-lacerta (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148219"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

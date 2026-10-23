@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112704", "enisaUuid": "b8c9f9b4-5976-3ee5-a568-10d2a75eb8ec", "description": "Malicious code in hugo-uninstall-event-global (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143408"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113299", "enisaUuid": "9212f570-a8ff-307b-a54d-4b345024e35b", "description": "Malicious code in ganymede-nebula-playwright-nodemon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142813"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

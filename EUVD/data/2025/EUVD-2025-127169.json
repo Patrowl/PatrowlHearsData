@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127169", "enisaUuid": "10f82a3b-cb4c-3306-8bae-653e2334d109", "description": "Malicious code in zocslib (npm)", "datePublished": "2025-04-23T16:06:08", "dateUpdated": "2025-04-23T16:06:08", "baseScore": 0.0, "aliases": ["MAL-2025-3428"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

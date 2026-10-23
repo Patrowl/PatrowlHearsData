@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115282", "enisaUuid": "ba46dd64-1af3-3376-bb2a-c1e81fff8411", "description": "Malicious code in cluster-geckodriver-child-process-sails (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140826"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

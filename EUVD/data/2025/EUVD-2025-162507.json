@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162507", "enisaUuid": "38f2447b-212f-324c-8ebc-6cc2d11f13fd", "description": "Malicious code in datastores_best_practices (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18008"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

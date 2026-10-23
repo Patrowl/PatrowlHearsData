@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164405", "enisaUuid": "21843847-f834-3a28-8f8b-69207a6bbd29", "description": "Malicious code in etcdrepl (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19885"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

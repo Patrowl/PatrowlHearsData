@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121259", "enisaUuid": "2c2ef6df-6018-3444-86b8-b06ef6cff63d", "description": "Malicious code in titan-adonis-nestjs-fork (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148669"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

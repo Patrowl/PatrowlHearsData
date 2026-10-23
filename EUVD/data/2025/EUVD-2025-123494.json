@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123494", "enisaUuid": "f0145762-db15-31bf-bdac-b83db0cfd1d1", "description": "Malicious code in postcss-yaml-lynx-build (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146427"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

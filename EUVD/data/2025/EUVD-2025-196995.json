@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196995", "enisaUuid": "c70b1f12-f121-3849-926c-64b3451eb2a8", "description": "Malicious code in circuit-runtime-presenter (npm)", "datePublished": "2025-09-19T08:05:51", "dateUpdated": "2025-09-19T08:05:51", "baseScore": 0.0, "aliases": ["MAL-2025-47461"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

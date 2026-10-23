@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176223", "enisaUuid": "6b5b3ec6-9255-385e-8a91-bb049a996a04", "description": "Malicious code in standard-thuban-commitlint-config-angular-got (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189652"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

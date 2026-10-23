@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77368", "enisaUuid": "0175c052-f55d-3c3f-8f9b-459b6bd92ff1", "description": "Malicious code in celery-notthedevs (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-100301"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

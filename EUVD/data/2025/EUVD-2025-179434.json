@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179434", "enisaUuid": "4e2dd933-7fd6-35ce-82ae-2dad080a20ad", "description": "Malicious code in cypress-geckodriver-vulcan-metalsmith (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186448"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114123", "enisaUuid": "7d16ffbf-4278-367d-ac03-63af87d7a88b", "description": "Malicious code in element-ui-winston-html-webpack-plugin-npm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141987"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

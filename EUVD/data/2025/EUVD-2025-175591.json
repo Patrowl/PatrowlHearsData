@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175591", "enisaUuid": "03744c76-a4f8-3b4e-955c-760ebcea77d5", "description": "Malicious code in webdriverio-vuetify-antares-wezen (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190285"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

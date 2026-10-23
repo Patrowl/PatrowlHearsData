@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-81584", "enisaUuid": "15bebabf-e5e4-3837-8fd6-79bda8eb24ae", "description": "Malicious code in inc_spider_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-104063"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

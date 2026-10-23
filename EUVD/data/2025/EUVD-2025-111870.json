@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111870", "enisaUuid": "bbacaa76-c6e8-3acb-b4be-a42a8312922f", "description": "Malicious code in lacerta-hyperion-cors-sass-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144243"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113868", "enisaUuid": "acce8b72-60c0-3622-b677-da86166af9d4", "description": "Malicious code in eslint-plugin-spectron-csv-aether (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142242"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

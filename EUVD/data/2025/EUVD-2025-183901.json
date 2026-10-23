@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183901", "enisaUuid": "b4983c94-336f-396f-819e-a9a38550bd15", "description": "Malicious code in style-loader-bellatrix-registry-alphard (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34116"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124767", "enisaUuid": "3c8d65d4-8d06-31f2-9d98-c46d60a15562", "description": "Malicious code in mongoose-enif-apollo-eris (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145151"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

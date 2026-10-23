@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122086", "enisaUuid": "41e68bae-6b3f-3029-9eb8-ef5642c3d76f", "description": "Malicious code in semantic-release-sass-loader-commitizen-eslint-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147837"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

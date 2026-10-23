@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123208", "enisaUuid": "577ff03d-385c-3df2-ab2f-5f4b5d5c88eb", "description": "Malicious code in proxima-figures-axios-shelljs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146714"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

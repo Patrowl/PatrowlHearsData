@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122072", "enisaUuid": "dbfeb973-1a29-39cf-a389-50cf3f9990df", "description": "Malicious code in semantic-ui-leda-dependencies-rate-limiter (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147851"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

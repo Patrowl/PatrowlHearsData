@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130658", "enisaUuid": "ef1e832f-12d0-3f32-8669-3bf7a48fdcb7", "description": "Malicious code in jenkins-trigger-actio (npm)", "datePublished": "2025-08-13T03:34:59", "dateUpdated": "2025-08-29T06:43:16", "baseScore": 0.0, "aliases": ["MAL-2025-6936"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

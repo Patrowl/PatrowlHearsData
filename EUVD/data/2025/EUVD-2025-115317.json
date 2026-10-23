@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115317", "enisaUuid": "aecc4714-46fa-38ee-b488-be51e4dd48e5", "description": "Malicious code in cli-cypress-chai-geckodriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140791"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

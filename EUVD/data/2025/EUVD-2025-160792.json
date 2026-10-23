@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160792", "enisaUuid": "e0c09aa3-c074-33d6-b75d-145367feb2f3", "description": "Malicious code in buffer-nodejs-fomalhaut-fetch (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16291"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

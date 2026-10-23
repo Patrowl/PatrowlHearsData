@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125286", "enisaUuid": "04c08079-aa47-3a54-b945-adad8b48106d", "description": "Malicious code in com.adobe.cq.core.wcm.components.content (npm)", "datePublished": "2025-02-23T05:16:15", "dateUpdated": "2025-02-23T05:16:15", "baseScore": 0.0, "aliases": ["MAL-2025-1542"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

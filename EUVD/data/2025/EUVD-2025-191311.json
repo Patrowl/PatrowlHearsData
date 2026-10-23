@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191311", "enisaUuid": "ebae62ba-d6b8-3d86-960f-5f23524a200b", "description": "Malicious code in cloud-native-ai-pipeline (npm)", "datePublished": "2025-08-28T07:24:12", "dateUpdated": "2025-08-28T07:24:12", "baseScore": 0.0, "aliases": ["MAL-2025-41542"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

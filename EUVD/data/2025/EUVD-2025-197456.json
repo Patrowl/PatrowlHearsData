@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197456", "enisaUuid": "4e3fc5a2-6622-3479-a06b-da6996fd3f09", "description": "Malicious code in lightspark-crypto (npm)", "datePublished": "2025-10-23T16:21:47", "dateUpdated": "2025-10-23T16:21:47", "baseScore": 0.0, "aliases": ["MAL-2025-48736"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

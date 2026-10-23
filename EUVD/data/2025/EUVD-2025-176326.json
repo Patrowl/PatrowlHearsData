@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176326", "enisaUuid": "3c29a1d0-a62f-3d63-a530-89ca0cf3401b", "description": "Malicious code in small-validate-psi-import-stack (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189549"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

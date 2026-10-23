@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176422", "enisaUuid": "e00f5395-5007-3c66-aad6-454ca3fe9f0f", "description": "Malicious code in serialize-minify-decompress-mu-cron (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189453"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

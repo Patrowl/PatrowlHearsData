@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113274", "enisaUuid": "e33a8871-ddb4-343a-ab29-98e704eba0af", "description": "Malicious code in gatsby-css-minimizer-webpack-plugin-kinetic-aldebaran (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142838"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

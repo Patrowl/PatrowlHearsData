@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177051", "enisaUuid": "c04d95de-3080-30da-83fa-1d3f6d089e0a", "description": "Malicious code in private-cluster-draco-mysql (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188824"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

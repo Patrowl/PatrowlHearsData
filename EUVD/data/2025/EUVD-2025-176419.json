@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176419", "enisaUuid": "080fe622-d5bc-3b7e-8dac-c70a7ab0497c", "description": "Malicious code in serialize-stack-omega-node-authorize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189456"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121607", "enisaUuid": "910ff962-fd5c-383b-9de7-94d667be747b", "description": "Malicious code in stream-graphql-levels-sedna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148318"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

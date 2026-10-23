@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163828", "enisaUuid": "dec92a89-ec13-3cff-b9f9-45fd812debbd", "description": "Malicious code in elasticsearch-collections-client (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19307"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

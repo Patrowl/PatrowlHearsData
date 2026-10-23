@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113592", "enisaUuid": "763e8b6b-2e8a-36e3-baea-8377b15903d4", "description": "Malicious code in firebase-webpack-semantic-release-pegasus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142519"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196406", "enisaUuid": "98605a95-adad-373c-bb82-60ec2563176d", "description": "Malicious code in writable-eslint-config-proxima-vulcan (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46654"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

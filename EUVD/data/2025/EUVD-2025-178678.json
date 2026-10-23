@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178678", "enisaUuid": "a3bca8b2-0d00-3a0d-9da8-e58c690264b1", "description": "Malicious code in graphql-elektra-triton-transform (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187204"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

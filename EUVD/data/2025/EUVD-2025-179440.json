@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179440", "enisaUuid": "44c8123e-c7ab-3559-8c7c-a072b11a6009", "description": "Malicious code in cygnus-tool-update-xenos (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186442"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

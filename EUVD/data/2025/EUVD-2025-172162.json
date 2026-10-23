@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172162", "enisaUuid": "7faac15c-cb7a-3c88-aa35-77a06e8c519c", "description": "Malicious code in node-migemo (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27633"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

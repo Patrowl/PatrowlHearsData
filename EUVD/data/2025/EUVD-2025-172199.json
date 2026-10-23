@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172199", "enisaUuid": "b0e41205-488b-36c6-ba7d-4d7647e6340a", "description": "Malicious code in node_api_auth (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27670"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

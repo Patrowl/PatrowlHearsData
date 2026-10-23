@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188756", "enisaUuid": "57342d2b-aab2-307c-ad3c-27d53bb65c47", "description": "Malicious code in web-driver-wrapper (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38970"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178198", "enisaUuid": "54f04538-8f4c-3749-847d-a625fa16b96f", "description": "Malicious code in key-orchestrate-promise-mu-bad (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187684"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

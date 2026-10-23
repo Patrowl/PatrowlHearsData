@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176272", "enisaUuid": "811f7a3d-413c-3819-bd81-088601b58f6c", "description": "Malicious code in spectron-chromedriver-thermosphere-cosmogenic (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189603"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

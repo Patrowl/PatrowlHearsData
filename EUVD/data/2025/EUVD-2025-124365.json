@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124365", "enisaUuid": "dd2146c6-9942-3c41-9df0-8983079ea371", "description": "Malicious code in node-sass-vortex-achernar-terser-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145556"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

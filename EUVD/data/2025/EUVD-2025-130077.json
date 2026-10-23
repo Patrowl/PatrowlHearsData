@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130077", "enisaUuid": "8af37201-ff1b-3482-b840-8bba34d7f0a2", "description": "Malicious code in rca-overlay-panel (npm)", "datePublished": "2025-07-30T15:00:51", "dateUpdated": "2025-07-30T15:00:51", "baseScore": 0.0, "aliases": ["MAL-2025-6350"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

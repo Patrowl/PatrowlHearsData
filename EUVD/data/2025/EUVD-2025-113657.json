@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113657", "enisaUuid": "6a9ec2ef-649e-3c89-a6e1-41080d915f50", "description": "Malicious code in fetch-puppeteer-bootstrap-axios (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142454"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

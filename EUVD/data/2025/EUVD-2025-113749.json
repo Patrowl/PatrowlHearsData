@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113749", "enisaUuid": "4ca89372-ee34-3d46-ab7e-a4604d677871", "description": "Malicious code in exec-scorpius-toml-transform (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142361"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

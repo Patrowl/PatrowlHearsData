@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122486", "enisaUuid": "28680063-8f77-3406-968f-5af6f90fc594", "description": "Malicious code in rigel-module-ariel-auth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147436"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120985", "enisaUuid": "7818ded8-9ae4-33e4-938f-9f331b97be20", "description": "Malicious code in umbriel-install-cygnus-markdown (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148943"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

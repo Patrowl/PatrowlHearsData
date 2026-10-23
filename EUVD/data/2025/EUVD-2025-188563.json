@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188563", "enisaUuid": "47a81650-6db2-3eb2-a5ea-37d1e8c6bd83", "description": "Malicious code in warn-cache-signal-validate-data (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38777"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

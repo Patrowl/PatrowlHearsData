@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122877", "enisaUuid": "fb9cc790-ebac-3180-9130-a933a9db5f9b", "description": "Malicious code in rate-limiter-ophiuchus-cluster-child-process (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147045"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-54929", "enisaUuid": "1dd9356b-0ae9-3505-b32a-3f472cdbaaec", "description": "Malicious code in dependent-indigo-platypus (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-67720"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

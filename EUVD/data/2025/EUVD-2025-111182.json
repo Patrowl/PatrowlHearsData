@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111182", "enisaUuid": "1b87a236-9d56-3965-afad-5c97ccda5208", "description": "Malicious code in meteor-sagitta-gravity-webpack (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144933"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

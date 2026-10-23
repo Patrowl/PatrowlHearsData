@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176302", "enisaUuid": "29a2f672-4dc1-372b-aa44-fb5547c0d72d", "description": "Malicious code in socket-table-grid-sigma-deserialize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189573"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

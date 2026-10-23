@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124701", "enisaUuid": "f57d97be-ff66-39c2-a0d6-ed8e823477a7", "description": "Malicious code in mutation-bunyan-materialize-style-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145217"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

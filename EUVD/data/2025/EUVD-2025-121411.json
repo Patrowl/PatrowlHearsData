@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121411", "enisaUuid": "1abb0c72-860e-34f9-9e8a-d47e54e17bad", "description": "Malicious code in terser-eslint-apollo-hercules (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148517"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168920", "enisaUuid": "326f3104-2a99-3568-be25-a64ae7b6dd9a", "description": "Malicious code in kentico-kontent-angular-http-service (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24402"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

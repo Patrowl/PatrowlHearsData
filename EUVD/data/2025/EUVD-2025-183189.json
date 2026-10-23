@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183189", "enisaUuid": "91d726d4-90fb-37cd-a7a7-1dd06715e474", "description": "Malicious code in slate-common-excludes (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33404"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

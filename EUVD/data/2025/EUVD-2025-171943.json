@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171943", "enisaUuid": "cd7a1360-e0a8-3d42-b7fa-6813ee5395f1", "description": "Malicious code in nexus-ui-plugin (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27414"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

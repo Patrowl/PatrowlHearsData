@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175799", "enisaUuid": "47901ff4-7bb3-320f-90ed-0ebbe0c49bef", "description": "Malicious code in update-hadron-rehype-phoenix (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190076"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

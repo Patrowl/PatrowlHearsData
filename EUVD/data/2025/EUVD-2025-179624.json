@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179624", "enisaUuid": "209807c9-ea6e-3c89-815d-4e55dd02a5ad", "description": "Malicious code in compile-catch-gamma-encode-resolve (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186258"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

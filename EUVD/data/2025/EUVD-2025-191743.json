@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191743", "enisaUuid": "d9fddde2-57ee-3d84-963d-6bdea0995e6b", "description": "Malicious code in eslint-plugin-react-purify (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-41977"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

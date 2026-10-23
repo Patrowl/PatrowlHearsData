@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121093", "enisaUuid": "3649ed1d-6a93-3262-92a2-aecd0eb1702b", "description": "Malicious code in typeorm-antares-geckodriver-auth0 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148835"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

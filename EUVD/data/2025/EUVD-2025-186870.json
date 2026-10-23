@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-186870", "enisaUuid": "ec223726-5d31-39f9-b34c-ffb0e77af08d", "description": "Malicious code in toredis (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37080"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

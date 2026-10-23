@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171817", "enisaUuid": "3c8c8dee-c6bb-387c-93cc-60c7dcdf401d", "description": "Malicious code in neptune-markdown-pdf-ora-dotenv-safe (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27288"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

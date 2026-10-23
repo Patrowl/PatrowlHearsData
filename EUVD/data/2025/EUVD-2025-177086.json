@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177086", "enisaUuid": "8b78bd64-bae8-35b6-9ac4-939cd5dfd82c", "description": "Malicious code in postgres-on-sqlite-archaeogenetics (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188789"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

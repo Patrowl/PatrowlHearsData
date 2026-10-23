@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181986", "enisaUuid": "f3f147d6-76b9-3e4c-9e08-d97eae274920", "description": "Malicious code in rho-private-string-key-mu (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32201"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

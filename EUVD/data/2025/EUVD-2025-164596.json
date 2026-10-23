@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164596", "enisaUuid": "5224af33-61c4-30fc-a4b3-13b86478b4a8", "description": "Malicious code in express-juggernaut (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20076"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

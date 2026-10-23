@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123222", "enisaUuid": "4973193b-24a9-32bf-9847-71e5ed93bb8a", "description": "Malicious code in protractor-semantic-ui-cli-pyxis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146700"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

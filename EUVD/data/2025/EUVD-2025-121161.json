@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121161", "enisaUuid": "dad0ec21-86fa-3a64-bd00-5b2a402b5689", "description": "Malicious code in transform-lyra-run-script-cosmiconfig (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148767"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

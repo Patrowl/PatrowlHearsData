@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116678", "enisaUuid": "a07e02a6-d0c3-3d97-b892-c308475e4830", "description": "Malicious code in antares-nebula-webdriver-mocha-gravity (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139424"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

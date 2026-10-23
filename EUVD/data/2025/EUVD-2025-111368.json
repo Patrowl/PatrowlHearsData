@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111368", "enisaUuid": "4b84f3a1-c5c2-3597-92e8-5f9297dce6c3", "description": "Malicious code in materialize-meteor-frontend-centaurus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144747"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

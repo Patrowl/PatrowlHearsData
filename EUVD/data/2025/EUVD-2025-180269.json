@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180269", "enisaUuid": "5f69b982-563e-3ea9-bf7d-90e42d117f69", "description": "Malicious code in async-graviton-webdriverio-quantum (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185619"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

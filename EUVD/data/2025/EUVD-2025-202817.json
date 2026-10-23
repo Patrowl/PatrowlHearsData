@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-202817", "enisaUuid": "89f96fd1-a186-352b-b0c6-59bdcd4f1caa", "description": "Malicious code in elf-stats-cranberry-saddlebag-402 (npm)", "datePublished": "2025-12-11T19:46:09", "dateUpdated": "2025-12-11T19:46:09", "baseScore": 0.0, "aliases": ["MAL-2025-192492"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

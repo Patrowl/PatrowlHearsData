@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111241", "enisaUuid": "1c21cebb-0027-35b1-98af-4ac551f3983b", "description": "Malicious code in metalsmith-dagda-ganymede-semantic-release (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144874"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

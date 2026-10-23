@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121935", "enisaUuid": "739700db-44fa-35fd-b7db-fe8b0d032ccd", "description": "Malicious code in slides-module-node-sass-venus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147990"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177159", "enisaUuid": "dbd405df-23ac-3758-86f3-7f0c56687487", "description": "Malicious code in pipe-cloud-try-assert-grid (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188716"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

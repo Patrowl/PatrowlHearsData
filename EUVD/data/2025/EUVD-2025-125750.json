@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125750", "enisaUuid": "f32677ac-7734-31fc-b1e0-ea4b26a6d839", "description": "Malicious code in usvr-agent (PyPI)", "datePublished": "2025-03-03T13:45:33", "dateUpdated": "2025-03-03T13:45:33", "baseScore": 0.0, "aliases": ["MAL-2025-2008"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

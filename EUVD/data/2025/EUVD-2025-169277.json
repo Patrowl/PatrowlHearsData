@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169277", "enisaUuid": "92cc9ad0-02b2-3fe1-acbf-de505d914001", "description": "Malicious code in kopul-cli (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24759"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

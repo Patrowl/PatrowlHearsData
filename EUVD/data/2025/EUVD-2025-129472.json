@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129472", "enisaUuid": "48cf813e-b800-34eb-9fb4-1d386881844a", "description": "Malicious code in formatjs-internal-intl (npm)", "datePublished": "2025-07-09T16:01:10", "dateUpdated": "2025-07-09T16:01:10", "baseScore": 0.0, "aliases": ["MAL-2025-5744"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

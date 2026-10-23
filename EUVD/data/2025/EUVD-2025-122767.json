@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122767", "enisaUuid": "1c1fe626-0baa-358d-b5b2-25aa71b2ec2f", "description": "Malicious code in regulus-playwright-module-changelog (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147155"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

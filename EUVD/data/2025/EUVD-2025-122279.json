@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122279", "enisaUuid": "4e6ee00b-f8a2-3b2e-b305-ed439b0118bb", "description": "Malicious code in sails-delphinus-build-react-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147643"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172164", "enisaUuid": "03c58cfd-8f6a-38c8-80e1-dd938c8c796f", "description": "Malicious code in node-novacredit (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27635"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

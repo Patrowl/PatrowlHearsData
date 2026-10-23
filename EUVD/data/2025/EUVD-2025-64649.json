@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-64649", "enisaUuid": "4c78e448-3adf-34e3-90de-d4801316b1db", "description": "Malicious code in damp_haddock_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-93905"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

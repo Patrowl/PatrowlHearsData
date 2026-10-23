@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122685", "enisaUuid": "e8385fff-554b-356b-be3c-adfbbadee6d7", "description": "Malicious code in release-it-toml-transport-carpo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147237"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124654", "enisaUuid": "0d9aa36a-cdce-3270-b3be-c40db1af2138", "description": "Malicious code in mysql-superagent-less-loader-vuetify (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145264"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

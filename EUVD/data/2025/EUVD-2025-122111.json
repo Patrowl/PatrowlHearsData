@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122111", "enisaUuid": "fb0f9a07-3b79-3c84-8b02-5730e13a5d00", "description": "Malicious code in selenium-request-rollup-plugin-dagda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147812"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

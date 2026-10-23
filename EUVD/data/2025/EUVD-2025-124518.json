@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124518", "enisaUuid": "e361fd2d-0885-3dc3-a31d-eb704deb8896", "description": "Malicious code in nestjs-rate-limiter-css-loader-docusaurus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145402"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

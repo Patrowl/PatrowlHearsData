@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172346", "enisaUuid": "4656ada3-8fc0-3dbd-a89e-4cd61706c9ab", "description": "Malicious code in now-rate-limit (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27817"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

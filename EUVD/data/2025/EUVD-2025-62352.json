@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-62352", "enisaUuid": "961fbd2a-5831-3a6d-995c-335a34f86309", "description": "Malicious code in ready_haddock_z3n (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-96202"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

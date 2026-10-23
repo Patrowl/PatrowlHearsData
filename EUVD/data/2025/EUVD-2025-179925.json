@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179925", "enisaUuid": "80dc762b-84f6-37fc-b8ef-71d858cbf8b5", "description": "Malicious code in byte-nu-monitor-module-static (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185957"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

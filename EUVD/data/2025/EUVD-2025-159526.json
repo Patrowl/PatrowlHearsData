@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159526", "enisaUuid": "47bd00f1-50da-32f8-a535-b8cb58ec1d0c", "description": "Malicious code in atomised-service (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15025"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

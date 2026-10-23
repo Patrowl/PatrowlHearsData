@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115110", "enisaUuid": "79ef2e46-af5a-3d64-8dd0-602edc298796", "description": "Malicious code in commitlint-zenobia-run-script-superagent (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140998"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

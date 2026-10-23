@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124432", "enisaUuid": "cb7be9a4-80a2-301e-a6c0-73028b1ff9da", "description": "Malicious code in nightwatch-terser-webpack-plugin-auth-callisto (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145489"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

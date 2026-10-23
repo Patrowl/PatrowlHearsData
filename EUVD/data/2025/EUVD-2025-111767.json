@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111767", "enisaUuid": "d03e2161-68e5-3f99-9c63-c280b59c1f65", "description": "Malicious code in less-socketio-loglevel-carpo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144346"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

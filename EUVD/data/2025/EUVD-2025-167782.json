@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167782", "enisaUuid": "5bfcf979-fb2b-3e54-80cd-4e885fd081e3", "description": "Malicious code in integer-stack-uglify-decrypt-dog (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23264"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

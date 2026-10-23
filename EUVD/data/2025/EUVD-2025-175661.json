@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175661", "enisaUuid": "613a38a9-80fe-35c4-bb62-2d3ce73b2969", "description": "Malicious code in warn-shell-async-virtualize-mu (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190215"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

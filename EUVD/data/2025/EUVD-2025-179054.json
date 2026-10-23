@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179054", "enisaUuid": "247beda6-1e36-32fb-a056-3a7b1e626339", "description": "Malicious code in error-signal-minify-zero-index (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186828"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

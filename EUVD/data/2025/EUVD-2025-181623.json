@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181623", "enisaUuid": "001f2dc0-6c0a-39e9-9076-17a8dcda06e9", "description": "Malicious code in react-pdd-calendar-expand (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31838"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

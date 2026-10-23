@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176022", "enisaUuid": "3e82e83e-9a09-3711-8f9a-4fff9461d7db", "description": "Malicious code in telesto-neptune-tethys-shelljs (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189853"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

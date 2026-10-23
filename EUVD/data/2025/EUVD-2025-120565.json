@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120565", "enisaUuid": "9f48fdfa-78f6-3f68-a7e9-801bf9385540", "description": "Malicious code in webdriverio-bellatrix-capella-slides (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149364"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

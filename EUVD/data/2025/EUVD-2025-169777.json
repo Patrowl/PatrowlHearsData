@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169777", "enisaUuid": "85b65003-90fa-3f31-8fa3-af8e3b893245", "description": "Malicious code in libsignon (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25248"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

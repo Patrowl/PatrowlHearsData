@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113445", "enisaUuid": "ec5d0bd9-0872-312a-b2e6-e65f75db5197", "description": "Malicious code in foundation-backend-enif-async (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142667"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

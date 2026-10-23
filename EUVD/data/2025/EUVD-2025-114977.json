@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114977", "enisaUuid": "4c2be123-ab8b-37fc-971a-0d65376f1c06", "description": "Malicious code in cors-registry-cross-env-alphard (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141132"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

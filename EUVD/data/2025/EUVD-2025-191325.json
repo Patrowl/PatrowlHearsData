@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191325", "enisaUuid": "0c3f8e91-535d-35c3-a051-ec3e999c5015", "description": "Malicious code in ethersjs3-wallet (npm)", "datePublished": "2025-08-28T07:27:57", "dateUpdated": "2025-08-28T07:27:57", "baseScore": 0.0, "aliases": ["MAL-2025-41557"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193677", "enisaUuid": "b58d0b4e-10ef-3155-8b02-69c350714977", "description": "Malicious code in dactyl-nightwatch-electron-apex (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43924"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

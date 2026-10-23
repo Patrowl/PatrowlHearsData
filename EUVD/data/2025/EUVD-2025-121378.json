@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121378", "enisaUuid": "e85a4a7a-0127-3729-83d9-267554d448fe", "description": "Malicious code in terser-webpack-plugin-farout-cosmos-phoebe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148550"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

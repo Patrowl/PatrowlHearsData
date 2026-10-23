@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170440", "enisaUuid": "fba02c03-195e-3d4a-88d3-68e1be322881", "description": "Malicious code in mapbox-streets-source (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25911"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194463", "enisaUuid": "92ede101-b1e5-3b06-9c15-04e92c9b7cee", "description": "Malicious code in iota-terser-webpack-plugin-hermes-postcss (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44710"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

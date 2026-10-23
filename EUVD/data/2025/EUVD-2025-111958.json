@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111958", "enisaUuid": "6019c4c0-f3bc-364f-87ea-02eb1fcfb0ce", "description": "Malicious code in kaus-socketio-blaze-betelgeuse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144155"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

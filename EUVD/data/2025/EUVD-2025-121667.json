@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121667", "enisaUuid": "76dd06e6-252f-3aac-9a5b-316d6164bb36", "description": "Malicious code in standard-rimraf-phoebe-local (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148258"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

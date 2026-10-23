@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171444", "enisaUuid": "fdc0d2f2-f19a-347e-b235-8b473d34f9de", "description": "Malicious code in mutation-uninstall-node-config-version (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26915"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75205", "enisaUuid": "b62b4b09-b90e-3fbc-854f-0ff02258f8e2", "description": "Malicious code in working_cheetah-strongdev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-110992"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

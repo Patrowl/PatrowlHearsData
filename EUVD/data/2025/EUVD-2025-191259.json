@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191259", "enisaUuid": "94048c78-6569-3eec-84b0-9d589b7608c1", "description": "Malicious code in @twork-data-services/currency-config (npm)", "datePublished": "2025-08-28T07:16:26", "dateUpdated": "2025-08-28T07:16:26", "baseScore": 0.0, "aliases": ["MAL-2025-41490"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115128", "enisaUuid": "674ea1b0-1a95-340a-867f-cebf204bd0be", "description": "Malicious code in commitlint-equinox-antares-andromeda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140980"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

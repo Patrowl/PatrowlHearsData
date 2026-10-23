@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193299", "enisaUuid": "a7040cf2-0e5c-387f-ad13-c1d3a44d42b0", "description": "Malicious code in auth0-draco-quantumfoam-galaxy (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43546"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

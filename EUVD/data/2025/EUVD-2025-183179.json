@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183179", "enisaUuid": "3867e81a-a868-30d1-bc75-8ad31a77953c", "description": "Malicious code in skynet-api-v2 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33394"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

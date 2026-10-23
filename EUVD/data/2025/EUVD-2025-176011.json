@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176011", "enisaUuid": "54ed1376-2ac0-33ad-b208-9d34a85ae228", "description": "Malicious code in terser-antares-markdownlint-telesto (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189864"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

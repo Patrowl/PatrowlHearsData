@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171673", "enisaUuid": "02f92634-b3e2-3c3a-b654-a4fa7c9bf166", "description": "Malicious code in nconf-spawn-mocha-selenium (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27144"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

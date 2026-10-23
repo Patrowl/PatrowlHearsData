@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115653", "enisaUuid": "520cf9ae-556d-3e62-b7a2-72bc0206d135", "description": "Malicious code in carpo-tool-query-commitizen (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140454"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

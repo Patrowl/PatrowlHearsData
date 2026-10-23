@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114661", "enisaUuid": "704aaf5e-d5d4-3f42-9c18-13da2e21a4ed", "description": "Malicious code in dactyl-native-superagent-nextjs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141448"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

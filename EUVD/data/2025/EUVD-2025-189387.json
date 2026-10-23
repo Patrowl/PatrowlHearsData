@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189387", "enisaUuid": "b56ab804-11c2-330c-8c02-6b77908b57ae", "description": "Malicious code in xdh-go (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39601"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

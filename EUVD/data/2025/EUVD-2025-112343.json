@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112343", "enisaUuid": "4f5abd24-bcb9-3b63-b44f-9e613522fcf0", "description": "Malicious code in jabbah-blitz-oauth-publish (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143770"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

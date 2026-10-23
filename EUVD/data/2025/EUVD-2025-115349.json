@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115349", "enisaUuid": "da6608cb-a659-355b-a1ae-54bf72ac3617", "description": "Malicious code in child-process-uninstall-mui-dactyl (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140758"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

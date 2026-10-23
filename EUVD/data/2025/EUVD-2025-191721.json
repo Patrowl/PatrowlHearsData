@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191721", "enisaUuid": "b167e1b3-f8d1-32f1-95db-25b5d43bf9cb", "description": "Malicious code in com.unity.ai.inference (npm)", "datePublished": "2025-08-28T14:50:51", "dateUpdated": "2025-09-26T11:06:44", "baseScore": 0.0, "aliases": ["MAL-2025-41955"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184131", "enisaUuid": "f8230d67-9f21-37f5-9c92-22ff4199ff65", "description": "Malicious code in syscpar (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34347"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

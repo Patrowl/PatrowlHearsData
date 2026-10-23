@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121219", "enisaUuid": "da43d327-6fcc-3020-8ec4-08c219cb7623", "description": "Malicious code in toml-figures-got-cygnus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148709"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

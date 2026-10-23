@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191483", "enisaUuid": "223d4b6b-6eef-35f5-9273-aca1fae562da", "description": "Malicious code in peloton-clients (PyPI)", "datePublished": "2025-08-28T07:11:30", "dateUpdated": "2025-08-28T07:11:30", "baseScore": 0.0, "aliases": ["MAL-2025-41716"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

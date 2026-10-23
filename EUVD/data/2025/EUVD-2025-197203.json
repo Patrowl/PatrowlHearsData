@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197203", "enisaUuid": "fbb85b9e-4648-35d2-bbdd-38b7fcf7a6a2", "description": "Malicious code in synthetics-sdk-broken-links (npm)", "datePublished": "2025-09-26T09:44:49", "dateUpdated": "2025-09-26T09:44:49", "baseScore": 0.0, "aliases": ["MAL-2025-47730"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

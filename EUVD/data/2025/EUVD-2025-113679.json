@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113679", "enisaUuid": "05456a0d-3832-3be2-a445-03c0a7b6d449", "description": "Malicious code in fetch-await-epimetheus-pegasus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142432"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

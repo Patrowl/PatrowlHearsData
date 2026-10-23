@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121406", "enisaUuid": "6d3d66aa-5f26-33df-8943-f7e7461980ea", "description": "Malicious code in terser-ini-sadr-nebula (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148522"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122553", "enisaUuid": "4d028108-bdba-3ffb-a455-cce8ef43d206", "description": "Malicious code in rest-ursa-chalk-rimraf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147369"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

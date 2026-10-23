@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193306", "enisaUuid": "97c02d57-3024-3daa-9da2-490501b8575a", "description": "Malicious code in axios-npm-cosmiconfig-io (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43553"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115616", "enisaUuid": "5a0492a6-eaea-3217-9ef1-eb39602a87b4", "description": "Malicious code in castor-ophiuchus-socketio-puppeteer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140491"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170325", "enisaUuid": "7f203be3-ef96-397e-a1ca-de0e054e66f0", "description": "Malicious code in mailslurp (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25796"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

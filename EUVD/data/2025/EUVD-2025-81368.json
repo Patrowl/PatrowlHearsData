@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-81368", "enisaUuid": "aa72c3ad-80a4-3f5f-9847-1efce0392228", "description": "Malicious code in liquid_rat_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-105205"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

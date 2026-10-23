@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123279", "enisaUuid": "07d2b83f-7657-3e71-b158-4705f8c2560c", "description": "Malicious code in promise-markdown-zephyr-gacrux (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146643"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

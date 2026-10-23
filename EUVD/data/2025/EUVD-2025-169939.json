@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169939", "enisaUuid": "d49d9939-9c8f-33b8-a896-4d9f559cf4b6", "description": "Malicious code in lint-staged-install-bellatrix-geodynamo (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25410"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

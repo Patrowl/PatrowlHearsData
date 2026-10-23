@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159729", "enisaUuid": "9626b5ea-4a8d-33d5-bb19-edfbb697d6f7", "description": "Malicious code in aws-pdk (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15228"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

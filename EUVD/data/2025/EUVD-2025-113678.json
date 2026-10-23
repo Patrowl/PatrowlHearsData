@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113678", "enisaUuid": "7bccaa99-ec7b-3798-ac54-2436743dc6cb", "description": "Malicious code in fetch-bellatrix-celeste-jwt (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142433"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

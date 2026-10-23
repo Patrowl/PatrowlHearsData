@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120798", "enisaUuid": "01f9b5ef-623a-3cf4-98df-30cedc19334a", "description": "Malicious code in version-bootstrap-query-meissa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149131"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

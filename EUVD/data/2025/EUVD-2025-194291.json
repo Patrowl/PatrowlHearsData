@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194291", "enisaUuid": "517e7610-1e6a-30fd-8b2a-8e7b109b0163", "description": "Malicious code in handle-pattern-east (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44538"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

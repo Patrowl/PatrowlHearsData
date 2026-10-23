@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115388", "enisaUuid": "61a64cab-44bd-399d-ba0d-727a114b6576", "description": "Malicious code in charon-configstore-polaris-dependencies (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140719"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-51410", "enisaUuid": "dc630e61-96b6-33f2-bb56-bcc44b62e7f4", "description": "Malicious code in unchanged-amaranth-alpaca (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-71239"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113768", "enisaUuid": "7c883c6b-5c1a-3b82-a5c7-abb97aa7de88", "description": "Malicious code in exec-gravity-async-andromeda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142342"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

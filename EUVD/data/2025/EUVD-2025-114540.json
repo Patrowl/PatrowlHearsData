@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114540", "enisaUuid": "a3241e76-bf56-339d-8fe8-d503de2862fa", "description": "Malicious code in dependencies-hugo-phenomic-node-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141569"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

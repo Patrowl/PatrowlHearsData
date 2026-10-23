@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122312", "enisaUuid": "6ea8d5e1-617b-3721-9648-33b8d2548b17", "description": "Malicious code in sagitta-postcss-uninstall-delphinus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147610"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125619", "enisaUuid": "8fd41b23-363a-385b-9bda-0bb521eeb77d", "description": "Malicious code in linkedin-payment (npm)", "datePublished": "2025-03-03T13:31:12", "dateUpdated": "2025-03-03T13:31:12", "baseScore": 0.0, "aliases": ["MAL-2025-1877"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

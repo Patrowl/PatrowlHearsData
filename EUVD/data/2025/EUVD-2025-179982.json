@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179982", "enisaUuid": "e3b619d5-4e9d-3a2b-9b68-ceb39b8c7984", "description": "Malicious code in boson-build-tachyon-solis (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185900"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

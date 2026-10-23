@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115789", "enisaUuid": "c0d15c3e-e8fc-3d81-93f7-b354f1e9aca9", "description": "Malicious code in callback-shelljs-antares-pavo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140317"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

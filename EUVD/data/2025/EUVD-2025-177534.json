@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177534", "enisaUuid": "5e33360c-5051-300a-8b62-98aaf9700c2d", "description": "Malicious code in notify-simple-theta-monitor-web (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188348"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

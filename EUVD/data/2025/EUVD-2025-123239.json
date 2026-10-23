@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123239", "enisaUuid": "cb4f0dea-d144-3ac5-9a05-9171aed6414b", "description": "Malicious code in protractor-eslint-plugin-nestjs-altair (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146683"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

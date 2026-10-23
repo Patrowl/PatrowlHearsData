@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-79277", "enisaUuid": "9f484f3f-f016-35b7-a84e-58f887178897", "description": "Malicious code in external_raven_z3n (npm)", "datePublished": "2025-11-11T07:31:13", "dateUpdated": "2025-11-11T07:31:13", "baseScore": 0.0, "aliases": ["MAL-2025-102423"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

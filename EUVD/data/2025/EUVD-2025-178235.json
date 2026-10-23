@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178235", "enisaUuid": "fffcc863-78a3-3290-b75e-487c7eed555a", "description": "Malicious code in jwt-mutation-dagda-octans (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187647"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

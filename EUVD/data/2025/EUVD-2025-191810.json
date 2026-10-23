@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191810", "enisaUuid": "8ecb7296-f743-31e3-8146-5d2822b4f90f", "description": "Malicious code in notification-displayer (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-42045"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

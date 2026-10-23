@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121891", "enisaUuid": "1c6b6d38-c3d9-3d33-8a89-66867b440486", "description": "Malicious code in soap-sass-loader-sirius-cache (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148034"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76357", "enisaUuid": "2f909b2c-8e18-3f66-99f6-c79648e64ab0", "description": "Malicious code in main_koi-tool (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-105509"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

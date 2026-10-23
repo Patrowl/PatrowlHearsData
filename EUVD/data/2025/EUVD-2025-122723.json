@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122723", "enisaUuid": "5bc7cb88-223f-3e54-b92d-cd4c730e336a", "description": "Malicious code in relay-cors-callisto-buffer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147199"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

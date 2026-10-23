@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127990", "enisaUuid": "0a654278-cbc5-3576-b2d8-1483f356b29c", "description": "Malicious code in wallet-rpc (PyPI)", "datePublished": "2025-05-22T12:33:55", "dateUpdated": "2025-05-22T12:33:55", "baseScore": 0.0, "aliases": ["MAL-2025-4258"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

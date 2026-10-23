@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195414", "enisaUuid": "dc3f5e59-2d7e-328e-b2b7-07783760524d", "description": "Malicious code in python-auto-wiki (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45662"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

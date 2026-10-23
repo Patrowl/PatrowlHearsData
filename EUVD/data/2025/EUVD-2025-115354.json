@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115354", "enisaUuid": "58c9d0ea-3a1a-32c8-8967-3ccd3276f81d", "description": "Malicious code in child-process-miranda-enif-nightwatch (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140753"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

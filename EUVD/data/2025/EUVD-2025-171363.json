@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171363", "enisaUuid": "56dfa0f3-4fae-376c-abca-f6148fe3552f", "description": "Malicious code in ms-quoteservice (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26834"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

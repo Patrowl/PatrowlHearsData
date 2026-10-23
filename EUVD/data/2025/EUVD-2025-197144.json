@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197144", "enisaUuid": "e39890e1-dda5-3646-ab16-ad3e6742d059", "description": "Malicious code in fake-package-name (npm)", "datePublished": "2025-09-26T09:31:18", "dateUpdated": "2025-09-26T09:31:18", "baseScore": 0.0, "aliases": ["MAL-2025-47671"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

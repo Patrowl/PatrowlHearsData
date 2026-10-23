@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183527", "enisaUuid": "2f8e92c3-5d3d-39c1-be54-18c23a20b95c", "description": "Malicious code in spica-heka-fetch-quasar (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33742"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

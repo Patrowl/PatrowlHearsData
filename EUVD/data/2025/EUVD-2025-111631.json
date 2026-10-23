@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111631", "enisaUuid": "15f4b331-6430-337d-9a0a-9518fb9c22a9", "description": "Malicious code in local-child-process-supervisor-miranda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144484"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

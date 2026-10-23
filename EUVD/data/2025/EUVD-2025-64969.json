@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-64969", "enisaUuid": "d1c960ec-d8f0-30ea-b38c-3937b37ed221", "description": "Malicious code in close_meerkat_z3n (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-93585"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

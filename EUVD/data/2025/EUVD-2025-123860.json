@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123860", "enisaUuid": "a8b0f68d-bb6d-3e36-b435-437bd7a5e65c", "description": "Malicious code in pegasus-upgrade-gravity-postcss (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146061"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

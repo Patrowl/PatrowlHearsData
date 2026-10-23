@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123618", "enisaUuid": "71429df0-8f58-3c20-9691-e22cf5843c12", "description": "Malicious code in pm2-loopback-update-corvus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146303"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

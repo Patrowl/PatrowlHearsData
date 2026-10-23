@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113672", "enisaUuid": "31ac2b43-163f-38d0-8c6a-c725972ce1af", "description": "Malicious code in fetch-corvus-auth-charon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142439"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

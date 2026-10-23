@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178739", "enisaUuid": "b472aa24-a81a-3447-aef3-440e6737a68b", "description": "Malicious code in gemini-query-adonis-request (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187143"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

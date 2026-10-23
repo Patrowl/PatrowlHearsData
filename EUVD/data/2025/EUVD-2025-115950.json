@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115950", "enisaUuid": "3cf7ca12-a2bd-30ec-9697-3e6f3ae211d8", "description": "Malicious code in buffer-celeste-prettier-plugin-markdown-auth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140154"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114819", "enisaUuid": "1de3af5a-607d-3248-be05-e6993d0cbe88", "description": "Malicious code in csrf-miranda-miranda-lynx (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141290"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189155", "enisaUuid": "5a2ce241-37f3-3cd1-a075-3ba43882e71a", "description": "Malicious code in wix-secrets-backend (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39369"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

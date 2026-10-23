@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121365", "enisaUuid": "3c9ea23d-8264-34f8-99a4-d16bfec44b99", "description": "Malicious code in test-altair-postcss-update (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148563"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127103", "enisaUuid": "1c096e43-ce0c-36da-9d64-a325946cb859", "description": "Malicious code in @sporta-technology/d11-web-components.text-area (npm)", "datePublished": "2025-04-23T15:40:59", "dateUpdated": "2025-04-23T15:40:59", "baseScore": 0.0, "aliases": ["MAL-2025-3362"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

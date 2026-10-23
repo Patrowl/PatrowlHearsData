@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200051", "enisaUuid": "47b7eaff-013d-3781-8a03-36e0f721a0d1", "description": "Malicious code in mongodb-compass (npm)", "datePublished": "2025-12-01T16:16:28", "dateUpdated": "2025-12-01T16:16:28", "baseScore": 0.0, "aliases": ["MAL-2025-191518"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

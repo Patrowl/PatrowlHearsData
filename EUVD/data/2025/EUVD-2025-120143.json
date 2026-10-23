@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120143", "enisaUuid": "4a806e80-db87-35c4-8578-e33696a5be8a", "description": "Malicious code in yaml-express-cors-gridsome (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149788"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

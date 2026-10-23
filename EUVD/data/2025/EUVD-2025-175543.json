@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175543", "enisaUuid": "c55f9adb-4fff-3ef7-bb76-1b4eca8c200f", "description": "Malicious code in winston-jwt-vuepress-prettier (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190333"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

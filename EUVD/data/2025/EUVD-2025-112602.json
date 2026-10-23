@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112602", "enisaUuid": "af56d7c4-0497-3a4d-a0a2-24a85c959d84", "description": "Malicious code in ignite-commitlint-config-angular-iota-corvus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143510"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

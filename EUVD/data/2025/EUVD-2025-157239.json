@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-157239", "enisaUuid": "fd063704-80e7-32c9-b1e4-76f307fd5fee", "description": "Malicious code in @zalastax/nolb-nodebb-plugin-m (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-12738"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

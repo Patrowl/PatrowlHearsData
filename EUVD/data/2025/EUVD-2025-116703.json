@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116703", "enisaUuid": "789e52fc-49be-3c9b-917f-4177f28095f7", "description": "Malicious code in antares-config-mutation-jekyll (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139399"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

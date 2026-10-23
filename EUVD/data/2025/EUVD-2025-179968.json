@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179968", "enisaUuid": "34ce9dec-32fa-309f-976d-af747ebf686a", "description": "Malicious code in browserify-eslint-plugin-heka-mui (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185914"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

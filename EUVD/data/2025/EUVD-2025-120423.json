@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120423", "enisaUuid": "18342a14-12bc-3f1d-9fad-4e93b1037e8a", "description": "Malicious code in winston-magellan-miranda-terser-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149507"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

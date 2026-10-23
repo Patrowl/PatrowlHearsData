@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112030", "enisaUuid": "e675a386-3d20-3260-9aa8-94e079076efb", "description": "Malicious code in jwt-publish-hermes-miranda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144083"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

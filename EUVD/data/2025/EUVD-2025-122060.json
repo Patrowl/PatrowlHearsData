@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122060", "enisaUuid": "40d66ed2-8fb1-3492-bac2-95f5f64810bc", "description": "Malicious code in sequelize-convict-wasat-antares (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147863"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

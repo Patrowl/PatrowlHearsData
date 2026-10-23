@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112998", "enisaUuid": "581722ad-e6e9-3d58-8f91-d37ad382e8c9", "description": "Malicious code in gulp-cluster-chalk-phoenix (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143114"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

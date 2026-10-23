@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161360", "enisaUuid": "2ac72fb9-b796-3662-ae5e-8664eb301069", "description": "Malicious code in chat-api1 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16859"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

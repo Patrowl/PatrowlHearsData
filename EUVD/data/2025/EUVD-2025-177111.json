@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177111", "enisaUuid": "d750995b-8029-3b71-b31b-aedef5fc233f", "description": "Malicious code in polaris-octans-bootstrap-bootstrap (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188764"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

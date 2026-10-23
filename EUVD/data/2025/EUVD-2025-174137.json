@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174137", "enisaUuid": "30b2679b-442c-32e9-9e0b-7b59bca413ff", "description": "Malicious code in precon-execution-loop-helper (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29608"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

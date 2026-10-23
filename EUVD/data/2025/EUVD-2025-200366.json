@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200366", "enisaUuid": "bac619ed-2d57-3c5f-8fdd-7526d86d291f", "description": "Malicious code in aps-simple-viewer-nodejs (npm)", "datePublished": "2025-12-01T13:03:01", "dateUpdated": "2025-12-02T21:37:28", "baseScore": 0.0, "aliases": ["MAL-2025-191564"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

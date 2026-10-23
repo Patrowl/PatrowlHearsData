@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200871", "enisaUuid": "86718a0d-eeac-32bc-9d76-d1ee3f60b14e", "description": "Malicious code in elf-stats-marzipan-fir-219 (npm)", "datePublished": "2025-12-03T15:59:29", "dateUpdated": "2025-12-03T15:59:29", "baseScore": 0.0, "aliases": ["MAL-2025-192081"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

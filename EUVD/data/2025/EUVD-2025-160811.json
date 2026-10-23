@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160811", "enisaUuid": "c7a8ed17-3300-31a1-bfc0-07714b2ca0a0", "description": "Malicious code in buffgr-xor (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16310"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

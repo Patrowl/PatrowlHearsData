@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172150", "enisaUuid": "afbeb028-de44-3b2e-bbe7-d69f61e357b6", "description": "Malicious code in node-file-uploader (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27621"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-152901", "enisaUuid": "f16410c9-da65-31d1-a13b-8a7292b9f71c", "description": "Malicious code in @leaffm/leaf-connect-ringtons (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-8400"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

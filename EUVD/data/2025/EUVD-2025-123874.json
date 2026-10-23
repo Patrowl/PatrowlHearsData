@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123874", "enisaUuid": "2c9b88aa-68dc-3b01-ba70-0d272b09057e", "description": "Malicious code in pegasus-readable-request-sails (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146047"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

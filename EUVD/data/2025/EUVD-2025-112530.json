@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112530", "enisaUuid": "ebdf2a2b-28db-3145-ba35-29fd0a0ec2f8", "description": "Malicious code in ini-chalk-cors-colors (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143583"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123576", "enisaUuid": "73ee8fc7-7b54-3f14-8d2e-f10b03ac403c", "description": "Malicious code in polaris-grunt-nightwatch-apex (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146345"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

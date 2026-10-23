@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174002", "enisaUuid": "4a274f0c-c135-3e5f-8b58-30ec0dce73da", "description": "Malicious code in polaris-pino-pretty-void-apollo (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29473"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

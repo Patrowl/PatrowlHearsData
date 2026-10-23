@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-38320", "enisaUuid": "655ff7a4-21b8-3445-8c47-3c114ef8dbdb", "description": "Malicious code in payments-notifications (npm)", "datePublished": "2025-11-07T19:50:27", "dateUpdated": "2025-11-09T00:27:56", "baseScore": 0.0, "aliases": ["MAL-2025-49390"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

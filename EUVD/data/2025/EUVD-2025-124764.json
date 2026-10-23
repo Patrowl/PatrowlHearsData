@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124764", "enisaUuid": "e87090b5-f46e-3e00-9a5c-5d15bca28739", "description": "Malicious code in mongoose-html-webpack-plugin-leda-semantic-ui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145154"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

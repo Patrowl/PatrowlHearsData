@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191234", "enisaUuid": "1de18692-3db2-3da7-8981-47079e9cb26f", "description": "Malicious code in @twork-data-services/broker-account-tariff (npm)", "datePublished": "2025-08-28T07:15:47", "dateUpdated": "2025-08-28T07:15:47", "baseScore": 0.0, "aliases": ["MAL-2025-41465"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

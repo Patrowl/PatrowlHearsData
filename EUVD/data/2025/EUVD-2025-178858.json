@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178858", "enisaUuid": "455b2935-5562-31ee-94af-5c9a9a862e71", "description": "Malicious code in fork-webpack-kastra-chai (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187024"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

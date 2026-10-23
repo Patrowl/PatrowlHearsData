@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175264", "enisaUuid": "9cd70eb0-fbd6-3a06-8fb9-7db498d36f58", "description": "Malicious code in promise-ora-postcss-antares (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-30735"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

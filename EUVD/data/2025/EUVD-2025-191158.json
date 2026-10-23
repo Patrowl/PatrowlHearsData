@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191158", "enisaUuid": "ee556206-6d96-384f-992c-9ca37af18133", "description": "Malicious code in default-agent-provider (npm)", "datePublished": "2025-08-23T14:50:03", "dateUpdated": "2025-08-23T14:50:03", "baseScore": 0.0, "aliases": ["MAL-2025-41381"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

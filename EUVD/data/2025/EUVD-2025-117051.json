@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-117051", "enisaUuid": "ff98f040-e840-360b-b7bf-6f3a92fde1f1", "description": "Malicious code in subsequent-fuchsia-mongoose (npm)", "datePublished": "2025-11-12T03:04:12", "dateUpdated": "2025-11-12T03:04:12", "baseScore": 0.0, "aliases": ["MAL-2025-139051"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

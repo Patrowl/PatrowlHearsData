@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112899", "enisaUuid": "2fc99076-2ef7-338e-8939-21e313fc547b", "description": "Malicious code in heka-postgres-update-publish (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143213"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

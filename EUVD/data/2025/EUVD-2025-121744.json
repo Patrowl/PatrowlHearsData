@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121744", "enisaUuid": "28e80236-a0ec-3ca8-9745-c7b37106ca2a", "description": "Malicious code in spica-terser-configstore-taurus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148181"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

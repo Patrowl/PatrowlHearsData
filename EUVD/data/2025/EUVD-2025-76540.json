@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76540", "enisaUuid": "705a8b11-a6f3-3e40-bcd6-e28a1cd599d6", "description": "Malicious code in insufficient_marten-appteadev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-104269"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115623", "enisaUuid": "b2f88fc4-57e4-3fba-9810-6a92d1ead78e", "description": "Malicious code in castor-fetch-webdriver-manager-mini-css-extract-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140484"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

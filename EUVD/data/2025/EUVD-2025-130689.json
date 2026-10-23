@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130689", "enisaUuid": "e3656b19-c221-3518-91f6-6194c35ef4fe", "description": "Malicious code in vite-plugin-netx-project (npm)", "datePublished": "2025-08-17T02:33:57", "dateUpdated": "2025-08-17T02:33:57", "baseScore": 0.0, "aliases": ["MAL-2025-6967"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

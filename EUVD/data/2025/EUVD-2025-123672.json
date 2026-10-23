@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123672", "enisaUuid": "335a5899-fadc-301a-a6b5-537e86dc6a1c", "description": "Malicious code in pino-rate-limiter-nconf-subscription (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146249"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

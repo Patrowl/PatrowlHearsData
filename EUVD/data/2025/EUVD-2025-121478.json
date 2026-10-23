@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121478", "enisaUuid": "1b88daf8-2b65-3928-9875-4ff38f589859", "description": "Malicious code in tailwindcss-playwright-lacerta-hapi (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148450"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

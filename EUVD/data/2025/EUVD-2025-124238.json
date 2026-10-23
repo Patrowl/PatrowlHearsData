@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124238", "enisaUuid": "ac67f69d-a33d-3387-a1b0-95155df65759", "description": "Malicious code in npm-magellan-commitlint-vuepress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145683"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

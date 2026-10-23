@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176581", "enisaUuid": "9e25f3e8-a9a2-38fc-b534-b563ce2fd47d", "description": "Malicious code in run-script-yaml-fomalhaut-eslint-config (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189294"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

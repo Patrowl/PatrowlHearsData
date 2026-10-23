@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-204929", "enisaUuid": "410ff65a-429d-34d6-ab8b-d6f3e6b0c295", "description": "Malicious code in chai-as-validated (npm)", "datePublished": "2025-12-23T08:02:14", "dateUpdated": "2025-12-24T00:53:16", "baseScore": 0.0, "aliases": ["MAL-2025-192724"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120786", "enisaUuid": "0990d4c1-7cec-383e-8200-9ea9ac235c63", "description": "Malicious code in version-prettier-stylelint-private-envconfig (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149143"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

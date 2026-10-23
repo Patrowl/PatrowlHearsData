@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197143", "enisaUuid": "a5d22ba2-7096-3f4e-83bc-1aadc41aa873", "description": "Malicious code in expvariantassignmentsdk (npm)", "datePublished": "2025-09-26T09:31:08", "dateUpdated": "2025-09-26T09:31:08", "baseScore": 0.0, "aliases": ["MAL-2025-47670"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

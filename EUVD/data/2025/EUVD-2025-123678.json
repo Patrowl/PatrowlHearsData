@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123678", "enisaUuid": "1e1eb539-4eaf-3698-bda4-5911bb71047f", "description": "Malicious code in pino-pretty-rate-limiter-xerxes-flare (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146243"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112524", "enisaUuid": "7b2a4f35-31f0-3e13-96dc-08c1a78e4691", "description": "Malicious code in ini-event-carpo-meteor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143589"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

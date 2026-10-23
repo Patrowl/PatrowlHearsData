@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183050", "enisaUuid": "473c6444-1898-30bc-a6b2-9d9b503a2649", "description": "Malicious code in simple-await-zero-pi-async (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33265"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

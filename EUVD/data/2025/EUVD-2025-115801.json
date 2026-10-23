@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115801", "enisaUuid": "e9aa894e-f1b5-305b-8d51-ae781f0dd376", "description": "Malicious code in callback-private-hermes-resolvers (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140305"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

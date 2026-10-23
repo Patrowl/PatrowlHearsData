@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191842", "enisaUuid": "81e527d9-c2ae-3ba7-9e9a-13e7bd12c048", "description": "Malicious code in sensitive-paths-focus (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-42081"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

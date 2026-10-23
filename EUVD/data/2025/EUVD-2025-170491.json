@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170491", "enisaUuid": "54e3c371-2422-3446-bb2d-482652193de0", "description": "Malicious code in marley-logger (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25962"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179109", "enisaUuid": "27bb04b3-2bc0-382c-804e-4895b0cd0e67", "description": "Malicious code in envconfig-fornax-void-duplex (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186773"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112808", "enisaUuid": "9303ba6d-6a6a-34ee-8621-089637f6598e", "description": "Malicious code in hermes-castor-pm2-celeste (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143304"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124361", "enisaUuid": "2e2ec0c0-1027-30f7-b517-7e443c0ec0bd", "description": "Malicious code in nodejs-cygnus-sync-markdown-pdf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145560"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

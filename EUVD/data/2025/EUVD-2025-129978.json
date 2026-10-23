@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129978", "enisaUuid": "f0005c23-6681-3fd0-bb4f-41c6a3a3321c", "description": "Malicious code in dva-loading-hide-rce (npm)", "datePublished": "2025-07-26T11:15:40", "dateUpdated": "2025-07-28T01:58:36", "baseScore": 0.0, "aliases": ["MAL-2025-6251"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

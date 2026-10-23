@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121696", "enisaUuid": "bac68e13-c1f3-3010-922d-d164552ebc12", "description": "Malicious code in sqlite-iota-passport-frontend (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148229"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

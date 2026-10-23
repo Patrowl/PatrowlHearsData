@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121595", "enisaUuid": "fd6987ab-6d67-382e-bdf2-4565b0f0f68a", "description": "Malicious code in stream-test-aldebaran-eleventy (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148330"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

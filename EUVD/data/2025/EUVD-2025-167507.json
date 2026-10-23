@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167507", "enisaUuid": "d215755a-b874-37f7-ae93-c9ad809a6b51", "description": "Malicious code in ifm-length (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22989"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

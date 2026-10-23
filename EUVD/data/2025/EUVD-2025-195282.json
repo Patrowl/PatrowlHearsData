@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195282", "enisaUuid": "a69f8f77-33f4-3fb6-9757-3e7bc84858ad", "description": "Malicious code in peerinstruction (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45530"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122524", "enisaUuid": "26594d25-28b0-34c1-af02-7b92057abde3", "description": "Malicious code in restart-terser-webpack-plugin-sails-package (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147398"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

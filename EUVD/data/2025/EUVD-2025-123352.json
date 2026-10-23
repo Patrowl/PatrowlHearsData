@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123352", "enisaUuid": "c1cd507e-db34-31fe-b3d3-1f70430f364c", "description": "Malicious code in process-shelljs-neptune-taurus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146570"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

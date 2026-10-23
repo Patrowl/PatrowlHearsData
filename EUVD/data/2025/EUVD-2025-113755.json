@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113755", "enisaUuid": "89192a7b-e06b-3dd1-b6ea-2396450d5b83", "description": "Malicious code in exec-nuxtjs-antares-umbriel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142355"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

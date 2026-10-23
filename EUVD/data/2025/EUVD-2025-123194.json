@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123194", "enisaUuid": "0c02a010-8773-3980-b82f-560cd411c7d6", "description": "Malicious code in proxima-playwright-callisto-toml (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146728"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

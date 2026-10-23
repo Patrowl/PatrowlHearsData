@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111651", "enisaUuid": "75dff637-2c0f-326a-9e53-2a92ecd5b6c8", "description": "Malicious code in lint-staged-pegasus-chalk-spectron (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144463"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

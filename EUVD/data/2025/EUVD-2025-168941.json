@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168941", "enisaUuid": "fce6103d-c078-38d5-9f7a-f67e0e6a6ef7", "description": "Malicious code in key-recovery-service-v2 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24423"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

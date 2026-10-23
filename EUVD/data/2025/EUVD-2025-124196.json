@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124196", "enisaUuid": "d6f7cceb-4b61-3281-b04a-825898531cf6", "description": "Malicious code in oauth-corvus-atlas-run-script (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145725"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

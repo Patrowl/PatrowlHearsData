@@ -1,0 +1,1 @@
+{"id": "EUVD-2026-1353", "enisaUuid": "2b71079e-f403-3fd9-a6c3-c3c6f016b765", "description": "Malicious code in @bingads-webui-component-legacy/storage (npm)", "datePublished": "2026-01-07T13:45:41", "dateUpdated": "2026-01-07T13:45:41", "baseScore": 0.0, "aliases": ["MAL-2026-127"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

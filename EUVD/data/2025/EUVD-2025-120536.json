@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120536", "enisaUuid": "4810badd-c866-3b15-a21b-cde360e019bd", "description": "Malicious code in webpack-colors-luna-electron (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149393"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

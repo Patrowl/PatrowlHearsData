@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113015", "enisaUuid": "5f8918ea-d0d0-3606-b120-6730e73a02d0", "description": "Malicious code in grus-ora-cosmiconfig-cluster (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143097"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

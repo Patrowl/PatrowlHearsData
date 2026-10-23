@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188464", "enisaUuid": "5c9bcd36-4162-3fd4-94a9-cbb5e3374312", "description": "Malicious code in vuepress-alphard-rate-limiter-spectron-webdriver (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38678"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

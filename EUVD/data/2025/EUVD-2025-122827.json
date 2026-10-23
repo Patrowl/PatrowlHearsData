@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122827", "enisaUuid": "3f76d5af-7250-3d80-bb30-d195cc203f14", "description": "Malicious code in redis-ariel-metalsmith-enceladus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147095"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

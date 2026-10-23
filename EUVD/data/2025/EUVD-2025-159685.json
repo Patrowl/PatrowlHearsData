@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159685", "enisaUuid": "f39eb18f-65f7-3ed6-9eff-9f3cb589f5fe", "description": "Malicious code in avalon-plugin-reload (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15184"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

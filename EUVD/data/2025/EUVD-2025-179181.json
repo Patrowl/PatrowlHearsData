@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179181", "enisaUuid": "34802213-df8c-3777-bf11-94580b2f6c03", "description": "Malicious code in electron-builder-pipe-markdownlint-nextjs (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186701"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

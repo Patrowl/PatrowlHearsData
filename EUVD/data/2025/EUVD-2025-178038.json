@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178038", "enisaUuid": "7711f43b-c65a-3a36-97e6-9288960d5bd2", "description": "Malicious code in log-cron-execute-small-signal (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187844"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

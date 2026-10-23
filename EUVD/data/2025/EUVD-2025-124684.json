@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124684", "enisaUuid": "cda60252-54fd-3bc2-bb27-eaacf1588e5d", "description": "Malicious code in mutation-telesto-mongodb-xml (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145234"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

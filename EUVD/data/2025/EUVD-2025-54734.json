@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-54734", "enisaUuid": "ec83a3fc-fd94-317b-929b-91af0132e3ba", "description": "Malicious code in dynamic-yellow-warbler (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-67915"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

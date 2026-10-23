@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-56403", "enisaUuid": "6aeb8f54-0fb5-347c-8d2b-c5a523f610ea", "description": "Malicious code in xenial_cuckoo_z3n (npm)", "datePublished": "2025-11-11T00:17:57", "dateUpdated": "2025-11-11T00:17:57", "baseScore": 0.0, "aliases": ["MAL-2025-66237"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

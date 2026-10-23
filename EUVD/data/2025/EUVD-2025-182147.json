@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182147", "enisaUuid": "a68840b6-056f-3ebd-bbe5-c4954797f9d2", "description": "Malicious code in rollup-plugin-raptor-compiler (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32362"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

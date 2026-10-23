@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125672", "enisaUuid": "68d12c92-9fab-32c1-b019-badb0c7aadc3", "description": "Malicious code in sdk-coin-eos (npm)", "datePublished": "2025-03-03T13:39:04", "dateUpdated": "2025-03-03T13:39:04", "baseScore": 0.0, "aliases": ["MAL-2025-1930"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

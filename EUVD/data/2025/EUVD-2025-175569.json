@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175569", "enisaUuid": "7484c65c-15a1-3cad-919f-fe0e589f27fc", "description": "Malicious code in weywot-webdriver-mocha-loglevel-fornax (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190307"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193653", "enisaUuid": "b4273d91-0148-3080-9a09-5a4e019fd520", "description": "Malicious code in cosmiconfig-vortex-proxima-repository (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43900"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

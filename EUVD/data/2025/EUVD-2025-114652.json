@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114652", "enisaUuid": "b116c04c-9e08-31e5-ba76-1c8d8095ffdd", "description": "Malicious code in dactyl-typeorm-chromedriver-node-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141457"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

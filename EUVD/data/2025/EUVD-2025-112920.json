@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112920", "enisaUuid": "924cae6e-925f-3a57-a4e7-444422585bbe", "description": "Malicious code in hapi-morgan-dotenv-parse-variables-sirius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143192"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

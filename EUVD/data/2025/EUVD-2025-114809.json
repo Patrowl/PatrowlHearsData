@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114809", "enisaUuid": "13232003-1cf5-340e-92f8-08cd3f9f46d7", "description": "Malicious code in css-loader-cygnus-restart-cluster (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141300"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

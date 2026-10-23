@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124494", "enisaUuid": "67979a9e-3fa3-3723-afb7-9724eda7a518", "description": "Malicious code in nextjs-xml-yaml-fork (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145427"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

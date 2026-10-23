@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175411", "enisaUuid": "9de2514c-a44e-3389-b82e-e7c6c6d9aef6", "description": "Malicious code in zephyr-leda-procyon-pegasus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190465"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

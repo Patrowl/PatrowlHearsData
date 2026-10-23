@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113578", "enisaUuid": "eca920ab-38e9-340e-b49d-7cfbb9ac6cb5", "description": "Malicious code in flare-pm2-capella-webpack (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142533"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

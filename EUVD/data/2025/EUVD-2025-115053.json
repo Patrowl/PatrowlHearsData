@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115053", "enisaUuid": "eef11498-8229-3218-9f6f-12ab90c9b3cd", "description": "Malicious code in configstore-koa-auriga-ariel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141056"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

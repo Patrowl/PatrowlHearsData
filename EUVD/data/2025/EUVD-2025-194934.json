@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194934", "enisaUuid": "edf342b6-1cd9-3430-b9fc-115dec9d5ad0", "description": "Malicious code in meteor-dotenv-parse-variables-callback-kaus (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45181"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

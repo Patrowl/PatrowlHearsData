@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122862", "enisaUuid": "efd11e64-81a2-3ea9-82a1-f315ecceb9f7", "description": "Malicious code in react-bootstrap-hapi-init-quantum (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147060"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

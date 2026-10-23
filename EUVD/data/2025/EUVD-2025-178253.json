@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178253", "enisaUuid": "70226409-ac6d-332b-91af-d45ac9a7227c", "description": "Malicious code in json-superagent-helios-ablation (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187629"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

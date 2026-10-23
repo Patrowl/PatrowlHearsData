@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-30186", "enisaUuid": "d94a3f91-f93f-3b8e-adea-4a6f0f626564", "description": "Malicious code in playground_root (npm)", "datePublished": "2025-09-18T00:45:51", "dateUpdated": "2025-09-18T01:34:15", "baseScore": 0.0, "aliases": ["MAL-2025-47426"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

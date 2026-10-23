@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160486", "enisaUuid": "a0dcde0f-7657-33f7-9af4-86f5313f4a7a", "description": "Malicious code in bootstrap-abiogenesis-pegasus-quasar (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15985"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120621", "enisaUuid": "6097bf38-6e7e-3108-933c-0400dc90b329", "description": "Malicious code in webdriver-manager-altair-chromedriver-express (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149308"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

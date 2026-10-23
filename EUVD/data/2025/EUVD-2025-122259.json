@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122259", "enisaUuid": "6c48c32a-7219-3407-a7eb-d152c2d3264c", "description": "Malicious code in sass-loader-chromedriver-atlas-webdriver-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147663"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

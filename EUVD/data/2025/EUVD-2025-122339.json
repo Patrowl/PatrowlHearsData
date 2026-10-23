@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122339", "enisaUuid": "e4d81e3a-7bab-3118-9712-d3c4ba6fce7d", "description": "Malicious code in sagitta-bunyan-warp-remark (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147583"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

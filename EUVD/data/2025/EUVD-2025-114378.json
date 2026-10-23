@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114378", "enisaUuid": "85039e45-5420-3129-a85a-df3bc6d50103", "description": "Malicious code in dotenv-parse-variables-phoebe-procyon-graphql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141731"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

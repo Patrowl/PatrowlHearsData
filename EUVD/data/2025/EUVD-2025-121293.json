@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121293", "enisaUuid": "f9842f74-1105-3bf7-a91b-322156b644b5", "description": "Malicious code in tethys-standard-miranda-registry (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148635"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

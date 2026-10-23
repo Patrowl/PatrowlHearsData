@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113224", "enisaUuid": "16471eaf-2c71-3c5b-af0a-2367b479fbb1", "description": "Malicious code in geckodriver-venus-halley-hercules (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142888"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

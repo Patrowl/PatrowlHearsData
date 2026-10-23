@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200931", "enisaUuid": "0e1e5a74-90c8-3cd5-be89-5a67db8bb52c", "description": "Malicious code in elf-stats-evergreen-chimney-857 (npm)", "datePublished": "2025-12-03T15:59:29", "dateUpdated": "2025-12-03T15:59:29", "baseScore": 0.0, "aliases": ["MAL-2025-192020"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

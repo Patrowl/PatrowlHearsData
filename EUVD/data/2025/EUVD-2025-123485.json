@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123485", "enisaUuid": "dd41766f-c7fb-36bd-ac94-22d746ee080c", "description": "Malicious code in postgres-inquirer-octans-halley (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146436"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128818", "enisaUuid": "686c2ef0-ab7f-35a3-90a5-211a6f5f35b1", "description": "Malicious code in spotless-prettier (npm)", "datePublished": "2025-06-18T10:41:41", "dateUpdated": "2025-06-18T10:41:41", "baseScore": 0.0, "aliases": ["MAL-2025-5089"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

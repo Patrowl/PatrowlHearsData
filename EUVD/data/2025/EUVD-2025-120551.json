@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120551", "enisaUuid": "d7f9d3d5-67ac-3c6e-96a0-c4599064642a", "description": "Malicious code in webdriverio-nightwatch-sequelize-global (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149378"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

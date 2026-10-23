@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113867", "enisaUuid": "48b52369-1534-3f10-b235-e1c03795e310", "description": "Malicious code in eslint-plugin-tailwindcss-cosmiconfig-alphard (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142243"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

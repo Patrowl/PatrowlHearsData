@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176986", "enisaUuid": "d2045598-5532-3dbf-b6cf-e4f52d9de569", "description": "Malicious code in proteomics-electron-triton-child-process (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188889"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

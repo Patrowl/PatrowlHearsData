@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123696", "enisaUuid": "42f725c4-4bf7-3a6f-a341-034ec68c72f4", "description": "Malicious code in pino-middleware-zephyr-auth0 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146225"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

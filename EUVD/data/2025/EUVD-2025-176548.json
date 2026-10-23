@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176548", "enisaUuid": "6f0b7c09-7a08-3e4b-b193-3df92260f9fa", "description": "Malicious code in sails-blueshift-string-warp (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189327"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

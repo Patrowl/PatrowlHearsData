@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179509", "enisaUuid": "2b58b28b-3530-3e4c-a148-f71c03578f75", "description": "Malicious code in cron-kappa-bash-serialize-beta (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186373"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196630", "enisaUuid": "f4ea6c2c-082f-30cd-804a-cf8a960fca21", "description": "Malicious code in zero-authorize-compile-yaml-process (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46878"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

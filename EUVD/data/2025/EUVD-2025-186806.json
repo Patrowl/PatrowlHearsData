@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-186806", "enisaUuid": "f93b3a96-8175-3e9a-acf0-59fa62b6b1c1", "description": "Malicious code in tokenservice-paypal (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37016"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

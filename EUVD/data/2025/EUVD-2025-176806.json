@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176806", "enisaUuid": "dc8d5b3d-e76e-3a75-bd65-ce8926979f7b", "description": "Malicious code in radiometric-csrf-odin-tool (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189069"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

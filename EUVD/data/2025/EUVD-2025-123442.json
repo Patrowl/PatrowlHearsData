@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123442", "enisaUuid": "6389883e-bfd9-37bc-9cae-49c771ad472b", "description": "Malicious code in prettier-plugin-markdown-eris-bellatrix-oauth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146480"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

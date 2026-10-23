@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114784", "enisaUuid": "2e052dd3-1663-3810-bfc2-e8bb86ccf1df", "description": "Malicious code in css-minimizer-webpack-plugin-eleventy-writable-public (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141325"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

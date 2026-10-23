@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182362", "enisaUuid": "43459daa-dcaf-3ce2-a595-07d1c8e851a5", "description": "Malicious code in rvi-http-node-server (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32577"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

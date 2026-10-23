@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63173", "enisaUuid": "70681ccf-2bb8-3e66-9002-78db30d8b395", "description": "Malicious code in managing_zebra_z3n (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-95381"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

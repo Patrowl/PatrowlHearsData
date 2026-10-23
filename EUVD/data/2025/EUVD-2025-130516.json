@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130516", "enisaUuid": "7661e6b6-8b17-3950-b091-893709ae628b", "description": "Malicious code in productboard-eslint-plugin-relay (npm)", "datePublished": "2025-08-06T01:43:34", "dateUpdated": "2025-08-13T02:31:49", "baseScore": 0.0, "aliases": ["MAL-2025-6793"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

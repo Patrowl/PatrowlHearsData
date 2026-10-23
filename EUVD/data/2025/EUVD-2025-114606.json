@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114606", "enisaUuid": "4726a134-9c52-3d56-93f3-378c9317a3c1", "description": "Malicious code in deimos-readable-winston-yonder (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141503"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

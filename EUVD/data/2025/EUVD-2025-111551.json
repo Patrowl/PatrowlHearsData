@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111551", "enisaUuid": "6cbd94d0-958d-3412-a504-f76940532d34", "description": "Malicious code in loopback-server-grunt-terser-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144564"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

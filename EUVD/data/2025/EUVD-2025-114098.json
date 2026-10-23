@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114098", "enisaUuid": "8679eec3-ade2-3c8c-942a-0b0abe28e12d", "description": "Malicious code in eleventy-sails-inquirer-javascript (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142012"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

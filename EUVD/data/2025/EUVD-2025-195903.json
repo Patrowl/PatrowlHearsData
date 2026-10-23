@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195903", "enisaUuid": "e7725f46-81a7-3ebe-b8ca-b58c45b5a187", "description": "Malicious code in style-loader-impulse-acamar-dotenv-parse-variables (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46151"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

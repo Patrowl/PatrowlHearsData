@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182459", "enisaUuid": "4247c5fc-6bb6-318e-b79e-8f4d70518144", "description": "Malicious code in sanitize-object-pipe-class-grid (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32674"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

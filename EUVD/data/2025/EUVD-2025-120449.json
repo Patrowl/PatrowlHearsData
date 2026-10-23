@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120449", "enisaUuid": "80f56b5a-7015-313d-9507-2dd20c219e0c", "description": "Malicious code in winston-bootes-package-postgres (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149481"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

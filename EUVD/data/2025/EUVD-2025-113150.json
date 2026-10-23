@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113150", "enisaUuid": "bbf212fc-4531-37f8-8737-4be3224341f2", "description": "Malicious code in google-install-octans-webpack (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142962"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

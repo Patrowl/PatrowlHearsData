@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197732", "enisaUuid": "183bceff-6fa6-3080-bdba-d630ad4e751a", "description": "Malicious code in com.mixpanel.unity (npm)", "datePublished": "2025-11-16T19:46:57", "dateUpdated": "2025-11-17T17:39:44", "baseScore": 0.0, "aliases": ["MAL-2025-190500"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

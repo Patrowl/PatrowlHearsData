@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114099", "enisaUuid": "e50b00cd-18bb-3629-9c0f-83daa2419c61", "description": "Malicious code in eleventy-remark-jwt-dagda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142011"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

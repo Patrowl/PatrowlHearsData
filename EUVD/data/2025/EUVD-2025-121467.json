@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121467", "enisaUuid": "b76585e8-e298-37e4-82a2-6f3452820fa7", "description": "Malicious code in taurus-await-ophiuchus-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148461"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

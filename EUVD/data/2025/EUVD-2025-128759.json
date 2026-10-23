@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128759", "enisaUuid": "7ba92a9f-01cf-393b-800f-5ac482ce2149", "description": "Malicious code in cim-validation-form (npm)", "datePublished": "2025-06-12T23:29:03", "dateUpdated": "2025-06-12T23:29:03", "baseScore": 0.0, "aliases": ["MAL-2025-5027"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

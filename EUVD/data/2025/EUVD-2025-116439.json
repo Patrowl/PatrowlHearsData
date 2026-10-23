@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116439", "enisaUuid": "d3ba9f04-8402-308f-8c4b-0fe1b056d756", "description": "Malicious code in atlas-typeorm-jsonp-repository (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139663"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176434", "enisaUuid": "9d0b91ff-1773-32c4-a93b-a615dedc687d", "description": "Malicious code in semantic-ui-redis-dendrochronology-run-script (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189441"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

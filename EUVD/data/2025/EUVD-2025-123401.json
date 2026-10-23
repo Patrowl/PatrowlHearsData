@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123401", "enisaUuid": "4030a4be-1e1d-3504-a351-39dd627cf292", "description": "Malicious code in prettier-stylelint-titan-geckodriver-loopback (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146521"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

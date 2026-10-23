@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153808", "enisaUuid": "b56b7471-54b2-3aa5-a316-129cfe23c18e", "description": "Malicious code in @sellerly-kit/limit (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9307"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113232", "enisaUuid": "13d9c313-92b1-3bb3-8b57-3fa3d264b995", "description": "Malicious code in geckodriver-rate-limiter-iota-test (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142880"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

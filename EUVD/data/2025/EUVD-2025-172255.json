@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172255", "enisaUuid": "dcd0303e-b29a-3fd7-9a2d-c519dab78257", "description": "Malicious code in norrin-statserver-reader (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27726"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

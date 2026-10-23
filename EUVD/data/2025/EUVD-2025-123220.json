@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123220", "enisaUuid": "0bcb2f96-6532-35df-86f5-d222bbbd69e0", "description": "Malicious code in protractor-webdriver-mocha-bootstrap-venus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146702"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

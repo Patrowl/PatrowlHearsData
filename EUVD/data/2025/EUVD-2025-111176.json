@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111176", "enisaUuid": "584c6438-c387-3c10-ac79-ed2d1b4e2611", "description": "Malicious code in meteor-start-aether-neptune (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144939"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

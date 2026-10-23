@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179585", "enisaUuid": "917cfe46-d229-3a36-b108-1a6558b8ac1d", "description": "Malicious code in convict-private-cors-superagent (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186297"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

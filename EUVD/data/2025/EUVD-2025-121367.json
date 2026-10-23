@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121367", "enisaUuid": "db211678-3f03-3423-aa9d-d11c5f43d8f9", "description": "Malicious code in terser-webpack-plugin-yonder-venus-antd (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148561"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

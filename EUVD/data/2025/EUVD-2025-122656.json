@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122656", "enisaUuid": "39809121-587c-3a93-8aaf-3b91a8834ca7", "description": "Malicious code in repository-global-commitlint-radiant (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147266"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

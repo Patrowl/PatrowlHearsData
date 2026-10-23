@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116507", "enisaUuid": "f9bcfdc5-b87c-31ed-86d4-766ef00c0dd2", "description": "Malicious code in ariel-postgres-ariel-proxima (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139595"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

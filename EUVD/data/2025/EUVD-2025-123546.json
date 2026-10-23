@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123546", "enisaUuid": "c88e2ca4-594a-3eb7-a96d-d308fe9d3dda", "description": "Malicious code in polaris-transform-firebase-quasar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146375"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

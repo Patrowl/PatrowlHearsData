@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122730", "enisaUuid": "c5679371-276c-3550-bb4d-b1b84c3f0855", "description": "Malicious code in rehype-winston-octans-pino (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147192"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

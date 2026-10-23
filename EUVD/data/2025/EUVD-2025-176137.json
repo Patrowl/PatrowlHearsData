@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176137", "enisaUuid": "3efc1c43-42de-3bc8-bda8-4bf3a625219f", "description": "Malicious code in superagent-loglevel-stop-rest (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189738"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

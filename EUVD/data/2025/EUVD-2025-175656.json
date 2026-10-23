@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175656", "enisaUuid": "88e2d144-af8d-3953-bded-c2bb8aadc07f", "description": "Malicious code in warp-dotenv-safe-andromeda-uglify-js (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190220"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

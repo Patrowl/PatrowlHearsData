@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174212", "enisaUuid": "28faf9c8-f6ef-33e4-9fa6-b065033757bb", "description": "Malicious code in process-cpu2 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29683"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

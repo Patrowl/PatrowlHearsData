@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121620", "enisaUuid": "04f6ac90-960e-3f61-bbb7-eea580e4b5cd", "description": "Malicious code in stop-thuban-fetch-electron-builder (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148305"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121879", "enisaUuid": "339d1527-4520-358d-8007-8b997adbfdbf", "description": "Malicious code in socketio-buffer-version-luna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148046"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

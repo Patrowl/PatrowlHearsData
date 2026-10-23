@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162638", "enisaUuid": "d56a5cc6-af76-3ef9-aaad-67cde6963b4d", "description": "Malicious code in debounce-event (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18139"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

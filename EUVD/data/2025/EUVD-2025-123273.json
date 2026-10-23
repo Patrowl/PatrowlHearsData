@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123273", "enisaUuid": "bb7d6295-2985-36b0-a26c-888b6a526d70", "description": "Malicious code in promise-rollup-miranda-nodemon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146649"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

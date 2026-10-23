@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121127", "enisaUuid": "ec2c6c3a-d859-357a-a720-7aba1ecde71c", "description": "Malicious code in transport-sass-loader-csv-kaus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148801"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

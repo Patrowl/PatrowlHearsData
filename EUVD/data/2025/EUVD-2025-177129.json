@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177129", "enisaUuid": "ff083fac-6601-39e0-96a5-b64e69d15ef3", "description": "Malicious code in playwright-sqlite-neptunology-quasar (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188746"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

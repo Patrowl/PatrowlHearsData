@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121974", "enisaUuid": "02efa38b-0b60-3a5f-9e58-27dbec633fa3", "description": "Malicious code in sirius-fornax-process-typeorm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147951"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

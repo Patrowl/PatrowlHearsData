@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176278", "enisaUuid": "dfe934ad-cf41-3ee4-9ac1-de9a6ff0669c", "description": "Malicious code in spawn-nova-antares-sync (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189597"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

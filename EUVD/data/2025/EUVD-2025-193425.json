@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193425", "enisaUuid": "b43412a6-5444-36ce-81ba-7f74e712846b", "description": "Malicious code in buffer-materialize-pulsar-grus (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43672"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

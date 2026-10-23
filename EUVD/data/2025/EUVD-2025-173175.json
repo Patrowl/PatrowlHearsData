@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173175", "enisaUuid": "c2751495-30d9-3e6c-9ec0-59d1ccfb0893", "description": "Malicious code in packages-lock.json (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28646"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167545", "enisaUuid": "2ef15c6d-f29b-3201-a93d-b5f277300833", "description": "Malicious code in igwinit (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23027"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

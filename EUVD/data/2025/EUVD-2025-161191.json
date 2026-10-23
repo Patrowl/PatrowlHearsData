@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161191", "enisaUuid": "748f5d47-222e-38c8-bd92-bdb1412d64be", "description": "Malicious code in ccymysql (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16690"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195748", "enisaUuid": "abd0f17e-059d-3968-b6ca-f9e101695f1a", "description": "Malicious code in semantic-ui-selenium-test-postcss (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45996"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

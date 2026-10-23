@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37182", "enisaUuid": "d0f12c8e-fcbf-378a-bd6d-428efc1861f1", "description": "Malicious code in egstore-graphql-client (npm)", "datePublished": "2025-10-30T17:38:57", "dateUpdated": "2025-10-30T17:38:57", "baseScore": 0.0, "aliases": ["MAL-2025-49111"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

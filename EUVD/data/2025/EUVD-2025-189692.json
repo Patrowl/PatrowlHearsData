@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189692", "enisaUuid": "b085249f-f303-3dfa-8787-e24886f7def6", "description": "Malicious code in xpc.js (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39914"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

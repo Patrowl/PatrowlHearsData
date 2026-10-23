@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130575", "enisaUuid": "be629544-5653-392d-91e8-c062657ac89a", "description": "Malicious code in sendbird-uikit-sample-cli (npm)", "datePublished": "2025-08-08T19:55:35", "dateUpdated": "2025-08-29T06:43:17", "baseScore": 0.0, "aliases": ["MAL-2025-6853"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115068", "enisaUuid": "717f9b08-d7f3-34a4-8865-41c176084671", "description": "Malicious code in config-terser-webpack-plugin-husky-eleventy (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141041"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

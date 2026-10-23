@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161705", "enisaUuid": "5ee1d169-ec1d-3bcf-81f5-d7bdba5ba3c1", "description": "Malicious code in cluster-transpile-java-simple-balance (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17206"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

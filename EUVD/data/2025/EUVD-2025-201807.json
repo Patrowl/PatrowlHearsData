@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-201807", "enisaUuid": "86c90a2f-459f-3213-aed2-9f7a3ff76e3c", "description": "Malicious code in shop-api-sdk (npm)", "datePublished": "2025-12-08T19:09:22", "dateUpdated": "2025-12-11T09:27:50", "baseScore": 0.0, "aliases": ["MAL-2025-192378"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

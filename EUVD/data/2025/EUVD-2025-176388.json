@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176388", "enisaUuid": "a6476ff1-0937-311c-980b-a7aaa5af5912", "description": "Malicious code in sigma-compile-simulate-integer-bash (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189487"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

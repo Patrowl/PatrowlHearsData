@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122996", "enisaUuid": "4633abb0-6723-3a8b-aef5-4c0a33d454bb", "description": "Malicious code in quark-html-webpack-plugin-farout-pm2 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146926"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

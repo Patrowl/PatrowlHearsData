@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187696", "enisaUuid": "b2b9cade-9dd6-3af7-9fbe-a339b3a1b527", "description": "Malicious code in updatewp (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37908"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

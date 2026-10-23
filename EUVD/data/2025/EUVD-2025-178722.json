@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178722", "enisaUuid": "c03ffe93-4d92-3a26-bd7d-4f677343bb8a", "description": "Malicious code in geodynamo-biosignature-crust-mongodb (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187160"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167746", "enisaUuid": "546e5c7c-dae2-3b9d-b3d6-54fade5e762b", "description": "Malicious code in init-enceladus-magnetosphere-registry (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23228"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

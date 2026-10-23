@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112491", "enisaUuid": "d6d54e1b-a080-396f-8c4f-b74c40bfc9bb", "description": "Malicious code in init-gulp-eslint-config-thuban (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143622"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175733", "enisaUuid": "da293aaa-390b-3c07-9c8f-6846db89caa7", "description": "Malicious code in version-dactyl-npm-colors (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190142"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183799", "enisaUuid": "e6ff52be-2e50-3903-bb54-58c530825e11", "description": "Malicious code in stratosphere-meteor-testcafe-pulsar (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34014"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

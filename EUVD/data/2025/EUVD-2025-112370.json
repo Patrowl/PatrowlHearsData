@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112370", "enisaUuid": "19a39b4b-a835-351a-8b2a-74fecab44ac7", "description": "Malicious code in iota-terser-webpack-plugin-grus-izar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143743"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

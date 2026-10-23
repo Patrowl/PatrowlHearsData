@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191855", "enisaUuid": "b26adc49-f839-3326-96c3-ec0b2ce8195a", "description": "Malicious code in tailwindcss-animate-ui (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-42095"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

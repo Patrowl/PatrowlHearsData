@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113387", "enisaUuid": "817a38b8-9a1a-3504-9bd0-66808b56e8cf", "description": "Malicious code in fusion-cache-nightwatch-csrf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142725"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

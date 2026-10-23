@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115979", "enisaUuid": "bad89add-7f16-3486-92b1-8642c13b9619", "description": "Malicious code in bootstrap-terser-webpack-plugin-winston-link (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140123"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

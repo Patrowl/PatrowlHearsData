@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-78042", "enisaUuid": "4806b7ec-67d5-33d2-8834-96f00bb78e0d", "description": "Malicious code in underlying_quokka_z3n (npm)", "datePublished": "2025-11-11T07:31:13", "dateUpdated": "2025-11-11T07:31:13", "baseScore": 0.0, "aliases": ["MAL-2025-110065"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113463", "enisaUuid": "99ed91c0-8b95-3bc1-b907-b322cf3dcd85", "description": "Malicious code in fornax-radiant-buffer-sequelize (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142649"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

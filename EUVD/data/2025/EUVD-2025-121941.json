@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121941", "enisaUuid": "e997c575-7a88-3588-98f5-93db9abc7432", "description": "Malicious code in slides-css-loader-callisto-server (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147984"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

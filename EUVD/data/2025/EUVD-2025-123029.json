@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123029", "enisaUuid": "88a09d62-8fb8-39b2-88f3-64f53087cae6", "description": "Malicious code in pyxis-webdriver-manager-colors-cluster (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146893"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122375", "enisaUuid": "5939f396-b41b-3cf9-9792-153dc8903aac", "description": "Malicious code in run-script-metalsmith-init-commitlint-config-angular (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147547"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

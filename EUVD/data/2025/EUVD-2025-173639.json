@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173639", "enisaUuid": "f4d2f86e-7e40-3043-8a0f-0cb386eb44ca", "description": "Malicious code in pgpsharp (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29110"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126873", "enisaUuid": "6a6174ae-cef2-3e09-ba9c-37d8d3b933ba", "description": "Malicious code in internal-utils-bronxi (npm)", "datePublished": "2025-04-05T00:01:01", "dateUpdated": "2025-04-05T00:50:03", "baseScore": 0.0, "aliases": ["MAL-2025-3132"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

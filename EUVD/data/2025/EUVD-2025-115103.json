@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115103", "enisaUuid": "a15bfbbd-8a10-3089-aff2-fccf76a4d590", "description": "Malicious code in concurrently-fusion-init-izar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141006"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

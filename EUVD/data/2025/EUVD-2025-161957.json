@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161957", "enisaUuid": "8e391ee7-98d9-3d81-a46b-0507dc7b2af2", "description": "Malicious code in compress-decrypt-load-kernel-delta (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17458"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

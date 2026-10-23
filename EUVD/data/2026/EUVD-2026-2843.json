@@ -1,0 +1,1 @@
+{"id": "EUVD-2026-2843", "enisaUuid": "1d71271b-ed5d-3e6b-9a12-b274b6b0feae", "description": "Malicious code in wac-relay-runtime (npm)", "datePublished": "2026-01-10T10:00:59", "dateUpdated": "2026-01-15T22:09:23", "baseScore": 0.0, "aliases": ["MAL-2026-202"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

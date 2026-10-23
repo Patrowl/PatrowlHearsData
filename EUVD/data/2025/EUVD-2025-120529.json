@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120529", "enisaUuid": "db9569ac-0a2f-32da-aaa8-2422c61687f9", "description": "Malicious code in webpack-kaus-flare-rehype (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149400"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

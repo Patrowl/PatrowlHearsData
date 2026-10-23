@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130640", "enisaUuid": "0916db97-9f1a-3f96-b8dc-7f31fa96dcaa", "description": "Malicious code in com.microsoft.mrtk.graphicstools.shadergraph.unity (npm)", "datePublished": "2025-08-13T08:32:56", "dateUpdated": "2025-08-13T08:32:56", "baseScore": 0.0, "aliases": ["MAL-2025-6918"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

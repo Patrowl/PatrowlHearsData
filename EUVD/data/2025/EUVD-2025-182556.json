@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182556", "enisaUuid": "0cd29746-c5eb-37a1-8f5b-aca46837be68", "description": "Malicious code in scale-route-bash-lambda-class (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32771"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

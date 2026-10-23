@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121154", "enisaUuid": "f3000920-29ea-3ef7-85eb-9fcd9a05aa9b", "description": "Malicious code in transform-start-halley-cassini (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148774"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

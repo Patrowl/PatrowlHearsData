@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184124", "enisaUuid": "743af178-59f7-398b-b7c0-1c3e7e84d482", "description": "Malicious code in syngenio_licensecheck (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34340"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

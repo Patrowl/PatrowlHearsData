@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122537", "enisaUuid": "146eae8e-a4ac-35be-b127-8e82d9c985ae", "description": "Malicious code in restart-lynx-meissa-superagent (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147385"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113370", "enisaUuid": "a7ea91da-6021-3db4-b6d1-e6ac42cbb287", "description": "Malicious code in fusion-non-blocking-hugo-commitlint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142742"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

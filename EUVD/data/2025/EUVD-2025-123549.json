@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123549", "enisaUuid": "ade30bf7-c3b9-3ce9-9ffe-c24812a80154", "description": "Malicious code in polaris-stop-build-async (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146372"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

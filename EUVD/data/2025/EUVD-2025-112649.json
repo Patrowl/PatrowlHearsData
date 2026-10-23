@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112649", "enisaUuid": "f7d8311a-3140-37d0-9212-787e217783c8", "description": "Malicious code in hyperion-aldebaran-node-config-cross-env (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143463"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

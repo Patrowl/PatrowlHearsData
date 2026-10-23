@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161618", "enisaUuid": "a8716deb-263e-3082-9b93-85c477dee60d", "description": "Malicious code in cli-support (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17118"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

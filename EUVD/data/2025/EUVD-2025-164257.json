@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164257", "enisaUuid": "4c8b1d8b-0e09-38b7-a169-4b978fd696e9", "description": "Malicious code in equinox-betelgeuse-postcss-loader-playwright (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19736"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

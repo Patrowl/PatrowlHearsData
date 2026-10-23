@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121177", "enisaUuid": "51c82503-8dcb-3793-aef6-3681ed033877", "description": "Malicious code in tool-rocket-impulse-dotenv (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148751"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

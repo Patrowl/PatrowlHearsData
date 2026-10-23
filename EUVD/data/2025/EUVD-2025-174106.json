@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174106", "enisaUuid": "b4f8aeff-60c1-3d6c-b773-dde11d12ef65", "description": "Malicious code in pr-lint-action (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29577"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

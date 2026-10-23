@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121723", "enisaUuid": "e43bfd7e-8972-3ac3-bda4-5fc5de14f83f", "description": "Malicious code in spinner-meteor-cross-env-ini (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148202"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

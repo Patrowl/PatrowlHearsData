@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123282", "enisaUuid": "900a9ff2-17f5-33c3-ad0c-695bd261517d", "description": "Malicious code in promise-global-wolf-arcturus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146640"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

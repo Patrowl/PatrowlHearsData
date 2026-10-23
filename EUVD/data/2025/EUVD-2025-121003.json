@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121003", "enisaUuid": "16423e1a-38e9-30d7-b715-9d611fbac842", "description": "Malicious code in umbra-mutation-morgan-async (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148925"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

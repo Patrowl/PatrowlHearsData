@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177149", "enisaUuid": "709930f6-0d37-3a61-8db0-3c838bc378fe", "description": "Malicious code in pipe-simple-virtualize-void-stack (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188726"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

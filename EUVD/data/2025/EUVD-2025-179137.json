@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179137", "enisaUuid": "0cd53402-c208-30b3-a3e6-44fdee0f3fb2", "description": "Malicious code in encrypt-meta-authenticate-log-string (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186745"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

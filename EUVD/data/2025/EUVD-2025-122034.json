@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122034", "enisaUuid": "c1b1731c-86b5-3b09-8494-3c553355fbd9", "description": "Malicious code in server-apollo-markdown-install (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147889"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

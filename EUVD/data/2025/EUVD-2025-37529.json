@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37529", "enisaUuid": "c847a6c0-29e9-3c60-9fa2-14d1377d067c", "description": "Malicious code in stark-recurser (npm)", "datePublished": "2025-11-02T19:50:26", "dateUpdated": "2025-11-03T19:06:19", "baseScore": 0.0, "aliases": ["MAL-2025-49318"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

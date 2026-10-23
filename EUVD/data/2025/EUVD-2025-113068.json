@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113068", "enisaUuid": "fcb16296-40ff-39ac-86a4-c21b66ea2df4", "description": "Malicious code in gridsome-hapi-comet-jovian (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143044"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168825", "enisaUuid": "81eb1d41-9555-3570-8c9b-ece9b4bec1c4", "description": "Malicious code in kapsel-plugin-i18n (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24307"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

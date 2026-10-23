@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112842", "enisaUuid": "a090cafd-8f37-3d46-a7e7-83652c407719", "description": "Malicious code in hercules-async-sync-less-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143270"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

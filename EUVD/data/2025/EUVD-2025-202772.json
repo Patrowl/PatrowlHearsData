@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-202772", "enisaUuid": "d4939867-ece4-34ff-88ff-718dbd5d0b68", "description": "Malicious code in elf-stats-tinsel-cookiejar-315 (npm)", "datePublished": "2025-12-11T19:46:09", "dateUpdated": "2025-12-11T19:46:09", "baseScore": 0.0, "aliases": ["MAL-2025-192537"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

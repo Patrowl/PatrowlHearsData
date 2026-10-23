@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115869", "enisaUuid": "48fa41c5-05fd-3e58-8321-ee6dcc6cb053", "description": "Malicious code in bulma-webdriver-mocha-chariklo-graphql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140235"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

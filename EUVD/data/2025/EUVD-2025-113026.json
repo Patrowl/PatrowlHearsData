@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113026", "enisaUuid": "e7134cd7-a52f-3e7b-a00c-334a02e650e7", "description": "Malicious code in grus-carina-dorado-typeorm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143086"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

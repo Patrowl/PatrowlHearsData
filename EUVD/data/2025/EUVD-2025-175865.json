@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175865", "enisaUuid": "1e04534b-5b0b-35bf-b556-782f165d6751", "description": "Malicious code in try-import-fork-socket-beta (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190010"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

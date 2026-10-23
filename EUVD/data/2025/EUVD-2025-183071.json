@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183071", "enisaUuid": "26e7a225-69c0-3a21-a84d-e919b0c3ac5b", "description": "Malicious code in simulate-omicron-async-socket-simple (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33286"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

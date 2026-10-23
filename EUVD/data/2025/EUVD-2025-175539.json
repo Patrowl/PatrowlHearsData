@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175539", "enisaUuid": "c949374b-4b67-39ee-9425-f10eb7be43ea", "description": "Malicious code in winston-neutrino-commitlint-tachyon (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190337"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

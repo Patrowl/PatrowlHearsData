@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153770", "enisaUuid": "435b974c-357a-3e44-ada6-bc96cd053e94", "description": "Malicious code in @roosterbank/shared-utils (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9269"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

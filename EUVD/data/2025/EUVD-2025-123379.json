@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123379", "enisaUuid": "7679ae9b-8e4f-32e4-bd72-e9d7fcb4574b", "description": "Malicious code in private-slides-postgres-blitz (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146543"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

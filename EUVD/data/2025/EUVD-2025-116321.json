@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116321", "enisaUuid": "152b84d6-b2fc-334b-b2cf-c9677d644226", "description": "Malicious code in avior-redis-tethys-miranda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139781"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-38413", "enisaUuid": "44566507-e1ec-34dc-9d8c-5f4033ef0977", "description": "Malicious code in jenkinslogger (npm)", "datePublished": "2025-11-09T00:17:09", "dateUpdated": "2025-11-09T00:17:09", "baseScore": 0.0, "aliases": ["MAL-2025-49417"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

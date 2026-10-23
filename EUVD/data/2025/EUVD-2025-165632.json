@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165632", "enisaUuid": "34e57ef8-3495-346c-8f0d-557c6c493687", "description": "Malicious code in gacrux-start-mesosphere-vuepress (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21113"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179367", "enisaUuid": "bbd87339-81f5-3fca-ab46-e7a7f6a6d10d", "description": "Malicious code in deimos-hermes-quantum-venus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186515"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

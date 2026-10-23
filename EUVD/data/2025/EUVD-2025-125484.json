@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125484", "enisaUuid": "d365c919-002a-36af-8b93-2e792ac4f016", "description": "Malicious code in bookingcom-gateway (npm)", "datePublished": "2025-03-03T13:20:26", "dateUpdated": "2025-03-03T13:20:26", "baseScore": 0.0, "aliases": ["MAL-2025-1741"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

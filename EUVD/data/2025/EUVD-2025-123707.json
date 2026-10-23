@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123707", "enisaUuid": "1854d2f0-232d-38f5-bd31-c1cc0f3c507e", "description": "Malicious code in pino-cypress-nova-commitizen (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146214"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

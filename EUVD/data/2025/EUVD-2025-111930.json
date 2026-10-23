@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111930", "enisaUuid": "a4dd3b9d-b3e9-31d7-b6a8-b3c7916dac22", "description": "Malicious code in kinetic-redis-less-loader-jekyll (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144183"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123531", "enisaUuid": "4e090420-faca-3501-8e7d-ee54bab09118", "description": "Malicious code in postcss-loader-commitizen-foundation-xenos (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146390"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

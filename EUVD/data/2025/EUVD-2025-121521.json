@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121521", "enisaUuid": "b74334c6-e8f2-3901-80ad-fede2e01636e", "description": "Malicious code in supervisor-superagent-helmet-nuxtjs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148405"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

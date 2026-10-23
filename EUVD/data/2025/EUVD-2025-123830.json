@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123830", "enisaUuid": "487d5545-edb1-3f82-80e8-34fb0d182d6f", "description": "Malicious code in perseus-kinetic-mongodb-dependencies (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146091"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

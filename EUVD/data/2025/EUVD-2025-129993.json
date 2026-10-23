@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129993", "enisaUuid": "25e97a18-adfe-38a2-b9d8-a1fe9f0d9a94", "description": "Malicious code in @teamstelemetry/shared-logger (npm)", "datePublished": "2025-07-25T19:50:09", "dateUpdated": "2025-07-25T19:50:09", "baseScore": 0.0, "aliases": ["MAL-2025-6266"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

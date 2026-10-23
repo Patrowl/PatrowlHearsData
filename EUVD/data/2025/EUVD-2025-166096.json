@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166096", "enisaUuid": "8cd9e1e0-ad4d-3456-b08b-3392cdf6bd4c", "description": "Malicious code in glob-match (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21577"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

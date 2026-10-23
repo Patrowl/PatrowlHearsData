@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169769", "enisaUuid": "b14f3ec5-fad1-3700-8874-ef5228220066", "description": "Malicious code in libnfc (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25240"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

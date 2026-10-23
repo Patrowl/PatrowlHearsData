@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177656", "enisaUuid": "7b0951ae-18e1-3911-ac4a-6ac728319216", "description": "Malicious code in neptune-redshift-semantic-release-xml (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188226"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

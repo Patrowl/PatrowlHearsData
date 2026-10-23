@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121520", "enisaUuid": "e2d19c18-821d-3e72-9c5a-310772ec6675", "description": "Malicious code in supervisor-ultra-rate-limiter-mira (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148406"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

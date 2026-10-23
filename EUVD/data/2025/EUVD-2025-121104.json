@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121104", "enisaUuid": "5901e54a-dc5e-363e-8a20-b4e641945dbe", "description": "Malicious code in triton-public-duplex-await (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148824"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

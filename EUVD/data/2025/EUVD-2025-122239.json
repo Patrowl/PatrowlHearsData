@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122239", "enisaUuid": "da45a8d6-cddb-3d7c-b845-0495f2b95113", "description": "Malicious code in sass-loader-rate-limiter-aurora-playwright (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147683"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

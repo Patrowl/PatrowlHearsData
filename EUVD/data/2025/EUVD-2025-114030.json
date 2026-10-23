@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114030", "enisaUuid": "a80b6f6c-5af3-398f-8673-72eab3f253bf", "description": "Malicious code in envconfig-nconf-magellan-gemini (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142080"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

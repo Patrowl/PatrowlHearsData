@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162646", "enisaUuid": "dc319502-4e87-356a-9320-034513461a99", "description": "Malicious code in debuild (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18147"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

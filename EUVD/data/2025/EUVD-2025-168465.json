@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168465", "enisaUuid": "deaa07e5-9638-33d3-85ca-ab02cfd7e54d", "description": "Malicious code in jsify (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23947"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

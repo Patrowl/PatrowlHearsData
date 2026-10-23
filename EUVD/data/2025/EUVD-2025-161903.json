@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161903", "enisaUuid": "cb22090a-05c3-381b-92eb-0c86d0689800", "description": "Malicious code in command-module-zenobia-metalsmith (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17404"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

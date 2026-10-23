@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165721", "enisaUuid": "beac86c3-b9b8-36ba-ab6e-8da93cfff296", "description": "Malicious code in gateway-query-parser (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21202"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

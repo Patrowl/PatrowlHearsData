@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121713", "enisaUuid": "1221c069-30e6-3ffa-8622-e96479f446f9", "description": "Malicious code in spinner-triton-nestjs-mysql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148212"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

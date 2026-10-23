@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113919", "enisaUuid": "69185882-963b-300b-8ce8-137fced89e59", "description": "Malicious code in eslint-config-bellatrix-protractor-procyon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142191"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-206172", "enisaUuid": "7c322ba0-8b32-3ebb-81ac-06a1cbc85330", "description": "Malicious code in resethp (npm)", "datePublished": "2025-12-23T08:28:15", "dateUpdated": "2026-01-02T21:37:30", "baseScore": 0.0, "aliases": ["MAL-2025-192858"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

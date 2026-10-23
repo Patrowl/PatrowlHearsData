@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162099", "enisaUuid": "3aae514d-77a5-3d10-a9c3-8448529d0d6c", "description": "Malicious code in corvus-ariel-non-blocking-webdriver-mocha (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17600"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170833", "enisaUuid": "61951c1e-af77-37db-bd56-da391f93527e", "description": "Malicious code in midi-instrument (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26304"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

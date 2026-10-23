@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125590", "enisaUuid": "80fd955e-f394-3822-818a-4222051db48b", "description": "Malicious code in ingest-demo (npm)", "datePublished": "2025-03-03T13:29:25", "dateUpdated": "2025-03-03T13:29:25", "baseScore": 0.0, "aliases": ["MAL-2025-1848"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

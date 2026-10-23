@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180591", "enisaUuid": "cc83631d-6805-3201-99ec-3b1fb2102c02", "description": "Malicious code in proxy-compile-private-tau-grep (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-30786"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

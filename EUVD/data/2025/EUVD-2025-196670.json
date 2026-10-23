@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196670", "enisaUuid": "80e829f2-353e-3b78-87ee-b423198c7789", "description": "Malicious code in monolith-twirp-trusttiers-trusttier (RubyGems)", "datePublished": "2025-09-01T09:50:42", "dateUpdated": "2025-09-01T09:50:42", "baseScore": 0.0, "aliases": ["MAL-2025-46918"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

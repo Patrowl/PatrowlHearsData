@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114353", "enisaUuid": "5b3d932a-7a1b-3607-96e1-3b33a17cbc3e", "description": "Malicious code in dotenv-safe-izar-gatsby-dotenv-parse-variables (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141756"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

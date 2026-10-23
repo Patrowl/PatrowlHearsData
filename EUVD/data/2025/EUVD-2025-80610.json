@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80610", "enisaUuid": "e397f214-10e5-3795-96ff-f1d03c66a8e3", "description": "Malicious code in sensitive_condor_dumbs (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-108542"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

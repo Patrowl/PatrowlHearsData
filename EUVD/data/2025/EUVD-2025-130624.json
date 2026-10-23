@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130624", "enisaUuid": "5db7b898-8799-39b5-be9b-5d5115af5cce", "description": "Malicious code in @goes-funky/y42-vscode (npm)", "datePublished": "2025-08-14T19:23:44", "dateUpdated": "2025-08-29T06:43:15", "baseScore": 0.0, "aliases": ["MAL-2025-6902"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

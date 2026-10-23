@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181956", "enisaUuid": "fc7b193f-6a7a-35c5-bdb4-bcbb518c507c", "description": "Malicious code in retfee3 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32171"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

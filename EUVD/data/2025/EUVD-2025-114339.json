@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114339", "enisaUuid": "e2e174b9-5dd6-3a54-9ef4-a8a63562a4da", "description": "Malicious code in dotenv-safe-postcss-loader-taurus-webpack (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141770"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

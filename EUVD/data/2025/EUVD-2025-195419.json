@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195419", "enisaUuid": "74a4c382-645f-362b-888a-75c09c4e0fac", "description": "Malicious code in pyxis-link-express-prettier (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45667"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

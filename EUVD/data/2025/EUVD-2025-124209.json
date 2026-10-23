@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124209", "enisaUuid": "22d33773-d54d-3c99-a38d-548293cf7858", "description": "Malicious code in nuxtjs-redis-fork-mutation (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145712"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124321", "enisaUuid": "2f32a104-6d30-3bf1-94c3-a5f75327c83b", "description": "Malicious code in non-blocking-antares-configstore-dorado (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145600"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

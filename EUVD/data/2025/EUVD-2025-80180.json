@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80180", "enisaUuid": "282687c2-346e-30eb-81b1-2090cd1f7f53", "description": "Malicious code in unnecessary_leech_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-110164"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

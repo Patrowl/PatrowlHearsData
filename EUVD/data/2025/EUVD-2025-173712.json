@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173712", "enisaUuid": "6fbb6d7b-0683-3b44-aaee-61443a3c0b96", "description": "Malicious code in phpcov (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-29T06:43:17", "baseScore": 0.0, "aliases": ["MAL-2025-29183"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

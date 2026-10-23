@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115309", "enisaUuid": "f3a02362-905d-3a50-b1a8-8b26d60282b2", "description": "Malicious code in cli-geckodriver-sirius-winston (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140799"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

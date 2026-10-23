@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180048", "enisaUuid": "8b9ab546-0515-3bb5-9c24-048acce1eb1f", "description": "Malicious code in biosignature-spawn-slidev-envconfig (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185834"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

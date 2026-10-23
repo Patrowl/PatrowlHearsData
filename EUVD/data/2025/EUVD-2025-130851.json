@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130851", "enisaUuid": "ef8780f5-cb4a-3586-b2dc-43e39c61ecd7", "description": "Malicious code in @clickhouse-team/clickhouse-backups-plugin (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7129"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

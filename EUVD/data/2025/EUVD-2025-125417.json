@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125417", "enisaUuid": "469297c6-7ab7-3161-9696-86966674be6e", "description": "Malicious code in dependencies-poc (npm)", "datePublished": "2025-03-03T08:40:54", "dateUpdated": "2025-03-31T07:07:49", "baseScore": 0.0, "aliases": ["MAL-2025-1673"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

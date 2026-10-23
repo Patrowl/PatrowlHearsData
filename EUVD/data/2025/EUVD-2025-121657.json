@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121657", "enisaUuid": "d5170298-f697-3270-a12f-4959fb0acc47", "description": "Malicious code in start-cosmos-soap-style-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148268"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176212", "enisaUuid": "d269dea0-45e1-31f3-bfb1-28dcd268067e", "description": "Malicious code in static-transpile-sanitize-emulate-parse (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189663"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

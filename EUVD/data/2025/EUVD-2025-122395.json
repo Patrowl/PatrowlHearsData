@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122395", "enisaUuid": "323f9b77-aee7-39e2-ab96-b4f9fe9768e4", "description": "Malicious code in rollup-plugin-xanthus-loglevel-dagda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147527"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

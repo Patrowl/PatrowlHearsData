@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-104236", "enisaUuid": "0ad17a66-e72c-3c88-81c3-83f52c778861", "description": "Malicious code in legitimate_octopus_z3n (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-128169"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

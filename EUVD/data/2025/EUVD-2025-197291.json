@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197291", "enisaUuid": "e04ae192-fc90-3506-8d80-61d973b00354", "description": "Malicious code in autobahn-testsuite-docker (npm)", "datePublished": "2025-09-26T04:50:29", "dateUpdated": "2025-09-26T04:50:29", "baseScore": 0.0, "aliases": ["MAL-2025-47844"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

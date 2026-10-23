@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193428", "enisaUuid": "1baf4f8a-bb34-3186-b87e-91a91d8a1645", "description": "Malicious code in bulma-csrf-polaris-terser (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43675"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

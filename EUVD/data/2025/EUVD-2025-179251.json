@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179251", "enisaUuid": "88efbce5-331d-3ac5-bb84-3f4067d38042", "description": "Malicious code in double-decode-encrypt-cache-bundle (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186631"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

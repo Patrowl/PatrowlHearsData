@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177531", "enisaUuid": "d897364e-dbe3-34e7-9dde-6f024ae1142d", "description": "Malicious code in nova-astro-playwright-mira (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188351"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

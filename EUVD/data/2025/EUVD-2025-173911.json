@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173911", "enisaUuid": "69533e36-bebb-3a53-b908-35ddb2e7fc87", "description": "Malicious code in playapi.engines (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29382"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

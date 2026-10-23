@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115246", "enisaUuid": "78a3307d-849b-34ba-ae11-c20198f33824", "description": "Malicious code in colors-registry-bootes-redis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140862"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

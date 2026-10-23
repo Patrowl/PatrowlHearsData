@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37530", "enisaUuid": "cf46264e-71fa-3f70-86cc-4287bfa6ffed", "description": "Malicious code in solc_0.5.3 (npm)", "datePublished": "2025-11-02T19:55:04", "dateUpdated": "2025-11-03T19:06:19", "baseScore": 0.0, "aliases": ["MAL-2025-49317"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

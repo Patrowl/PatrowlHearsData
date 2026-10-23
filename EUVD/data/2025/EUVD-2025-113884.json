@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113884", "enisaUuid": "394296df-f825-3d8e-b092-18a37ad9a7f3", "description": "Malicious code in eslint-plugin-capella-pm2-antares (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142226"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

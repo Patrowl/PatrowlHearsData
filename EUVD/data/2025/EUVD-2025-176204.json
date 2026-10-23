@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176204", "enisaUuid": "a18d7737-b64c-3699-86bc-c7342e9d0bc7", "description": "Malicious code in stop-chalk-build-less-loader (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189671"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113343", "enisaUuid": "23ec45dd-942e-3203-87f5-d5f0493acfef", "description": "Malicious code in gacrux-halley-sagitta-mysql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142769"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

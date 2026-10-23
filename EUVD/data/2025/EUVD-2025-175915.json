@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175915", "enisaUuid": "38da6aae-c116-3305-ade7-85c904b4ca49", "description": "Malicious code in tool-webdriver-mocha-prettier-axios (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189960"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

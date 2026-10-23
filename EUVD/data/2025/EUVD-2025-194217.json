@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194217", "enisaUuid": "ce8e3c9d-16a0-3543-afba-ef9dc7af15ff", "description": "Malicious code in gravity-exec-geochemistry-jwt (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44464"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

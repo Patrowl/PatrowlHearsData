@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125526", "enisaUuid": "fa3606ec-1369-3740-85ab-d942e823e53b", "description": "Malicious code in dropbox-checkout (npm)", "datePublished": "2025-03-03T13:24:13", "dateUpdated": "2025-03-03T13:24:13", "baseScore": 0.0, "aliases": ["MAL-2025-1783"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

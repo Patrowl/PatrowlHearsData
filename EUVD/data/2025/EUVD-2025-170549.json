@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170549", "enisaUuid": "b692b583-8c8b-3363-b4d9-d9e31c1d95a2", "description": "Malicious code in maven-deps (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26020"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

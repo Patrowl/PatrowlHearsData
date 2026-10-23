@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177504", "enisaUuid": "d67b4341-525a-30bd-8717-ed98daaaa1d3", "description": "Malicious code in oauth-neptunology-lint-server (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188378"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

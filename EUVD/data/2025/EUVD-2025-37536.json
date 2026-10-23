@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37536", "enisaUuid": "003cf3c3-1f87-3c08-b0b6-1f6cb1d91c5a", "description": "Malicious code in balancer-labs-sor-v1 (npm)", "datePublished": "2025-11-02T19:55:56", "dateUpdated": "2025-11-03T19:06:18", "baseScore": 0.0, "aliases": ["MAL-2025-49311"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

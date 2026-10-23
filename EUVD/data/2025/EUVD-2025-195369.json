@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195369", "enisaUuid": "6de0f285-b40d-3924-870f-89170577e20a", "description": "Malicious code in pulsar-quito-cosmiconfig-triton (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45617"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

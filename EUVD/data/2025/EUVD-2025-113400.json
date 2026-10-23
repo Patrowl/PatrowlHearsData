@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113400", "enisaUuid": "40a0b2de-a0f6-3694-809b-f907a9e6edbd", "description": "Malicious code in frontend-nuxtjs-configstore-middleware (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142712"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

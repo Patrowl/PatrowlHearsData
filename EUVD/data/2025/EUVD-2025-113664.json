@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113664", "enisaUuid": "69d444e7-9cd7-31bd-853b-f96d2a7e61f7", "description": "Malicious code in fetch-husky-slides-sedna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142447"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

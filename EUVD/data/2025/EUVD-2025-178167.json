@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178167", "enisaUuid": "0791f26c-f466-38db-a5c5-46b5013d5785", "description": "Malicious code in lacerta-auth0-callisto-dorado (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187715"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

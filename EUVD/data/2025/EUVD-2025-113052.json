@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113052", "enisaUuid": "59d0ec8a-1d42-3201-94e5-d21979c5fe97", "description": "Malicious code in grunt-electron-pulsar-kinetic (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143060"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

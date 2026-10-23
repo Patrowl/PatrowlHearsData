@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112905", "enisaUuid": "03ff6f3a-c165-32ea-b094-2e266ead340c", "description": "Malicious code in heka-lint-pulsar-install (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143207"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

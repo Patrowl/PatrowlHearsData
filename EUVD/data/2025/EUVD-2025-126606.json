@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126606", "enisaUuid": "0c7d8c84-187e-336e-ad00-e3487fb28270", "description": "Malicious code in cf-middleware-set-header (npm)", "datePublished": "2025-03-28T12:41:44", "dateUpdated": "2025-03-28T12:41:44", "baseScore": 0.0, "aliases": ["MAL-2025-2865"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

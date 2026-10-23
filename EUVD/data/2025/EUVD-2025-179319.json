@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179319", "enisaUuid": "22257ec9-bdd6-3adb-aabd-01d3e5e01bed", "description": "Malicious code in deserialize-double-simulate-interpret-tau (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186563"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

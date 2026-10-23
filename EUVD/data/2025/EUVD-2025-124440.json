@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124440", "enisaUuid": "d55707ee-f405-3327-b8fd-d6d9fb6fa97d", "description": "Malicious code in nightwatch-postgres-forever-gemini (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145481"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-186917", "enisaUuid": "2378460c-e13d-3579-a852-944304f05265", "description": "Malicious code in trace-log-builder (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37127"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

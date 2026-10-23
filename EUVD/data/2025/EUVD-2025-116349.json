@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116349", "enisaUuid": "66b4193e-aa78-3655-a755-243cfeaaaddd", "description": "Malicious code in auth0-mutation-websockets-ophiuchus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139753"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

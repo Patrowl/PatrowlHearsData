@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172007", "enisaUuid": "40110f16-8ec9-30c4-8efa-150d8bcaf320", "description": "Malicious code in nggeolocation (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27478"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

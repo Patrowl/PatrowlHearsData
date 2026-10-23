@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77348", "enisaUuid": "dff1c23b-0bda-3cde-9749-1cfc68349cd2", "description": "Malicious code in chosen_antelope-strongdev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-100388"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

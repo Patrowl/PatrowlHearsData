@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112151", "enisaUuid": "fd6a4fb5-86a2-3d41-b8cc-bb57a1c0c15d", "description": "Malicious code in json-algol-antares-mutation (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143962"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

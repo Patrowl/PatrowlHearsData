@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176834", "enisaUuid": "d6bd7778-a11a-3842-b835-df7dd1fda8fc", "description": "Malicious code in query-relay-tethys-got (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189041"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

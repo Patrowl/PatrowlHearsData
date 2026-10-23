@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121563", "enisaUuid": "ac39497b-9a5f-3962-b623-9bf987e87bfb", "description": "Malicious code in subscription-non-blocking-auth0-wolf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148363"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128742", "enisaUuid": "35ada65f-ccd4-3ffe-9b7b-58745687de8f", "description": "Malicious code in globalloadercontroller (npm)", "datePublished": "2025-06-17T16:55:54", "dateUpdated": "2025-06-17T16:55:54", "baseScore": 0.0, "aliases": ["MAL-2025-5010"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128703", "enisaUuid": "49a44651-19dd-34e9-bfb8-4272e05a6d7c", "description": "Malicious code in @glofe/bootstrap (npm)", "datePublished": "2025-06-15T16:55:08", "dateUpdated": "2025-06-18T01:11:33", "baseScore": 0.0, "aliases": ["MAL-2025-4971"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

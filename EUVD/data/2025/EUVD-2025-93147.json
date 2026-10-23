@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-93147", "enisaUuid": "5feceb36-0139-35b4-a4f7-5f4b7c259fbb", "description": "Malicious code in atomic_bug_z3n (npm)", "datePublished": "2025-11-11T15:19:32", "dateUpdated": "2025-11-11T15:19:32", "baseScore": 0.0, "aliases": ["MAL-2025-112737"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122347", "enisaUuid": "99afa7eb-a677-3856-8a1a-2170fc36e3a9", "description": "Malicious code in sadr-query-phoenix-configstore (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147575"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122536", "enisaUuid": "3c90f560-9b6c-399c-9406-9ed326288301", "description": "Malicious code in restart-mui-nashira-playwright (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147386"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

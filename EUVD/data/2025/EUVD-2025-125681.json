@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125681", "enisaUuid": "9fb835d3-55da-3603-92dc-f4d2ef85fbbb", "description": "Malicious code in secure-install-package (npm)", "datePublished": "2025-03-03T13:39:14", "dateUpdated": "2025-03-03T13:39:14", "baseScore": 0.0, "aliases": ["MAL-2025-1939"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

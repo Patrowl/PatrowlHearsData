@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121297", "enisaUuid": "1a5240a0-76da-34c1-9e63-d7f88a922949", "description": "Malicious code in tethys-proxima-json-wolf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148631"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

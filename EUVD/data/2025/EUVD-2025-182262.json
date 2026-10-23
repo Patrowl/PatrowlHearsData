@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182262", "enisaUuid": "5951135e-09bf-3663-9ecf-5a883dc21e56", "description": "Malicious code in route-theta-sanitize-iota-await (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32477"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

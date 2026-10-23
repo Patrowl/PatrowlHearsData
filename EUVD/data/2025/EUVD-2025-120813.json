@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120813", "enisaUuid": "4c850fff-8c8e-332b-8e57-ec98ca2e07b1", "description": "Malicious code in venus-mocha-start-figures (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149116"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

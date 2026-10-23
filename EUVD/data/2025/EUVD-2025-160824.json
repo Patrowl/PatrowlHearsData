@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160824", "enisaUuid": "183bf41a-2f7c-36dc-9ded-e39a97ef16c2", "description": "Malicious code in build-extremophile-hermes-mysql (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16323"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111381", "enisaUuid": "affb25c1-cfbd-3647-ab33-c0f0ee9d5967", "description": "Malicious code in materialize-await-equinox-parcel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144734"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

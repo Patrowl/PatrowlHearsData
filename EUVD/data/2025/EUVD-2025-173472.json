@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173472", "enisaUuid": "c7a33b0b-a2e2-3041-b843-5d720c3e1687", "description": "Malicious code in payment-methods-component (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28943"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

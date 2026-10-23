@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114177", "enisaUuid": "a6dcbfc9-70b9-309e-b44f-f3eab8877830", "description": "Malicious code in electron-soap-magellan-heka (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141933"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

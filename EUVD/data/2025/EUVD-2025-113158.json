@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113158", "enisaUuid": "5a7f316e-248d-3c61-b231-7317f42b2064", "description": "Malicious code in global-zenith-child-process-await (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142954"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

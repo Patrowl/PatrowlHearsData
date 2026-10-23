@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121924", "enisaUuid": "45f53997-8567-3a20-8cdf-fd0d165803d8", "description": "Malicious code in slidev-config-prettier-plugin-markdown-start (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148001"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

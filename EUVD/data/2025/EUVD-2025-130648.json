@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130648", "enisaUuid": "4abdc795-32d4-32fe-826a-c540d7585d94", "description": "Malicious code in epc-node-web-client (npm)", "datePublished": "2025-08-14T19:10:49", "dateUpdated": "2025-08-14T19:10:49", "baseScore": 0.0, "aliases": ["MAL-2025-6926"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

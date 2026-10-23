@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159713", "enisaUuid": "877d8a0e-1ffe-36b1-aa88-acfdb006fd2b", "description": "Malicious code in await-error-runtime-wind-gamma (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15212"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

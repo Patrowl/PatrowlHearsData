@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191175", "enisaUuid": "40d4dbb5-fd6a-3e9e-b31a-c7f82c29032a", "description": "Malicious code in ng-tds (npm)", "datePublished": "2025-08-23T17:53:40", "dateUpdated": "2025-08-27T06:08:48", "baseScore": 0.0, "aliases": ["MAL-2025-41398"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

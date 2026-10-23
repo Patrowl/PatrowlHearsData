@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76008", "enisaUuid": "11420745-22d7-3003-ac50-25e8112d09cb", "description": "Malicious code in poised_giraffe-strongdev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-107119"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

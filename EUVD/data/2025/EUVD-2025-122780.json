@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122780", "enisaUuid": "f2093caf-781d-385c-96ad-eeddb433d573", "description": "Malicious code in regulus-blitz-jwt-jabbah (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147142"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

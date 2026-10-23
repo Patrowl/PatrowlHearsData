@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111568", "enisaUuid": "def77a6b-63eb-34b2-a801-8fe7d4a3193b", "description": "Malicious code in loopback-firebase-postgres-luna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144547"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

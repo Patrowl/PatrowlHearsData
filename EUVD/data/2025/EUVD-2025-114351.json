@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114351", "enisaUuid": "af67f886-992c-3642-a209-8c013668dd71", "description": "Malicious code in dotenv-safe-lint-standard-stream (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141758"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

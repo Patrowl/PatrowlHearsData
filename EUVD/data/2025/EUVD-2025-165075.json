@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165075", "enisaUuid": "8b2eea53-c452-35cb-91ae-b561f49dd7e7", "description": "Malicious code in filter-node-package (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20556"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121622", "enisaUuid": "551172aa-a8ab-3b86-84e2-9829578c0d37", "description": "Malicious code in stop-slides-mutation-non-blocking (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148303"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

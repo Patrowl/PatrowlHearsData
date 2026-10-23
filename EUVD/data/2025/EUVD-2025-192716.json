@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-192716", "enisaUuid": "8456c778-c2e0-32d2-b121-aee4c00e12b9", "description": "Malicious code in @tobiasredfield/simple-web-app-package (npm)", "datePublished": "2025-09-05T16:38:20", "dateUpdated": "2025-09-05T16:38:20", "baseScore": 0.0, "aliases": ["MAL-2025-42963"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

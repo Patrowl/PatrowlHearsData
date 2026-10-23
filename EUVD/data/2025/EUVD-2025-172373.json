@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172373", "enisaUuid": "616cfd5e-f9e0-3c29-8e2f-54e1b442fd22", "description": "Malicious code in npm-shasum (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27844"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179307", "enisaUuid": "41242988-a69b-3069-b64c-88727f394aa2", "description": "Malicious code in development-dependencies-cybernetics-cryptography (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186575"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

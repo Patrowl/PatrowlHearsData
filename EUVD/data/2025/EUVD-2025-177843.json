@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177843", "enisaUuid": "65f8b318-8255-38ce-86d8-13f21b08874b", "description": "Malicious code in middleware-exec-callisto-postcss-loader (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188039"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

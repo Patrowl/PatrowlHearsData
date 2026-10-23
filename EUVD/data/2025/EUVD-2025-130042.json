@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130042", "enisaUuid": "8607591a-7fb3-33e8-b489-b5d66f9f2cbc", "description": "Malicious code in teamstelemetry (npm)", "datePublished": "2025-07-23T14:30:14", "dateUpdated": "2025-07-30T09:42:18", "baseScore": 0.0, "aliases": ["MAL-2025-6315"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128783", "enisaUuid": "b5ba893b-3fe9-3654-95ba-bc839e6bcca9", "description": "Malicious code in recoil-handler (npm)", "datePublished": "2025-06-13T01:00:06", "dateUpdated": "2025-06-13T01:00:06", "baseScore": 0.0, "aliases": ["MAL-2025-5054"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

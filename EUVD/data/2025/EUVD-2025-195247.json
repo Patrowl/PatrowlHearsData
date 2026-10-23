@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195247", "enisaUuid": "323eaf76-24da-3869-92c6-35fcea4911bd", "description": "Malicious code in outercore-oberon-library-jwt (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45495"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

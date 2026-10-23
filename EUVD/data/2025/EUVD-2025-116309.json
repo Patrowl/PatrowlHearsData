@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116309", "enisaUuid": "b6dd68f9-04aa-35d8-b01f-a88eebc32054", "description": "Malicious code in await-altair-got-graphql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139793"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

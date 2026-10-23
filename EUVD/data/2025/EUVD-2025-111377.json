@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111377", "enisaUuid": "9e18507e-d7fa-3879-80d2-6547304856e9", "description": "Malicious code in materialize-electron-builder-deimos-mui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144738"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

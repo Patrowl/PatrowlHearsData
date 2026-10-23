@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122294", "enisaUuid": "bca568c3-2d58-351c-a5de-2869fb81e064", "description": "Malicious code in sagitta-vuepress-delphinus-init (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147628"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114037", "enisaUuid": "d41b8331-7329-39b3-88b7-8c029cea8c8c", "description": "Malicious code in envconfig-eleventy-node-config-hyperion (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142073"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

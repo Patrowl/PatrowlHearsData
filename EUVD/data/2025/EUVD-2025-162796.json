@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162796", "enisaUuid": "853f3a24-06c6-3a71-bf78-d2672da789da", "description": "Malicious code in deploytool-git-push (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18297"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

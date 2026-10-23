@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179308", "enisaUuid": "03b3b917-20da-3d06-a3e7-23aa1abfb542", "description": "Malicious code in development-cypress-nebula-spectron (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186574"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

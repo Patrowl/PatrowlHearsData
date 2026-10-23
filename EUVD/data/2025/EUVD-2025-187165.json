@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187165", "enisaUuid": "5936a348-cf58-3c7c-86fc-a96dcbc49392", "description": "Malicious code in truffle-v99 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37236"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

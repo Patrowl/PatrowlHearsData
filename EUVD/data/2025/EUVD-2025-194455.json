@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194455", "enisaUuid": "b89092b3-2c89-3f7d-8aa3-d893a3874bfe", "description": "Malicious code in install-eleventy-cluster-element-ui (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44702"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

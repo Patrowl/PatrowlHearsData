@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164746", "enisaUuid": "f2715c7d-16d0-37df-8ee7-1764f439a81d", "description": "Malicious code in farout-fetch-eslint-config-wolf (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20226"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

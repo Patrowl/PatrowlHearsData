@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122118", "enisaUuid": "59ddf421-0082-3c85-970d-41d8ae6638f3", "description": "Malicious code in selenium-hercules-hapi-pegasus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147805"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

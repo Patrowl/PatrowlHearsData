@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171167", "enisaUuid": "1bdd7592-9951-34c9-ab71-99d0bada78c5", "description": "Malicious code in mongodb-nightmare-private-passport (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26638"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

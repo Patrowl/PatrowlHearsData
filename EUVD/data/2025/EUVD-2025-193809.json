@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193809", "enisaUuid": "aaddd81a-288a-3137-9f0f-408fb353345b", "description": "Malicious code in dotenv-parse-variables-typeorm-spectron-fusion (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44056"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

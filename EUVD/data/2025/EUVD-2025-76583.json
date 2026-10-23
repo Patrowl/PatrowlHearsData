@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76583", "enisaUuid": "edea3f73-b163-3b22-956f-cf8cecb691cc", "description": "Malicious code in inc_hedgehog-appteadev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-104060"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

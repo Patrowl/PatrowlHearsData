@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128352", "enisaUuid": "9a97c28f-b8fd-35d9-85aa-1f68abe8c9f9", "description": "Malicious code in @seo-frontend-components/card-blog-carousel-mobile (npm)", "datePublished": "2025-05-31T15:32:22", "dateUpdated": "2025-06-02T00:27:04", "baseScore": 0.0, "aliases": ["MAL-2025-4620"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

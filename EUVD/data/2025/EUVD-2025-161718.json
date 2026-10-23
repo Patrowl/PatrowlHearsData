@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161718", "enisaUuid": "e9005e09-8365-39ef-878a-6a82e64e10b7", "description": "Malicious code in cmf.mes.datacollection (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17219"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

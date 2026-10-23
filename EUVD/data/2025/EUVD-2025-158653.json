@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-158653", "enisaUuid": "294b13d1-cf92-3360-9a8b-1282dc2d3620", "description": "Malicious code in activeresource-statsd (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14054"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

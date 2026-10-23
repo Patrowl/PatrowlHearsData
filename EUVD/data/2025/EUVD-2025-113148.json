@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113148", "enisaUuid": "ddf14411-8c7d-3ad0-8c63-d25f6a525251", "description": "Malicious code in google-juno-toml-socketio (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142964"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

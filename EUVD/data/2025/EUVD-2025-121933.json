@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121933", "enisaUuid": "7a5d26e5-f556-3b8e-a3cd-f3ed07e0d2fb", "description": "Malicious code in slides-polaris-version-mongodb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147992"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

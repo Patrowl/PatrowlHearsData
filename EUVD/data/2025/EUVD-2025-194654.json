@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194654", "enisaUuid": "d9f6d23f-b005-3423-a23a-0b145d24601d", "description": "Malicious code in kronos-hexo-nodemon-firebase (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44901"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

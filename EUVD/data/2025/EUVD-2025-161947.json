@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161947", "enisaUuid": "ba51f1ee-2199-3e0b-b842-0f10f7b8f8e7", "description": "Malicious code in compile-dog-resolve-java-slow (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17448"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

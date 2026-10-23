@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115984", "enisaUuid": "721daf41-59d4-3ed1-acd5-0c35cff7a0a2", "description": "Malicious code in bootstrap-rate-limiter-prettier-stylelint-transport (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140118"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

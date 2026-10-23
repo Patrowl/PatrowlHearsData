@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130587", "enisaUuid": "cbafcac1-26c9-355d-9414-3aafcefe423e", "description": "Malicious code in azure-documentdb-node (npm)", "datePublished": "2025-08-13T13:59:25", "dateUpdated": "2025-08-17T10:06:30", "baseScore": 0.0, "aliases": ["MAL-2025-6865"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162423", "enisaUuid": "26ca8f89-0a5c-39fb-8e4f-c83a173cce2f", "description": "Malicious code in daemon-cold-wind-meta-kappa (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17924"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

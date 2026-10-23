@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189176", "enisaUuid": "b694116c-f8c1-34d4-b883-61f0ea74f9b0", "description": "Malicious code in wndresize (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39390"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

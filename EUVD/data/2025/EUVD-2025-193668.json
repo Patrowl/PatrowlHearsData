@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193668", "enisaUuid": "cd3afa5d-ebdb-3351-9599-eef5a4fea5b9", "description": "Malicious code in csv-readable-exosphere-style-loader (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43915"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

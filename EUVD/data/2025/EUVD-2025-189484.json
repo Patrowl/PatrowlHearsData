@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189484", "enisaUuid": "3c33029e-8d08-3f64-96ee-8a5f91380472", "description": "Malicious code in xenos-prompts-kaus-child-process (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39698"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

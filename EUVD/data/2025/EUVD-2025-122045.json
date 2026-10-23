@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122045", "enisaUuid": "149b786c-f5ad-3e6a-95aa-09a6cc32b70f", "description": "Malicious code in sequelize-spectron-webdriver-blitz-ursa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147878"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

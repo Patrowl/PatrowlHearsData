@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183661", "enisaUuid": "dc7c5908-20f0-375e-b5ef-5705cb7b4845", "description": "Malicious code in sshove (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33876"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

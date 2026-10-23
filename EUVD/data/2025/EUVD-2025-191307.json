@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191307", "enisaUuid": "0257d20d-efa2-3cc3-918a-f85a3e86cadd", "description": "Malicious code in bsd-ui-stylekit (npm)", "datePublished": "2025-08-28T07:23:31", "dateUpdated": "2025-12-24T10:09:26", "baseScore": 0.0, "aliases": ["MAL-2025-41538"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

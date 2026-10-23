@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123435", "enisaUuid": "196e3f6a-7dd6-30d5-80f0-8f5f277c794b", "description": "Malicious code in prettier-plugin-markdown-mira-rollup-plugin-slides (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146487"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

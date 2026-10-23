@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111453", "enisaUuid": "cc111d7d-80c8-3eae-aae6-ef1cbe31f947", "description": "Malicious code in magellan-sedna-mysql-rimraf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144662"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

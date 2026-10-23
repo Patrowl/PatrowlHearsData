@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160912", "enisaUuid": "2d79653c-2e14-31c0-8b75-4a01fe502b9f", "description": "Malicious code in bz-prsp-database-orm (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16411"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

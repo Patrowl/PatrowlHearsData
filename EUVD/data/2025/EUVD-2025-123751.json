@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123751", "enisaUuid": "ec69039c-fbb7-3a1d-a685-863f141596ca", "description": "Malicious code in phoebe-pipe-repository-spectron (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146170"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176426", "enisaUuid": "e48c72c7-736d-325b-8266-42e49a1b61ef", "description": "Malicious code in serialize-bash-authenticate-execute-cloud (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189449"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

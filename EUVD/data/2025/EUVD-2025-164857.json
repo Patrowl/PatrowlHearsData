@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164857", "enisaUuid": "752a5da4-0006-3a72-94b3-a5b955ad4a9e", "description": "Malicious code in fe-ops-renderizr-client-fallback (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20338"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

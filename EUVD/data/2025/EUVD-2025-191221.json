@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191221", "enisaUuid": "c3c380c3-2746-364c-b482-ed643c0be992", "description": "Malicious code in @revizor/adapter-packages-size (npm)", "datePublished": "2025-08-28T07:14:55", "dateUpdated": "2025-08-28T07:14:55", "baseScore": 0.0, "aliases": ["MAL-2025-41452"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

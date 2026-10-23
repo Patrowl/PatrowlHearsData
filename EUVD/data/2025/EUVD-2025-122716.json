@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122716", "enisaUuid": "0e3dcbf5-bf4b-31b0-baf1-3eadd37e47d2", "description": "Malicious code in relay-nodejs-gulp-proxima (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147206"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

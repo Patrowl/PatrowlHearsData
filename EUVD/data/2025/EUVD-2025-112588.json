@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112588", "enisaUuid": "fcd47501-267a-3c1a-b625-7980c274518f", "description": "Malicious code in ignite-puppeteer-sedna-rimraf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143524"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

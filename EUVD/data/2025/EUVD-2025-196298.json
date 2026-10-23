@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196298", "enisaUuid": "328a7e0e-a1ed-3fcf-9f7b-685801abeb47", "description": "Malicious code in void-stratosphere-polaris-cli (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46546"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

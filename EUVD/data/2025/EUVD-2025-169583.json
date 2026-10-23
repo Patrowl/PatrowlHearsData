@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169583", "enisaUuid": "3262dc04-d8ca-35b9-ad3b-cc217f02a7c6", "description": "Malicious code in leadconduit-zipcodes (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25054"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

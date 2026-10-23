@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115752", "enisaUuid": "7f170de1-1f6a-3fc1-9bb9-df2a9f361c0f", "description": "Malicious code in callisto-winston-socketio-dependencies (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140354"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

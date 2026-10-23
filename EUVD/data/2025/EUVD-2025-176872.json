@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176872", "enisaUuid": "0e5ac7c2-d7a9-3c3c-80c5-d2d11cbbcca9", "description": "Malicious code in quantum-node-config-quito-cosmos (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189003"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

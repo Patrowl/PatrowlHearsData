@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173674", "enisaUuid": "e39a4800-98a9-376c-bf34-09948d9d1623", "description": "Malicious code in phoebe-vega-commitlint-config-angular-lint (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29145"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

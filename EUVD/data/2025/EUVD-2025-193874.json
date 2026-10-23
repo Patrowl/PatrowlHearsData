@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193874", "enisaUuid": "142e49fd-3e95-308e-aabf-1a6f0e1c7b56", "description": "Malicious code in electron-gridsome-nuxtjs-elektra (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44121"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

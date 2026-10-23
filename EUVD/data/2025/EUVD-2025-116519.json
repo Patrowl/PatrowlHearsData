@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116519", "enisaUuid": "f8356399-9da8-31fd-aec4-3f5e40c24672", "description": "Malicious code in ariel-corvus-event-mongoose (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139583"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

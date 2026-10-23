@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122652", "enisaUuid": "0028ab2b-4b06-35ed-87ad-6b0ec049d328", "description": "Malicious code in repository-loglevel-node-config-react-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147270"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

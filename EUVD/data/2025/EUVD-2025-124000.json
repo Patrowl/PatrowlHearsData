@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124000", "enisaUuid": "9b13d03e-5e3d-379c-b4d2-d89e08425d3e", "description": "Malicious code in package-antares-selenium-nebula (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145921"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

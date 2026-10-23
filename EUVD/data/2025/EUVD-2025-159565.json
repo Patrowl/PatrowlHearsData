@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159565", "enisaUuid": "50fb416a-e6d8-3a98-8b80-12e6c09fefe7", "description": "Malicious code in aurora_crdbh_xsrsc_echo (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15064"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

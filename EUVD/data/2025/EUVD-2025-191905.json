@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191905", "enisaUuid": "918f41e7-1bc8-3b0e-a50e-1fbdd4c33602", "description": "Malicious code in file-dependency (npm)", "datePublished": "2025-09-05T05:55:55", "dateUpdated": "2025-09-05T05:55:55", "baseScore": 0.0, "aliases": ["MAL-2025-42147"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

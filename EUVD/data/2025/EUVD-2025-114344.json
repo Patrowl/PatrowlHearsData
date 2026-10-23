@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114344", "enisaUuid": "63dd3199-5217-38de-b682-3d843274276e", "description": "Malicious code in dotenv-safe-norma-hydra-pulsar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141765"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

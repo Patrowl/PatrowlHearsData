@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123190", "enisaUuid": "d35e9e1e-e676-304e-81e8-1466e0bd49df", "description": "Malicious code in proxima-proxima-relay-style-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146732"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

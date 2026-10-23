@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115952", "enisaUuid": "a241e249-64ab-32c6-84bb-f598d5f5bdaa", "description": "Malicious code in buffer-betelgeuse-frontend-rehype (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140152"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

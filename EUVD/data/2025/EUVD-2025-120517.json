@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120517", "enisaUuid": "f1e14db0-eb91-3194-b0c6-d938407c22df", "description": "Malicious code in webpack-vuetify-prompts-xanadu (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149412"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

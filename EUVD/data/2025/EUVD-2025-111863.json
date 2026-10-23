@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111863", "enisaUuid": "79cbab17-13af-3973-84a3-33b7dd225626", "description": "Malicious code in lacerta-rest-mocha-foundation (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144250"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

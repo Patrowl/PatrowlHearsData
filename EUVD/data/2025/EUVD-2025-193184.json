@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193184", "enisaUuid": "8bc97105-93f8-3428-b93f-dca6bc16dc2e", "description": "Malicious code in algol-koa-xenos-redis (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43431"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

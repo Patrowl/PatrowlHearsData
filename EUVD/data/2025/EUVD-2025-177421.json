@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177421", "enisaUuid": "dd9f5894-fa28-32ab-a7f6-b8950d2a24bb", "description": "Malicious code in ora-process-config-public (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188461"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

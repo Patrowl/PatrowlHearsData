@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195704", "enisaUuid": "fddb7f00-771e-3195-9efb-b23ae50dac8b", "description": "Malicious code in salt-surface-indicate (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45952"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

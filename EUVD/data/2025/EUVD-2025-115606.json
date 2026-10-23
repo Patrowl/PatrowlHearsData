@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115606", "enisaUuid": "dd11176b-63e2-3e83-bb75-c87ee6932efe", "description": "Malicious code in celeste-algol-jwt-csrf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140501"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

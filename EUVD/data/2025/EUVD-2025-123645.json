@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123645", "enisaUuid": "0deb09fd-4b79-34e1-a167-d55c578924e0", "description": "Malicious code in playwright-cli-antares-lynx (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146276"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

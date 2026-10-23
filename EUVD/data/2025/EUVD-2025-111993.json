@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111993", "enisaUuid": "73d69007-211b-3302-aa2a-9f474b4a3132", "description": "Malicious code in karma-spawn-webpack-yonder (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144120"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

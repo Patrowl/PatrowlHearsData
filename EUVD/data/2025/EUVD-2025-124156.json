@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124156", "enisaUuid": "076d39c2-4aa6-3fbf-b1a7-2a3d50373707", "description": "Malicious code in octans-concurrently-scripts-betelgeuse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145765"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

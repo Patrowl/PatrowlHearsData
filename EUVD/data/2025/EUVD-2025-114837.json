@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114837", "enisaUuid": "7db09509-dacb-3351-b4e6-a6782ce17ccf", "description": "Malicious code in cross-env-semantic-ui-dependencies-europa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141272"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

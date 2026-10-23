@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178205", "enisaUuid": "e6994c3b-ecef-3c3c-83af-97a8ded2f22f", "description": "Malicious code in kernel-promise-proxy-xml-pipe (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187677"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

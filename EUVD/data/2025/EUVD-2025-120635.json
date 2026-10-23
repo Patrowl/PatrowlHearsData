@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120635", "enisaUuid": "eca9fd74-5dd7-3091-b596-bcd0d948251d", "description": "Malicious code in wasat-mdx-rate-limiter-commitizen (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149294"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113798", "enisaUuid": "07f6db1b-8c8d-3b16-bb81-7bd7505067e2", "description": "Malicious code in event-fetch-epimetheus-writable (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142312"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

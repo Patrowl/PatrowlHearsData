@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113495", "enisaUuid": "b08c3935-18a5-362d-a12e-157a81c3444f", "description": "Malicious code in fornax-electron-builder-electron-sass-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142617"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

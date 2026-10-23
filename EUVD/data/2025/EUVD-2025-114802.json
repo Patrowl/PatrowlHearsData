@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114802", "enisaUuid": "05933abd-5e85-3468-9bc3-40dc6182d62c", "description": "Malicious code in css-loader-metalsmith-rest-tailwindcss (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141307"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

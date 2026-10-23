@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172277", "enisaUuid": "cfcc7252-e6a7-3a9a-acee-b9be0630e378", "description": "Malicious code in nova-carina-prettier-plugin-markdown-triton (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27748"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

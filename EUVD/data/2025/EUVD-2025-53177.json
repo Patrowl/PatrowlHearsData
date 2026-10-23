@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-53177", "enisaUuid": "d57fc2f8-7e22-32c5-a283-772bcadee658", "description": "Malicious code in monetary-blush-mastodon (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-69472"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

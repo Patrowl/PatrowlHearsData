@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166319", "enisaUuid": "86fdd26a-ad4b-39dc-802b-54eeed5b1da3", "description": "Malicious code in gradlew (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21801"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

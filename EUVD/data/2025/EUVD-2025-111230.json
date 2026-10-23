@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111230", "enisaUuid": "fa45fb5d-a422-33c1-a4e0-053773bd8d8f", "description": "Malicious code in metalsmith-octans-update-oauth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144885"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

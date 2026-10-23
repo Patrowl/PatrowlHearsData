@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179327", "enisaUuid": "140b15e8-0218-3b0a-bef2-e0ecafa22f10", "description": "Malicious code in dependencies-galaxy-install-module (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186555"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

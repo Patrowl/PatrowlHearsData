@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180644", "enisaUuid": "28cfd8ca-9341-3c7a-bd01-3a391cf1d755", "description": "Malicious code in pulsar-webdriverio-express-atlas (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-30843"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

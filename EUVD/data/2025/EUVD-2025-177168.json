@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177168", "enisaUuid": "54717a82-42d3-3b9c-9037-720c06e76b61", "description": "Malicious code in pino-pretty-prettier-sequelize-figures (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188707"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

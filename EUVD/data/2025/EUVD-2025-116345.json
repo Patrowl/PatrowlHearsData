@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116345", "enisaUuid": "b965ef7b-398f-3a57-b69f-4790ecdadfd1", "description": "Malicious code in auth0-schema-nightwatch-hydra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139757"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

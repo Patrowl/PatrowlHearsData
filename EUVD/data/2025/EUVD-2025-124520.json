@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124520", "enisaUuid": "513c9358-161d-3b62-ae65-897ce5b3540f", "description": "Malicious code in nestjs-nodejs-electron-builder-auth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145400"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

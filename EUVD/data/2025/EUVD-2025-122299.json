@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122299", "enisaUuid": "096568e7-6084-3a48-b2bd-621e3da6dc29", "description": "Malicious code in sagitta-supervisor-publish-bunyan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147623"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

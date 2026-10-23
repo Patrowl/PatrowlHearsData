@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112070", "enisaUuid": "e4754d3e-1ab6-32c6-8d21-6748851ba2d6", "description": "Malicious code in juno-wasat-npm-semantic-release (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144043"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

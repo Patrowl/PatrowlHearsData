@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113777", "enisaUuid": "8b3dbc11-a287-3f37-937a-a7b6b04998fe", "description": "Malicious code in event-yaml-scorpius-ora (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142333"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

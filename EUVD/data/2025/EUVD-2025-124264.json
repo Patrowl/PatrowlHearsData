@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124264", "enisaUuid": "c8e473af-e546-33a9-ad73-a82068482064", "description": "Malicious code in nova-delphinus-npm-janus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145657"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

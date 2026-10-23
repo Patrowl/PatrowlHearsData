@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121860", "enisaUuid": "cc8dfb1e-0e46-3235-b9bd-be73f1a7f016", "description": "Malicious code in socketio-webdriver-manager-subscription-eclipse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148065"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

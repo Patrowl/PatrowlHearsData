@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121120", "enisaUuid": "806a9980-b487-361c-9b33-b0302ca2dca3", "description": "Malicious code in triton-build-cli-react-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148808"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

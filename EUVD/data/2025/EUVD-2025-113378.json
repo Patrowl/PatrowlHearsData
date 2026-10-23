@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113378", "enisaUuid": "95a505f7-c807-3018-a654-5c94b82036da", "description": "Malicious code in fusion-geckodriver-server-less-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142734"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

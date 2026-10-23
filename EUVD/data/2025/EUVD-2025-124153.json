@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124153", "enisaUuid": "251603c5-b997-3d21-afbc-8180b8ff694f", "description": "Malicious code in octans-dagda-winston-envconfig (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145768"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168923", "enisaUuid": "ec802349-6f1b-3550-bbc4-2e1208c3ba1f", "description": "Malicious code in kernel-iota-simple-simulate-integer (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24405"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

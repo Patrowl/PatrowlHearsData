@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124748", "enisaUuid": "2a9ffd72-233e-3947-811d-6484ed2ef35e", "description": "Malicious code in morgan-browserify-install-cygnus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145170"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

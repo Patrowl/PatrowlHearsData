@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130854", "enisaUuid": "91581dd5-e297-349e-bcda-d794ceb030d3", "description": "Malicious code in @com-td-aacs/td (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7132"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

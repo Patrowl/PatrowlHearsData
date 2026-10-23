@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194453", "enisaUuid": "84cbf07a-e0d5-3d04-ab38-3511a3026ac3", "description": "Malicious code in ini-nodejs-speleology-filament (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44700"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

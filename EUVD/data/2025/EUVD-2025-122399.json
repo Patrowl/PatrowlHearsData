@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122399", "enisaUuid": "1c5e51b7-7dba-36ba-b141-561ea58633da", "description": "Malicious code in rollup-plugin-ultra-ganymede-vega (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147523"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111344", "enisaUuid": "382dbe4e-b291-39f1-b963-3ecb3f4cfef6", "description": "Malicious code in mdx-process-eleventy-ceres (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144771"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

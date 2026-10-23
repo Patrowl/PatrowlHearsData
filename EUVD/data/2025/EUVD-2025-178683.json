@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178683", "enisaUuid": "6c961811-9974-345f-bf3f-5c5cf0ca05e5", "description": "Malicious code in got-install-blackhole-pipe (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187199"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

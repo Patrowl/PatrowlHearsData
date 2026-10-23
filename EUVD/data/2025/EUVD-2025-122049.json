@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122049", "enisaUuid": "b3abc163-52aa-3257-957d-0f7c86c8a7be", "description": "Malicious code in sequelize-neptune-await-metalsmith (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147874"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

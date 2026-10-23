@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169237", "enisaUuid": "3c5c6b5d-da2e-3a69-a7e3-62a831adec4c", "description": "Malicious code in koa-redisy (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24719"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

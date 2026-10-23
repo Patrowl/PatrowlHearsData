@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113126", "enisaUuid": "b25b913e-c01b-3c8a-a9bc-54692e9de61e", "description": "Malicious code in got-run-script-proxima-await (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142986"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

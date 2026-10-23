@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111822", "enisaUuid": "34545ae6-b7c2-3e9f-9e51-321a276701ab", "description": "Malicious code in leda-rollup-mongodb-heka (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144291"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

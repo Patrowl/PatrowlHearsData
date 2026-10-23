@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130135", "enisaUuid": "dec1514e-3d51-3587-a04a-4c4b88ec8425", "description": "Malicious code in comp-base-birthdate (npm)", "datePublished": "2025-07-31T19:26:48", "dateUpdated": "2025-07-31T19:26:48", "baseScore": 0.0, "aliases": ["MAL-2025-6408"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

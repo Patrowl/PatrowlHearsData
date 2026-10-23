@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124702", "enisaUuid": "52dfe9db-177b-3b9c-a35b-16a1004ab1c0", "description": "Malicious code in mutation-altair-readable-janus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145216"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

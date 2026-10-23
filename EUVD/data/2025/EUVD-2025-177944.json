@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177944", "enisaUuid": "174bf157-ce76-3e05-a9a3-2011d8baa56f", "description": "Malicious code in markdownlint-rollup-loglevel-toml (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187938"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

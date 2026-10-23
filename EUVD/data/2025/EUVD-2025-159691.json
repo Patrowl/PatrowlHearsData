@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159691", "enisaUuid": "797e916b-1ff4-36de-b4a2-fd510245d2dd", "description": "Malicious code in avalon-plugin-xmlhttprequest (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15190"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

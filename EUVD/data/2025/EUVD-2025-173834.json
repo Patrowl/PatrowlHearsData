@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173834", "enisaUuid": "5a201f7b-a4bb-323a-a188-8e3b981a0a13", "description": "Malicious code in pino-pretty-webdriver-manager-apollo-init (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29305"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

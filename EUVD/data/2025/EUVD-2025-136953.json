@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-136953", "enisaUuid": "1c183be8-8463-359e-ab72-213af11edc86", "description": "Malicious code in rusdi-set-rusu (npm)", "datePublished": "2025-11-12T19:18:14", "dateUpdated": "2025-11-12T19:18:14", "baseScore": 0.0, "aliases": ["MAL-2025-178362"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

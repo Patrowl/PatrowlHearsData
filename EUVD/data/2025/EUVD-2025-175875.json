@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175875", "enisaUuid": "c3322cc8-a294-3514-a7a7-30c2183c12c3", "description": "Malicious code in triton-proxima-impulse-dotenv-parse-variables (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190000"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

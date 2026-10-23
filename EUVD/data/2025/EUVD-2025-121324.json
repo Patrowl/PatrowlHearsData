@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121324", "enisaUuid": "a2eef60b-ca3d-3413-86aa-4e94388284c1", "description": "Malicious code in testcafe-sass-loader-morgan-package (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148604"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

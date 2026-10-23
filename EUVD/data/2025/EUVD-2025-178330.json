@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178330", "enisaUuid": "b05d0a24-755b-3b00-8305-ffdecf6d4703", "description": "Malicious code in isostasy-meteor-passport-npm (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187552"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121366", "enisaUuid": "58eb8604-4cfb-3f5d-a686-12426b1395a2", "description": "Malicious code in terser-xanadu-mocha-redis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148562"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

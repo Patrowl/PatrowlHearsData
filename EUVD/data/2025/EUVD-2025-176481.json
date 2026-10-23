@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176481", "enisaUuid": "1509425c-dd8f-3a4b-a085-8d0618e9f458", "description": "Malicious code in secure-big-user-unix-private (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189394"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

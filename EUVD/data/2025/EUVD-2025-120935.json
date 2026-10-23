@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120935", "enisaUuid": "8edd7b80-913f-3f56-bdfd-8622fcb91359", "description": "Malicious code in update-config-mui-corvus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148994"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

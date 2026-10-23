@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178306", "enisaUuid": "a68e53a7-a608-3ff5-9f91-79284c9a2c52", "description": "Malicious code in janus-neptune-spectron-publish (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187576"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

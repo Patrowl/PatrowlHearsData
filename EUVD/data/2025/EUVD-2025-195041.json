@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195041", "enisaUuid": "6840a0a9-dfd6-3eb4-959e-8a963b79979a", "description": "Malicious code in nectarine-quebec-charlie-gtssh (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45288"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

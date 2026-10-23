@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123772", "enisaUuid": "12540190-f899-343e-8f91-59744147efb6", "description": "Malicious code in phoebe-dotenv-parse-variables-command-tool (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146149"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

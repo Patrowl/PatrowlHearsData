@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177083", "enisaUuid": "d0f06dd4-b960-3396-a246-3f7cd12fe9a8", "description": "Malicious code in postgres-proteomics-markdown-abiogenesis (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188792"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

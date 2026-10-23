@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112935", "enisaUuid": "b250a967-8044-3dba-a48f-b06ddfd78ede", "description": "Malicious code in hapi-charon-prettier-plugin-markdown-aquarius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143177"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193626", "enisaUuid": "ee753a71-f2cf-368b-9b76-47c6d363e761", "description": "Malicious code in commitlint-nightmare-websockets-boson (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43873"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

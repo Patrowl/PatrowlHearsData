@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111896", "enisaUuid": "74a0c575-e676-37e6-bcf7-7b30354a55f1", "description": "Malicious code in kronos-fornax-terser-dotenv (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144217"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

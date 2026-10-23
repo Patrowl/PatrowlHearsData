@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124740", "enisaUuid": "72b298b8-305d-3fe7-b473-9f6b2831697f", "description": "Malicious code in morgan-init-auth0-rollup (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145178"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

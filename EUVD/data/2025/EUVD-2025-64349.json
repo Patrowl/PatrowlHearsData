@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-64349", "enisaUuid": "fd92ed4a-04fc-3e83-b675-b8c81b6e64b2", "description": "Malicious code in electoral_quail_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-94205"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

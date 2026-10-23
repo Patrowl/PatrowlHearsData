@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112898", "enisaUuid": "cefba54d-bd37-3e06-b847-e130e658269e", "description": "Malicious code in heka-private-electron-builder-gridsome (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143214"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

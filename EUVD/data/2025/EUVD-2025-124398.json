@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124398", "enisaUuid": "79a1dc95-5a3a-3ae9-becb-414b4c9265f9", "description": "Malicious code in node-config-vuetify-less-loader-version (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145523"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

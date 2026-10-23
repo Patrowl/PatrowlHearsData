@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191747", "enisaUuid": "bb96fed5-159d-3a7d-9dde-5206eea1abd2", "description": "Malicious code in express-prisma (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-41981"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80040", "enisaUuid": "13aeeee5-61ae-3087-ad13-90303b41b270", "description": "Malicious code in wide_swallow_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-110908"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

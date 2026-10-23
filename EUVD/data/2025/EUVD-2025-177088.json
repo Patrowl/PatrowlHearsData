@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177088", "enisaUuid": "39141382-b54f-37be-8390-3207690c5165", "description": "Malicious code in postgres-asteroid-readable-dione (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188787"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

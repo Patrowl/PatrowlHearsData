@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177389", "enisaUuid": "844fb8ca-173c-3472-87f5-caa3fc53470c", "description": "Malicious code in package-process-helios-markdown-pdf (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188493"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

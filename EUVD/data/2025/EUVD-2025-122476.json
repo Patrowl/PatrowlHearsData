@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122476", "enisaUuid": "843b1788-f576-358f-b628-9a0d03b7383b", "description": "Malicious code in rimraf-carpo-eleventy-supervisor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147446"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

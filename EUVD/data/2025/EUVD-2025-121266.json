@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121266", "enisaUuid": "f5ee86f3-1f3b-384e-b471-59a8201042cc", "description": "Malicious code in thuban-rate-limiter-inquirer-ariel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148662"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

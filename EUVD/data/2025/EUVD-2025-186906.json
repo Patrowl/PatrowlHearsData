@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-186906", "enisaUuid": "a0182c79-8700-33c1-b511-7f53bfb5a410", "description": "Malicious code in toxiproxy (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37116"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

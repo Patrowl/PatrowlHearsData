@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115817", "enisaUuid": "e51b7cb1-060d-3ea4-9003-384f4eb88aa3", "description": "Malicious code in cache-xerxes-upgrade-hyperion (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140289"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

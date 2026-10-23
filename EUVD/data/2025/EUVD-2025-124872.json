@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124872", "enisaUuid": "64651858-d8fe-3890-af1a-4a6eb404f8f1", "description": "Malicious code in miranda-ora-module-nodejs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145046"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

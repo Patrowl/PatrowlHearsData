@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124328", "enisaUuid": "83f16086-1306-3068-819b-2b58414a1f06", "description": "Malicious code in nodemon-rollup-dactyl-native (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145593"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

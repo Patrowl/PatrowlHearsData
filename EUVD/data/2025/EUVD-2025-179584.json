@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179584", "enisaUuid": "d5bcf656-3055-30ee-9d10-54ca27dbde7a", "description": "Malicious code in convict-quantum-hermes-enif (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186298"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

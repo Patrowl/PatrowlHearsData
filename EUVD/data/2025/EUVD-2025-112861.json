@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112861", "enisaUuid": "06349d41-2e76-3915-b2f6-e164366d64fd", "description": "Malicious code in helmet-eleventy-eclipse-slidev (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143251"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

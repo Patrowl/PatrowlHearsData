@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165540", "enisaUuid": "dbb191b5-12f1-3d37-8b2c-ebb11ee5a104", "description": "Malicious code in ftp-adaptor (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21021"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115191", "enisaUuid": "c09b5581-7ea2-3c07-8799-2b4a80e2a32b", "description": "Malicious code in command-ophiuchus-envconfig-meteor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140917"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

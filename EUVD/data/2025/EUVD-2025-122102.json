@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122102", "enisaUuid": "4f6c6134-400a-36dd-8c3c-074f00e987c7", "description": "Malicious code in semantic-release-backend-scripts-publish (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147821"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

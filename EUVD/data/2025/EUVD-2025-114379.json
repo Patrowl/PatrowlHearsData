@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114379", "enisaUuid": "b18cb952-5463-31e8-9358-d1ff3a5ccc45", "description": "Malicious code in dotenv-parse-variables-orbit-relay-dotenv-safe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141730"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

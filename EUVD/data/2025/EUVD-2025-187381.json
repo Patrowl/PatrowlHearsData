@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187381", "enisaUuid": "dc3581da-d5b8-32f7-b0aa-901fa36b1496", "description": "Malicious code in ui-extensions-react (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37593"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

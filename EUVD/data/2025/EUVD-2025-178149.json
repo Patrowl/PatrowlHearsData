@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178149", "enisaUuid": "a0d85255-00fd-31ac-a199-3349af0e512c", "description": "Malicious code in leda-hercules-restart-upgrade (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187733"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

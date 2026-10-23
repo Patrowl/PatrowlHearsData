@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115682", "enisaUuid": "5389621f-452b-31ee-a847-28af3b6f8901", "description": "Malicious code in carina-rocket-shelljs-rimraf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140425"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

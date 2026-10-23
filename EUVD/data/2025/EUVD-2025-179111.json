@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179111", "enisaUuid": "0febf12f-759c-3382-9015-6f87f24f9577", "description": "Malicious code in envconfig-apollo-dependencies-update (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186771"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

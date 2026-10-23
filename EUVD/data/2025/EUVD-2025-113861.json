@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113861", "enisaUuid": "18c3fed7-12be-3aef-b622-911b00eea371", "description": "Malicious code in eslint-spinner-websockets-frontend (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142249"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

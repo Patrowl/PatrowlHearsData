@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170753", "enisaUuid": "25cd8aff-7885-3f64-b655-564039d6999e", "description": "Malicious code in metabolomics-configstore-xenos-spawn (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26224"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

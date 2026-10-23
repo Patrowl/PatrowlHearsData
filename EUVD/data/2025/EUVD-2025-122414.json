@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122414", "enisaUuid": "a5b4e52f-f401-3c90-9f0c-faae440283bf", "description": "Malicious code in rollup-plugin-antares-pulsar-dynamo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147508"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

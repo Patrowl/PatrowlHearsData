@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130680", "enisaUuid": "50fb15a6-bc2a-32c6-9819-9c1f508e6ff0", "description": "Malicious code in statsd-jvm-profiler-dash (npm)", "datePublished": "2025-08-14T19:45:09", "dateUpdated": "2025-08-18T06:10:43", "baseScore": 0.0, "aliases": ["MAL-2025-6958"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

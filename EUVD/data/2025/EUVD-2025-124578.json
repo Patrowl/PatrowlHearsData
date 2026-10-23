@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124578", "enisaUuid": "bf27a7c6-ce98-3f17-b3f9-5c0716b06a64", "description": "Malicious code in nebula-electron-relay-json (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145342"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

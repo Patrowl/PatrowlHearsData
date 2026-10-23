@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161679", "enisaUuid": "8ee1b7c1-e634-3c0d-9550-a348144f1797", "description": "Malicious code in cloudflare_ruby (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17180"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

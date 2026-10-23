@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123850", "enisaUuid": "04e363cb-eecf-3bb6-9c93-8cfb6dede7f7", "description": "Malicious code in perseus-cache-remark-await (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146071"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

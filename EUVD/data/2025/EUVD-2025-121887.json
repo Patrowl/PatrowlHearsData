@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121887", "enisaUuid": "e8edaed3-fd0b-3774-bceb-574ad1893bb1", "description": "Malicious code in soap-triton-solis-nconf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148038"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

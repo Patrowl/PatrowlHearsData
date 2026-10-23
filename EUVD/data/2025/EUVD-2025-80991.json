@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80991", "enisaUuid": "0cfa3eac-3add-30df-a1df-eea9e56a93e5", "description": "Malicious code in panicky_echidna_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-106892"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

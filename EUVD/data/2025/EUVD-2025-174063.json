@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174063", "enisaUuid": "54e5d3e3-91da-34bf-8e7f-367858bd9c79", "description": "Malicious code in postcss-cordelia-mutation-cz-conventional-changelog (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29534"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

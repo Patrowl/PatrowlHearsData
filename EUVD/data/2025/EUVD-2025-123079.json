@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123079", "enisaUuid": "f3e75df7-76c0-355b-9659-e1cdc40b544c", "description": "Malicious code in pulsar-repository-uglify-js-webdriverio (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146843"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

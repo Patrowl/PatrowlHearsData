@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120645", "enisaUuid": "83a06a47-62ff-3337-a13a-990bc165e9db", "description": "Malicious code in wasat-css-minimizer-webpack-plugin-grus-cli (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149284"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

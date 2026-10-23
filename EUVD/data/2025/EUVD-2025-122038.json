@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122038", "enisaUuid": "f29d79b1-960b-34af-97eb-5978da0aa788", "description": "Malicious code in sequelize-webpack-electron-sqlite (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147885"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

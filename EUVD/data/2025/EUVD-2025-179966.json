@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179966", "enisaUuid": "1a33d683-a274-36ff-8e8f-557f7154621d", "description": "Malicious code in browserify-nodemon-proxima-markdown (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185916"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

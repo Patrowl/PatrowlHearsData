@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159706", "enisaUuid": "0707b6bd-c646-3d05-85d5-dca688b3499b", "description": "Malicious code in avior-halley-postgres-lynx (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15205"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

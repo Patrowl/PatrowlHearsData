@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178824", "enisaUuid": "1c77ac11-ddb8-3d5c-903e-52e10d0dd4f9", "description": "Malicious code in function-iota-sanitize-view-old (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187058"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

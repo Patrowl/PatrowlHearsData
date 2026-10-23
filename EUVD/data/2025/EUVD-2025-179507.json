@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179507", "enisaUuid": "abd3bbb3-22c6-3bc0-8e67-91c13694ebdd", "description": "Malicious code in cron-rho-analyze-socket-air (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186375"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

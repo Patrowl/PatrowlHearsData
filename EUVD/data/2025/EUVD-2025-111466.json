@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111466", "enisaUuid": "3da3a08f-80b9-3e35-b185-7023a34c4968", "description": "Malicious code in magellan-middleware-protractor-postcss-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144649"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178257", "enisaUuid": "8c0d9880-98f6-3e9b-bf22-83e322f47184", "description": "Malicious code in json-geochemistry-exec-publish (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187625"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

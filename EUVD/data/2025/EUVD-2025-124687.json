@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124687", "enisaUuid": "beee5f31-38cf-36ff-8cb6-0956d8eaeee8", "description": "Malicious code in mutation-rest-mongoose-castor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145231"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

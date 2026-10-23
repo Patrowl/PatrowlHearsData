@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163937", "enisaUuid": "b772c80a-d8b7-386f-ac1f-4508f12b7b6e", "description": "Malicious code in electron-builder-wolf-subscription-xml (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19446"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176752", "enisaUuid": "476a38a6-ed38-34f4-b837-3d3f95a333da", "description": "Malicious code in refactor-socket-container-wind-sigma (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189123"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166521", "enisaUuid": "5fb82eea-abfb-3bf0-bb67-77025eac0135", "description": "Malicious code in grunt-vox-svg-prepper (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22003"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

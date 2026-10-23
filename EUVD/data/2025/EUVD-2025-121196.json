@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121196", "enisaUuid": "f97beddf-21ec-3ae8-8279-c3ccd1037472", "description": "Malicious code in tool-cosmos-vuepress-buffer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148732"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

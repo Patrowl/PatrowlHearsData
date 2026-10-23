@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162595", "enisaUuid": "a7db7207-b72d-3e0e-89a2-eb50d55c36ba", "description": "Malicious code in dbenvy-ci-controller-client (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18096"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

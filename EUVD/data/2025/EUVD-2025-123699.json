@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123699", "enisaUuid": "d619cb0d-9436-37fa-906a-7d58735b9e7d", "description": "Malicious code in pino-loopback-uninstall-eslint-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146222"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

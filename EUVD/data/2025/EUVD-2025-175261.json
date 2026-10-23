@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175261", "enisaUuid": "90d79cfd-be2c-386e-969f-5732df276c62", "description": "Malicious code in promise-element-ui-relay-json (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-30732"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161202", "enisaUuid": "95c2c240-184d-3910-a4de-676d1af35c3e", "description": "Malicious code in cedrus-example-loader (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16701"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

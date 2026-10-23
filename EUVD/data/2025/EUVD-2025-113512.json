@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113512", "enisaUuid": "2cd60bda-c3bb-3e9d-b0d3-3400f8c91f3c", "description": "Malicious code in fork-start-node-sass-neptune (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142600"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

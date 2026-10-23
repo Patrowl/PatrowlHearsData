@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-51855", "enisaUuid": "c157cce8-08f9-367b-aad6-cb1ef907dcb5", "description": "Malicious code in spotless-fuchsia-grouse (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-70794"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120574", "enisaUuid": "7a6732ee-de55-32ac-b9c0-fd1c4f1e32c2", "description": "Malicious code in webdriver-mocha-metalsmith-ignite-fornax (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149355"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

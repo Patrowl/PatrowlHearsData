@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114973", "enisaUuid": "3b3d9ae4-209a-375c-8f71-aa7a5ac5f1ac", "description": "Malicious code in cors-semantic-release-eris-webdriverio (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141136"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

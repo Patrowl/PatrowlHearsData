@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115827", "enisaUuid": "1d27e3cb-499e-3d03-aaa1-6fc3ef7eb809", "description": "Malicious code in cache-ophiuchus-nova-atlas (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140279"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

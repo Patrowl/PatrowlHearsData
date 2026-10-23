@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122832", "enisaUuid": "0a6e30b1-ecbf-3610-8f56-47d801e9671b", "description": "Malicious code in readable-pulsar-umbra-pegasus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147090"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

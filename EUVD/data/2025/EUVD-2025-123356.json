@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123356", "enisaUuid": "730348d7-608e-316b-b618-bfd883460870", "description": "Malicious code in process-rehype-gatsby-rocket (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146566"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

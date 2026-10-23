@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115101", "enisaUuid": "0f97142a-081c-3ecd-adef-874c2f7e30c6", "description": "Malicious code in concurrently-koa-jupiter-morgan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141008"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

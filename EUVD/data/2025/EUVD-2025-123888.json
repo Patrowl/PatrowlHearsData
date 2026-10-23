@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123888", "enisaUuid": "170ad763-20a7-3ec7-a8b8-806de479e7bd", "description": "Malicious code in pegasus-heka-eris-magellan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146033"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114362", "enisaUuid": "7ed85e16-75b3-3706-a1b8-f715376b1b1c", "description": "Malicious code in dotenv-safe-dactyl-mira-karma (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141747"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129757", "enisaUuid": "e11c2753-5ca6-35aa-af6f-73007e8cb254", "description": "Malicious code in @ivy-shared-components/iconslibrary (npm)", "datePublished": "2025-07-15T04:41:16", "dateUpdated": "2025-08-01T10:07:39", "baseScore": 0.0, "aliases": ["MAL-2025-6030"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

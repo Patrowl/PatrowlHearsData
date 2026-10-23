@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121782", "enisaUuid": "17407235-fae3-391e-a17e-6b05b48989cb", "description": "Malicious code in spectron-webdriver-typeorm-xanthus-convict (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148143"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

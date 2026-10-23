@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126869", "enisaUuid": "759f35c6-55d3-36fe-b9f3-3c89e3984bb3", "description": "Malicious code in @fraudprevention/device-intelligence (npm)", "datePublished": "2025-04-04T00:55:52", "dateUpdated": "2025-08-18T06:10:43", "baseScore": 0.0, "aliases": ["MAL-2025-3128"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

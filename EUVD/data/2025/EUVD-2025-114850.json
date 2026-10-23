@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114850", "enisaUuid": "fd26445b-8c50-3f18-a87a-2f57888cfc23", "description": "Malicious code in cross-env-mongoose-juno-sequelize (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141259"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

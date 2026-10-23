@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162271", "enisaUuid": "b17bbbd8-ec85-3211-8a3e-e7d3ef474154", "description": "Malicious code in cs-security-service-client (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17772"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160291", "enisaUuid": "ea050f27-080d-3aa0-b0e1-3cc11f0f0be8", "description": "Malicious code in blackhole-module-rimraf-xenon (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15790"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

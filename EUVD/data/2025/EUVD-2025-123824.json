@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123824", "enisaUuid": "aec23cd9-e89f-30c6-95f3-ccf0817df3dc", "description": "Malicious code in perseus-magellan-cosmiconfig-concurrently (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146097"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

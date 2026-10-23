@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123940", "enisaUuid": "4f953150-d934-35b5-85aa-d26474e928fa", "description": "Malicious code in passport-helios-vulcan-nightwatch (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145981"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

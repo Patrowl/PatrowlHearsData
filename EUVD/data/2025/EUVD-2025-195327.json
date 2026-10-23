@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195327", "enisaUuid": "4d81d0f7-80f6-3f91-9cc2-43d8cbcbdfb1", "description": "Malicious code in polaris-node-config-graphql-xml (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45575"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

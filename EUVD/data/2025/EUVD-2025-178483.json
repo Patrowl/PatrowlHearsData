@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178483", "enisaUuid": "6fddc601-a011-326c-a246-09969a212baf", "description": "Malicious code in hydra-helmet-terser-webpack-plugin-ignite (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187399"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

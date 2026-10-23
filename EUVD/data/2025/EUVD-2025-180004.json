@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180004", "enisaUuid": "f6f0b2c9-d5b9-32c3-9ad2-a13fac1f94ab", "description": "Malicious code in boolean-fork-uglify-dog-sanitize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185878"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

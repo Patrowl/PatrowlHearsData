@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180383", "enisaUuid": "c4f2815c-67b7-3155-bb61-973f442d27db", "description": "Malicious code in apollo-nodejs-helmet-loglevel (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185505"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

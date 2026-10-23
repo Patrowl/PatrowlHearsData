@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176076", "enisaUuid": "bf5a0a7d-620a-38d2-9f3f-505747edd6ce", "description": "Malicious code in tachyon-mesosphere-spinner-pm2 (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189799"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

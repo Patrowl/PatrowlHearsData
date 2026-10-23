@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176368", "enisaUuid": "34d02f8b-8b6f-3ad6-bf10-15de034a0f1c", "description": "Malicious code in singularity-bunyan-eslint-config-publish (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189507"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

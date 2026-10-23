@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178752", "enisaUuid": "22bebeff-6d90-328b-bf50-44daeb4562fd", "description": "Malicious code in geckodriver-sedna-private-colors (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187130"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

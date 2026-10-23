@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116266", "enisaUuid": "cc49fc40-4a32-3cb4-b148-a323b5575452", "description": "Malicious code in axios-pm2-xenon-hercules (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139836"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

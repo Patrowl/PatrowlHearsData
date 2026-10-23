@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-53524", "enisaUuid": "d92e2fd2-8f70-35c3-ae55-fc47ddf24e81", "description": "Malicious code in lexical-azure-hornet (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-69125"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111866", "enisaUuid": "06e2149a-2142-3f7d-8540-9730d77a8e42", "description": "Malicious code in lacerta-middleware-procyon-exec (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144247"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

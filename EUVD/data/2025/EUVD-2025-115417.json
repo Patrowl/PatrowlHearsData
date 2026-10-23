@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115417", "enisaUuid": "0b1cf66e-8921-3ec4-9f03-6b200ff9ec82", "description": "Malicious code in changelog-upgrade-native-phoebe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140690"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

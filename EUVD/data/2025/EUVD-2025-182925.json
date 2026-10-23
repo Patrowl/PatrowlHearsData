@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182925", "enisaUuid": "28a34286-9dc2-3a2f-98dd-bf39b1dadb5d", "description": "Malicious code in shopify-throttle (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33140"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

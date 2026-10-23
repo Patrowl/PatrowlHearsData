@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124205", "enisaUuid": "4c5a923b-b941-3686-a927-d792c807a145", "description": "Malicious code in nuxtjs-typeorm-apollo-dotenv-parse-variables (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145716"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

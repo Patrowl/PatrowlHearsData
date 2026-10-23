@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113773", "enisaUuid": "739076cd-9ca8-3a35-b766-6dc349fea482", "description": "Malicious code in exec-changelog-upgrade-antares (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142337"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

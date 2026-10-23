@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179953", "enisaUuid": "5f0330bb-cbd0-3418-8854-55f92aad6505", "description": "Malicious code in build-hapi-registry-quark (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185929"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

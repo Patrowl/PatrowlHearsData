@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120957", "enisaUuid": "b8799dc8-c9b7-314c-a573-7a0c8f5df579", "description": "Malicious code in uninstall-xanadu-weywot-hapi (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148972"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162741", "enisaUuid": "fa986073-64ad-3fe5-9cdc-7b1130eac3be", "description": "Malicious code in delta-phi-pipe-cron-cache (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18242"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-198960", "enisaUuid": "5b6cd2c6-c610-39eb-9031-fc09fa72d83e", "description": "Malicious code in @tezign/html-webpack-plugin (npm)", "datePublished": "2025-11-24T16:19:35", "dateUpdated": "2025-11-24T16:19:35", "baseScore": 0.0, "aliases": ["MAL-2025-190916"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

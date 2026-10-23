@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129754", "enisaUuid": "7fd0bc06-5d05-3bf2-9619-96677b5939bf", "description": "Malicious code in @blocks-shared/desktop-title (npm)", "datePublished": "2025-07-12T04:13:29", "dateUpdated": "2025-07-12T04:13:29", "baseScore": 0.0, "aliases": ["MAL-2025-6027"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

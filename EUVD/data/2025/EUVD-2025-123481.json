@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123481", "enisaUuid": "1925fbc4-bda4-3e24-9827-42fdbd68079b", "description": "Malicious code in postgres-neptune-bootes-query (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146440"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

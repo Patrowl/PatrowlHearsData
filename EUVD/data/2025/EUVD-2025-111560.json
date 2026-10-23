@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111560", "enisaUuid": "cb9c2ac6-1d48-3bb6-a119-0925fb5b7886", "description": "Malicious code in loopback-kastra-soap-bulma (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144555"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

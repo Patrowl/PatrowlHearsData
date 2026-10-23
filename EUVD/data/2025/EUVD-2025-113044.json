@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113044", "enisaUuid": "fef94c46-6c54-318c-9131-7e2c413d52bb", "description": "Malicious code in grunt-pegasus-carpo-soap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143068"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

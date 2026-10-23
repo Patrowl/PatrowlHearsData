@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-158483", "enisaUuid": "bdc9ed09-9cee-31d0-855c-8c52d74a76a1", "description": "Malicious code in accelerate-cli (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-13975"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122269", "enisaUuid": "15f482db-4bb9-3b27-99ca-26f57c5f2d93", "description": "Malicious code in sails-neptune-scripts-auth0 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147653"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

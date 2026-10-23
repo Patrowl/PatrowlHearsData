@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114552", "enisaUuid": "8aaae86e-3669-322e-89df-276fbccebcad", "description": "Malicious code in deneb-restart-dagda-cache (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141557"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

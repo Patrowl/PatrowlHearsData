@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120146", "enisaUuid": "18dd4f87-d4a9-3082-a470-624f3a3589ae", "description": "Malicious code in yaml-buffer-nova-slides (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149785"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

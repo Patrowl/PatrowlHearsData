@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111812", "enisaUuid": "fb312ef9-ff06-3e2a-9c7b-05614cc8212e", "description": "Malicious code in leda-version-charon-command (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144301"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

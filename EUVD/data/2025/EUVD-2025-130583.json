@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130583", "enisaUuid": "81c4b620-8159-343a-a9db-918800bf29b8", "description": "Malicious code in zstd-jni (npm)", "datePublished": "2025-08-11T18:55:04", "dateUpdated": "2025-08-11T18:55:04", "baseScore": 0.0, "aliases": ["MAL-2025-6861"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

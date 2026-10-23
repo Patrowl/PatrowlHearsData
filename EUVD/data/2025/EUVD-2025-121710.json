@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121710", "enisaUuid": "5dfbe317-405a-3a7c-913f-c25c8dfddfa2", "description": "Malicious code in spinner-webdriver-mocha-rollup-plugin-mutation (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148215"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

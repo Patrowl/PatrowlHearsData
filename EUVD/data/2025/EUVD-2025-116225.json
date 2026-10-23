@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116225", "enisaUuid": "f9151efb-841f-3b47-a54c-929f30eae1b1", "description": "Malicious code in backend-andromeda-chakra-ui-callback (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139877"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

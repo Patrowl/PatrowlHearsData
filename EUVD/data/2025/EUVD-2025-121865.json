@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121865", "enisaUuid": "94f44d5c-e8d7-352f-ab2d-6f426cd83d09", "description": "Malicious code in socketio-pavo-prettier-stylelint-global (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148060"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

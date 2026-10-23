@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183943", "enisaUuid": "1d9b1749-db75-3c2e-b243-6c725e5756fa", "description": "Malicious code in sudo-resolve-deserialize-file-cloud (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34158"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

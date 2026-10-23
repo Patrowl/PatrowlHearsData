@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176323", "enisaUuid": "15691d1e-82e9-3e3b-991d-101bb4643137", "description": "Malicious code in soap-callback-convict-middleware (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189552"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

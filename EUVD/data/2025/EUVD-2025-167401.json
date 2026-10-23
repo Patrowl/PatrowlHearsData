@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167401", "enisaUuid": "8ba5d8c0-438a-3363-a0c0-c75c55c71f76", "description": "Malicious code in ic-tools-mailer (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22883"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

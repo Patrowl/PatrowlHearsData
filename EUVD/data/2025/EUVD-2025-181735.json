@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181735", "enisaUuid": "5290ed5a-b112-3ceb-9b9c-2e952644552e", "description": "Malicious code in redux-readable-reducer (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31950"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

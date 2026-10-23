@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-201555", "enisaUuid": "a3c89795-d47c-3919-b096-fe49222c4a51", "description": "Malicious code in ssf-desktop-api-browser (npm)", "datePublished": "2025-12-06T16:23:25", "dateUpdated": "2025-12-10T21:09:40", "baseScore": 0.0, "aliases": ["MAL-2025-192359"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

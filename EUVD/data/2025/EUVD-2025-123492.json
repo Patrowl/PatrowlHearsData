@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123492", "enisaUuid": "4a9d5d63-3d25-3796-94e4-26a5d8daef99", "description": "Malicious code in postgres-canopus-supervisor-standard (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146429"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

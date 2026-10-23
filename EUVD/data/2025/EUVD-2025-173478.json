@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173478", "enisaUuid": "f1ac6a5e-0afd-3872-958e-2241b6e71ae6", "description": "Malicious code in paypal-codes-generator658 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28949"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

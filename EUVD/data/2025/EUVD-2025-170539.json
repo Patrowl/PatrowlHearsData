@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170539", "enisaUuid": "ed97e40d-7c07-3575-a01e-81c7fbc1ee36", "description": "Malicious code in mathi-test-npm (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26010"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

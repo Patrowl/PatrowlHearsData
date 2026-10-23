@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124857", "enisaUuid": "f54ed516-386a-35aa-9150-a56fd06a7e7f", "description": "Malicious code in miranda-toml-xenon-commitizen (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145061"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

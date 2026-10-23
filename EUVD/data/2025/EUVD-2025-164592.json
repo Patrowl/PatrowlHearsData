@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164592", "enisaUuid": "720357c2-ab66-3990-ae8d-ec39fe64a666", "description": "Malicious code in express-element-ui-shelljs-apollo (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20072"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

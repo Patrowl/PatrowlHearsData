@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115382", "enisaUuid": "de7e1fae-0645-30b0-95a5-9e2374562a25", "description": "Malicious code in charon-lint-envconfig-firebase (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140725"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

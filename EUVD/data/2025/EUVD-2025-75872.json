@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75872", "enisaUuid": "87b7c28e-e353-3928-9197-8ee37c0b39f0", "description": "Malicious code in rare_mandrill-silentdev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-107716"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

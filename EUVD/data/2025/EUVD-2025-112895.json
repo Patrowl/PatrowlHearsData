@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112895", "enisaUuid": "ca480ee3-2357-3273-b374-ab2e2368664c", "description": "Malicious code in heka-run-script-norma-mongodb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143217"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

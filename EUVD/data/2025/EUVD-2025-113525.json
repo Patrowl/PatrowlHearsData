@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113525", "enisaUuid": "65038973-4b25-346b-8080-07e65e6623f0", "description": "Malicious code in fork-eslint-plugin-procyon-fusion (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142587"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

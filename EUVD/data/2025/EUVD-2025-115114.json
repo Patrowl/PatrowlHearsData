@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115114", "enisaUuid": "2eb8315d-3ccd-33ef-992f-36bf6c4aeb6e", "description": "Malicious code in commitlint-readable-standard-levels (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140994"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

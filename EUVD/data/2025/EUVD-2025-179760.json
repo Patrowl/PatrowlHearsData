@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179760", "enisaUuid": "0d038515-2b76-3aaf-9a33-56da7f10f2cf", "description": "Malicious code in char-double-load-notify-gamma (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186122"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

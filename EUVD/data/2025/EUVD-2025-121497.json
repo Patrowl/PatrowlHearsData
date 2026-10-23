@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121497", "enisaUuid": "a84bae1e-e349-38c8-afc4-c3d1e35c870b", "description": "Malicious code in sync-relay-rocket-scripts (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148431"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

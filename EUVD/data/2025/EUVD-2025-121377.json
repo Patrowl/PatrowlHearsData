@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121377", "enisaUuid": "1813df4b-4471-37cf-8259-63be941caf65", "description": "Malicious code in terser-webpack-plugin-fork-dynamo-spectron-webdriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148551"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

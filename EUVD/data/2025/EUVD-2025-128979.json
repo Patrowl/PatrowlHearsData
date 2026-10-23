@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128979", "enisaUuid": "9b2e502a-a9f1-3c3c-b0bd-17910f26447c", "description": "Malicious code in nstmrt-stf-api-poc (npm)", "datePublished": "2025-06-25T16:51:56", "dateUpdated": "2025-07-02T01:10:21", "baseScore": 0.0, "aliases": ["MAL-2025-5250"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

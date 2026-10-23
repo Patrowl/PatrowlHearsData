@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113342", "enisaUuid": "76010508-48eb-3ac6-a1ce-2d176e1b2a76", "description": "Malicious code in gacrux-hermes-mysql-meteor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142770"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

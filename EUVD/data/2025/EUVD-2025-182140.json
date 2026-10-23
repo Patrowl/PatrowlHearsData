@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182140", "enisaUuid": "6fb5b997-1534-33a7-9655-1f66aba243f7", "description": "Malicious code in rollup-global-google-ini (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32355"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

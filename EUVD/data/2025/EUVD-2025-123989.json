@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123989", "enisaUuid": "3ef9a49a-e8b6-3afb-81b4-1b48f217ed1c", "description": "Malicious code in package-hugo-event-impulse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145932"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

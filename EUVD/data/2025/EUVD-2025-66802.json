@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-66802", "enisaUuid": "d10a96e7-037d-3cd5-a39d-ccb98ce49ae4", "description": "Malicious code in secure_bovid_z3n (npm)", "datePublished": "2025-11-11T04:25:34", "dateUpdated": "2025-11-11T04:25:34", "baseScore": 0.0, "aliases": ["MAL-2025-90452"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

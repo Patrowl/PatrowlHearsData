@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178324", "enisaUuid": "b077e2aa-ceef-3bf1-8fc8-48839fab7490", "description": "Malicious code in izar-string-command-neutronstar (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187558"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

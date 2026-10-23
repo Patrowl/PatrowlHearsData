@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112995", "enisaUuid": "0c77471f-2d56-3eb1-a89d-c9f49510507b", "description": "Malicious code in gulp-json-buffer-grus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143117"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

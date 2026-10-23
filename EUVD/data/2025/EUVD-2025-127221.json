@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127221", "enisaUuid": "16eb2f04-1d8f-391e-bc5e-378fdd5dd0bf", "description": "Malicious code in web3connectpy (PyPI)", "datePublished": "2025-04-23T16:06:49", "dateUpdated": "2025-04-23T16:06:49", "baseScore": 0.0, "aliases": ["MAL-2025-3480"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116822", "enisaUuid": "2dcc9a63-e5db-3146-b6c2-cc6ecec8865b", "description": "Malicious code in aldebaran-grus-playwright-exec (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139280"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

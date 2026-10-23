@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121907", "enisaUuid": "c264f74c-9a96-3f10-ac33-08de211a79c9", "description": "Malicious code in soap-csrf-sync-nextjs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148018"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

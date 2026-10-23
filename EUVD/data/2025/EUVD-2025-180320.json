@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180320", "enisaUuid": "214388b6-d16f-3e45-9dae-c77bcb21e5e3", "description": "Malicious code in array-load-sandbox-code-cache (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185568"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

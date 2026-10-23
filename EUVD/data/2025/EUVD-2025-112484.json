@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112484", "enisaUuid": "6a0bbf77-77b7-39b0-b5d6-6519b8c1ee84", "description": "Malicious code in init-postcss-markdown-pdf-sequelize (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143629"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

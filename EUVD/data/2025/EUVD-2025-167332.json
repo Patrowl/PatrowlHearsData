@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167332", "enisaUuid": "35009f6d-aaf4-370c-88b0-34b2c706d64c", "description": "Malicious code in hw-clientid (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22814"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

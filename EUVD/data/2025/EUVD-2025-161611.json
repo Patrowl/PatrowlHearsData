@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161611", "enisaUuid": "ec4b4be3-c351-3e5e-942a-8f6c3367b71a", "description": "Malicious code in cli-plugin-graphiql (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17111"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111471", "enisaUuid": "7052c634-eb6b-3ce5-872e-497dd9cd2229", "description": "Malicious code in magellan-less-loader-proxima-commitlint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144644"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

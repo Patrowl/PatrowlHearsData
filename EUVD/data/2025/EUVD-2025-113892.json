@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113892", "enisaUuid": "f770ad79-fb1a-38ef-b6eb-1c01f42a98e8", "description": "Malicious code in eslint-fomalhaut-lint-staged-meteor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142218"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

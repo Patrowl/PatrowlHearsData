@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161992", "enisaUuid": "c3fcc9e8-7f04-3f60-8b03-acb5e989de6f", "description": "Malicious code in conmendator-api-client (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17493"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

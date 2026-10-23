@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112038", "enisaUuid": "abd6d855-513c-3fd9-a435-6ea6b692b923", "description": "Malicious code in jwt-gravity-europa-hexo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144075"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

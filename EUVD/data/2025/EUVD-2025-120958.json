@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120958", "enisaUuid": "3984ad34-0ae7-39d5-8225-6a1f906c9e6f", "description": "Malicious code in uninstall-sync-apex-event (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148971"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162666", "enisaUuid": "c95abf60-20e7-3246-9197-9d7e1e4794fa", "description": "Malicious code in decorator-bnjs-request-forward (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18167"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

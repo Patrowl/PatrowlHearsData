@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121882", "enisaUuid": "fa4853c9-fc1e-3f74-98ac-e82425f3d1a1", "description": "Malicious code in socketio-acamar-pino-ceres (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148043"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

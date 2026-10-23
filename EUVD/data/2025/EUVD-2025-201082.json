@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-201082", "enisaUuid": "449d35ea-283e-3bd9-9153-85d9f8e2dd54", "description": "Malicious code in elf-stats-cranberry-hollyberry-804 (npm)", "datePublished": "2025-12-03T17:22:10", "dateUpdated": "2025-12-23T19:09:02", "baseScore": 0.0, "aliases": ["MAL-2025-192208"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

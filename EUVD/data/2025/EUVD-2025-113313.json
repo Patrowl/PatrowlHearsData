@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113313", "enisaUuid": "9e164a0f-5e10-306e-bb8d-19a2533d1984", "description": "Malicious code in ganymede-epimetheus-terser-webpack-plugin-css-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142799"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

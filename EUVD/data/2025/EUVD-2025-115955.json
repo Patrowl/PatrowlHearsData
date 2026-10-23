@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115955", "enisaUuid": "e34fe177-ebc4-3882-a139-7417c66df69c", "description": "Malicious code in browserify-zenobia-materialize-event (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140149"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

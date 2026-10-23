@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111948", "enisaUuid": "28e92e7f-b05e-307a-bb91-7bf4b237de1a", "description": "Malicious code in kinetic-bunyan-dotenv-safe-quantum (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144165"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

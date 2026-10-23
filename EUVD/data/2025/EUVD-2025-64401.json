@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-64401", "enisaUuid": "7d4fc30d-4cfb-3079-b3bd-c65a5ef827d6", "description": "Malicious code in eager_ermine_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-94153"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

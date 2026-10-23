@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179930", "enisaUuid": "3ca95892-8585-3fe2-b1ec-66ebca1c25f6", "description": "Malicious code in bunyan-spectron-webdriver-less-magellan (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185952"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

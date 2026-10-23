@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194956", "enisaUuid": "de8250aa-1626-360f-8bbd-0749eb8f2848", "description": "Malicious code in miranda-soap-loopback-nightmare (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45203"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

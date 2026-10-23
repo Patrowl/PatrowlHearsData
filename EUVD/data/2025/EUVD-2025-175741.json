@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175741", "enisaUuid": "a56c7899-49cc-3e24-bd25-8eec1bf2ceec", "description": "Malicious code in vega-panspermia-jwt-gemini (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190134"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

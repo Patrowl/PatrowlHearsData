@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196060", "enisaUuid": "c4e8e142-7d35-36ff-b2b9-33e9fcb663d3", "description": "Malicious code in text-openai-embedding-js (npm)", "datePublished": "2025-09-05T16:38:20", "dateUpdated": "2025-09-05T16:38:20", "baseScore": 0.0, "aliases": ["MAL-2025-46308"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196693", "enisaUuid": "8307725f-4c8d-392d-bed6-94bd64841efd", "description": "Malicious code in proto-trust-metadata-api (RubyGems)", "datePublished": "2025-09-01T09:53:16", "dateUpdated": "2025-09-01T09:53:16", "baseScore": 0.0, "aliases": ["MAL-2025-46941"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

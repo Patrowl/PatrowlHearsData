@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130258", "enisaUuid": "c90e61b8-2e65-3707-9695-4369fc571fea", "description": "Malicious code in karma-jasmine-sinon (PyPI)", "datePublished": "2025-07-31T19:15:27", "dateUpdated": "2025-07-31T19:15:27", "baseScore": 0.0, "aliases": ["MAL-2025-6532"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

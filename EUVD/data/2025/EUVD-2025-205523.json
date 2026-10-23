@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-205523", "enisaUuid": "88c3c720-b10e-3847-8b11-530d15a5f249", "description": "Malicious code in eslint-config-pexip-engage (npm)", "datePublished": "2025-12-28T17:50:47", "dateUpdated": "2026-01-02T21:37:27", "baseScore": 0.0, "aliases": ["MAL-2025-192955"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179724", "enisaUuid": "531bdd12-c190-3697-a839-ac4d3e8f705c", "description": "Malicious code in class-debug-private-decrypt-slow (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186158"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

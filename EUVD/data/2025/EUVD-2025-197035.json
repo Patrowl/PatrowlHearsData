@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197035", "enisaUuid": "b23f4948-9879-3ba2-b97e-7d01ab2848aa", "description": "Malicious code in syf-api-legacy (npm)", "datePublished": "2025-09-22T04:00:48", "dateUpdated": "2025-09-22T04:00:48", "baseScore": 0.0, "aliases": ["MAL-2025-47509"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

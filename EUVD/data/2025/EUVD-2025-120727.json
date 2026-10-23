@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120727", "enisaUuid": "2a03f9e6-f20c-34c0-b2d3-91369fd9a61f", "description": "Malicious code in vuetify-alphard-dynamo-module (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149202"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

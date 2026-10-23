@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179202", "enisaUuid": "69fbb98e-a76f-3b0a-b9f5-8cafdd940998", "description": "Malicious code in eclipse-parsec-native-commitlint-config-angular (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186680"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

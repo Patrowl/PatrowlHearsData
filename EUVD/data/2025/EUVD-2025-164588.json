@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164588", "enisaUuid": "a388dc0e-c23f-3a69-a3a8-e5a87e23f149", "description": "Malicious code in express-bundle-response (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20068"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

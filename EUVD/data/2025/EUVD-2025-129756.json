@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129756", "enisaUuid": "e0bc5ce8-010b-3e39-b8c3-1b57f70d780b", "description": "Malicious code in @isfront/locale (npm)", "datePublished": "2025-07-13T16:04:10", "dateUpdated": "2025-07-23T02:45:09", "baseScore": 0.0, "aliases": ["MAL-2025-6029"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

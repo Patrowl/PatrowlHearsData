@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189685", "enisaUuid": "21973587-e9a3-3325-a242-aeb115a5d04b", "description": "Malicious code in xo-grunt-publish-charon (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39903"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

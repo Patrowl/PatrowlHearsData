@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123629", "enisaUuid": "5f64c184-0916-3c4e-a9f2-eaef1d2299d9", "description": "Malicious code in pm2-apex-antd-axios (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146292"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

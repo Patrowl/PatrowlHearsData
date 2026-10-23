@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187174", "enisaUuid": "a8b35876-727f-3fec-9e0f-7e953237f15f", "description": "Malicious code in try-test-cluster-eta-enum (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37245"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

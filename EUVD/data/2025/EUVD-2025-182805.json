@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182805", "enisaUuid": "41a68b1c-1d28-388d-bc29-d7a8b9ca33cf", "description": "Malicious code in sethelper (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33020"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164593", "enisaUuid": "057bfbfb-05f1-3dab-80ab-2c238185a16c", "description": "Malicious code in express-hermes-quasar-puppeteer (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20073"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125472", "enisaUuid": "6fa9a474-0876-390b-ae8e-24a4e84b75a5", "description": "Malicious code in apple-api-client (npm)", "datePublished": "2025-03-03T13:18:41", "dateUpdated": "2025-03-03T13:18:41", "baseScore": 0.0, "aliases": ["MAL-2025-1729"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

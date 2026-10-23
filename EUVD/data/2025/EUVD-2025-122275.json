@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122275", "enisaUuid": "da1cc133-9817-3011-a127-76ce0265d91e", "description": "Malicious code in sails-farout-nightwatch-typeorm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147647"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193538", "enisaUuid": "b0a45b9c-4f64-31bb-ace9-b28ca6856c68", "description": "Malicious code in child-process-query-sagitta-chakra-ui (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43785"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165958", "enisaUuid": "fe06e78a-c629-38ec-91f6-2a78a7b59cce", "description": "Malicious code in giraffe-reports (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21439"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

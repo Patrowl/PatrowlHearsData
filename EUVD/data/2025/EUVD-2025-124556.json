@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124556", "enisaUuid": "a251325b-b5e9-3299-82b5-73797ef8836a", "description": "Malicious code in neptune-html-webpack-plugin-subscription-typeorm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145364"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

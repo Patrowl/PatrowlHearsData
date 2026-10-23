@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120128", "enisaUuid": "26e62948-41c1-3fdf-8406-d1946b810d91", "description": "Malicious code in yaml-publish-dependencies-eslint-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149803"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

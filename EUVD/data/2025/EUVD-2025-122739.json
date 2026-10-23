@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122739", "enisaUuid": "984a5841-4526-305a-886f-7fa2ffce3406", "description": "Malicious code in rehype-run-script-soap-process (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147183"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

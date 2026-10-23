@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191784", "enisaUuid": "571cc8b0-9916-3d98-94f4-69e61c9cca04", "description": "Malicious code in jsons-logger (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-42018"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

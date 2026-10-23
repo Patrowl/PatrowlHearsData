@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123986", "enisaUuid": "f83f00fb-d9e6-3b1e-ad49-43f51403d94c", "description": "Malicious code in package-lacerta-flare-telesto (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145935"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

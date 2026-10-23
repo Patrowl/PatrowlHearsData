@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121705", "enisaUuid": "37c641d7-b3b0-3b10-bcac-a2d21e5dd870", "description": "Malicious code in sqlite-ariel-spawn-castor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148220"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

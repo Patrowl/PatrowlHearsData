@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197541", "enisaUuid": "75a41f9a-9f33-3a86-a21b-50d622dfd0cf", "description": "Malicious code in node-hs-logger (npm)", "datePublished": "2025-10-23T19:40:25", "dateUpdated": "2025-10-23T19:40:25", "baseScore": 0.0, "aliases": ["MAL-2025-48856"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

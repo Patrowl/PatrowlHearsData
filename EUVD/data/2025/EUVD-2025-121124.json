@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121124", "enisaUuid": "86931f1e-3049-3bb9-85d4-f2e72c050612", "description": "Malicious code in transport-upgrade-google-package (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148804"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

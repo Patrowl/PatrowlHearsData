@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164750", "enisaUuid": "ae0e5c52-0f83-307f-b9c3-f27ccb89deee", "description": "Malicious code in farout-redis-neptune-gatsby (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20230"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

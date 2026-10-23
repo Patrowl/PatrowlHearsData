@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127460", "enisaUuid": "f93d2a7d-3e61-34a7-a020-fe7e1b32c030", "description": "Malicious code in braze-cordova-sdk (npm)", "datePublished": "2025-05-09T08:11:06", "dateUpdated": "2025-05-09T08:11:06", "baseScore": 0.0, "aliases": ["MAL-2025-3719"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

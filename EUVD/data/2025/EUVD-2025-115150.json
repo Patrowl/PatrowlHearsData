@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115150", "enisaUuid": "19dded1e-7cf5-3e50-8743-50f7b4aaba9d", "description": "Malicious code in commitlint-config-angular-bulma-nextjs-aether (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140958"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

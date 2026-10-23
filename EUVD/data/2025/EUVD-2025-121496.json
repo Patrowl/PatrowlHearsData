@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121496", "enisaUuid": "fed72f58-3883-3f05-a56b-6f853ada4ffa", "description": "Malicious code in sync-rigel-prettier-stylelint-concurrently (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148432"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

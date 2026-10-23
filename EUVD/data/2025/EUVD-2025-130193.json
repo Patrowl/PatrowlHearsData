@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130193", "enisaUuid": "3d834289-a40f-33f5-957a-9583a162e3bf", "description": "Malicious code in boto3-batch-utils (PyPI)", "datePublished": "2025-07-31T19:14:25", "dateUpdated": "2025-07-31T19:14:25", "baseScore": 0.0, "aliases": ["MAL-2025-6467"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178645", "enisaUuid": "4741e177-2a46-3e35-8d5e-0a201bb2d69b", "description": "Malicious code in gridsome-procyon-karma-callback (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187237"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178288", "enisaUuid": "fd61631f-2ede-3856-9eab-e4a99b9560f3", "description": "Malicious code in java-socket-cluster-decode-catch (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187594"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171039", "enisaUuid": "461b0d57-7d90-3ed6-a229-33493905d7aa", "description": "Malicious code in mixedzone-nginx-auth-request (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26510"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

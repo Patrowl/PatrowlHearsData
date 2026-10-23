@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123555", "enisaUuid": "cca4c569-349f-3b8b-9d08-fae5bb41ec3b", "description": "Malicious code in polaris-shelljs-jekyll-sails (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146366"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

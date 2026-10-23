@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114388", "enisaUuid": "b2696ea0-c96a-379a-aa09-4a1a3413f5fb", "description": "Malicious code in dotenv-parse-variables-google-react-bootstrap-castor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141721"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

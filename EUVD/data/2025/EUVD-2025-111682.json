@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111682", "enisaUuid": "38ed7ec2-a6be-355b-bf9b-21de50a671b7", "description": "Malicious code in lint-aquarius-morgan-ora (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144432"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

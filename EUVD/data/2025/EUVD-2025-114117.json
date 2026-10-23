@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114117", "enisaUuid": "6f35c38e-1fbc-3501-9c7a-78d2bd383ed7", "description": "Malicious code in eleventy-csv-envconfig-sagitta (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141993"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

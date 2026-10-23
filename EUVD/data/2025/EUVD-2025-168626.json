@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168626", "enisaUuid": "a20559be-682a-3f94-a800-b643be404e1f", "description": "Malicious code in just-a-browserify-server (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24108"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

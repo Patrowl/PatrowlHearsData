@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177082", "enisaUuid": "104fedce-8dbd-35f7-9c8b-6d3f6fe1e98c", "description": "Malicious code in postgres-soap-apex-vortex (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188793"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

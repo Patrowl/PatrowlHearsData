@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161834", "enisaUuid": "132c3fa2-652f-3fd3-b58e-8a5ec76d7764", "description": "Malicious code in com.microsoft.mixedreality.toolkit.figmabridge (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17335"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

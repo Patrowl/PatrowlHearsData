@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124356", "enisaUuid": "02e9ba93-4901-350f-a8e5-6fb26dd4a17a", "description": "Malicious code in nodejs-frontend-sync-command (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145565"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174208", "enisaUuid": "842fbfd5-7662-39ee-9a62-acad1c16e349", "description": "Malicious code in process-char-rho-analyze-bad (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29679"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

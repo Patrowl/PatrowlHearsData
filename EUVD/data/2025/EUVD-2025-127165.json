@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127165", "enisaUuid": "b218a176-38ae-329e-9521-8f80c13d24df", "description": "Malicious code in user-journey-tracker (npm)", "datePublished": "2025-04-23T16:04:24", "dateUpdated": "2025-04-23T16:04:24", "baseScore": 0.0, "aliases": ["MAL-2025-3424"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

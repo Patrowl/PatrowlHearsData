@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195337", "enisaUuid": "6cb841d7-7ce5-38c3-9bb8-647e08dc22f8", "description": "Malicious code in prettier-plugin-markdown-europa-spawn-csv (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45585"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

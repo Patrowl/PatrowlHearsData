@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191178", "enisaUuid": "eda06dc1-71f4-3ebc-97f4-0b60d9a94490", "description": "Malicious code in ptv_uxreadspropvt (npm)", "datePublished": "2025-08-19T04:05:09", "dateUpdated": "2025-08-19T04:05:09", "baseScore": 0.0, "aliases": ["MAL-2025-41401"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

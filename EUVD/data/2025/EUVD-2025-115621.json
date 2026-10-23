@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115621", "enisaUuid": "b98bb964-9afd-315e-94a5-e1f0e7f2265d", "description": "Malicious code in castor-kronos-jwt-convict (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140486"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

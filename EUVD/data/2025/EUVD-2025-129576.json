@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129576", "enisaUuid": "743154ac-60f8-3cef-902f-ce06ba405562", "description": "Malicious code in ringcentral-google-drive-notification-add-in (npm)", "datePublished": "2025-07-14T22:30:52", "dateUpdated": "2025-07-14T22:30:52", "baseScore": 0.0, "aliases": ["MAL-2025-5849"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

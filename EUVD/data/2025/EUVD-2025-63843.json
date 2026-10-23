@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63843", "enisaUuid": "53d7026e-d25b-3cbc-a205-1740ac35c351", "description": "Malicious code in golden_salmon_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-94711"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

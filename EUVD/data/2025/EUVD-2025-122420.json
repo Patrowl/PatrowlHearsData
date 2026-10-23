@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122420", "enisaUuid": "3db554ef-2bf9-3a83-8df9-48148686d3be", "description": "Malicious code in rollup-magellan-hapi-puppeteer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147502"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

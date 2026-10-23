@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181734", "enisaUuid": "a5e3968b-581e-3f6b-87f3-b92df4657dc5", "description": "Malicious code in redux-ace (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31949"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

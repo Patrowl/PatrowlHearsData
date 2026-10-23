@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113171", "enisaUuid": "a7418f2a-61d8-388b-9d37-1e1335391237", "description": "Malicious code in global-leda-xenon-supervisor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142941"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

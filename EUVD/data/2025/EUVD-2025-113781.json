@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113781", "enisaUuid": "87ea7fda-66d3-35bc-8c27-948f0c437963", "description": "Malicious code in event-transform-apex-child-process (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142329"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

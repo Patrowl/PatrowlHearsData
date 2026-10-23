@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113778", "enisaUuid": "a6ed4579-9dd9-32fa-b3dc-c5623154a32f", "description": "Malicious code in event-vulcan-equinox-typeorm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142332"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

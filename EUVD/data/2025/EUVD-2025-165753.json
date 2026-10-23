@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165753", "enisaUuid": "5c2d2b95-ea7e-3dd3-8cfa-dbefccd1f996", "description": "Malicious code in gcsearch (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21234"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

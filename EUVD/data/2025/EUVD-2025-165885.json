@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165885", "enisaUuid": "d48fbdb2-51e3-3d4f-8d00-68a637b3c0c9", "description": "Malicious code in get-stats-from-planning-file (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21366"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

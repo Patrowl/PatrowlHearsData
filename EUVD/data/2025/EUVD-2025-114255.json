@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114255", "enisaUuid": "7bae9373-c451-3b90-90fa-c50955e9c5f6", "description": "Malicious code in eclipse-meteor-stop-antares (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141855"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

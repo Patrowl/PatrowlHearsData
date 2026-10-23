@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123468", "enisaUuid": "822465fd-4d53-38c4-9afc-004e01fa2fa5", "description": "Malicious code in postgres-zenith-gatsby-reveal-md (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146453"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

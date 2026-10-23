@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200340", "enisaUuid": "efaac347-250c-3de7-83a9-115b0f4b4773", "description": "Malicious code in szsec-info-report (npm)", "datePublished": "2025-12-01T13:26:36", "dateUpdated": "2025-12-02T21:37:32", "baseScore": 0.0, "aliases": ["MAL-2025-191589"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

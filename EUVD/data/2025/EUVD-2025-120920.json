@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120920", "enisaUuid": "e05b11dd-c573-32c7-8ce8-1f59097b8f30", "description": "Malicious code in upgrade-csv-gulp-browserify (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149009"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

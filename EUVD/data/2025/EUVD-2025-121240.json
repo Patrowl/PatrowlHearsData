@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121240", "enisaUuid": "89ed1263-d4d6-3ba3-baea-8f834417db44", "description": "Malicious code in titan-node-config-janus-ophiuchus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148688"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

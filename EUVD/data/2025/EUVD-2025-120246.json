@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120246", "enisaUuid": "afd639e7-858e-3f1f-b8b1-bde3371952ad", "description": "Malicious code in xenos-mongoose-stream-fornax (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149685"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121202", "enisaUuid": "ed648103-1d42-3b04-a9fd-a5dd8d47b4c7", "description": "Malicious code in toml-websockets-dynamo-frontend (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148726"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

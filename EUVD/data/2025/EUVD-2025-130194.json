@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130194", "enisaUuid": "66d8dd64-d6e9-3102-b23c-5a13ad6b854b", "description": "Malicious code in broccoli-server (PyPI)", "datePublished": "2025-07-31T19:14:25", "dateUpdated": "2025-07-31T19:14:25", "baseScore": 0.0, "aliases": ["MAL-2025-6468"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

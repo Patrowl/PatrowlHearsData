@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162282", "enisaUuid": "914a67a6-52bf-366c-a126-0d653ebf8def", "description": "Malicious code in csp-presets-pack (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17783"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

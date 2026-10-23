@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126729", "enisaUuid": "84ef4f0b-8390-3bee-8a6d-96b7c0985837", "description": "Malicious code in pychaosvm (PyPI)", "datePublished": "2025-03-28T13:06:04", "dateUpdated": "2025-04-28T05:47:10", "baseScore": 0.0, "aliases": ["MAL-2025-2988"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

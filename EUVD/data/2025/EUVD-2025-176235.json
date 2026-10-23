@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176235", "enisaUuid": "daf8bc18-71a2-3048-bde5-272acac2d3be", "description": "Malicious code in stack-compress-nu-zeta-mock (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189640"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

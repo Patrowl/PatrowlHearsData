@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121077", "enisaUuid": "963e6f2e-0bf3-34d5-a225-7a9699a8ff17", "description": "Malicious code in typeorm-mui-scripts-fornax (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148851"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

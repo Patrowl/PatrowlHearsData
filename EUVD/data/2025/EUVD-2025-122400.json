@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122400", "enisaUuid": "b5b59c1c-7995-3b52-8d1d-7b4b62889bc8", "description": "Malicious code in rollup-plugin-tool-await-stop (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147522"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

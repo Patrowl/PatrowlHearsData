@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183740", "enisaUuid": "c4609be1-0160-3dca-9bb8-cef9142dead6", "description": "Malicious code in starwars-names-lib2 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33955"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

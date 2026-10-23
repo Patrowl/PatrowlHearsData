@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111639", "enisaUuid": "9ebd8cd6-06cd-3fd2-93b2-9db0d31a0fb7", "description": "Malicious code in lint-winston-browserify-airbnb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144475"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

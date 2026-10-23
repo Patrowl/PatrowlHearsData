@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197151", "enisaUuid": "c1eba86a-cd08-3245-8e41-aba7b7aa802f", "description": "Malicious code in hub-state-api (npm)", "datePublished": "2025-09-26T09:33:30", "dateUpdated": "2025-09-26T09:33:30", "baseScore": 0.0, "aliases": ["MAL-2025-47678"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

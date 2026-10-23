@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120248", "enisaUuid": "8d9aa0f1-b527-3cf4-b55e-75154683db0d", "description": "Malicious code in xenos-link-spectron-webdriver-kastra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149683"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

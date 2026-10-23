@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77075", "enisaUuid": "cf0ea284-1b31-34e1-a96a-ba1234a0b2cc", "description": "Malicious code in distinguished_lemur-appteadev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-101659"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

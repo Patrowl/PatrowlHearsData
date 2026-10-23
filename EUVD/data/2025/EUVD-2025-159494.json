@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159494", "enisaUuid": "8e561676-bff7-3839-a517-dc86a8dbce02", "description": "Malicious code in async-swc-plugin (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14993"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

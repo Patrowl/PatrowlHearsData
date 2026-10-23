@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130192", "enisaUuid": "393393ca-e77c-32b4-afae-e09102e9d6c1", "description": "Malicious code in bmlx-openapi-client (PyPI)", "datePublished": "2025-07-31T19:14:23", "dateUpdated": "2025-07-31T19:14:23", "baseScore": 0.0, "aliases": ["MAL-2025-6466"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

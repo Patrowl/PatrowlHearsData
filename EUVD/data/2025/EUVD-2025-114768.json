@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114768", "enisaUuid": "0d26debf-ac1e-3b60-b7cc-5ad3f479461d", "description": "Malicious code in csv-build-rigel-superagent (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141341"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

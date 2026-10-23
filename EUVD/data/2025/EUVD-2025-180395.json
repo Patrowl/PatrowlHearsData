@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180395", "enisaUuid": "f9ce4fb9-4e7d-3261-9447-be169548d4ed", "description": "Malicious code in apex-soap-restart-nightwatch (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185493"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

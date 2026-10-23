@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131467", "enisaUuid": "9e673af6-4b07-33e9-90b2-b79d090b147b", "description": "Malicious code in @dashboard-experience/react-flagr (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7745"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

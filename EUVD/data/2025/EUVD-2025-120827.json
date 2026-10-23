@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120827", "enisaUuid": "8b7980a0-334f-3216-8922-744d76efbd85", "description": "Malicious code in venus-aldebaran-postcss-build (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149102"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

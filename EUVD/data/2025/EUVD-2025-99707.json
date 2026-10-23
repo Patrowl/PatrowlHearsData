@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-99707", "enisaUuid": "0394a48d-cc1a-308c-8a3b-97eabbbc4401", "description": "Malicious code in yielding_skunk_z3n (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-131615"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

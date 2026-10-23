@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180719", "enisaUuid": "30588aff-74a4-394f-978e-3cb0dfd183f3", "description": "Malicious code in pyhttplog (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-30933"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

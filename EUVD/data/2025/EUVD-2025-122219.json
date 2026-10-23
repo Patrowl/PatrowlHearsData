@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122219", "enisaUuid": "089a4617-ed74-381f-86da-fee4a0412c2a", "description": "Malicious code in scorpius-browserify-yaml-eris (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147703"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

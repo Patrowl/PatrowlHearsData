@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114592", "enisaUuid": "0481be3a-0fef-355a-a1d9-d7270281e651", "description": "Malicious code in delphinus-gatsby-halley-redis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141517"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75805", "enisaUuid": "c75dba68-d054-3dbc-914f-4e062ada205d", "description": "Malicious code in retired_swift-smiletea (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-107995"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

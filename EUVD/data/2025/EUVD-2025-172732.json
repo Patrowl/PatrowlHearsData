@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172732", "enisaUuid": "62232025-ef80-3d3e-8171-b6a9b4ed5d4b", "description": "Malicious code in old-secure-table-await-index (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28203"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123247", "enisaUuid": "5fc73cdc-65bd-3e0a-83c1-90b63d950dc4", "description": "Malicious code in prompts-schema-lint-staged-dorado (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146675"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

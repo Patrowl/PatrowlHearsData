@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153202", "enisaUuid": "56b5bf2c-6cf4-366a-9c72-d6c200cb0907", "description": "Malicious code in @malware-test-hakas-vouch/test-mlw3-hakas-vouch (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-8701"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

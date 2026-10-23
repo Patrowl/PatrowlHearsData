@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115350", "enisaUuid": "dd616adb-c117-3f81-9327-f3850769a998", "description": "Malicious code in child-process-telesto-test-proxima (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140757"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

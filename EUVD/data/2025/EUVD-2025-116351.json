@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116351", "enisaUuid": "9cfce190-49ce-39a5-9230-41287486c47c", "description": "Malicious code in auth0-markdown-pdf-jovian-cluster (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139751"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

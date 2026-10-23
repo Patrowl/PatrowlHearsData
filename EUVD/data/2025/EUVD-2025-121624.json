@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121624", "enisaUuid": "90d54297-e19d-3ae6-ae5b-1c9bf6fab716", "description": "Malicious code in stop-polaris-gravity-apollo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148301"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

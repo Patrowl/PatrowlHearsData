@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124042", "enisaUuid": "ccef9044-da71-3a34-a462-6ad57290c308", "description": "Malicious code in ora-dotenv-safe-nodemon-postgres (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145879"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

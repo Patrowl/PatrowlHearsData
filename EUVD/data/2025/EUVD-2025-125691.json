@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125691", "enisaUuid": "41c98aa8-340e-3040-a11d-636f9f784855", "description": "Malicious code in typespec-ts-interface-emitter (npm)", "datePublished": "2025-03-03T13:42:23", "dateUpdated": "2025-03-03T13:42:23", "baseScore": 0.0, "aliases": ["MAL-2025-1949"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

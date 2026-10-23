@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116498", "enisaUuid": "94e28db3-e0b1-3f3e-9505-e51ef8668af6", "description": "Malicious code in astro-ganymede-commitizen-cypress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139604"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194452", "enisaUuid": "b2a514b6-63bc-3038-9215-150532d9b384", "description": "Malicious code in ini-envconfig-less-loader-hadron (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44699"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

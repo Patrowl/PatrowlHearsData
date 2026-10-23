@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167030", "enisaUuid": "c50faa5f-080c-321c-9b40-feb3e837f108", "description": "Malicious code in homebridge-433mhz-light (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22512"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

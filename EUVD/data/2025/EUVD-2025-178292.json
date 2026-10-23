@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178292", "enisaUuid": "fc8c7f38-39a0-379e-8a2c-be3527df7b6c", "description": "Malicious code in jasmine-metalsmith-schema-sirius (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187590"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

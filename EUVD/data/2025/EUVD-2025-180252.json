@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180252", "enisaUuid": "e51314eb-756d-35dc-b09d-b84cb1690ea2", "description": "Malicious code in atlas-enif-enif-winston (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185636"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

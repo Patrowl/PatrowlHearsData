@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194917", "enisaUuid": "cda59891-c179-363d-b529-b1557ee4184c", "description": "Malicious code in meissa-bioinformatics-event-module (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45164"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

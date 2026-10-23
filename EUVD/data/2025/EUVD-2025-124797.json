@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124797", "enisaUuid": "751336e8-c4cf-3397-adf5-e0ca7460ad57", "description": "Malicious code in mongodb-cosmiconfig-impulse-frontend (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145121"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

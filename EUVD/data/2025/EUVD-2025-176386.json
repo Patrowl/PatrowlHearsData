@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176386", "enisaUuid": "569245c5-a801-34e6-92f1-3a009bbafb06", "description": "Malicious code in sigma-query-interpret-phi-process (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189489"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

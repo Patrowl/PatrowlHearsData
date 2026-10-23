@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163641", "enisaUuid": "4a77ccdf-7929-397c-b3c1-4865a6478918", "description": "Malicious code in echo-kuiper-fkem (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19143"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128811", "enisaUuid": "114e2e19-fe94-3e24-919a-1db3b7e8f34d", "description": "Malicious code in internal_acc_pkg (npm)", "datePublished": "2025-06-18T10:31:30", "dateUpdated": "2025-06-18T10:31:30", "baseScore": 0.0, "aliases": ["MAL-2025-5082"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

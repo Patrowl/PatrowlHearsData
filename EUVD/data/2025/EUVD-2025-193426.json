@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193426", "enisaUuid": "88c5db8f-73a3-39f0-820d-ecfce93e3328", "description": "Malicious code in buffer-sqlite-titan-subscription (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43673"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

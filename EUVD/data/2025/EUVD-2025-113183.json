@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113183", "enisaUuid": "fb70f3f6-5445-3ef5-91bf-11e6601e8a95", "description": "Malicious code in global-despina-markdown-csrf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142929"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-52438", "enisaUuid": "062fb2b0-fafc-3b8f-8426-ee75f52264f1", "description": "Malicious code in ready-azure-elk (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-70211"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

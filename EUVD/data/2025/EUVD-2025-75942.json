@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75942", "enisaUuid": "9b0cf16f-ba58-3e0e-ad78-b262b26d8037", "description": "Malicious code in proper_swallow-appteadev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-107355"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

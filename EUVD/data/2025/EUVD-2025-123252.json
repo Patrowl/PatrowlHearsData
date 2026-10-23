@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123252", "enisaUuid": "5c046902-a345-3a88-852a-8bf58ab1113f", "description": "Malicious code in prompts-mocha-norma-testcafe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146670"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

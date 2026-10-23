@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194343", "enisaUuid": "faaa034a-6a42-33b0-b8ee-95c6b135b5ef", "description": "Malicious code in helmet-antares-meissa-koa (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44590"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

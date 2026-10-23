@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181903", "enisaUuid": "56568959-9f30-3342-8656-fa485ec97faf", "description": "Malicious code in require-ports (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32118"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

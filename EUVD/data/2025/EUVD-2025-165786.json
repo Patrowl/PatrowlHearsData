@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165786", "enisaUuid": "7132a65c-f985-392c-8ac7-ac9682fa25c2", "description": "Malicious code in generator-accelerate-node-microservice (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21267"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

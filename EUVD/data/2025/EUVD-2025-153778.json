@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153778", "enisaUuid": "909e7208-88b6-3928-9bd8-9a3e9007db82", "description": "Malicious code in @scdb/friendly-octo-couscous (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9277"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

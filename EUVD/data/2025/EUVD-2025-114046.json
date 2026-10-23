@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114046", "enisaUuid": "dfd38def-4fa8-3d16-ad0c-a55d49034eb5", "description": "Malicious code in enif-spectron-webdriver-quasar-lacerta (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142064"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

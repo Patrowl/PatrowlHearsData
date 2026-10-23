@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111109", "enisaUuid": "880e7c43-aac9-389f-80f8-d2cca2ce1866", "description": "Malicious code in mira-cypress-regulus-leda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145006"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

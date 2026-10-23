@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182281", "enisaUuid": "64b0715a-def6-32a2-a70b-701f5681109d", "description": "Malicious code in rrequest (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32496"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

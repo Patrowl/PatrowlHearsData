@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179958", "enisaUuid": "de7075c7-1766-324c-965e-624bd36e534f", "description": "Malicious code in build-commitlint-config-angular-lithosphere-string (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185924"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

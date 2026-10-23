@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116620", "enisaUuid": "b7dd18f9-21e7-3604-b16c-0800b73aa387", "description": "Malicious code in apex-native-html-webpack-plugin-betelgeuse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139482"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

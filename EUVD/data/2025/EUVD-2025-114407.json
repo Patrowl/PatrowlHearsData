@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114407", "enisaUuid": "b5ca8d07-a928-3613-9858-47e2a76abe9f", "description": "Malicious code in dotenv-blitz-gatsby-publish (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141702"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

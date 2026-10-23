@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194818", "enisaUuid": "99283da4-8788-362b-8907-fe7a8e9c84ec", "description": "Malicious code in loopback-ursa-stream-rollup (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45065"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

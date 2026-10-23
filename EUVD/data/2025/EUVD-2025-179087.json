@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179087", "enisaUuid": "39ad3065-0955-3475-bc3f-8d592d505d9c", "description": "Malicious code in equinox-cosmicsilence-subscription-redis (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186795"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

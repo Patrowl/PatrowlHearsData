@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115800", "enisaUuid": "9a0f183f-8c22-374a-aab4-5e6879ac7e9a", "description": "Malicious code in callback-private-tool-dotenv-safe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140306"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

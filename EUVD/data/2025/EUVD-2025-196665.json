@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196665", "enisaUuid": "6bb7eba1-a8fe-3c29-b555-04ffe4a029ab", "description": "Malicious code in monolith-twirp-notifications-notifyd (RubyGems)", "datePublished": "2025-09-01T09:50:39", "dateUpdated": "2025-09-01T09:50:39", "baseScore": 0.0, "aliases": ["MAL-2025-46913"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

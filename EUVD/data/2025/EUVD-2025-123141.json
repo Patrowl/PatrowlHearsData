@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123141", "enisaUuid": "36530573-bf5f-3bb0-8fd3-6fc567e20f22", "description": "Malicious code in publish-css-minimizer-webpack-plugin-nuxtjs-rocket (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146781"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

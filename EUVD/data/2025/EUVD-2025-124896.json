@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124896", "enisaUuid": "779beb2a-aed3-3248-9c32-ada4b896c932", "description": "Malicious code in miranda-cache-relay-non-blocking (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145022"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

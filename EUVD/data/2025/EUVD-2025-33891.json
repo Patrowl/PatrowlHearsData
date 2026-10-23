@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-33891", "enisaUuid": "74919f5b-48c3-3462-a926-a5fc8884ce09", "description": "Malicious code in analytics-data-collection-fe (npm)", "datePublished": "2025-10-12T08:47:48", "dateUpdated": "2025-10-12T08:47:48", "baseScore": 0.0, "aliases": ["MAL-2025-48316"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

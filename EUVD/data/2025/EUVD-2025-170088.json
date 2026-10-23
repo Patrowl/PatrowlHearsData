@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170088", "enisaUuid": "d406ade3-5983-3f0d-a4b0-610b50bbf551", "description": "Malicious code in loguru (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25559"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115119", "enisaUuid": "33252b3e-b4a5-3349-a7ee-6295e519397a", "description": "Malicious code in commitlint-inquirer-run-script-dotenv-parse-variables (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140989"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

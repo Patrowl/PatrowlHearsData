@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177859", "enisaUuid": "7cf45d33-b8b6-3dc2-9c4c-410a9892fe96", "description": "Malicious code in meteor-fermiparadox-pino-mysql (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188023"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

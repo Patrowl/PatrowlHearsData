@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171188", "enisaUuid": "aef2d0a4-4d28-38ba-906f-ea971a0e38be", "description": "Malicious code in monzo-file-cleaner (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26659"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

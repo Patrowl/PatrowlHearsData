@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195482", "enisaUuid": "a9b6b19f-5892-329b-bae0-c97d16dc1c53", "description": "Malicious code in query-less-loader-passport-rest (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45730"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

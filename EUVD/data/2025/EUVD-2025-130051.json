@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130051", "enisaUuid": "e20c0dc9-8c56-347c-a03e-0bf5e60a23e5", "description": "Malicious code in vis-donut-chart (npm)", "datePublished": "2025-07-23T19:11:46", "dateUpdated": "2025-07-23T19:11:46", "baseScore": 0.0, "aliases": ["MAL-2025-6324"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

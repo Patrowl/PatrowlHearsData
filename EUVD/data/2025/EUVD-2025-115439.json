@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115439", "enisaUuid": "8deb023d-1a7d-358a-9aa6-2165bc8c1166", "description": "Malicious code in changelog-epimetheus-playwright-style-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140668"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

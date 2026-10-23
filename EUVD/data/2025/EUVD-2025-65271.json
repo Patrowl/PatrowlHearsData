@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-65271", "enisaUuid": "7278c725-075c-3618-9045-ac977c144aac", "description": "Malicious code in assistant_crane_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-93283"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

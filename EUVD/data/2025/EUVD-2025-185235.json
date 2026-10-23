@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-185235", "enisaUuid": "764ac3c5-d82e-3186-a91e-960b1e757d59", "description": "Malicious code in test-mlw2-grief-vulns (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-35451"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

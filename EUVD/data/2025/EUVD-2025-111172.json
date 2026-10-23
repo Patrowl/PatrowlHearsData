@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111172", "enisaUuid": "32fa8570-52c2-390d-86f9-e3af4a40ccd9", "description": "Malicious code in meteor-xml-equinox-mini-css-extract-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144943"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164357", "enisaUuid": "d78c04cc-6532-30b5-8fc2-2fbd543dc795", "description": "Malicious code in eslint-config-pardel (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19837"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

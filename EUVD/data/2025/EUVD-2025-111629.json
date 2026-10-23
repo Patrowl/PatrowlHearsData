@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111629", "enisaUuid": "1cc5dc25-b915-3b19-9766-5c4e98cd921b", "description": "Malicious code in local-fork-postgres-html-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144486"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

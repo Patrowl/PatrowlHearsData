@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116255", "enisaUuid": "90a1daa7-c653-322e-b7c8-8ed7fdc0b405", "description": "Malicious code in babel-bellatrix-lint-staged-json (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139847"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

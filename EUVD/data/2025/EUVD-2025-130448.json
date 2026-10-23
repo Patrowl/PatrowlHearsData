@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130448", "enisaUuid": "d80b4342-5aa6-3c01-82e5-7443b984177f", "description": "Malicious code in hubot-currencies (npm)", "datePublished": "2025-07-28T18:03:07", "dateUpdated": "2025-07-28T18:03:07", "baseScore": 0.0, "aliases": ["MAL-2025-6725"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

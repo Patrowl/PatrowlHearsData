@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176895", "enisaUuid": "843b702c-23c8-3010-85ef-5d206ce0bd5d", "description": "Malicious code in puppeteer-geckodriver-redshift-eslint-config (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188980"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

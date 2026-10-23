@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122630", "enisaUuid": "a74d2c27-0610-3713-bdeb-13da7bc63c2b", "description": "Malicious code in request-despina-cors-gemini (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147292"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

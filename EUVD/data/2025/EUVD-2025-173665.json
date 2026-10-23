@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173665", "enisaUuid": "6e9ec2f2-f526-3787-bdbf-3e40397d3975", "description": "Malicious code in phoebe-dotenv-safe-markdown-init (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29136"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

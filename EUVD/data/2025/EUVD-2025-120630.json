@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120630", "enisaUuid": "b1fdbc24-dd46-3baf-9ffd-7664587bcb60", "description": "Malicious code in wasat-restart-loglevel-carpo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149299"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

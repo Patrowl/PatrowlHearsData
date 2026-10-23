@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160181", "enisaUuid": "d8fcf25b-70aa-3383-a6ba-159be12abc4c", "description": "Malicious code in bilagscan (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15680"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115021", "enisaUuid": "18720b39-712a-3fa0-a820-59345b2de623", "description": "Malicious code in convict-rehype-callback-npm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141088"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

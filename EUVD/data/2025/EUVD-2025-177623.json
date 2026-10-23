@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177623", "enisaUuid": "bb30828a-ae3b-3d54-afd6-112d64538852", "description": "Malicious code in new-promise-compress-compress-private (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188259"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

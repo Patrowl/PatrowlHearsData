@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130318", "enisaUuid": "2b6f451a-e843-36e1-b276-24906691fcc2", "description": "Malicious code in spl-transpiler (PyPI)", "datePublished": "2025-07-31T19:16:35", "dateUpdated": "2025-07-31T19:16:35", "baseScore": 0.0, "aliases": ["MAL-2025-6593"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

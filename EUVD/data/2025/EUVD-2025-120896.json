@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120896", "enisaUuid": "4c21cc1b-b46e-3c6d-8b65-ef2287542c04", "description": "Malicious code in upgrade-spawn-server-inquirer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149033"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111581", "enisaUuid": "5d1cb1a3-3a4e-3143-bd50-ffa5066a0aed", "description": "Malicious code in loop-scripts-koa-oauth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144534"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

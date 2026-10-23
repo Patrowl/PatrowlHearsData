@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115173", "enisaUuid": "53fc0d3e-42f4-3f5f-aa16-df66bacb18fd", "description": "Malicious code in commitizen-less-loader-mysql-html-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140935"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

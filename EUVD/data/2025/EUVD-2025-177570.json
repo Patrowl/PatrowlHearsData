@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177570", "enisaUuid": "6c84c4b8-5ece-3c6f-9869-d47abe1a77ff", "description": "Malicious code in node-mu-private-new-runtime (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188312"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

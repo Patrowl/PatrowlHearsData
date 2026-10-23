@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114208", "enisaUuid": "e1de3721-1115-3058-ae40-22d25a054716", "description": "Malicious code in electron-builder-ganymede-tethys-module (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141902"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166807", "enisaUuid": "0adf4932-6b2e-3fbf-800b-f30d3f22a4ec", "description": "Malicious code in hawk-td-mocks (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22289"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124502", "enisaUuid": "f199a4ca-7928-32d3-a8c7-e1e0baf391b3", "description": "Malicious code in nextjs-nestjs-html-webpack-plugin-vuetify (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145419"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175868", "enisaUuid": "c32552b7-b691-37a8-b09d-9a1246a75234", "description": "Malicious code in try-alert-hash-catch-index (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190007"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

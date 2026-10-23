@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176898", "enisaUuid": "16eb04de-e8f2-35ae-95e1-5d4a002e0ff0", "description": "Malicious code in pulsar-selenium-oortcloud-dorado (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188977"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

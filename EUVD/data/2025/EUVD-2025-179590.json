@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179590", "enisaUuid": "e60e294a-58e2-3645-8ba4-4850133bdb02", "description": "Malicious code in container-error-sanitize-authenticate-sigma (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186292"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

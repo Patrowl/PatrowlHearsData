@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-202814", "enisaUuid": "4cbda74a-8c79-3bbd-aeec-5d0551fe09ea", "description": "Malicious code in elf-stats-evergreen-nightcap-747 (npm)", "datePublished": "2025-12-11T19:46:09", "dateUpdated": "2025-12-23T19:37:08", "baseScore": 0.0, "aliases": ["MAL-2025-192495"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-158753", "enisaUuid": "62edd4df-7e51-38d1-94dd-c2d58bcc896a", "description": "Malicious code in adonis-inquirer-redis-capella (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14107"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

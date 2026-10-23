@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196681", "enisaUuid": "e96bf36f-8323-3867-8c8e-3f97fc014818", "description": "Malicious code in monolith-twirp-github-repositories (RubyGems)", "datePublished": "2025-09-01T09:53:47", "dateUpdated": "2025-09-01T09:53:47", "baseScore": 0.0, "aliases": ["MAL-2025-46929"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

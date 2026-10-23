@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130314", "enisaUuid": "fb10edea-47cf-3ee9-9f24-33c4c1360f26", "description": "Malicious code in solidity-coverage (PyPI)", "datePublished": "2025-07-31T19:16:29", "dateUpdated": "2025-07-31T19:16:29", "baseScore": 0.0, "aliases": ["MAL-2025-6589"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

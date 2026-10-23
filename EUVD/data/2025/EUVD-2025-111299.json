@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111299", "enisaUuid": "5fba46ed-f861-30ec-9e91-cd6a611a2963", "description": "Malicious code in meissa-mocha-jsonp-pegasus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144816"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

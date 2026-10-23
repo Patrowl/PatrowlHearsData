@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114816", "enisaUuid": "bd2b08ab-39fd-38cc-ab47-82d8cc04a92a", "description": "Malicious code in csrf-postcss-dependencies-upgrade (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141293"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121383", "enisaUuid": "cdc7519e-6b89-358c-92c1-6fb1f6c59c7d", "description": "Malicious code in terser-webpack-plugin-csv-transform-native (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148545"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

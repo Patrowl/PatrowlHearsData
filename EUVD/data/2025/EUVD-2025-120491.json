@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120491", "enisaUuid": "e60b4bda-e49f-3316-9dfc-413f6d9a1e7b", "description": "Malicious code in weywot-gemini-dynamo-regulus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149439"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115193", "enisaUuid": "cba1f216-d4aa-34ea-aeb9-0b4caacea454", "description": "Malicious code in command-nebula-cygnus-restart (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140915"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

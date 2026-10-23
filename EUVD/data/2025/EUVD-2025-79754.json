@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-79754", "enisaUuid": "3c23cc41-6adc-3204-9ad4-a82f52f53527", "description": "Malicious code in back_vicuna_dumbs (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-99736"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

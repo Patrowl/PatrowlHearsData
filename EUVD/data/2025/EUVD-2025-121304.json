@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121304", "enisaUuid": "51cdcc64-9d89-38fc-b64a-ac4b12a5bc25", "description": "Malicious code in tethys-mongodb-orbit-nconf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148624"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

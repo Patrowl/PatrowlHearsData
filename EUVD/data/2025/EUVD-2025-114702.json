@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114702", "enisaUuid": "8a4c0f99-4aaf-3e92-a65a-f4cd1454a202", "description": "Malicious code in cypress-sails-quasar-json (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141407"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

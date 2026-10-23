@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-190132", "enisaUuid": "14078a5e-d76f-3254-bc7c-09efe8239cab", "description": "Malicious code in yarn_brb32_icind_echo (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-40354"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

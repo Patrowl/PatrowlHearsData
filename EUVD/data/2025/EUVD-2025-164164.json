@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164164", "enisaUuid": "f71b7813-174a-3472-9270-ba28609283ff", "description": "Malicious code in encrypt-compile-signal-visualize-root (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19643"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

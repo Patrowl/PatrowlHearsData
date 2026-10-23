@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179370", "enisaUuid": "b99e0669-a52e-371a-9ca2-d1d1593df0d2", "description": "Malicious code in deimos-await-castor-dotenv (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186512"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

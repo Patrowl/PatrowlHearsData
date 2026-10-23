@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123004", "enisaUuid": "bf14ca98-daba-302f-ba43-6b5f3dc26431", "description": "Malicious code in quark-aquarius-eslint-spawn (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146918"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

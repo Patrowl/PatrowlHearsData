@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177092", "enisaUuid": "d6d6489d-f1b8-3c1f-a56e-d806c99b441e", "description": "Malicious code in postcss-loader-prosthetics-loopback-javascript (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188783"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

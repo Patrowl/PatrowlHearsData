@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121647", "enisaUuid": "dfb396c9-c9cf-3850-b488-e874238e6d1b", "description": "Malicious code in start-octans-supervisor-nightwatch (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148278"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

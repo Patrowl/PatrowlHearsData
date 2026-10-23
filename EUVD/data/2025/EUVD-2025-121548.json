@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121548", "enisaUuid": "5667f02a-0847-3f16-bcb1-d5bc5687e346", "description": "Malicious code in superagent-corvus-enif-scripts (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148378"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

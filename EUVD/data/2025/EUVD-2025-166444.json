@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166444", "enisaUuid": "f410a659-1033-3b92-8cd6-694ca6a96f52", "description": "Malicious code in gridsome-mysql-avior-callback (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21926"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179880", "enisaUuid": "46b93d9c-f007-3097-9272-7a879c48fcca", "description": "Malicious code in capella-yaml-innercore-hermes (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186002"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

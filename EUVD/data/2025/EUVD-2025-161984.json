@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161984", "enisaUuid": "96c0943b-6578-35a8-a3eb-404f7b139538", "description": "Malicious code in confluent-examples-nodejs (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17485"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

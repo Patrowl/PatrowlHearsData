@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196691", "enisaUuid": "a74cc4a2-c51b-3483-b1e5-10473b13ef42", "description": "Malicious code in proto-dependabot-api (RubyGems)", "datePublished": "2025-09-01T09:53:17", "dateUpdated": "2025-09-01T09:53:17", "baseScore": 0.0, "aliases": ["MAL-2025-46939"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112938", "enisaUuid": "4f4acfd8-0709-32b9-aa38-7b53fc94f75e", "description": "Malicious code in halley-xenon-redis-auth0 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143174"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

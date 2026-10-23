@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112513", "enisaUuid": "6dde6e1a-0ef9-330f-87fe-cdd1e8a62216", "description": "Malicious code in ini-puppeteer-sirius-heka (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143600"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

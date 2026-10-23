@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125213", "enisaUuid": "9e873cfc-5ce2-305a-a9e4-9daf98b707db", "description": "Malicious code in elastic-buildkite-manager (npm)", "datePublished": "2025-02-18T19:01:35", "dateUpdated": "2025-02-18T19:01:35", "baseScore": 0.0, "aliases": ["MAL-2025-1469"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

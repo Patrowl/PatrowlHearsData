@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197041", "enisaUuid": "c4a62aaa-40be-37f0-90a0-f0b68d0647d0", "description": "Malicious code in vault-api-redux-client (npm)", "datePublished": "2025-09-24T16:41:52", "dateUpdated": "2025-09-24T16:41:52", "baseScore": 0.0, "aliases": ["MAL-2025-47515"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

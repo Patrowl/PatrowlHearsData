@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111165", "enisaUuid": "60fb73b9-a4cf-3a88-916e-daeb86ece0a5", "description": "Malicious code in middleware-despina-geckodriver-auth0 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144950"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

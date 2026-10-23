@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122989", "enisaUuid": "3aad4433-b1d9-3b9a-b007-1ee18109fa3b", "description": "Malicious code in quark-pipe-mocha-nodejs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146933"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

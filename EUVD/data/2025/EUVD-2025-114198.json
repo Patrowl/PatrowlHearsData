@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114198", "enisaUuid": "97aa535f-cb47-35bb-89d9-073064b9ac40", "description": "Malicious code in electron-builder-spica-halley-winston (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141912"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

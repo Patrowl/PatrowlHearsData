@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166408", "enisaUuid": "ddeeec5a-9f67-3f8e-a7b5-8aec6e2a6efa", "description": "Malicious code in graphql_swift_gen (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21890"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

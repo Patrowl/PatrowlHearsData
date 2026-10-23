@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179086", "enisaUuid": "af29ebc6-0998-3513-813a-99990df192ae", "description": "Malicious code in equinox-eclipse-redis-publish (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186796"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

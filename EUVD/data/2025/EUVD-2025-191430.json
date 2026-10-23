@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191430", "enisaUuid": "376e8495-8297-3022-be61-fa876dafb01c", "description": "Malicious code in dns-lexiconrequests-mock (PyPI)", "datePublished": "2025-08-28T07:10:59", "dateUpdated": "2025-08-28T07:10:59", "baseScore": 0.0, "aliases": ["MAL-2025-41663"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189168", "enisaUuid": "5e8c90e2-d180-3cd8-bf2a-705a7036d121", "description": "Malicious code in wminput (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39382"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

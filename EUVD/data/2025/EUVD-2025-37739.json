@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37739", "enisaUuid": "9e8f2ddb-8551-372f-897d-eb5995903db6", "description": "Malicious code in pkg-with-optional (npm)", "datePublished": "2025-11-04T04:19:05", "dateUpdated": "2025-11-09T00:27:57", "baseScore": 0.0, "aliases": ["MAL-2025-49349"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

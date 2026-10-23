@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112041", "enisaUuid": "8bb4edb2-dbe1-3cb1-9619-4232526457ab", "description": "Malicious code in jwt-figures-ora-commitizen (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144072"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

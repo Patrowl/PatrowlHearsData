@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193307", "enisaUuid": "cf36b844-e987-31c4-95c4-0a7d13feb8de", "description": "Malicious code in azure-iot-stresstests (npm)", "datePublished": "2025-09-05T16:38:20", "dateUpdated": "2025-09-05T16:38:20", "baseScore": 0.0, "aliases": ["MAL-2025-43554"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

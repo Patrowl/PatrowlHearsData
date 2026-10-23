@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183796", "enisaUuid": "af285e7a-1a56-3b0f-912b-25615df64654", "description": "Malicious code in strapi-upload-aws-s3 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34011"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

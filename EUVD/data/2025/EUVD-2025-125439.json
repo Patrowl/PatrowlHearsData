@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125439", "enisaUuid": "083319d9-f179-37d7-9280-dcbb91458ecd", "description": "Malicious code in @mp-food/restaurant-orders (npm)", "datePublished": "2025-03-03T13:13:18", "dateUpdated": "2025-03-03T13:13:18", "baseScore": 0.0, "aliases": ["MAL-2025-1695"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

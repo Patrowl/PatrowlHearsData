@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179188", "enisaUuid": "27fbe386-48b6-3f36-8a7b-514428887dfb", "description": "Malicious code in elara-hexo-postgres-astrochemistry (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186694"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

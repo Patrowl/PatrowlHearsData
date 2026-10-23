@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123601", "enisaUuid": "9ff68a5d-3a0c-356e-9695-971f3a6601fa", "description": "Malicious code in polaris-alphard-sequelize-atlas (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146320"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

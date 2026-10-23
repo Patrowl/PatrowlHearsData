@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121136", "enisaUuid": "2115adec-d813-3c6f-8e74-98dfc766bacc", "description": "Malicious code in transport-lynx-transform-webdriver-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148792"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

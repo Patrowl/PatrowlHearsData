@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195550", "enisaUuid": "56da62f9-2e3b-328f-abc7-454b0d05c10f", "description": "Malicious code in remark-charon-await-kinetic (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45798"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113523", "enisaUuid": "41994c4d-8d50-353a-81f7-e0e205ef2262", "description": "Malicious code in fork-gulp-bellatrix-semantic-release (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142589"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

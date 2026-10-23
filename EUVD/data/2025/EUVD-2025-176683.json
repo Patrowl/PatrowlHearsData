@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176683", "enisaUuid": "ab0c60e3-35a9-3ed5-bd7e-876dd8497ec7", "description": "Malicious code in resolve-code-sun-sanitize-fast (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189192"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

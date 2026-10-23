@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113498", "enisaUuid": "b70c360c-0b39-36d3-80f4-9ff13f32e896", "description": "Malicious code in fornax-corvus-socketio-antd (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142614"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

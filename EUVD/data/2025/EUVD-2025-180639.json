@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180639", "enisaUuid": "51fae483-c50e-32d8-9bea-61f9fba7698b", "description": "Malicious code in pulsar-elderberry-inbe (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-30834"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

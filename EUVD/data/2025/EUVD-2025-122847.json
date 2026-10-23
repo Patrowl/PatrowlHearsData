@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122847", "enisaUuid": "8fca6652-c876-3970-b8b7-0a33a3bc6c59", "description": "Malicious code in react-bootstrap-socketio-nestjs-jsonp (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147075"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

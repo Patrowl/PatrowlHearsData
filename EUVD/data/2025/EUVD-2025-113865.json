@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113865", "enisaUuid": "b99dac59-386f-37d5-bf46-06696d690ca4", "description": "Malicious code in eslint-plugin-tool-rest-firebase (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142245"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

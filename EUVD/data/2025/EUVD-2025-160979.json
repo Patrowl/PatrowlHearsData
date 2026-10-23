@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160979", "enisaUuid": "a95a998a-9c8d-366d-aa52-8eb1e87cf397", "description": "Malicious code in cammy-web-analytics (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16478"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

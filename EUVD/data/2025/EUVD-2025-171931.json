@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171931", "enisaUuid": "c801427a-355a-362a-83ff-4fd730afbb3b", "description": "Malicious code in nextjs-default (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-09-26T11:06:45", "baseScore": 0.0, "aliases": ["MAL-2025-27402"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

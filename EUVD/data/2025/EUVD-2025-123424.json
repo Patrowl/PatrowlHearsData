@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123424", "enisaUuid": "7d469666-7fa9-331d-84d9-64e1ba62b05d", "description": "Malicious code in prettier-plugin-markdown-winston-phenomic-airbnb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146498"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

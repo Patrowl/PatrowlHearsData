@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112591", "enisaUuid": "4309a7be-fef1-3de5-a9ad-5bdccf1b7a59", "description": "Malicious code in ignite-package-axios-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143521"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

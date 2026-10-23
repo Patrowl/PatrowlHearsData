@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177533", "enisaUuid": "388e107a-6edf-38d5-86a3-b6ca6fe1d25a", "description": "Malicious code in notify-string-deploy-file-private (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188349"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

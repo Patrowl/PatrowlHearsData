@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130235", "enisaUuid": "6021d3f3-ac43-375e-9c9c-5c1f146272dd", "description": "Malicious code in gcdt-bundler (PyPI)", "datePublished": "2025-07-31T19:15:05", "dateUpdated": "2025-07-31T19:15:05", "baseScore": 0.0, "aliases": ["MAL-2025-6509"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176923", "enisaUuid": "e11da35a-40bf-38f4-aae1-e382d9919c0a", "description": "Malicious code in publish-nova-helios-restart (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188952"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

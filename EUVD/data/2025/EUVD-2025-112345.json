@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112345", "enisaUuid": "24b06f3c-9a44-39fc-98dc-90ce65a1402a", "description": "Malicious code in jabbah-aether-heka-library (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143768"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

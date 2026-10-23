@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113233", "enisaUuid": "59ba0286-d523-3fda-9974-15d6dc27f756", "description": "Malicious code in geckodriver-process-module-draco (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142879"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

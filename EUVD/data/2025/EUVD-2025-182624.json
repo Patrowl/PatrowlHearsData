@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182624", "enisaUuid": "8c0616a9-1c07-3f9e-8db8-737f692be5ed", "description": "Malicious code in scrm.js (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32839"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

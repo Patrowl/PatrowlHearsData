@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123303", "enisaUuid": "37015c00-4885-3737-ac5a-e7cb950bcdea", "description": "Malicious code in procyon-tethys-epimetheus-stop (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146619"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

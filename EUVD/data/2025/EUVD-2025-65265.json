@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-65265", "enisaUuid": "ae686d6c-ceb7-3bed-8b7f-ca35cf9f8459", "description": "Malicious code in assistant_smelt_z3n (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-93289"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191889", "enisaUuid": "c557d906-b2a7-3c8d-ad50-987429718a3b", "description": "Malicious code in pp-react-segmented-controller (npm)", "datePublished": "2025-08-27T16:29:03", "dateUpdated": "2025-09-26T11:06:45", "baseScore": 0.0, "aliases": ["MAL-2025-42131"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

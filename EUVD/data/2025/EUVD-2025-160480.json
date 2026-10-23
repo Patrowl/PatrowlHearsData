@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160480", "enisaUuid": "a65941c7-4a05-36b2-a844-a2d0fbe80356", "description": "Malicious code in bootes-zephyr-polaris-markdownlint (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15979"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

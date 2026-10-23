@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111570", "enisaUuid": "7e8d37c0-98e7-3f8a-bdb0-7e600c65c7ea", "description": "Malicious code in loopback-cors-scorpius-quasar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144545"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

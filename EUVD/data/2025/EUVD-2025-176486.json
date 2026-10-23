@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176486", "enisaUuid": "6b11e6d9-e84c-3b74-9e49-ac9a982e0ca0", "description": "Malicious code in scripts-octans-redis-technosignature (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189389"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

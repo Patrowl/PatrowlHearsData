@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197147", "enisaUuid": "2eac53b2-4346-3f4f-90cc-47fbf5193a3f", "description": "Malicious code in gatsby-plugin-apollo-onetrust (npm)", "datePublished": "2025-09-26T09:32:10", "dateUpdated": "2025-09-26T09:32:10", "baseScore": 0.0, "aliases": ["MAL-2025-47674"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

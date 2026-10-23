@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-31779", "enisaUuid": "27a948dc-eeb8-3c0d-98d2-3dc90f34b2fc", "description": "Malicious code in com.unity.device-simulator.devices (npm)", "datePublished": "2025-09-26T04:49:35", "dateUpdated": "2025-09-30T06:09:20", "baseScore": 0.0, "aliases": ["MAL-2025-47846"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

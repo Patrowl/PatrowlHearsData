@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115554", "enisaUuid": "4a633376-0732-3623-8e32-baa217629d1e", "description": "Malicious code in centaurus-scripts-gulp-terser-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140553"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

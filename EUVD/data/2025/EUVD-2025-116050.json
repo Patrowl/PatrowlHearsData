@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116050", "enisaUuid": "717f106e-6832-3f2b-988d-2b708ca65e3b", "description": "Malicious code in blitz-nodejs-postcss-umbra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140052"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

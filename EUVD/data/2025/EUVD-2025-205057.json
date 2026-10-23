@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-205057", "enisaUuid": "4e13a55c-039c-343e-94c1-d249ed336db9", "description": "Malicious code in elf-stats-whimsical-cocoa-613 (npm)", "datePublished": "2025-12-23T08:11:33", "dateUpdated": "2025-12-24T00:53:16", "baseScore": 0.0, "aliases": ["MAL-2025-192794"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

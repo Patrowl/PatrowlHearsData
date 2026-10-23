@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120586", "enisaUuid": "243d3471-8440-368d-bdb8-9250923d5435", "description": "Malicious code in webdriver-mocha-ceres-luna-markdown-pdf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149343"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

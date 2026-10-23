@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-186627", "enisaUuid": "4d1fe015-6067-3f96-8334-03948a996548", "description": "Malicious code in thread-reject-runtime-quick-rain (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-36837"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

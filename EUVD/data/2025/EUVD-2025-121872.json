@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121872", "enisaUuid": "8fed7fc4-ef1b-3cbc-9b7b-403ba9982cd4", "description": "Malicious code in socketio-fetch-jekyll-bellatrix (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148053"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

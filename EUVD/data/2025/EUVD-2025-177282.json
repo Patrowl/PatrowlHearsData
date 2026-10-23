@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177282", "enisaUuid": "7cb002f3-7222-3cb4-811a-6792164daf36", "description": "Malicious code in pegasus-nightwatch-nconf-selenium (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188600"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191124", "enisaUuid": "4d366ebc-a54e-3640-accc-25adf39fe650", "description": "Malicious code in @spdf/astrotheme (npm)", "datePublished": "2025-08-23T21:49:54", "dateUpdated": "2025-08-24T20:36:25", "baseScore": 0.0, "aliases": ["MAL-2025-41346"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123811", "enisaUuid": "fc7ba43c-7e9d-3930-af79-8808161f2ca4", "description": "Malicious code in perseus-redis-comet-eleventy (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146110"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179939", "enisaUuid": "196e58a7-da87-3001-b1b5-a12b1e658c06", "description": "Malicious code in bunyan-callback-pipe-mysql (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185943"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120913", "enisaUuid": "08bcc736-f4c9-3d97-8c05-70324b8dc70a", "description": "Malicious code in upgrade-hermes-jovian-lint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149016"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-186518", "enisaUuid": "8d8c0e50-2470-369b-9641-173239e3f4ac", "description": "Malicious code in testkeystore (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-36734"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

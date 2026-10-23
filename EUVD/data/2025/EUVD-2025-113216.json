@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113216", "enisaUuid": "624e9f98-4584-3a3a-b234-0a4bfe5c47c1", "description": "Malicious code in gemini-dynamo-mongodb-exec (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142896"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

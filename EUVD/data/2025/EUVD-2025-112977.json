@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112977", "enisaUuid": "04b89fb7-0191-3804-b87e-a06bee5a0d78", "description": "Malicious code in halley-dotenv-parse-variables-hermes-promise (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143135"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

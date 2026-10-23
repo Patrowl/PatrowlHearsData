@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179594", "enisaUuid": "07f9fca4-9a17-396b-8f7a-7ec4247bcd7e", "description": "Malicious code in configstore-quark-sync-callback (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186288"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

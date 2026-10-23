@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179929", "enisaUuid": "540418ef-eab2-3704-b9b3-f2f884aa7e48", "description": "Malicious code in bunyan-titan-sadr-loop (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185953"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

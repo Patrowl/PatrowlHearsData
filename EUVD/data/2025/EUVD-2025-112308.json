@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112308", "enisaUuid": "7535038a-3172-3343-8c23-d54bf9490d53", "description": "Malicious code in janus-dorado-repository-soap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143805"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

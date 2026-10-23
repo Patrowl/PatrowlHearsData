@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115327", "enisaUuid": "04faa6ef-c495-31da-9e6c-9198da49fc64", "description": "Malicious code in chromedriver-oauth-janus-firebase (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140780"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

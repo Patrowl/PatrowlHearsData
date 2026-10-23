@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76051", "enisaUuid": "0a5b8c92-3296-34a6-8ed4-c32bb9bae966", "description": "Malicious code in passive_pelican-appteadev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-106940"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

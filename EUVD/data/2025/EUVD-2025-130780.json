@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130780", "enisaUuid": "94b64296-05ba-3f45-9efc-b5f377172144", "description": "Malicious code in @amber-team/gatsby-plugin-semcore (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7058"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

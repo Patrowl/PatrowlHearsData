@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161161", "enisaUuid": "2fbf6a06-0510-351a-98c7-8273ed65220d", "description": "Malicious code in catbox-sqlserver (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16660"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

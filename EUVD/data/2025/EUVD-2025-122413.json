@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122413", "enisaUuid": "c26ce1f9-b67e-35ec-8918-240aab5178bb", "description": "Malicious code in rollup-plugin-async-shelljs-procyon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147509"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

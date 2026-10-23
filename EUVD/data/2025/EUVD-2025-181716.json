@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181716", "enisaUuid": "474bc906-cd56-39fb-8a9f-f422bfa58afe", "description": "Malicious code in redis-chromedriver-typeorm-magellan (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31931"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

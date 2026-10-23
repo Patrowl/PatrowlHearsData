@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179822", "enisaUuid": "35af2842-e1e0-370a-81d4-f77fe2116492", "description": "Malicious code in centaurus-browserify-run-script-interferometry (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186060"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

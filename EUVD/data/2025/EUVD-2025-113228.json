@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113228", "enisaUuid": "21f5455b-bb8c-3930-af5c-f051bcc37c1b", "description": "Malicious code in geckodriver-taurus-foundation-procyon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142884"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181607", "enisaUuid": "624ec7a8-50fc-30af-af00-3e54b5913220", "description": "Malicious code in react-native-pankanis-log (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31822"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

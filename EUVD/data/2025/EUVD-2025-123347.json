@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123347", "enisaUuid": "eb2ed0c9-fbee-3711-a26f-dedcd49a8894", "description": "Malicious code in process-xo-triton-farout (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146575"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112541", "enisaUuid": "266d8d40-a635-3107-a18c-f39c32f7efba", "description": "Malicious code in indus-passport-oauth-dotenv-safe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143572"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

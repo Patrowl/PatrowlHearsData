@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112726", "enisaUuid": "a06272f3-d200-33ab-b8b1-b5dce3b926d7", "description": "Malicious code in hugo-dependencies-quantum-janus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143386"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

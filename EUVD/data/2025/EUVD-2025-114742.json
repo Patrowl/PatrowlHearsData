@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114742", "enisaUuid": "8e7e9249-1263-381c-9b46-b532f120630f", "description": "Malicious code in cygnus-heka-mensa-hermes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141367"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

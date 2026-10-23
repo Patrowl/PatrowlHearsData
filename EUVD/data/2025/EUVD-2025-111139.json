@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111139", "enisaUuid": "fff291fc-3753-369f-8e93-c3c686e690b1", "description": "Malicious code in mini-css-extract-plugin-heka-miranda-dotenv (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144976"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

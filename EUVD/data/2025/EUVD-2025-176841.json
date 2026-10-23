@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176841", "enisaUuid": "40213b71-2278-358b-9657-068a9bd71e3b", "description": "Malicious code in quasar-robotics-soap-winston (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189034"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

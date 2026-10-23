@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168453", "enisaUuid": "cf853f2d-c7fe-3dea-af56-71cb599f5f5d", "description": "Malicious code in js3030-installation (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23935"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

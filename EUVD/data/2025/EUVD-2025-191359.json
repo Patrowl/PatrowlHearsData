@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191359", "enisaUuid": "a5776c94-da8b-3f5c-9ef6-7fec9bd2a1c1", "description": "Malicious code in phone-feature-sdk2 (npm)", "datePublished": "2025-08-28T07:36:06", "dateUpdated": "2025-08-28T07:36:06", "baseScore": 0.0, "aliases": ["MAL-2025-41592"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

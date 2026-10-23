@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76159", "enisaUuid": "15d42b4b-a4b8-3b73-afdc-03606f523667", "description": "Malicious code in nutty_meerkat-tool (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-106465"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

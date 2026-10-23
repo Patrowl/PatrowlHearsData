@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123635", "enisaUuid": "6f7916e9-f969-33fe-9538-08f366eba9e0", "description": "Malicious code in playwright-proxima-dactyl-umbriel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146286"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

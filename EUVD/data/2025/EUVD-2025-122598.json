@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122598", "enisaUuid": "417cc101-dc54-36c5-883a-f3a2a0bdef5d", "description": "Malicious code in resolvers-forever-grunt-koa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147324"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

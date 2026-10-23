@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120707", "enisaUuid": "66ee4dbc-ae99-33ee-bbda-a3388c40fe6f", "description": "Malicious code in vuetify-tool-markdown-apollo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149222"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

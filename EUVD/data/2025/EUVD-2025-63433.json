@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63433", "enisaUuid": "c52ef39e-81e3-334f-8703-33d5a6541a42", "description": "Malicious code in isolated_mastodon_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-95121"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

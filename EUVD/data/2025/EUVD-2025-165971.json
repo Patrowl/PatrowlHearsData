@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165971", "enisaUuid": "867c0aea-5f3c-3676-bddc-ee1c85c0f3bf", "description": "Malicious code in git-cliff-win32-arm64 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21452"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

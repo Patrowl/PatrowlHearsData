@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193869", "enisaUuid": "ef030872-b207-3acb-b303-624e8c5e1b0c", "description": "Malicious code in elara-postgres-auth-rigel (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44116"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

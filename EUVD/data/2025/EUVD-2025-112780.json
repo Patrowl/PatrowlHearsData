@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112780", "enisaUuid": "20b8f2ed-9563-324f-9250-4e2aa89f30bb", "description": "Malicious code in hermes-webdriver-manager-janus-hyperion (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143332"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

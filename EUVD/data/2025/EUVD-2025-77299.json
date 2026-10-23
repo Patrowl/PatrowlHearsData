@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77299", "enisaUuid": "1ce27b43-7d4a-3051-92f9-c02e1c15f24e", "description": "Malicious code in compact_rook-gooddev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-100735"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

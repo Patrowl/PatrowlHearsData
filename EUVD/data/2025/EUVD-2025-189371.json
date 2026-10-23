@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189371", "enisaUuid": "a60ed0b1-3831-3b38-926f-e318e3807a73", "description": "Malicious code in xanthus-writable-janus-middleware (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39585"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

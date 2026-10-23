@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127887", "enisaUuid": "f91cb575-43c1-3a23-b612-79ef519b3d9d", "description": "Malicious code in @motortrend/sonic-api (npm)", "datePublished": "2025-05-22T12:35:50", "dateUpdated": "2025-05-22T12:35:50", "baseScore": 0.0, "aliases": ["MAL-2025-4155"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

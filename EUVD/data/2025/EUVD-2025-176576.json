@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176576", "enisaUuid": "c101db42-4d4c-3079-b95c-1b51e739c704", "description": "Malicious code in runtime-stack-awk-visualize-monitor (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189299"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

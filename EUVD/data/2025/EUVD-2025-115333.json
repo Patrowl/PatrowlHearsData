@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115333", "enisaUuid": "0daa8a97-a9f7-339b-b518-f46ba9e73759", "description": "Malicious code in chromedriver-husky-flare-bellatrix (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140774"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

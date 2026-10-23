@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77783", "enisaUuid": "1c73cf37-e23c-3682-8d93-118ed98fd5c7", "description": "Malicious code in alert_stoat_z3n (npm)", "datePublished": "2025-11-11T07:31:13", "dateUpdated": "2025-11-11T07:31:13", "baseScore": 0.0, "aliases": ["MAL-2025-99344"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

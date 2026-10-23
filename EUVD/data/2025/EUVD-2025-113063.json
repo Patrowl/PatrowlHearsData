@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113063", "enisaUuid": "e6344582-19c3-3baa-a44a-92bf7ee1ed6e", "description": "Malicious code in gridsome-orbit-sqlite-redis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143049"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

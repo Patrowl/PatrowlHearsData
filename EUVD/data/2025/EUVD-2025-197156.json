@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197156", "enisaUuid": "389c2e89-2ae4-3af4-ab2a-9e733b61b691", "description": "Malicious code in kotlin-wasm-package-lock-project (npm)", "datePublished": "2025-09-26T09:34:53", "dateUpdated": "2025-09-26T09:34:53", "baseScore": 0.0, "aliases": ["MAL-2025-47683"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

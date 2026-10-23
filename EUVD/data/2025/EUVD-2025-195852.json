@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195852", "enisaUuid": "c4ba5c1e-4b9c-39aa-bd4f-9ca34d49f786", "description": "Malicious code in soap-instrument-nails (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46100"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188445", "enisaUuid": "8ded5cb6-3c0f-3060-876f-6cba80721951", "description": "Malicious code in vslearn (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38659"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

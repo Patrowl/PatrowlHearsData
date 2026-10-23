@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178349", "enisaUuid": "9b79a03f-b84a-3d78-8bb9-be220ff687b4", "description": "Malicious code in iota-bash-bundle-delta-encrypt (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187533"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

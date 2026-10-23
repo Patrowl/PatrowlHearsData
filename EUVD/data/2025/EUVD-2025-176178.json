@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176178", "enisaUuid": "138bfa2d-a7e3-3281-a381-c52ffcf028ca", "description": "Malicious code in string-eslint-antd-cosmology (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189697"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189114", "enisaUuid": "6ac45886-2344-37b3-87f1-5a4e58d93d94", "description": "Malicious code in winston-jest-webdriver-mocha-stream (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39328"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

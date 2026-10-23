@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169234", "enisaUuid": "0daeec96-8499-3b19-b907-3f9405ca56ae", "description": "Malicious code in koa-mq (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24716"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

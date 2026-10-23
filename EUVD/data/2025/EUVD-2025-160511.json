@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160511", "enisaUuid": "c4d464c8-7dab-335a-8c2b-556cf6a1bfc2", "description": "Malicious code in botkit-storage-mongo-updated (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16010"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

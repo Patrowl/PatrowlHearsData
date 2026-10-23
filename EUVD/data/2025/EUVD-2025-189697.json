@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189697", "enisaUuid": "f7a46b25-a9a7-3900-914c-82bab69bacf3", "description": "Malicious code in xpull_exchanges_m (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39919"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

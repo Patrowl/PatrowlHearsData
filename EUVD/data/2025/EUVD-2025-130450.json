@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130450", "enisaUuid": "3a778e8f-ec84-3c51-aeec-8fc682b0d668", "description": "Malicious code in hyperion-react-native-testapp (npm)", "datePublished": "2025-07-28T18:03:36", "dateUpdated": "2025-07-28T18:03:36", "baseScore": 0.0, "aliases": ["MAL-2025-6727"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

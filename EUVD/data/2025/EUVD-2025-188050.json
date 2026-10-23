@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188050", "enisaUuid": "c9ab2f28-1277-3f14-8637-2086a2989e07", "description": "Malicious code in vertical-db-driver (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38262"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160306", "enisaUuid": "d930ba82-b850-3e83-b7c5-9dca9c3693c3", "description": "Malicious code in blazar-comet-toml-resolvers (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15805"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

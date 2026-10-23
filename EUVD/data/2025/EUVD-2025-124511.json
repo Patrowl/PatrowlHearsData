@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124511", "enisaUuid": "2d08449c-2f2b-32e6-882a-6da5d9bc25a6", "description": "Malicious code in nextjs-callisto-xanthus-auth0 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145410"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

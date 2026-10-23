@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194965", "enisaUuid": "80f31b55-50b2-3267-9193-3dc308cf5b8a", "description": "Malicious code in module-xenos-install-oauth (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45212"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

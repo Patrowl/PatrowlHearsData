@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179179", "enisaUuid": "741d5ea5-c2fc-3d7c-9304-c815aec32d1c", "description": "Malicious code in electron-pm2-toml-test (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186703"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

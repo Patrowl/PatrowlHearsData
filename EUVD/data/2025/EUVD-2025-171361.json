@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171361", "enisaUuid": "9e38125a-a887-3960-93f7-86f10aaf2758", "description": "Malicious code in ms-policyservice (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26832"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

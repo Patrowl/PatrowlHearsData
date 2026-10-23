@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122022", "enisaUuid": "610c55de-b9ee-3dc6-bf7e-9ec88a6bbea0", "description": "Malicious code in server-nashira-xml-nightwatch (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147901"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

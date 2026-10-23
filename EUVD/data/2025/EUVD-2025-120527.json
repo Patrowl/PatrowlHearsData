@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120527", "enisaUuid": "b60cc4d4-f024-326a-bc40-6d8c09717043", "description": "Malicious code in webpack-perseus-version-hyperion (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149402"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

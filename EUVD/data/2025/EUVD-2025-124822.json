@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124822", "enisaUuid": "ed39ddd9-71bd-382e-af81-0340dec3b359", "description": "Malicious code in mocha-zenobia-prettier-stylelint-style-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145096"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

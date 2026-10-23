@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128781", "enisaUuid": "5197d455-1a0e-349b-a9a3-d96601952cea", "description": "Malicious code in react-redux-hydra (npm)", "datePublished": "2025-06-13T01:48:41", "dateUpdated": "2025-06-13T01:48:41", "baseScore": 0.0, "aliases": ["MAL-2025-5052"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

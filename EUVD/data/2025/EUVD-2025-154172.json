@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-154172", "enisaUuid": "82e49ca6-b8d1-38b2-b375-2f0488906eda", "description": "Malicious code in @wix-platform/velo-multilingual-helper (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9671"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

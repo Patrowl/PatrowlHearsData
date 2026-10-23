@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176372", "enisaUuid": "1b3e689b-1a4b-3338-aede-bfcb5ab6953f", "description": "Malicious code in simulate-small-enum-protected-cluster (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189503"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

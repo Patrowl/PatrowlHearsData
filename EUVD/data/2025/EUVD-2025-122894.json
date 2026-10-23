@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122894", "enisaUuid": "ecf5cf2f-b01e-3773-80a5-ac1b5f7de1d5", "description": "Malicious code in rate-limiter-acamar-cache-prettier-plugin-markdown (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147028"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

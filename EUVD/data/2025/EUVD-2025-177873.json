@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177873", "enisaUuid": "17866795-5b29-3951-a562-0a442361c7e3", "description": "Malicious code in metalsmith-postcss-loader-magellan-test (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188009"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

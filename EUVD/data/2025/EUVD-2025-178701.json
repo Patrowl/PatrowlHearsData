@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178701", "enisaUuid": "dcdb6d5d-f0bf-3a8f-a21f-daaa4daf17b6", "description": "Malicious code in global-gridsome-oauth-supervisor (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187181"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

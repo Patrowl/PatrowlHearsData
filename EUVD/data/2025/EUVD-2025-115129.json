@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115129", "enisaUuid": "fe2305e6-9b8f-3170-a2b0-5a18d8d67a4a", "description": "Malicious code in commitlint-enif-pegasus-gulp (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140979"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

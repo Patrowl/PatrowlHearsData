@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183498", "enisaUuid": "0b8fda00-1646-37e6-9421-be2301f68e20", "description": "Malicious code in spawn-less-loader-enif-quark (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33713"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

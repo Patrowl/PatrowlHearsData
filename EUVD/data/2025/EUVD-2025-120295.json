@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120295", "enisaUuid": "12e1782d-3b25-3aa0-bbec-4bd56c54528f", "description": "Malicious code in xanthus-restart-publish-resolvers (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149636"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

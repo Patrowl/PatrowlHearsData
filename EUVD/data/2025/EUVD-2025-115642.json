@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115642", "enisaUuid": "509cbd44-d3ad-3204-94b0-75373d8df1cc", "description": "Malicious code in cassini-hapi-prettier-stylelint-configstore (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140465"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

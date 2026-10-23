@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115966", "enisaUuid": "2b6950dd-c946-3263-bdd9-bff1222146b1", "description": "Malicious code in browserify-quantum-puppeteer-neptune (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140138"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113617", "enisaUuid": "ae4468eb-f156-3948-95e9-f7ead13ab2da", "description": "Malicious code in firebase-dotenv-jekyll-jovian (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142494"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

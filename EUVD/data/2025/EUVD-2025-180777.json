@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180777", "enisaUuid": "23cea4c9-0f44-3cd3-bb30-9942a86fa9ee", "description": "Malicious code in qbirc-parser (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-30991"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

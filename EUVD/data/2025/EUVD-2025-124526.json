@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124526", "enisaUuid": "40066673-a3bb-3d4c-9881-69534061dc9b", "description": "Malicious code in nestjs-element-ui-forever-json (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145394"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

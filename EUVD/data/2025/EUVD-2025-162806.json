@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162806", "enisaUuid": "5eea8f08-6d96-31ab-84d8-65accae959c5", "description": "Malicious code in deserialize-slow-warn-quick-export (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18307"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

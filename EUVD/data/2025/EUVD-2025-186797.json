@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-186797", "enisaUuid": "f8560db1-2661-3cb2-b5f9-1abf502e30ea", "description": "Malicious code in todlib (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37007"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

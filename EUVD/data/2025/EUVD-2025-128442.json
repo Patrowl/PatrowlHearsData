@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128442", "enisaUuid": "674f62d2-8ebf-3574-891b-1285d371351c", "description": "Malicious code in kubernetes.io (npm)", "datePublished": "2025-06-06T19:41:17", "dateUpdated": "2025-06-18T15:07:35", "baseScore": 0.0, "aliases": ["MAL-2025-4710"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

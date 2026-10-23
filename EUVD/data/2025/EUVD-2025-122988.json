@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122988", "enisaUuid": "48eeb497-dd9d-37da-98bc-668ca8c00538", "description": "Malicious code in quark-process-schema-eslint-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146934"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-190343", "enisaUuid": "24708ce3-92d2-386e-b2da-090537c51f56", "description": "Malicious code in ynodejs_mod_yahoo_intl (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-40565"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

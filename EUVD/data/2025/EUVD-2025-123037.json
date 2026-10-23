@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123037", "enisaUuid": "f4634168-3d12-3429-aa4d-1e378effda7f", "description": "Malicious code in pyxis-pavo-electron-builder-odin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146885"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

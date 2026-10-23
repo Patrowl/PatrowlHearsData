@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162644", "enisaUuid": "4d5623d9-aa12-32af-8422-148801d5cbb1", "description": "Malicious code in debugger-for-ios-web (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18145"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

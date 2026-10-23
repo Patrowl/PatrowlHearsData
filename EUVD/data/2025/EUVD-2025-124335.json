@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124335", "enisaUuid": "69bd0919-5e6c-30db-af87-2774f6a5d7ab", "description": "Malicious code in nodemon-nconf-sadr-vuepress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145586"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

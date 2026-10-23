@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114478", "enisaUuid": "008b2a7c-c747-3fc1-8f3e-64049541c0f0", "description": "Malicious code in development-sedna-webdriver-mocha-loglevel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141631"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

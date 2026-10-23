@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179849", "enisaUuid": "6f9466ec-fc4d-3dbc-a4f1-9322418db312", "description": "Malicious code in cat-sudo-node-decrypt-analyze (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186033"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

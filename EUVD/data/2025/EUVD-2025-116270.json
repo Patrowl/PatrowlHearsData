@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116270", "enisaUuid": "20dd30e3-901e-3ccd-8d36-0d4eef6284f9", "description": "Malicious code in axios-karma-mensa-magellan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139832"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

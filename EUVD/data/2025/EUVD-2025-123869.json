@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123869", "enisaUuid": "d07ade2a-14ee-3f04-ae7d-2e55d8591e91", "description": "Malicious code in pegasus-sequelize-antares-jsonp (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146052"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

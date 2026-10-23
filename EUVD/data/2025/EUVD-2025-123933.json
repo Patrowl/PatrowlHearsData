@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123933", "enisaUuid": "2dd8e0ae-a4a2-3a69-9d97-613491dce7ea", "description": "Malicious code in passport-websockets-apollo-pipe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145988"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

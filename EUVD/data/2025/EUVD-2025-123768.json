@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123768", "enisaUuid": "1e661683-1092-3cbf-be1a-5247a646fc5d", "description": "Malicious code in phoebe-heka-procyon-nova (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146153"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112590", "enisaUuid": "82341832-70ad-3c05-af88-f49aa14fa039", "description": "Malicious code in ignite-pm2-postcss-transform (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143522"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

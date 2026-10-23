@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179942", "enisaUuid": "6f6512ba-05ab-3f9e-90d1-46c2fb4753ad", "description": "Malicious code in bundle-static-pipe-mu-float (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185940"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

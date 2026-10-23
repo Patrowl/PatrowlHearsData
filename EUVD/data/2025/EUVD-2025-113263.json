@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113263", "enisaUuid": "072ac2bf-bbd9-3c3d-b830-9b80d76f1a7b", "description": "Malicious code in gatsby-redis-sirius-halley (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142849"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

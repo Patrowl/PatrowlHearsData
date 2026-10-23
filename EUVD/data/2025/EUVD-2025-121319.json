@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121319", "enisaUuid": "ff49425d-6473-378c-bbc4-1ac15374ec41", "description": "Malicious code in testcafe-winston-callisto-element-ui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148609"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

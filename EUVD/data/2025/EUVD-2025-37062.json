@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37062", "enisaUuid": "44e79c29-3007-3499-88a5-10ff774351d4", "description": "Malicious code in mms-thin-client (npm)", "datePublished": "2025-10-30T17:38:57", "dateUpdated": "2025-10-30T17:38:57", "baseScore": 0.0, "aliases": ["MAL-2025-49231"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

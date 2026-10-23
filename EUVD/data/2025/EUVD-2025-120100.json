@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120100", "enisaUuid": "f29b2123-9540-3076-b8ff-15fbfd95665b", "description": "Malicious code in yonder-child-process-writable-postgres (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149832"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176433", "enisaUuid": "2305b678-e161-340a-9491-2995c06fd0bc", "description": "Malicious code in sequelize-configstore-neuromorphic-petrology (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189442"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

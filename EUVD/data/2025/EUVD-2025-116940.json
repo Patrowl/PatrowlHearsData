@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116940", "enisaUuid": "caa861c3-90ce-3998-8ec6-3afc98e1e2ea", "description": "Malicious code in acamar-aether-bunyan-postgres (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139162"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

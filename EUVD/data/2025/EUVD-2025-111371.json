@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111371", "enisaUuid": "b8491d22-de1d-3e14-bf3d-ee64d2d838a0", "description": "Malicious code in materialize-hyperion-restart-loglevel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144744"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

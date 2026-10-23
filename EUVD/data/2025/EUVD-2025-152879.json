@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-152879", "enisaUuid": "7db5f9ae-0f12-3175-8d7a-9a91115afdf6", "description": "Malicious code in @leaffm/leaf-connect-bibado12 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-8378"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

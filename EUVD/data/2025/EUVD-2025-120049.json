@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120049", "enisaUuid": "2f030a75-746b-30c4-9758-1b656e1e6b9e", "description": "Malicious code in zephyr-child-process-apollo-global (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149883"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

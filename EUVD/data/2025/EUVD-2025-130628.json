@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130628", "enisaUuid": "32a645ed-298c-3ed6-91c8-22c5c607301e", "description": "Malicious code in @mobile-sdk/videoads-ad-video-player-html5 (npm)", "datePublished": "2025-08-13T08:32:49", "dateUpdated": "2025-08-29T06:43:16", "baseScore": 0.0, "aliases": ["MAL-2025-6906"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

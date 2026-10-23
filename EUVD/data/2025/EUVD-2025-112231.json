@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112231", "enisaUuid": "db24d866-0362-387f-b9d3-0289e2739e7b", "description": "Malicious code in javascript-nconf-ursa-promise (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143882"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

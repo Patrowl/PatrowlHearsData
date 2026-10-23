@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116579", "enisaUuid": "6869a630-68b2-32cd-bff9-a17b2e73a71f", "description": "Malicious code in apollo-non-blocking-local-csrf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139523"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193628", "enisaUuid": "76ab616e-3b07-34cd-aa37-d367e903ce78", "description": "Malicious code in commitlint-query-loop-gulp (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43875"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

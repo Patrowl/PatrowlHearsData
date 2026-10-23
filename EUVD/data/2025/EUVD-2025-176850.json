@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176850", "enisaUuid": "d986bf37-b0e7-335e-b430-20de30aca11f", "description": "Malicious code in quark-postcss-soap-nova (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189025"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

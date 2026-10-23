@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77119", "enisaUuid": "c4a091e5-9a69-3623-878f-4bb988773cb5", "description": "Malicious code in dependent_moth-silentdev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-101351"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

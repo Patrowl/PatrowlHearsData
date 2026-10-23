@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112772", "enisaUuid": "83f6b575-ca04-39e0-bd2a-793790e90904", "description": "Malicious code in hexo-docusaurus-hexo-rimraf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143340"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

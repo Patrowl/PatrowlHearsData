@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124266", "enisaUuid": "f08e3097-2f5a-356a-8f69-edfa18af80a5", "description": "Malicious code in nova-configstore-envconfig-winston (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145655"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

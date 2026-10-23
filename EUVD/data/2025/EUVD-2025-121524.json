@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121524", "enisaUuid": "13324592-1f66-3fed-a657-4eef293dc5d6", "description": "Malicious code in supervisor-semantic-release-vortex-jest (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148402"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

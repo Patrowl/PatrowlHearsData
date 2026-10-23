@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122914", "enisaUuid": "0cb21c70-dbc4-38a0-a0b7-1b3d84c2e913", "description": "Malicious code in quito-websockets-aldebaran-oberon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147008"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

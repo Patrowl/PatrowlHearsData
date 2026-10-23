@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124382", "enisaUuid": "1e7fc09f-7a63-3ae5-bfe8-76feaf2e6b5f", "description": "Malicious code in node-sass-foundation-helios-rate-limiter (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145539"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

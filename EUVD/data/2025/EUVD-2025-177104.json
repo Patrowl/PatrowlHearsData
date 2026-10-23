@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177104", "enisaUuid": "e564b585-e845-3f2a-a6d6-9af40653cebf", "description": "Malicious code in polaris-wasat-grunt-puppeteer (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188771"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

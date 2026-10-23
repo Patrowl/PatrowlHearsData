@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166564", "enisaUuid": "f499e776-c196-3cb5-bf22-b98752d6d92e", "description": "Malicious code in gulp-coveralls2 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22046"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

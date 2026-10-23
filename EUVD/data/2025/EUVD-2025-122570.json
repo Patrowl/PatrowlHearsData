@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122570", "enisaUuid": "2ff513a2-84de-3051-aaa7-2c53b2520715", "description": "Malicious code in rest-hyperion-json-gridsome (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147352"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

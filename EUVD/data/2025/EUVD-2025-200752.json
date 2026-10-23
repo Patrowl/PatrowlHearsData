@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200752", "enisaUuid": "258c3c47-9885-3784-808b-215f962c36fe", "description": "Malicious code in elf-stats-wintry-sled-578 (npm)", "datePublished": "2025-12-03T15:59:29", "dateUpdated": "2025-12-23T22:40:23", "baseScore": 0.0, "aliases": ["MAL-2025-192200"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

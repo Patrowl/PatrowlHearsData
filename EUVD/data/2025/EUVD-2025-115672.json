@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115672", "enisaUuid": "7024dcf9-f90e-39b9-ac75-61132db8fefd", "description": "Malicious code in carpo-centauri-commitlint-config-angular-callback (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140435"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

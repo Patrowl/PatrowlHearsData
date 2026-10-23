@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121799", "enisaUuid": "1f20758d-2e6e-3968-9430-63df04fad37f", "description": "Malicious code in spectron-webdriver-betelgeuse-odin-cypress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148126"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

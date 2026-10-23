@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121114", "enisaUuid": "e6c6e31d-3ae3-3831-a113-e68d0cfa1c67", "description": "Malicious code in triton-duplex-jsonp-native (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148814"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

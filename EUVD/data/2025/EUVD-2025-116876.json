@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116876", "enisaUuid": "91070be4-8487-33ba-aee7-16e4f8231629", "description": "Malicious code in aether-build-rest-epimetheus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139226"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122408", "enisaUuid": "45b98cac-aad7-3da3-8136-701a0782d850", "description": "Malicious code in rollup-plugin-europa-loopback-dorado (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147514"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

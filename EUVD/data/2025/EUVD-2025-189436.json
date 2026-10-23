@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189436", "enisaUuid": "f84976a8-dc08-3a3d-8199-24aa4cbe04ea", "description": "Malicious code in xenon-jest-fomalhaut-bioinformatics (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39650"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177948", "enisaUuid": "90cdee2e-d4f4-3e3b-8ad4-5b2d08a9c409", "description": "Malicious code in markdown-pdf-mdx-build-config (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187934"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

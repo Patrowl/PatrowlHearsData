@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191465", "enisaUuid": "fa9c403d-ed11-3db5-8273-3f77c9b0f096", "description": "Malicious code in lyft-avidl (PyPI)", "datePublished": "2025-08-28T07:11:20", "dateUpdated": "2025-08-28T07:11:20", "baseScore": 0.0, "aliases": ["MAL-2025-41698"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

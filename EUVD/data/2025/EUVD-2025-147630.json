@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-147630", "enisaUuid": "575e055a-e90c-31ed-95b7-ef342031ce30", "description": "Malicious code in trevora-cir128 (npm)", "datePublished": "2025-11-12T16:47:05", "dateUpdated": "2025-11-12T16:47:05", "baseScore": 0.0, "aliases": ["MAL-2025-169182"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

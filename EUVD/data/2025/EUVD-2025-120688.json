@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120688", "enisaUuid": "979e243c-6fd3-31ce-a680-aba949679f29", "description": "Malicious code in vulcan-janus-winston-geckodriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149241"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

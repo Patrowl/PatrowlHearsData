@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113552", "enisaUuid": "e534c73c-76bb-3c6b-ad9e-986c0ac49670", "description": "Malicious code in forever-apollo-oauth-async (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142560"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

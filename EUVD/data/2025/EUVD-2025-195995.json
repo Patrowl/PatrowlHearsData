@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195995", "enisaUuid": "54b7f208-f2b2-365c-8dd4-bf79ea8870d6", "description": "Malicious code in taurus-ganymede-csrf-relay (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46243"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

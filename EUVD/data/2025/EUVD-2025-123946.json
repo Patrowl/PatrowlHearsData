@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123946", "enisaUuid": "9febec3a-0f40-30f0-bd9b-d41e94ff3e5f", "description": "Malicious code in passport-aquarius-gatsby-resolvers (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145975"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

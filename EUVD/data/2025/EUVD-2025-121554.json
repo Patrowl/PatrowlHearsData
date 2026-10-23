@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121554", "enisaUuid": "da86b09d-f532-3c72-9548-bb9fb1aeaf7d", "description": "Malicious code in superagent-build-eris-inquirer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148372"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

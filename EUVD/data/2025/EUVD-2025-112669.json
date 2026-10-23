@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112669", "enisaUuid": "d291d052-982a-3273-9b11-dbf0603e9973", "description": "Malicious code in hydra-hapi-webdriver-manager-async (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143443"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

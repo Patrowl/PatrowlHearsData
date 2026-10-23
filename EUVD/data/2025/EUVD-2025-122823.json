@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122823", "enisaUuid": "00d10057-3245-331d-9e21-f039c7b0f1ad", "description": "Malicious code in redis-europa-nodejs-rate-limiter (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147099"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

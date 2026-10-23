@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195130", "enisaUuid": "ce10ff92-6ce3-3c58-a6a1-9375440c5056", "description": "Malicious code in numba-doc-zh (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45378"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

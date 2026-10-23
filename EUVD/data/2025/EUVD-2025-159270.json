@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159270", "enisaUuid": "64c4e7e1-be44-36ad-9d73-08bce3dc3232", "description": "Malicious code in arc-macro-s3-bucket (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14769"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125639", "enisaUuid": "44191ec2-47bb-3485-a6a6-b2b4fdecbbd4", "description": "Malicious code in meta-api-client (npm)", "datePublished": "2025-03-03T13:32:21", "dateUpdated": "2025-03-03T13:32:21", "baseScore": 0.0, "aliases": ["MAL-2025-1897"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

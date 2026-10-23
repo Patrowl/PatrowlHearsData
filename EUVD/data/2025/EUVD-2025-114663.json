@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114663", "enisaUuid": "96752f6a-9bbf-3206-adf2-02829176bfd5", "description": "Malicious code in dactyl-lint-staged-achernar-build (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141446"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

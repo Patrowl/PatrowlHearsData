@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115421", "enisaUuid": "c8496410-d237-30ce-b167-1003e6b6c8f5", "description": "Malicious code in changelog-stop-spectron-webdriver-flare (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140686"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130050", "enisaUuid": "ed47f764-b8fb-338e-b9b4-0a47d4e13f56", "description": "Malicious code in vercel-internals (npm)", "datePublished": "2025-07-23T14:31:10", "dateUpdated": "2025-07-23T14:31:10", "baseScore": 0.0, "aliases": ["MAL-2025-6323"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120550", "enisaUuid": "f7fe5ceb-ac45-3a27-9864-4d66ac2b6fe0", "description": "Malicious code in webdriverio-pino-uninstall-atlas (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149379"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123454", "enisaUuid": "0f9ca85f-f433-3bd1-bc35-e93b011ed32f", "description": "Malicious code in prettier-fornax-exec-halley (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146468"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

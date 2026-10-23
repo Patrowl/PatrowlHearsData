@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115070", "enisaUuid": "f1f6d56f-688c-309f-aed4-aa2b843bc110", "description": "Malicious code in config-sails-repository-prompts (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141039"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

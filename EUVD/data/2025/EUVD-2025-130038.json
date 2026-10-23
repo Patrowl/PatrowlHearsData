@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130038", "enisaUuid": "cb2eb6ef-fb9c-3159-87b7-ebc3656587ad", "description": "Malicious code in snx-sips (npm)", "datePublished": "2025-07-24T14:22:12", "dateUpdated": "2025-07-24T14:22:12", "baseScore": 0.0, "aliases": ["MAL-2025-6311"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

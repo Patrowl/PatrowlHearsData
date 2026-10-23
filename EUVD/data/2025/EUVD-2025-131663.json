@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131663", "enisaUuid": "9adaaaa2-8289-3c58-9e4f-e92c91ba9bfb", "description": "Malicious code in @frozen-team/deploy-to-gcs (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7941"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

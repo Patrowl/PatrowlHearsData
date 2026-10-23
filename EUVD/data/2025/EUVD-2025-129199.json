@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129199", "enisaUuid": "742b05d6-d09a-3ff9-b5b8-5f9ab1121395", "description": "Malicious code in uphold-sdk-javascript-extensions (npm)", "datePublished": "2025-06-24T14:28:31", "dateUpdated": "2025-06-24T14:28:31", "baseScore": 0.0, "aliases": ["MAL-2025-5471"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

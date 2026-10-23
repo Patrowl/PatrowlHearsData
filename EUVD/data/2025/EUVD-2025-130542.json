@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130542", "enisaUuid": "a39f1af9-5347-34e8-9927-87336255e8aa", "description": "Malicious code in securitycontext-model-paypal (npm)", "datePublished": "2025-08-11T10:40:57", "dateUpdated": "2025-08-11T10:40:57", "baseScore": 0.0, "aliases": ["MAL-2025-6820"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

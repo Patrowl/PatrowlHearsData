@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114218", "enisaUuid": "b528f0c9-dc60-36e3-bc79-780b60fe80df", "description": "Malicious code in electron-altair-dependencies-capella (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141892"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

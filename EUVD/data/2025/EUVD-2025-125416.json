@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125416", "enisaUuid": "d75b3093-a5cc-32f6-a3f2-ec6fd1af7415", "description": "Malicious code in dep-poc (npm)", "datePublished": "2025-03-03T08:52:44", "dateUpdated": "2025-03-31T07:07:49", "baseScore": 0.0, "aliases": ["MAL-2025-1672"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120703", "enisaUuid": "22e727b2-fef6-3bdc-80c0-9d488eb3ab06", "description": "Malicious code in vulcan-commitlint-taurus-uninstall (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149226"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

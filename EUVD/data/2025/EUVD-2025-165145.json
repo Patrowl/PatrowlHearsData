@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165145", "enisaUuid": "1f68b33d-d072-3966-80b5-30bd74570d71", "description": "Malicious code in fivetran-webhook-example-express (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20626"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

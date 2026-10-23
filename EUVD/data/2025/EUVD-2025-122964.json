@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122964", "enisaUuid": "989eb0f4-5c46-3b55-87f1-7c26b48acec4", "description": "Malicious code in quasar-rate-limiter-changelog-aquarius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146958"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

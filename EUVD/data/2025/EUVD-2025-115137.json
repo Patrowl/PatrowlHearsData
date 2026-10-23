@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115137", "enisaUuid": "79615cdf-aca8-33cf-a49d-0f62b97c59ed", "description": "Malicious code in commitlint-config-angular-tethys-gridsome-terser (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140971"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115096", "enisaUuid": "6ebcac09-51be-388f-b49a-0ea9f3acbbb7", "description": "Malicious code in concurrently-server-elektra-ignite (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141013"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

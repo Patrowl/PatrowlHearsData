@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175790", "enisaUuid": "8436d654-5eec-339c-9e8c-33c965a42b9f", "description": "Malicious code in upgrade-mesosphere-slides-sirius (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190085"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

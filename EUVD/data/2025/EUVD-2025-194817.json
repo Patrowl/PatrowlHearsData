@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194817", "enisaUuid": "338f746e-2ada-324d-b18f-195897ed9aba", "description": "Malicious code in loopback-deneb-backend-pulsar (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45064"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

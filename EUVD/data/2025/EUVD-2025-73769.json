@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-73769", "enisaUuid": "345b51e7-d31b-35af-b07d-3bc55e0dcd24", "description": "Malicious code in sensitive_damselfly_z3n (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-96521"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

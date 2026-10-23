@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-101695", "enisaUuid": "db3e3778-4db9-34f5-8be0-cfd5713358c4", "description": "Malicious code in advanced_vicuna_z3n (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-124846"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

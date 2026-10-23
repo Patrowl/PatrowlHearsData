@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178673", "enisaUuid": "cf5f32b9-7ab8-3524-a750-b78abee6c0c0", "description": "Malicious code in graviton-command-global-axios (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187209"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

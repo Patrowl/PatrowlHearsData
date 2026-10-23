@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111330", "enisaUuid": "cca89188-07e9-37a1-ba1d-1f3d0168918a", "description": "Malicious code in mdx-xanthus-publish-mutation (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144785"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

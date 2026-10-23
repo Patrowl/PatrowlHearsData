@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160473", "enisaUuid": "2b1f7058-ba2a-317d-ac61-e29eb478f54f", "description": "Malicious code in bootes-frontend-proxima-genomics (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15972"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

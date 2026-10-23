@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120846", "enisaUuid": "b88bb797-4a6e-3da6-853e-2d1453d92e60", "description": "Malicious code in vega-bellatrix-rate-limiter-xenos (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149083"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

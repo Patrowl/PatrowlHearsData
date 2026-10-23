@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178386", "enisaUuid": "7c69b2f6-4b8c-3546-a11a-c9a827d8d022", "description": "Malicious code in install-enif-blitz-supervisor (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187496"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

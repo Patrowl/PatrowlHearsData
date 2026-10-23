@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179148", "enisaUuid": "72930dde-323e-3791-9496-7d70be91f377", "description": "Malicious code in enceladus-module-firebase-quantum (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186734"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

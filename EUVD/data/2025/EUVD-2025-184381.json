@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184381", "enisaUuid": "be3a2780-c272-37af-82d4-9bc288f5e985", "description": "Malicious code in tcl-expect (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34597"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

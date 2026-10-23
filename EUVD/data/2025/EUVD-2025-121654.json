@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121654", "enisaUuid": "b417092f-934e-38d8-a4b7-7e78eae0bab5", "description": "Malicious code in start-husky-nightwatch-mira (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148271"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

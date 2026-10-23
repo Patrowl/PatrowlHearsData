@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171298", "enisaUuid": "94766e8e-6ee4-3da7-ad61-9c926ee97a59", "description": "Malicious code in move-snmpjs (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26769"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176857", "enisaUuid": "017c8af9-a7c4-3f60-abe4-8d9e90e9fb0d", "description": "Malicious code in quark-dotenv-safe-run-script-planckscale (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189018"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

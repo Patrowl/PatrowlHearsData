@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123082", "enisaUuid": "c6a0ba9c-4699-3785-99ab-34ce06a4fb40", "description": "Malicious code in pulsar-process-postgres-sedna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146840"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

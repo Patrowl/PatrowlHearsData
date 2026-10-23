@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182821", "enisaUuid": "a58dc5d5-09ce-3ad4-a753-2274c553f85c", "description": "Malicious code in sfi-service-ppn (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33036"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

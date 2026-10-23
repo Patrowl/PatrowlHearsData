@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183191", "enisaUuid": "58dac96d-8466-312a-b461-7db02f0493f0", "description": "Malicious code in slate-liquid-asset-loader (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33406"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

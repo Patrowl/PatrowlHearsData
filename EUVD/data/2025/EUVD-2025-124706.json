@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124706", "enisaUuid": "aa6a472a-0416-3865-b648-0010cf8d630e", "description": "Malicious code in mui-spectron-webdriver-neptune-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145212"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

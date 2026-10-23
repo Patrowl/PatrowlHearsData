@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180528", "enisaUuid": "c093f65f-a391-3ae8-8105-9172b8b19f5c", "description": "Malicious code in abiogenesis-version-magnetosphere-typeorm (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185360"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

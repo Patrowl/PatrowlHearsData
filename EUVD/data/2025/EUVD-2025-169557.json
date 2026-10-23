@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169557", "enisaUuid": "3ff143fb-ba3c-3c21-8411-58516731b5a4", "description": "Malicious code in leadconduit-integration-autoresponder (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25028"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

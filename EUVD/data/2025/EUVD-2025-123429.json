@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123429", "enisaUuid": "bf89d45f-071d-3e05-bc54-d41cfa7c73f6", "description": "Malicious code in prettier-plugin-markdown-rocket-jwt-spica (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146493"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

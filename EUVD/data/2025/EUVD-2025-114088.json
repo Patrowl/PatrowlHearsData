@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114088", "enisaUuid": "ccbb44ae-d4eb-3ed0-b76a-b819f75f4866", "description": "Malicious code in enceladus-auth0-leda-sadr (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142022"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124338", "enisaUuid": "7471792d-4401-3c51-b246-a2de525bb6a5", "description": "Malicious code in nodemon-middleware-non-blocking-eclipse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145583"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

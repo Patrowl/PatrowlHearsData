@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175931", "enisaUuid": "2543a884-2d2f-39a8-900b-72eb589868e4", "description": "Malicious code in toml-apollo-materialize-hexo (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189944"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

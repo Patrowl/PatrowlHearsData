@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111441", "enisaUuid": "e32a54a6-c136-345e-b407-c654b6175fb9", "description": "Malicious code in magellan-webdriverio-shelljs-inquirer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144674"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

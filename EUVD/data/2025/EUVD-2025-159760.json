@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159760", "enisaUuid": "49be19a6-70a8-3e91-aaab-8114cc71440b", "description": "Malicious code in azkaban_scheduler (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15259"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194984", "enisaUuid": "6fb534d2-882e-3627-860d-549bc6fdf947", "description": "Malicious code in mongoose-helmet-procyon-native (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45231"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

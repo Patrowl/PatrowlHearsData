@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174078", "enisaUuid": "71695c8f-70d0-33e4-8569-d97019405e43", "description": "Malicious code in postgres-rocket-install-postcss (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29549"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

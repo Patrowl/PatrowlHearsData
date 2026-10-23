@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116363", "enisaUuid": "1449f8f0-3bd7-3df9-9eab-26bf5e35ff78", "description": "Malicious code in auth0-betelgeuse-phoebe-non-blocking (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139739"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

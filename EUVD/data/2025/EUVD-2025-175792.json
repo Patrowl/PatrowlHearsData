@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175792", "enisaUuid": "4c61dbe0-3fa5-3637-a82b-3c739ed4e9dd", "description": "Malicious code in upgrade-dysonswarm-node-config-got (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190083"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

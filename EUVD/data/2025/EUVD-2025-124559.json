@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124559", "enisaUuid": "c96fdf8d-9ade-358f-bdc5-f35351d118a3", "description": "Malicious code in neptune-exec-radiant-wasat (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145361"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182146", "enisaUuid": "c7d1e754-8d42-343f-881b-9d8bc654300b", "description": "Malicious code in rollup-plugin-odin-xenos-ophiuchus (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32361"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

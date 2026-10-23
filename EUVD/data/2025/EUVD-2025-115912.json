@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115912", "enisaUuid": "b763de43-1b0c-3c94-8274-0beb007de30d", "description": "Malicious code in build-socketio-enif-mutation (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140192"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

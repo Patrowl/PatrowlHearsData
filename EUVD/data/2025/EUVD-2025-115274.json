@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115274", "enisaUuid": "a4b1cb21-7e52-31dd-ac7c-fc705ba1114a", "description": "Malicious code in cluster-nodemon-hexo-umbra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140834"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

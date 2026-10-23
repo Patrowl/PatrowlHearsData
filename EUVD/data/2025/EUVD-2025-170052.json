@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170052", "enisaUuid": "44382352-85df-3918-ac15-35324c5a8b84", "description": "Malicious code in log4js-vue-log-bus (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25523"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

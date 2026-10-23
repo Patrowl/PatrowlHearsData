@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121557", "enisaUuid": "20ec32e8-337e-3587-9961-7dc6b68beefc", "description": "Malicious code in subscription-xml-jasmine-apollo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148369"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

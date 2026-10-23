@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129123", "enisaUuid": "9c9f7444-a76a-3a83-a253-a62454a07206", "description": "Malicious code in dynamic-global-wallet (npm)", "datePublished": "2025-06-19T16:27:38", "dateUpdated": "2025-06-19T16:27:38", "baseScore": 0.0, "aliases": ["MAL-2025-5394"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

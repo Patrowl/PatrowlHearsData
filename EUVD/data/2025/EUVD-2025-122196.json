@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122196", "enisaUuid": "a7a6793d-da93-362a-b580-caa236a50254", "description": "Malicious code in scripts-build-ganymede-altair (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147726"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111906", "enisaUuid": "50d58cf8-d2bf-3acd-b4a4-046684548d36", "description": "Malicious code in koa-soap-loglevel-hyperion (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144207"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

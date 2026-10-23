@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170603", "enisaUuid": "1381a532-79cf-36c1-8fd3-0b76336f4c9d", "description": "Malicious code in mdx-geckodriver-cypress-levels (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26074"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

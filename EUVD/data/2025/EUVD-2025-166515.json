@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166515", "enisaUuid": "271c89cf-a781-332b-863f-97b702b22f3d", "description": "Malicious code in grunt-schema-chalk-nodejs (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21997"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

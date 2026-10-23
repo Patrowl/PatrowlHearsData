@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191725", "enisaUuid": "a11362ca-74a2-3ba4-87be-ac39125162f5", "description": "Malicious code in cookies-logger (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-41959"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-146351", "enisaUuid": "be3c0ed2-9f04-3b45-93b4-604b94a2124b", "description": "Malicious code in verify-tactiva-mec (npm)", "datePublished": "2025-11-12T16:47:05", "dateUpdated": "2025-11-12T16:47:05", "baseScore": 0.0, "aliases": ["MAL-2025-170461"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

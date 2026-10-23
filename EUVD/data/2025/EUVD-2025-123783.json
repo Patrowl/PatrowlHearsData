@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123783", "enisaUuid": "8985c361-35bb-3a7e-890f-34a8ae8e86d1", "description": "Malicious code in phenomic-spectron-webdriver-sqlite-andromeda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146138"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123023", "enisaUuid": "0238b44c-93cc-35bb-a1b6-1b899a393e51", "description": "Malicious code in quantum-configstore-mensa-spica (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146899"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112040", "enisaUuid": "b98e318d-779b-3509-a28b-91f1b833acbc", "description": "Malicious code in jwt-foundation-kronos-gravity (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144073"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

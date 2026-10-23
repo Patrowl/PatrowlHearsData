@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111596", "enisaUuid": "f8ea08b2-c3e8-3f3f-9a98-50f3fcd79165", "description": "Malicious code in loglevel-rate-limiter-markdown-pdf-update (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144519"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

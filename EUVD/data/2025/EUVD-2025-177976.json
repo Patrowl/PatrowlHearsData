@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177976", "enisaUuid": "f86534c1-9baa-3971-b9bb-db0e755ab8d5", "description": "Malicious code in magellan-transport-auth0-pulsar (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187906"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

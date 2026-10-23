@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128787", "enisaUuid": "d76eda09-024a-36fe-ab84-a12b87ffbb97", "description": "Malicious code in secure-lib (npm)", "datePublished": "2025-06-13T02:06:14", "dateUpdated": "2025-06-13T02:06:14", "baseScore": 0.0, "aliases": ["MAL-2025-5058"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

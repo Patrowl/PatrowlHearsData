@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115814", "enisaUuid": "8f38df55-6eab-387f-afed-cb25a21e5bbc", "description": "Malicious code in callback-adonis-native-ophiuchus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140292"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

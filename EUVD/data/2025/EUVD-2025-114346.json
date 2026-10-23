@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114346", "enisaUuid": "f7bc35ac-a698-3465-aee1-320d95e55e1e", "description": "Malicious code in dotenv-safe-nestjs-jest-tool (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141763"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197326", "enisaUuid": "61482fbe-6fdb-3241-86fd-e8e3aa65af3b", "description": "Malicious code in ec-component-loader (npm)", "datePublished": "2025-10-17T03:26:54", "dateUpdated": "2025-10-17T03:26:54", "baseScore": 0.0, "aliases": ["MAL-2025-48492"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124803", "enisaUuid": "959ef49a-d629-3874-b249-b408db8bc4e8", "description": "Malicious code in module-run-script-telesto-writable (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145115"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

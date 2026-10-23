@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121849", "enisaUuid": "4f0dd05a-b2d3-357d-ba34-e4f2abae952f", "description": "Malicious code in solis-graphql-postgres-luna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148076"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

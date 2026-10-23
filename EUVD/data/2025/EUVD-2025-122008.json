@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122008", "enisaUuid": "bb5c969a-86ef-3f41-8feb-31bf4c640a18", "description": "Malicious code in shelljs-hydra-element-ui-supervisor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147915"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

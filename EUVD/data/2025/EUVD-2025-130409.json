@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130409", "enisaUuid": "3f7a9681-854f-3f6e-9670-f673adf1cf2d", "description": "Malicious code in @cwlib/core (npm)", "datePublished": "2025-07-28T18:05:18", "dateUpdated": "2025-07-28T18:05:18", "baseScore": 0.0, "aliases": ["MAL-2025-6686"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

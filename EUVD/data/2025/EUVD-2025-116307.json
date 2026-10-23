@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116307", "enisaUuid": "aa0b0069-16a9-35fb-b0d5-2178deba4066", "description": "Malicious code in await-css-loader-neptune-cosmiconfig (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139795"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

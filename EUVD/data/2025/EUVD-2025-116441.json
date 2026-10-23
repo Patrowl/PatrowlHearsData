@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116441", "enisaUuid": "afa45141-9a5c-35e1-87af-11d31dd2e2b2", "description": "Malicious code in atlas-terser-webpack-plugin-auth-rocket (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139661"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

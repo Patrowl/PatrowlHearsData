@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114805", "enisaUuid": "ff12f134-8747-3702-9f5d-446cf013a6e9", "description": "Malicious code in css-loader-gridsome-postcss-loader-yaml (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141304"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

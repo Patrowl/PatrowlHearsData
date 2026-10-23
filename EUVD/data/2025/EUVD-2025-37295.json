@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37295", "enisaUuid": "d5330cd0-71e5-313e-bf1c-107e54f5e991", "description": "Malicious code in express-document-sdk (npm)", "datePublished": "2025-10-31T03:06:14", "dateUpdated": "2025-10-31T03:06:14", "baseScore": 0.0, "aliases": ["MAL-2025-49297"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

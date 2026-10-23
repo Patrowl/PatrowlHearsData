@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-158669", "enisaUuid": "239046de-de49-32b8-bd56-0e0ad31f1577", "description": "Malicious code in adform-cli-build (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14086"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

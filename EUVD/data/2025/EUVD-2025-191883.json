@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191883", "enisaUuid": "bdd252cb-2bb1-3a15-849a-40f293972f0f", "description": "Malicious code in @flight-common/services (npm)", "datePublished": "2025-08-27T07:45:29", "dateUpdated": "2025-08-27T07:45:29", "baseScore": 0.0, "aliases": ["MAL-2025-42124"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

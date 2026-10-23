@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166563", "enisaUuid": "e3e7b9d0-5b44-3412-b776-b67ff621bc22", "description": "Malicious code in gulp-angular-templatecache-ionic (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22045"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

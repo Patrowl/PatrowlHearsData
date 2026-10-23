@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194491", "enisaUuid": "ef8c6dd0-c4ce-30d1-b5ae-e7d68aaf1adf", "description": "Malicious code in izar-magellan-readable-nodejs (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44738"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

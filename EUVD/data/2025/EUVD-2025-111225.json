@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111225", "enisaUuid": "b55a92fd-feb9-3099-9bf9-6ed7c00aa60e", "description": "Malicious code in metalsmith-scripts-spectron-cygnus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144890"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

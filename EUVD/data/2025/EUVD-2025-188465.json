@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188465", "enisaUuid": "b028f768-b50e-3377-8618-76ca7b30f213", "description": "Malicious code in vuepress-cosmicray-cypress-puppeteer (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38679"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

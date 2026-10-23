@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121898", "enisaUuid": "ac5b6916-ab6d-3720-9ef7-104d3c643ac9", "description": "Malicious code in soap-neptune-xml-virgo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148027"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

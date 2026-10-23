@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161791", "enisaUuid": "fe90e18b-7a53-3ab3-9a6e-53e993792dc5", "description": "Malicious code in colors-express-jwt-corvus (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17292"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

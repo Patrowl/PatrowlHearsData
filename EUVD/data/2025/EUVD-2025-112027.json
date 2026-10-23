@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112027", "enisaUuid": "2537e6c1-3d23-3d4f-90a8-c0e8edb84c7d", "description": "Malicious code in jwt-spectron-global-hercules (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144086"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

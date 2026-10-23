@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176380", "enisaUuid": "c98e1792-446d-3540-996a-1ba5bf0b1915", "description": "Malicious code in signal-quick-proxy-data-web (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189495"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

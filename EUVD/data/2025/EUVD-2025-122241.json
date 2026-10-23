@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122241", "enisaUuid": "ebc85607-1b9f-3254-a32b-946496efc7e0", "description": "Malicious code in sass-loader-package-sync-parcel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147681"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178401", "enisaUuid": "3afa5349-445a-399e-a57a-3f33473127c7", "description": "Malicious code in init-venus-sync-figures (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187481"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

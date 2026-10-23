@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121801", "enisaUuid": "61ddb50f-c6f2-3775-b931-0ba2c5c7ade9", "description": "Malicious code in spectron-regulus-superagent-rollup-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148124"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

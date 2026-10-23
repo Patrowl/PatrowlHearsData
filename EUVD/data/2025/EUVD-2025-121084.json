@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121084", "enisaUuid": "d7203356-0c6f-3245-b5f9-9000d34e122f", "description": "Malicious code in typeorm-fomalhaut-testcafe-link (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148844"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

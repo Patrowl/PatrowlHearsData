@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111594", "enisaUuid": "46bb8907-b4cc-3a8a-bc60-f14280ae209b", "description": "Malicious code in loglevel-telesto-pino-pulsar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144521"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

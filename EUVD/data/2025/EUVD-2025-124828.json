@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124828", "enisaUuid": "9be66848-3180-3181-b544-6abbeb5a387b", "description": "Malicious code in mocha-private-cassini-xo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145090"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

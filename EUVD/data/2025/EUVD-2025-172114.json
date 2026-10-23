@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172114", "enisaUuid": "b7afd526-4a32-3732-938c-b06b387d9f83", "description": "Malicious code in no-deps-scripted-to-fail (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27585"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

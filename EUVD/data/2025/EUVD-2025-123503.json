@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123503", "enisaUuid": "8d721edd-e40f-35c2-a2b5-e4d5c172f04c", "description": "Malicious code in postcss-postcss-package-impulse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146418"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

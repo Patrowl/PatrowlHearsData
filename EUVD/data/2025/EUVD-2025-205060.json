@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-205060", "enisaUuid": "4755b364-78cc-3e7d-9698-594dff496f1e", "description": "Malicious code in elf-stats-velvet-bow-244 (npm)", "datePublished": "2025-12-23T08:11:29", "dateUpdated": "2025-12-24T00:53:16", "baseScore": 0.0, "aliases": ["MAL-2025-192791"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

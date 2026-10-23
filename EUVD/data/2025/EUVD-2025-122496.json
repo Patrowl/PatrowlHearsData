@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122496", "enisaUuid": "19ddcb10-20e6-388c-9ed1-93837aa63a65", "description": "Malicious code in reveal-md-transform-miranda-dotenv-safe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147426"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

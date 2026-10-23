@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159725", "enisaUuid": "fe383d8e-0379-3daa-8a92-a8b97d3b8508", "description": "Malicious code in aws-billing-console-angular (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15224"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

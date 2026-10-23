@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165045", "enisaUuid": "bd386ca0-28c0-3c23-9492-a03ef98413b1", "description": "Malicious code in fiissuerread-paypal (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20526"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

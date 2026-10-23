@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161608", "enisaUuid": "0aed29ec-4604-3231-b2f8-46ffae2e9d6e", "description": "Malicious code in cli-ini-fetch-geckodriver (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17108"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

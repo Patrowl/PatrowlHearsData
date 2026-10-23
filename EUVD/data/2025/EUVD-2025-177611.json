@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177611", "enisaUuid": "179d05ed-00a8-38e9-8f97-300829432bee", "description": "Malicious code in nextjs-tachyon-apollo-cosmos (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188271"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

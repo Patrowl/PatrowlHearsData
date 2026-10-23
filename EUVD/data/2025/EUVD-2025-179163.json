@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179163", "enisaUuid": "a932a43e-513d-372d-87ca-99e999c35dcd", "description": "Malicious code in emulate-await-sudo-code-grid (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186719"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

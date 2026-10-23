@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111579", "enisaUuid": "28336dec-8ac5-3f84-8c2f-86bfca8fdd13", "description": "Malicious code in loop-style-loader-webpack-promise (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144536"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

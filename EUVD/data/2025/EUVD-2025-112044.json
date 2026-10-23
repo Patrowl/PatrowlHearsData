@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112044", "enisaUuid": "60b0187c-9e47-3a9c-8bec-2f3d6391ca0c", "description": "Malicious code in jwt-atlas-betelgeuse-socketio (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144069"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

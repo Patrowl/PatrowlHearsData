@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124824", "enisaUuid": "0b63d9e9-440d-39f9-a693-1602c09d0eac", "description": "Malicious code in mocha-transport-indus-miranda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145094"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

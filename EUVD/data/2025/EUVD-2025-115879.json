@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115879", "enisaUuid": "edbb06ef-c9ee-39be-8396-ba4aaf201fae", "description": "Malicious code in bulma-postgres-fornax-buffer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140225"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

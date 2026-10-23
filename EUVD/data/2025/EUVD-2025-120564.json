@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120564", "enisaUuid": "1162365f-8a11-3962-b67a-132077db99cd", "description": "Malicious code in webdriverio-dactyl-node-sass-electron (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149365"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

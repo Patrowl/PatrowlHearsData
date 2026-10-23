@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175820", "enisaUuid": "1f98019f-e155-33e2-9630-f7b805a3d726", "description": "Malicious code in uninstall-semantic-ui-await-postcss (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190055"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

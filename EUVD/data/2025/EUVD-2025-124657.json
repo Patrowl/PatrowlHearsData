@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124657", "enisaUuid": "1e12ecb6-f703-33d0-b4d4-f338dc336d32", "description": "Malicious code in mysql-pm2-ceres-shelljs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145261"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

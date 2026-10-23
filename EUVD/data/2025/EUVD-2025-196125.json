@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196125", "enisaUuid": "1aa78b5d-8998-348b-8efa-b088198d4667", "description": "Malicious code in transport-nodemon-proxima-colors (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46373"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

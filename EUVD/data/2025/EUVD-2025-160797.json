@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160797", "enisaUuid": "d78b00da-000c-3795-af5c-740c5b7c781f", "description": "Malicious code in buffer-xnr (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16296"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

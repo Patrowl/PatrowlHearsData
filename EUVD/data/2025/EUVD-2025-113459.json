@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113459", "enisaUuid": "def0c60e-87c1-396e-b821-ac2575203f86", "description": "Malicious code in fornax-selenium-postcss-loader-middleware (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142653"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

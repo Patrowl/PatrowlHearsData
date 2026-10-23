@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120276", "enisaUuid": "6508feb2-36bf-34c4-8452-f8e61e82dc80", "description": "Malicious code in xenon-oberon-semantic-release-mysql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149655"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112431", "enisaUuid": "3e003390-d956-37f6-a69d-3b3ffb7df599", "description": "Malicious code in install-rimraf-nova-antares (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143682"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180139", "enisaUuid": "2d16f8f7-0146-3afb-a84b-18f99e998018", "description": "Malicious code in balance-decompress-authorize-query-thread (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185743"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

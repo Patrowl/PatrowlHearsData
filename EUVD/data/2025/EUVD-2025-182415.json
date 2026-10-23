@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182415", "enisaUuid": "f94fa8fe-defe-384c-b5e3-dca9f24e0ede", "description": "Malicious code in sagitta-halley-async-leda (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32630"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

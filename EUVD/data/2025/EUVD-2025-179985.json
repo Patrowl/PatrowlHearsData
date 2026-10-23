@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179985", "enisaUuid": "c9eb9328-9fc4-3d9d-ad3f-4ceb8db348ce", "description": "Malicious code in borealis-promise-spinner-ora (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185897"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112134", "enisaUuid": "e88a4469-751b-3c3f-ad2b-2b533647f39f", "description": "Malicious code in json-passport-eslint-config-chalk (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143979"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

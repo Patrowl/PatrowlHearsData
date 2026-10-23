@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124400", "enisaUuid": "3a5d1447-1d40-330e-ae61-c4d8c4895dd9", "description": "Malicious code in node-config-umbriel-ignite-sirius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145521"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

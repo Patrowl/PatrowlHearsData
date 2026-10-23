@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113907", "enisaUuid": "d22d957a-53eb-32b6-9f9f-fe229075e9b9", "description": "Malicious code in eslint-config-morgan-javascript-umbra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142203"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

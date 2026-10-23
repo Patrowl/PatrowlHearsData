@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131560", "enisaUuid": "ad24063c-ae8f-3027-a825-bef8bd9b7931", "description": "Malicious code in @epc-infra/edge-stack (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7838"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

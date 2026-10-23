@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111908", "enisaUuid": "2e0e9144-667e-36a8-82ff-7787a425e5ae", "description": "Malicious code in koa-request-backend-cors (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144205"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130690", "enisaUuid": "d3fd6a54-88de-320c-8447-03dc59f987c4", "description": "Malicious code in vite-plugin-vue-extend-plugin (npm)", "datePublished": "2025-08-17T02:33:50", "dateUpdated": "2025-08-17T02:33:50", "baseScore": 0.0, "aliases": ["MAL-2025-6968"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

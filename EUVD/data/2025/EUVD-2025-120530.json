@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120530", "enisaUuid": "e1b8c3d9-22cf-3d7a-87a4-7ba16b767dce", "description": "Malicious code in webpack-init-uninstall-rimraf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149399"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

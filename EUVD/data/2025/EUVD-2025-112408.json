@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112408", "enisaUuid": "36bb85e1-0302-3666-9b58-faf914e26545", "description": "Malicious code in io-restart-less-neptune (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143705"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

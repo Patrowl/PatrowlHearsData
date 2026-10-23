@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111273", "enisaUuid": "4a42c564-1016-3d9f-b948-029db3be3722", "description": "Malicious code in mensa-apollo-firebase-lint-staged (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144842"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116640", "enisaUuid": "ca69b63f-1d23-3e81-a5e2-855c72739c2d", "description": "Malicious code in antd-node-config-slides-lyra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139462"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

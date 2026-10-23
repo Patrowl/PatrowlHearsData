@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115818", "enisaUuid": "937b4018-e9a4-3871-a954-ae8f8be31c47", "description": "Malicious code in cache-webdriver-mocha-await-magellan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140288"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

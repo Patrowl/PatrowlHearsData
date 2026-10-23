@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124680", "enisaUuid": "3d785a52-f767-398a-b1e6-e1209573b5e7", "description": "Malicious code in mysql-atlas-heka-hydra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145238"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

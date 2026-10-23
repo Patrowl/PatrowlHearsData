@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130459", "enisaUuid": "df0ed91e-2c0f-3cd2-94f9-272efd5287e5", "description": "Malicious code in mpesa-ui-components (npm)", "datePublished": "2025-07-30T17:40:40", "dateUpdated": "2025-07-30T17:40:40", "baseScore": 0.0, "aliases": ["MAL-2025-6736"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

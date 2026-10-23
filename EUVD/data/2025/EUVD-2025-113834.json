@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113834", "enisaUuid": "b5954529-f397-3bdc-9c32-ba5e2c650008", "description": "Malicious code in europa-jwt-cygnus-npm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142276"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

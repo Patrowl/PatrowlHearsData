@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195280", "enisaUuid": "9f661c43-400a-3ec1-8824-c8267bc3c14d", "description": "Malicious code in pavo-nashira-commitlint-loop (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45528"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

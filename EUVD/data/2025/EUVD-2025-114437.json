@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114437", "enisaUuid": "6ff02cea-669a-3648-8559-d5731ef4bcef", "description": "Malicious code in docusaurus-package-odin-helmet (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141672"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

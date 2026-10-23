@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122520", "enisaUuid": "3ebe4693-74b4-390b-9a98-f0def67d3b7a", "description": "Malicious code in restart-xanadu-warp-semantic-release (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147402"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177087", "enisaUuid": "018e601c-4440-318e-84ee-8fcb7e706ee5", "description": "Malicious code in postgres-buffer-prettier-stylelint-lithosphere (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188788"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

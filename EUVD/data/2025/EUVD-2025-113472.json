@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113472", "enisaUuid": "35bed9ac-76ef-31a7-a7d2-93536f59c458", "description": "Malicious code in fornax-mysql-bellatrix-spawn (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142640"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

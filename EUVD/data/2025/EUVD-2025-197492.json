@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197492", "enisaUuid": "df434ee5-15fb-3222-85c8-66db0a46cb1d", "description": "Malicious code in circuit-overlay-test (npm)", "datePublished": "2025-10-23T19:28:00", "dateUpdated": "2025-10-23T19:28:00", "baseScore": 0.0, "aliases": ["MAL-2025-48806"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

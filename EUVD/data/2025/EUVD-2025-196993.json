@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196993", "enisaUuid": "5a49d467-26cd-3c33-8230-0d106d2e4952", "description": "Malicious code in veilcord-tls (PyPI)", "datePublished": "2025-09-17T04:05:07", "dateUpdated": "2025-09-17T04:05:07", "baseScore": 0.0, "aliases": ["MAL-2025-47458"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

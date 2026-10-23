@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183250", "enisaUuid": "118bb210-dda9-37d5-891d-6f5299a3fced", "description": "Malicious code in smooth_scheduler (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33465"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

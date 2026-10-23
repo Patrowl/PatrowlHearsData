@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162226", "enisaUuid": "0024be1e-bb15-3e3c-80f6-e51693bec424", "description": "Malicious code in crust-socketio-prettier-stylelint-registry (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17727"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

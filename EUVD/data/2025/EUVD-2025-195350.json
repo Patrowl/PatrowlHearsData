@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195350", "enisaUuid": "d56fa91e-0fb2-3162-8a2b-241c81e1ae60", "description": "Malicious code in procyon-cz-conventional-changelog-lynx-fetch (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45598"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

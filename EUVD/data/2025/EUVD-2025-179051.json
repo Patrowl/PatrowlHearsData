@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179051", "enisaUuid": "7ab0c727-65fc-37c9-aa14-802b8164627c", "description": "Malicious code in eslint-commitizen-firebase-upgrade (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186831"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

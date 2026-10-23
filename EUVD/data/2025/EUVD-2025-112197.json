@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112197", "enisaUuid": "d7df1657-4d03-3b1a-9aec-839f7b9286c7", "description": "Malicious code in jekyll-transport-fusion-css-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143916"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

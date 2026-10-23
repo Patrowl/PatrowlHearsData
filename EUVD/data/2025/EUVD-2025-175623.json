@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175623", "enisaUuid": "dd4d290a-065e-3421-a1b9-1a231b2d5096", "description": "Malicious code in web-compile-deploy-load-secure (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190253"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

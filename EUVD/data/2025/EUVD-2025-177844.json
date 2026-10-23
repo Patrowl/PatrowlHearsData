@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177844", "enisaUuid": "b7001902-a34e-3293-bb91-eeec4a229cd6", "description": "Malicious code in middleware-css-loader-eigenstate-pavo (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188038"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

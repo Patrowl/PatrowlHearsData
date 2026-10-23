@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165488", "enisaUuid": "431bb2e0-ad9c-3b2c-a016-2f20215ff083", "description": "Malicious code in frontend-config (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20969"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

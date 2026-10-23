@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112997", "enisaUuid": "4dbb70a9-952f-3015-9657-7bacf50f3440", "description": "Malicious code in gulp-command-luna-zephyr (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143115"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

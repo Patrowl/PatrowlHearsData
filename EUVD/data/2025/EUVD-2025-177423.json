@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177423", "enisaUuid": "7ce25ca1-2a93-3500-ae23-988fa3393f75", "description": "Malicious code in optimize-uglify-cluster-string-refactor (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188459"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

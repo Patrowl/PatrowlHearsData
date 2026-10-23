@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173468", "enisaUuid": "660972ef-8fd1-37c1-abba-fc7a870fd6ad", "description": "Malicious code in paychex-tracking (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28939"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

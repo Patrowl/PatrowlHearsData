@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181644", "enisaUuid": "7044f3d0-b1f6-3935-a6e3-519ad5ef227b", "description": "Malicious code in react-type-toastify (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31859"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

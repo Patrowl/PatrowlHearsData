@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191160", "enisaUuid": "6ce53bc0-8bdd-3a1f-b5d0-db44ce01157f", "description": "Malicious code in f0-service-oas (npm)", "datePublished": "2025-08-19T14:51:59", "dateUpdated": "2025-08-19T14:51:59", "baseScore": 0.0, "aliases": ["MAL-2025-41383"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

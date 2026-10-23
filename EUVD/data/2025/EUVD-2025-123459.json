@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123459", "enisaUuid": "dd9cd025-6ff5-3f4b-8a94-bf57a6b74a95", "description": "Malicious code in prettier-cosmiconfig-testcafe-lint-staged (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146463"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121807", "enisaUuid": "367ebc97-9346-3b29-924e-4acb3e569c7e", "description": "Malicious code in spectron-jwt-test-castor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148118"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

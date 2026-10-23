@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114381", "enisaUuid": "056c7dff-2b44-3e0f-8c29-ad0f984200aa", "description": "Malicious code in dotenv-parse-variables-nightmare-aether-run-script (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141728"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

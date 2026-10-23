@@ -1,0 +1,1 @@
+{"id": "EUVD-2026-0737", "enisaUuid": "b9dcddd4-6f4c-37ec-b6b4-447e2f8f55d7", "description": "Malicious code in identity-emitter (npm)", "datePublished": "2026-01-02T22:06:48", "dateUpdated": "2026-01-02T22:06:48", "baseScore": 0.0, "aliases": ["MAL-2026-17"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111957", "enisaUuid": "929405c3-2184-3f93-9289-60a9994e0746", "description": "Malicious code in kaus-uglify-js-version-node-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144156"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

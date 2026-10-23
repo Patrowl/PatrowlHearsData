@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121883", "enisaUuid": "05eecf9e-2812-3e42-8bbb-d264cf11e242", "description": "Malicious code in soap-zenith-commitlint-airbnb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148042"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

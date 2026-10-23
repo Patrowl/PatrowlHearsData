@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130500", "enisaUuid": "c23d2af0-f5b5-3a89-91d6-95ecb8debe5b", "description": "Malicious code in vc-test-suite (npm)", "datePublished": "2025-07-28T19:55:45", "dateUpdated": "2025-07-28T19:55:45", "baseScore": 0.0, "aliases": ["MAL-2025-6777"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191828", "enisaUuid": "9b3aba30-5dce-3f54-ac7c-240a843df9c2", "description": "Malicious code in redux-saga-guard (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-42067"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

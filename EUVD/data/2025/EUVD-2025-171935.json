@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171935", "enisaUuid": "4a18fcc5-17bc-36a2-ae56-6ddbf6582d3b", "description": "Malicious code in nextjs-nconf-centauri-middleware (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27406"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

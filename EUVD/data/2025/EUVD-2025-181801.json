@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181801", "enisaUuid": "bec619b0-624b-33d5-8f95-0aeee3fe8130", "description": "Malicious code in refine-object (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32016"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112906", "enisaUuid": "e86d7d6e-b320-3577-b7e5-e5e089263c2f", "description": "Malicious code in heka-jsonp-triton-fetch (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143206"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

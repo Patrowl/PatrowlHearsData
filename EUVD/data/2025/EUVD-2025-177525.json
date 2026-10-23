@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177525", "enisaUuid": "acde07bc-4dbb-3fca-8d8f-a5bd2a6c75a0", "description": "Malicious code in nova-relay-cosmogenic-taurus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188357"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

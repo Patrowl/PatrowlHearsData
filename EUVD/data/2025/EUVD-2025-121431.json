@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121431", "enisaUuid": "4d5c3e17-ff69-3d53-b1a6-c3a0ec3060d5", "description": "Malicious code in telesto-phoebe-install-betelgeuse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148497"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116405", "enisaUuid": "77cd5f33-a1f5-3822-aefc-36bddb43e39a", "description": "Malicious code in aurora-chai-csrf-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139697"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

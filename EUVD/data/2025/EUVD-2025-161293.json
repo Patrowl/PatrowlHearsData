@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161293", "enisaUuid": "a76ef015-6143-384e-9b60-cff5ed9b6900", "description": "Malicious code in char-scale-string-object-hot (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16792"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

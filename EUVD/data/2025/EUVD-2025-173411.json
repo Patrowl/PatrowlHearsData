@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173411", "enisaUuid": "5a060ee2-4446-399e-91cd-d20aa45e1922", "description": "Malicious code in parse-unix-minify-balance-route (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28882"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

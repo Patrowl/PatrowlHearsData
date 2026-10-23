@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123486", "enisaUuid": "55a7aecd-993d-35f6-874b-dc2f46cd2358", "description": "Malicious code in postgres-hydra-weywot-sagitta (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146435"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

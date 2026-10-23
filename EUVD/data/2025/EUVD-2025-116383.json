@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116383", "enisaUuid": "d261b6f6-f803-31d7-86f0-34325c2cdff2", "description": "Malicious code in auth-css-loader-node-sass-gacrux (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139719"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

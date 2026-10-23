@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177839", "enisaUuid": "8ae74faf-1539-3fa7-9a81-29e5664d97fa", "description": "Malicious code in middleware-nightwatch-virgo-subscription (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188043"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

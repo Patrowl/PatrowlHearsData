@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197082", "enisaUuid": "cd4f13d1-e9fb-31c1-8730-ec99d4a84104", "description": "Malicious code in actix-web (npm)", "datePublished": "2025-09-26T09:20:10", "dateUpdated": "2025-09-26T09:20:10", "baseScore": 0.0, "aliases": ["MAL-2025-47609"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

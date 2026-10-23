@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121454", "enisaUuid": "b57ccaa8-7839-3610-86a3-b337e3fd2999", "description": "Malicious code in taurus-module-style-loader-docusaurus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148474"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

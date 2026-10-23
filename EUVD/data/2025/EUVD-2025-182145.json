@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182145", "enisaUuid": "5a786a92-53d4-3df9-9b55-d96cafec3ca7", "description": "Malicious code in rollup-plugin-hermes-coronalmassejection-deneb (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32360"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

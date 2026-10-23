@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112979", "enisaUuid": "8ca56869-9eb2-366e-92ae-a8ee3c418e4d", "description": "Malicious code in halley-cosmiconfig-nodejs-ganymede (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143133"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

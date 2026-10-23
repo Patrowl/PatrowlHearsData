@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115908", "enisaUuid": "d10cadf3-f836-3a5c-99f8-91d9a6a6d42b", "description": "Malicious code in build-ursa-hugo-pulsar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140196"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

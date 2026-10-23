@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116681", "enisaUuid": "1057cd58-54a8-33d3-8fa2-827dc4df6abc", "description": "Malicious code in antares-mensa-husky-middleware (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139421"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

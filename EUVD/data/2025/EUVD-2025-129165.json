@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129165", "enisaUuid": "2554ee83-badf-3cf5-aa6d-c24440d529f9", "description": "Malicious code in messaging-client-lite (npm)", "datePublished": "2025-06-24T14:26:46", "dateUpdated": "2025-06-24T14:26:46", "baseScore": 0.0, "aliases": ["MAL-2025-5436"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

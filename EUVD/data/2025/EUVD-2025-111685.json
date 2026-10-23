@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111685", "enisaUuid": "22df7983-00c9-3140-942d-d8f21e11d7ee", "description": "Malicious code in link-update-jwt-chai (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144429"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

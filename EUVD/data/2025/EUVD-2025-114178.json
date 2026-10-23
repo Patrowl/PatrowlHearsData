@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114178", "enisaUuid": "50c5c24f-2263-31eb-9763-575ff15f151e", "description": "Malicious code in electron-semantic-ui-local-package (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141932"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

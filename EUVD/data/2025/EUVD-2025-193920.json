@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193920", "enisaUuid": "5c89b869-80ed-3df8-831f-52e1b55c5a13", "description": "Malicious code in eslint-config-nebula-hapi-aurora (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44167"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

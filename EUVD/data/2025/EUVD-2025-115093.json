@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115093", "enisaUuid": "d6a53f3a-c99d-34de-8542-819b6a963be6", "description": "Malicious code in concurrently-transform-prettier-stylelint-halley (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141016"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

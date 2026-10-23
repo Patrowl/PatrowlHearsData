@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127452", "enisaUuid": "96a8d31a-bc70-3fae-93b4-f8dc79c823b1", "description": "Malicious code in @phone_base_ui/base_call (npm)", "datePublished": "2025-05-09T02:50:46", "dateUpdated": "2025-05-09T02:50:46", "baseScore": 0.0, "aliases": ["MAL-2025-3711"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

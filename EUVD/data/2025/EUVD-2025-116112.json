@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116112", "enisaUuid": "92a0372a-c34f-341b-a4ce-f9a61648f249", "description": "Malicious code in betelgeuse-mocha-request-event (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139990"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

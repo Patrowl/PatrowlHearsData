@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129201", "enisaUuid": "ac7e4431-f33e-3214-a270-010717bd287e", "description": "Malicious code in vuepress-plugin-gitlabment (npm)", "datePublished": "2025-06-18T05:34:33", "dateUpdated": "2025-06-18T05:34:33", "baseScore": 0.0, "aliases": ["MAL-2025-5473"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

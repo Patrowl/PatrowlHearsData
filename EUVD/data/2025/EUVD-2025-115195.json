@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115195", "enisaUuid": "ecca3fc7-ca5b-33fd-a72d-ed51bc8ed84e", "description": "Malicious code in command-mongodb-regulus-chromedriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140913"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

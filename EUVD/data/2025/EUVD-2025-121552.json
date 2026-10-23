@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121552", "enisaUuid": "6ed3787f-4bfa-342c-b6ca-1bd1e9a8e5ed", "description": "Malicious code in superagent-build-spinner-miranda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148374"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

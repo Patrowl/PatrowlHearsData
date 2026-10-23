@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161826", "enisaUuid": "96dd32ff-e7c8-3016-b998-90c6c1aff3f9", "description": "Malicious code in com.microsoft.azure.spatial-anchors-sdk.windows (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17327"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

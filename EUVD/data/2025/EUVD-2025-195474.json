@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195474", "enisaUuid": "867d7942-1a5b-393b-99da-4c1e71b7e774", "description": "Malicious code in quark-socketio-configstore-remark (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45722"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

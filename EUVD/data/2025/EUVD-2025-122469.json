@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122469", "enisaUuid": "b969e652-c8c1-396a-ba7b-224edf292e6c", "description": "Malicious code in rimraf-morgan-hugo-quark (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147453"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

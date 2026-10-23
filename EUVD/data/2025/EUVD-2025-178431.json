@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178431", "enisaUuid": "fd2375be-d090-3986-a2bc-0cca21985e84", "description": "Malicious code in index-gamma-authorize-deploy-async (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187451"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

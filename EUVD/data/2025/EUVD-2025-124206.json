@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124206", "enisaUuid": "dafdb604-763e-33ae-8f89-567af005de2f", "description": "Malicious code in nuxtjs-resolvers-procyon-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145715"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

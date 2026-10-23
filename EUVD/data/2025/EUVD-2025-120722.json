@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120722", "enisaUuid": "79ec78a8-f81f-3fa1-8df4-f455641ad476", "description": "Malicious code in vuetify-dotenv-safe-spectron-docusaurus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149207"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

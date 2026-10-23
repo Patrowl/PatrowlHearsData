@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124614", "enisaUuid": "1268c340-bb88-3e62-8359-d4f533d9e4f3", "description": "Malicious code in nconf-ceres-css-minimizer-webpack-plugin-nuxtjs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145306"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

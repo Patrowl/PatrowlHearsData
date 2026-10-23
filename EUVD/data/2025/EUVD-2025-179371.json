@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179371", "enisaUuid": "a589ae6a-59b4-3d53-b029-06bcd1b48e2d", "description": "Malicious code in decrypt-xml-compress-moon-file (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186511"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

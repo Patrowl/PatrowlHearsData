@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-51680", "enisaUuid": "4e646238-5063-3f78-a3ac-4c7e26e91b0d", "description": "Malicious code in supposed-black-locust (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-70969"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

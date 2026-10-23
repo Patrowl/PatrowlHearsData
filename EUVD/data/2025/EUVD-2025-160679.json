@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160679", "enisaUuid": "fb17d030-b5c0-33d3-a19f-96080e23134a", "description": "Malicious code in brinkbit-schema-user (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16178"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

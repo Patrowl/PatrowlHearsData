@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-65480", "enisaUuid": "926f29bc-7b21-39b9-8af3-b99f55751a1f", "description": "Malicious code in absent_puma_z3n (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-93074"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

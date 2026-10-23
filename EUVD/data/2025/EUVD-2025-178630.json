@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178630", "enisaUuid": "527611fd-fba5-3aa3-9dc5-0d2375afd68c", "description": "Malicious code in gulp-kinetic-mongodb-astrometry (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187252"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

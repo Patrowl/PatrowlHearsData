@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197037", "enisaUuid": "52efc427-f290-32ea-9d28-9dd88839bf1c", "description": "Malicious code in across-indexer-monorepo (npm)", "datePublished": "2025-09-23T04:13:48", "dateUpdated": "2025-09-23T04:13:48", "baseScore": 0.0, "aliases": ["MAL-2025-47511"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

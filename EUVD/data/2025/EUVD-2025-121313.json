@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121313", "enisaUuid": "d7d6a851-918b-3d48-a99d-a609ec002bf7", "description": "Malicious code in tethys-cypress-spectron-titan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148615"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

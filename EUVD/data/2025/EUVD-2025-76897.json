@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76897", "enisaUuid": "c8929e79-ab63-381e-b295-1f604cc758b2", "description": "Malicious code in external_parrot-notthedev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-102422"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121165", "enisaUuid": "2a21c993-f4af-314a-a984-d5810cab4f51", "description": "Malicious code in transform-exec-sedna-sagitta (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148763"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

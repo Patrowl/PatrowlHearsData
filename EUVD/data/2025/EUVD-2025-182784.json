@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182784", "enisaUuid": "1e8f7ab3-1f83-356d-afff-cbb9686f8620", "description": "Malicious code in serraview.common.styles (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32999"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

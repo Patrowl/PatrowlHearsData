@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112177", "enisaUuid": "516135f2-2a47-361a-80ea-4714e7b650b7", "description": "Malicious code in jest-testcafe-stop-mutation (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143936"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

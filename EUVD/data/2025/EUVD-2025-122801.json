@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122801", "enisaUuid": "56ffb226-eada-3f12-b206-19d1f3bf4dae", "description": "Malicious code in registry-concurrently-hercules-docusaurus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147121"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

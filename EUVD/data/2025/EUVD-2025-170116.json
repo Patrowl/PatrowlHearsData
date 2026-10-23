@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170116", "enisaUuid": "ad7437be-5eda-3844-801a-8ac027f496fc", "description": "Malicious code in loop-concurrently-carina-elektra (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25587"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

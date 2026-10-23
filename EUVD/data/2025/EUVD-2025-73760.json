@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-73760", "enisaUuid": "c61da050-99dc-323b-8c87-0d2a5dfd97c2", "description": "Malicious code in separate_smelt_z3n (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-96530"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

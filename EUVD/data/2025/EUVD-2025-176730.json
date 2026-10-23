@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176730", "enisaUuid": "b5abf24e-9c00-3e2c-aad3-003a0e51cbb2", "description": "Malicious code in rehype-sequelize-avior-redis (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189145"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

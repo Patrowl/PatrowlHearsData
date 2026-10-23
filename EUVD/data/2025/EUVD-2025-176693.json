@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176693", "enisaUuid": "234f3b93-1bb5-3780-b812-d05b49650891", "description": "Malicious code in report-new-runtime-sun-user (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189182"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

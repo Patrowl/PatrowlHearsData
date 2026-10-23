@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176475", "enisaUuid": "94f5ffc1-477f-3376-82e6-b59ffba5321b", "description": "Malicious code in sed-node-shell-long-authorize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189400"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

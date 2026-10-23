@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123487", "enisaUuid": "48161ad2-96c9-34cc-affc-ed1dbe8bef60", "description": "Malicious code in postgres-google-europa-update (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146434"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

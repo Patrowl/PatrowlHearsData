@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179603", "enisaUuid": "834e5c6b-3444-3474-9157-3e25198431d4", "description": "Malicious code in config-pipe-promise-start (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186279"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

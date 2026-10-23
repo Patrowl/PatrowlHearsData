@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127404", "enisaUuid": "77a90cb2-bc62-32d8-a5cd-541a2f13fa5c", "description": "Malicious code in @ixm-apps/mf-admin-user (npm)", "datePublished": "2025-05-05T15:44:10", "dateUpdated": "2025-05-22T14:07:46", "baseScore": 0.0, "aliases": ["MAL-2025-3663"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114544", "enisaUuid": "feb37a65-3444-3cc3-b030-27b061b49688", "description": "Malicious code in dependencies-eclipse-websockets-yonder (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141565"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

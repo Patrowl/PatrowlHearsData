@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179600", "enisaUuid": "29441a0d-047d-3665-bf04-c6bd0da97b07", "description": "Malicious code in configstore-centaurus-writable-express (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186282"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

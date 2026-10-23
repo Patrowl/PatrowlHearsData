@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191588", "enisaUuid": "64003b7f-8c94-3cf6-a589-863a46eda573", "description": "Malicious code in cyclic-dep-explicit-1 (npm)", "datePublished": "2025-08-31T06:05:48", "dateUpdated": "2025-08-31T06:05:48", "baseScore": 0.0, "aliases": ["MAL-2025-41822"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

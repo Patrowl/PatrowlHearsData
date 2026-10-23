@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113329", "enisaUuid": "62627a1e-2602-316f-bbe7-b1c5070afec6", "description": "Malicious code in gacrux-style-loader-cache-comet (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142783"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

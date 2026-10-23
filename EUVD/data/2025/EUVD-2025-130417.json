@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130417", "enisaUuid": "4e1aeb25-fa22-3e37-aa13-ec7dc6cb4a13", "description": "Malicious code in amdocs-auth-package (npm)", "datePublished": "2025-08-03T04:02:38", "dateUpdated": "2025-08-03T04:02:38", "baseScore": 0.0, "aliases": ["MAL-2025-6694"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

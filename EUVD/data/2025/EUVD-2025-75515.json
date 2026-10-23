@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75515", "enisaUuid": "0d2dd30b-7eb0-3143-8b5c-f08dbdd06f75", "description": "Malicious code in subtle_squid-gooddev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-109250"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120778", "enisaUuid": "1b291781-6992-34ef-81b8-a9fc698083c3", "description": "Malicious code in virgo-cache-chai-spectron (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149151"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

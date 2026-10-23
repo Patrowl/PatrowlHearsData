@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191608", "enisaUuid": "45ddcd01-a848-3ffd-a89d-9a0b266123df", "description": "Malicious code in @espace-client-axafr/certificate-auto (npm)", "datePublished": "2025-08-25T18:32:58", "dateUpdated": "2025-08-25T18:32:58", "baseScore": 0.0, "aliases": ["MAL-2025-41842"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

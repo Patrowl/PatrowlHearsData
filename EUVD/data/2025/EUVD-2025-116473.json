@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116473", "enisaUuid": "10fe6f24-d957-3a23-8a1c-2c7342d67e77", "description": "Malicious code in async-native-vortex-lynx (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139629"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

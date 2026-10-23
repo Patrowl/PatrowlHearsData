@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182910", "enisaUuid": "162a6769-8975-3db4-bd12-d505a8b1cf61", "description": "Malicious code in shopify-function-trampoline (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33125"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

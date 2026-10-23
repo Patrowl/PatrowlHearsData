@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114266", "enisaUuid": "4f34c01d-7544-3a71-9b21-cbafff3d21a2", "description": "Malicious code in dynamo-winston-less-fornax (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141843"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

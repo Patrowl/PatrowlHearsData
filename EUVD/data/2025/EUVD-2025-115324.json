@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115324", "enisaUuid": "8c30c296-92aa-3289-aa92-aa3de6c29733", "description": "Malicious code in chromedriver-xml-pegasus-changelog (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140783"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

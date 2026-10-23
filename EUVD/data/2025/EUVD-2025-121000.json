@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121000", "enisaUuid": "1c43fc21-05e7-3671-9632-68e16167fd61", "description": "Malicious code in umbra-npm-jovian-local (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148928"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

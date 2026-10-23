@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161983", "enisaUuid": "28aebb41-b8fa-38f8-99cb-a5086a0a631b", "description": "Malicious code in confkit-notifier-slack (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17484"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

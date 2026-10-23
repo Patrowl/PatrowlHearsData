@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116346", "enisaUuid": "b2869b6e-fa3d-375f-8308-3e01fcd651fb", "description": "Malicious code in auth0-sagitta-koa-kronos (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139756"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

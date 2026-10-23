@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115233", "enisaUuid": "771b3890-ffe1-373e-b85e-59783057f397", "description": "Malicious code in comet-fomalhaut-dotenv-safe-polaris (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140875"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

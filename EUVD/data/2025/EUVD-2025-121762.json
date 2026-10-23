@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121762", "enisaUuid": "9b48642f-08ee-3d8b-b9b5-a858a381fafa", "description": "Malicious code in spica-json-umbra-commitizen (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148163"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

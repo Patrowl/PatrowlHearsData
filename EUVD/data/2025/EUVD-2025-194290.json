@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194290", "enisaUuid": "10dbc98f-2229-3da0-aeef-504116176b1e", "description": "Malicious code in handle-entire-bow (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44537"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

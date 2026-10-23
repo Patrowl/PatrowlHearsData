@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176163", "enisaUuid": "7a156af2-f4ce-3338-bb93-1837b8ce5f6b", "description": "Malicious code in subduction-pulsar-yaml-janus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189712"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

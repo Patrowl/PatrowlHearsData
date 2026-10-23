@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116218", "enisaUuid": "621fb702-5e50-315b-bd97-5daae59bea32", "description": "Malicious code in backend-css-minimizer-webpack-plugin-mocha-fetch (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139884"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167602", "enisaUuid": "1e8facac-d7ac-3b50-9ae8-be4252fb83f4", "description": "Malicious code in import-grep-void-await-minify (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23084"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

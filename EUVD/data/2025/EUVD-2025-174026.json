@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174026", "enisaUuid": "41f6f4ac-eca0-3294-85af-d6d0dfabeb0e", "description": "Malicious code in polymer-redux-store (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29497"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130420", "enisaUuid": "19593d3a-e550-3be1-a59a-0883fd165fea", "description": "Malicious code in azuresdkpackagelist (npm)", "datePublished": "2025-08-01T01:43:14", "dateUpdated": "2025-08-01T01:43:14", "baseScore": 0.0, "aliases": ["MAL-2025-6697"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

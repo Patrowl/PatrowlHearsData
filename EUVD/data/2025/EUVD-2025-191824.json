@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191824", "enisaUuid": "8f92327d-d812-3f89-b48e-d414e73b41fb", "description": "Malicious code in random-generator-pkg (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-42063"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

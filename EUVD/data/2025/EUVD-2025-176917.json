@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176917", "enisaUuid": "2209dcdf-1435-3cde-875b-0b3237388d74", "description": "Malicious code in publish-superagent-rollup-plugin-commitlint (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188958"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

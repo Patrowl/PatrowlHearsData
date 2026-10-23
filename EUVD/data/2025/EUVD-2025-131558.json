@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131558", "enisaUuid": "53053199-9ef1-3046-aaa2-24e2d3befb14", "description": "Malicious code in @epc-infra/cicd-stack (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7836"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

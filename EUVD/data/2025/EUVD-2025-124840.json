@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124840", "enisaUuid": "93e81ebe-525a-37f3-a470-9dc3d587e837", "description": "Malicious code in mocha-graphql-alphard-sirius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145078"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

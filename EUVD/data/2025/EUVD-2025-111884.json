@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111884", "enisaUuid": "ec39b1f2-ac02-370f-aea5-e0d673f492f2", "description": "Malicious code in kronos-terser-carpo-nconf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144229"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

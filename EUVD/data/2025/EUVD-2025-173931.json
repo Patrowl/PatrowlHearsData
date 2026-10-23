@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173931", "enisaUuid": "5b66f4b9-6c20-389f-a846-0c07c9d869b0", "description": "Malicious code in plex-slack-music-notifications (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29402"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

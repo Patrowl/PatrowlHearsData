@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178790", "enisaUuid": "143b525f-4e3d-34d7-8cc9-a8a1c4f05eec", "description": "Malicious code in gamma-integer-hash-double-tau (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187092"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

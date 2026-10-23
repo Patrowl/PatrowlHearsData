@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111567", "enisaUuid": "c3f4fe06-6e3f-3b2a-bfa0-cc532164fa3f", "description": "Malicious code in loopback-forever-polaris-middleware (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144548"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

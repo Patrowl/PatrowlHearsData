@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161411", "enisaUuid": "3c4a8afd-f786-39b4-892d-912246a13f61", "description": "Malicious code in cherry-delta-zaql (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16910"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

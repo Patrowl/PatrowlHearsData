@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124397", "enisaUuid": "35a269e1-d176-30eb-92fc-02a99c22d50f", "description": "Malicious code in node-config-warp-resolvers-tethys (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145524"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

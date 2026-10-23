@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120655", "enisaUuid": "03b85e19-0fba-341f-92b1-7f1fe829b5b2", "description": "Malicious code in warp-protractor-jsonp-prettier-plugin-markdown (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149274"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

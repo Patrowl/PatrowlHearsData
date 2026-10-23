@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130146", "enisaUuid": "b99e9ec5-180e-363a-8c70-3295580099cf", "description": "Malicious code in frontend-feature-flags (npm)", "datePublished": "2025-07-31T19:30:38", "dateUpdated": "2025-07-31T19:30:38", "baseScore": 0.0, "aliases": ["MAL-2025-6420"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

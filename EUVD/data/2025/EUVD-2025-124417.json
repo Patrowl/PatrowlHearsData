@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124417", "enisaUuid": "5484e316-f941-3f07-984f-0fd39120b45f", "description": "Malicious code in node-config-commitlint-element-ui-avior (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145504"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

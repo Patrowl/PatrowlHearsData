@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121447", "enisaUuid": "2ded2b17-80b2-38eb-8562-59b78abc41b6", "description": "Malicious code in taurus-semantic-release-auth0-castor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148481"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

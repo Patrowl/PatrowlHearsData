@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121159", "enisaUuid": "254bbe01-7331-3c23-9ae2-d0baf7f60b36", "description": "Malicious code in transform-node-sass-jwt-mutation (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148769"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

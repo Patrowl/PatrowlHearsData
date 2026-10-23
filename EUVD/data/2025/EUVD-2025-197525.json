@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197525", "enisaUuid": "07c460c1-2839-3a1d-9a7d-ff692f693b30", "description": "Malicious code in eslint-plugin-ethereumjs (npm)", "datePublished": "2025-10-23T19:31:57", "dateUpdated": "2025-10-23T19:31:57", "baseScore": 0.0, "aliases": ["MAL-2025-48840"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114053", "enisaUuid": "b5c5faf1-2945-34e3-b536-f35410bd7ed1", "description": "Malicious code in enif-process-solis-got (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142057"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

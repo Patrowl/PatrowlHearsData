@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116534", "enisaUuid": "01945be1-2d3e-36d3-981b-12c285b0cf14", "description": "Malicious code in arcturus-dependencies-transport-child-process (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139568"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

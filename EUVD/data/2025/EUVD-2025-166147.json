@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166147", "enisaUuid": "5be4acff-bcb7-37eb-ac80-ec6c6bcdb97a", "description": "Malicious code in godenv (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21628"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

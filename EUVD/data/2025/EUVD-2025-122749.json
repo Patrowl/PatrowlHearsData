@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122749", "enisaUuid": "e239ff75-7cdb-3e7d-8f37-d713e6bd12b3", "description": "Malicious code in rehype-impulse-webdriverio-auth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147173"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

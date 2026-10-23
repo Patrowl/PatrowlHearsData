@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123517", "enisaUuid": "84fa451f-e8b5-3cb9-b8b7-7bc95930f283", "description": "Malicious code in postcss-loader-oauth-chai-miranda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146404"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

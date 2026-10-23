@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175612", "enisaUuid": "f2b9320c-8d50-33c9-84d7-1b9405268d26", "description": "Malicious code in webdriver-manager-parcel-innercore-redgiant (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190264"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

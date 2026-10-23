@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162396", "enisaUuid": "82a24054-a2f6-328e-bcf0-ec09abd1df10", "description": "Malicious code in cypress-pm2-wormhole-quark (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17897"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

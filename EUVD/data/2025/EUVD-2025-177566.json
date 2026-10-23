@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177566", "enisaUuid": "543969f9-3be1-3cdb-94bb-c62ed082ac61", "description": "Malicious code in node-sass-eslint-kaus-relay (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188316"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

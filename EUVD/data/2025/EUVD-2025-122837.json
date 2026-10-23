@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122837", "enisaUuid": "2b9eb1bc-1377-3817-9b9b-2fbb7aa46ad5", "description": "Malicious code in readable-mysql-bulma-delphinus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147085"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

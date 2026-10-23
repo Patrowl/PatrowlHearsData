@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-34484", "enisaUuid": "c0f41bc5-f06c-3297-b244-e1142a9421b1", "description": "Malicious code in aps-configurator-inventor (npm)", "datePublished": "2025-10-14T20:08:22", "dateUpdated": "2025-10-14T20:08:22", "baseScore": 0.0, "aliases": ["MAL-2025-48413"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113229", "enisaUuid": "ceb5de75-fdc6-3fda-b5b5-b8a46a04bfb0", "description": "Malicious code in geckodriver-spectron-webdriver-chariklo-sequelize (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142883"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

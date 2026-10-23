@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120647", "enisaUuid": "630b492a-451e-3531-8fc5-de1d21074d21", "description": "Malicious code in wasat-celeste-jasmine-test (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149282"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

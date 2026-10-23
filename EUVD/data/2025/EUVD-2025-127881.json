@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127881", "enisaUuid": "efa9e2df-4f8f-3cb0-a716-6efaf362412e", "description": "Malicious code in @ctg-ui/web-shell-express (npm)", "datePublished": "2025-05-22T12:34:41", "dateUpdated": "2025-05-22T12:34:41", "baseScore": 0.0, "aliases": ["MAL-2025-4149"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176432", "enisaUuid": "ba85e40d-9829-3a0f-b2aa-9468d017814e", "description": "Malicious code in sequelize-eris-europa-sails (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189443"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

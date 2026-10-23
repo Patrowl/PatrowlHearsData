@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180087", "enisaUuid": "c1c38d2b-f71b-3636-83c0-b11fb86a6f3e", "description": "Malicious code in betelgeuse-nodejs-hugo-flare (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185795"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

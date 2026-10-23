@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125474", "enisaUuid": "71e63919-d5b5-3055-b60f-a863693565c4", "description": "Malicious code in apple-logger (npm)", "datePublished": "2025-03-03T13:18:43", "dateUpdated": "2025-03-03T13:18:43", "baseScore": 0.0, "aliases": ["MAL-2025-1731"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

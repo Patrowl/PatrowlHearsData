@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191893", "enisaUuid": "a4149967-59dd-31e3-aae0-c02138c85be5", "description": "Malicious code in camelize-http-headers (npm)", "datePublished": "2025-09-02T05:07:28", "dateUpdated": "2025-09-02T05:07:28", "baseScore": 0.0, "aliases": ["MAL-2025-42135"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

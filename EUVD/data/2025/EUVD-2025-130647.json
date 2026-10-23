@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130647", "enisaUuid": "a1b81b2d-c47e-3f1f-bcfb-7c234e6f0c9d", "description": "Malicious code in ember-lts-4.4 (npm)", "datePublished": "2025-08-17T02:36:07", "dateUpdated": "2025-08-29T06:43:16", "baseScore": 0.0, "aliases": ["MAL-2025-6925"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

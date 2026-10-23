@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113660", "enisaUuid": "02d18afa-076d-37f7-abb5-104aa5211a3b", "description": "Malicious code in fetch-meteor-leda-materialize (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142451"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

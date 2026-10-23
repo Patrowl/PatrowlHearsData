@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-202796", "enisaUuid": "62a8c5db-bec4-3c44-a033-73388200e1b4", "description": "Malicious code in elf-stats-marzipan-nightcap-982 (npm)", "datePublished": "2025-12-11T19:46:09", "dateUpdated": "2025-12-11T19:46:09", "baseScore": 0.0, "aliases": ["MAL-2025-192513"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

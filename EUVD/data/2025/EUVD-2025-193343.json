@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193343", "enisaUuid": "57bda8c7-4a40-3940-9ab6-48b90c342607", "description": "Malicious code in barnard-tailwindcss-postcss-eslint-config (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43590"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

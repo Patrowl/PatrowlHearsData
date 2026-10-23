@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179372", "enisaUuid": "6699cf15-a686-3278-ad63-f490f4eb1123", "description": "Malicious code in decrypt-sun-mock-rain-debug (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186510"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

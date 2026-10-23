@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122785", "enisaUuid": "f3bc5c85-d730-3924-9c13-b3c23790fbfc", "description": "Malicious code in registry-zenith-redis-elara (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147137"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112680", "enisaUuid": "b2949b47-aed5-3946-b31b-77ebb20d82f8", "description": "Malicious code in husky-xml-dagda-redis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143432"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

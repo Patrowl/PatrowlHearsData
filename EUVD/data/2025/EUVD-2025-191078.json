@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191078", "enisaUuid": "6a10422f-b04c-3b39-96ce-07ff9d8b1252", "description": "Malicious code in invalid-polyfill-boundary (npm)", "datePublished": "2025-08-23T14:25:46", "dateUpdated": "2025-08-23T14:25:46", "baseScore": 0.0, "aliases": ["MAL-2025-41300"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

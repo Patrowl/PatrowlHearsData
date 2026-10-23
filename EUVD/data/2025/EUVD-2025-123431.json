@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123431", "enisaUuid": "269a09cb-5da0-3657-957d-cc84b19bc07e", "description": "Malicious code in prettier-plugin-markdown-procyon-non-blocking-exec (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146491"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

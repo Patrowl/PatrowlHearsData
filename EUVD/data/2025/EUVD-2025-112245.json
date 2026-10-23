@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112245", "enisaUuid": "87802bee-3ba3-3a3d-9c6c-59a7c7597162", "description": "Malicious code in jasmine-typeorm-rimraf-superagent (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143868"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

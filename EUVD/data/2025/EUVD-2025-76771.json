@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76771", "enisaUuid": "04fc17d8-99a0-3de7-aea4-d5db198c4692", "description": "Malicious code in genuine_llama-gooddev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-103101"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

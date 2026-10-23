@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113728", "enisaUuid": "2b053fdf-e522-31e6-a12f-16be4ef2672d", "description": "Malicious code in express-markdownlint-koa-deneb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142382"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

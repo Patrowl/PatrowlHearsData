@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123327", "enisaUuid": "6e22092d-a95b-3030-8653-5d5527da939b", "description": "Malicious code in procyon-html-webpack-plugin-nodemon-phoebe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146595"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

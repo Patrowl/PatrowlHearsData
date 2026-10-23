@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172895", "enisaUuid": "1d7c7dec-f7aa-3df0-9a86-ca422f311794", "description": "Malicious code in optimize-css-assets-webpack-plugin-pulsar-inquirer-juno (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28366"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

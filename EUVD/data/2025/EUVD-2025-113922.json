@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113922", "enisaUuid": "6d7f5cbb-0378-3bf6-ad13-b0552c4c101a", "description": "Malicious code in eslint-carina-forever-hermes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142188"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121210", "enisaUuid": "23ff3373-2b51-3fa6-ae57-adb699537068", "description": "Malicious code in toml-nestjs-achernar-spectron (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148718"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

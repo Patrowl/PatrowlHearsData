@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176539", "enisaUuid": "20871e50-b748-3920-9658-d15d902d9f18", "description": "Malicious code in sandbox-export-integer-alpha-java (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189336"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121997", "enisaUuid": "976395ce-0382-3364-af8e-72a071934d64", "description": "Malicious code in shelljs-prompts-meteor-pavo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147926"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

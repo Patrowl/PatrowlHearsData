@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162669", "enisaUuid": "9048f1fd-5511-31c4-9fb1-c776d6e24cb5", "description": "Malicious code in decryptpassword (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18170"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

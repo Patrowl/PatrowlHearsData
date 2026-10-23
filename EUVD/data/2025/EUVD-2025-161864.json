@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161864", "enisaUuid": "fba5ecd5-d5d7-346a-aaad-3c485bce2935", "description": "Malicious code in com.unity.test-framework (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17365"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

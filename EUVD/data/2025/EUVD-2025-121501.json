@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121501", "enisaUuid": "bd5766b0-f7b0-3d06-9d97-b953d3f15824", "description": "Malicious code in sync-norma-algol-jsonp (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148427"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

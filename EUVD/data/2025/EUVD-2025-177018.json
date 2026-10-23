@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177018", "enisaUuid": "0ffc0deb-377d-3399-a813-6927b1b1ed4e", "description": "Malicious code in promise-dynamo-umbriel-jwt (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188857"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

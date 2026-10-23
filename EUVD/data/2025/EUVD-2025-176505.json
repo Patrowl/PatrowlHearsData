@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176505", "enisaUuid": "c58d7114-6ba6-34df-82f3-bbb4d917a9c6", "description": "Malicious code in scale-hot-tree-cache-execute (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189370"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

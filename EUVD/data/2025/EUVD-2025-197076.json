@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197076", "enisaUuid": "0dab9a0e-f6b9-342b-96b5-aff47fd9face", "description": "Malicious code in vscode-eslint (npm)", "datePublished": "2025-09-23T18:33:23", "dateUpdated": "2025-09-23T18:33:23", "baseScore": 0.0, "aliases": ["MAL-2025-47601"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-62676", "enisaUuid": "efe7fdd5-37eb-35f0-8a3b-3c2eb52b5ca1", "description": "Malicious code in persistent_newt_z3n (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-95878"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

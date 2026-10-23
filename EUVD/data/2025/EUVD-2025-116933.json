@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116933", "enisaUuid": "32e71893-91b2-3782-8fc8-69827ef07181", "description": "Malicious code in acamar-cosmos-start-request (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139169"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

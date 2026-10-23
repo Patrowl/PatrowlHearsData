@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113058", "enisaUuid": "f23b5894-3804-3d39-a448-856562e7538d", "description": "Malicious code in grunt-bootstrap-mongoose-elektra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143054"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178941", "enisaUuid": "700a2e63-7736-39d3-80e2-09ba7e2a8895", "description": "Malicious code in farout-mongoose-process-kronos (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186941"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

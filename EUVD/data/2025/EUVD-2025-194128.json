@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194128", "enisaUuid": "568e3641-f184-3207-b250-1cbbf043b06a", "description": "Malicious code in ganymede-stream-nuxtjs-ursa (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44375"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

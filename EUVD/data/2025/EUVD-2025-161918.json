@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161918", "enisaUuid": "654e0fcb-5e17-3a84-ac90-744de3d1477f", "description": "Malicious code in commitlint-equinox-markdown-pdf-draco (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17419"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

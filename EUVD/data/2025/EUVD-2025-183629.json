@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183629", "enisaUuid": "4d511bf1-a41c-306b-9ecb-f3db418e7571", "description": "Malicious code in sqljoins (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33844"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

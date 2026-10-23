@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184529", "enisaUuid": "021f230f-8ad8-3940-bb4b-0d07194f4281", "description": "Malicious code in terraforming-install-proxima-meteor (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34745"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

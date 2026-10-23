@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122804", "enisaUuid": "98d5ee8d-5f70-3196-b70f-aabdc4ecba9d", "description": "Malicious code in redis-webdriverio-radiant-helmet (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147118"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

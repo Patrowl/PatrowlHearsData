@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113125", "enisaUuid": "93ce9ba1-65d8-3055-81e3-ea01213019a9", "description": "Malicious code in got-sadr-mocha-sync (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142987"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

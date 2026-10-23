@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180208", "enisaUuid": "d3f79a47-861f-3d8d-9a67-a7a0fbc12de5", "description": "Malicious code in authorize-interface-psi-orchestrate-visualize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185676"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

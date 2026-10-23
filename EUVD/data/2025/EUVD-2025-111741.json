@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111741", "enisaUuid": "406cad54-9386-3300-b3ae-3f5250247109", "description": "Malicious code in library-cassini-apollo-request (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144372"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

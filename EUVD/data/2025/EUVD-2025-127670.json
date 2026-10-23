@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127670", "enisaUuid": "65098f82-3e95-3392-82df-2d6f1d1b87ce", "description": "Malicious code in node-scoped-http-client (npm)", "datePublished": "2025-05-18T06:54:45", "dateUpdated": "2025-05-18T06:54:45", "baseScore": 0.0, "aliases": ["MAL-2025-3937"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111592", "enisaUuid": "fe2b3edc-5d0c-3ef5-bc6c-6d34e2031bc0", "description": "Malicious code in loglevel-xenos-child-process-zenith (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144523"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

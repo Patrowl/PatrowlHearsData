@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176969", "enisaUuid": "80f82cab-7b1b-3d79-956e-66f1eef0f24d", "description": "Malicious code in proxima-antimatter-express-redis (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188906"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

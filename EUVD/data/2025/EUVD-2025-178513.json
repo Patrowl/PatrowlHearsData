@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178513", "enisaUuid": "a464d46e-666c-3c9f-8c7a-25e2e88f3bb2", "description": "Malicious code in hot-awk-authorize-float-interface (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187369"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

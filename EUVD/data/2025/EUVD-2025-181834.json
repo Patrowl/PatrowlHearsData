@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181834", "enisaUuid": "e9290e41-4c12-3cc6-9154-1046ed9fe7d0", "description": "Malicious code in relay-test (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32049"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

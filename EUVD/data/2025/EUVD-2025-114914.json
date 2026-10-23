@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114914", "enisaUuid": "59f2edb7-f84e-34f3-9fbc-192fb90b6de3", "description": "Malicious code in cosmiconfig-release-it-betelgeuse-commitlint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141195"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

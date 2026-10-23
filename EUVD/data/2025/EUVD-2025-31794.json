@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-31794", "enisaUuid": "801d9b73-01b4-3bea-bc4e-98a718b28a0d", "description": "Malicious code in stylelint-config-twbs-applestrap (npm)", "datePublished": "2025-09-30T05:20:11", "dateUpdated": "2025-09-30T05:20:11", "baseScore": 0.0, "aliases": ["MAL-2025-47862"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121787", "enisaUuid": "fef28a5b-aa28-3b36-b871-2d8b253527fb", "description": "Malicious code in spectron-webdriver-restart-cluster-repository (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148138"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

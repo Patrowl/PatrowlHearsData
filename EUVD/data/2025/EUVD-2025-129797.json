@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129797", "enisaUuid": "08ffa752-0ff3-3d21-9936-f2ff3fc6f052", "description": "Malicious code in ably-realtime (npm)", "datePublished": "2025-07-18T13:22:29", "dateUpdated": "2025-07-18T13:22:29", "baseScore": 0.0, "aliases": ["MAL-2025-6070"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

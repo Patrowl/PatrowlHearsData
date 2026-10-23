@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175794", "enisaUuid": "1abf0669-7c05-3d1e-9d31-a3fd67247feb", "description": "Malicious code in update-tethys-query-mensa (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190081"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

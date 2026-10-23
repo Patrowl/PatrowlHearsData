@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181893", "enisaUuid": "6ed74de2-185f-333d-8a0c-df35c302f1ce", "description": "Malicious code in request-ophiuchus-proxima-pyxis (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32108"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121816", "enisaUuid": "87684271-2d50-3e85-8806-2ba13413ba17", "description": "Malicious code in spectron-bootstrap-yaml-iota (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148109"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

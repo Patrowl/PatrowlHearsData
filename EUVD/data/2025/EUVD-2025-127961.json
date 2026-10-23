@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127961", "enisaUuid": "a419fc06-e81a-3998-ad50-26c3a4518040", "description": "Malicious code in py-solanautil (PyPI)", "datePublished": "2025-05-22T12:33:41", "dateUpdated": "2025-05-22T12:33:41", "baseScore": 0.0, "aliases": ["MAL-2025-4229"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

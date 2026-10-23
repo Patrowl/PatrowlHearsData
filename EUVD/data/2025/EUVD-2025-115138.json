@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115138", "enisaUuid": "43bcdd73-31ff-32fe-8910-97f604ba8387", "description": "Malicious code in commitlint-config-angular-pegasus-xenos-npm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140970"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

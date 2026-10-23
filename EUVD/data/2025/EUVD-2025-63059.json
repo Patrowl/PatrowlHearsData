@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63059", "enisaUuid": "0392378b-f4cc-31a6-bcc1-3aee787b610c", "description": "Malicious code in minor_echidna_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-95495"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

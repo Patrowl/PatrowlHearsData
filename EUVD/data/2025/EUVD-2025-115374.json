@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115374", "enisaUuid": "6a3af493-ebe0-3651-ac78-0c9508aa3101", "description": "Malicious code in charon-semantic-release-nashira-child-process (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140733"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112489", "enisaUuid": "59d65a25-1f98-389e-8dbf-68a5057a1a6c", "description": "Malicious code in init-hugo-markdownlint-hydra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143624"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

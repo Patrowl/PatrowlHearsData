@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131800", "enisaUuid": "b8174d28-8f32-3384-b9a6-e097287a36b5", "description": "Malicious code in @iptm-components/intl (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-8078"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

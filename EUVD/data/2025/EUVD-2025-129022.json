@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129022", "enisaUuid": "1de5305d-7b07-3008-857e-f75bee20e2f1", "description": "Malicious code in retaillocationserv-paypal (npm)", "datePublished": "2025-06-27T15:27:10", "dateUpdated": "2025-07-02T01:10:22", "baseScore": 0.0, "aliases": ["MAL-2025-5293"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

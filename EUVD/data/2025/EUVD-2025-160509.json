@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160509", "enisaUuid": "0318b325-4077-3f96-8fcc-4480458b5c25", "description": "Malicious code in botframework-webchat-styles (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-29T06:43:16", "baseScore": 0.0, "aliases": ["MAL-2025-16008"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

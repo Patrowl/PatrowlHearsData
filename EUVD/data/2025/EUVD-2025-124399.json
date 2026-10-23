@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124399", "enisaUuid": "b7b7bd08-fa81-3d3b-b9ed-538c1ea5495c", "description": "Malicious code in node-config-upgrade-library-carpo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145522"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

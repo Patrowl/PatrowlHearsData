@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173848", "enisaUuid": "65c4c5e5-1f49-33dc-8caf-c9b8e7f84eab", "description": "Malicious code in pipe-html-webpack-plugin-quasar-yildun (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29319"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

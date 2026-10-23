@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112473", "enisaUuid": "e20a50e6-6832-30ae-9a12-b8bacfc41c2a", "description": "Malicious code in inquirer-chalk-commitlint-config-angular-loopback (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143640"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191035", "enisaUuid": "f84bb502-1f96-329d-8614-b6ce030c381a", "description": "Malicious code in @uit-spritesmith/webpack (npm)", "datePublished": "2025-08-20T22:40:51", "dateUpdated": "2025-08-20T23:35:33", "baseScore": 0.0, "aliases": ["MAL-2025-41257"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

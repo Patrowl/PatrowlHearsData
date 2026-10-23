@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121193", "enisaUuid": "c7a1a8fb-6772-3ca1-bb0e-0c16c9f06164", "description": "Malicious code in tool-hercules-jwt-nightwatch (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148735"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

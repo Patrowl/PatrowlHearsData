@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160459", "enisaUuid": "c0c26bb5-5b63-3968-a40e-4d1d911bb6bb", "description": "Malicious code in book-user-process-protected-execute (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15958"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

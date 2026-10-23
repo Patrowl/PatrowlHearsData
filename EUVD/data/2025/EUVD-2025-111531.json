@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111531", "enisaUuid": "35b8d728-e828-35bd-bed8-f801e748ec9b", "description": "Malicious code in luna-start-prettier-stylelint-rest (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144584"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

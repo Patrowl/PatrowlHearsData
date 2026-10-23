@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176536", "enisaUuid": "67a27bfe-b030-3190-9a05-0964f1e308e3", "description": "Malicious code in sandbox-interface-async-awk-proxy (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189339"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193651", "enisaUuid": "0bd89276-99a9-3a6f-8fbf-7552273a169e", "description": "Malicious code in correct-eager-aside (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43898"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

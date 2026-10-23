@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124351", "enisaUuid": "72f7464f-5f9c-3bd8-9e7c-39da67d0cafd", "description": "Malicious code in nodejs-metalsmith-kinetic-tool (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145570"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

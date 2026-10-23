@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75858", "enisaUuid": "dce8b86e-0ba4-3a69-8725-1026c722ee63", "description": "Malicious code in ready_tick-silentdev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-107761"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

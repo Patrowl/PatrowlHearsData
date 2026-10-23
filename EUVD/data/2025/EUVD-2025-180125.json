@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180125", "enisaUuid": "16808dd6-5e60-35f3-b0c8-c87df7fed3ac", "description": "Malicious code in bash-load-fast-unix-route (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185757"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

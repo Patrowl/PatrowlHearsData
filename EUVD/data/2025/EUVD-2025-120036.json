@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120036", "enisaUuid": "855fbb0d-3718-32ac-a9b7-3414b12b6d08", "description": "Malicious code in zephyr-sqlite-pulsar-spectron (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149896"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

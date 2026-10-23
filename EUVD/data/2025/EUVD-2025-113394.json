@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113394", "enisaUuid": "1def5c74-4746-3d9d-830e-9722e407a20a", "description": "Malicious code in frontend-vega-scripts-cli (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142718"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

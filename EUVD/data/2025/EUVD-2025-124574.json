@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124574", "enisaUuid": "deb33053-47c7-3bdd-a9ef-19cf9a8e8075", "description": "Malicious code in nebula-mdx-polaris-sync (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145346"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

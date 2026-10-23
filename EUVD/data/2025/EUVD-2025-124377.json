@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124377", "enisaUuid": "89bae9a2-25d8-3aaf-9346-6ebb0dcb84ae", "description": "Malicious code in node-sass-iota-hapi-bulma (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145544"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

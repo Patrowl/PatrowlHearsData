@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183253", "enisaUuid": "a3b5dcdf-53f6-3952-93f2-0efee238309d", "description": "Malicious code in sms-stedin-filters (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33468"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176829", "enisaUuid": "5b9e944b-b47c-3e84-a5bc-5410a79ba306", "description": "Malicious code in quick-serialize-small-bash-delta (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189046"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

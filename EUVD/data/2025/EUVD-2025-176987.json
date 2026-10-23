@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176987", "enisaUuid": "4d9efc9e-390f-3cfd-a99d-b635a8d1ea85", "description": "Malicious code in protected-thread-cron-integer-alpha (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188888"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

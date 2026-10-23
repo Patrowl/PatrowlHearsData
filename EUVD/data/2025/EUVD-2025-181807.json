@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181807", "enisaUuid": "b0913e44-7a50-3c2d-a806-f8e2dbaf7584", "description": "Malicious code in registry-got-babel-adonis (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32022"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

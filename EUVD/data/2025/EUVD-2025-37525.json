@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37525", "enisaUuid": "e5f1619b-a453-350e-850b-31b7f0ae5251", "description": "Malicious code in lowerx-package (npm)", "datePublished": "2025-11-03T19:56:06", "dateUpdated": "2025-11-03T19:56:06", "baseScore": 0.0, "aliases": ["MAL-2025-49347"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195359", "enisaUuid": "ce74eac1-bced-3baa-9129-98a7e0d4ed78", "description": "Malicious code in prompts-hermes-electron-altair (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45607"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

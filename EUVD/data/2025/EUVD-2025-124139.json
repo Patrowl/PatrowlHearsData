@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124139", "enisaUuid": "8bddf7db-0c82-33d5-a497-f05b78147769", "description": "Malicious code in octans-transport-parcel-terser-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145782"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122115", "enisaUuid": "39bcc4e8-bc8c-3b1d-a1c6-c93966c95eac", "description": "Malicious code in selenium-nuxtjs-upgrade-prettier-stylelint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147808"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

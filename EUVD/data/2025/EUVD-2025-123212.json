@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123212", "enisaUuid": "be1eb57a-4e07-3eec-9f1f-a615b5efab63", "description": "Malicious code in proxima-configstore-postgres-altair (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146710"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

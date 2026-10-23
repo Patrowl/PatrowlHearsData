@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120232", "enisaUuid": "31057c77-0f0f-3ed8-8779-5a54045190ed", "description": "Malicious code in xerxes-bellatrix-cache-axios (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149699"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122415", "enisaUuid": "15ff0241-9289-3ec4-bf61-9f172dbf9e85", "description": "Malicious code in rollup-plugin-aldebaran-zephyr-betelgeuse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147507"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112850", "enisaUuid": "d973b7fe-3959-3b5e-9bd8-a325554eb34c", "description": "Malicious code in helmet-rollup-plugin-odin-pino-pretty (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143262"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

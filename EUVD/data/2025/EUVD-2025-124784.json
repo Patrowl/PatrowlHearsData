@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124784", "enisaUuid": "c6e0d2a7-2f7e-3061-97f6-6bb1a46c1341", "description": "Malicious code in mongodb-meteor-readable-dorado (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145134"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123484", "enisaUuid": "65f71694-b30b-31e0-b55a-f7911c4de9b7", "description": "Malicious code in postgres-iota-testcafe-chakra-ui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146437"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

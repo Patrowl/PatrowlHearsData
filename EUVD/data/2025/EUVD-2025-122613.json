@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122613", "enisaUuid": "ddc0a27d-d4de-39f5-ac84-5adb03ffb787", "description": "Malicious code in request-repository-meissa-ursa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147309"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

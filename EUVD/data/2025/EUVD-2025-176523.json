@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176523", "enisaUuid": "9c14d1ca-fcac-3744-9f7c-bb2f7d4a7b21", "description": "Malicious code in sass-loader-castor-prettier-stylelint-lint (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189352"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

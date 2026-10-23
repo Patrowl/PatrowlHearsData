@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113385", "enisaUuid": "2a5a26aa-69ef-3004-888e-e070bf2eac1a", "description": "Malicious code in fusion-callisto-parcel-nestjs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142727"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

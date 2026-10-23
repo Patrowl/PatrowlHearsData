@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-201083", "enisaUuid": "23351f42-d798-3850-b552-f17d17c355af", "description": "Malicious code in elf-stats-cocoa-train-606-pwn2 (npm)", "datePublished": "2025-12-03T17:22:10", "dateUpdated": "2025-12-03T17:22:10", "baseScore": 0.0, "aliases": ["MAL-2025-192207"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

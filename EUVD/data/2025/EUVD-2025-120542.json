@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120542", "enisaUuid": "0f0145b6-e971-3ee4-9966-1548af2c4ee2", "description": "Malicious code in webpack-andromeda-axios-jovian (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149387"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

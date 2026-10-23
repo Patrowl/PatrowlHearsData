@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177619", "enisaUuid": "5a6793a1-360e-3c8b-bb1e-0dcedbfd9651", "description": "Malicious code in nextjs-google-transport-markdownlint (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188263"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

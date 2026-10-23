@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179045", "enisaUuid": "3b11a5b6-f7a3-3b62-abf8-4cc833931814", "description": "Malicious code in eslint-config-nestjs-deneb-geckodriver (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186837"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

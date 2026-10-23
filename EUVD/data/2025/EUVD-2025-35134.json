@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-35134", "enisaUuid": "63eb2c71-8424-392e-a828-7f2911c1d090", "description": "Malicious code in npmrunnode-fetch-test (npm)", "datePublished": "2025-10-21T05:27:23", "dateUpdated": "2025-10-21T05:27:23", "baseScore": 0.0, "aliases": ["MAL-2025-48529"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

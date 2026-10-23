@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114056", "enisaUuid": "15a4121f-7a92-31c2-aa87-379f1148fd00", "description": "Malicious code in enif-middleware-bellatrix-axios (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142054"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

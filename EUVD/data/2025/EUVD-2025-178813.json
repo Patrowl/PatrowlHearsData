@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178813", "enisaUuid": "6d44fd4a-983d-31b2-839d-654d27aaff6e", "description": "Malicious code in fusion-publish-query-auth0 (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187069"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

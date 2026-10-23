@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113065", "enisaUuid": "50be679a-22b5-3453-b688-7d33f2f489e0", "description": "Malicious code in gridsome-oauth-bulma-html-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143047"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

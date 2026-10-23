@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113053", "enisaUuid": "e34592f8-107d-3c18-a986-e033379fb864", "description": "Malicious code in grunt-development-postcss-loader-hydra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143059"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

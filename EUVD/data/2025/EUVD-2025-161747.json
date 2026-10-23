@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161747", "enisaUuid": "8da1f83b-dc0e-3f7f-9148-ab25e9a171a4", "description": "Malicious code in code-file-decompress-decompress-byte (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17248"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

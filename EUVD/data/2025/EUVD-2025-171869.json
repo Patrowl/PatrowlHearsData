@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171869", "enisaUuid": "ff8693f3-ab65-31a4-832d-0104b04dde1a", "description": "Malicious code in new-admin (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27340"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

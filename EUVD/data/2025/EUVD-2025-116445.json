@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116445", "enisaUuid": "ecdf8f38-2825-375c-a0dd-8c733e8e7765", "description": "Malicious code in atlas-rest-quantum-toml (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139657"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

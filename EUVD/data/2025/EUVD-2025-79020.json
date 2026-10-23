@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-79020", "enisaUuid": "d1f6ce89-7ced-3c1f-ab09-892212c4590b", "description": "Malicious code in initial_mackerel_z3n (npm)", "datePublished": "2025-11-11T07:31:13", "dateUpdated": "2025-11-11T07:31:13", "baseScore": 0.0, "aliases": ["MAL-2025-104201"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

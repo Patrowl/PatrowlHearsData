@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195875", "enisaUuid": "e6bae68a-ab20-3261-96ae-9ecc68c3f8d0", "description": "Malicious code in spectron-mui-nodemon-parsec (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46123"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

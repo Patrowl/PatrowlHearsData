@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176731", "enisaUuid": "1fd7bc9f-f5a1-3ae2-9d1d-6b87458b3b05", "description": "Malicious code in rehype-mesosphere-orbit-puppeteer (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189144"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115117", "enisaUuid": "8fd93a7c-7877-3677-85c1-ea1413d6be84", "description": "Malicious code in commitlint-link-rigel-elektra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140991"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

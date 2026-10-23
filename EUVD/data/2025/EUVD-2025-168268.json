@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168268", "enisaUuid": "70caab34-88d4-3501-b172-9156bf20d276", "description": "Malicious code in jetty-carrot-tdb4 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23750"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

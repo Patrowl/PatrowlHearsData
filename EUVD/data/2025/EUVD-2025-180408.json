@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180408", "enisaUuid": "04c589ec-9cc4-3c2e-9c88-0bd5d561f010", "description": "Malicious code in antd-style-loader-miranda-uninstall (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185480"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

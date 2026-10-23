@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180520", "enisaUuid": "8c294f87-0a5e-3e23-8cb7-6d8c4a6cf500", "description": "Malicious code in abstract-mu-kappa-authenticate-decode (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185368"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

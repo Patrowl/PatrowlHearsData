@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153611", "enisaUuid": "2bdb2cdf-bbf8-33e8-b068-1ef0ec88f8b1", "description": "Malicious code in @mylong.io/jackson-candidate-app (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9110"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

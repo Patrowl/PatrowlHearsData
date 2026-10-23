@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169743", "enisaUuid": "10f8ed57-4f85-3419-99b0-ea56210defe0", "description": "Malicious code in lexicrypt (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25214"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

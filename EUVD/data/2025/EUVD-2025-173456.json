@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173456", "enisaUuid": "174a490c-1861-3972-a957-2dd76223dd43", "description": "Malicious code in pavo-init-sass-loader-nodejs (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28927"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

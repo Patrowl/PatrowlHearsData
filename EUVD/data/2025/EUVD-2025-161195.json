@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161195", "enisaUuid": "88778d16-a343-3734-8204-b956e5e9ea85", "description": "Malicious code in cdk-integ-tools (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16694"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

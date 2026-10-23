@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114330", "enisaUuid": "693973f2-5f4f-308f-941f-c98548eb2254", "description": "Malicious code in dotenv-safe-transport-corvus-hydra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141779"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

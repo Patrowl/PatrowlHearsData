@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121438", "enisaUuid": "270d3123-de39-3087-98bc-2d1330d95061", "description": "Malicious code in telesto-aquarius-apex-restart (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148490"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

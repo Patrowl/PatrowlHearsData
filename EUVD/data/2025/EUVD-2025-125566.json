@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125566", "enisaUuid": "d963cb10-38ec-3d80-b6f3-e2a6b3a07152", "description": "Malicious code in google-jira (npm)", "datePublished": "2025-03-03T13:27:34", "dateUpdated": "2025-03-03T13:27:34", "baseScore": 0.0, "aliases": ["MAL-2025-1823"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

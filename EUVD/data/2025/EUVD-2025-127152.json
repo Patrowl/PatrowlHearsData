@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127152", "enisaUuid": "bd257d65-3384-3cf8-86ff-5197147a5b30", "description": "Malicious code in packageblueimp-file-upload (npm)", "datePublished": "2025-04-23T15:57:13", "dateUpdated": "2025-04-23T15:57:13", "baseScore": 0.0, "aliases": ["MAL-2025-3411"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

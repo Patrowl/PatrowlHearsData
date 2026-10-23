@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121076", "enisaUuid": "3211d64d-0f37-3875-a96d-004113967e10", "description": "Malicious code in typeorm-node-sass-karma-schema (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148852"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

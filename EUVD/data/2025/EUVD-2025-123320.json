@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123320", "enisaUuid": "4d2d6fcb-74a7-3f30-9090-db03de58d115", "description": "Malicious code in procyon-kronos-materialize-halley (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146602"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

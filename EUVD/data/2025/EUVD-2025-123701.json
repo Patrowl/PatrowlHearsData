@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123701", "enisaUuid": "e4058906-d7f3-352d-9515-13a17e82fcfb", "description": "Malicious code in pino-jwt-spawn-koa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146220"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

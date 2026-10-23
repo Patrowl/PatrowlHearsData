@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-201116", "enisaUuid": "acf1f0fb-8d7d-3d67-aa49-2dc2fa2cfb57", "description": "Malicious code in elf-stats-sleighing-mailbag-621 (npm)", "datePublished": "2025-12-03T19:10:54", "dateUpdated": "2025-12-23T21:08:54", "baseScore": 0.0, "aliases": ["MAL-2025-192275"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

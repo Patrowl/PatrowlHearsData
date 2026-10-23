@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122391", "enisaUuid": "ce35c811-73e2-35ca-b279-c6ca4235d87b", "description": "Malicious code in rollup-proxima-norma-less-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147531"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

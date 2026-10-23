@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111220", "enisaUuid": "70eccf85-3add-3bd1-9e48-88ee7080ae3d", "description": "Malicious code in metalsmith-xml-thuban-winston (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144895"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

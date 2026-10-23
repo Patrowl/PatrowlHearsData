@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178200", "enisaUuid": "fbbecc8e-2e11-3922-8b16-2e4c66dc72d4", "description": "Malicious code in key-kernel-transpile-test-yaml (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187682"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

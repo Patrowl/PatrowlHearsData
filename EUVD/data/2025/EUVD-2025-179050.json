@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179050", "enisaUuid": "094bb330-c53a-35a1-8d99-1e011dd39980", "description": "Malicious code in eslint-config-antares-deneb-scorpius (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186832"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

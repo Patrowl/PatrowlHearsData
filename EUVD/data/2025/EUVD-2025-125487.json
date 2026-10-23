@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125487", "enisaUuid": "2b54703c-1917-3387-b384-4e017480938f", "description": "Malicious code in bookingcom-logger (npm)", "datePublished": "2025-03-03T13:20:34", "dateUpdated": "2025-03-03T13:20:34", "baseScore": 0.0, "aliases": ["MAL-2025-1744"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

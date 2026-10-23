@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111513", "enisaUuid": "0e9318d0-d0f2-3c24-88f2-0434dd170698", "description": "Malicious code in lyra-aurora-optimize-css-assets-webpack-plugin-dagda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144602"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

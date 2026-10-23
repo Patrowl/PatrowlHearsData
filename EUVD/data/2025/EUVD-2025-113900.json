@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113900", "enisaUuid": "b9409b9d-fd53-3c5c-bee1-5f8f652e46d9", "description": "Malicious code in eslint-config-socketio-development-event (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142210"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

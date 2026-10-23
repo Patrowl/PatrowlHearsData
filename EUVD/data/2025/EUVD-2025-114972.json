@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114972", "enisaUuid": "97bd7434-cb61-3d4a-bb2a-e50cb134e94e", "description": "Malicious code in cors-semantic-release-sagitta-registry (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141137"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

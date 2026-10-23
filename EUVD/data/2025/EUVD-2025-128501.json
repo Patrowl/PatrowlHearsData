@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128501", "enisaUuid": "60c0ef49-0309-305c-a0a7-867cb944f098", "description": "Malicious code in test_for-pentest_test_dependcie (npm)", "datePublished": "2025-06-02T22:18:33", "dateUpdated": "2025-06-18T15:07:35", "baseScore": 0.0, "aliases": ["MAL-2025-4769"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

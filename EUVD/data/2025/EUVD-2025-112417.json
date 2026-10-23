@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112417", "enisaUuid": "ec99252e-e133-36ff-a00d-30eccad4786b", "description": "Malicious code in io-frontend-jasmine-ursa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143696"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

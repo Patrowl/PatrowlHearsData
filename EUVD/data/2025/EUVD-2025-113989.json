@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113989", "enisaUuid": "855c0f59-4514-3ce9-b19a-24071c9f95d4", "description": "Malicious code in equinox-geckodriver-helmet-dependencies (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142121"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

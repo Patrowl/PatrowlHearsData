@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153826", "enisaUuid": "191ac918-4a48-3d62-8b3d-a7012178f721", "description": "Malicious code in @sequoia-engineering/eureka-utilities (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9325"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122938", "enisaUuid": "188583c6-72ef-3f39-829e-5a0c7387707d", "description": "Malicious code in query-webdriver-mocha-version-shelljs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146984"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

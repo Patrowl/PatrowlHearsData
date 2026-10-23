@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128750", "enisaUuid": "e57bb22d-85f7-3d98-8c76-3fbc686b347c", "description": "Malicious code in @dm3-org/dm3-lib-crypto (npm)", "datePublished": "2025-06-12T02:09:18", "dateUpdated": "2025-06-12T02:09:18", "baseScore": 0.0, "aliases": ["MAL-2025-5018"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

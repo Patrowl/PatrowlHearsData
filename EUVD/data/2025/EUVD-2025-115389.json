@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115389", "enisaUuid": "24a48a9e-6588-35b7-9e8f-08ec9172838c", "description": "Malicious code in charon-commitlint-config-angular-mdx-umbriel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140718"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

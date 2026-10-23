@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112410", "enisaUuid": "8ec9dd5c-5ced-3c59-a61d-29dbfe84bcb8", "description": "Malicious code in io-non-blocking-hermes-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143703"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

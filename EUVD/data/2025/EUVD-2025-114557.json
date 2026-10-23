@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114557", "enisaUuid": "6128a933-16e6-37c3-9c51-8a6ec2d23d74", "description": "Malicious code in deneb-oauth-changelog-rehype (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141552"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

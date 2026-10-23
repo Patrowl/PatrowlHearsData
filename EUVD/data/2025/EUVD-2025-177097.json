@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177097", "enisaUuid": "ed2e1c81-6799-33e7-ba10-c3ed34f0f518", "description": "Malicious code in postcss-loader-bootes-dotenv-parse-variables-csv (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188778"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

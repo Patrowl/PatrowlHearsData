@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112585", "enisaUuid": "9e549ee1-fd86-3664-bcc2-c9691777997f", "description": "Malicious code in ignite-sqlite-celeste-sass-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143527"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

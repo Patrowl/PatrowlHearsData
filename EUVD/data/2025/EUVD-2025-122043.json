@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122043", "enisaUuid": "a0244483-9526-3f6d-ad77-0e169bd56ab4", "description": "Malicious code in sequelize-tool-gemini-arcturus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147880"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

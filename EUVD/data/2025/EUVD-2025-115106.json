@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115106", "enisaUuid": "f3490583-9ac6-3e38-9da0-d57b840e682d", "description": "Malicious code in concurrently-centauri-writable-betelgeuse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141003"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

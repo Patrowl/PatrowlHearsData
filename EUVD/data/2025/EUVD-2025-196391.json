@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196391", "enisaUuid": "c52b65b0-8908-3bbf-ac91-72f37d7c4dc4", "description": "Malicious code in winston-datalog (npm)", "datePublished": "2025-09-05T16:38:20", "dateUpdated": "2025-09-05T16:38:20", "baseScore": 0.0, "aliases": ["MAL-2025-46639"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

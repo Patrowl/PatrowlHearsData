@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121428", "enisaUuid": "31f6421c-9bd4-398c-a38f-88f25bfd91c9", "description": "Malicious code in telesto-readable-forever-winston (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148500"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

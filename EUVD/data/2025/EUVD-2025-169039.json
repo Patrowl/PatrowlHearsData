@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169039", "enisaUuid": "3a24acfe-e0dc-3482-8c35-7cc84237a94a", "description": "Malicious code in kindle-fast-metrics-javascript-sdk (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24521"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

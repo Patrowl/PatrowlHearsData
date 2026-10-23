@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115352", "enisaUuid": "417a36e0-86d3-3440-8f7d-1aaadbb31dff", "description": "Malicious code in child-process-registry-chai-nashira (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140755"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

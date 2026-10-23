@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181613", "enisaUuid": "bd6928b0-8704-3028-a7e5-95544f0f18d3", "description": "Malicious code in react-native-save-base64-image (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31828"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

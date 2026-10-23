@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111965", "enisaUuid": "5ab9494d-0ed5-30fc-9be7-a35022f51955", "description": "Malicious code in kaus-local-readable-csv (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144148"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

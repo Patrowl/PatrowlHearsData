@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165892", "enisaUuid": "b101a4a7-501a-3393-89de-984836b21f65", "description": "Malicious code in gettick-node (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21373"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

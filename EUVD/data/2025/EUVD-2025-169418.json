@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169418", "enisaUuid": "ff21e30a-7a80-3989-a7ca-25d03ec0925c", "description": "Malicious code in lacerta-eris-altair-terser-webpack-plugin (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24889"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

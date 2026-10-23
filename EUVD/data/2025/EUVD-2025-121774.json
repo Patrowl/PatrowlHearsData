@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121774", "enisaUuid": "b3a1c7f9-e016-36f1-b392-8e383c57065d", "description": "Malicious code in spica-apollo-iota-tool (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148151"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

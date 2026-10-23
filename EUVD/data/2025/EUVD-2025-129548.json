@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129548", "enisaUuid": "8f38b2a2-dcf1-3ea0-ab49-1ba98748aa58", "description": "Malicious code in preview-server-auth-test (npm)", "datePublished": "2025-07-10T19:26:05", "dateUpdated": "2025-07-10T19:26:05", "baseScore": 0.0, "aliases": ["MAL-2025-5821"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

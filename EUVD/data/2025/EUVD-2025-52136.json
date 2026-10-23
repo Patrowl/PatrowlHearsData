@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-52136", "enisaUuid": "7c33ee8e-0e74-3005-914f-0d4b15ab94cb", "description": "Malicious code in selected-tomato-seahorse (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-70513"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

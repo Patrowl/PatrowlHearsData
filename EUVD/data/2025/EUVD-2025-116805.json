@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116805", "enisaUuid": "e4c36427-b393-3903-8ab2-9724895ac9cc", "description": "Malicious code in algol-levels-socketio-superagent (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139297"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

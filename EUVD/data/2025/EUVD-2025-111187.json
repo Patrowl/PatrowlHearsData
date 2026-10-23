@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111187", "enisaUuid": "1ed1d5e4-64a3-38d0-a92d-bd434e8af882", "description": "Malicious code in meteor-readable-dactyl-chalk (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144928"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

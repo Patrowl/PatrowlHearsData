@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122107", "enisaUuid": "93bb64d2-ab2a-309f-bfe1-282deeffa976", "description": "Malicious code in selenium-stream-fetch-deneb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147816"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

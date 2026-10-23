@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177622", "enisaUuid": "35d0a25d-d47c-375a-b4ab-e1ba9aacdea9", "description": "Malicious code in new-transpile-alpha-log-proxy (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188260"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

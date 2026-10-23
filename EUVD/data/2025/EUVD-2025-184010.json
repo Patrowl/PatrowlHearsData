@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184010", "enisaUuid": "1409e1f6-96b8-3bcf-88f9-d4820285f68c", "description": "Malicious code in supervisor-graviton-triton-iota (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34225"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

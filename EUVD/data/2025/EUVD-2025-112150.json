@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112150", "enisaUuid": "b4ffb74f-c1f1-34dd-be8d-ae924a57788d", "description": "Malicious code in json-backend-cluster-webdriverio (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143963"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

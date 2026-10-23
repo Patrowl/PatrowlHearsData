@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114979", "enisaUuid": "044d7cd2-f8d1-3709-9ce6-f51ce421626d", "description": "Malicious code in cors-publish-commitlint-nextjs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141130"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

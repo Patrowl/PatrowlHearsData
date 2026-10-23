@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124802", "enisaUuid": "146e88e0-1681-3afe-9eca-025258c6d85b", "description": "Malicious code in module-slidev-webdriver-mocha-halley (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145116"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

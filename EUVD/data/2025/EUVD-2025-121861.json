@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121861", "enisaUuid": "b9f4d0fe-74aa-3f02-8f3e-34e0a82d9aa1", "description": "Malicious code in socketio-sedna-centauri-atlas (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148064"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-64033", "enisaUuid": "b0e76bc0-dfd3-3f6f-9826-1e77eb97289f", "description": "Malicious code in firm_crawdad_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-94521"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

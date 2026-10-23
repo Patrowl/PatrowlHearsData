@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178764", "enisaUuid": "c94934fe-1082-31b8-b67e-9d6507b38c9b", "description": "Malicious code in gatsby-apollo-sync-lyra (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187118"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

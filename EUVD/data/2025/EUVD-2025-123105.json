@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123105", "enisaUuid": "e1f019a0-30c8-3ea2-b111-10d1367937b1", "description": "Malicious code in publish-stream-radiant-yaml (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146817"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130605", "enisaUuid": "b7457baa-40a1-3dcd-8c89-993cafd5ed82", "description": "Malicious code in @capacitor-bmo/biometric (npm)", "datePublished": "2025-08-15T17:00:48", "dateUpdated": "2025-08-15T17:00:48", "baseScore": 0.0, "aliases": ["MAL-2025-6883"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

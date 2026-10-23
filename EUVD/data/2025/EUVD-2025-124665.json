@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124665", "enisaUuid": "98c5b9e0-b3ea-3286-97f8-3e178519e883", "description": "Malicious code in mysql-lynx-bellatrix-karma (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145253"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

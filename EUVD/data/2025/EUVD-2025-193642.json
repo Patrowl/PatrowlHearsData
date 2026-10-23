@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193642", "enisaUuid": "4e807d27-e9ec-3034-ab5b-c88924d72a1e", "description": "Malicious code in convict-fomalhaut-morgan-cross-env (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43889"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123896", "enisaUuid": "dd9d6f42-3bed-3354-8eee-d7b30fdaaf2a", "description": "Malicious code in pegasus-eclipse-electron-builder-materialize (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146025"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

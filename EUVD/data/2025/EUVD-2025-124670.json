@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124670", "enisaUuid": "934506d6-9668-333d-a9fd-5841e1e4aede", "description": "Malicious code in mysql-jabbah-standard-chromedriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145248"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

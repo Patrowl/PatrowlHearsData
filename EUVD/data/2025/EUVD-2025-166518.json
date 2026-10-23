@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166518", "enisaUuid": "a511de0a-0bde-333e-aa1e-7bcdfab0e420", "description": "Malicious code in grunt-stream-pavo-version (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22000"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

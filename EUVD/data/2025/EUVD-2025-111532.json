@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111532", "enisaUuid": "04da386b-8fca-30aa-a9d4-e5cf16ee9057", "description": "Malicious code in luna-spectron-webdriver-miranda-scripts (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144583"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

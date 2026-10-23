@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160019", "enisaUuid": "4638a5ed-d9a4-3c2c-a202-e41f3b5fbb79", "description": "Malicious code in baymax-logger (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15518"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122528", "enisaUuid": "0d6fe3f8-738b-33ab-9c60-e3334392099b", "description": "Malicious code in restart-quark-fusion-castor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147394"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113988", "enisaUuid": "1134b15b-445c-3e17-8aea-88c1fe35d711", "description": "Malicious code in equinox-hapi-perseus-nodemon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142122"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

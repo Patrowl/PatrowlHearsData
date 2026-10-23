@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124812", "enisaUuid": "0c357295-e63f-3fa3-814f-21e09ad8c694", "description": "Malicious code in module-gulp-eris-cosmiconfig (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145106"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

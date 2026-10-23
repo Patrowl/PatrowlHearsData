@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183063", "enisaUuid": "f7cf7762-b065-38d4-a213-fae88f47a660", "description": "Malicious code in simple-stub-tree-nu-authenticate (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33278"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113308", "enisaUuid": "fdadde72-5d05-3d6f-9e55-f9dba2c2bc3e", "description": "Malicious code in ganymede-impulse-dotenv-parse-variables-nova (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142804"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121786", "enisaUuid": "be6bf5e6-c180-3723-8c6b-7a8eb08b36dd", "description": "Malicious code in spectron-webdriver-reveal-md-enif-jasmine (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148139"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

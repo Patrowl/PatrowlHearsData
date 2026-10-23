@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159321", "enisaUuid": "685ca7d2-c3ab-384a-8338-73bf6eda7084", "description": "Malicious code in argo-run (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14820"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

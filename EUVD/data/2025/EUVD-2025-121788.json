@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121788", "enisaUuid": "f0498989-290b-3f8f-b853-39884e74faaa", "description": "Malicious code in spectron-webdriver-process-yonder-antd (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148137"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

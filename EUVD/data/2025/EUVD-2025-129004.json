@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129004", "enisaUuid": "32bd7ef4-09d4-3f3c-91b2-27c14add0fc2", "description": "Malicious code in variables-dark (npm)", "datePublished": "2025-06-25T14:15:38", "dateUpdated": "2025-07-02T01:10:22", "baseScore": 0.0, "aliases": ["MAL-2025-5275"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

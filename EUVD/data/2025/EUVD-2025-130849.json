@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130849", "enisaUuid": "8f6a6da9-6f44-3edd-bb2c-e936e706d2c2", "description": "Malicious code in @citrixgs/g11n-sdk-react (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7127"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

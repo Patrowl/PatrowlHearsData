@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122740", "enisaUuid": "c4bd7c32-07e6-3b2b-b9b9-86cc8ea6ecde", "description": "Malicious code in rehype-remark-sagitta-prettier-plugin-markdown (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147182"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

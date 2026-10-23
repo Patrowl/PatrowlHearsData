@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120360", "enisaUuid": "18d2b7c2-4068-3f18-8e3d-fe1a2da1a55e", "description": "Malicious code in writable-karma-kronos-run-script (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149571"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

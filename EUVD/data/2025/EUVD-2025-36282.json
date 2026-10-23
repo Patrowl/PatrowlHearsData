@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-36282", "enisaUuid": "33cc8874-0526-39b1-84d7-58d25415ad24", "description": "Malicious code in @pwnedshell/nn (npm)", "datePublished": "2025-10-04T01:46:51", "dateUpdated": "2025-10-27T18:09:48", "baseScore": 0.0, "aliases": ["MAL-2025-48353"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

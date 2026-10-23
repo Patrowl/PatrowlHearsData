@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196124", "enisaUuid": "bf7ba0b0-b049-3812-ac9e-1fea405f1cad", "description": "Malicious code in transport-meteor-configstore-metalsmith (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46372"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

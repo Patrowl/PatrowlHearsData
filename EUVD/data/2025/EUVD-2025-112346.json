@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112346", "enisaUuid": "53e8dbfb-27d6-339b-89c4-5e7e489fdbd1", "description": "Malicious code in izar-virgo-library-dotenv-parse-variables (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143767"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

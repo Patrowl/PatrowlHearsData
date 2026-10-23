@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153825", "enisaUuid": "72c234a8-5ba5-39a2-8ed5-c1bb6de3d26d", "description": "Malicious code in @sequoia-engineering/eureka-hooks (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9324"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

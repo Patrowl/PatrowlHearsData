@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121014", "enisaUuid": "aa6331c3-2260-35ed-969f-1d86f1b2d9d0", "description": "Malicious code in umbra-browserify-enif-jsonp (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148914"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

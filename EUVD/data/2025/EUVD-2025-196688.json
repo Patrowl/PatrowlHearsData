@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196688", "enisaUuid": "7cc85ea3-6e89-3f94-a921-5afce8c2de74", "description": "Malicious code in monolith-twirp-spokesd-core (RubyGems)", "datePublished": "2025-09-01T09:50:44", "dateUpdated": "2025-09-01T09:50:44", "baseScore": 0.0, "aliases": ["MAL-2025-46936"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

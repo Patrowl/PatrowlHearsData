@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111800", "enisaUuid": "d4733da0-a91e-35ed-8cf0-b1e505aed145", "description": "Malicious code in less-loader-andromeda-less-loader-envconfig (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144313"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

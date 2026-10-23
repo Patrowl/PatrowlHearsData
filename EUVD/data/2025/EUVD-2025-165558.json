@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165558", "enisaUuid": "6981d84b-1266-393f-8c2a-68935c8375b3", "description": "Malicious code in fullcube-webhooks-incoming (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21039"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

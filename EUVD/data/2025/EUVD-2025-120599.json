@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120599", "enisaUuid": "830ce490-3671-3086-a987-9700627fd46d", "description": "Malicious code in webdriver-manager-nodemon-acamar-jupiter (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149330"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

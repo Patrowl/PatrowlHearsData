@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122890", "enisaUuid": "ebec8aba-2ca3-3a86-a1bc-045c55e2b694", "description": "Malicious code in rate-limiter-bunyan-centaurus-native (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147032"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

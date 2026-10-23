@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197071", "enisaUuid": "e07bff57-7a05-3908-9b6a-b5d3655c1456", "description": "Malicious code in mutual-ssl (npm)", "datePublished": "2025-09-25T15:07:06", "dateUpdated": "2025-09-25T15:07:06", "baseScore": 0.0, "aliases": ["MAL-2025-47590"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

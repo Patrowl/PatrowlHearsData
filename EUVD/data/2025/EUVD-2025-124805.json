@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124805", "enisaUuid": "2d04c7b6-3c53-3297-812e-306741c59ba6", "description": "Malicious code in module-polaris-dactyl-cors (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145113"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

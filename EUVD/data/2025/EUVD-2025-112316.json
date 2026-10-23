@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112316", "enisaUuid": "cf80e0bb-755c-3d8e-935f-9a8ef58eba00", "description": "Malicious code in janus-apex-writable-graphql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143797"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

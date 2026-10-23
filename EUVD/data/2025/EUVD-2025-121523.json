@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121523", "enisaUuid": "581098cc-2feb-3c5f-a73d-41498c876a19", "description": "Malicious code in supervisor-sirius-chromedriver-init (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148403"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

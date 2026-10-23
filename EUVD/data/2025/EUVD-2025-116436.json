@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116436", "enisaUuid": "2ce898c1-b96b-330b-ba45-dde272134c70", "description": "Malicious code in atlas-update-npm-enceladus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139666"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

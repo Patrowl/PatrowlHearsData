@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160481", "enisaUuid": "13f40a39-1e48-3d88-91af-5006cd429ace", "description": "Malicious code in bootler-app (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15980"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

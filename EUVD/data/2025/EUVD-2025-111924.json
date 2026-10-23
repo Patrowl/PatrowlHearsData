@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111924", "enisaUuid": "abae0353-9dc6-3d0d-8872-5d122b5d1dc1", "description": "Malicious code in koa-dependencies-jabbah-telesto (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144189"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

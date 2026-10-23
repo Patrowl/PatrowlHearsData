@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169055", "enisaUuid": "b2973f7b-7288-3816-8786-556a3ed4a332", "description": "Malicious code in kinvey-phonegap-angular-sdk (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24537"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

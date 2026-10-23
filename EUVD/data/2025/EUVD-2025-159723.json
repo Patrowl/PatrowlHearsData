@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159723", "enisaUuid": "566db55b-acb3-308d-8836-e4a2c9442783", "description": "Malicious code in aws-api-gateway-js-client (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15222"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

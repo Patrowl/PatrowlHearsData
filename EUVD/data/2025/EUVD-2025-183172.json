@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183172", "enisaUuid": "80b1f8e8-e71c-37b5-9cf1-0a1bdb21bcf9", "description": "Malicious code in skybox-sdk (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33387"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191237", "enisaUuid": "de1836f8-c018-37ec-aa5b-fb9218b7c7ae", "description": "Malicious code in @twork-data-services/cashout-tier-settings-v2 (npm)", "datePublished": "2025-08-28T07:15:53", "dateUpdated": "2025-08-28T07:15:53", "baseScore": 0.0, "aliases": ["MAL-2025-41468"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

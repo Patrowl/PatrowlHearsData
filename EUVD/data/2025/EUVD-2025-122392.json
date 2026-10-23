@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122392", "enisaUuid": "bd172264-d459-3230-bd69-8c94e2618d4b", "description": "Malicious code in rollup-postcss-loader-xanadu-relay (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147530"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

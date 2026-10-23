@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-146343", "enisaUuid": "797121d3-b12a-37b5-9430-377a6c1744c1", "description": "Malicious code in verify-taic-alusai (npm)", "datePublished": "2025-11-12T16:47:05", "dateUpdated": "2025-11-12T16:47:05", "baseScore": 0.0, "aliases": ["MAL-2025-170469"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

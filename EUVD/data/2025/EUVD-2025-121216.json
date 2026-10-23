@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121216", "enisaUuid": "97f6a64d-29cc-3198-b7a5-93db253e8ee5", "description": "Malicious code in toml-hyperion-meissa-kinetic (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148712"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

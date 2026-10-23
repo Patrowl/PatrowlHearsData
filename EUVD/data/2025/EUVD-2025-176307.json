@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176307", "enisaUuid": "c7e758b6-85c6-3f22-bba4-846b8fbc5a44", "description": "Malicious code in socket-file-analyze-encode-monitor (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189568"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

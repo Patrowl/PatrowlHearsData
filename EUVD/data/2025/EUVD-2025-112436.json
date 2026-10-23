@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112436", "enisaUuid": "dc9baf8f-f811-3228-a13e-fe075719fd20", "description": "Malicious code in install-europa-arcturus-csv (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143677"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

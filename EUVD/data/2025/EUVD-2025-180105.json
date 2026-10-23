@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180105", "enisaUuid": "a9dfc88a-1b86-3b3e-bea0-842f4dab916f", "description": "Malicious code in benchmark-refactor-secure-scale-array (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185777"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

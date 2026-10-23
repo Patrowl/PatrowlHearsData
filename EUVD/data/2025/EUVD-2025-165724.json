@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165724", "enisaUuid": "62d4543d-5864-3534-96c2-c3ffa70f5051", "description": "Malicious code in gatsby-delphinus-command-publish (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21205"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

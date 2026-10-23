@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122942", "enisaUuid": "5138d5c0-e2a3-382e-b7ee-ac0a95a87c1f", "description": "Malicious code in query-tethys-venus-geckodriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146980"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122541", "enisaUuid": "bdc6d40c-ade2-30d4-9990-4d023c8bc4d5", "description": "Malicious code in restart-event-achernar-native (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147381"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

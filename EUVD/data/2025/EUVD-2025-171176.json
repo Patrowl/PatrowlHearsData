@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171176", "enisaUuid": "873178c8-75db-3006-bf1a-2f6591c552bf", "description": "Malicious code in mongostat (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26647"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

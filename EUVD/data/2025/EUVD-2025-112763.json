@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112763", "enisaUuid": "072e42f8-24b7-335a-8963-300f6c24823f", "description": "Malicious code in hexo-procyon-neptune-spectron-webdriver (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143349"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

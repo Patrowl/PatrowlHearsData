@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159269", "enisaUuid": "327c65b4-96ca-3207-b070-6091a93e9284", "description": "Malicious code in arc-branch-to-cmsg (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14768"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

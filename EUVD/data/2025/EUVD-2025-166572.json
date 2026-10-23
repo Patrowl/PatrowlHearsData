@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166572", "enisaUuid": "3ba1f855-2aa4-3741-bf62-27760e4ded18", "description": "Malicious code in gulp-jspm-fix (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22054"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

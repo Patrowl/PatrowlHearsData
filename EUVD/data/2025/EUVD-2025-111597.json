@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111597", "enisaUuid": "a9cdda53-7c77-3378-941b-04724262a0bf", "description": "Malicious code in loglevel-prompts-xenos-node-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144518"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

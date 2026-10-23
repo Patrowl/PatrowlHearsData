@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114491", "enisaUuid": "4ac00a2d-329e-37eb-b5a0-eb71f53f9234", "description": "Malicious code in development-deimos-commitlint-sadr (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141618"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

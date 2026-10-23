@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114813", "enisaUuid": "e8077a1b-76c7-33c1-979b-2c453273317e", "description": "Malicious code in csrf-rollup-plugin-halley-lynx (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141296"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

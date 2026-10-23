@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123060", "enisaUuid": "efc2458e-3fcc-3881-942b-da616471682d", "description": "Malicious code in puppeteer-radiant-proxima-build (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146862"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

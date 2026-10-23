@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124834", "enisaUuid": "985dfb32-2e1f-3928-b44b-d12312487d53", "description": "Malicious code in mocha-kastra-proxima-lynx (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145084"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191267", "enisaUuid": "83250aa7-5d6e-331b-bc58-b7f9e07870dd", "description": "Malicious code in @twork-data-services/loyalty-program-names (npm)", "datePublished": "2025-08-28T07:16:38", "dateUpdated": "2025-08-28T07:16:38", "baseScore": 0.0, "aliases": ["MAL-2025-41498"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

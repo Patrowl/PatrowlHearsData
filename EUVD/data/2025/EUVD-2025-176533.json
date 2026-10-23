@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176533", "enisaUuid": "fe5ae7dd-a416-30e2-9e53-f939cdd5f203", "description": "Malicious code in sandbox-quick-hash-psi-throw (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189342"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

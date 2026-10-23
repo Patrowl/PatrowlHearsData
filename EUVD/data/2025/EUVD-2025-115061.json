@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115061", "enisaUuid": "932ff66f-d728-31cf-ac44-8c9b0aba3700", "description": "Malicious code in configstore-dotenv-safe-chakra-ui-corvus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141048"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

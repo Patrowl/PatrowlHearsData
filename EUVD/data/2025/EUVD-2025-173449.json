@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173449", "enisaUuid": "c9bbcbce-c49e-3aab-9c50-f8e2fe91da48", "description": "Malicious code in patternReplacer (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28920"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

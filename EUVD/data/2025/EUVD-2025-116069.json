@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116069", "enisaUuid": "153ccc46-4a7d-3d71-beb6-320b5b837c25", "description": "Malicious code in blaze-terser-webpack-plugin-polaris-readable (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140033"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

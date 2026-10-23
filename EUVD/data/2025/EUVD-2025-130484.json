@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130484", "enisaUuid": "69db1045-357e-307a-98bb-bca7af9c1f5a", "description": "Malicious code in slack-astra-app (npm)", "datePublished": "2025-07-28T17:56:43", "dateUpdated": "2025-08-29T06:43:17", "baseScore": 0.0, "aliases": ["MAL-2025-6761"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

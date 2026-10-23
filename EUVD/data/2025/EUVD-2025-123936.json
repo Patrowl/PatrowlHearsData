@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123936", "enisaUuid": "9c0a284e-4e7e-3a68-a9d7-80e16651044c", "description": "Malicious code in passport-pulsar-virgo-apollo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145985"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

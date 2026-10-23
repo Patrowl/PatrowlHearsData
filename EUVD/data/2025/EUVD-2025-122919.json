@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122919", "enisaUuid": "3aebb544-5763-3f2c-a46e-c3d08686b0ab", "description": "Malicious code in quito-sequelize-process-promise (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147003"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

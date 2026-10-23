@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-82409", "enisaUuid": "dcfe437e-2c9e-3469-a7b5-1a73f98a8df9", "description": "Malicious code in confidential_mandrill_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-100841"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

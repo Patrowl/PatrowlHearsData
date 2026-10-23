@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-60004", "enisaUuid": "001d21e7-ad0b-3542-968e-02e7fcbbe820", "description": "Malicious code in dual_tick_z3n (npm)", "datePublished": "2025-11-11T00:17:57", "dateUpdated": "2025-11-11T00:17:57", "baseScore": 0.0, "aliases": ["MAL-2025-62634"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

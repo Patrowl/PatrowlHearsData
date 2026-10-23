@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-53751", "enisaUuid": "8d21c0ac-2b3a-383d-8f1c-2dce6cfdf1fb", "description": "Malicious code in initial-yellow-impala (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-68898"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181598", "enisaUuid": "6648e759-4595-3db5-be5e-4ee66c16ed23", "description": "Malicious code in react-native-data-sdk (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31813"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

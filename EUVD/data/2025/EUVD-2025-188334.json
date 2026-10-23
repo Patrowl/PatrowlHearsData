@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188334", "enisaUuid": "5a72d888-bc92-3cb8-a390-90e9cb545075", "description": "Malicious code in voice-quickstart-server-node (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38546"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

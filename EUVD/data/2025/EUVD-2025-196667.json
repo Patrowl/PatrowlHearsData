@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196667", "enisaUuid": "4cd0e2c3-9101-34ba-be0e-053ea41cceb3", "description": "Malicious code in monolith-twirp-proxima-enterprisemanagement (RubyGems)", "datePublished": "2025-09-01T09:50:42", "dateUpdated": "2025-09-01T09:50:42", "baseScore": 0.0, "aliases": ["MAL-2025-46915"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

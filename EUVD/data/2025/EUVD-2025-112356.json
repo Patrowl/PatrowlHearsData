@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112356", "enisaUuid": "5ce9dd16-2c9b-3231-9d56-055c2ef472eb", "description": "Malicious code in izar-kronos-install-epimetheus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143757"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

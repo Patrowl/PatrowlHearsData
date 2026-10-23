@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-38563", "enisaUuid": "236bc5cb-59db-326e-981d-f450490139ff", "description": "Malicious code in @secretcollect/identity-core (npm)", "datePublished": "2025-11-09T16:46:21", "dateUpdated": "2025-11-09T16:46:21", "baseScore": 0.0, "aliases": ["MAL-2025-49457"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

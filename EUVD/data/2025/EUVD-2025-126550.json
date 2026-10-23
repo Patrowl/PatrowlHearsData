@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126550", "enisaUuid": "cbbb2f90-0ea8-3de6-b2b4-dac1bf2990a7", "description": "Malicious code in @domons/test123 (npm)", "datePublished": "2025-03-28T12:32:08", "dateUpdated": "2025-03-28T12:32:08", "baseScore": 0.0, "aliases": ["MAL-2025-2809"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

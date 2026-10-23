@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123370", "enisaUuid": "2f622d94-f0e4-3229-ae0b-7a92a65fc60d", "description": "Malicious code in process-hapi-luna-perseus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146552"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

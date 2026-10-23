@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114985", "enisaUuid": "8797c73b-797a-30a4-806d-60c0d1d15fc6", "description": "Malicious code in cors-ganymede-charon-process (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141124"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

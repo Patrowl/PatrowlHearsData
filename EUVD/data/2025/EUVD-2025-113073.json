@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113073", "enisaUuid": "8fb40923-7d15-3559-b57c-ee58af30ec78", "description": "Malicious code in gridsome-eslint-config-native-sails (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143039"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

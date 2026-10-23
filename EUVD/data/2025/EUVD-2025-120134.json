@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120134", "enisaUuid": "db57af64-03f3-3156-8aa2-438d6ae7a13f", "description": "Malicious code in yaml-nightmare-command-start (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149797"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

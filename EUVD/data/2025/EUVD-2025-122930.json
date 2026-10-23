@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122930", "enisaUuid": "f59a39a4-95ea-33e4-9ebf-9a8da3cca52a", "description": "Malicious code in quito-firebase-supervisor-spinner (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146992"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

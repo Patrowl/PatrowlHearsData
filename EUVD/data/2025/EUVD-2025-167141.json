@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167141", "enisaUuid": "09bd3a6c-3cd1-3c08-9fef-adc80a72a8e3", "description": "Malicious code in hookie.js (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22623"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

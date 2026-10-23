@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176306", "enisaUuid": "176c8bfd-17de-3fe3-809a-9af72059c546", "description": "Malicious code in socket-link-resolve-try-encrypt (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189569"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

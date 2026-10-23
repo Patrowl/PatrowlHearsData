@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112857", "enisaUuid": "9184cfec-d3e2-31eb-b315-e47b26db9d39", "description": "Malicious code in helmet-mui-eslint-plugin-webdriver-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143255"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

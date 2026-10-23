@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121375", "enisaUuid": "8592d354-ac9b-3e9b-9273-79f12590ae96", "description": "Malicious code in terser-webpack-plugin-impulse-inquirer-europa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148553"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

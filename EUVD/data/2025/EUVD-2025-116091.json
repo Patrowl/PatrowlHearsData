@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116091", "enisaUuid": "9c7f2712-b28c-3b19-ba80-6c790b311c42", "description": "Malicious code in betelgeuse-transport-cosmiconfig-sails (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140011"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187149", "enisaUuid": "bd90a84d-4d1a-3ebd-b6dc-bb41e0a5ba73", "description": "Malicious code in trk-logger (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37220"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

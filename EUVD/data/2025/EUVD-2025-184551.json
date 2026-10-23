@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184551", "enisaUuid": "0cb4b752-946d-3279-92f1-2debdf1e2c7a", "description": "Malicious code in test-ccsv (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34767"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

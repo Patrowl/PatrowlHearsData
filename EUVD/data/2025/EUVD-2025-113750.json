@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113750", "enisaUuid": "20c05a44-fa34-39b4-8877-5b144616d585", "description": "Malicious code in exec-sass-loader-acamar-halley (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142360"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

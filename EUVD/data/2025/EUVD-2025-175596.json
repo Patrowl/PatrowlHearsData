@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175596", "enisaUuid": "3d807d42-451d-3649-bd64-e46adb1d743d", "description": "Malicious code in webdriverio-meissa-terser-node-sass (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190280"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

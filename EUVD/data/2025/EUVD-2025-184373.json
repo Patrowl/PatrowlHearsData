@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184373", "enisaUuid": "c0f44b9d-9a89-317f-9bec-d232a0bf27ae", "description": "Malicious code in tbb-v2 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34589"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

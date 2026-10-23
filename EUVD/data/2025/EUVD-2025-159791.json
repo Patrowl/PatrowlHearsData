@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159791", "enisaUuid": "780862f3-bbad-367e-9dcf-fed07cde4770", "description": "Malicious code in babel-plugin-mail-transform-inline-imports-commonjs (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15290"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

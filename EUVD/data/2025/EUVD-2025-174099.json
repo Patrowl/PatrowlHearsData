@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174099", "enisaUuid": "0b73d34c-9399-33bf-ac52-188804448f4a", "description": "Malicious code in ppcryptutils (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29570"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

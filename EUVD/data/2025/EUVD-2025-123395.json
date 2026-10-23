@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123395", "enisaUuid": "c519a5a0-dffb-3acb-81f3-05c63a9383a2", "description": "Malicious code in prettier-yaml-commitlint-kinetic (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146527"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

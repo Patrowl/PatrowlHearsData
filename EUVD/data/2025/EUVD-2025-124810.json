@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124810", "enisaUuid": "1f860446-f0d8-315e-87d0-6d0341bee7f7", "description": "Malicious code in module-lint-rehype-optimize-css-assets-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145108"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

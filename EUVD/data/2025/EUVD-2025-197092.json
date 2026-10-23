@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197092", "enisaUuid": "56a7192d-decd-3499-8e95-c55395207542", "description": "Malicious code in browser-direct-import (npm)", "datePublished": "2025-09-26T09:25:24", "dateUpdated": "2025-09-26T09:25:24", "baseScore": 0.0, "aliases": ["MAL-2025-47619"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

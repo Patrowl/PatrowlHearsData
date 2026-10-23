@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-202774", "enisaUuid": "10c486e2-63bd-3fea-a710-d2d370838431", "description": "Malicious code in elf-stats-sugarplum-toolkit-176 (npm)", "datePublished": "2025-12-11T19:46:09", "dateUpdated": "2025-12-11T19:46:09", "baseScore": 0.0, "aliases": ["MAL-2025-192535"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

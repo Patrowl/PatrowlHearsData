@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191767", "enisaUuid": "e5568c2b-1b15-3138-9fe8-5a59fafa5af8", "description": "Malicious code in gulp-wimp (npm)", "datePublished": "2025-08-25T18:38:28", "dateUpdated": "2025-08-25T18:38:28", "baseScore": 0.0, "aliases": ["MAL-2025-42001"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

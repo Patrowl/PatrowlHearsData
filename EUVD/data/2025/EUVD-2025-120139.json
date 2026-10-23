@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120139", "enisaUuid": "b3cf8f62-b1a7-31b9-bc97-0f83bc0f499a", "description": "Malicious code in yaml-kaus-polaris-dotenv (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149792"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

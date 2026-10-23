@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122532", "enisaUuid": "d8920a6e-0846-3eb3-9071-f6c19d6e214b", "description": "Malicious code in restart-protractor-auriga-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147390"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

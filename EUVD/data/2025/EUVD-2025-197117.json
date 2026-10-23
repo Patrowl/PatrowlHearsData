@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197117", "enisaUuid": "c6d42a9a-9a52-3d64-9ec3-f3e14bb6c2f9", "description": "Malicious code in com.unity.tiny (npm)", "datePublished": "2025-09-26T09:26:40", "dateUpdated": "2025-09-26T09:26:40", "baseScore": 0.0, "aliases": ["MAL-2025-47644"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

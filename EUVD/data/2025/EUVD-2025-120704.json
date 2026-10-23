@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120704", "enisaUuid": "d26451df-ea2a-3de2-bf83-21ebba603043", "description": "Malicious code in vulcan-browserify-non-blocking-relay (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149225"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

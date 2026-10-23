@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180109", "enisaUuid": "bf88bdc8-76a5-34f6-bd7e-3038738dcf5d", "description": "Malicious code in bellatrix-proteomics-meissa-redis (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185773"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176398", "enisaUuid": "a65659ea-949c-3454-8286-b6983821ae11", "description": "Malicious code in shelljs-zephyr-ariel-brane (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189477"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120926", "enisaUuid": "ea5458b3-a055-3e0d-b6c9-55cab1a4a667", "description": "Malicious code in upgrade-bellatrix-luna-zephyr (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149003"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191792", "enisaUuid": "38bd6b86-1190-37bc-a089-2ce302a94540", "description": "Malicious code in morgan-logger (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-42026"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

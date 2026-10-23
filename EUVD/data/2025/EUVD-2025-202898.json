@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-202898", "enisaUuid": "60c7ed5b-96e9-3c0c-956b-be6f8e21facf", "description": "Malicious code in libxmlpupupu (npm)", "datePublished": "2025-12-11T01:47:51", "dateUpdated": "2025-12-11T01:47:51", "baseScore": 0.0, "aliases": ["MAL-2025-192462"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

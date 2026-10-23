@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123351", "enisaUuid": "5eafa94e-116a-33fa-8ed3-7100be3656d6", "description": "Malicious code in process-spinner-node-config-meteor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146571"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

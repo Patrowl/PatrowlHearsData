@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122316", "enisaUuid": "d0f0c473-e7e3-3fde-8e33-1594359f7559", "description": "Malicious code in sagitta-module-oberon-phenomic (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147606"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

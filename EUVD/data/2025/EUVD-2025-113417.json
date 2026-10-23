@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113417", "enisaUuid": "0e73b0a7-db55-3be8-8734-455a23ddfdff", "description": "Malicious code in framework-vuetify-antd-cluster (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142695"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

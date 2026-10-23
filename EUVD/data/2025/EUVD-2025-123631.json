@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123631", "enisaUuid": "f713d3df-337d-32db-ab27-dbc88fb7d981", "description": "Malicious code in pm2-airbnb-rollup-chalk (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146290"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

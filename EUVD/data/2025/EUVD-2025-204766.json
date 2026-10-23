@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-204766", "enisaUuid": "c2140c3d-92f9-3e28-b04d-01d3aa995b25", "description": "Malicious code in ivx-cloud-client-v1 (npm)", "datePublished": "2025-12-22T22:29:27", "dateUpdated": "2025-12-22T22:29:27", "baseScore": 0.0, "aliases": ["MAL-2025-192695"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

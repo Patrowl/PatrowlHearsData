@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115131", "enisaUuid": "df5045bc-7369-3cac-8adb-9d7bb5e7169f", "description": "Malicious code in commitlint-dependencies-loopback-proxima (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140977"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

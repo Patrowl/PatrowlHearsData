@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125469", "enisaUuid": "e54ab7bf-9cc1-3066-a638-428f9a308b37", "description": "Malicious code in api-nodejs-template (npm)", "datePublished": "2025-03-03T13:18:36", "dateUpdated": "2025-03-03T13:18:36", "baseScore": 0.0, "aliases": ["MAL-2025-1726"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

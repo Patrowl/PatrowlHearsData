@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111623", "enisaUuid": "f7386bd7-2f01-35d7-b0d9-eda3d4f0811d", "description": "Malicious code in local-ophiuchus-nestjs-hyperion (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144492"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175604", "enisaUuid": "1ef2382f-58ec-3e78-948c-8da885569d34", "description": "Malicious code in webdriver-mocha-ionosphere-commitlint-inflation (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190272"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

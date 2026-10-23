@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179613", "enisaUuid": "fb5cc0f1-d6e3-3209-8581-47f572aa9563", "description": "Malicious code in concurrently-janus-equinox-spinner (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186269"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179851", "enisaUuid": "75a22653-0e09-34a1-9f0b-2f1e12eafa85", "description": "Malicious code in cat-meta-stack-minify-try (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186031"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

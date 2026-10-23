@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191601", "enisaUuid": "7a1ce9ee-cdda-3132-9ef4-5ff62546be59", "description": "Malicious code in @espace-client-axafr/api-mapping (npm)", "datePublished": "2025-08-25T18:31:32", "dateUpdated": "2025-08-25T18:31:32", "baseScore": 0.0, "aliases": ["MAL-2025-41835"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

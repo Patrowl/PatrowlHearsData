@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123919", "enisaUuid": "e1ae5bf8-c77a-3fb4-b7ec-4a34169230ee", "description": "Malicious code in pavo-miranda-oberon-bunyan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146002"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

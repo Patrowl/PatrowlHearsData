@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112393", "enisaUuid": "f59b5f5b-cc05-3f54-8cf1-3483f527b5b1", "description": "Malicious code in iota-dotenv-parse-variables-envconfig-mdx (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143720"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

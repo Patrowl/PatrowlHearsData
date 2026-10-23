@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163716", "enisaUuid": "3ca2095d-9795-338f-8ab9-d97c96c818b8", "description": "Malicious code in edge-ai-tuning-kit (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-09-26T11:06:45", "baseScore": 0.0, "aliases": ["MAL-2025-19218"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

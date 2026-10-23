@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195418", "enisaUuid": "2c86ec87-6a7c-3cd1-ae89-d0c80b3b473a", "description": "Malicious code in pytorch-doc-zh (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45666"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197538", "enisaUuid": "2cfbeb80-9448-36d4-ae0d-b7b9b9325532", "description": "Malicious code in metadata-collector-somewhere-in-galaxy (npm)", "datePublished": "2025-10-23T19:38:38", "dateUpdated": "2025-10-23T19:38:38", "baseScore": 0.0, "aliases": ["MAL-2025-48853"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

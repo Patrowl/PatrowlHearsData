@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124227", "enisaUuid": "ba957184-4672-32a1-abfe-fd60a430d89b", "description": "Malicious code in nuxtjs-apollo-gulp-nodejs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145694"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

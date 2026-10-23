@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114636", "enisaUuid": "121ca62b-7533-33b1-9e9f-e295cd58a7bb", "description": "Malicious code in dagda-install-global-library (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141473"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

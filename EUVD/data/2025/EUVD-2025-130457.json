@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130457", "enisaUuid": "1fa10c8e-839a-3d95-871b-10b73791b26f", "description": "Malicious code in jcr-hopper (npm)", "datePublished": "2025-08-04T17:25:01", "dateUpdated": "2025-08-04T17:25:01", "baseScore": 0.0, "aliases": ["MAL-2025-6734"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

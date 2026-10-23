@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189170", "enisaUuid": "5d7f4396-00bf-31c5-9a2d-9d56cd97641f", "description": "Malicious code in wms-capabilities-parser (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39384"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

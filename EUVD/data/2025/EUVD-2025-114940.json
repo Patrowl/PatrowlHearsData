@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114940", "enisaUuid": "23276c77-b009-344a-8ebb-5fc55d01df1a", "description": "Malicious code in corvus-webdriver-manager-vulcan-upgrade (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141169"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

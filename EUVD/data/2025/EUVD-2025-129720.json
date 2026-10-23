@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129720", "enisaUuid": "7913904b-7b2a-3695-af1a-9faaba69f47f", "description": "Malicious code in preview-server-auth-poc (npm)", "datePublished": "2025-07-17T14:10:53", "dateUpdated": "2025-07-23T00:38:28", "baseScore": 0.0, "aliases": ["MAL-2025-5993"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

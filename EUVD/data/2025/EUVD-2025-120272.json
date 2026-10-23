@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120272", "enisaUuid": "9e919041-9afe-3037-bacf-a0cf1a8fa01d", "description": "Malicious code in xenon-repository-radiant-configstore (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149659"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

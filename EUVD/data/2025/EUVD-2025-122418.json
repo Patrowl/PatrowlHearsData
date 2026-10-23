@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122418", "enisaUuid": "6302129d-75e1-3f0e-bd98-34ce6f66c702", "description": "Malicious code in rollup-nightmare-nodejs-terser-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147504"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

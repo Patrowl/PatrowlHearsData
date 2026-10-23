@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176411", "enisaUuid": "6358d3f6-da66-3ee7-b759-605ba3a03b91", "description": "Malicious code in server-nestjs-selenium-cassini (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189464"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

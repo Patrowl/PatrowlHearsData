@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121862", "enisaUuid": "90f9e7f5-9a78-3b55-a289-6cb5f00db772", "description": "Malicious code in socketio-rollup-plugin-vuetify-auth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148063"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

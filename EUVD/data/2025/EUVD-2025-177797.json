@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177797", "enisaUuid": "4bad8c66-9063-3627-837f-f37ea212755a", "description": "Malicious code in miranda-stream-resolvers-convict (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188085"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

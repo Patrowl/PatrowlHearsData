@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-192720", "enisaUuid": "b2ddcd4c-783f-3ca4-94b6-4b504733575a", "description": "Malicious code in @tt4b-vmok/standalone-vue (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-42967"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

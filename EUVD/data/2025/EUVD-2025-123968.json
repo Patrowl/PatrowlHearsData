@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123968", "enisaUuid": "5cee46b4-62fe-335c-84b5-5e5c1e7783fb", "description": "Malicious code in parcel-carpo-cypress-sync (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145953"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

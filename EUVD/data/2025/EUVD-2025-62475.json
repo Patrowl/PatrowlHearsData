@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-62475", "enisaUuid": "725c5ed3-df36-3ad9-b3d4-f50664e230bc", "description": "Malicious code in protective_starfish_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-96079"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

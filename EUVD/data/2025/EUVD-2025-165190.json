@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165190", "enisaUuid": "0df6de4c-4c8a-3084-a5b1-7fc04695d378", "description": "Malicious code in flare-less-loader-callisto-spectron-webdriver (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20671"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

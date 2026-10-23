@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-50001", "enisaUuid": "3a0252ff-6dc6-3127-ad7f-3628a9fceb9f", "description": "Malicious code in indirect_mosquito_z3n (npm)", "datePublished": "2025-11-10T18:02:22", "dateUpdated": "2025-11-10T18:02:22", "baseScore": 0.0, "aliases": ["MAL-2025-60668"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

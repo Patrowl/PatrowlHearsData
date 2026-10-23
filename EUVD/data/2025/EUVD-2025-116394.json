@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116394", "enisaUuid": "8f273a43-45be-3731-a6cf-e5159e5353c1", "description": "Malicious code in aurora-publish-markdown-barnard (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139708"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

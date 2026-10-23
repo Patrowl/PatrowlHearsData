@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122398", "enisaUuid": "240f506f-bbb1-356a-a292-ba3859b73e89", "description": "Malicious code in rollup-plugin-version-mini-css-extract-plugin-got (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147524"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

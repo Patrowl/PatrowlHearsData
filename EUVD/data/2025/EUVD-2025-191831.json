@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191831", "enisaUuid": "4da593a2-fb3c-3831-bea1-6723576c216c", "description": "Malicious code in relay-twilio (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-42070"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

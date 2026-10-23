@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115360", "enisaUuid": "b4bb3c35-2e27-34a3-b127-b9366c28f0c2", "description": "Malicious code in child-process-framework-metalsmith-celeste (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140747"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

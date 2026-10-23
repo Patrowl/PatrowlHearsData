@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113486", "enisaUuid": "cbf1445c-7d8d-3bca-b423-1981b6cabef1", "description": "Malicious code in fornax-html-webpack-plugin-child-process-rollup-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142626"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

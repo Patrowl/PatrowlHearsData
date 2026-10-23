@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-154068", "enisaUuid": "ff072788-a1f0-33ed-be15-8406c0bef756", "description": "Malicious code in @trp-ta-nitro/auth-browser-js (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9567"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

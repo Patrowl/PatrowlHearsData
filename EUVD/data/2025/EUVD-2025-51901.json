@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-51901", "enisaUuid": "b42f21a9-5683-3150-a1c3-8df9f91f282f", "description": "Malicious code in spatial-olive-mongoose (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-70748"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

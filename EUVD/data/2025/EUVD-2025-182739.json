@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182739", "enisaUuid": "b7880fe6-ca83-39fa-9772-6dd3c7d6e8e6", "description": "Malicious code in sentry-sdk-browser-extension (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32954"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

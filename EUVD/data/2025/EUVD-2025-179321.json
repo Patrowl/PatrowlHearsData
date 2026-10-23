@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179321", "enisaUuid": "2768a808-9cc6-3537-97b5-7f44d40982e0", "description": "Malicious code in deploy-thread-scale-omega-enum (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186561"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

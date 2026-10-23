@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112254", "enisaUuid": "21761a7e-e548-3806-9558-9bb673d01144", "description": "Malicious code in jasmine-nuxtjs-terser-webpack-plugin-sirius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143859"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

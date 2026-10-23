@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121338", "enisaUuid": "6a093ac6-8606-3258-af10-4f5e64e807be", "description": "Malicious code in testcafe-csrf-lacerta-global (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148590"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

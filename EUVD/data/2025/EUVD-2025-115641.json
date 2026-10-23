@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115641", "enisaUuid": "d0c7a3ea-e7f6-37d3-b21c-d407a91f76c7", "description": "Malicious code in cassini-hexo-buffer-altair (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140466"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

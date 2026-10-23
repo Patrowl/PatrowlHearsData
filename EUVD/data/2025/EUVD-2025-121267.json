@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121267", "enisaUuid": "7cfbc1e1-9fa5-359d-97da-93b51bd149b0", "description": "Malicious code in thuban-postgres-sails-phoenix (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148661"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

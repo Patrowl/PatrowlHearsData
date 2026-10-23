@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123168", "enisaUuid": "b56aa5e8-2801-3493-8f4b-f2934b4a7532", "description": "Malicious code in public-auth-dotenv-parse-variables-prettier-stylelint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146754"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

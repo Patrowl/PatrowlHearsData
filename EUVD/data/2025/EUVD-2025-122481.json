@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122481", "enisaUuid": "c86798dd-5423-3e02-b832-818005eb180d", "description": "Malicious code in rigel-tailwindcss-electron-bunyan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147441"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

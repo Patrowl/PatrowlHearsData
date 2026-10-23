@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115873", "enisaUuid": "e623af80-fded-358d-9ab1-e753889e1ef3", "description": "Malicious code in bulma-umbra-jwt-solis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140231"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

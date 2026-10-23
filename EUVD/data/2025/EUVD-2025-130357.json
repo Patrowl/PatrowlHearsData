@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130357", "enisaUuid": "af177bf5-ebfe-3b20-853d-6777f7713ae5", "description": "Malicious code in metric_collector (npm)", "datePublished": "2025-07-31T19:34:47", "dateUpdated": "2025-07-31T19:34:47", "baseScore": 0.0, "aliases": ["MAL-2025-6632"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124596", "enisaUuid": "36aa5b7e-24ad-37ba-9a3d-37bc182090ea", "description": "Malicious code in nconf-postcss-loader-gatsby-electron (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145324"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

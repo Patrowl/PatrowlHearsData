@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-146512", "enisaUuid": "26b35519-1942-3f3e-a678-962ebd708063", "description": "Malicious code in verify-ain-msua (npm)", "datePublished": "2025-11-12T16:47:05", "dateUpdated": "2025-11-12T16:47:05", "baseScore": 0.0, "aliases": ["MAL-2025-170300"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

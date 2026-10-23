@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-86405", "enisaUuid": "35e3c3c6-0196-3b72-82f4-fc09a4da9d7f", "description": "Malicious code in dynamic_mule_z3n (npm)", "datePublished": "2025-11-11T04:25:34", "dateUpdated": "2025-11-11T15:48:15", "baseScore": 0.0, "aliases": ["MAL-2025-84816"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

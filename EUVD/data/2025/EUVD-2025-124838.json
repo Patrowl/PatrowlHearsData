@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124838", "enisaUuid": "fd2e823c-0fe9-3df1-9f76-b13fbf082724", "description": "Malicious code in mocha-gulp-cordelia-buffer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145080"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

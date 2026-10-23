@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179143", "enisaUuid": "29faa5d1-1d18-3a6e-96ad-719d12d5ec94", "description": "Malicious code in encode-promise-cold-awk-easy (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186739"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124845", "enisaUuid": "e8180253-01c4-3886-95fe-f699c021c4d7", "description": "Malicious code in mocha-dotenv-node-sass-sagitta (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145073"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

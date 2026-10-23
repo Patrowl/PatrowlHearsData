@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176391", "enisaUuid": "7f968839-9454-37f1-bfae-c0c19f82ec3b", "description": "Malicious code in sigma-awk-abstract-error-kappa (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189484"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

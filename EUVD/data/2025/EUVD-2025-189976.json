@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189976", "enisaUuid": "8ecb8080-9a8a-3c5f-9ab1-b9131ba0389f", "description": "Malicious code in yaml-avior-sync-csrf (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-40198"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

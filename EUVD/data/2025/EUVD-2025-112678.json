@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112678", "enisaUuid": "d44a5202-062f-340b-a3c7-b1a65430ce9a", "description": "Malicious code in hydra-bellatrix-backend-sadr (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143434"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

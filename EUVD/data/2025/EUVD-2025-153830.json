@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153830", "enisaUuid": "4fe3e5e5-a357-3ee7-a7ad-8e30d153d48e", "description": "Malicious code in @snapon/design-system-react (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-29T06:43:16", "baseScore": 0.0, "aliases": ["MAL-2025-9329"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

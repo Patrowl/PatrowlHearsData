@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176474", "enisaUuid": "8121b2cf-9935-39ea-b357-5f6e3b673822", "description": "Malicious code in sed-promise-book-sun-lambda (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189401"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

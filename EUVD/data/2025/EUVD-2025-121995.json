@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121995", "enisaUuid": "2ea9fa0c-b149-30b6-b071-7b35841db581", "description": "Malicious code in shelljs-sedna-kaus-callback (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147928"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113439", "enisaUuid": "667c8749-d9c8-3dd9-b382-0d14e7f2c6e5", "description": "Malicious code in foundation-sync-jwt-dependencies (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142673"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

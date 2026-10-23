@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191771", "enisaUuid": "3810ac2f-befb-3dad-ae2a-b839644e7b2e", "description": "Malicious code in httpreqlog (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-42005"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

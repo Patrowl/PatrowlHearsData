@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123074", "enisaUuid": "c6a1146e-1b31-3899-b4b4-d10e45d5b6e3", "description": "Malicious code in pulsar-zenith-triton-miranda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146848"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

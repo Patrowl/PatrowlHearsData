@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177309", "enisaUuid": "6d087e30-87af-364c-b7bd-04b9be4ee94a", "description": "Malicious code in passport-auth0-levels-biomimicry (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188573"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

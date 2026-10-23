@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121697", "enisaUuid": "0f06039f-5cc0-3aa9-993c-b7e0bc854c44", "description": "Malicious code in sqlite-gemini-procyon-cressida (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148228"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

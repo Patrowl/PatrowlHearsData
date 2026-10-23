@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184009", "enisaUuid": "3ea87bea-be2f-3a85-b9db-2625ac2262e4", "description": "Malicious code in supervisor-draco-socketio-hapi (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34224"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

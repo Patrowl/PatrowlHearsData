@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113227", "enisaUuid": "a5bd0998-d6df-3e98-8497-dfb9ba1ff51d", "description": "Malicious code in geckodriver-titan-weywot-nuxtjs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142885"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

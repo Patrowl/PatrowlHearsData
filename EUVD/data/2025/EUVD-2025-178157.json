@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178157", "enisaUuid": "c3949090-ea62-3e3e-9c84-db6dc79eed11", "description": "Malicious code in lambda-daemon-cron-delta-link (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187725"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

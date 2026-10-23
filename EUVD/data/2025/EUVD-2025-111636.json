@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111636", "enisaUuid": "a70a11e0-a483-35a3-977a-60ce44863088", "description": "Malicious code in lint-yaml-sirius-soap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144478"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

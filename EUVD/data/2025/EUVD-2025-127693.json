@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127693", "enisaUuid": "4357316b-fd99-3b1c-a1f1-f3be4bfe977f", "description": "Malicious code in @sage-org/fabric-ui-root-config (npm)", "datePublished": "2025-05-08T15:54:20", "dateUpdated": "2025-05-22T14:07:46", "baseScore": 0.0, "aliases": ["MAL-2025-3960"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

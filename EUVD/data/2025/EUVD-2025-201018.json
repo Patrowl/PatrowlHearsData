@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-201018", "enisaUuid": "cfec03d9-f3e0-3d8e-ac5d-00317b72c94b", "description": "Malicious code in elf-stats-snowdusted-lantern-234 (npm)", "datePublished": "2025-12-03T18:57:54", "dateUpdated": "2025-12-23T21:38:09", "baseScore": 0.0, "aliases": ["MAL-2025-192267"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

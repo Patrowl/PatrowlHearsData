@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125651", "enisaUuid": "9f71eec7-3aa5-365f-8e96-dc8a298239d1", "description": "Malicious code in orderly-js-sdk-cra-template (npm)", "datePublished": "2025-03-03T13:34:39", "dateUpdated": "2025-03-03T13:34:39", "baseScore": 0.0, "aliases": ["MAL-2025-1909"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

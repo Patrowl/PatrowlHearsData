@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188389", "enisaUuid": "9e2253f2-bd32-34b5-9072-53f5616173c0", "description": "Malicious code in vortex-lynx-rate-limiter-darkenergy (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38601"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

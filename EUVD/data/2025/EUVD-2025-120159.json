@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120159", "enisaUuid": "46ea9ff8-3344-3f1e-8f72-387051ca0c10", "description": "Malicious code in yakutsk-jest-sequelize-helios (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149772"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

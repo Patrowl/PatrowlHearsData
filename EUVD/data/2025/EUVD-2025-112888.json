@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112888", "enisaUuid": "4267cf00-35ef-3442-b804-b345bd75dc22", "description": "Malicious code in helios-achernar-postcss-loader-cypress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143224"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

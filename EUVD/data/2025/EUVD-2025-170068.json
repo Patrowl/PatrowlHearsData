@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170068", "enisaUuid": "d079fd3d-bc6e-33ca-9ade-0583642cae2a", "description": "Malicious code in loglevel-rate-limiter-perseus-playwright (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25539"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

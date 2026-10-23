@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127046", "enisaUuid": "dde5a6cf-6130-38f4-8ef4-cf365a75388e", "description": "Malicious code in @sas-dvr/ltjs-sasicu (npm)", "datePublished": "2025-04-23T15:39:19", "dateUpdated": "2025-04-23T15:39:19", "baseScore": 0.0, "aliases": ["MAL-2025-3305"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

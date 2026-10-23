@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112892", "enisaUuid": "745eea1d-e6d7-3e18-94ec-1c1866ebe984", "description": "Malicious code in heka-umbra-typeorm-parcel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143220"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

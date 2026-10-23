@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194409", "enisaUuid": "20740d7c-ce8d-3a51-9502-a9caddfd182a", "description": "Malicious code in husky-xenos-lint-staged-dotenv (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44656"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

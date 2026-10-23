@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196659", "enisaUuid": "b18b199e-f5e1-3832-b6e9-1fa73fd4597f", "description": "Malicious code in feature-flags-client (RubyGems)", "datePublished": "2025-09-01T09:47:30", "dateUpdated": "2025-09-01T09:47:30", "baseScore": 0.0, "aliases": ["MAL-2025-46907"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

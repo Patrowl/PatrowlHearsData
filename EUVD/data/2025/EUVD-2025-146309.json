@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-146309", "enisaUuid": "0a48d89e-23e3-316b-8ddd-ab30f5ec82e2", "description": "Malicious code in verify-tayic-iamsunas (npm)", "datePublished": "2025-11-12T16:47:05", "dateUpdated": "2025-11-12T16:47:05", "baseScore": 0.0, "aliases": ["MAL-2025-170503"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

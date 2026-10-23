@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194954", "enisaUuid": "220c1027-925a-3eea-a696-eed7816cbfd3", "description": "Malicious code in miranda-css-minimizer-webpack-plugin-ursa-request (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45201"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

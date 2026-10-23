@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171939", "enisaUuid": "7dbd1e55-0854-30a6-af0b-ef6d330a65b8", "description": "Malicious code in nextjs-upgrade-pulsar-bunyan (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27410"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

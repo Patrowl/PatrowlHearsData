@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115062", "enisaUuid": "1383b309-fdb4-3012-ba8a-7884153b13d1", "description": "Malicious code in configstore-cygnus-envconfig-mongoose (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141047"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

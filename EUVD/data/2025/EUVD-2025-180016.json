@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180016", "enisaUuid": "7745cd97-d0bc-3702-aacd-bad76de8ee08", "description": "Malicious code in blueshift-publish-carina-nconf (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185866"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123076", "enisaUuid": "ea5de38a-097e-3b09-82c7-8f7407ed55bf", "description": "Malicious code in pulsar-virgo-neptune-relay (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146846"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

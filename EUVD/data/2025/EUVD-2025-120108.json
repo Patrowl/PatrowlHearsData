@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120108", "enisaUuid": "90b72602-8cf4-36fb-8d5f-b7413c21fc99", "description": "Malicious code in yildun-terser-webpack-plugin-configstore-achernar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149824"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

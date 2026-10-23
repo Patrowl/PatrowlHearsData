@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176675", "enisaUuid": "bad7813a-a63c-3c2f-a6dd-d4940b9d02c1", "description": "Malicious code in resolvers-kinetic-eventhoriz-webpack (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189200"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

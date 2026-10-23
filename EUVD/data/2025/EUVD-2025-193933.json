@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193933", "enisaUuid": "aa66fe6e-a897-3ab1-9740-5061d23801d5", "description": "Malicious code in eventhoriz-chromedriver-pegasus-loopback (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44180"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

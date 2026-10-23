@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125445", "enisaUuid": "3997f4f0-ea62-3124-9777-c87b706fd945", "description": "Malicious code in @transmit-security/ui (npm)", "datePublished": "2025-03-03T13:14:02", "dateUpdated": "2025-03-03T13:14:02", "baseScore": 0.0, "aliases": ["MAL-2025-1701"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

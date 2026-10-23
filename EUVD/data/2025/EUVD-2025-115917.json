@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115917", "enisaUuid": "828371b8-1dcb-3af9-b938-5741b5ed3c3c", "description": "Malicious code in build-pino-pretty-frontend-rate-limiter (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140187"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

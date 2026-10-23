@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164344", "enisaUuid": "17251321-f308-3be5-8c7c-9e1189a533c9", "description": "Malicious code in eslint-config-10up (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19823"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

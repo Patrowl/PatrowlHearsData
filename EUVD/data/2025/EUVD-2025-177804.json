@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177804", "enisaUuid": "14c85f8b-3be0-3d8a-a5e7-1f8e713d4225", "description": "Malicious code in miranda-markdown-pdf-rate-limiter-graphql (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188078"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

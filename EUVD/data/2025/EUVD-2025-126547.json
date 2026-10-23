@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126547", "enisaUuid": "709df1d8-1c0f-37dd-bd68-7bfe8da0a702", "description": "Malicious code in @sas-dvr/nova-crossorigin-auth (npm)", "datePublished": "2025-03-31T05:05:59", "dateUpdated": "2025-04-28T05:47:09", "baseScore": 0.0, "aliases": ["MAL-2025-2806"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

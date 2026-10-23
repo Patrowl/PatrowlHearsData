@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178540", "enisaUuid": "b2220ef3-3597-356c-9263-a35ae64213eb", "description": "Malicious code in hermes-child-process-apex-centauri (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187342"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

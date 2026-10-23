@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164584", "enisaUuid": "1ea302f5-8ec4-3376-a6be-8a90bc30f6fd", "description": "Malicious code in export-route-kernel-wind-big (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20064"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

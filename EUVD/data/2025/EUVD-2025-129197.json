@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129197", "enisaUuid": "af2e010c-5a0a-342d-9e04-c20064505936", "description": "Malicious code in trace-mapping (npm)", "datePublished": "2025-06-29T19:26:20", "dateUpdated": "2025-06-29T19:26:20", "baseScore": 0.0, "aliases": ["MAL-2025-5469"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

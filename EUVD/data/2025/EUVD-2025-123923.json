@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123923", "enisaUuid": "c63a2c3b-89f8-3229-ba0d-df1a856da3da", "description": "Malicious code in pavo-graphql-leda-semantic-ui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145998"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

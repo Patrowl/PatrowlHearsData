@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194399", "enisaUuid": "4541ed06-f95c-3dcc-8f3d-0fddb0409a33", "description": "Malicious code in hugo-stop-callback-bootstrap (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44646"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159256", "enisaUuid": "4769bc67-61e7-30c6-b857-4c0358bef077", "description": "Malicious code in aquarius-async-prettier-gulp (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14755"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

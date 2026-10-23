@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123564", "enisaUuid": "ecdb4472-4307-3b07-aab5-46c77ab1bb1f", "description": "Malicious code in polaris-nashira-jwt-betelgeuse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146357"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

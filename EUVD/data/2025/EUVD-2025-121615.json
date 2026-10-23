@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121615", "enisaUuid": "21b3c3d6-3dcc-39fb-9db3-652252a6a29f", "description": "Malicious code in stream-babel-procyon-json (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148310"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

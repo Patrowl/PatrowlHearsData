@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197077", "enisaUuid": "143d331c-ad40-30bd-bf3d-71f58f81ff0a", "description": "Malicious code in vuex-vue3 (npm)", "datePublished": "2025-09-23T18:32:09", "dateUpdated": "2025-09-23T18:32:09", "baseScore": 0.0, "aliases": ["MAL-2025-47602"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

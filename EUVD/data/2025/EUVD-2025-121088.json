@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121088", "enisaUuid": "a9928378-d6f7-3632-8232-be66fedb23e8", "description": "Malicious code in typeorm-comet-carpo-foundation (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148840"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

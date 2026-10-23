@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162110", "enisaUuid": "0d31480d-872e-3d52-8f13-8758c5406d53", "description": "Malicious code in cosmiconfig-xml-xenon-lint (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17611"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

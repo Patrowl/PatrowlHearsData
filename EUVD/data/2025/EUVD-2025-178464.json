@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178464", "enisaUuid": "1ac0361a-7ee6-3fcc-90e0-8c56a2ba0c81", "description": "Malicious code in hyperion-terraforming-cli-callback (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187418"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

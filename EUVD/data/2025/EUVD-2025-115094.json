@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115094", "enisaUuid": "41ca5099-ac8a-32e6-ad1b-c4ce44b6a6df", "description": "Malicious code in concurrently-subscription-zenobia-commitlint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141015"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

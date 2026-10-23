@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111155", "enisaUuid": "30797d2d-15be-3f82-84ce-4759df75d420", "description": "Malicious code in middleware-mocha-cassini-jabbah (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144960"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

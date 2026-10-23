@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179291", "enisaUuid": "4b6ea37d-d34e-324c-9f89-b79e64b31869", "description": "Malicious code in docusaurus-buffer-sequelize-cassini (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186591"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

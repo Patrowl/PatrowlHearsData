@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183417", "enisaUuid": "fb77b586-b1ed-3f39-8009-70c2e9ad300c", "description": "Malicious code in solarnebula-sequelize-subscription-biogeochemistry (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33632"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

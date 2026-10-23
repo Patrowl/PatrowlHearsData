@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114163", "enisaUuid": "7faea7c1-fca2-3021-886f-4e85ae5b2039", "description": "Malicious code in elektra-init-protractor-ursa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141947"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197172", "enisaUuid": "dfb0fa9e-092e-3eb7-92f6-1a8057058a78", "description": "Malicious code in nodejs-example-google-cloud-monitoring (npm)", "datePublished": "2025-09-26T09:37:47", "dateUpdated": "2025-09-26T09:37:47", "baseScore": 0.0, "aliases": ["MAL-2025-47699"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

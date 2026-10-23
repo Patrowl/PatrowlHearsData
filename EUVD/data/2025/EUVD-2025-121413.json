@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121413", "enisaUuid": "3157147b-c3ad-3597-8809-24fbaa30144e", "description": "Malicious code in terser-css-minimizer-webpack-plugin-loglevel-jasmine (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148515"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

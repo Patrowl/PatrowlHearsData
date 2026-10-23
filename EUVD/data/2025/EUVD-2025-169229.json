@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169229", "enisaUuid": "1b09534a-4c69-3e95-b8f4-2ce5bcdc311b", "description": "Malicious code in koa-body-parse (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24711"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

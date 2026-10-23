@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115055", "enisaUuid": "0b547d1a-2931-3e7f-8772-a973952c7903", "description": "Malicious code in configstore-graphql-pm2-virgo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141054"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

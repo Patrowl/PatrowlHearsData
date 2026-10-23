@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196631", "enisaUuid": "2a9efc58-1628-3b1d-a392-710dd5fd90b8", "description": "Malicious code in zero-static-scale-minify-encode (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46879"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

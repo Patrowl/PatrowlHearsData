@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121433", "enisaUuid": "c4876a82-921d-31b0-a452-454d76f19684", "description": "Malicious code in telesto-hercules-axios-wasat (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148495"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112716", "enisaUuid": "fe56bd6a-23e1-32ed-8bdc-9387360dc036", "description": "Malicious code in hugo-prompts-install-nodejs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143396"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

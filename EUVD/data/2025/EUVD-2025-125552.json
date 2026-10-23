@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125552", "enisaUuid": "576bffe0-1113-3609-936b-3291c913ce1c", "description": "Malicious code in explat-client-react-helpers (npm)", "datePublished": "2025-03-03T13:25:55", "dateUpdated": "2025-03-03T13:25:55", "baseScore": 0.0, "aliases": ["MAL-2025-1809"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

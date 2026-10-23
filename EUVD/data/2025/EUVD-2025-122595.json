@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122595", "enisaUuid": "d81d4954-39fa-3e68-b1ad-ab5d29ccf1ea", "description": "Malicious code in resolvers-init-ursa-docusaurus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147327"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122586", "enisaUuid": "0943070b-4aa1-3e24-ac80-4e1e40ffb276", "description": "Malicious code in resolvers-sedna-callback-vuepress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147336"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

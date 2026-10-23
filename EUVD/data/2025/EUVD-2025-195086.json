@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195086", "enisaUuid": "32fde468-4b97-372d-ab7e-ffc9d5d5e225", "description": "Malicious code in node-sass-mesosphere-cosmiconfig-vortex (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45334"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

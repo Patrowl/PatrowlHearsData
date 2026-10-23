@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162066", "enisaUuid": "340f6f48-8a19-38d6-bffe-5ff0f833533a", "description": "Malicious code in cordova-plugin-ios-no-export-compliance (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17567"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

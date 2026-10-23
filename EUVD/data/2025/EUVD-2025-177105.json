@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177105", "enisaUuid": "1bfb8a7f-12d5-3bdd-9edc-44b70217044a", "description": "Malicious code in polaris-typeorm-carina-solarnebula (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188770"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

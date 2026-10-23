@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113225", "enisaUuid": "7702a45f-3dbc-3b30-b5dd-1a1ead0d9355", "description": "Malicious code in geckodriver-upgrade-upgrade-iota (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142887"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

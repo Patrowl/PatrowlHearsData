@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176217", "enisaUuid": "575a8761-fe8c-3685-aeb3-ccac3b97a576", "description": "Malicious code in start-io-nightwatch-install (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189658"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

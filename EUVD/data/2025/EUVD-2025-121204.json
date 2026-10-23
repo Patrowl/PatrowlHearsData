@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121204", "enisaUuid": "ae4b6553-ead8-3e03-8a04-667b864baaa3", "description": "Malicious code in toml-uninstall-acamar-juno (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148724"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

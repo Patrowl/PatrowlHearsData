@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111665", "enisaUuid": "8ab3f42a-4c82-30b7-90a3-8fbb35822d6e", "description": "Malicious code in lint-staged-commitlint-global-superagent (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144449"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

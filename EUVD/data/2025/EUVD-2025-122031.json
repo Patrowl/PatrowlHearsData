@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122031", "enisaUuid": "6f4dcadf-f3e2-3b76-804e-4e3cd90e5290", "description": "Malicious code in server-command-lyra-loop (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147892"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-152874", "enisaUuid": "191572df-70e0-3e03-8e40-47dd8f47b42e", "description": "Malicious code in @leaffm/leaf-connect-additional-lengths (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-8373"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168236", "enisaUuid": "b568382f-2135-386c-8535-06f5e0846cd7", "description": "Malicious code in jdevice-nodejs-sdk (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23718"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

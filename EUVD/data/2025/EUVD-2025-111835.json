@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111835", "enisaUuid": "d1f1e65e-890f-32dd-83f2-f1c86cd01f29", "description": "Malicious code in leda-koa-dotenv-safe-atlas (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144278"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

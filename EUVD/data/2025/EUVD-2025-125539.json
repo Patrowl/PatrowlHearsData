@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125539", "enisaUuid": "54e920cd-497e-39eb-8f61-319015ef2db9", "description": "Malicious code in epicagames-auth (npm)", "datePublished": "2025-03-03T13:25:04", "dateUpdated": "2025-03-03T13:25:04", "baseScore": 0.0, "aliases": ["MAL-2025-1796"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

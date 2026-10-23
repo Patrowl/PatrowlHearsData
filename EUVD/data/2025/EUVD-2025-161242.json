@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161242", "enisaUuid": "cba776cd-28cd-3537-95a2-11f4eda97b1f", "description": "Malicious code in cftoxml (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16741"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

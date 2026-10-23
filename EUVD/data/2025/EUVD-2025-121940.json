@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121940", "enisaUuid": "7acff7cc-59aa-30fa-b128-823448057d67", "description": "Malicious code in slides-geckodriver-sass-loader-webpack (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147985"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

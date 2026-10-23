@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112584", "enisaUuid": "a9213671-d978-3492-ac76-295b92a2fb3f", "description": "Malicious code in ignite-stop-castor-triton (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143528"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112737", "enisaUuid": "553fab32-610a-39d2-a316-55c81687ff75", "description": "Malicious code in html-webpack-plugin-upgrade-remark-enceladus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143375"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

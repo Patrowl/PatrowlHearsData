@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159093", "enisaUuid": "e078391a-115e-30c1-aba2-5a158a429038", "description": "Malicious code in antd-socketio-mui-palynology (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14592"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

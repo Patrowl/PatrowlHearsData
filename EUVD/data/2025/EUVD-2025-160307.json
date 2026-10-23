@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160307", "enisaUuid": "d0ca7403-a60c-3077-830c-85ad7105d262", "description": "Malicious code in blazar-non-blocking-dotenv-parse-variables-test (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15806"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

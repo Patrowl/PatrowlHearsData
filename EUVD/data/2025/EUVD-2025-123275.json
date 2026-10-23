@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123275", "enisaUuid": "e714dfff-26d6-368b-aa03-b4106d5f4925", "description": "Malicious code in promise-registry-bellatrix-element-ui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146647"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

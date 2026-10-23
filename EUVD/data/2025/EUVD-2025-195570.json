@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195570", "enisaUuid": "472f2727-1a7c-3917-9f45-1fd735db70c9", "description": "Malicious code in resolvers-umbra-chai-uninstall (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45818"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

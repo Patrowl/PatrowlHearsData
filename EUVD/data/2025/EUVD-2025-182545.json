@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182545", "enisaUuid": "ec9ebdb4-8d4c-3e09-ba46-0fbda8e6d24a", "description": "Malicious code in sc-bunyan-logstash-amqp (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32760"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

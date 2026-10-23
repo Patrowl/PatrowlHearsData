@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113615", "enisaUuid": "f8b22e6f-3a5b-39b2-9df1-c5e7f1ca10be", "description": "Malicious code in firebase-epimetheus-request-antares (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142496"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

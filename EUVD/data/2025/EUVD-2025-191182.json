@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191182", "enisaUuid": "c83f49cc-5142-39e5-aeca-1be485e17e49", "description": "Malicious code in react-event-tracker1 (npm)", "datePublished": "2025-08-22T17:37:57", "dateUpdated": "2025-08-22T17:37:57", "baseScore": 0.0, "aliases": ["MAL-2025-41405"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122191", "enisaUuid": "ead664c8-1961-35eb-906b-e1cd42099b76", "description": "Malicious code in scripts-fork-duplex-meteor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147731"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

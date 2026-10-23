@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191671", "enisaUuid": "23a186b9-0ff8-3f83-9df1-656739bde84c", "description": "Malicious code in @espace-client-axafr/sso-agipi (npm)", "datePublished": "2025-08-25T18:37:28", "dateUpdated": "2025-08-25T18:37:28", "baseScore": 0.0, "aliases": ["MAL-2025-41905"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

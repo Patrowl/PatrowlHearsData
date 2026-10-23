@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114375", "enisaUuid": "6ec1716b-e7b0-38a7-ba5f-e16cefd76a6f", "description": "Malicious code in dotenv-parse-variables-proxima-mongodb-got (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141734"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

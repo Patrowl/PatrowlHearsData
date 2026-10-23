@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162333", "enisaUuid": "9355e0d8-c63a-3e6c-9d44-7cc4189c01d1", "description": "Malicious code in custom-mysql2 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17834"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

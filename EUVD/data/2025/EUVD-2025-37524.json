@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37524", "enisaUuid": "0e44d878-b2d4-3f69-81dd-2a05e70a9833", "description": "Malicious code in antora-navigator-extension (npm)", "datePublished": "2025-11-03T23:25:38", "dateUpdated": "2025-11-09T00:27:56", "baseScore": 0.0, "aliases": ["MAL-2025-49348"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

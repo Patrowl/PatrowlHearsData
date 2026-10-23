@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184082", "enisaUuid": "941180e7-6bee-3cc3-a43d-2a67a533a68f", "description": "Malicious code in switcharoo-plugin-metrics (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34298"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

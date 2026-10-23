@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-202902", "enisaUuid": "0a21d2bf-f0f2-34f3-b4bf-be8a666602dc", "description": "Malicious code in libxmljsololo (npm)", "datePublished": "2025-12-11T01:47:51", "dateUpdated": "2025-12-11T01:47:51", "baseScore": 0.0, "aliases": ["MAL-2025-192458"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

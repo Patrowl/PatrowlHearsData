@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112603", "enisaUuid": "fc7228bb-db00-3910-96e9-96811881abc0", "description": "Malicious code in ignite-ceres-element-ui-rollup (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143509"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

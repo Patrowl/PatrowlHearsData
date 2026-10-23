@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112037", "enisaUuid": "8cf9fecc-0bf8-36eb-8555-d90cfa1b318f", "description": "Malicious code in jwt-grunt-got-module (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144076"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

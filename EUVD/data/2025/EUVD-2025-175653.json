@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175653", "enisaUuid": "20df2399-d3a7-3fe5-881e-6161a0dcb31d", "description": "Malicious code in warp-jwt-mongoose-mira (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190223"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

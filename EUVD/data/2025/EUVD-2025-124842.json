@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124842", "enisaUuid": "18756d07-4f8c-37d5-bfaa-580814ab9d11", "description": "Malicious code in mocha-ganymede-dependencies-hapi (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145076"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

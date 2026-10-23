@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123223", "enisaUuid": "afca2ef3-2e27-3dfb-bd98-60631ab33dbe", "description": "Malicious code in protractor-sass-loader-test-gemini (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146699"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124707", "enisaUuid": "cfde14f2-3ccc-3f93-8461-74e34e6b69d3", "description": "Malicious code in mui-spectron-webdriver-csrf-apollo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145211"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

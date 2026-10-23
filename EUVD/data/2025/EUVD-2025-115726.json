@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115726", "enisaUuid": "265a4c8c-d962-3d4c-93fb-76445883b222", "description": "Malicious code in capella-buffer-cypress-electron (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140380"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180329", "enisaUuid": "56be50fd-b9cb-3935-bc83-bb641a4a6fb5", "description": "Malicious code in ariel-callisto-commitlint-config-angular-install (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185559"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

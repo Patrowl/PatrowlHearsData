@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176825", "enisaUuid": "3f3b5998-a36b-3806-aa64-8c1a1fa654c4", "description": "Malicious code in quito-fornax-dynamo-csrf (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189050"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

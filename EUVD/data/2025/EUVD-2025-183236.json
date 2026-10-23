@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183236", "enisaUuid": "316f9a71-5b9c-3aaf-ac60-63b01c43e8fa", "description": "Malicious code in smartserve-loader (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33451"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

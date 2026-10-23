@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127692", "enisaUuid": "e6561c53-61b9-3868-b91e-88f5d3b89f88", "description": "Malicious code in @flcore/login (npm)", "datePublished": "2025-05-07T20:01:33", "dateUpdated": "2025-05-22T14:07:46", "baseScore": 0.0, "aliases": ["MAL-2025-3959"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

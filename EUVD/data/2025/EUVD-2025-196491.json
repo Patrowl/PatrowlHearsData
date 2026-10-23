@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196491", "enisaUuid": "eed38bd8-f3b7-3cad-b407-c66fd9e7104b", "description": "Malicious code in xo-npm-writable-farout (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46739"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

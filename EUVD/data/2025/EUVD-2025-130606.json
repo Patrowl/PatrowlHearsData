@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130606", "enisaUuid": "01d8ece5-4c12-3227-8ab0-824d33851d3a", "description": "Malicious code in @capacitor-bmo/common (npm)", "datePublished": "2025-08-15T16:55:52", "dateUpdated": "2025-08-15T16:55:52", "baseScore": 0.0, "aliases": ["MAL-2025-6884"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

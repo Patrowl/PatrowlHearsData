@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126917", "enisaUuid": "32032f08-4fe7-37c2-b07c-1ce2821f63e3", "description": "Malicious code in @n37scancp/highlight.js (npm)", "datePublished": "2025-04-08T02:32:45", "dateUpdated": "2025-04-29T00:50:22", "baseScore": 0.0, "aliases": ["MAL-2025-3176"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

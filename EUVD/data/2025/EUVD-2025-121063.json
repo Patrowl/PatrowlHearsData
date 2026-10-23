@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121063", "enisaUuid": "ce7958fd-700f-31a5-8282-9d81e8fb9691", "description": "Malicious code in uglify-js-apollo-cosmos-karma (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148865"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

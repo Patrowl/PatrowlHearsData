@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111298", "enisaUuid": "bbbd0e52-ae4a-3f0e-a652-8c047c4df792", "description": "Malicious code in meissa-mui-webdriver-manager-promise (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144817"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

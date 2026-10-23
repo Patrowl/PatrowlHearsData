@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121363", "enisaUuid": "b4a0e0da-1b86-3db8-be4c-ddf10017f22b", "description": "Malicious code in test-cassini-luna-private (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148565"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

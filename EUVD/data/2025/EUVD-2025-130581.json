@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130581", "enisaUuid": "942ebaf9-0606-3f4b-b641-c5e92dec9256", "description": "Malicious code in third-party-library (npm)", "datePublished": "2025-08-08T16:57:51", "dateUpdated": "2025-08-18T06:10:43", "baseScore": 0.0, "aliases": ["MAL-2025-6859"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175950", "enisaUuid": "9677598c-fffa-3303-a018-dd1b0cff5ecf", "description": "Malicious code in throw-bad-orchestrate-analyze-cat (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189925"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

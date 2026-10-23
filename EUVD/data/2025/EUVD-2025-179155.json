@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179155", "enisaUuid": "f9a0a81c-1dd0-379a-ab05-a9e968345cd4", "description": "Malicious code in emulate-throw-root-meta-file (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186727"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

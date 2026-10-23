@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196007", "enisaUuid": "cf07df0d-157d-3f80-92b5-8e49a4126df4", "description": "Malicious code in terser-webpack-plugin-polaris-grus-gravity (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46255"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

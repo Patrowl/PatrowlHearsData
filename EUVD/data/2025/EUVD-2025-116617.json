@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116617", "enisaUuid": "d273aaed-2e4f-3c45-89b4-6046e7eb522a", "description": "Malicious code in apex-request-relay-sails (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139485"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

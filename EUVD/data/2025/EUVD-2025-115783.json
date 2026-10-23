@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115783", "enisaUuid": "99de1c43-c24a-3ddc-9491-4726d459ee07", "description": "Malicious code in callback-webpack-halley-eridanus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140323"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121796", "enisaUuid": "5f159963-8938-30a5-94ef-f63be20af54c", "description": "Malicious code in spectron-webdriver-fusion-nightmare-metalsmith (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148129"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112259", "enisaUuid": "4a705783-5d20-3385-a311-8205f276e485", "description": "Malicious code in jasmine-grus-nightwatch-dotenv (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143854"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

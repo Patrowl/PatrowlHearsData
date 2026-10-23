@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171839", "enisaUuid": "b57c6691-9c91-31dc-a725-c1e4b5f5a690", "description": "Malicious code in netgate-mongoose (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27310"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

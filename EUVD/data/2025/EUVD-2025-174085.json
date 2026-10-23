@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174085", "enisaUuid": "c4d6e954-66d4-3df3-8144-d7cf990f1eeb", "description": "Malicious code in powerquery-parser (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29556"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

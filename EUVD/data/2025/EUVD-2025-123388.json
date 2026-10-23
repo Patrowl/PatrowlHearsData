@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123388", "enisaUuid": "0cb02a62-6af0-3e04-b4c9-e8fd9701944a", "description": "Malicious code in private-install-radiant-version (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146534"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

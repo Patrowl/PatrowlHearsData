@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176558", "enisaUuid": "dfea1d81-8751-356c-80d4-5c550e01fed5", "description": "Malicious code in sagitta-polaris-configstore-commitlint-config-angular (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189317"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

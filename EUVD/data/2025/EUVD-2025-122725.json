@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122725", "enisaUuid": "1e5c7a7d-9599-3929-b2f9-86cefa1c40a5", "description": "Malicious code in relay-changelog-webdriverio-pegasus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147197"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

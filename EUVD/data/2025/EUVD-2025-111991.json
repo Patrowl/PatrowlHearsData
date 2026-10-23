@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111991", "enisaUuid": "df9159d3-4b84-3a1c-bf63-3f834fe29b01", "description": "Malicious code in karma-upgrade-backend-hermes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144122"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

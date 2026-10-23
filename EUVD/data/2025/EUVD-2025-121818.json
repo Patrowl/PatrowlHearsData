@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121818", "enisaUuid": "30a80255-05c6-3bc8-b35e-e4259099afbf", "description": "Malicious code in spawn-tool-concurrently-umbra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148107"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

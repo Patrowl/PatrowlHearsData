@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193130", "enisaUuid": "ae8d5c20-e0dc-31bf-9f0f-f8df5fcc8b02", "description": "Malicious code in @zittertea/alias-non-maxime (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43377"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

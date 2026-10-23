@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115469", "enisaUuid": "c3ebee32-8ecd-343b-ada8-36d7d8a32028", "description": "Malicious code in chalk-ganymede-dependencies-oauth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140638"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

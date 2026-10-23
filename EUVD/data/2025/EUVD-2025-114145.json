@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114145", "enisaUuid": "50571379-6e68-3d14-8ddd-77a8ee0dc506", "description": "Malicious code in element-ui-cypress-rimraf-zenobia (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141965"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

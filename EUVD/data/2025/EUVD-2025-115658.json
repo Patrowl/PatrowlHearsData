@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115658", "enisaUuid": "84646bd6-6918-399e-b503-69b04973d553", "description": "Malicious code in carpo-mira-restart-cypress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140449"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

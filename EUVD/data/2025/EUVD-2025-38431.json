@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-38431", "enisaUuid": "28ed9349-06eb-3798-8f2f-1a59ae321b8b", "description": "Malicious code in cachelogger (npm)", "datePublished": "2025-11-09T00:17:09", "dateUpdated": "2025-11-09T00:17:09", "baseScore": 0.0, "aliases": ["MAL-2025-49399"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

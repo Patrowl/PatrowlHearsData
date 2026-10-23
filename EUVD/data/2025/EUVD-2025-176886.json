@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176886", "enisaUuid": "74f3d4b4-577e-34db-bb7c-8cacd2749c3c", "description": "Malicious code in pyxis-enif-wasat-borealis (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188989"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

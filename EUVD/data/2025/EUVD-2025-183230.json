@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183230", "enisaUuid": "43c24624-db64-35a1-9b66-c4d1e043177f", "description": "Malicious code in smallstat (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33445"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

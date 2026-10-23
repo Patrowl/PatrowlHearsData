@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-36279", "enisaUuid": "bff4f18e-1ae3-3767-8034-a387b652ee1e", "description": "Malicious code in checkout-ui-extensions-react (npm)", "datePublished": "2025-10-04T01:42:59", "dateUpdated": "2025-10-27T18:09:48", "baseScore": 0.0, "aliases": ["MAL-2025-48357"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

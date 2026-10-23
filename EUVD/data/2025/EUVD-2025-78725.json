@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-78725", "enisaUuid": "3a797f3e-6246-3640-82c9-1485ca6c1409", "description": "Malicious code in negative_tick_z3n (npm)", "datePublished": "2025-11-11T07:31:13", "dateUpdated": "2025-11-11T07:31:13", "baseScore": 0.0, "aliases": ["MAL-2025-106250"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

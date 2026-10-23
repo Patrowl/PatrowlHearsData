@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164930", "enisaUuid": "51ea422a-894f-3f7f-bb32-18e3de657b8a", "description": "Malicious code in ferry-redshift-64b4 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20411"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111625", "enisaUuid": "12b062ff-7017-30d0-a72e-31b50bec8ecc", "description": "Malicious code in local-loopback-lynx-titan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144490"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

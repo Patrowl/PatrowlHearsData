@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179506", "enisaUuid": "4a8632a3-0426-32e9-8259-e229d6a45215", "description": "Malicious code in cron-tree-query-unix-report (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186376"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

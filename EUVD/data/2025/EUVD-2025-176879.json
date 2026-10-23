@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176879", "enisaUuid": "420ca870-7742-3a5c-8713-da2f70c46dce", "description": "Malicious code in quantum-computing-frontend-halley-xml (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188996"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

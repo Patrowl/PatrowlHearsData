@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115156", "enisaUuid": "d7cb459f-1eba-334e-a6fd-9f9666002afe", "description": "Malicious code in commitlint-antares-chariklo-bunyan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140952"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

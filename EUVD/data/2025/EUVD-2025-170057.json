@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170057", "enisaUuid": "969b76f8-51b6-3ef8-8173-bc430e4cc292", "description": "Malicious code in logdoc (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25528"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

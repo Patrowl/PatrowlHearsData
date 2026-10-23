@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184458", "enisaUuid": "9ecff3ab-53fd-31ac-8c10-c636e0858d0c", "description": "Malicious code in telus-myaccount-cli (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34674"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

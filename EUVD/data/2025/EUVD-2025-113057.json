@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113057", "enisaUuid": "c9771c78-28ff-3f61-be5a-1eb5e7c80f78", "description": "Malicious code in grunt-bunyan-convict-forever (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143055"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

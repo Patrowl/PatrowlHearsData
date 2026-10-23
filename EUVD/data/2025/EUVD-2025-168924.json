@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168924", "enisaUuid": "9bc9a0ec-6968-3a8a-9049-15d33cc022b4", "description": "Malicious code in kernellib (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24406"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

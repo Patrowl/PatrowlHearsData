@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-206178", "enisaUuid": "b4b353dd-9e44-3dd1-95d7-301ec1bbed50", "description": "Malicious code in polyfill-corejs2 (npm)", "datePublished": "2025-12-23T08:24:47", "dateUpdated": "2026-01-02T21:37:29", "baseScore": 0.0, "aliases": ["MAL-2025-192852"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

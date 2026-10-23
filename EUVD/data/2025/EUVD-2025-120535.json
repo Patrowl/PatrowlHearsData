@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120535", "enisaUuid": "e4db631b-6618-3a09-a67a-bacb701f94c7", "description": "Malicious code in webpack-colors-xerxes-slidev (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149394"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

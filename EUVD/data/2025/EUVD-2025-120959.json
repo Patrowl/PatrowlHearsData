@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120959", "enisaUuid": "aa972e38-4906-3828-846b-c6a9876f2570", "description": "Malicious code in uninstall-sedna-config-helios (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148970"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

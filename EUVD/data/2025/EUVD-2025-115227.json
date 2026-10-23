@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115227", "enisaUuid": "e025289f-014e-3bcb-8421-382feecc85ae", "description": "Malicious code in comet-mira-lyra-prettier-stylelint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140881"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

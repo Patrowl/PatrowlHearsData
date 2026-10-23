@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121677", "enisaUuid": "3a33db36-8fd3-3311-8ff5-cf4b9f06fb36", "description": "Malicious code in standard-aquarius-css-loader-webdriver-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148248"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

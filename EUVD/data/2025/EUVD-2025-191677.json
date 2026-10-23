@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191677", "enisaUuid": "b5545410-45fd-30a7-a50d-31029985b3d9", "description": "Malicious code in @espace-client-axafr/user-profile-acceptance (npm)", "datePublished": "2025-08-25T18:37:20", "dateUpdated": "2025-08-25T18:37:20", "baseScore": 0.0, "aliases": ["MAL-2025-41911"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

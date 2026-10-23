@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177049", "enisaUuid": "83a43fe1-4a5c-3233-9a63-c1a5db83c2f4", "description": "Malicious code in private-easy-string-decrypt-meta (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188826"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

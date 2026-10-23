@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175898", "enisaUuid": "0ba2e119-12dd-34e5-a63c-c006bbd5a18b", "description": "Malicious code in transpile-bundle-upsilon-decrypt-secure (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189977"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

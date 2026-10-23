@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123662", "enisaUuid": "f7d7fe93-aade-3376-afd8-4d417c22c648", "description": "Malicious code in pipe-await-got-prettier-plugin-markdown (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146259"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

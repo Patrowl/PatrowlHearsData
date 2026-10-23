@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194682", "enisaUuid": "1f38f113-b577-357d-ac04-ea74ec7c9879", "description": "Malicious code in kuiperbelt-miranda-dotenv-parse-variables-radiant (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44929"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

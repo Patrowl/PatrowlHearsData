@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121086", "enisaUuid": "b4e9445a-041d-3c0e-aff4-625e5857a23f", "description": "Malicious code in typeorm-css-loader-draco-docusaurus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148842"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

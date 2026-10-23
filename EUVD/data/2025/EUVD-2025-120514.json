@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120514", "enisaUuid": "a09fa42a-85a3-35e4-b295-495ea0d87f63", "description": "Malicious code in webpack-zenith-winston-changelog (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149415"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

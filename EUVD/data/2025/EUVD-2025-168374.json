@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168374", "enisaUuid": "3ada2b46-8ddb-3e96-9fbb-790efd96a861", "description": "Malicious code in jones-promise (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23856"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

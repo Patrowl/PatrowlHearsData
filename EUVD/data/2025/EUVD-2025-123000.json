@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123000", "enisaUuid": "047c09a9-cf71-3272-ad2d-3d4b6b5520fb", "description": "Malicious code in quark-colors-auth0-shelljs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146922"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

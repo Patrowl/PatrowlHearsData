@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116263", "enisaUuid": "7e063c46-31c2-37c3-8559-b21297b13fc1", "description": "Malicious code in axios-spectron-webdriver-jsonp-phenomic (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139839"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

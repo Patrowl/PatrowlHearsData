@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184013", "enisaUuid": "f78634e3-8fa9-3848-9463-b7f16ab9af37", "description": "Malicious code in supervisor-spectroscopy-tardigrade-native (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34228"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

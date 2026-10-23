@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184331", "enisaUuid": "4b4abee0-300e-33a2-b532-b2e5b2b96192", "description": "Malicious code in taphonomy-graphql-nodejs-isostasy (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34547"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

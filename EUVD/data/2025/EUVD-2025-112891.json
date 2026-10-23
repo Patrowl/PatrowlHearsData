@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112891", "enisaUuid": "1b32bf4a-7e25-3245-b20e-247e0992c354", "description": "Malicious code in heka-vulcan-spectron-express (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143221"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

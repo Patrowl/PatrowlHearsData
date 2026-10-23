@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123353", "enisaUuid": "890e5f7f-69d6-3d53-a747-e13d889cefed", "description": "Malicious code in process-selenium-quasar-cors (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146569"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179178", "enisaUuid": "6afaf21f-5812-35c1-8dde-09e738d250e1", "description": "Malicious code in electron-postcss-loader-yaml-pyxis (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186704"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161948", "enisaUuid": "241db25a-5082-36e0-b4ec-ee5a2c67019e", "description": "Malicious code in compile-serialize-uglify-book-simulate (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17449"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

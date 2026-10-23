@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-190129", "enisaUuid": "0a200645-f242-3157-8652-3885685865f2", "description": "Malicious code in yarn.lock (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-40351"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184352", "enisaUuid": "c8245fd5-f23f-30f3-be4d-f7b94042cfd5", "description": "Malicious code in taskboard-form-builder (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34568"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

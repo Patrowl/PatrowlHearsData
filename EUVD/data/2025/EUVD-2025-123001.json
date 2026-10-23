@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123001", "enisaUuid": "7ce418b8-ab04-3bd6-bf04-7a24f207c75d", "description": "Malicious code in quark-child-process-mongodb-phoebe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146921"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112918", "enisaUuid": "d15cb920-5b99-39f3-8baa-b24f2eded5fd", "description": "Malicious code in hapi-phenomic-cors-nebula (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143194"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

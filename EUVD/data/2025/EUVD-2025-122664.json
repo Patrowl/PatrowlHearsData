@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122664", "enisaUuid": "6a962d3e-c59a-3b9b-bc9e-55440e0d810f", "description": "Malicious code in remark-wolf-jwt-electron (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147258"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

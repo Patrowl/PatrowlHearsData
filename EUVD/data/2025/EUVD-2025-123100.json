@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123100", "enisaUuid": "d241c319-d5ea-3506-8362-771fb6e1ac04", "description": "Malicious code in publish-webpack-configstore-dependencies (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146822"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

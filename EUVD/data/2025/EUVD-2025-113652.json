@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113652", "enisaUuid": "2eb287cc-dd5d-3de3-96cb-343c24be0d8c", "description": "Malicious code in fetch-supervisor-phoenix-octans (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142459"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

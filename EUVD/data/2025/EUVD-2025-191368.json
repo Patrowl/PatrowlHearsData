@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191368", "enisaUuid": "9660a3fe-4677-3924-a8f5-093fead6d401", "description": "Malicious code in retool-security-install-qa (npm)", "datePublished": "2025-08-28T07:38:43", "dateUpdated": "2025-08-28T07:38:43", "baseScore": 0.0, "aliases": ["MAL-2025-41601"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

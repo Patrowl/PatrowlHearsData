@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113742", "enisaUuid": "31f4c3c1-3b6b-3d9e-927c-ebf228247385", "description": "Malicious code in express-barnard-materialize-framework (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142368"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

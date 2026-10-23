@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165298", "enisaUuid": "4f9ff83c-b19e-3327-b499-1974f80cdcbd", "description": "Malicious code in forge-vscode (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20779"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

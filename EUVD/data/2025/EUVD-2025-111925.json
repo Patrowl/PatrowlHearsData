@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111925", "enisaUuid": "d9f88acb-33e9-32b5-9a29-70cefa07dedd", "description": "Malicious code in koa-cassini-eclipse-lint-staged (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144188"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

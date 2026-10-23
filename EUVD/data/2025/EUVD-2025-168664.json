@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168664", "enisaUuid": "4e653c12-3084-3417-a932-4103a39cd283", "description": "Malicious code in k0a_multer (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24146"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127892", "enisaUuid": "105841ab-b6fe-317e-a8e9-fd5b743a1fb6", "description": "Malicious code in @workleap-tracking/logrocket (npm)", "datePublished": "2025-05-22T12:36:48", "dateUpdated": "2025-05-22T12:36:48", "baseScore": 0.0, "aliases": ["MAL-2025-4160"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

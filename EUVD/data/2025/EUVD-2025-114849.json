@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114849", "enisaUuid": "c517d662-2cf8-3a9b-a408-14c9accaf60e", "description": "Malicious code in cross-env-nightmare-public-buffer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141260"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

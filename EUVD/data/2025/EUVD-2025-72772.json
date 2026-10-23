@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-72772", "enisaUuid": "1bc5afe3-5219-3c68-a734-57abc3eb2dfa", "description": "Malicious code in yummy_gecko_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-97518"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162287", "enisaUuid": "15b87821-1019-3819-bfba-0736c709b8a9", "description": "Malicious code in csrf-elara-hydra-bellatrix (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17788"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

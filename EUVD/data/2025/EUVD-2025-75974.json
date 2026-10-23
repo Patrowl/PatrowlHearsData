@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75974", "enisaUuid": "8e3282c5-2510-36b5-a028-734460c13b64", "description": "Malicious code in present_monkey-apptea (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-107228"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

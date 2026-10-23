@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171381", "enisaUuid": "35ec169f-a357-3ea7-89db-469b7c04b295", "description": "Malicious code in mtfe_cos_config (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26852"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121197", "enisaUuid": "130b944d-d277-3ce3-abc8-ef5b824793f2", "description": "Malicious code in tool-command-geckodriver-atlas (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148731"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

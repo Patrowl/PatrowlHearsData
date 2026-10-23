@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193622", "enisaUuid": "2ee786a4-67c2-3d1f-be76-471c3a22066d", "description": "Malicious code in command-halley-sagitta-changelog (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43869"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

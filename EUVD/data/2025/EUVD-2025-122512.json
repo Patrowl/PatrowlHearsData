@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122512", "enisaUuid": "1168fa12-01b3-3ec9-a180-c49a03b82c42", "description": "Malicious code in reveal-md-ganymede-chromedriver-dotenv-parse-variables (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147410"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176327", "enisaUuid": "f935f374-c64b-3362-a4ba-866dad50ee33", "description": "Malicious code in small-route-assert-compile-interface (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189548"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128788", "enisaUuid": "0d251b40-c752-3336-871a-d2e4010cbd11", "description": "Malicious code in sendgrid-bloodhound (npm)", "datePublished": "2025-06-12T02:04:41", "dateUpdated": "2025-06-18T15:07:35", "baseScore": 0.0, "aliases": ["MAL-2025-5059"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113071", "enisaUuid": "e3747b77-8c70-3cf6-91fb-aedd7c7aa105", "description": "Malicious code in gridsome-geckodriver-envconfig-nebula (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143041"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

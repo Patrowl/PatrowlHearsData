@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176918", "enisaUuid": "3611eb6f-d464-3980-a3d1-7f6b1135a232", "description": "Malicious code in publish-sadr-event-readable (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188957"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

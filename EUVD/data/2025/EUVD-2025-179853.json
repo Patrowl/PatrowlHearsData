@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179853", "enisaUuid": "00f3141c-f42b-34cc-b99f-31d0c94369b9", "description": "Malicious code in cat-compile-analyze-deploy-cloud (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186029"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

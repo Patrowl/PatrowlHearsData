@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176596", "enisaUuid": "28adf387-1a0d-3780-9b6e-ec2a3f86b978", "description": "Malicious code in root-fire-user-hash-static (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189279"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

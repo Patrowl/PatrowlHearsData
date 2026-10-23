@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114826", "enisaUuid": "adb3ab75-60cb-3fe5-972d-a0cc16eb01d0", "description": "Malicious code in csrf-fornax-xanthus-auth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141283"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

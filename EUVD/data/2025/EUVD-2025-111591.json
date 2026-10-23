@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111591", "enisaUuid": "64d893d2-94f7-380d-bcba-f7991410a02c", "description": "Malicious code in loglevel-xenos-norma-winston (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144524"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

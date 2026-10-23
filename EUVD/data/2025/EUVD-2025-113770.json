@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113770", "enisaUuid": "7b9db29c-ef9a-3d60-bcb3-f8629319a046", "description": "Malicious code in exec-fusion-backend-corvus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142340"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

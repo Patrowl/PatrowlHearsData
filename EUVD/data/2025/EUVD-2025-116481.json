@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116481", "enisaUuid": "7db9e24b-3238-3285-bed3-ab33f6e46983", "description": "Malicious code in async-bootstrap-jovian-jasmine (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139621"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

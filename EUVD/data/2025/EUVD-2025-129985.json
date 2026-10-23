@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129985", "enisaUuid": "ffdc9542-e061-3ed1-ae84-287dc09139c4", "description": "Malicious code in redux-saga-task-cancel-rce (npm)", "datePublished": "2025-07-26T11:17:31", "dateUpdated": "2025-07-28T01:58:37", "baseScore": 0.0, "aliases": ["MAL-2025-6258"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123354", "enisaUuid": "968ba9f9-57dd-3828-97c8-f82a80a5f502", "description": "Malicious code in process-selenium-chariklo-sails (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146568"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

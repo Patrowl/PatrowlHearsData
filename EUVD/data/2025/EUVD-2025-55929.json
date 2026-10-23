@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-55929", "enisaUuid": "c107e2cc-f95f-329c-8923-de2df05a7af9", "description": "Malicious code in alert-jade-moth (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-66720"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

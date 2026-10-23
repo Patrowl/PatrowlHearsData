@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193784", "enisaUuid": "daddaea0-400f-3695-9e55-6468cb668d21", "description": "Malicious code in docusaurus-supervisor-eris-axios (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44031"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

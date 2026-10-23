@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177567", "enisaUuid": "5c1136f5-b5f2-3ef0-a804-c70931784c36", "description": "Malicious code in node-sass-commitlint-lynx-public (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188315"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

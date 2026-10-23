@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175541", "enisaUuid": "f89d70a5-158b-30e7-9c0b-861f28f6de85", "description": "Malicious code in winston-leda-mesosphere-umbra (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190335"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

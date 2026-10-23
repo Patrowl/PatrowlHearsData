@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114762", "enisaUuid": "94f4408e-6dd2-35c6-b3fb-ed89d8a4120c", "description": "Malicious code in csv-markdownlint-npm-grus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141347"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

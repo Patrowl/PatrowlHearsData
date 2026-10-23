@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123558", "enisaUuid": "3e50ff8c-0523-389e-8425-1b6afac327e8", "description": "Malicious code in polaris-repository-ignite-configstore (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146363"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126732", "enisaUuid": "3b2663c8-35fe-30b1-82fe-3051dcb394a3", "description": "Malicious code in pyscf-fciqmc (PyPI)", "datePublished": "2025-03-28T13:06:06", "dateUpdated": "2025-03-28T13:06:06", "baseScore": 0.0, "aliases": ["MAL-2025-2991"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

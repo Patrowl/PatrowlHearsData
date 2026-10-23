@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191121", "enisaUuid": "1009510d-757c-3ae3-b049-7c7102a2c19b", "description": "Malicious code in typespec-http-dispatcher (npm)", "datePublished": "2025-08-23T15:00:01", "dateUpdated": "2025-08-25T07:32:50", "baseScore": 0.0, "aliases": ["MAL-2025-41343"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

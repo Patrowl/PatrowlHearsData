@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194511", "enisaUuid": "54cc4023-e281-3d14-85f1-0de55ac92ec5", "description": "Malicious code in janus-selenium-async-sails (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44758"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

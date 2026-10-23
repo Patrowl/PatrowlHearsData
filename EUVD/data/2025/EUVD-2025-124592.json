@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124592", "enisaUuid": "b473f054-719d-3aba-99f6-1190e7ea3f09", "description": "Malicious code in nconf-query-browserify-protractor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145328"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

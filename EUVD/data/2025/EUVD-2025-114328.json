@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114328", "enisaUuid": "d64a7cb0-9316-3788-b90d-2ea7a73c6044", "description": "Malicious code in dotenv-safe-upgrade-neptune-pyxis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141781"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

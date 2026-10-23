@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161504", "enisaUuid": "ec95e9ff-76e8-380f-b86d-68b86d23ccef", "description": "Malicious code in chromedriver-websockets-altair-superagent (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17003"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

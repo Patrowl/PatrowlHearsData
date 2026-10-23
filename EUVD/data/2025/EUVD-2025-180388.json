@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180388", "enisaUuid": "60f6ef5b-f5f4-3890-acb5-58bbe24fa588", "description": "Malicious code in apollo-dotenv-parse-variables-stratigraphy-private (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185500"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

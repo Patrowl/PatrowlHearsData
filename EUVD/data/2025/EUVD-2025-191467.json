@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191467", "enisaUuid": "7f08fec4-7a23-366e-ada6-a2e3b99d45d7", "description": "Malicious code in malicious-pip-package-for-demo (PyPI)", "datePublished": "2025-08-28T07:11:21", "dateUpdated": "2025-08-28T07:11:21", "baseScore": 0.0, "aliases": ["MAL-2025-41700"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182323", "enisaUuid": "f10adeac-eae9-3695-92f1-b1778e9af258", "description": "Malicious code in rubyheap (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32538"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

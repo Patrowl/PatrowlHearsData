@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124841", "enisaUuid": "39c2f60a-c72c-3549-a1fd-fa668a4422ba", "description": "Malicious code in mocha-geckodriver-lint-pino (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145077"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

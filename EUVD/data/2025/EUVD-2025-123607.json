@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123607", "enisaUuid": "d4fd62f1-8e33-3d94-9cf4-90c1e812967f", "description": "Malicious code in pm2-sync-convict-react-bootstrap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146314"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

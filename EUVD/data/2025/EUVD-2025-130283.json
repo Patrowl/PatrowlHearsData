@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130283", "enisaUuid": "2b974098-4938-3e62-aca5-fcfe132e7278", "description": "Malicious code in neptune-cli (PyPI)", "datePublished": "2025-07-31T19:15:53", "dateUpdated": "2025-07-31T19:15:53", "baseScore": 0.0, "aliases": ["MAL-2025-6557"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

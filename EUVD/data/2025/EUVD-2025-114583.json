@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114583", "enisaUuid": "6db6d2e8-df6a-35dc-a4d4-bb47a3d0e617", "description": "Malicious code in delphinus-non-blocking-mysql-module (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141526"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

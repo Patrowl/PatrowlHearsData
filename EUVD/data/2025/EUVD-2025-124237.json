@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124237", "enisaUuid": "24674e05-3df1-33a2-9af5-feb3f0ce0846", "description": "Malicious code in npm-nodejs-umbriel-buffer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145684"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

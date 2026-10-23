@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112304", "enisaUuid": "8b76c590-c9f0-3e5a-bd4b-de8804de29c7", "description": "Malicious code in janus-firebase-mdx-supervisor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143809"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

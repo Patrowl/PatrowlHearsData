@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194883", "enisaUuid": "ea3600db-c57c-31cf-a791-4eedda9c3922", "description": "Malicious code in materialize-superflare-altair-comet (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45130"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124633", "enisaUuid": "fb3b571a-2da2-3f20-ad9d-92578108a14c", "description": "Malicious code in native-backend-dotenv-safe-mongodb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145285"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

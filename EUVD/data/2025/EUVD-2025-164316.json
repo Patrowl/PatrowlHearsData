@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164316", "enisaUuid": "8cfb0875-5bba-3afa-9ce5-873a8692d8c8", "description": "Malicious code in error-iota-file-quick-shell (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19795"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

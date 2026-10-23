@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112784", "enisaUuid": "d4400f52-6d23-398c-a5e8-248e79df4275", "description": "Malicious code in hermes-stop-uglify-js-axios (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143328"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-64634", "enisaUuid": "471b1652-90f9-3fd1-afd2-e8153971b056", "description": "Malicious code in dead_firefly_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-93920"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

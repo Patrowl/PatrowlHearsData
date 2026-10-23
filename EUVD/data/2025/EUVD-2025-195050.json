@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195050", "enisaUuid": "45afc66c-aa18-31f4-bc07-421a555756a6", "description": "Malicious code in neutrino-antares-promise-genomics (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45297"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

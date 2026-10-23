@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122041", "enisaUuid": "a4993759-f19f-3cf1-9d21-317e8bc734aa", "description": "Malicious code in sequelize-transport-wezen-auriga (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147882"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

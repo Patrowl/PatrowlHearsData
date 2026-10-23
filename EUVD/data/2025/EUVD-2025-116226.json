@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116226", "enisaUuid": "fcc81fdd-f608-3fb5-9eac-5f16d7d64e0e", "description": "Malicious code in babel-xml-config-hyperion (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139876"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

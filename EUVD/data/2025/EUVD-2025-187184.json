@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187184", "enisaUuid": "2347be05-3a45-3459-97d9-b270e3a05187", "description": "Malicious code in tssplit (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37264"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

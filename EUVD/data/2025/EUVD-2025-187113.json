@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187113", "enisaUuid": "bb8e6f99-5b7a-38c7-8cfd-1e4a1a470113", "description": "Malicious code in trello.cards (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37184"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

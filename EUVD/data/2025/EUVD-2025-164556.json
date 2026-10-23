@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164556", "enisaUuid": "ec8c31c2-be99-3855-8a2c-bb2e6f86b269", "description": "Malicious code in excel-data-exporter (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20036"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175605", "enisaUuid": "3a3e5292-33e2-382f-b48c-069f7e5dd8ac", "description": "Malicious code in webdriver-mocha-electron-cache-dione (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190271"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

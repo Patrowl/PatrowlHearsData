@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124626", "enisaUuid": "c3db0541-4156-32de-be80-3fb73c482fed", "description": "Malicious code in native-phoenix-antares-publish (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145292"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

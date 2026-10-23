@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175886", "enisaUuid": "db553008-0f71-323f-af9a-0589dc0723ec", "description": "Malicious code in transport-ursa-spinner-pulsar (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189989"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

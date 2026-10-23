@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178310", "enisaUuid": "a4a5b65d-bb34-333c-81f1-a9f8260e17de", "description": "Malicious code in janus-fomalhaut-rate-limiter-fusion (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187572"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

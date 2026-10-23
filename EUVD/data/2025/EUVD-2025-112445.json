@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112445", "enisaUuid": "10cac6ec-c914-373f-955f-40576a71f975", "description": "Malicious code in install-bellatrix-firebase-webpack (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143668"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

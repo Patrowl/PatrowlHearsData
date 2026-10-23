@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122261", "enisaUuid": "c0bac68f-c1ec-3642-b46c-3cb1bb8c9e67", "description": "Malicious code in sass-loader-callback-oauth-sagitta (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147661"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

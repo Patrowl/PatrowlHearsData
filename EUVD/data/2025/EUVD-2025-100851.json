@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-100851", "enisaUuid": "40fa8164-71aa-31c0-bab2-0cac578b7341", "description": "Malicious code in candra-kue73-riris (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-125291"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

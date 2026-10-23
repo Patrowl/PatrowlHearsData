@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131469", "enisaUuid": "a0179a67-fdf5-359b-ae3a-da79b9976c3e", "description": "Malicious code in @digital-wealth-web/cwp-service-setup (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7747"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182716", "enisaUuid": "80694e4b-3653-34d1-88ce-6e78c2317c03", "description": "Malicious code in semantic-ui-mongodb-proxima-lynx (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32931"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

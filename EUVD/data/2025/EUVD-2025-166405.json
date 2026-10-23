@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166405", "enisaUuid": "dc4e0c06-eed7-3e31-9d01-60c8fc3bf3e6", "description": "Malicious code in graphql-neptune-reveal-md-leda (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21887"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

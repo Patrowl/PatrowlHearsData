@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121372", "enisaUuid": "80bfcea7-f219-303c-bbad-50f171360e98", "description": "Malicious code in terser-webpack-plugin-miranda-scripts-less-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148556"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

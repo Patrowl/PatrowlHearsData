@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115315", "enisaUuid": "db6cd378-8891-3b78-a047-538586fc8ace", "description": "Malicious code in cli-dagda-heka-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140793"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

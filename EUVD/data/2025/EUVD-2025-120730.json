@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120730", "enisaUuid": "1ce17f7c-c7ba-3cd1-882a-73a41b7a81e0", "description": "Malicious code in vuepress-rest-firebase-despina (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149199"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

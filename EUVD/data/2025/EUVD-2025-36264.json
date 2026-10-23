@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-36264", "enisaUuid": "30b346f0-38bd-3779-8dfb-bc6555b99f10", "description": "Malicious code in nilepkg2 (npm)", "datePublished": "2025-10-06T21:03:38", "dateUpdated": "2025-10-27T18:09:48", "baseScore": 0.0, "aliases": ["MAL-2025-48382"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

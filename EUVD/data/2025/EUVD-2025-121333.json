@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121333", "enisaUuid": "79926a0a-40c7-337e-a586-310838e4891e", "description": "Malicious code in testcafe-husky-betelgeuse-hermes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148595"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

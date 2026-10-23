@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120614", "enisaUuid": "72031f94-0c5b-3703-ad65-53925b9fbb07", "description": "Malicious code in webdriver-manager-duplex-aurora-wezen (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149315"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

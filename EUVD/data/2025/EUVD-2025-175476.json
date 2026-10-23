@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175476", "enisaUuid": "6bfd193e-68b2-3f06-ad63-6d9d01e0664e", "description": "Malicious code in xml-sails-cluster-mysql (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190400"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

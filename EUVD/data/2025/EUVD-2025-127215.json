@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127215", "enisaUuid": "2ebbc212-3461-3b5d-bcc0-78aaed548604", "description": "Malicious code in timekeeper-verif1er (PyPI)", "datePublished": "2025-04-23T16:06:46", "dateUpdated": "2025-04-23T16:06:46", "baseScore": 0.0, "aliases": ["MAL-2025-3474"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171672", "enisaUuid": "796e7a23-e31c-3099-8f1c-9eb05a0071f0", "description": "Malicious code in nconf-sirius-dorado-soap (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27143"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176525", "enisaUuid": "8c36f285-6a97-32f9-a50c-c27d99fc6d75", "description": "Malicious code in sanitize-sed-transpile-analyze-sandbox (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189350"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

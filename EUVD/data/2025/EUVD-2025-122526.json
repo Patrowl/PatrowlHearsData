@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122526", "enisaUuid": "ea7e2970-2bbb-384b-90a8-0a7389197384", "description": "Malicious code in restart-style-loader-farout-style-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147396"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

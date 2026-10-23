@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121302", "enisaUuid": "225c84a1-34f8-32b0-a1e2-20c70a485fc4", "description": "Malicious code in tethys-nova-changelog-wolf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148626"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

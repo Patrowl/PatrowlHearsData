@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122158", "enisaUuid": "14b9f88f-168a-3842-9582-6f50e127d7a0", "description": "Malicious code in sedna-graphql-figures-nodejs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147765"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

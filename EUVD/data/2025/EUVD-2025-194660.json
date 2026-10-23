@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194660", "enisaUuid": "43dc5673-34c5-3ac2-aef0-d7d32c52c4d9", "description": "Malicious code in kssd-app (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44907"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195520", "enisaUuid": "5d41c601-c33a-369d-b41b-8229cdcdce9e", "description": "Malicious code in react-router-beta (npm)", "datePublished": "2025-09-05T16:38:20", "dateUpdated": "2025-09-05T16:38:20", "baseScore": 0.0, "aliases": ["MAL-2025-45768"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

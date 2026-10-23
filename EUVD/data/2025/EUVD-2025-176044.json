@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176044", "enisaUuid": "fd8f060f-134c-3447-9d46-ef36f5de2de7", "description": "Malicious code in taurus-request-hyperion-subduction (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189831"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

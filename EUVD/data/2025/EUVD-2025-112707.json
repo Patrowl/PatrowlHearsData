@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112707", "enisaUuid": "91799677-fddf-370a-b42f-04e4b173e1a1", "description": "Malicious code in hugo-toml-blitz-dotenv (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143405"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

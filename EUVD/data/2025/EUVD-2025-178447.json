@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178447", "enisaUuid": "1705354c-9992-3299-acd7-1cb344b11fa6", "description": "Malicious code in import-float-omega-user-eta (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187435"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

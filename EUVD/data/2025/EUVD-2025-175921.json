@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175921", "enisaUuid": "53d60c17-a0ad-332a-86f5-d40fa2a7474f", "description": "Malicious code in tool-dependencies-dotenv-library (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189954"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

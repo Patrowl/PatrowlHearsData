@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173670", "enisaUuid": "3db70332-58a1-3c1b-af5c-fe22d0cd32ad", "description": "Malicious code in phoebe-postcss-style-loader-geomorphology (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29141"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

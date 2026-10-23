@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124529", "enisaUuid": "6f383286-7209-3fd5-b9ac-cf0df87a4b43", "description": "Malicious code in nestjs-cressida-pegasus-toml (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145391"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122120", "enisaUuid": "7055e47e-4e10-32b9-ac2b-d04fa7a80df7", "description": "Malicious code in selenium-hapi-graphql-convict (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147803"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

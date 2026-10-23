@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191885", "enisaUuid": "0dcc8918-f38d-3134-b4e3-b950f090b3d7", "description": "Malicious code in azure-functions-templates-build (npm)", "datePublished": "2025-08-28T13:15:53", "dateUpdated": "2025-08-28T13:15:53", "baseScore": 0.0, "aliases": ["MAL-2025-42126"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

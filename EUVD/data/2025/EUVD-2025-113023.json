@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113023", "enisaUuid": "d5058294-1b11-3719-b7a7-35c7e5b4e0eb", "description": "Malicious code in grus-child-process-server-inquirer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143089"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

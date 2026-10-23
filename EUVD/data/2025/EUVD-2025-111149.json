@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111149", "enisaUuid": "6422dc6c-b2d7-3c13-acd8-feb86bd5a6b2", "description": "Malicious code in middleware-upgrade-request-zephyr (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144966"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

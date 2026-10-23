@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113978", "enisaUuid": "c0b4b631-cc91-3f88-91a1-e8c5b2e42f8c", "description": "Malicious code in equinox-restart-webdriverio-got (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142132"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

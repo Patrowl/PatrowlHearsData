@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126744", "enisaUuid": "407a350e-6c9a-398a-8393-54ca9564d07d", "description": "Malicious code in sphinxcontrib-napolean (PyPI)", "datePublished": "2025-03-28T13:06:19", "dateUpdated": "2025-03-28T13:06:19", "baseScore": 0.0, "aliases": ["MAL-2025-3003"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

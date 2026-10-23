@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-81789", "enisaUuid": "2d3f5b22-6c3f-37f5-8f9d-c2f0e0937a61", "description": "Malicious code in global_emu_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-103281"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

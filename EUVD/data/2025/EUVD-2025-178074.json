@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178074", "enisaUuid": "7e95c1b5-bd5e-3c76-a606-c78bb19383ec", "description": "Malicious code in lint-loop-playwright-publish (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187808"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124475", "enisaUuid": "010a7265-13e7-3ce8-a5ca-c54ac6d489b7", "description": "Malicious code in nightmare-run-script-cosmiconfig-non-blocking (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145446"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

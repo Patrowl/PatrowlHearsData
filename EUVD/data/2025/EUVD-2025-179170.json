@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179170", "enisaUuid": "9d2e3f6b-f576-38da-978b-35a4bd0aea56", "description": "Malicious code in element-ui-commitlint-convict-chai (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186712"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

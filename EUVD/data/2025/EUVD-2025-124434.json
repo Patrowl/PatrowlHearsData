@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124434", "enisaUuid": "46ddb920-5d3a-3000-8426-64f04c616e21", "description": "Malicious code in nightwatch-sqlite-frontend-ceres (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145487"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

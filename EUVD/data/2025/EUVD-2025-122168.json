@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122168", "enisaUuid": "e74144e0-16ad-32f1-b549-631e079d5e32", "description": "Malicious code in sedna-cache-toml-async (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147755"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

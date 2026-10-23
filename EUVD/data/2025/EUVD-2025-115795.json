@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115795", "enisaUuid": "7817e8f6-6f59-3a33-a40e-64ccee669edb", "description": "Malicious code in callback-request-subscription-titan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140311"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

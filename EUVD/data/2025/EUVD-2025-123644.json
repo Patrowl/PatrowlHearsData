@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123644", "enisaUuid": "a680fb0c-5971-3ae5-bcbe-fd2390fc2911", "description": "Malicious code in playwright-cors-bulma-mensa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146277"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

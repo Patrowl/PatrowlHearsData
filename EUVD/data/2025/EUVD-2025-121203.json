@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121203", "enisaUuid": "5094ba6c-fac2-3ec2-9712-c4329b7d78f4", "description": "Malicious code in toml-version-docusaurus-enif (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148725"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

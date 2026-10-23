@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113680", "enisaUuid": "cb823e7d-60b4-38a0-920e-d758cf70c52a", "description": "Malicious code in fetch-adonis-less-loader-figures (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142431"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

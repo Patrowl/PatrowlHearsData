@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114534", "enisaUuid": "2f7206c6-49d1-320e-878a-efbfb63eb34e", "description": "Malicious code in dependencies-mongoose-markdownlint-global (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141575"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

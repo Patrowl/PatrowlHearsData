@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197528", "enisaUuid": "669db0ce-8fe0-3855-b5c9-78ad017218a5", "description": "Malicious code in http-message-signatures-extension (npm)", "datePublished": "2025-10-23T19:35:24", "dateUpdated": "2025-10-23T19:35:24", "baseScore": 0.0, "aliases": ["MAL-2025-48843"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

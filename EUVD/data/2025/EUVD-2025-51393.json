@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-51393", "enisaUuid": "25a5bb2d-9f9b-3205-bc21-1afa5ea959c8", "description": "Malicious code in underlying-bronze-camel (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-71256"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

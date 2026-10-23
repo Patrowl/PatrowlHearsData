@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121221", "enisaUuid": "807cc66c-5481-3cf4-815f-d4ffd38f84e6", "description": "Malicious code in toml-cross-env-private-ini (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148707"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124392", "enisaUuid": "d61044fe-6141-3430-b3bc-0346ed331b18", "description": "Malicious code in node-sass-callisto-html-webpack-plugin-vulcan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145529"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

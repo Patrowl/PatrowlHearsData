@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120594", "enisaUuid": "5267e788-60ef-3718-b793-31944d56410a", "description": "Malicious code in webdriver-manager-standard-rest-ini (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149335"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

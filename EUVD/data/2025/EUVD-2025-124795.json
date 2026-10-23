@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124795", "enisaUuid": "1c90b3aa-e862-3272-8848-233c6d72fe4c", "description": "Malicious code in mongodb-cz-conventional-changelog-mensa-cors (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145123"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

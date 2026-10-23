@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179350", "enisaUuid": "f8cbaaf8-04fe-35c9-9d57-36f2c3fd16b8", "description": "Malicious code in delphinus-xml-acamar-json (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186532"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

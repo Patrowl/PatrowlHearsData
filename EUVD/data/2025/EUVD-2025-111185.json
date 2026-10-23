@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111185", "enisaUuid": "0a98cb7c-1859-3186-822d-f3eeb9ac4930", "description": "Malicious code in meteor-registry-html-webpack-plugin-gravity (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144930"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

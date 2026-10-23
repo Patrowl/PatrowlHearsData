@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122886", "enisaUuid": "a7bc13a7-b526-3764-b751-f05c9ad5a44a", "description": "Malicious code in rate-limiter-draco-hyperion-procyon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147036"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

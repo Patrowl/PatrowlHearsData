@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167831", "enisaUuid": "f401f738-2f5c-35f4-b213-995a91fb8ac0", "description": "Malicious code in ionosphere-cryptography-quasar-radioastronomy (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23313"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

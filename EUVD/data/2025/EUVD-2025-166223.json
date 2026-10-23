@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166223", "enisaUuid": "edacf34a-5f14-3d07-85b6-0e4f1d77e0b8", "description": "Malicious code in google-chart (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21704"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

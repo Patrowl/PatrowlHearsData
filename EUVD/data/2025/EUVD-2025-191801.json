@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191801", "enisaUuid": "dd91db5f-5855-38b4-b4a1-01fb3881b2c2", "description": "Malicious code in node-log-config (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-42036"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

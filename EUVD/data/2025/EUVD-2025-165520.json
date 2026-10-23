@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165520", "enisaUuid": "3eea38f6-4de6-3862-85dc-cfeb8182699b", "description": "Malicious code in frugile-s3 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21001"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

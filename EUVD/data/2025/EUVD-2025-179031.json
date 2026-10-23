@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179031", "enisaUuid": "4182f2af-8f24-3d82-80cd-76006802f270", "description": "Malicious code in eslint-postcss-loader-pm2-cressida (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186851"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

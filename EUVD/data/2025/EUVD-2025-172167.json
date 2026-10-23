@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172167", "enisaUuid": "d6fa449b-8d4b-3a1e-aaf6-6610cf006f91", "description": "Malicious code in node-pipeline-ec2 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27638"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

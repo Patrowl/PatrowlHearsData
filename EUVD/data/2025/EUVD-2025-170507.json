@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170507", "enisaUuid": "0d6388cb-34c2-3528-9abf-ca6113b9a882", "description": "Malicious code in marvin-nodejs-sdk (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25978"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122891", "enisaUuid": "628654e0-3c92-393c-ac02-8c962822cf9d", "description": "Malicious code in rate-limiter-bulma-enif-leda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147031"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

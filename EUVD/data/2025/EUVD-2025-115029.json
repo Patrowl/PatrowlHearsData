@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115029", "enisaUuid": "9e98487b-c9a9-323b-9ab1-c5e66e207e21", "description": "Malicious code in convict-mocha-castor-proxima (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141080"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

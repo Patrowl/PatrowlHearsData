@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181946", "enisaUuid": "916d72ce-c413-3b8e-87d5-c1b51539c094", "description": "Malicious code in resttask (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32161"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

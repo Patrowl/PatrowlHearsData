@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179058", "enisaUuid": "6a0cdc30-6e97-32cb-a7ef-556a073f9a27", "description": "Malicious code in error-bash-monitor-stack-decode (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186824"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

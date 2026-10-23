@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177101", "enisaUuid": "be403c86-c7ef-3d8e-a7ef-d2649c2af15a", "description": "Malicious code in postcss-babel-centauri-orbit (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188774"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

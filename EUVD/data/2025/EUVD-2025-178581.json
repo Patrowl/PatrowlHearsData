@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178581", "enisaUuid": "41d852ad-1427-33c1-a510-fc60a2caf27e", "description": "Malicious code in heka-bootstrap-javascript-loopback (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187301"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

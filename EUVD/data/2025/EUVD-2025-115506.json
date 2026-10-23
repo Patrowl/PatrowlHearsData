@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115506", "enisaUuid": "3697bea9-3b44-35e9-ac91-3293c54b9011", "description": "Malicious code in chai-postgres-spica-odin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140601"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

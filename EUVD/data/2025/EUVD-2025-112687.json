@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112687", "enisaUuid": "44e208db-bcf3-37ee-9e94-f308bb53b4e4", "description": "Malicious code in husky-pyxis-browserify-ganymede (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143425"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

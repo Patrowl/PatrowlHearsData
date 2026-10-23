@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111789", "enisaUuid": "d6792c97-7bac-3f5b-bb0f-dba1bd545559", "description": "Malicious code in less-loader-lint-staged-csv-local (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144324"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

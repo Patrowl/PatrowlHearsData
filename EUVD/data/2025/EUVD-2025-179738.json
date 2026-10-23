@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179738", "enisaUuid": "6f95fcaf-0d49-350e-ad1d-19b810f560dc", "description": "Malicious code in child-process-eridanus-cypress-zephyr (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186144"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

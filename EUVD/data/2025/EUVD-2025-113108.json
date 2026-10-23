@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113108", "enisaUuid": "7c118f53-1a0c-3099-9d50-12820dc87f4b", "description": "Malicious code in graphql-javascript-sedna-weywot (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143004"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

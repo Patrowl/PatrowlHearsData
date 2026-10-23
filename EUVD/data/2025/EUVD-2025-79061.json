@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-79061", "enisaUuid": "64e66d01-9d3a-36db-87f2-685dbee46df3", "description": "Malicious code in implicit_bat_z3n (npm)", "datePublished": "2025-11-11T07:31:13", "dateUpdated": "2025-11-11T07:31:13", "baseScore": 0.0, "aliases": ["MAL-2025-103989"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

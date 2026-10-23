@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-52764", "enisaUuid": "b831d4f9-064c-3e0a-811f-6507aba95165", "description": "Malicious code in petite-magenta-pinniped (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-69885"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

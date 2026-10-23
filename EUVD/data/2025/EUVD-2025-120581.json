@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120581", "enisaUuid": "c4a1e3d6-279d-32a6-a300-26c668b60377", "description": "Malicious code in webdriver-mocha-geckodriver-alphard-spica (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149348"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

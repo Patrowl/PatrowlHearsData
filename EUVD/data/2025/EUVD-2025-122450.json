@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122450", "enisaUuid": "c4abacb1-b869-3aaa-99d7-78ae9570c49b", "description": "Malicious code in rocket-koa-query-loop (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147472"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

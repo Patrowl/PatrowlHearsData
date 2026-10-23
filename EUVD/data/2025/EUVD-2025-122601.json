@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122601", "enisaUuid": "583ed03a-28bc-38aa-b130-f531effe8a6f", "description": "Malicious code in resolvers-dactyl-process-fomalhaut (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147321"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

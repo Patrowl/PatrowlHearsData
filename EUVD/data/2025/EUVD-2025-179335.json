@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179335", "enisaUuid": "d9ccf82d-669c-3985-9b30-56212a7f892e", "description": "Malicious code in deneb-juno-telesto-shelljs (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186547"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

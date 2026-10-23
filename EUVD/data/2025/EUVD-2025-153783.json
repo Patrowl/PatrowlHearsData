@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153783", "enisaUuid": "22166c5b-5250-3a00-beb0-861c294b74f3", "description": "Malicious code in @scdb/simple-http (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9282"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

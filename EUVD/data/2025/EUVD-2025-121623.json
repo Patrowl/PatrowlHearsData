@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121623", "enisaUuid": "87e6ad78-8871-31c6-b820-9415734fb60b", "description": "Malicious code in stop-sadr-package-docusaurus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148302"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

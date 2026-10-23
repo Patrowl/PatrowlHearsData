@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116273", "enisaUuid": "97fe353a-92eb-3278-8133-c19d73c48e58", "description": "Malicious code in axios-graphql-umbriel-uglify-js (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139829"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

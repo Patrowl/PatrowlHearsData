@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116159", "enisaUuid": "a4a4a0cb-be14-3f41-80df-d6aa6ebcf15d", "description": "Malicious code in bellatrix-luna-markdownlint-oberon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139943"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

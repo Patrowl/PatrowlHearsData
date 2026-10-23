@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125697", "enisaUuid": "1a94b45f-276a-366b-a2c9-5213cfff2eee", "description": "Malicious code in vuepress-plugin-test-analytics (npm)", "datePublished": "2025-03-03T13:43:21", "dateUpdated": "2025-03-03T13:43:21", "baseScore": 0.0, "aliases": ["MAL-2025-1955"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

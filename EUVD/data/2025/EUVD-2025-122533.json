@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122533", "enisaUuid": "8b6a7456-91c0-3b3a-ae37-c93da89af261", "description": "Malicious code in restart-procyon-apollo-playwright (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147389"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

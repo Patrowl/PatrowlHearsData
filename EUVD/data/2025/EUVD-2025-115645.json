@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115645", "enisaUuid": "670f5be8-dc67-33b2-baa7-5545d7c2b10e", "description": "Malicious code in cassini-cors-postgres-antares (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140462"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

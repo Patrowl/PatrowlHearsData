@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120731", "enisaUuid": "faf09f0c-0da2-3622-b3c4-7f7682af42d5", "description": "Malicious code in vuepress-query-private-antares (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149198"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

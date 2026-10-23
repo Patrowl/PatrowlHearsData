@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111736", "enisaUuid": "785c1b1e-a383-3634-ae6e-75a9b196baa2", "description": "Malicious code in library-init-flare-pm2 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144377"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

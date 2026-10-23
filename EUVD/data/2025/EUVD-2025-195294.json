@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195294", "enisaUuid": "acd634cb-52b7-3471-a03d-8cfe536f980a", "description": "Malicious code in perseus-postgres-jwt-config (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45542"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197346", "enisaUuid": "256a5de5-a116-379e-9326-18056e25eccd", "description": "Malicious code in cdc-apache-cassandra (npm)", "datePublished": "2025-10-26T19:03:27", "dateUpdated": "2025-10-26T19:03:27", "baseScore": 0.0, "aliases": ["MAL-2025-48616"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191819", "enisaUuid": "0ca26743-2439-31a4-8ac1-ec79cd123e81", "description": "Malicious code in proc-log-error (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-42058"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

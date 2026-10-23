@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122678", "enisaUuid": "d94a3bd2-0f1c-3fe4-b7ee-ef64a029cc81", "description": "Malicious code in remark-dotenv-safe-betelgeuse-testcafe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147244"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

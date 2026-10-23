@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-53126", "enisaUuid": "df1bfc11-324d-3730-b305-554ee203e1e0", "description": "Malicious code in naked-gold-canid (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-69523"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

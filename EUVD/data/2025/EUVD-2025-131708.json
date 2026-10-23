@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131708", "enisaUuid": "644c4f88-ae4f-36cf-ab3c-429eb85bae36", "description": "Malicious code in @gs-ux-uitoolkit-angular/d3-chart (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7986"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

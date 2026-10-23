@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115147", "enisaUuid": "25ef7306-529b-3872-9c43-02a16802069d", "description": "Malicious code in commitlint-config-angular-dactyl-tailwindcss-npm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140961"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

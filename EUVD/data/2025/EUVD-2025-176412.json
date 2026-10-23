@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176412", "enisaUuid": "d5f2ae73-d831-303c-bcd0-1d9bdd30f902", "description": "Malicious code in server-nebula-cosmiconfig-umbra (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189463"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

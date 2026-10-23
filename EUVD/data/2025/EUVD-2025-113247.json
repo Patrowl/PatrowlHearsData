@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113247", "enisaUuid": "5cbcc73d-4701-3d47-a0e5-1586fafbdc38", "description": "Malicious code in geckodriver-hexo-node-config-element-ui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142865"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

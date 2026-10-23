@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114408", "enisaUuid": "a762c58a-6c0a-3a8b-984a-93a1faa0aefa", "description": "Malicious code in dotenv-avior-native-blitz (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141701"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

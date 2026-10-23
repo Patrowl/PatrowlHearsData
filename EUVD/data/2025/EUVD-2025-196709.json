@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196709", "enisaUuid": "955c5239-6fb9-34c5-bca2-4772b300f257", "description": "Malicious code in monolith-twirp-pipelinemonitor-monitoring (RubyGems)", "datePublished": "2025-09-01T09:53:14", "dateUpdated": "2025-09-01T09:53:14", "baseScore": 0.0, "aliases": ["MAL-2025-46957"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

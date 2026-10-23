@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113479", "enisaUuid": "c0230dd1-42f5-33d0-8272-11260c202029", "description": "Malicious code in fornax-loopback-npm-wolf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142633"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

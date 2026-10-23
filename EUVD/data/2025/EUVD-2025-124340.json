@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124340", "enisaUuid": "edabc8a9-5c3e-3f24-b3c8-cac1078fba9e", "description": "Malicious code in nodemon-geckodriver-mongodb-uglify-js (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145581"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123666", "enisaUuid": "062c6b00-3c14-3210-8a71-894ae012ad73", "description": "Malicious code in pino-venus-markdownlint-express (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146255"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

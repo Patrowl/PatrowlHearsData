@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122858", "enisaUuid": "0e95e5ed-cef8-3751-b140-852d8213aa55", "description": "Malicious code in react-bootstrap-loopback-acamar-csrf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147064"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177941", "enisaUuid": "120e348f-262f-34cb-af31-acdcc647a338", "description": "Malicious code in materialize-docusaurus-oauth-centaurus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187941"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

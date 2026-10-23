@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161820", "enisaUuid": "4d3e372d-ea6a-3f26-89e1-4e45e1d789f1", "description": "Malicious code in com.microsoft.altspacevr_uploader (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17321"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

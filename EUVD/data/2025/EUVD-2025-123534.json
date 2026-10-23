@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123534", "enisaUuid": "92ff4f17-ee5d-3369-8e2d-2c9a527d0456", "description": "Malicious code in postcss-eslint-semantic-ui-metalsmith (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146387"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

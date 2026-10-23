@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123300", "enisaUuid": "93516de3-181f-3699-bc0b-3e1f685bf93b", "description": "Malicious code in procyon-update-nestjs-tailwindcss (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146622"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

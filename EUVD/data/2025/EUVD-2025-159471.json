@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159471", "enisaUuid": "d661fb9f-d9a3-33c8-9be1-247e9d53f954", "description": "Malicious code in astro-postgres-init-oauth (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14970"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

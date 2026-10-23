@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121311", "enisaUuid": "2f13dd36-8d97-33a3-bd17-f429a9d79ea5", "description": "Malicious code in tethys-enif-nconf-telesto (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148617"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

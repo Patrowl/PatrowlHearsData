@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166531", "enisaUuid": "3c9ce8f2-f076-37b0-a4f5-ec0ffb5e19d7", "description": "Malicious code in gsf.document-list (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22013"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

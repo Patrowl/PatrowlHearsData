@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176584", "enisaUuid": "4cabbf3b-2a23-3b0e-b91a-21088b87e600", "description": "Malicious code in run-script-koa-json-cli (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189291"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122855", "enisaUuid": "710a6516-7e2a-3b98-908e-da35ee8ad31f", "description": "Malicious code in react-bootstrap-mongodb-phenomic-google (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147067"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

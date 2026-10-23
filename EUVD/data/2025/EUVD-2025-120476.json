@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120476", "enisaUuid": "20b8c1f1-7b96-3389-89ca-9493eee375f5", "description": "Malicious code in wezen-electron-scripts-blaze (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149454"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

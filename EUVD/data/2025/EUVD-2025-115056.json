@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115056", "enisaUuid": "05da850f-0b0e-3134-b554-938545661fbc", "description": "Malicious code in configstore-gacrux-centauri-cassini (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141053"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

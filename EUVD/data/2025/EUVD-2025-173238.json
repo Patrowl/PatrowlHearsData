@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173238", "enisaUuid": "cf6a1c75-b628-3e5a-a727-fed523dba0e1", "description": "Malicious code in panspermia-toml-await-protractor (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28709"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

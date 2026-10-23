@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170697", "enisaUuid": "468ff7a9-808f-3edf-b214-04594fc8c71c", "description": "Malicious code in melkikh-dependency-confusion-test (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26168"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

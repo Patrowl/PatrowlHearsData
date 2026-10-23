@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188343", "enisaUuid": "d40402a6-35fb-3301-99be-7a540b1c8331", "description": "Malicious code in void-rho-load-double-benchmark (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38555"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

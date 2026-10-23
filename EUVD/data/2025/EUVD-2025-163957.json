@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163957", "enisaUuid": "13414e65-992e-3201-84cf-37321f65e138", "description": "Malicious code in element-ui-changelog-winston-nodemon (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19486"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

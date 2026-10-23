@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124251", "enisaUuid": "d4635c21-987b-395d-8476-11ed719850bc", "description": "Malicious code in nova-umbriel-axios-ganymede (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145670"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

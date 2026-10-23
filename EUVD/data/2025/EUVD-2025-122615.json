@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122615", "enisaUuid": "7becfd07-0901-3bea-9ed7-5b22d125e234", "description": "Malicious code in request-readable-radiant-forever (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147307"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

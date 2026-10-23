@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189464", "enisaUuid": "6c4e624b-a258-3be6-af89-efdaefb66914", "description": "Malicious code in xenon-yaml-pm2-saturnology (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39678"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

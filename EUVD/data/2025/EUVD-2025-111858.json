@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111858", "enisaUuid": "65240551-2446-3ab4-803d-4b2281b5ed7f", "description": "Malicious code in leda-acamar-sequelize-sass-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144255"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171173", "enisaUuid": "18a2babd-2b70-3ab6-92fa-d4465d8bc30c", "description": "Malicious code in mongoose.js (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26644"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

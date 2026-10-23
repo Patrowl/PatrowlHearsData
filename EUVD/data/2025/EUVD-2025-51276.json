@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-51276", "enisaUuid": "3e1c9405-4acc-3bcf-9a0b-ffbca43e5909", "description": "Malicious code in useful-azure-pinniped (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-71373"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

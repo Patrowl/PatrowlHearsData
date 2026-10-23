@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197349", "enisaUuid": "1843f1bd-7ec7-34fc-8462-8f3a850f3a2c", "description": "Malicious code in datadog-eventhub-forwarder (npm)", "datePublished": "2025-10-23T16:17:30", "dateUpdated": "2025-10-23T16:17:30", "baseScore": 0.0, "aliases": ["MAL-2025-48623"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162163", "enisaUuid": "710fa0e7-3a3d-3742-a4f0-64db1af29390", "description": "Malicious code in create-release-hash (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17664"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

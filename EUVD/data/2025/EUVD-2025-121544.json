@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121544", "enisaUuid": "96f5e0ab-efca-3b91-bb7b-013db2cb7b4e", "description": "Malicious code in superagent-hydra-algol-request (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148382"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

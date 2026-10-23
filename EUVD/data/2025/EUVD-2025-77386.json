@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77386", "enisaUuid": "53691c71-7569-3e28-b6cf-0c9b5601a5f5", "description": "Malicious code in capable_goose-silentdev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-100257"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

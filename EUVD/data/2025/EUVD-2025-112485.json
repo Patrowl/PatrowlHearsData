@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112485", "enisaUuid": "aff44d38-84d1-31e9-ac5d-d4247f0c80ab", "description": "Malicious code in init-ora-cypress-sails (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143628"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

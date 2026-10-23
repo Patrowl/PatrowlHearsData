@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123334", "enisaUuid": "14f9a043-0983-3cd6-a2fe-720c0c1baa9f", "description": "Malicious code in procyon-electron-private-public (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146588"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

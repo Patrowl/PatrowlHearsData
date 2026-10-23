@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123519", "enisaUuid": "b6fe08d5-95dd-34fd-855b-7b4e97194b3e", "description": "Malicious code in postcss-loader-nightwatch-hugo-tethys (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146402"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

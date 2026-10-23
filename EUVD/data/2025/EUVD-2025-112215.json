@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112215", "enisaUuid": "b1805e46-d6b8-37d2-9619-7452e4824ea1", "description": "Malicious code in jekyll-aurora-superagent-terser-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143898"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

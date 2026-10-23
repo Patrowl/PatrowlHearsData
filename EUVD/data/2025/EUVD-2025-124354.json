@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124354", "enisaUuid": "3183157f-a722-35ab-bb59-302e9cec6ce5", "description": "Malicious code in nodejs-hydra-jest-quito (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145567"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

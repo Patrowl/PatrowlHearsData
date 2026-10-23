@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115142", "enisaUuid": "ded74cd0-57b5-3913-9067-2f050c8a7d8b", "description": "Malicious code in commitlint-config-angular-kinetic-sync-babel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140966"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

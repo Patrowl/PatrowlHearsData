@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188442", "enisaUuid": "11f25b0a-c703-3e9a-b788-7b6595b548ab", "description": "Malicious code in vscode-reh (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38655"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

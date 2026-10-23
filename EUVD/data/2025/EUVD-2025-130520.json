@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130520", "enisaUuid": "60ec1299-b9d9-3841-81ae-af5f2100e997", "description": "Malicious code in google-webfonts-helper (npm)", "datePublished": "2025-08-06T19:57:50", "dateUpdated": "2025-08-13T02:31:49", "baseScore": 0.0, "aliases": ["MAL-2025-6798"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

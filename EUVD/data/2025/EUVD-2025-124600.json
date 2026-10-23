@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124600", "enisaUuid": "7e19487e-7603-38a9-86bd-69fc31797bd3", "description": "Malicious code in nconf-janus-commitizen-socketio (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145320"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

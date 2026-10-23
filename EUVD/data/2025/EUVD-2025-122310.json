@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122310", "enisaUuid": "39770c96-1c6f-36a4-8ad1-8d195a9db651", "description": "Malicious code in sagitta-publish-npm-foundation (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147612"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

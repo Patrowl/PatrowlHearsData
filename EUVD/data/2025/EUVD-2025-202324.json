@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-202324", "enisaUuid": "014d23c3-6d67-3995-a43f-a0c094b01846", "description": "Malicious code in libxmlussr2 (npm)", "datePublished": "2025-12-09T20:25:55", "dateUpdated": "2025-12-10T21:09:38", "baseScore": 0.0, "aliases": ["MAL-2025-192394"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

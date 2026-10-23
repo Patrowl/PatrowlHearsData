@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112756", "enisaUuid": "269dcd28-c7c1-39c8-b714-20e0ab04562a", "description": "Malicious code in html-webpack-plugin-astro-blitz-procyon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143356"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178391", "enisaUuid": "f39922eb-f72c-3fb5-b669-35723198f7e7", "description": "Malicious code in inquirer-stream-metabolomics-uninstall (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187491"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

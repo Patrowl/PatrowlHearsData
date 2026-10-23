@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189665", "enisaUuid": "b2d6a411-e092-3a70-801f-5c029179aef7", "description": "Malicious code in xml-sandbox-container-process-long (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39879"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

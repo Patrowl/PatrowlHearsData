@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200045", "enisaUuid": "e1a9e089-1c7d-3368-8059-c0f302508dcb", "description": "Malicious code in render-stage (npm)", "datePublished": "2025-12-01T16:16:28", "dateUpdated": "2025-12-01T16:16:28", "baseScore": 0.0, "aliases": ["MAL-2025-191524"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123373", "enisaUuid": "92107e2c-abcd-3756-9bb1-ea776c7730b8", "description": "Malicious code in process-enif-event-juno (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146549"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

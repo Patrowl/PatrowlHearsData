@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197311", "enisaUuid": "722d2540-74fc-3935-942f-10b2299efa8e", "description": "Malicious code in @taskrabbit/meadow-web (npm)", "datePublished": "2025-10-17T03:28:23", "dateUpdated": "2025-10-17T03:28:23", "baseScore": 0.0, "aliases": ["MAL-2025-48472"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

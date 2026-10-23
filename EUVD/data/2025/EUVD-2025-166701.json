@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166701", "enisaUuid": "6ab0ca8a-8858-3063-9893-441532e62dd0", "description": "Malicious code in hapi-node-avro-io (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22183"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

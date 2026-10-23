@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123556", "enisaUuid": "78821c78-96f1-3d8a-8129-4baf5a7b86d6", "description": "Malicious code in polaris-scripts-local-grunt (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146365"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

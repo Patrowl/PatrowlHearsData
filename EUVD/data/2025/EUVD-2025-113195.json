@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113195", "enisaUuid": "20de4628-c7ac-3dce-a04a-ce84fe21170e", "description": "Malicious code in gemini-sedna-postgres-proxima (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142917"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

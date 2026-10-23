@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176454", "enisaUuid": "63cda3ca-1429-3ad5-9dbd-095473085ab3", "description": "Malicious code in sedna-telesto-webpack-public (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189421"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

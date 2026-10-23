@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111646", "enisaUuid": "62ea0a56-96b7-3abe-b185-cdb81a31f079", "description": "Malicious code in lint-staged-terser-chakra-ui-node-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144468"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

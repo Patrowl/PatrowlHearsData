@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124522", "enisaUuid": "f98f20c2-7216-3d0b-ab17-dcb7b1341a54", "description": "Malicious code in nestjs-local-less-titan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145398"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

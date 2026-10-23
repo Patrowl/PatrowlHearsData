@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183571", "enisaUuid": "a61f9355-dd00-3df6-b688-83a8e7341409", "description": "Malicious code in spocktest (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33786"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

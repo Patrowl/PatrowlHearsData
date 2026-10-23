@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167373", "enisaUuid": "308be3e0-7cad-3de8-9376-c7511f494220", "description": "Malicious code in hyperion-element-ui-google-link (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22855"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

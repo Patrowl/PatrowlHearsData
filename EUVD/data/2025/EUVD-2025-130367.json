@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130367", "enisaUuid": "41a13662-7249-3e16-99f0-53f6cc932559", "description": "Malicious code in nodemailer-utils (npm)", "datePublished": "2025-07-31T19:36:14", "dateUpdated": "2025-07-31T19:36:14", "baseScore": 0.0, "aliases": ["MAL-2025-6642"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

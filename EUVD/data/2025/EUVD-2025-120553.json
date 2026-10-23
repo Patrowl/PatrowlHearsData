@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120553", "enisaUuid": "149d8e45-88fe-32c7-931e-dd67e870dcfc", "description": "Malicious code in webdriverio-metalsmith-foundation-arcturus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149376"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

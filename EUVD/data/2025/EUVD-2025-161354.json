@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161354", "enisaUuid": "6c240a51-1f35-3857-a466-2f20bb9399a3", "description": "Malicious code in charon-blitz-socketio-nightwatch (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16853"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

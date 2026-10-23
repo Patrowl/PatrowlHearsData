@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-158570", "enisaUuid": "0c2c4b19-531b-3093-94a3-af82a3cb9bc9", "description": "Malicious code in airbnb-hermes-redis-umbriel (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14191"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

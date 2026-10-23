@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120774", "enisaUuid": "f747a25d-07a8-3b29-b11d-a94f666dda01", "description": "Malicious code in virgo-gacrux-geckodriver-hapi (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149155"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

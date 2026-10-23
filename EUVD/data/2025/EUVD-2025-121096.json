@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121096", "enisaUuid": "6770cc70-1aa4-3871-9c8f-1cd2be6b5332", "description": "Malicious code in triton-webdriverio-hyperion-capella (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148832"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

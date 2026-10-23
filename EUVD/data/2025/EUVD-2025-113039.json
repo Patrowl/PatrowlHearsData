@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113039", "enisaUuid": "f8ad039f-c70e-368e-ad5b-5ea024edd621", "description": "Malicious code in grunt-quito-postcss-loader-koa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143073"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

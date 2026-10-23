@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-53588", "enisaUuid": "e03e671d-c7b6-3454-b253-9a2d11b04b1c", "description": "Malicious code in large-fuchsia-wasp (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-69061"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

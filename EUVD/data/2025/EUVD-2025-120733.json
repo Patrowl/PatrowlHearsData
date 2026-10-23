@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120733", "enisaUuid": "e49153a1-f9f7-342f-bd14-e36c6fc09ced", "description": "Malicious code in vuepress-miranda-restart-cypress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149196"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

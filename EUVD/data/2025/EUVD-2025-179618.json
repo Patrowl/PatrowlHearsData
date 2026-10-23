@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179618", "enisaUuid": "0c4de45f-9b76-3112-b51b-c15b386dfa5f", "description": "Malicious code in compress-water-cluster-slow-cat (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186264"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

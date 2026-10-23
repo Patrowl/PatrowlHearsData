@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113725", "enisaUuid": "5f6e9c40-b53d-3289-8cc1-bed10bff3eaa", "description": "Malicious code in express-mira-miranda-delphinus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142385"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

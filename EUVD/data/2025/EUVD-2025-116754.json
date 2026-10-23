@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116754", "enisaUuid": "1e66a47a-1ad2-3f4c-ae4f-4c4abb352eb7", "description": "Malicious code in altair-chai-transform-graphql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139348"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

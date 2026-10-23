@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121561", "enisaUuid": "769d465e-4d97-36a2-a544-091694de5800", "description": "Malicious code in subscription-playwright-mui-package (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148365"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

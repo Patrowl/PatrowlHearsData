@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123875", "enisaUuid": "5def18f9-195e-36e7-8acf-440944f2b7e8", "description": "Malicious code in pegasus-publish-mongoose-dotenv (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146046"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

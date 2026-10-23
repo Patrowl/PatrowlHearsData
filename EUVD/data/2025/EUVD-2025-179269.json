@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179269", "enisaUuid": "5dfc8a9c-63bf-37d9-95cb-6d700268c410", "description": "Malicious code in dotenv-metalsmith-proxima-heliophysics (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186613"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

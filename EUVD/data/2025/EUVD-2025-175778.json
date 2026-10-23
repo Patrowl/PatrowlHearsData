@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175778", "enisaUuid": "c190a962-774d-3dcc-a95d-2f182621fcca", "description": "Malicious code in upsilon-socket-cluster-static-eta (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190097"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

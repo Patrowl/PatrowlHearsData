@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111732", "enisaUuid": "eb377493-28c5-3fdb-b14c-2c77b84b0cf2", "description": "Malicious code in library-nconf-writable-odin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144381"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159468", "enisaUuid": "08538bdf-9818-3fe5-a37d-364eb87c692e", "description": "Malicious code in astro-cache-ablation-css-loader (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14967"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

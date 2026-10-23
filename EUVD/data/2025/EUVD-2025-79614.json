@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-79614", "enisaUuid": "226c8272-f08d-32b1-84b1-b26eda318fdc", "description": "Malicious code in cold_panther_z3n (npm)", "datePublished": "2025-11-11T07:31:13", "dateUpdated": "2025-11-11T07:31:13", "baseScore": 0.0, "aliases": ["MAL-2025-100651"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76055", "enisaUuid": "151fb290-cc7e-3ae8-9bb4-d3296b1d8de9", "description": "Malicious code in passing_newt-tool (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-106929"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

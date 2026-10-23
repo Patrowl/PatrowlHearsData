@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124608", "enisaUuid": "6c79dbb7-709f-394d-86ae-9b6a1746e4a8", "description": "Malicious code in nconf-electron-commitizen-pegasus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145312"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

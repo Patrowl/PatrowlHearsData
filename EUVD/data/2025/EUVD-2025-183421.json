@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183421", "enisaUuid": "4598b2f1-e4ff-3310-976e-420558b76e25", "description": "Malicious code in solhint-rules (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33636"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

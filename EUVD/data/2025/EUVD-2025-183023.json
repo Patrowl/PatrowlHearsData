@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183023", "enisaUuid": "44ed2670-189f-3eb9-988b-a342b2eabac1", "description": "Malicious code in signinrpi (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33238"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

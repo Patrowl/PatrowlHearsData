@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122666", "enisaUuid": "cc0a99d7-41d9-3550-8951-cd56fc6c9eaa", "description": "Malicious code in remark-shelljs-phoenix-sedna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147256"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

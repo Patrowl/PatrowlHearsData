@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177298", "enisaUuid": "725aecc6-8bf4-3248-8c9d-52a5de5c34cb", "description": "Malicious code in passport-wasat-javascript-link (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188584"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

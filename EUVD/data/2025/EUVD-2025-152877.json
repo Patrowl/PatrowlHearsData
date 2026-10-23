@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-152877", "enisaUuid": "d6b37f50-243c-3f5f-971c-cd76b666f472", "description": "Malicious code in @leaffm/leaf-connect-asda (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-8376"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

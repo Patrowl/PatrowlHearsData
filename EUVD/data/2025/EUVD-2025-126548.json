@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126548", "enisaUuid": "27ef7182-592c-3216-902e-29650c6def04", "description": "Malicious code in @sas-dvr/nova-graph (npm)", "datePublished": "2025-03-31T04:50:58", "dateUpdated": "2025-04-28T05:47:09", "baseScore": 0.0, "aliases": ["MAL-2025-2807"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

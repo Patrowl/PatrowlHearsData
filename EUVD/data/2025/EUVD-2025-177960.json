@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177960", "enisaUuid": "9020d43a-88bc-3403-95c3-d00a59f42dce", "description": "Malicious code in markdown-cors-janus-dotenv-parse-variables (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187922"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

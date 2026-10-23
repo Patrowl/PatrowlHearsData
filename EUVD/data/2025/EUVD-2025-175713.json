@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175713", "enisaUuid": "f62d48b9-bf86-3ce7-a8bb-403716e35901", "description": "Malicious code in virtualize-kernel-string-cluster-mu (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190162"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153795", "enisaUuid": "7c735cf7-f266-3fa5-9b4f-ffcaf88d6cdd", "description": "Malicious code in @sellerly-kit/badge (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9294"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

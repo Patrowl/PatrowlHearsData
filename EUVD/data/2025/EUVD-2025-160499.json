@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160499", "enisaUuid": "063f78d0-c45a-3670-bab2-10288e900044", "description": "Malicious code in boson-csrf-accretion-stream (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15998"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

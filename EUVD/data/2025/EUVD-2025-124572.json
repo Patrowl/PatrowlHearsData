@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124572", "enisaUuid": "4c5b002f-517c-3bb2-a1bc-38c567b73865", "description": "Malicious code in nebula-oauth-resolvers-dotenv-safe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145348"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

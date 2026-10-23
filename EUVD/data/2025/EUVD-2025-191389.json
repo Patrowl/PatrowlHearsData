@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191389", "enisaUuid": "482c7fb9-fd97-38bf-a4ef-dbeb25e424ae", "description": "Malicious code in azure-iothub-service-client (PyPI)", "datePublished": "2025-08-28T07:10:39", "dateUpdated": "2025-08-28T07:10:39", "baseScore": 0.0, "aliases": ["MAL-2025-41622"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

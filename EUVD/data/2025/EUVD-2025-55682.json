@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-55682", "enisaUuid": "d4f32b5b-fea2-339e-90fa-02f41c3bfff3", "description": "Malicious code in binding-turquoise-mongoose (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-66967"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

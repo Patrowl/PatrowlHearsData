@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176790", "enisaUuid": "005bccdd-4a30-34ed-985f-8445dc43d2e2", "description": "Malicious code in rate-limiter-hyperion-pavo-protractor (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189085"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128269", "enisaUuid": "4ca3c54a-fd11-3cc5-bd2d-4102a5dca0e9", "description": "Malicious code in @abacusmirror/react-fontawesome (npm)", "datePublished": "2025-05-26T13:08:04", "dateUpdated": "2025-05-26T13:08:04", "baseScore": 0.0, "aliases": ["MAL-2025-4537"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

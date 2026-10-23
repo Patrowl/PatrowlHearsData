@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122457", "enisaUuid": "11b8eb09-7ae3-3179-a9ff-aff15cebe971", "description": "Malicious code in rocket-eclipse-stop-procyon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147465"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

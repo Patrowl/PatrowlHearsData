@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180486", "enisaUuid": "d46f54e7-34d6-3244-b757-290f6063f199", "description": "Malicious code in air-minify-load-secure-encode (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185402"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

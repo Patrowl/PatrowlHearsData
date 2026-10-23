@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175267", "enisaUuid": "33b3bac3-d175-34e8-b08c-fa9cef81ec3a", "description": "Malicious code in promise-vega-react-bootstrap-blueshift (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-30738"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

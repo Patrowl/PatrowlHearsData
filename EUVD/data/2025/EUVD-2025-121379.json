@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121379", "enisaUuid": "422cd0f9-a389-316a-bf2a-f1fe4427e65d", "description": "Malicious code in terser-webpack-plugin-eslint-plugin-loglevel-titan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148549"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

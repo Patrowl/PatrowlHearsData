@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175553", "enisaUuid": "973fcc9a-4c12-3bdb-a6d0-6528efb5f8ce", "description": "Malicious code in wind-execute-authorize-mu-byte (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190323"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

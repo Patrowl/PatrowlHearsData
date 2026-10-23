@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-42764", "enisaUuid": "8d89631d-e5e3-3a5f-8340-3f479f0fdb4b", "description": "Malicious code in okta-ubi38-riris (npm)", "datePublished": "2025-11-10T05:18:00", "dateUpdated": "2025-11-10T05:18:00", "baseScore": 0.0, "aliases": ["MAL-2025-54006"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

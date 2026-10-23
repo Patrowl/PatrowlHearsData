@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130842", "enisaUuid": "d9bacde8-fd38-32f0-b056-748b75607a5b", "description": "Malicious code in @billing-info/react (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7120"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

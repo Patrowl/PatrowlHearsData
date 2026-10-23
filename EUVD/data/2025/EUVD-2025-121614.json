@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121614", "enisaUuid": "564e78c2-04c6-32eb-a810-85585baf33a9", "description": "Malicious code in stream-bunyan-selenium-fornax (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148311"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

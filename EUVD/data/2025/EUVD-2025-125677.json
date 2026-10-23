@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125677", "enisaUuid": "e547a75e-fc09-3d2b-972c-b5beb6f4f34e", "description": "Malicious code in sdk-coin-hbar (npm)", "datePublished": "2025-03-03T13:39:10", "dateUpdated": "2025-03-03T13:39:10", "baseScore": 0.0, "aliases": ["MAL-2025-1935"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

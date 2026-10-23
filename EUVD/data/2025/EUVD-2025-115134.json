@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115134", "enisaUuid": "f360cd06-2581-3f66-b300-1199c8b92eed", "description": "Malicious code in commitlint-config-angular-vuepress-csv-hermes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140974"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

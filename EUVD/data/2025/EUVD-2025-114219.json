@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114219", "enisaUuid": "7d3955f7-b4cb-3b02-8089-70b7a41ad7cd", "description": "Malicious code in electron-altair-charon-pegasus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141891"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

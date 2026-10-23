@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123028", "enisaUuid": "becbd280-99fe-3862-97a6-452c07800378", "description": "Malicious code in pyxis-webdriver-manager-selenium-gridsome (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146894"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

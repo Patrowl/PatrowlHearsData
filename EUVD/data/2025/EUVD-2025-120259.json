@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120259", "enisaUuid": "7002b875-e8cc-34a8-b710-1ab75de843c3", "description": "Malicious code in xenon-xenos-sadr-dotenv-parse-variables (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149672"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

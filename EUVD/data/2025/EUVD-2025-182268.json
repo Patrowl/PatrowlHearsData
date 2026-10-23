@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182268", "enisaUuid": "0cc7e030-b747-3146-b6d6-5766b898e405", "description": "Malicious code in rpc-mock-server (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32483"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

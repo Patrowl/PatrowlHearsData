@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123198", "enisaUuid": "01eb842b-7d81-3695-a764-3a59b6d2d305", "description": "Malicious code in proxima-node-config-server-electron (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146724"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

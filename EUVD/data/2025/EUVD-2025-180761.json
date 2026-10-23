@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180761", "enisaUuid": "ac52c476-ffed-3e01-a7bb-e85bf8a8aa74", "description": "Malicious code in pyxis-antimatter-dotenv-parse-variables-xenos (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-30975"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

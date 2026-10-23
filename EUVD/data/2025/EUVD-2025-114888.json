@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114888", "enisaUuid": "ec4ec293-0578-3407-a3e1-80f71a651956", "description": "Malicious code in cosmos-soap-pegasus-package (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141221"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

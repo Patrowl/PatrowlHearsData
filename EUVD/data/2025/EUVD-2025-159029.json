@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159029", "enisaUuid": "ba112a86-bea3-38bb-96b2-d14b60d9a782", "description": "Malicious code in angular-hw-cache (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14528"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

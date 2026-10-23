@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177526", "enisaUuid": "d9f59607-319f-3733-a453-d6048ecc07b4", "description": "Malicious code in nova-quantum-protractor-commitlint (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188356"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

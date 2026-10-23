@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161659", "enisaUuid": "2726dcac-b404-3716-b65a-212cbab97b8e", "description": "Malicious code in cloud-iota-table-pipe-catch (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17160"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

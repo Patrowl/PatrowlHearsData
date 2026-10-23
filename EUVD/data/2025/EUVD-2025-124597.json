@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124597", "enisaUuid": "064c14a0-d3ed-388b-89cb-69e2a2ae6ee1", "description": "Malicious code in nconf-pm2-betelgeuse-hugo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145323"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

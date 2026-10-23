@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164349", "enisaUuid": "d2a8e597-a750-329a-95e4-fe19d16ef43b", "description": "Malicious code in eslint-config-frantic1048 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19828"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

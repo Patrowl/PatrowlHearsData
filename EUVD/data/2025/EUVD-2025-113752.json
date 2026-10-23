@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113752", "enisaUuid": "adb006cc-fdcf-3e32-b438-93480b81e381", "description": "Malicious code in exec-phoenix-miranda-mira (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142358"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

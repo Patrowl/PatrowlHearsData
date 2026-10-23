@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130550", "enisaUuid": "bbe4b3ae-a5dc-3429-a5da-f0875134487d", "description": "Malicious code in @seznam-diskuze/embed (npm)", "datePublished": "2025-08-12T16:05:58", "dateUpdated": "2025-08-12T16:05:58", "baseScore": 0.0, "aliases": ["MAL-2025-6828"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

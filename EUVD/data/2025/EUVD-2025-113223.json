@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113223", "enisaUuid": "29ac0a9b-6731-3fd7-8229-7dd708492abd", "description": "Malicious code in geckodriver-xenon-nova-auth0 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142889"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

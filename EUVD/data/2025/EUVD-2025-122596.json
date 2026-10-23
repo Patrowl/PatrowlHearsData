@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122596", "enisaUuid": "21e890b5-3808-349e-8d57-7081d11efaff", "description": "Malicious code in resolvers-hydra-adonis-webpack (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147326"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

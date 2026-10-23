@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180051", "enisaUuid": "0947c618-42b4-3f94-867c-2cdd4df1b546", "description": "Malicious code in biosignature-nestjs-publish-morgan (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185831"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

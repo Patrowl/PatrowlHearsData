@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121228", "enisaUuid": "e65d1cf8-329e-3b5d-b1e9-2cea48017b65", "description": "Malicious code in toml-aurora-bulma-fomalhaut (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148700"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113458", "enisaUuid": "ab5fa84b-8b23-3761-887a-c2cca1f0c41b", "description": "Malicious code in fornax-tailwindcss-start-dotenv-parse-variables (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142654"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177478", "enisaUuid": "623a3edf-a2ed-308a-841b-c3fac75571ba", "description": "Malicious code in old-decompress-scale-throw-user (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188404"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

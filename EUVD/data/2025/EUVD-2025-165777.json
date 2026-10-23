@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165777", "enisaUuid": "7b9558ca-8a37-3e41-ac73-418af944edca", "description": "Malicious code in gemini-resolvers-superagent-backend (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21258"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

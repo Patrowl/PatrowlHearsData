@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122055", "enisaUuid": "419e9ce6-da56-3e96-b1d7-f820b1a0eedb", "description": "Malicious code in sequelize-global-regulus-neptune (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147868"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

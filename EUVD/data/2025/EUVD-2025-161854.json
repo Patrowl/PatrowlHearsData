@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161854", "enisaUuid": "5787552b-9c65-3800-9854-6ecd6c8ca132", "description": "Malicious code in com.unity.modules.imgui (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17355"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

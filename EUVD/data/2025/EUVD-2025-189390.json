@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189390", "enisaUuid": "13c04c24-c37a-3776-9cd3-b60ec953eb1c", "description": "Malicious code in xedecrypt (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39604"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

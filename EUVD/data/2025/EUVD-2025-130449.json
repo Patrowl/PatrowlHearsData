@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130449", "enisaUuid": "bea7ffe1-d188-3dec-a636-bfbb58873881", "description": "Malicious code in hw-transport-node-hid (npm)", "datePublished": "2025-07-30T17:36:12", "dateUpdated": "2025-08-29T06:43:16", "baseScore": 0.0, "aliases": ["MAL-2025-6726"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

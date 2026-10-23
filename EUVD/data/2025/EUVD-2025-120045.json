@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120045", "enisaUuid": "e9d65118-b68a-36cf-8ea9-f77e31933e01", "description": "Malicious code in zephyr-koa-materialize-phoenix (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149887"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128758", "enisaUuid": "94b573c5-ea53-38c9-8e36-8117c5fa4ce5", "description": "Malicious code in ccip-resolver (npm)", "datePublished": "2025-06-12T02:14:32", "dateUpdated": "2025-06-12T02:14:32", "baseScore": 0.0, "aliases": ["MAL-2025-5026"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

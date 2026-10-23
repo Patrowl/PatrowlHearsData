@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75453", "enisaUuid": "0671dbf1-3ae8-3e09-8e44-80bc96be0ded", "description": "Malicious code in testy_puma-strongdev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-109570"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

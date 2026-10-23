@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80620", "enisaUuid": "38cf8a1e-d064-3fec-95e6-e5ae5b6d39e0", "description": "Malicious code in selective_zebra_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-108517"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

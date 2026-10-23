@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180387", "enisaUuid": "f1b8a626-0a85-3424-8ba3-b573566e79f7", "description": "Malicious code in apollo-eigenstate-redis-dendrochronology (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185501"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112771", "enisaUuid": "f3414778-cc81-3251-9494-9be173974baf", "description": "Malicious code in hexo-fetch-jwt-typeorm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143341"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

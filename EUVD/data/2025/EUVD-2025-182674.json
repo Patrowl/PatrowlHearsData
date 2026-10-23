@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182674", "enisaUuid": "5cc4a809-2709-38ab-803f-f6f2f736e0e3", "description": "Malicious code in sed-new-protected-signal-small (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32889"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

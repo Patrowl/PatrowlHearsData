@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121719", "enisaUuid": "c5f52f9e-396a-3c77-8cfb-b23a4f205837", "description": "Malicious code in spinner-playwright-geckodriver-async (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148206"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

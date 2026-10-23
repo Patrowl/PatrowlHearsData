@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191791", "enisaUuid": "15b5cbb5-4529-3793-a345-08925bd935b0", "description": "Malicious code in mongose-cli (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-42025"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

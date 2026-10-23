@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123636", "enisaUuid": "6988853a-839c-3950-b38a-74b2329387aa", "description": "Malicious code in playwright-pipe-jwt-middleware (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146285"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

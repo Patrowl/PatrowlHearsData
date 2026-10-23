@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112950", "enisaUuid": "45eccd76-150c-3042-87a9-89faf8e7c84e", "description": "Malicious code in halley-polaris-kinetic-async (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143162"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

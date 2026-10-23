@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124254", "enisaUuid": "5f66036d-55c5-3768-99f3-d01b67f7abc9", "description": "Malicious code in nova-sirius-warp-csv (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145667"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

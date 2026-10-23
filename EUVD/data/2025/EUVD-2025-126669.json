@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126669", "enisaUuid": "50625d57-ec41-376b-8dd1-2dcb5a444253", "description": "Malicious code in acapy-agent-didx (PyPI)", "datePublished": "2025-03-28T13:05:13", "dateUpdated": "2025-03-28T13:05:13", "baseScore": 0.0, "aliases": ["MAL-2025-2928"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

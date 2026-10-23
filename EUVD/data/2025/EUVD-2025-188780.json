@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188780", "enisaUuid": "d248beb3-89da-3e41-9a4f-31b2544cfa17", "description": "Malicious code in webdriver-manager-plutology-nextjs-dynamo (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38994"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

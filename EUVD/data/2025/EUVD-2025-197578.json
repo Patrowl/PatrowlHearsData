@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197578", "enisaUuid": "89783d7b-3c05-3325-bd7a-1c93a4c614eb", "description": "Malicious code in image2hex (PyPI)", "datePublished": "2025-10-23T19:16:35", "dateUpdated": "2025-10-23T19:16:35", "baseScore": 0.0, "aliases": ["MAL-2025-48893"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

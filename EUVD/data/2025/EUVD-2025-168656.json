@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168656", "enisaUuid": "73adaf7a-4835-3512-be84-16080b3c72dc", "description": "Malicious code in jwt-toml-leda-despina (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24138"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

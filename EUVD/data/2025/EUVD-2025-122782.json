@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122782", "enisaUuid": "0b48c2b5-8466-3523-88ae-fc88eec32f38", "description": "Malicious code in regulus-atlas-passport-ursa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147140"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

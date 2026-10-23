@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123504", "enisaUuid": "ef27295c-410b-3661-9968-b146b3af434b", "description": "Malicious code in postcss-neptune-ursa-nextjs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146417"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

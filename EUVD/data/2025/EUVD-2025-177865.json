@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177865", "enisaUuid": "1f08e10d-330d-3890-9edc-365f68da2e68", "description": "Malicious code in meteor-cli-nightwatch-test (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188017"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

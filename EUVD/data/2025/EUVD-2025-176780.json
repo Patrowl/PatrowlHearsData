@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176780", "enisaUuid": "35fb57ce-713a-383a-bd68-87932f1ad940", "description": "Malicious code in readable-enif-module-saturnology (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189095"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

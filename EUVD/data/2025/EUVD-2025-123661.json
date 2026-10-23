@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123661", "enisaUuid": "6f05278a-ea01-36d1-bf45-d315944b5f23", "description": "Malicious code in pipe-cygnus-telesto-postcss (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146260"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

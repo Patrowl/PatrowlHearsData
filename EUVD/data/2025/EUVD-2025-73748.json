@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-73748", "enisaUuid": "96748c64-286c-37c1-b378-588d34fda549", "description": "Malicious code in shaky_bedbug_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-96542"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

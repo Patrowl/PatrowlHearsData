@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120475", "enisaUuid": "afce6f4f-934c-363e-8705-3586d64a522b", "description": "Malicious code in wezen-framework-dotenv-safe-testcafe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149455"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

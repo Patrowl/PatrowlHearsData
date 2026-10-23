@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112492", "enisaUuid": "f87b5b24-e72d-3576-aecf-ee952c377332", "description": "Malicious code in init-gemini-cassini-warp (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143621"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

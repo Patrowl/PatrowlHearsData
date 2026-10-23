@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193713", "enisaUuid": "ab4b57f8-a4ec-3509-a729-e114a9466a0f", "description": "Malicious code in deneb-socketio-sass-loader-rollup-plugin (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43960"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

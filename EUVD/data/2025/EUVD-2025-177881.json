@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177881", "enisaUuid": "7a8d5e66-08f0-3306-82c5-10ec6fd086e9", "description": "Malicious code in meta-monitor-info-import-final (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188001"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

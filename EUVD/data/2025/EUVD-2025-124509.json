@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124509", "enisaUuid": "22c3b7d7-7a06-3120-beab-5ec2f8767e61", "description": "Malicious code in nextjs-changelog-hexo-polaris (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145412"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

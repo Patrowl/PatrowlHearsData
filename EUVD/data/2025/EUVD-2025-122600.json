@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122600", "enisaUuid": "392d457e-3cd9-375b-bacf-b889634c29f1", "description": "Malicious code in resolvers-eleventy-hexo-altair (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147322"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

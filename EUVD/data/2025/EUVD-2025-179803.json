@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179803", "enisaUuid": "c008409a-106e-37b9-8b7b-7c2af378478e", "description": "Malicious code in chai-javascript-pulsar-pyxis (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186079"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

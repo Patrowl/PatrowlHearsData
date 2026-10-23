@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122680", "enisaUuid": "d861830b-a207-3fc2-9274-8b877f50b1a2", "description": "Malicious code in remark-async-development-exec (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147242"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

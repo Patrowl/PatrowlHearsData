@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-185753", "enisaUuid": "2a7029b6-2e56-3d74-8260-df60c2e2ea23", "description": "Malicious code in test-mlw2-picas-pygal (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-35969"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

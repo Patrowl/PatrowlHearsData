@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116888", "enisaUuid": "faf082d7-af83-3c97-8abe-1c78cc856b41", "description": "Malicious code in adonis-norma-install-selenium (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139214"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

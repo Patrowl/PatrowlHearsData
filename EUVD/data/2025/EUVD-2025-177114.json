@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177114", "enisaUuid": "9d6b1fd4-3614-3891-b4ad-12636a8bf5f8", "description": "Malicious code in polaris-build-event-dotenv-parse-variables (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188761"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

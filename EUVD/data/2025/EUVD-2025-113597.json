@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113597", "enisaUuid": "ab0e2760-11d6-3044-998c-9203ad1a6803", "description": "Malicious code in firebase-selenium-fornax-nconf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142514"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

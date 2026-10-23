@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-61883", "enisaUuid": "bf135f17-8031-39d8-92f1-82e05327bf73", "description": "Malicious code in weak_jellyfish_z3n (npm)", "datePublished": "2025-11-11T04:25:34", "dateUpdated": "2025-11-11T04:25:34", "baseScore": 0.0, "aliases": ["MAL-2025-92177"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-186781", "enisaUuid": "b54a61a7-f0ae-3a10-a55e-6091f49b9bf4", "description": "Malicious code in tma-serve-mobiledeviceunlock (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-36991"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

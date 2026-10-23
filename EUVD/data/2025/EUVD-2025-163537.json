@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163537", "enisaUuid": "72067424-c29a-356e-9997-e13078c6f394", "description": "Malicious code in dynseg-util (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19039"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

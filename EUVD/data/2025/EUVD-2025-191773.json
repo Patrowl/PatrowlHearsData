@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191773", "enisaUuid": "b3f5c7a3-bf89-3b9b-a9f2-88ca85e2793b", "description": "Malicious code in husky-logger (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-42007"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

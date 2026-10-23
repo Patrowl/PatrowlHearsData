@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121633", "enisaUuid": "32352b8d-38df-3ce6-a667-2623bab8be18", "description": "Malicious code in stop-dactyl-native-octans (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148292"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

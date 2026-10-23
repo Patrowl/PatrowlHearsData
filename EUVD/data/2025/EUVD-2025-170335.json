@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170335", "enisaUuid": "c173b25f-a56b-316c-8fd1-b9ab33c319ad", "description": "Malicious code in malicious-do-not-install (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25806"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

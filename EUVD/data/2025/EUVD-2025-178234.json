@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178234", "enisaUuid": "6dec25b5-6e4f-3c50-b997-ce75f8979772", "description": "Malicious code in jwt-polaris-accretion-transform (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187648"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169936", "enisaUuid": "c8a74298-2197-3ccf-b2eb-d09b774b257c", "description": "Malicious code in lint-perseus-css-minimizer-webpack-plugin-cygnus (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25407"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

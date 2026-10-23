@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187656", "enisaUuid": "fc79db81-151a-3933-9627-d09e5daeedd5", "description": "Malicious code in unix-promise-final-grid-old (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37868"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

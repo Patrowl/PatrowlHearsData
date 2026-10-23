@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76558", "enisaUuid": "5962e40e-3adc-31b1-85f8-c59fd2498e7a", "description": "Malicious code in initial_locust-appteadev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-104200"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

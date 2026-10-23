@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123274", "enisaUuid": "15f15496-bbda-3231-b63f-f0e7637bcfb2", "description": "Malicious code in promise-rimraf-supervisor-graphql (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146648"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

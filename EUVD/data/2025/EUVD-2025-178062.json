@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178062", "enisaUuid": "7f29bf5c-5e32-3302-8601-2342a4d9cbe0", "description": "Malicious code in lithosphere-buffer-jwt-prettier (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187820"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

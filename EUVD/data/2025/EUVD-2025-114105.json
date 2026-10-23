@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114105", "enisaUuid": "2d38aa80-37fd-35f2-9f0a-ba9bbd648037", "description": "Malicious code in eleventy-mini-css-extract-plugin-cordelia-middleware (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142005"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

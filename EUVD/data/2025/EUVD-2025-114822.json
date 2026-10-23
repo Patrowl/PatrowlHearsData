@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114822", "enisaUuid": "87f0b942-d5a1-3bd3-a26a-7cf05842ad45", "description": "Malicious code in csrf-izar-resolvers-nightmare (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141287"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

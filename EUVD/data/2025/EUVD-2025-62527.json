@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-62527", "enisaUuid": "d5adcdcc-a95f-3466-b9fd-e5d7f810687b", "description": "Malicious code in principal_unicorn_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-96027"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

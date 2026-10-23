@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172053", "enisaUuid": "4efeeb67-f719-3910-baf4-500c213434b2", "description": "Malicious code in nightwatch-nodejs-run-script-castor (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27524"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

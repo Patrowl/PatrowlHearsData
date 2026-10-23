@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179550", "enisaUuid": "60b227ec-65c0-34f9-a67b-448157c449c5", "description": "Malicious code in cosmiconfig-xml-rehype-webpack (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186332"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

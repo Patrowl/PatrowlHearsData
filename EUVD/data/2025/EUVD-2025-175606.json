@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175606", "enisaUuid": "fc453d2a-f9aa-3bf0-8367-72d07a04ecc7", "description": "Malicious code in webdriver-mocha-chromedriver-javascript-json (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190270"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180451", "enisaUuid": "973e797c-eb7c-3a40-83e3-071035489af6", "description": "Malicious code in alphard-comet-transport-rest (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185437"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

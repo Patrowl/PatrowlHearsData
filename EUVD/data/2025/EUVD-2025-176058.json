@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176058", "enisaUuid": "4360ce84-bc14-3492-8091-782eaf9a9fe7", "description": "Malicious code in tau-import-file-bad-byte (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189817"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177160", "enisaUuid": "4bf003e7-7130-3d9f-b8e9-f2a8231b9c25", "description": "Malicious code in pipe-byte-spy-fork-notify (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188715"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112132", "enisaUuid": "446b5593-b64e-399c-bf13-15215d45b40e", "description": "Malicious code in json-proxima-tailwindcss-typeorm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143981"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

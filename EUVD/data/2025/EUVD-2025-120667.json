@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120667", "enisaUuid": "c3f8be13-de18-3836-897f-54d0aefe7d15", "description": "Malicious code in warp-build-postcss-loader-semantic-release (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149262"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

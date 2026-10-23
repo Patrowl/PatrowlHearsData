@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175766", "enisaUuid": "4f17c4ac-c8ed-3623-aee6-bde763ee1b75", "description": "Malicious code in ursa-jest-antd-helmet (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190109"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

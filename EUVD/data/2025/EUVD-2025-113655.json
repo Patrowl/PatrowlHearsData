@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113655", "enisaUuid": "8d815f6a-0fbd-39cd-a89a-4360aa6942e3", "description": "Malicious code in fetch-quasar-jabbah-superagent (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142456"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

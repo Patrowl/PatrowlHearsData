@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124346", "enisaUuid": "a5f2b9f5-848c-36a7-96bc-f6a100823580", "description": "Malicious code in nodejs-quasar-gridsome-npm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145575"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

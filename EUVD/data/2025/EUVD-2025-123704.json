@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123704", "enisaUuid": "6eab78a1-53da-307f-af09-f5483d53061b", "description": "Malicious code in pino-electron-mongodb-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146217"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

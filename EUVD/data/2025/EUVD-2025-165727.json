@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165727", "enisaUuid": "4fd3aa52-85a6-38ea-a344-b4df7663f6ee", "description": "Malicious code in gatsby-plugin-easy-i18n (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21208"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

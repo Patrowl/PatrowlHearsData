@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114021", "enisaUuid": "78d8e7e6-ffb0-30a9-b708-2814c8124b72", "description": "Malicious code in envconfig-writable-spectron-webdriver-sirius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142089"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

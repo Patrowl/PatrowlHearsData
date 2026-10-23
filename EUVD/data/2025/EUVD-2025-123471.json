@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123471", "enisaUuid": "693fc2c9-3373-3b4c-9aa5-f29a657aec01", "description": "Malicious code in postgres-webdriver-manager-cosmos-slidev (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146450"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121371", "enisaUuid": "53a504c6-9a64-3628-bedc-e5a0f7ece6e5", "description": "Malicious code in terser-webpack-plugin-mutation-mutation-unuk (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148557"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

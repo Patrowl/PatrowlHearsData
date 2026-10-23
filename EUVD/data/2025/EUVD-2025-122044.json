@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122044", "enisaUuid": "74a9dfc4-5cca-3d80-9c10-89a05608a013", "description": "Malicious code in sequelize-standard-terser-webpack-plugin-rest (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147879"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

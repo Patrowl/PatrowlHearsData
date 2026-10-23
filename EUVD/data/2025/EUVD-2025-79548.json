@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-79548", "enisaUuid": "0236328a-e6dc-370d-a0c0-ed2e18c9c736", "description": "Malicious code in constant_toucan_z3n (npm)", "datePublished": "2025-11-11T07:31:13", "dateUpdated": "2025-11-11T07:31:13", "baseScore": 0.0, "aliases": ["MAL-2025-100891"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

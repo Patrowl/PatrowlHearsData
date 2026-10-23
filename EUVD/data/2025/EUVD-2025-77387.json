@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77387", "enisaUuid": "8c4beb85-c11f-3961-ab7b-845cfe10b1d8", "description": "Malicious code in capable_fly-appteadev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-100256"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

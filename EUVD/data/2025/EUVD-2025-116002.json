@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116002", "enisaUuid": "9d66af64-947c-3994-86b2-d93bf3a9b777", "description": "Malicious code in bootstrap-comet-convict-inquirer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140100"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

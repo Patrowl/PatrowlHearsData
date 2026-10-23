@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193979", "enisaUuid": "f87eba1e-0408-3568-a291-81f5e9298a4d", "description": "Malicious code in falcon-topaz-aes130-project (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44226"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

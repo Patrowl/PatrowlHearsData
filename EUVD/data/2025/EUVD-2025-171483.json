@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171483", "enisaUuid": "6b28cfa1-5827-3399-ad4c-a9bef0fcfb8e", "description": "Malicious code in myavrasm (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26954"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

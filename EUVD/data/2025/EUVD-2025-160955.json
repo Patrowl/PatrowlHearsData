@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160955", "enisaUuid": "b9778968-7376-3fc0-bdae-98beb8ee7839", "description": "Malicious code in callback-apex-ursa-toml (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16454"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

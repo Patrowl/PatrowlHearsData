@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122591", "enisaUuid": "56d0436b-2189-3235-a290-d4d96717396b", "description": "Malicious code in resolvers-luna-cassini-webdriverio (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147331"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

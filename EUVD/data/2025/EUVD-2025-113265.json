@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113265", "enisaUuid": "d244a755-88ac-3992-b7f6-c97954f341b0", "description": "Malicious code in gatsby-postgres-eridanus-bellatrix (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142847"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

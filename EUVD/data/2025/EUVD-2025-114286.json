@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114286", "enisaUuid": "1cd7b612-572f-3946-8c2b-3b8aba594d83", "description": "Malicious code in dynamo-axios-vuetify-jasmine (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141823"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

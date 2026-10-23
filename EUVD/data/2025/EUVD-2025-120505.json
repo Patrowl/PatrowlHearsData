@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120505", "enisaUuid": "57f845f9-5eaf-3380-922a-52f4ced5eb34", "description": "Malicious code in websockets-procyon-mongodb-vuepress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149424"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

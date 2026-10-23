@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178551", "enisaUuid": "d0258439-4e8c-35dd-9a0a-ae19535fca70", "description": "Malicious code in helmet-terser-isostasy-nova (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187331"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

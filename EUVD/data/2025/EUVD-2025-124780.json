@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124780", "enisaUuid": "b674ce90-f572-3993-870a-bbf134b479fb", "description": "Malicious code in mongodb-rate-limiter-sagitta-kinetic (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145138"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

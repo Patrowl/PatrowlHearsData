@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176662", "enisaUuid": "4be34eaf-5236-348d-a252-2f24d83ab841", "description": "Malicious code in rest-nova-nightwatch-commitlint-config-angular (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189213"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

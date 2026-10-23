@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177392", "enisaUuid": "b713a6e1-69bf-3e54-87e1-7c0c5bbd68c6", "description": "Malicious code in package-changelog-css-loader-slidev (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188490"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

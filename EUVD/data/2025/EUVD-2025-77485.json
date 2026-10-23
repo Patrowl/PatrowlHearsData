@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77485", "enisaUuid": "88e2ca54-29a1-3121-a6c4-3aa98e37a887", "description": "Malicious code in unexpected_llama_azure-85 (npm)", "datePublished": "2025-11-11T07:38:53", "dateUpdated": "2025-11-11T07:38:53", "baseScore": 0.0, "aliases": ["MAL-2025-110094"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175924", "enisaUuid": "415b3b65-1e08-3a62-af36-48281ae1ccbc", "description": "Malicious code in toml-superflare-rollup-algol (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189951"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

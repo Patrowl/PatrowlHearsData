@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111339", "enisaUuid": "18b85c75-2abf-32a5-bd1a-28213a5ac334", "description": "Malicious code in mdx-rimraf-subscription-build (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144776"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

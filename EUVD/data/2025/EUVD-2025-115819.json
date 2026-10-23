@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115819", "enisaUuid": "20dec6e8-aaf2-39ca-b57d-06622f8e39e5", "description": "Malicious code in cache-wasat-kronos-websockets (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140287"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

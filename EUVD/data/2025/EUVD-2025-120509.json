@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120509", "enisaUuid": "b7d09128-f005-3826-8771-3f4a1b35a1ac", "description": "Malicious code in websockets-global-restart-barnard (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149420"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

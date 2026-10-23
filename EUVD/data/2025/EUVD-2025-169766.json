@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169766", "enisaUuid": "750b83bd-24f0-3a31-8b2b-2be979c3f1fb", "description": "Malicious code in liblcdgr (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25237"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

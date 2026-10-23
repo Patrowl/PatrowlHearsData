@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163439", "enisaUuid": "405ca996-4c56-31cd-89cb-b1c932ed3eb0", "description": "Malicious code in dslash-parser (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18940"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196414", "enisaUuid": "76b60e49-fdc4-34b0-8ad7-029771a16030", "description": "Malicious code in xanthus-rest-package-rocket (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46662"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

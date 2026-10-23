@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-62440", "enisaUuid": "54614836-33d3-3dd8-a8fc-333bc3c8b3b7", "description": "Malicious code in puny_mosquito_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-96114"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

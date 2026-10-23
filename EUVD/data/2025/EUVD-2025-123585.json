@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123585", "enisaUuid": "a4558935-f845-3339-acd4-d0685cbd62ad", "description": "Malicious code in polaris-element-ui-mongodb-lint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146336"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

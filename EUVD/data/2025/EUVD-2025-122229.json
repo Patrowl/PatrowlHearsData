@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122229", "enisaUuid": "5fe01905-a890-3997-b9ca-9a8e266031fd", "description": "Malicious code in schema-helmet-ursa-eleventy (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147693"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

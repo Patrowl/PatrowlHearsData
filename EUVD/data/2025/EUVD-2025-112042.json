@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112042", "enisaUuid": "f780c337-a7ab-3006-893b-c3c43cb5309a", "description": "Malicious code in jwt-element-ui-jekyll-style-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144071"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

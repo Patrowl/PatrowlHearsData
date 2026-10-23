@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122374", "enisaUuid": "ec42032a-8d91-3877-ae08-7129540f5e6d", "description": "Malicious code in run-script-mysql-antd-csv (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147548"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

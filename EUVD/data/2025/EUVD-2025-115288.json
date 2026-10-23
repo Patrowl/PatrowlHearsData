@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115288", "enisaUuid": "cd756a40-1774-327b-a349-121cf6bce07c", "description": "Malicious code in cluster-axios-mongodb-nebula (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140820"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

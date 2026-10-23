@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183902", "enisaUuid": "4af26f40-d44f-3a7e-be3d-d48c1f6a3fc4", "description": "Malicious code in style-loader-elara-protractor-csrf (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34117"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

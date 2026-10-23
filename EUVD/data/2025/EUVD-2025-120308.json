@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120308", "enisaUuid": "128c4e2b-4db7-339e-be03-b1a7ad987d3a", "description": "Malicious code in xanthus-element-ui-webdriver-manager-nconf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149623"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

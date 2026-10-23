@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114810", "enisaUuid": "397cee40-a5f3-3bb4-8d0c-740a524d0054", "description": "Malicious code in csrf-winston-koa-nextjs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141299"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

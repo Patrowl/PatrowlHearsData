@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113932", "enisaUuid": "5ec98334-5436-312b-9c6d-0a1d71f08070", "description": "Malicious code in eris-nightwatch-axios-dotenv-safe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142178"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

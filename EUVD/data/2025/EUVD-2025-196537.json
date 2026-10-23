@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196537", "enisaUuid": "df8f63b7-e099-3669-a4fd-1c939da78552", "description": "Malicious code in yarn-plugin-backstage (npm)", "datePublished": "2025-09-05T16:38:20", "dateUpdated": "2025-09-05T16:38:20", "baseScore": 0.0, "aliases": ["MAL-2025-46785"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

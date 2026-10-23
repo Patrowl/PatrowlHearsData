@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173656", "enisaUuid": "44526a8d-dbbe-329e-a6ba-005f112fe88a", "description": "Malicious code in phi3-webgpu (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-09-26T11:06:45", "baseScore": 0.0, "aliases": ["MAL-2025-29127"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

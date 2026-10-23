@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128316", "enisaUuid": "b0dd5855-4adf-33ee-990a-4493232e3ca9", "description": "Malicious code in arc-offsec-custom-library2 (npm)", "datePublished": "2025-05-29T13:44:00", "dateUpdated": "2025-08-01T10:42:04", "baseScore": 0.0, "aliases": ["MAL-2025-4584"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

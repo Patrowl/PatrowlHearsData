@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120638", "enisaUuid": "337c8b35-e596-3a5f-bc4c-0270b9060a4d", "description": "Malicious code in wasat-iota-juno-node-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149291"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

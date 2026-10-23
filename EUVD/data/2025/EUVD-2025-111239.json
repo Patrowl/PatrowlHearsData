@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111239", "enisaUuid": "2146b9c0-faef-3f8c-9661-6adf8e3ee775", "description": "Malicious code in metalsmith-elektra-fetch-event (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144876"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

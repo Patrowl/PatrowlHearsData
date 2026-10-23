@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193276", "enisaUuid": "ae16a3ae-cfb2-3dea-8606-edce35f82224", "description": "Malicious code in astro-postcss-loader-grunt-selenium (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43523"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

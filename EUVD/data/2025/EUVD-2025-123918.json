@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123918", "enisaUuid": "7260690a-6718-32ef-8856-8dfdfd726fa8", "description": "Malicious code in pavo-mongoose-yaml-development (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146003"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

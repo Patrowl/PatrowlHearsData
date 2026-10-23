@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174055", "enisaUuid": "091c1f4e-a9b1-38ce-b10a-06ac57c323de", "description": "Malicious code in portapoll (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29526"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

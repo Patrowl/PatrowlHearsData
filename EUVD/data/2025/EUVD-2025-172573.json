@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172573", "enisaUuid": "b0f47c7e-a4bf-39d3-a50d-19d8fe53850e", "description": "Malicious code in object-storage-service (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28044"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

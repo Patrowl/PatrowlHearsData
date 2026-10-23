@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182450", "enisaUuid": "1ed10c3f-d214-3187-ac4e-39e53d39dd34", "description": "Malicious code in sandbox-encode-string-view-good (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32665"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

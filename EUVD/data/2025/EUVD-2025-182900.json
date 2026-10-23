@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182900", "enisaUuid": "a9445886-de34-3f05-a48d-93ab5a95ab6c", "description": "Malicious code in shopify-app-session-storage-kv (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33115"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

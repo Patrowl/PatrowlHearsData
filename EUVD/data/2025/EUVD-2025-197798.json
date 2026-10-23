@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197798", "enisaUuid": "7be32d8c-9b13-3cfb-91ee-bee58f8174b7", "description": "Malicious code in node-calculator-c213 (npm)", "datePublished": "2025-11-17T12:58:22", "dateUpdated": "2025-11-17T17:39:46", "baseScore": 0.0, "aliases": ["MAL-2025-190523"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

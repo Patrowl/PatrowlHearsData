@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113763", "enisaUuid": "36fbf65c-4ef3-30a4-8469-06427d6f1cba", "description": "Malicious code in exec-jovian-perseus-query (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142347"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

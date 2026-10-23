@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193890", "enisaUuid": "819c2d04-e73a-37af-90d6-0dd43beb43aa", "description": "Malicious code in empty-forward-does (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44137"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

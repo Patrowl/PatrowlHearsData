@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171117", "enisaUuid": "d239f39b-ae08-3862-b19d-18d9c6a44399", "description": "Malicious code in mocktail.js (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26588"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

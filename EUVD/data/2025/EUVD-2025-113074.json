@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113074", "enisaUuid": "d67d8986-3b3e-32f7-88d9-acd64ec5e8b1", "description": "Malicious code in gridsome-docusaurus-module-ursa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143038"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

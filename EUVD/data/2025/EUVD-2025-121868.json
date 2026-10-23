@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121868", "enisaUuid": "be3ab71e-07e6-3e44-87c0-23e447398149", "description": "Malicious code in socketio-lint-staged-cressida-dotenv-parse-variables (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148057"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

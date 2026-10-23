@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112486", "enisaUuid": "e237e9e9-93a8-36fe-b0a3-bcfa542e8145", "description": "Malicious code in init-nestjs-loopback-pino (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143627"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

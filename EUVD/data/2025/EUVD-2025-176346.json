@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176346", "enisaUuid": "a6cec9e4-518d-37b1-819d-98327a836724", "description": "Malicious code in slides-install-dynamo-dotenv-parse-variables (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189529"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

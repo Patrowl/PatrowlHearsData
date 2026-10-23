@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194576", "enisaUuid": "c1d9a396-eb65-32c8-8421-3707ec6886b4", "description": "Malicious code in jsonp-subduction-babel-solis (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44823"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

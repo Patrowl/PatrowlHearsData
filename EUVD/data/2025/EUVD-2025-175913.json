@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175913", "enisaUuid": "2579d83e-9679-3284-a351-ac4c2023f7df", "description": "Malicious code in transform-carpo-charon-hapi (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189962"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

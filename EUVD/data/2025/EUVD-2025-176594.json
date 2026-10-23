@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176594", "enisaUuid": "c367c7fe-9978-3fae-9290-f0959e75f1be", "description": "Malicious code in root-resolve-wind-stub-interface (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189281"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114732", "enisaUuid": "4b1cf16c-f86a-364c-a37c-c9f2dad6b4bd", "description": "Malicious code in cygnus-publish-apollo-husky (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141377"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

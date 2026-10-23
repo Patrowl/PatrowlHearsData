@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114020", "enisaUuid": "03962d5f-996e-3771-9853-de0c8ded2146", "description": "Malicious code in epimetheus-apollo-commitlint-config-angular-relay (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142090"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

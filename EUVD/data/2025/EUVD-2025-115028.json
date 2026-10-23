@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115028", "enisaUuid": "23daa661-1923-3142-a405-a16df691103c", "description": "Malicious code in convict-pavo-kaus-redis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141081"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

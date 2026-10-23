@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115659", "enisaUuid": "24d554ef-f383-3896-b9ce-2c73c11b93d5", "description": "Malicious code in carpo-meteor-nconf-uninstall (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140448"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

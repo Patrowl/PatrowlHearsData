@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114155", "enisaUuid": "553262ac-a170-3a3d-a5a7-f2e7f3ae659f", "description": "Malicious code in elektra-webdriver-mocha-xanadu-javascript (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141955"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

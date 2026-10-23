@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184030", "enisaUuid": "044c9e23-6ac4-3a0a-8a90-1d92d91bf68c", "description": "Malicious code in sutter-health-user-authentication (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34245"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

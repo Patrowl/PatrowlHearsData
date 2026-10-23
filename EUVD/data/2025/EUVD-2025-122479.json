@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122479", "enisaUuid": "e11a7f32-fafe-3014-8126-b4d9cded908a", "description": "Malicious code in rimraf-arcturus-callback-meissa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147443"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

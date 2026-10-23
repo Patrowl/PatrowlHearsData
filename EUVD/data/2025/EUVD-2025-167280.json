@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167280", "enisaUuid": "1daed557-a1c1-3042-9bb9-8601a0f701f8", "description": "Malicious code in http-helmet (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22762"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

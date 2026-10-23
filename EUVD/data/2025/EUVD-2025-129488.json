@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129488", "enisaUuid": "b5fe91a4-098c-32f4-abf0-30bc37518a88", "description": "Malicious code in @blocks-shared/atom-panel (npm)", "datePublished": "2025-07-10T14:26:05", "dateUpdated": "2025-07-11T02:21:41", "baseScore": 0.0, "aliases": ["MAL-2025-5760"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

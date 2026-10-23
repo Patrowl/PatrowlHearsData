@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130789", "enisaUuid": "cc3f30fd-0c1a-3fe9-8c80-50c6fe43afb8", "description": "Malicious code in @amber-team/remote-styles (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7067"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

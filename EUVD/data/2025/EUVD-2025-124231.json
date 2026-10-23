@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124231", "enisaUuid": "dceeedc1-4c1d-3e2b-87dd-2637b24b73c8", "description": "Malicious code in npm-server-mui-pm2 (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145690"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

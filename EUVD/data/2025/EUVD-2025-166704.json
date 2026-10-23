@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166704", "enisaUuid": "7649a5f4-2aa5-38f6-8f63-a3efb85f3e31", "description": "Malicious code in hapi-selenium (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22186"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

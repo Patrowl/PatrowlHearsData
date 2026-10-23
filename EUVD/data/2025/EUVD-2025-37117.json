@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-37117", "enisaUuid": "35524b49-6f22-3777-bee5-58fe43369b38", "description": "Malicious code in epic-okta-express-middleware (npm)", "datePublished": "2025-10-30T17:38:57", "dateUpdated": "2025-10-30T17:38:57", "baseScore": 0.0, "aliases": ["MAL-2025-49176"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

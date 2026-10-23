@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-81180", "enisaUuid": "871ce4ce-0a51-3369-b3d2-23128c9ca509", "description": "Malicious code in monetary_prawn_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-105957"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

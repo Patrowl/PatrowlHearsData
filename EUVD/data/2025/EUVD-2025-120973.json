@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120973", "enisaUuid": "3a545ed2-e7a2-3aa5-a4cc-349380ef9cb9", "description": "Malicious code in uninstall-figures-epimetheus-auriga (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148956"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

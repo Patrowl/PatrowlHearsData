@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116602", "enisaUuid": "db15ba99-3c65-3228-b0a3-fa134b8be101", "description": "Malicious code in apollo-command-prompts-electron (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139500"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

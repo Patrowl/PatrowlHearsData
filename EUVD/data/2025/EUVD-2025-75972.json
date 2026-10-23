@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75972", "enisaUuid": "12e9cfa9-dac1-3dca-8c9b-917a39af7b16", "description": "Malicious code in present_salmon-apptea (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-107231"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

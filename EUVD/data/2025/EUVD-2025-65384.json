@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-65384", "enisaUuid": "3ee5c871-4857-3c4d-96da-2e586e37167d", "description": "Malicious code in aggregate_weasel_z3n (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-93170"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

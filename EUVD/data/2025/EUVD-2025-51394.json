@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-51394", "enisaUuid": "05ace8ac-d83e-3edd-ad9f-3058ce765499", "description": "Malicious code in underlying-azure-cheetah (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-71255"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176988", "enisaUuid": "ec0f2cb5-8fac-331c-b863-c0334d5d621b", "description": "Malicious code in protected-table-sanitize-secure-void (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188887"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

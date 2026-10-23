@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121830", "enisaUuid": "a8d0147f-d804-3212-ad7e-3dcb8bd6e9e1", "description": "Malicious code in spawn-dotenv-dactyl-sirius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148095"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

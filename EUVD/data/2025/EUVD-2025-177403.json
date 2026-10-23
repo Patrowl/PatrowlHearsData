@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177403", "enisaUuid": "dda80972-94fc-3e9a-b4c2-1fd6a8d0759b", "description": "Malicious code in orogeny-karma-babel-sequelize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188479"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

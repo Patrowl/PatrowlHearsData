@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193431", "enisaUuid": "dc81c5b8-9e6f-3643-acbb-475579c6c9d0", "description": "Malicious code in bunyan-spica-optimize-css-assets-webpack-plugin-await (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43678"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

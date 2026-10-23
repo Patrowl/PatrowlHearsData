@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112488", "enisaUuid": "9b1a4a3c-c11b-38b5-bf37-26ba9ba6b5b2", "description": "Malicious code in init-ignite-weywot-webpack (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143625"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

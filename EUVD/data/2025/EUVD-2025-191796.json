@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191796", "enisaUuid": "df2fc881-3326-3a08-b47b-b1ce72aefd9c", "description": "Malicious code in msmg-frontend-task (npm)", "datePublished": "2025-08-25T18:38:44", "dateUpdated": "2025-08-25T18:38:44", "baseScore": 0.0, "aliases": ["MAL-2025-42030"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113101", "enisaUuid": "f339771d-418c-39ef-9673-d6e7711b5ddf", "description": "Malicious code in graphql-umbriel-enceladus-umbriel (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143011"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

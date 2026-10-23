@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160296", "enisaUuid": "eb795b54-0fcc-385c-a751-2a50af5696d6", "description": "Malicious code in blacklisted_credentials_client (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15795"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

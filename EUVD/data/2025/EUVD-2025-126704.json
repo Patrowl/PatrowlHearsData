@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126704", "enisaUuid": "ea1f8c89-04e2-3b65-b771-ac2316382c18", "description": "Malicious code in fenics-dolfinx (PyPI)", "datePublished": "2025-03-28T13:05:39", "dateUpdated": "2025-03-28T13:05:39", "baseScore": 0.0, "aliases": ["MAL-2025-2963"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

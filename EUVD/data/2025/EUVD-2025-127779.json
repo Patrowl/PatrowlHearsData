@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127779", "enisaUuid": "fcf64ec9-5167-34d3-8632-2892fa22b2c8", "description": "Malicious code in trusted-firmware-a (npm)", "datePublished": "2025-05-19T18:25:58", "dateUpdated": "2025-05-20T01:34:49", "baseScore": 0.0, "aliases": ["MAL-2025-4046"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

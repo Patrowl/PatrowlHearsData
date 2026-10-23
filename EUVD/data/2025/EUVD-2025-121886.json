@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121886", "enisaUuid": "99b80882-8d5a-3220-8ee5-7f25a8eceec1", "description": "Malicious code in soap-vega-hydra-jasmine (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148039"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

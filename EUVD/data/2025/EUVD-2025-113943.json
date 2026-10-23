@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113943", "enisaUuid": "3a907718-0ff2-371b-8eb2-aed8110e7cf2", "description": "Malicious code in eris-command-rate-limiter-xanthus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142167"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

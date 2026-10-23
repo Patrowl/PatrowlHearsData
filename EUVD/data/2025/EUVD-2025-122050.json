@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122050", "enisaUuid": "ab2e5fd8-f49f-33f0-8cad-a56d6532b4bc", "description": "Malicious code in sequelize-nashira-rigel-uglify-js (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147873"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

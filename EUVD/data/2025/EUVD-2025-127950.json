@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127950", "enisaUuid": "3dac1773-8bf7-3723-8f87-e4452ec3cb9b", "description": "Malicious code in evillib-cli-demo (PyPI)", "datePublished": "2025-05-22T12:33:32", "dateUpdated": "2025-05-22T12:33:32", "baseScore": 0.0, "aliases": ["MAL-2025-4218"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

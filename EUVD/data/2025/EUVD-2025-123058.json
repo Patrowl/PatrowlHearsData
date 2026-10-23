@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123058", "enisaUuid": "1e08681d-a3bd-388e-b713-c9d12ef64eaf", "description": "Malicious code in puppeteer-sequelize-link-zenobia (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146864"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180187", "enisaUuid": "1c5d462a-12fc-3973-9c1f-b232f6c75f2e", "description": "Malicious code in await-jwt-vuetify-event (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185695"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

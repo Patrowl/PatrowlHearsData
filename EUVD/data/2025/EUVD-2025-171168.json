@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171168", "enisaUuid": "1d1add6c-c893-3dc9-8bc1-d0bcca9481c0", "description": "Malicious code in mongodb-stitch-core-admin-client (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26639"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

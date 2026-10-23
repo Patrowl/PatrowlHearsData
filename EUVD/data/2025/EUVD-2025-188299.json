@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188299", "enisaUuid": "e70668da-0518-3cd2-a572-86eb3c4fe4eb", "description": "Malicious code in vite-plugin-image-loader (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38511"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

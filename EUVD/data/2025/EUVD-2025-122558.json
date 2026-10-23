@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122558", "enisaUuid": "143f4d78-ac45-339c-977f-eabd1c9b63bc", "description": "Malicious code in rest-rimraf-auth0-comet (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147364"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

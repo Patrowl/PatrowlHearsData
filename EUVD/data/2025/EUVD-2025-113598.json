@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113598", "enisaUuid": "669bb21f-0fca-327d-8e54-920b1d801ba2", "description": "Malicious code in firebase-sass-loader-dotenv-safe-ophiuchus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142513"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

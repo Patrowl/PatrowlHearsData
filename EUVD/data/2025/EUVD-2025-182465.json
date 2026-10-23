@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182465", "enisaUuid": "0e256374-7596-3696-922e-ff2b7d7a2eee", "description": "Malicious code in sap-node-rfc-utils (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32680"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

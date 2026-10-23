@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189682", "enisaUuid": "33bc1ec1-2c76-36fa-a60f-0a69f445fbad", "description": "Malicious code in xo-angular-shims-placeholder (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39897"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

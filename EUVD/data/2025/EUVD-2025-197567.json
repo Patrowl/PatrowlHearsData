@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197567", "enisaUuid": "874baa01-db13-3cf2-a3ec-e94819ea55fe", "description": "Malicious code in verdi-chat-library (npm)", "datePublished": "2025-10-23T19:50:16", "dateUpdated": "2025-10-23T19:50:16", "baseScore": 0.0, "aliases": ["MAL-2025-48882"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

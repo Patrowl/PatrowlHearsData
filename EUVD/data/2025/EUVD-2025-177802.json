@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177802", "enisaUuid": "a4817004-94f7-3345-ba8f-ddf237becbd8", "description": "Malicious code in miranda-native-cross-env-oauth (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188080"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

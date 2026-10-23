@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165106", "enisaUuid": "eb54a02b-4198-3972-a596-cb2e7e54e271", "description": "Malicious code in firebase-queue-client (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20587"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183668", "enisaUuid": "de75ffb5-e9dc-34b3-98ca-9ca3e138a638", "description": "Malicious code in sso-paypal (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33883"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

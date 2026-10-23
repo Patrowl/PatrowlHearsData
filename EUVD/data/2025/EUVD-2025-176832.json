@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176832", "enisaUuid": "e6c65544-886f-398b-9e78-5220a04937f7", "description": "Malicious code in quick-decode-transpile-array-wind (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189043"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

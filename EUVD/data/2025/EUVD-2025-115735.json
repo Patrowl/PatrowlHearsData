@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115735", "enisaUuid": "3e94e44c-db63-3736-bb0f-2d3552b8e4ad", "description": "Malicious code in canopus-publish-hyperion-release-it (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140371"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

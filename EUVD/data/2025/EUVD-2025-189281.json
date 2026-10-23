@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189281", "enisaUuid": "d432e4aa-7de3-3de1-bc1e-763cbd62cc99", "description": "Malicious code in writable-planckscale-local-redshift (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39495"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

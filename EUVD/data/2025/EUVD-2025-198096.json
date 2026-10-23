@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-198096", "enisaUuid": "cd632578-5684-36ce-bd68-7d0ddd04c2dd", "description": "Malicious code in captcha-paypal (npm)", "datePublished": "2025-11-18T23:50:40", "dateUpdated": "2025-11-24T16:09:28", "baseScore": 0.0, "aliases": ["MAL-2025-190568"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

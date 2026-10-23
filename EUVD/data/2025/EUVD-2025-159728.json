@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159728", "enisaUuid": "530bab78-a1b6-3a8a-b1a1-2e08361d4fc9", "description": "Malicious code in aws-lambda-authenticator (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15227"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

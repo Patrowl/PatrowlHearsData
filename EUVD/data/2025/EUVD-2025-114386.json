@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114386", "enisaUuid": "06bb31ed-c9ac-38a6-a280-ec7e7c97addb", "description": "Malicious code in dotenv-parse-variables-gridsome-alphard-draco (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141723"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

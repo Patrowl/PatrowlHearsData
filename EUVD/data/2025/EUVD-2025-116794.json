@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116794", "enisaUuid": "7c136df5-c1d8-30ab-863b-7d1ea8f02f9b", "description": "Malicious code in algol-sagitta-nodejs-ursa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139308"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

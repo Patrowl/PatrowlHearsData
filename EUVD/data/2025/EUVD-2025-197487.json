@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197487", "enisaUuid": "a4540f78-6a14-3c76-9995-d3c141ea2102", "description": "Malicious code in circuit-codegen-annotations (npm)", "datePublished": "2025-10-23T19:27:56", "dateUpdated": "2025-10-23T19:27:56", "baseScore": 0.0, "aliases": ["MAL-2025-48801"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

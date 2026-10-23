@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77327", "enisaUuid": "68c72eea-854e-3de3-8a03-c84e08bf3bb4", "description": "Malicious code in clean_carp-notthedevs (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-100585"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

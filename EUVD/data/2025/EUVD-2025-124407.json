@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124407", "enisaUuid": "70f97d08-0664-3778-af23-0e55cfc80cca", "description": "Malicious code in node-config-leda-test-xml (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145514"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

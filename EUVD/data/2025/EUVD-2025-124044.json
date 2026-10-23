@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124044", "enisaUuid": "ea1ffd13-9127-3edf-9e15-8eb378bc3cfb", "description": "Malicious code in ora-aquarius-typeorm-electron (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145877"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

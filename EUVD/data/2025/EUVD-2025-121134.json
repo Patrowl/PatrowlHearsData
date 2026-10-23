@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121134", "enisaUuid": "0b471e05-232e-35d3-8122-f65bd068d872", "description": "Malicious code in transport-nextjs-antares-yaml (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148794"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

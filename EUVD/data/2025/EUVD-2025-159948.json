@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159948", "enisaUuid": "2d2f6f7b-9ab0-34d6-b55e-e72942f729cb", "description": "Malicious code in bangscripts-mongo (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15447"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

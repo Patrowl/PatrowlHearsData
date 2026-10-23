@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121962", "enisaUuid": "ef65eb68-1c75-3932-a64c-1641bd20e33d", "description": "Malicious code in sirius-nodejs-pino-chalk (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147963"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

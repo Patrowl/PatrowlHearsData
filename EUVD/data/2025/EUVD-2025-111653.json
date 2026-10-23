@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111653", "enisaUuid": "114ae6e2-ee9d-39b9-8f10-9b4924e0e7ea", "description": "Malicious code in lint-staged-module-redis-ursa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144461"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

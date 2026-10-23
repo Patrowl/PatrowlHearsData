@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161702", "enisaUuid": "5b144811-3e73-31a6-9611-c111a2b45331", "description": "Malicious code in cluster-publish-firebase-module (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17203"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

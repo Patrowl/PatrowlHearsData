@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162239", "enisaUuid": "9481bb8a-caa7-3f9a-b09d-97c1928d5e2f", "description": "Malicious code in cryptopjs (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17740"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

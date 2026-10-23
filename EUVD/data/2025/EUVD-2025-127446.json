@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127446", "enisaUuid": "08fbe5ec-61ef-3b6b-b92c-bcd431a19bc2", "description": "Malicious code in @mstrlibrary/rc-slider (npm)", "datePublished": "2025-05-05T15:58:59", "dateUpdated": "2025-05-05T15:58:59", "baseScore": 0.0, "aliases": ["MAL-2025-3705"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

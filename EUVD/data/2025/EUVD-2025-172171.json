@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172171", "enisaUuid": "34e62012-65b2-306e-9c54-8e860c861085", "description": "Malicious code in node-red-contrib-john-temp (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27642"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

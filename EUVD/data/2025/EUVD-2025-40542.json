@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-40542", "enisaUuid": "a869d4c4-4e83-3e4c-be57-16a2f7b4576e", "description": "Malicious code in bamboo-init (npm)", "datePublished": "2025-11-10T04:05:19", "dateUpdated": "2025-11-10T04:05:19", "baseScore": 0.0, "aliases": ["MAL-2025-50934"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

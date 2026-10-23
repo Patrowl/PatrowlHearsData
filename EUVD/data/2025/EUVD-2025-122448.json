@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122448", "enisaUuid": "fe8a3515-725d-3c7d-8360-7905b965a6a7", "description": "Malicious code in rocket-node-sass-transport-buffer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147474"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

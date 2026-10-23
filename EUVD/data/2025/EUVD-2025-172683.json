@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172683", "enisaUuid": "1fa9bc14-2908-3eb8-9945-bf94304d17d4", "description": "Malicious code in offsite_payments (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28154"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

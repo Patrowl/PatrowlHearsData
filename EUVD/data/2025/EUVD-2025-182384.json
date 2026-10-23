@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182384", "enisaUuid": "284b95d1-aad5-33d0-b03a-124f54414a13", "description": "Malicious code in saas-client-oc-v6 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32599"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

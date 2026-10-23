@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195219", "enisaUuid": "539c173a-fe91-3dec-8c8c-bca773d6fbd5", "description": "Malicious code in ophiuchus-sequelize-iota-selenium (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45467"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

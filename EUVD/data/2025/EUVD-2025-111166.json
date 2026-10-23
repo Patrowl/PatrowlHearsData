@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111166", "enisaUuid": "c6208e2b-e5ff-31d8-89c0-fb53b8c03ca8", "description": "Malicious code in middleware-blitz-mutation-transform (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144949"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

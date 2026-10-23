@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112173", "enisaUuid": "dca90a2a-2935-3cda-af8f-9a57ac786a27", "description": "Malicious code in jest-xenon-virgo-jest (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143940"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

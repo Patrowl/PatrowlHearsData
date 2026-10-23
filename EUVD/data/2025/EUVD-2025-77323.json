@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77323", "enisaUuid": "71a8bfdb-8739-3706-be7b-c6ec973cb286", "description": "Malicious code in clinical_trout-apptea (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-100602"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

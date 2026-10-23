@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162320", "enisaUuid": "0d7ac59b-9ff6-33ee-8a05-145b5a0ff204", "description": "Malicious code in cuffer-xor (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17821"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

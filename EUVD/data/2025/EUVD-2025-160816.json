@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160816", "enisaUuid": "7daef9af-04e5-39e8-b8e1-9b538cd0f0cf", "description": "Malicious code in bufver-xor (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16315"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

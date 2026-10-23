@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122135", "enisaUuid": "cbc80f45-3383-30a9-b243-2717d85f14f6", "description": "Malicious code in sedna-promise-dotenv-parse-variables-vega (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147788"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

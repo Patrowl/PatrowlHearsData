@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189279", "enisaUuid": "99d6177d-6a73-3767-ab48-e9ac56c00717", "description": "Malicious code in writable-express-loopback-bioinformatics (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39493"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

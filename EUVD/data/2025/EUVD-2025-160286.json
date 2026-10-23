@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160286", "enisaUuid": "6a41249d-a191-3534-8f16-7073d9ceb7b7", "description": "Malicious code in blackhole-hyperion-jwt-command (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15785"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

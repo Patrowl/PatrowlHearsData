@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116660", "enisaUuid": "85e7cdae-3e55-3e0c-98ab-76fe20983c71", "description": "Malicious code in antares-supervisor-kinetic-nodemon (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139442"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

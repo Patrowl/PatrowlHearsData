@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121498", "enisaUuid": "e3e67998-b07e-364f-a570-ba89b5560226", "description": "Malicious code in sync-pulsar-sequelize-framework (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148430"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75614", "enisaUuid": "00d7bfea-8a3a-34d0-a549-bf146d1a13a6", "description": "Malicious code in slimy_macaw-tool (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-108827"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

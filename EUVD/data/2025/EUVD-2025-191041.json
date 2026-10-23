@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191041", "enisaUuid": "37b6ad38-d072-3991-bf90-540e5817b012", "description": "Malicious code in sdp-transform-parser (npm)", "datePublished": "2025-08-21T18:55:55", "dateUpdated": "2025-09-26T11:06:45", "baseScore": 0.0, "aliases": ["MAL-2025-41263"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

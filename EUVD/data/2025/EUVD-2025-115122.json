@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115122", "enisaUuid": "21de9979-3172-3bb2-bb33-bcece78c27b7", "description": "Malicious code in commitlint-got-graphql-blaze (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140986"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

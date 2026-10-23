@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176205", "enisaUuid": "b5550b45-1b5d-3dd5-9659-cf9a89accf3d", "description": "Malicious code in stop-callback-wezen-quark (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189670"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

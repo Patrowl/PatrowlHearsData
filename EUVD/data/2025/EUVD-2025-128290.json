@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128290", "enisaUuid": "540ce4fa-840a-3f62-807a-af0e8d246ec2", "description": "Malicious code in fatfingers-mybigpackage (npm)", "datePublished": "2025-05-26T04:23:30", "dateUpdated": "2025-05-26T04:23:30", "baseScore": 0.0, "aliases": ["MAL-2025-4558"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

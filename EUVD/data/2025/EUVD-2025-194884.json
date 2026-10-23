@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194884", "enisaUuid": "5e0df8ee-f983-3e71-a18f-704e89dcdb62", "description": "Malicious code in materialize-void-neptune-mesosphere (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45131"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

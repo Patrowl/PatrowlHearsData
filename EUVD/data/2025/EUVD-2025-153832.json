@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-153832", "enisaUuid": "44c0dac7-635b-39b8-be92-86daf18061c5", "description": "Malicious code in @solanas-libs/check-balance (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-9331"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

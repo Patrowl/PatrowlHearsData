@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111886", "enisaUuid": "1320c7d0-04d1-3e9e-9829-8f58289e908e", "description": "Malicious code in kronos-soap-mongoose-nightwatch (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144227"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

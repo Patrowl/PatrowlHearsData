@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161670", "enisaUuid": "1b676ca9-704b-30f2-8954-373bdd82ba6d", "description": "Malicious code in cloud-shell-getting-started (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17171"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195154", "enisaUuid": "f390b84a-dc2d-3510-a237-88cbc2a08135", "description": "Malicious code in oauth-standard-umbra-antares (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45402"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

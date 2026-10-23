@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116546", "enisaUuid": "f13d8f73-ae49-3127-8987-d82c2319dc10", "description": "Malicious code in aquarius-venus-nodejs-soap (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139556"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

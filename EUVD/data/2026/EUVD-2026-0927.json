@@ -1,0 +1,1 @@
+{"id": "EUVD-2026-0927", "enisaUuid": "2bd70a3d-7f35-3bc2-af5f-4592036f016a", "description": "Malicious code in @crepo/crepo-url-query-mapper (npm)", "datePublished": "2026-01-05T18:26:09", "dateUpdated": "2026-01-08T09:13:12", "baseScore": 0.0, "aliases": ["MAL-2026-56"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

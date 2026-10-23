@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191585", "enisaUuid": "234ae0ad-444b-3629-9f04-85d81e4ec808", "description": "Malicious code in azure-service-bus-emulator-node-sample (npm)", "datePublished": "2025-08-29T18:32:54", "dateUpdated": "2025-08-29T18:32:54", "baseScore": 0.0, "aliases": ["MAL-2025-41818"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

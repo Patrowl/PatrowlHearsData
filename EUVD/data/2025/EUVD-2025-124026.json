@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124026", "enisaUuid": "dd13a4bc-ebe3-3744-b28b-83604be95c02", "description": "Malicious code in ora-request-io-celeste (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145895"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

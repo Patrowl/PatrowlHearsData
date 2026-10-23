@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121143", "enisaUuid": "1f271989-392e-3c60-b11c-4d6e9ec8dc95", "description": "Malicious code in transport-dotenv-safe-kinetic-deimos (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148785"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

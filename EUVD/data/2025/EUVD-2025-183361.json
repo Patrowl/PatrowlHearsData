@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183361", "enisaUuid": "8cfe4473-924a-3dd5-9000-ec46efa400a6", "description": "Malicious code in soap-repository (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33576"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

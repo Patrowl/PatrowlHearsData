@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111731", "enisaUuid": "10aabe4c-ac11-3437-9fef-37368fcad8e0", "description": "Malicious code in library-package-chalk-commitizen (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144382"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

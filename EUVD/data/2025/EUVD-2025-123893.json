@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123893", "enisaUuid": "564ed4c0-d564-3443-9fe3-ef8561652221", "description": "Malicious code in pegasus-forever-jwt-cache (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146028"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

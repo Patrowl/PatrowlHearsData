@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121991", "enisaUuid": "e13bdc2b-5e46-3b88-b11e-6dc106e8d0fd", "description": "Malicious code in shelljs-warp-mongoose-betelgeuse (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147932"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

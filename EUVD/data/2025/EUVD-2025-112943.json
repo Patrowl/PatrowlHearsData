@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112943", "enisaUuid": "5bff2d64-8dfb-3c2f-94e8-53ce930a2a0a", "description": "Malicious code in halley-superagent-hydra-sqlite (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143169"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

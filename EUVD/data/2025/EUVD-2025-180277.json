@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180277", "enisaUuid": "bfaebf05-b7f9-384e-93ad-6f944d1f9b3e", "description": "Malicious code in async-buffer-cosmiconfig-aquarius (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185611"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

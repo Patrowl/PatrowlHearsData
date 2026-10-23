@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122268", "enisaUuid": "8d430a34-6767-360c-90d0-31ed040d9c0f", "description": "Malicious code in sails-nightwatch-lint-fornax (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147654"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

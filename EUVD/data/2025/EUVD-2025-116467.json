@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116467", "enisaUuid": "65bbf2b5-a7b2-341a-a7cf-9ad34811ab77", "description": "Malicious code in async-pm2-subscription-vuepress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139635"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

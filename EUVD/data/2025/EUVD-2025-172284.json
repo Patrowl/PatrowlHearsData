@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172284", "enisaUuid": "bda47c06-1547-32d4-a393-5ccb23e315d7", "description": "Malicious code in nova-sqlite-jovian-development (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27755"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

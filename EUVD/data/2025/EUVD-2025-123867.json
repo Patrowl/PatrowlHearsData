@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123867", "enisaUuid": "108dc14d-8b81-3017-93ca-1cc1f4c60c7a", "description": "Malicious code in pegasus-spectron-webdriver-neptune-uninstall (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146054"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

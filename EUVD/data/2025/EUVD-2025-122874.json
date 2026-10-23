@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122874", "enisaUuid": "162ac52b-12a3-3c54-bac0-87a2c8f34064", "description": "Malicious code in rate-limiter-soap-colors-testcafe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147048"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

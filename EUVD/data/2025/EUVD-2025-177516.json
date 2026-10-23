@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177516", "enisaUuid": "0eae63d7-533a-3a10-8888-38a7e728c89a", "description": "Malicious code in nu-interpret-container-grep-bad (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188366"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

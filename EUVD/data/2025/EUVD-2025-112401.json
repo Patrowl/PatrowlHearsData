@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112401", "enisaUuid": "7ebdbd2b-671d-3829-bd54-687af376dbb6", "description": "Malicious code in iota-bellatrix-husky-passport (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143712"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

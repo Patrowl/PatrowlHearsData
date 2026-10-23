@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114009", "enisaUuid": "1d09c696-80b8-366b-8c99-a12d656da9d9", "description": "Malicious code in epimetheus-nashira-node-config-forever (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142101"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

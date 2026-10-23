@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124823", "enisaUuid": "53a7f1db-a56f-3d84-ba54-84a0d7ae2a4d", "description": "Malicious code in mocha-typeorm-regulus-proxima (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145095"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

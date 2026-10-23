@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-204952", "enisaUuid": "787d5d4b-4e20-3498-a5fa-bbef294c45b0", "description": "Malicious code in @ownbackup/data-chart (npm)", "datePublished": "2025-12-23T07:49:16", "dateUpdated": "2025-12-24T00:53:15", "baseScore": 0.0, "aliases": ["MAL-2025-192701"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

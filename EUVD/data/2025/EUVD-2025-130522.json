@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130522", "enisaUuid": "a876c691-2035-3565-8fd4-67bdba2a5140", "description": "Malicious code in sendbird-docs-validation (npm)", "datePublished": "2025-08-07T05:40:39", "dateUpdated": "2025-08-07T06:10:17", "baseScore": 0.0, "aliases": ["MAL-2025-6800"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

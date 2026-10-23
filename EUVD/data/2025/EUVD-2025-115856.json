@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115856", "enisaUuid": "825a4e6e-7b9f-3b3d-b837-f7ccc8fa71cf", "description": "Malicious code in bunyan-morgan-gatsby-prompts (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140248"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

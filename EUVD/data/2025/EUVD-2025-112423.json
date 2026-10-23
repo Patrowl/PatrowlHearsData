@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112423", "enisaUuid": "236c3a2c-e242-3da8-8e77-ae5db2a86caa", "description": "Malicious code in install-uninstall-mira-sass-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143690"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

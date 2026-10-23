@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77782", "enisaUuid": "8c5c7667-7e9d-36f8-b06c-8ffdd94c1550", "description": "Malicious code in alert_stork_z3n (npm)", "datePublished": "2025-11-11T07:31:13", "dateUpdated": "2025-11-11T07:31:13", "baseScore": 0.0, "aliases": ["MAL-2025-99345"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120901", "enisaUuid": "7ccf85e3-0870-33bd-a53d-28d7cc3e696d", "description": "Malicious code in upgrade-publish-helios-nashira (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149028"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

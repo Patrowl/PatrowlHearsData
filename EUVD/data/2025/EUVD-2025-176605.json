@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176605", "enisaUuid": "f0de3298-4802-3687-b3f0-fe4c4d4b80e9", "description": "Malicious code in rollup-plugin-firebase-geochronology-version (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189270"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

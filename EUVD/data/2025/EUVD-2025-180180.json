@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180180", "enisaUuid": "2f38d625-d1f2-3dcb-b262-f71262a357b4", "description": "Malicious code in await-tree-cat-omega-authenticate (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185702"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179601", "enisaUuid": "b55077c0-e7d0-32d5-832e-73e91c8aaf1b", "description": "Malicious code in config-xml-sirius-config (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186281"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

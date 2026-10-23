@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131566", "enisaUuid": "92cca43f-d472-3de4-857d-4e10a3ade41c", "description": "Malicious code in @epc-tools/eslint (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7844"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

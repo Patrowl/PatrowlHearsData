@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183739", "enisaUuid": "a8597c18-1339-390e-ae3d-602b946465ed", "description": "Malicious code in start-scorpius-toml-build (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33954"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172733", "enisaUuid": "ac1e6084-e364-37f4-9bed-697aa247e652", "description": "Malicious code in old-throw-chi-boolean-slow (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28204"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

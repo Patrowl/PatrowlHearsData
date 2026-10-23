@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161678", "enisaUuid": "e9a574f1-206e-3a32-b81d-57e4ef8d9bd9", "description": "Malicious code in cloudera-manager-client (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17179"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

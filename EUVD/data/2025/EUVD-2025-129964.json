@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129964", "enisaUuid": "9e53b433-4c23-390e-992b-10c2ca756129", "description": "Malicious code in gafana-test-utils (npm)", "datePublished": "2025-07-25T07:20:51", "dateUpdated": "2025-07-28T04:47:48", "baseScore": 0.0, "aliases": ["MAL-2025-6237"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123917", "enisaUuid": "ed54ffbb-9c4a-3e9e-878a-1b62363a6ea3", "description": "Malicious code in pavo-nightwatch-electron-query (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146004"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

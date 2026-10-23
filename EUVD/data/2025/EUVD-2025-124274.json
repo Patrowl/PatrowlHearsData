@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124274", "enisaUuid": "60ab3db0-e1ae-328a-a32a-eae1279e8699", "description": "Malicious code in norma-react-bootstrap-commitlint-config-angular-dotenv (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145647"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

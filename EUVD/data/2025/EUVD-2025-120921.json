@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120921", "enisaUuid": "a3b61e19-2eba-309d-91a7-ec8a50663c9f", "description": "Malicious code in upgrade-chromedriver-typeorm-flare (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149008"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175428", "enisaUuid": "9ed0aa56-0984-3b65-87cb-f7b1b209e8b3", "description": "Malicious code in zenith-registry-materialize-quasar (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190448"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

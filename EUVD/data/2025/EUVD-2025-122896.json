@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122896", "enisaUuid": "4156e927-de32-3571-a0f7-ddfbd9d95724", "description": "Malicious code in radiant-tool-postcss-loader-algol (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147026"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

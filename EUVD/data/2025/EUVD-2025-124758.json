@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124758", "enisaUuid": "3677df6b-2a42-3886-a330-94733a8041f0", "description": "Malicious code in mongoose-module-elektra-halley (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145160"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

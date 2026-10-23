@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112426", "enisaUuid": "3e0e826d-dfab-39e6-aa07-ec703ac3c621", "description": "Malicious code in install-testcafe-quark-meissa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143687"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180221", "enisaUuid": "5451ff5e-6517-33aa-821e-6893f4392c99", "description": "Malicious code in auth0-sociobiology-apollo-umbra (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185667"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

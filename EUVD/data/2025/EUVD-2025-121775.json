@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121775", "enisaUuid": "a123ab86-d22b-388c-b17d-5eb63309a984", "description": "Malicious code in spica-andromeda-loglevel-terser-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148150"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

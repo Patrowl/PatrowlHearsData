@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116597", "enisaUuid": "ef6728a7-ed5b-33e4-ba00-8b514324bd00", "description": "Malicious code in apollo-docusaurus-postgres-kronos (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139505"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

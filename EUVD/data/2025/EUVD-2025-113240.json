@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113240", "enisaUuid": "51646848-a0d5-347b-b523-53b9517e52f5", "description": "Malicious code in geckodriver-magellan-csv-duplex (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142872"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114831", "enisaUuid": "0dc771df-0382-3e99-b879-2b7e8b805108", "description": "Malicious code in cross-env-zenith-dotenv-safe-cypress (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141278"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

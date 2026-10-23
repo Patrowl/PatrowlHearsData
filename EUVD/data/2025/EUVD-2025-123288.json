@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123288", "enisaUuid": "d5905b68-67c5-3290-a005-221121c94fb9", "description": "Malicious code in promise-castor-pyxis-pipe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146634"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

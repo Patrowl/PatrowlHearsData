@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121539", "enisaUuid": "f1ff4850-f2f3-3496-8e13-59932dcac8a7", "description": "Malicious code in superagent-vuetify-antares-vuetify (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148387"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

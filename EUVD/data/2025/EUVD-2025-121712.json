@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121712", "enisaUuid": "4cc9647a-09f5-390d-a908-1b1544f88730", "description": "Malicious code in spinner-uglify-js-sequelize-sync (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148213"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

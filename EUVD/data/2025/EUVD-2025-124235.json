@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124235", "enisaUuid": "7c42b5ff-bb2a-3ead-b5e9-022c52b2c650", "description": "Malicious code in npm-norma-remark-cluster (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145686"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

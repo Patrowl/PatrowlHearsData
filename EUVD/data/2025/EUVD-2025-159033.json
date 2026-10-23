@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159033", "enisaUuid": "9d973f48-8d33-32e8-a778-98da391a137d", "description": "Malicious code in angular-truncate (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14532"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

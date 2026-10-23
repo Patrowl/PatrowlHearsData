@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176598", "enisaUuid": "759498f7-9ff7-3a9c-8a91-8457d6cccce8", "description": "Malicious code in root-analyze-short-warn-byte (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189277"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

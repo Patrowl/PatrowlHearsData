@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193342", "enisaUuid": "61eebc0c-168d-38fc-a4ea-a991fbafe0b7", "description": "Malicious code in barnard-sequelize-buffer-duplex (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43589"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

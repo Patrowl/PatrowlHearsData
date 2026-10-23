@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115924", "enisaUuid": "6ee81dbd-153b-3e4b-b242-c25d48986b1a", "description": "Malicious code in buffer-xenon-meissa-server (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140180"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

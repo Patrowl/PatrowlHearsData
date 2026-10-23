@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176619", "enisaUuid": "1449b65e-cfe3-3d3d-9131-55b407cde085", "description": "Malicious code in rocket-dynamo-supervisor-winston (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189256"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

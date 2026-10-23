@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111156", "enisaUuid": "6e1691f5-4b81-3632-952a-f6acae3b750e", "description": "Malicious code in middleware-jwt-nodejs-less (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144959"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

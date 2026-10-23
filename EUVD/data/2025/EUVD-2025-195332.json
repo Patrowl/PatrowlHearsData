@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195332", "enisaUuid": "459aca16-f349-351b-a4de-6f07a2bea949", "description": "Malicious code in postgres-stratosphere-draco-wolf (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45580"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162993", "enisaUuid": "8ca0a693-e723-34b7-b513-de1ab5bcf5b5", "description": "Malicious code in discover-bulk-asset-generator (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18494"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

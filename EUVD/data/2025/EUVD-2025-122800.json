@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122800", "enisaUuid": "a452e6a8-e56b-3fe9-9319-df1c69bcae81", "description": "Malicious code in registry-csv-corvus-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147122"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

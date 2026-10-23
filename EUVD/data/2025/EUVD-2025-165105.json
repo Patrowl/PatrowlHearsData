@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165105", "enisaUuid": "1015fbf0-f345-35cb-811e-44e2fc27c15e", "description": "Malicious code in firebase-io-taurus-procyon (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20586"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114202", "enisaUuid": "bec5c0d1-c318-3a20-8193-69d18e56ee17", "description": "Malicious code in electron-builder-mensa-capella-fork (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141908"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111963", "enisaUuid": "0ea3ffe8-f8ab-3ce1-848d-0c586f6d4ce1", "description": "Malicious code in kaus-materialize-event-prettier-plugin-markdown (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144150"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

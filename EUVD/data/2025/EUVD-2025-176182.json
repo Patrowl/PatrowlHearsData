@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176182", "enisaUuid": "49f7adf8-7a35-38b1-8600-c8aa4e5e762d", "description": "Malicious code in string-container-benchmark-phi-cat (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189693"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

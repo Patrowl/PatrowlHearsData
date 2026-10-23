@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123344", "enisaUuid": "98ac5602-475f-3308-8dab-8bc8e40ba4da", "description": "Malicious code in procyon-axios-babel-eleventy (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146578"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

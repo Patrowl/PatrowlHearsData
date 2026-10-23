@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116145", "enisaUuid": "333640dd-d914-39d9-82a4-12fc994e90d2", "description": "Malicious code in bellatrix-spawn-iota-convict (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139957"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

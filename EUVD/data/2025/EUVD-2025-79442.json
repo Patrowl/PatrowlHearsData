@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-79442", "enisaUuid": "bb73f529-1742-370a-9516-a5a45b563492", "description": "Malicious code in dependent_worm_z3n (npm)", "datePublished": "2025-11-11T07:31:13", "dateUpdated": "2025-11-11T07:31:13", "baseScore": 0.0, "aliases": ["MAL-2025-101353"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

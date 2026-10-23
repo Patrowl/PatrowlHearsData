@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196965", "enisaUuid": "be4f517f-8814-3ae1-ab40-7df3c749ffbf", "description": "Malicious code in @bonk-sdk/ipfs (npm)", "datePublished": "2025-09-17T20:52:16", "dateUpdated": "2025-09-26T11:06:44", "baseScore": 0.0, "aliases": ["MAL-2025-47428"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

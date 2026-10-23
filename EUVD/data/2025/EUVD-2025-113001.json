@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113001", "enisaUuid": "23e623d3-4a1d-3c24-9d48-cd74fa949e53", "description": "Malicious code in gulp-blitz-radiant-lint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143111"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

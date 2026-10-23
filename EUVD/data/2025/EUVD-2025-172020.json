@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172020", "enisaUuid": "5197a8af-fd03-3c46-a62f-ad64f78fe280", "description": "Malicious code in ni-node-devtools (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27491"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

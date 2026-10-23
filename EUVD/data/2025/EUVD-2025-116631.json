@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116631", "enisaUuid": "c28c1885-615f-304b-a244-dd4e91f309dc", "description": "Malicious code in antd-yaml-rate-limiter-zenobia (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139471"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

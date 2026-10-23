@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163744", "enisaUuid": "e5c34034-937e-3c69-945b-37706d5d837e", "description": "Malicious code in egg-plugin-knex (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19246"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

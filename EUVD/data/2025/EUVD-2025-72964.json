@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-72964", "enisaUuid": "746b12e9-23e0-31a5-a12f-c9c941ebc2df", "description": "Malicious code in weak_clam_z3n (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-97326"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129155", "enisaUuid": "e21e3349-45f7-3b8d-ae4f-b4867c7fcae2", "description": "Malicious code in kendo.core.min (npm)", "datePublished": "2025-06-25T14:51:14", "dateUpdated": "2025-06-25T14:51:14", "baseScore": 0.0, "aliases": ["MAL-2025-5426"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

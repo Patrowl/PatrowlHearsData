@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122885", "enisaUuid": "a93a78f0-1d03-3b49-b827-79e4789908c0", "description": "Malicious code in rate-limiter-europa-pino-pretty-google (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147037"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

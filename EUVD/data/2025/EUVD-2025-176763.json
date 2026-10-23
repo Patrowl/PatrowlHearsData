@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176763", "enisaUuid": "d1309586-48f1-39b9-9b68-066bbd3893f2", "description": "Malicious code in redshift-build-geodynamo-hyperion (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189112"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

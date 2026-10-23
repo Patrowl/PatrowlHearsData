@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77142", "enisaUuid": "aae815c5-77b5-3958-8cd6-cdf40d1b4e3b", "description": "Malicious code in deep_dragonfly-apptea (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-101257"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

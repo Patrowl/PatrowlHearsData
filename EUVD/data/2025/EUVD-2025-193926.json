@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193926", "enisaUuid": "57167a5d-a948-3572-ae84-3a4c4dbdd4b6", "description": "Malicious code in eslint-plugin-outercore-mysql-io (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44173"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

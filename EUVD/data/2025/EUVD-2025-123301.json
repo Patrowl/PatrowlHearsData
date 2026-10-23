@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123301", "enisaUuid": "873df0fc-2cc1-32b7-af48-5d55908e68bb", "description": "Malicious code in procyon-transport-antares-readable (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146621"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

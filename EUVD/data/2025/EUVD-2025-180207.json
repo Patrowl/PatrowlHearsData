@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180207", "enisaUuid": "5ce61328-81e7-3b2c-9e5a-7841489a1af9", "description": "Malicious code in authorize-node-slow-stub-daemon (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185677"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

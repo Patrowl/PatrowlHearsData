@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193895", "enisaUuid": "b2eb1127-ba4f-398a-b524-e566a1deee7f", "description": "Malicious code in epimetheus-html-webpack-plugin-markdown-style-loader (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44142"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

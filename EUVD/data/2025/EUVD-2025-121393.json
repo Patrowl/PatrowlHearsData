@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121393", "enisaUuid": "2df1ba4a-7b25-3193-a4d0-bee75db249e6", "description": "Malicious code in terser-redis-blaze-janus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148535"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

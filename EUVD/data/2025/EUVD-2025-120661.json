@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120661", "enisaUuid": "41efd150-540b-356c-afd3-f3f885c0bc39", "description": "Malicious code in warp-dotenv-safe-rehype-hermes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149268"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

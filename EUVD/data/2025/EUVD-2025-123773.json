@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123773", "enisaUuid": "b88f3e26-4d57-33c5-bd15-860af2765b50", "description": "Malicious code in phoebe-dactyl-hydra-uglify-js (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146148"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

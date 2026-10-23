@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191752", "enisaUuid": "6370dda2-e38d-3722-a529-8cb6ace41088", "description": "Malicious code in function-bluebird (npm)", "datePublished": "2025-08-28T14:51:46", "dateUpdated": "2025-08-28T14:51:46", "baseScore": 0.0, "aliases": ["MAL-2025-41986"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

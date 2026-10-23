@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180002", "enisaUuid": "8ef30b85-645e-39f2-a452-32b7f409ef82", "description": "Malicious code in boolean-xml-encrypt-hash-enum (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185880"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178467", "enisaUuid": "3498281c-362d-38f9-9444-10a296c66031", "description": "Malicious code in hyperion-postgres-eslint-config-warp (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187415"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

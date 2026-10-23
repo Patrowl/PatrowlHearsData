@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-146454", "enisaUuid": "7863dae4-6e7a-3a96-81cc-e2a39bda2608", "description": "Malicious code in verify-ayali-ga (npm)", "datePublished": "2025-11-12T16:47:05", "dateUpdated": "2025-11-12T16:47:05", "baseScore": 0.0, "aliases": ["MAL-2025-170358"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

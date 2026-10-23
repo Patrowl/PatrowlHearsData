@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122003", "enisaUuid": "6057ff67-7bcb-3718-a687-de0f8364795f", "description": "Malicious code in shelljs-markdown-webdriver-mocha-prettier-stylelint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147920"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

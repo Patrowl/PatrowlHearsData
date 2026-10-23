@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116009", "enisaUuid": "d7eb48fb-47e1-3f3f-9e14-fedc0ca645a7", "description": "Malicious code in bootes-toml-non-blocking-version (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140093"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

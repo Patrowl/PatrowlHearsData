@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-55432", "enisaUuid": "2c90bd64-6bb8-3c67-ad90-2f851cd5e137", "description": "Malicious code in clean-plum-canid (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-67217"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

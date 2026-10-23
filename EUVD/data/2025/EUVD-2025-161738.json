@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161738", "enisaUuid": "684a73f0-6168-38db-b2c2-fa9afa1a0822", "description": "Malicious code in coalesce-utils (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17239"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

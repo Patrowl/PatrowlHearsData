@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179840", "enisaUuid": "5b61e84e-b031-35ee-8fdb-74cd125e0552", "description": "Malicious code in celeste-baryon-stop-nodejs (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186042"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

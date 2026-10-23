@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113650", "enisaUuid": "7d72d71a-736b-30e6-ad58-9fcccd4b9e2c", "description": "Malicious code in fetch-virgo-pegasus-phoenix (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142461"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

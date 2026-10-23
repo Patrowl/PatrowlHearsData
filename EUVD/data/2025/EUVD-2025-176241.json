@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176241", "enisaUuid": "f13f2794-ff72-3f2b-bd90-e20866a8f297", "description": "Malicious code in sqlite-duplex-robotics-loglevel (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189634"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

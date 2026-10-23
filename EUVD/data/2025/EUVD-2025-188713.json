@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188713", "enisaUuid": "10f17f8b-0d69-3018-870f-3b8bc16a246e", "description": "Malicious code in wavy-logger (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38927"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

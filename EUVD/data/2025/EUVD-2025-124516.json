@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124516", "enisaUuid": "1c774fbb-38c1-3e13-8116-17fbfbd4622b", "description": "Malicious code in nestjs-sass-loader-pegasus-kastra (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145404"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

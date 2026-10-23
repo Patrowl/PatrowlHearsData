@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162788", "enisaUuid": "a0f40fe4-5488-3bc4-beeb-4be9a36733e0", "description": "Malicious code in dependencies-testcafe-janus-thermosphere (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18289"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

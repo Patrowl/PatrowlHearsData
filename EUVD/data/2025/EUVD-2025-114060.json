@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114060", "enisaUuid": "fa5c122b-5472-3208-b5c4-b4d8e1cdb74a", "description": "Malicious code in enif-gatsby-fetch-lacerta (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142050"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

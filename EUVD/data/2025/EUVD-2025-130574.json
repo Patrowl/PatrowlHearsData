@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130574", "enisaUuid": "394d0926-6e32-39f3-8de2-d1f5564359dd", "description": "Malicious code in sendbird-groupchannel (npm)", "datePublished": "2025-08-08T19:54:35", "dateUpdated": "2025-08-29T06:43:17", "baseScore": 0.0, "aliases": ["MAL-2025-6852"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

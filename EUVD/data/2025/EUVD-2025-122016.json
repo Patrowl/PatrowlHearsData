@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122016", "enisaUuid": "a415c555-8d5c-3348-8b19-085a00ddfcad", "description": "Malicious code in shelljs-airbnb-morgan-protractor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147907"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164362", "enisaUuid": "f56be9a1-5780-39aa-a7cd-7ad1c0bc29e2", "description": "Malicious code in eslint-config-techintouch (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19842"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

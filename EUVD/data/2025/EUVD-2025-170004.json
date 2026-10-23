@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170004", "enisaUuid": "f223f2c4-b463-3380-9a5d-0b9310b4a36a", "description": "Malicious code in loadyaml (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25475"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

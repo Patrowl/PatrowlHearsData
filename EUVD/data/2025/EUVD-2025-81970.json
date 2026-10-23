@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-81970", "enisaUuid": "d79ffa21-8daf-3fc4-b432-55391dfc76c0", "description": "Malicious code in explicit_puma_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-102405"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

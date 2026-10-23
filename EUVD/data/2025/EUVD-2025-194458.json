@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194458", "enisaUuid": "ee21c446-af40-3b0b-b889-70c2dc97fa72", "description": "Malicious code in internal-helper-utils (npm)", "datePublished": "2025-09-01T20:35:37", "dateUpdated": "2025-09-26T11:06:45", "baseScore": 0.0, "aliases": ["MAL-2025-44705"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

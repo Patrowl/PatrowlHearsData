@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179907", "enisaUuid": "2579a0a1-ca51-3e36-8eab-eb891f940cb9", "description": "Malicious code in callback-fomalhaut-slidev-library (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185975"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

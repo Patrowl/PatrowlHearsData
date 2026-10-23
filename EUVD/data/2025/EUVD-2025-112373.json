@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112373", "enisaUuid": "d5528359-443f-34ef-8edc-25cd899b3d32", "description": "Malicious code in iota-radiant-auth-celeste (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143740"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

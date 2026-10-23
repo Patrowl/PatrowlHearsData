@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131681", "enisaUuid": "43bd8381-f537-3b55-b6bd-62d72e324107", "description": "Malicious code in @frozen-team-qa/positions-service (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7959"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

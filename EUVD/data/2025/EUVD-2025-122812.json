@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122812", "enisaUuid": "e1e866ed-7287-314a-8b82-a5156c66f69f", "description": "Malicious code in redis-module-prompts-phoebe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147110"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172344", "enisaUuid": "3d9e5946-f49a-3150-ab41-d969862b3ed6", "description": "Malicious code in now-auto-alias (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27815"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

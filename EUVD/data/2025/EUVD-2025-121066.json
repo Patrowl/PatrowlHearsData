@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121066", "enisaUuid": "a608e0a9-b56b-3b65-a99d-50f968ab76ee", "description": "Malicious code in typeorm-uninstall-rigel-sadr (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148862"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

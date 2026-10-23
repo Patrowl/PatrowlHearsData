@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121939", "enisaUuid": "d3e05a11-3790-3f8b-af97-7c3a8e918229", "description": "Malicious code in slides-graphql-markdown-pdf-dynamo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147986"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

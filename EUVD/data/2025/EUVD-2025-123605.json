@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123605", "enisaUuid": "f3b24d4a-dfa1-3dec-b09b-4d4726496f66", "description": "Malicious code in pm2-xerxes-luna-nodejs (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146316"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122163", "enisaUuid": "2265dead-faea-3eb3-a8d4-b49ba741b180", "description": "Malicious code in sedna-cli-csrf-telesto (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147760"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

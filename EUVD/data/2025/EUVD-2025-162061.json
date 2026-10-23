@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162061", "enisaUuid": "d7fb13da-87af-3ecd-83b4-7a206f01aee7", "description": "Malicious code in cordelia-transport-electron-builder-algol (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17562"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

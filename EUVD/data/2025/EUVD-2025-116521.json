@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116521", "enisaUuid": "855ff59e-e003-38da-8b77-0973c6a28329", "description": "Malicious code in ariel-build-octans-cors (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139581"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

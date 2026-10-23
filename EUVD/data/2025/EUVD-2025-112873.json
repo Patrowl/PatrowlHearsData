@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112873", "enisaUuid": "572aaf01-f9fd-3c19-8957-3c4c880b4c82", "description": "Malicious code in helios-quasar-karma-webdriver-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143239"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

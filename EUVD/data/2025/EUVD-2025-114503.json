@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114503", "enisaUuid": "e91519bd-c1ce-3ad0-be1b-1429ddf7e517", "description": "Malicious code in despina-publish-dynamo-got (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141606"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

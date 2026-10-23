@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116431", "enisaUuid": "c11f1c84-2e7e-3aed-a7cb-d7cf3c68bdb2", "description": "Malicious code in auriga-algol-bootstrap-upgrade (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139671"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

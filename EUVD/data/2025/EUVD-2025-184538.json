@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184538", "enisaUuid": "d1dd637f-d688-3d23-811f-2e336a9761dc", "description": "Malicious code in terser-module-csv-promise (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34754"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

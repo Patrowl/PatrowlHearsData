@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129031", "enisaUuid": "7bc62c55-b4f4-330c-9d1b-5bbb31d27a1b", "description": "Malicious code in beanstalk-api (npm)", "datePublished": "2025-06-28T15:35:47", "dateUpdated": "2025-07-02T01:10:21", "baseScore": 0.0, "aliases": ["MAL-2025-5302"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

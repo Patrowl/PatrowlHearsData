@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197039", "enisaUuid": "5a4843bf-9933-3fc0-bcc8-fdaab0a34eab", "description": "Malicious code in @bgrc/kyc-theme (npm)", "datePublished": "2025-09-23T15:35:42", "dateUpdated": "2025-09-23T15:35:42", "baseScore": 0.0, "aliases": ["MAL-2025-47513"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

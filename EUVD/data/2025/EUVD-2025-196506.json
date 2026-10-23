@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196506", "enisaUuid": "cca4ad06-9db9-35ea-837f-2b39bb9b6d47", "description": "Malicious code in yaml-transform-rollup-plugin-dione (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46754"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

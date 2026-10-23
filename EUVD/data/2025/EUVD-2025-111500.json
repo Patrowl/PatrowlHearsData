@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111500", "enisaUuid": "f6dc5332-b138-3b65-ac08-2126a78dc4c9", "description": "Malicious code in lyra-schema-carina-materialize (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144615"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

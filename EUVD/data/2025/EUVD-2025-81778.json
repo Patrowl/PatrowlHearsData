@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-81778", "enisaUuid": "b76ae20c-31cc-3a96-85b1-8840df2d388d", "description": "Malicious code in governing_basilisk_replicate_automation (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-103319"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

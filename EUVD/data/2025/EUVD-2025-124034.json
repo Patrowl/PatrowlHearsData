@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124034", "enisaUuid": "886da21f-2d49-3f32-98a9-db54b35d5bc5", "description": "Malicious code in ora-jest-nodemon-levels (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145887"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

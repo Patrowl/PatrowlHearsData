@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115080", "enisaUuid": "1726014f-a71e-3511-aa60-fb46c2ef22ba", "description": "Malicious code in config-lint-staged-backend-mui (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141029"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

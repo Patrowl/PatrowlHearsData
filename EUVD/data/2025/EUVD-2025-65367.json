@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-65367", "enisaUuid": "0b00cfbe-dccf-37a6-aa89-885e99d3399a", "description": "Malicious code in alert_tortoise_z3n (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-93187"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

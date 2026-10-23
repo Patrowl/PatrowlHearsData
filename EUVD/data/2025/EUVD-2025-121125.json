@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121125", "enisaUuid": "c6aff88d-11d9-3b68-b2cf-93f4421f337e", "description": "Malicious code in transport-stream-nebula-phoebe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148803"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123030", "enisaUuid": "c960658c-f672-3ab1-9c6a-7713cb606c83", "description": "Malicious code in pyxis-thuban-redis-nightwatch (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146892"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

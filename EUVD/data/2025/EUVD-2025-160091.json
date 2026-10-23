@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160091", "enisaUuid": "a2ba60bc-1764-3e55-965d-d1c9cf819e60", "description": "Malicious code in belmgr-plugins (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15590"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

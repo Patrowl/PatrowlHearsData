@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176563", "enisaUuid": "0fd36dcc-fe1f-359e-80e8-e23bf92a4620", "description": "Malicious code in sagitta-frontend-eslint-config-cors (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189312"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

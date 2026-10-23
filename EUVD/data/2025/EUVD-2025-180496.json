@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180496", "enisaUuid": "daae0091-87f9-3389-82a4-11205480f5c4", "description": "Malicious code in aether-mui-postgres-mira (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185392"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

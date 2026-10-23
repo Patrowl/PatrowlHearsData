@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178064", "enisaUuid": "490bf028-167c-3df6-9b34-2639dac62b34", "description": "Malicious code in lint-staged-tailwindcss-altair-dotenv-safe (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187818"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113550", "enisaUuid": "fe829fa6-0afb-3a71-b221-7382f1842189", "description": "Malicious code in forever-await-despina-eslint-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142562"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114539", "enisaUuid": "5e46a8c2-55a9-3e8b-b84e-d1d654d8ab6a", "description": "Malicious code in dependencies-install-xenon-venus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141570"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

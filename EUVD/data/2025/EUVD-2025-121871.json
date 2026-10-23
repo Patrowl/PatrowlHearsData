@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121871", "enisaUuid": "9d0a7c14-ecd7-3021-87cd-4a475abebbd4", "description": "Malicious code in socketio-geckodriver-child-process-exec (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148054"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

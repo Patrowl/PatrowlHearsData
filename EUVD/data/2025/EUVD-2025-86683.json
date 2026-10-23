@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-86683", "enisaUuid": "0785b1a6-07b4-35fc-9dc2-70bc9280df48", "description": "Malicious code in consistent_tarsier_z3n (npm)", "datePublished": "2025-11-11T04:25:34", "dateUpdated": "2025-11-11T15:48:14", "baseScore": 0.0, "aliases": ["MAL-2025-84251"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

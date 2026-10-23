@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115995", "enisaUuid": "3b97d073-89c0-3eeb-98c3-b5ca447eeffa", "description": "Malicious code in bootstrap-hugo-altair-rehype (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140107"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

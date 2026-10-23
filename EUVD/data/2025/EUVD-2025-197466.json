@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197466", "enisaUuid": "34a916bd-ba4e-37d3-8171-d23524d3db27", "description": "Malicious code in shiprocket-invoice-export (npm)", "datePublished": "2025-10-21T15:41:48", "dateUpdated": "2025-10-21T15:41:48", "baseScore": 0.0, "aliases": ["MAL-2025-48760"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

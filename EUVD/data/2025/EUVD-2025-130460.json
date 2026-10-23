@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130460", "enisaUuid": "36659437-a945-320d-b5d4-79883d733109", "description": "Malicious code in newrelic-scheduler (npm)", "datePublished": "2025-08-02T09:16:16", "dateUpdated": "2025-08-05T06:46:43", "baseScore": 0.0, "aliases": ["MAL-2025-6737"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

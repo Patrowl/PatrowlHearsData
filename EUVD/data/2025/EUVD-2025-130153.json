@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130153", "enisaUuid": "c7da7aee-8c1e-3b38-b151-9a7d806a9fbc", "description": "Malicious code in keypair-encryption-utils (npm)", "datePublished": "2025-07-31T19:33:22", "dateUpdated": "2025-07-31T19:33:22", "baseScore": 0.0, "aliases": ["MAL-2025-6427"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

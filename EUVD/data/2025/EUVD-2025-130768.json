@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130768", "enisaUuid": "f6795bce-127b-3bb9-8068-cfde73d6f352", "description": "Malicious code in @adzu/jshost-events (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7046"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

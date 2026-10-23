@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75920", "enisaUuid": "dd9e6812-249a-3935-8227-9ea4313be7c4", "description": "Malicious code in public_tick-apptea (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-107417"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

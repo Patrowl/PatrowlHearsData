@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122488", "enisaUuid": "8344a307-ed9f-380d-9742-6d231d4af027", "description": "Malicious code in rigel-magellan-dotenv-parse-variables-mensa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147434"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

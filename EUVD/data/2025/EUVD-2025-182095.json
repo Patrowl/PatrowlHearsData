@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182095", "enisaUuid": "1c17d8fc-9456-31c2-8933-62d198b30e9d", "description": "Malicious code in rlogcat (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32310"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

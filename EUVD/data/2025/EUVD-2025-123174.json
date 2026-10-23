@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123174", "enisaUuid": "998c6c96-8fd5-36d5-8793-8e67bd3682c0", "description": "Malicious code in proxima-vortex-buffer-sync (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146748"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

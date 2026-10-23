@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115915", "enisaUuid": "6fdd8802-5aea-3741-af19-476c98f3439d", "description": "Malicious code in build-quantum-alphard-figures (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140189"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

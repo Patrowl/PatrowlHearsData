@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123995", "enisaUuid": "8eace576-eb71-3a7a-81a6-d8901a40e33a", "description": "Malicious code in package-canopus-cluster-grus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145926"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

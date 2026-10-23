@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196628", "enisaUuid": "3811290f-c979-3940-8fcd-5158d9a8fb19", "description": "Malicious code in zephyr-electron-builder-cross-env-cressida (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46876"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

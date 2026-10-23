@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128866", "enisaUuid": "7a126772-fba9-3f0a-934f-e4d16f2da8d2", "description": "Malicious code in solana-data (PyPI)", "datePublished": "2025-06-18T10:15:24", "dateUpdated": "2025-06-18T10:15:24", "baseScore": 0.0, "aliases": ["MAL-2025-5137"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

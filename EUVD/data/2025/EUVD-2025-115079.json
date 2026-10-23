@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115079", "enisaUuid": "9d8b8448-89bc-3df0-9f3a-8eb24019dc6e", "description": "Malicious code in config-lynx-bulma-webdriver-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141030"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

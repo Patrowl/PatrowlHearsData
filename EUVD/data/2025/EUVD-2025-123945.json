@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123945", "enisaUuid": "7e2f3b82-a0f4-362a-9b94-1e21260dbffb", "description": "Malicious code in passport-auth-mongoose-phoebe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145976"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

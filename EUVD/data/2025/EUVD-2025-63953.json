@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63953", "enisaUuid": "ce0ce7cf-d146-3232-b67b-06bd64e36510", "description": "Malicious code in free_hornet_z3n (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-94601"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

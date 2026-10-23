@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182813", "enisaUuid": "0dc4acb1-cd86-3640-95cd-8ca70f0485bc", "description": "Malicious code in setupvps (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33028"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

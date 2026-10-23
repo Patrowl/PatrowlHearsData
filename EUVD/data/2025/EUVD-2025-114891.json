@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114891", "enisaUuid": "85dab55d-25a3-30c3-8944-afbb68d668e7", "description": "Malicious code in cosmos-rest-commitlint-config-angular-async (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141218"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

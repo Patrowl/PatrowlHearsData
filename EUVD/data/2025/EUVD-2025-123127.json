@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123127", "enisaUuid": "d3896f1a-3786-3e36-89bc-d4cea1365acb", "description": "Malicious code in publish-miranda-hugo-hermes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146795"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

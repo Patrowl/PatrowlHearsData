@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128802", "enisaUuid": "4f6f90fd-885f-327f-a5b2-00a92a448bcd", "description": "Malicious code in bhosdataparser (npm)", "datePublished": "2025-06-18T10:23:00", "dateUpdated": "2025-06-18T10:23:00", "baseScore": 0.0, "aliases": ["MAL-2025-5073"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

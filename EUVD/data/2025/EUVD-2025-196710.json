@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196710", "enisaUuid": "be62d5f1-cdf6-38b0-bd45-16c981ef16a8", "description": "Malicious code in monolith-twirp-webhooks-core (RubyGems)", "datePublished": "2025-09-01T09:53:14", "dateUpdated": "2025-09-01T09:53:14", "baseScore": 0.0, "aliases": ["MAL-2025-46958"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121360", "enisaUuid": "554febca-762c-30ff-8c45-ff5424d181dd", "description": "Malicious code in test-cross-env-json-iota (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148568"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

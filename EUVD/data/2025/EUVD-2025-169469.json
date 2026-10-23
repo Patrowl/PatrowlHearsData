@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169469", "enisaUuid": "f9c53753-5d3d-3d9d-9f91-6c0ab858bc75", "description": "Malicious code in lambda-pipeline-construct (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24940"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

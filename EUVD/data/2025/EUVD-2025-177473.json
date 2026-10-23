@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177473", "enisaUuid": "5a14e0b7-1fae-3334-a283-dd28d7c83289", "description": "Malicious code in old-string-protected-omega-decode (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188409"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

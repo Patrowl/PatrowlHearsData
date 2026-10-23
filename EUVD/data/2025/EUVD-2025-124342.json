@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124342", "enisaUuid": "160f60f9-6c19-3bd2-9dbb-c855a631e873", "description": "Malicious code in nodemon-chalk-standard-cordelia (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145579"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

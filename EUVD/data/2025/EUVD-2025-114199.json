@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114199", "enisaUuid": "df101472-a6b4-3361-aa0f-e13f047e0e8b", "description": "Malicious code in electron-builder-package-remark-wasat (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141911"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195842", "enisaUuid": "89f87e30-8691-39c0-94ad-69b96e91a2be", "description": "Malicious code in slides-json-markdown-uglify-js (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46090"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

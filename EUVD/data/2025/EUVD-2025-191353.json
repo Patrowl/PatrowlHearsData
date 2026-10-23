@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191353", "enisaUuid": "ff14a1ef-1182-3f7f-9e73-6dae1f02f22e", "description": "Malicious code in oneauth-win64 (npm)", "datePublished": "2025-08-28T07:35:07", "dateUpdated": "2025-08-28T07:35:07", "baseScore": 0.0, "aliases": ["MAL-2025-41586"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

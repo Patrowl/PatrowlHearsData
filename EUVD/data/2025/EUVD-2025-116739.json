@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116739", "enisaUuid": "8205fdbf-dad7-3074-aaf1-b6faeeea1ce2", "description": "Malicious code in altair-rollup-bootstrap-webdriver-manager (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139363"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

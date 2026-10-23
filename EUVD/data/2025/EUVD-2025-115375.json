@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115375", "enisaUuid": "210a0969-b184-36b4-be4b-7b69c6ba5f6b", "description": "Malicious code in charon-redis-ariel-commitlint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140732"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

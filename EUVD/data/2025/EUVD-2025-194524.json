@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194524", "enisaUuid": "609d9933-8ba3-360f-a2ed-044fa01b5601", "description": "Malicious code in jest-weywot-leda-stream (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44771"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

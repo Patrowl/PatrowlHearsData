@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200757", "enisaUuid": "27c75fc2-93d2-3d5a-b920-0529b85763f5", "description": "Malicious code in elf-stats-wintry-hammer-196 (npm)", "datePublished": "2025-12-03T15:59:29", "dateUpdated": "2025-12-03T15:59:29", "baseScore": 0.0, "aliases": ["MAL-2025-192195"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

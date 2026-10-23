@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120525", "enisaUuid": "8da23e81-83aa-3ee2-8e5c-8317d3782657", "description": "Malicious code in webpack-prettier-stylelint-indus-version (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149404"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

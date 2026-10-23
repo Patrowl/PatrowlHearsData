@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122397", "enisaUuid": "5e6f8db9-d8e6-3bf0-a07f-c168ff8f9acf", "description": "Malicious code in rollup-plugin-virgo-uninstall-hercules (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147525"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

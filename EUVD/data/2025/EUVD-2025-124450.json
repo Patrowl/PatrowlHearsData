@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124450", "enisaUuid": "d8110809-3f42-3273-880e-1324ca5289d1", "description": "Malicious code in nightwatch-jest-titan-mongoose (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145471"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

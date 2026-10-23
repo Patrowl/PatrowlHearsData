@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120580", "enisaUuid": "049d954a-bef9-35b3-a806-9d4c48f6f2ad", "description": "Malicious code in webdriver-mocha-grus-zenobia-sass-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149349"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

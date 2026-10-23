@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130424", "enisaUuid": "77c1f09e-1d1e-3103-a752-fd09c65465d0", "description": "Malicious code in bridge-emulator (npm)", "datePublished": "2025-07-30T17:37:53", "dateUpdated": "2025-08-29T06:43:16", "baseScore": 0.0, "aliases": ["MAL-2025-6701"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

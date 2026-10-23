@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160723", "enisaUuid": "adf4def4-6e22-3fe9-b359-33a1ad79392b", "description": "Malicious code in bs58chcek (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16222"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

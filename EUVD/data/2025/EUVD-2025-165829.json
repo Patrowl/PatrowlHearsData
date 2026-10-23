@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165829", "enisaUuid": "2f223a39-ac31-3aa3-a19b-c4f6d0fc54fa", "description": "Malicious code in generator-unicorn-cli (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21310"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

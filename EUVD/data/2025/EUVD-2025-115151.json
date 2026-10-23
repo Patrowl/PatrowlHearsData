@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115151", "enisaUuid": "4696080e-a458-3278-90b2-d41496bc5196", "description": "Malicious code in commitlint-config-angular-babel-tethys-sirius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140957"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176476", "enisaUuid": "e3bccd37-d03c-3946-896d-31e81fc7e4b0", "description": "Malicious code in sed-float-bad-void-stack (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189399"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

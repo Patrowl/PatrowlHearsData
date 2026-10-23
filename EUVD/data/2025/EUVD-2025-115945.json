@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115945", "enisaUuid": "2e6d7f1a-644b-3fc4-9eb5-0709e2e45677", "description": "Malicious code in buffer-hapi-rigel-websockets (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140159"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

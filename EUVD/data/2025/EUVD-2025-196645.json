@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196645", "enisaUuid": "c1b72811-090b-3c8b-9736-986c65c5307a", "description": "Malicious code in aqueduct-client (RubyGems)", "datePublished": "2025-09-01T09:47:31", "dateUpdated": "2025-09-01T09:47:31", "baseScore": 0.0, "aliases": ["MAL-2025-46893"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

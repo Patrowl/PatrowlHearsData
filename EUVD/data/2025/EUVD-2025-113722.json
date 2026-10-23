@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113722", "enisaUuid": "6c022809-bac5-34ce-b48e-2f4dec69151e", "description": "Malicious code in express-non-blocking-radiant-fork (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142388"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

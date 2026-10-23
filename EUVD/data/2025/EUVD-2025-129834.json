@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129834", "enisaUuid": "9b08c5f0-584a-3610-964d-097cba830d5e", "description": "Malicious code in node-ts-cjs-auto (npm)", "datePublished": "2025-07-12T17:35:39", "dateUpdated": "2025-07-12T17:35:39", "baseScore": 0.0, "aliases": ["MAL-2025-6107"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

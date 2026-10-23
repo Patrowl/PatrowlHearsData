@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162674", "enisaUuid": "30bddd84-95a9-3312-97a9-daeb97c0153b", "description": "Malicious code in deep-thought-relay-client (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18175"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

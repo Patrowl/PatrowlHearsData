@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178472", "enisaUuid": "9bc31187-1940-3eb1-a58c-919a685208ee", "description": "Malicious code in hyperion-heka-promise-taurus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187410"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

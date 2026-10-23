@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113667", "enisaUuid": "98d68888-17a8-34e7-8dde-3b4835baed05", "description": "Malicious code in fetch-halley-await-dotenv-safe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142444"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

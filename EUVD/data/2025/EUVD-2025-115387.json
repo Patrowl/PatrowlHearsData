@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115387", "enisaUuid": "f1822cfa-c977-3a4b-9c71-87a0411acf5a", "description": "Malicious code in charon-csv-development-equinox (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140720"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

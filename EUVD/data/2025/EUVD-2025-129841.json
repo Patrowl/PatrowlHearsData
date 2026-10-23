@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129841", "enisaUuid": "038861cc-4a11-30ac-a37b-dfbf2236a533", "description": "Malicious code in openai-voice-agent-sdk-sample (npm)", "datePublished": "2025-07-12T12:29:22", "dateUpdated": "2025-07-12T12:29:22", "baseScore": 0.0, "aliases": ["MAL-2025-6114"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

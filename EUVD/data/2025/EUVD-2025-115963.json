@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115963", "enisaUuid": "87f90b49-5693-3ecc-9e7d-3090996f5707", "description": "Malicious code in browserify-sadr-writable-triton (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140141"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

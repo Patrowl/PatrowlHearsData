@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112992", "enisaUuid": "66acc4f2-02cc-3377-9f7b-c1b821154c40", "description": "Malicious code in gulp-nodejs-bellatrix-process (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143120"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179649", "enisaUuid": "564f152e-3202-3866-b66e-5ab04c1bbc68", "description": "Malicious code in command-leda-fetch-delphinus (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186233"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

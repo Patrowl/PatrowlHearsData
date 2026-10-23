@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130708", "enisaUuid": "2e0d9582-3ff9-3d28-ae30-98e69a700660", "description": "Malicious code in 1inch-p2p-sdk (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-6986"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

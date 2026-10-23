@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113573", "enisaUuid": "9885ae9b-6ee4-3bc2-854f-40125a7c5b8a", "description": "Malicious code in fomalhaut-eslint-plugin-winston-cors (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142539"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

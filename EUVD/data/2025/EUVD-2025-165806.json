@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165806", "enisaUuid": "0c11fff2-1965-3f83-acd9-ed5dc02564eb", "description": "Malicious code in generator-ikom-microservice (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21287"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

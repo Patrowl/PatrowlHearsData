@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116156", "enisaUuid": "73336d31-ce93-3801-95b7-c9477ebd56e0", "description": "Malicious code in bellatrix-nightmare-sequelize-materialize (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139946"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

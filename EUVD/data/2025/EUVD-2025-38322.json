@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-38322", "enisaUuid": "4b5755ff-a9f8-3cea-b577-ca1daeb9392e", "description": "Malicious code in globby-legacy (npm)", "datePublished": "2025-11-07T18:55:36", "dateUpdated": "2025-11-09T00:27:56", "baseScore": 0.0, "aliases": ["MAL-2025-49389"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

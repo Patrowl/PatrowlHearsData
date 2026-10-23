@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122697", "enisaUuid": "5d6ac05c-474a-37a7-81e8-5ef7ef0a2328", "description": "Malicious code in release-it-meteor-dorado-supervisor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147225"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

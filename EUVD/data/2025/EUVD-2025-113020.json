@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113020", "enisaUuid": "e0e28dda-5287-3f63-a808-2d6d476ff837", "description": "Malicious code in grus-envconfig-halley-upgrade (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143092"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

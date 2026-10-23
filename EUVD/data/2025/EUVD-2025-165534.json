@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165534", "enisaUuid": "58a11b6a-fa05-3734-9caf-1c96f9f9197a", "description": "Malicious code in fssp-request (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21015"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

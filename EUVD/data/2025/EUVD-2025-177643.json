@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177643", "enisaUuid": "823e5c05-ee65-3ff2-9909-1364bda57ed3", "description": "Malicious code in nestjs-equinox-fomalhaut-mutation (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188239"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

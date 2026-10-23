@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116625", "enisaUuid": "2e3aaea5-7d1e-357a-aed0-a6cf32c2cb48", "description": "Malicious code in apex-frontend-bootstrap-dynamo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139477"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

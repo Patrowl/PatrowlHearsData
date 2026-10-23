@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116303", "enisaUuid": "63b8707e-0114-3cd4-a056-00159c95872c", "description": "Malicious code in await-janus-chalk-magellan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139799"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

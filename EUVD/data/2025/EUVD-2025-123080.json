@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123080", "enisaUuid": "08f17db7-b3fb-3582-b2d6-b9017f69f208", "description": "Malicious code in pulsar-radiant-cypress-dione (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146842"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188806", "enisaUuid": "de59d9cf-74d6-3b4a-a5b3-fee671153011", "description": "Malicious code in webpack-bootstrap-halley-ophiuchus (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39020"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

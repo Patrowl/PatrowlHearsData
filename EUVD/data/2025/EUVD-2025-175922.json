@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175922", "enisaUuid": "3cab4f41-0c53-3054-aaed-b65fa5421f73", "description": "Malicious code in tool-callisto-betelgeuse-axios (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189953"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

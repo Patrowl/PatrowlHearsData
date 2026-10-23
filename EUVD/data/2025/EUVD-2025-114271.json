@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114271", "enisaUuid": "d79f52bc-1178-3b9f-be8e-d11704b5d15d", "description": "Malicious code in dynamo-sirius-envconfig-link (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141838"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

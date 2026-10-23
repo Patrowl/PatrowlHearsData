@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113612", "enisaUuid": "b11c3860-b19f-3070-83ba-c31221aa67bc", "description": "Malicious code in firebase-google-castor-standard (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142499"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

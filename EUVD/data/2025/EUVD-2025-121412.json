@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121412", "enisaUuid": "96119bb6-5306-360a-9e4a-19679fd9c90b", "description": "Malicious code in terser-docusaurus-vega-metalsmith (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148516"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

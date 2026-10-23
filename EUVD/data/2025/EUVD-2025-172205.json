@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172205", "enisaUuid": "c982e095-c002-3311-9c27-de68318b73e0", "description": "Malicious code in nodebb-plugin-spaffnerds (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27676"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

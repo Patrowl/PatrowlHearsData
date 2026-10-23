@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177079", "enisaUuid": "edddb042-a2c0-3bd5-b510-353258e2abb1", "description": "Malicious code in prettier-json-publish-quito (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188796"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112273", "enisaUuid": "83ae3072-ebcc-3beb-bdc2-7f9128466286", "description": "Malicious code in janus-webdriver-manager-promise-aquarius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143840"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

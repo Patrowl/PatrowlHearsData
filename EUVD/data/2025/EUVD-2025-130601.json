@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130601", "enisaUuid": "a7ad8528-d50d-3d32-b073-7f39b5e2837f", "description": "Malicious code in @yaqiguo/dnstest (npm)", "datePublished": "2025-08-15T02:20:46", "dateUpdated": "2025-08-15T02:20:46", "baseScore": 0.0, "aliases": ["MAL-2025-6879"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188077", "enisaUuid": "afb9090a-6cb5-3fdf-ba28-7db509166731", "description": "Malicious code in via-date-range (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-38289"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

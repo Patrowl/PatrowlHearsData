@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121001", "enisaUuid": "2d7e4be8-752f-3851-92cd-3468a145ed07", "description": "Malicious code in umbra-nodejs-nestjs-node-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148927"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

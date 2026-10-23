@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80875", "enisaUuid": "8be4602a-f1bd-3385-a5ec-e7bd6d3253ee", "description": "Malicious code in productive_mite_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-107308"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-73804", "enisaUuid": "18ed2f31-e1fb-3052-94d4-9c90383fea4c", "description": "Malicious code in secure_centipede_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-96486"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

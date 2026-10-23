@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75061", "enisaUuid": "d051a2b7-badc-356d-b4af-168b6523349c", "description": "Malicious code in advisory_asp_replicate_automation (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-99216"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

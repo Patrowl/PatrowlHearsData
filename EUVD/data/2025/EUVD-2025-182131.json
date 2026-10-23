@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182131", "enisaUuid": "1a23927c-f251-3dff-8196-52fec42b52f5", "description": "Malicious code in rodsdep (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32346"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

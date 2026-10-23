@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122842", "enisaUuid": "db4df1ac-f6c6-313c-9016-5aaeab4bb30c", "description": "Malicious code in readable-eslint-config-fomalhaut-dotenv (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147080"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

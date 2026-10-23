@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176325", "enisaUuid": "e45ec697-4503-3814-9d40-e4b39749029c", "description": "Malicious code in small-web-encrypt-grep-serialize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189550"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124057", "enisaUuid": "26842be6-9bac-3f46-92d6-d9793eb0b5bb", "description": "Malicious code in optimize-css-assets-webpack-plugin-lint-redis-scorpius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145864"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-167848", "enisaUuid": "cde1f0dc-310c-3f4d-b71b-d0ce786b7bf8", "description": "Malicious code in iota-nu-deploy-delta-epsilon (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23330"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

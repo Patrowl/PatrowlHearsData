@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114423", "enisaUuid": "51cbd539-60f6-3ec9-a24f-2fe1eba0be5a", "description": "Malicious code in dorado-concurrently-process-helios (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141686"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

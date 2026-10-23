@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183968", "enisaUuid": "f89c2522-67c0-3814-82ca-18b53dd50046", "description": "Malicious code in sunruse-influx-toolchain (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34183"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

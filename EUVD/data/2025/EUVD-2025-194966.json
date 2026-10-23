@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194966", "enisaUuid": "770f23bb-9cd5-37f8-92b7-7a471c657665", "description": "Malicious code in mofa-jiaokeshu (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45213"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

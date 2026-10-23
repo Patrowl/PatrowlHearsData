@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173713", "enisaUuid": "36d22d38-2c4a-33bf-81aa-ffb014522e37", "description": "Malicious code in phpemail (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29184"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

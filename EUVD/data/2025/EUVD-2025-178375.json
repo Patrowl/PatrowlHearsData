@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178375", "enisaUuid": "79762ef7-0e0f-3ff8-adf9-a2848d661796", "description": "Malicious code in integer-web-key-resolve-mu (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187507"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

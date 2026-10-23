@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176658", "enisaUuid": "a42434b4-5c8e-3b85-a12e-cee5468b692f", "description": "Malicious code in rest-version-library-hadron (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189217"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

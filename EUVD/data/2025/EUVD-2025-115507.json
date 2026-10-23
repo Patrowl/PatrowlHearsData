@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115507", "enisaUuid": "5e0d06fb-3ed5-33f1-b07b-4d358e478e57", "description": "Malicious code in chai-postcss-loader-subscription-epimetheus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140600"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

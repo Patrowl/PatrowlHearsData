@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123999", "enisaUuid": "e2350766-cb25-3f17-b317-7dcd5ba4c7af", "description": "Malicious code in package-auth-xanthus-frontend (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145922"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

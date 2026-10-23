@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111392", "enisaUuid": "537989d5-c7dd-3d49-a8c8-d39c3ec32240", "description": "Malicious code in markdownlint-lacerta-solis-nconf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144723"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

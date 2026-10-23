@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111211", "enisaUuid": "1fcb77da-8ffb-36d5-97cb-1845f98f5c46", "description": "Malicious code in meteor-config-csv-yakutsk (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144904"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

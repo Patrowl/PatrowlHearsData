@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191231", "enisaUuid": "8f33c40f-ce40-3abc-bea8-d96365369472", "description": "Malicious code in @twork-data-services/aggregator-sme-group-queues (npm)", "datePublished": "2025-08-28T07:15:44", "dateUpdated": "2025-08-28T07:15:44", "baseScore": 0.0, "aliases": ["MAL-2025-41462"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178337", "enisaUuid": "5aa1dd02-b0c1-3fbc-bfef-7a916bb3d597", "description": "Malicious code in iota-sedna-public-webdriver-mocha (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187545"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131799", "enisaUuid": "d56c1e13-1355-36a0-ad90-8eda1815b507", "description": "Malicious code in @ice-idp/webpack (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-8077"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

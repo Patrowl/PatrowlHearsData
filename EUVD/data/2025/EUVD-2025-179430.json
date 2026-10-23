@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179430", "enisaUuid": "2959295e-0200-3843-b102-d1f9f0248de0", "description": "Malicious code in cypress-vuetify-mutation-hermes (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186452"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

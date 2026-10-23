@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114775", "enisaUuid": "23b0a5ea-6eda-33bc-a2f4-308cc6aaddef", "description": "Malicious code in css-minimizer-webpack-plugin-transport-spawn-command (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141334"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-146324", "enisaUuid": "68a27c53-1c8d-3700-a1f3-fa8f06358ab6", "description": "Malicious code in verify-taicui-busauna (npm)", "datePublished": "2025-11-12T16:47:05", "dateUpdated": "2025-11-12T16:47:05", "baseScore": 0.0, "aliases": ["MAL-2025-170488"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

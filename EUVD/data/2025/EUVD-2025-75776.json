@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-75776", "enisaUuid": "d3e46e0d-a97e-3a1e-be5c-57a059c1e621", "description": "Malicious code in round_falcon-notthedev (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-108213"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

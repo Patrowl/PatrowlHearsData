@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123309", "enisaUuid": "64c22967-c7d4-3f03-b7d4-ee77ff0a1a2d", "description": "Malicious code in procyon-query-chakra-ui-sirius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146613"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

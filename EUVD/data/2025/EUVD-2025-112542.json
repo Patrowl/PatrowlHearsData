@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112542", "enisaUuid": "dbe4def8-ca9e-39e5-bdc4-98da0f6f8d91", "description": "Malicious code in indus-optimize-css-assets-webpack-plugin-antd-quasar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143571"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

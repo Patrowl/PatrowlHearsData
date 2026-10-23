@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-64010", "enisaUuid": "41b982e0-6a0d-31da-8137-9ec7b88a2541", "description": "Malicious code in flexible_lark_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-94544"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

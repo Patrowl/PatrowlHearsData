@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123046", "enisaUuid": "1e6696e9-6339-3eb6-bb8c-419248dcf2b6", "description": "Malicious code in pyxis-eclipse-mysql-titan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146876"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

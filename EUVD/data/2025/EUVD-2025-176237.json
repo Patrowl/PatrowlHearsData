@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176237", "enisaUuid": "2cb24f21-2395-3bb5-a082-ac71bc609545", "description": "Malicious code in stack-authenticate-boolean-compile-kappa (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189638"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

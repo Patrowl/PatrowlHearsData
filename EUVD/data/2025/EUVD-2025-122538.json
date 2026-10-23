@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122538", "enisaUuid": "91597004-d639-3e3f-a5e0-701bd27c72dc", "description": "Malicious code in restart-loop-quito-antd (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147384"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

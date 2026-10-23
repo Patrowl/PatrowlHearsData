@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-152436", "enisaUuid": "574dbac2-9955-3ef4-afb9-f29305ee5d62", "description": "Malicious code in libc-ug-agig (npm)", "datePublished": "2025-11-12T22:25:03", "dateUpdated": "2025-11-12T22:25:03", "baseScore": 0.0, "aliases": ["MAL-2025-183325"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

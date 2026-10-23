@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122732", "enisaUuid": "2a69bd2e-8cc7-3dcd-8cdf-c65980e7430c", "description": "Malicious code in rehype-typeorm-rate-limiter-koa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147190"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

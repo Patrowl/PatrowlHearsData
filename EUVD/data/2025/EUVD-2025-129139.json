@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129139", "enisaUuid": "08b5ba7c-f329-3e63-8a0c-d0541fd31d08", "description": "Malicious code in frontend-tests-demo (npm)", "datePublished": "2025-06-18T18:22:27", "dateUpdated": "2025-06-18T18:22:27", "baseScore": 0.0, "aliases": ["MAL-2025-5410"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

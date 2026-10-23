@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179731", "enisaUuid": "847f5854-bc6e-3bba-86db-d840fc0b9a9c", "description": "Malicious code in chromedriver-non-blocking-chariklo-registry (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186151"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

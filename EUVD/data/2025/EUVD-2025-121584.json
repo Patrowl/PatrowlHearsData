@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121584", "enisaUuid": "8efbb39d-d5ad-3575-9e88-3a67dd037b3e", "description": "Malicious code in style-loader-sass-loader-public-hermes (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148341"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

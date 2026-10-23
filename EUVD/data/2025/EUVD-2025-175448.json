@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175448", "enisaUuid": "23c169e2-6e69-325b-97d5-965498cc2686", "description": "Malicious code in yaml-notify-authorize-code-web (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190428"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

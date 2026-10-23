@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113765", "enisaUuid": "7be34f35-df60-37ac-94a6-7c7dbcfbca5a", "description": "Malicious code in exec-jabbah-dotenv-parse-variables-neptune (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142345"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

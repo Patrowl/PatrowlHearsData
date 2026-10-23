@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116567", "enisaUuid": "40fc0944-27ab-3154-af7f-2b43ac6bfd1b", "description": "Malicious code in aquarius-express-winston-spica (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139535"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

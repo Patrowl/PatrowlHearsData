@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123808", "enisaUuid": "32abca72-ed7f-3a62-8916-68d8f24a749e", "description": "Malicious code in perseus-sadr-writable-webdriver-manager (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146113"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

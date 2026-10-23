@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176611", "enisaUuid": "8dff16e4-3b70-31a0-85bd-b1a6bae3601a", "description": "Malicious code in rocket-polaris-prettier-schema (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189264"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

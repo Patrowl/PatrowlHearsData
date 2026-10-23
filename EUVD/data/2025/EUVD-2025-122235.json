@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122235", "enisaUuid": "2fae7d25-ea82-3c3b-8f15-d578f6388401", "description": "Malicious code in schema-andromeda-typeorm-link (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147687"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

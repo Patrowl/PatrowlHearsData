@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123882", "enisaUuid": "c90aff87-8de4-333b-b319-bcdf182b032a", "description": "Malicious code in pegasus-iota-link-webdriver-manager (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146039"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

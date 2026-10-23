@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162921", "enisaUuid": "fde3c684-d9a8-3735-83f6-886f635e7e10", "description": "Malicious code in dh-jaws-client (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18422"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

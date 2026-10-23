@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123262", "enisaUuid": "7c4b7517-e450-3761-85bc-471e8a19da7e", "description": "Malicious code in prompts-await-phoenix-deneb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146660"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

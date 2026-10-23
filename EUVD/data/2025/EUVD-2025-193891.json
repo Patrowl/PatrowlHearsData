@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193891", "enisaUuid": "5724ddbf-0944-3014-a2ab-7b7c77a15e42", "description": "Malicious code in enceladus-altair-dependencies-eventhoriz (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44138"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

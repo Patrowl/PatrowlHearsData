@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168131", "enisaUuid": "e64af7d8-6244-323b-9686-38cbf4fcacb5", "description": "Malicious code in janus-soap-lyra-cosmochemistry (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23613"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

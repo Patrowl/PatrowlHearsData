@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111119", "enisaUuid": "b5728b81-ce61-3724-bb91-7c048fa45a34", "description": "Malicious code in mini-css-extract-plugin-socketio-bellatrix-lint-staged (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144996"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

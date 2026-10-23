@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166596", "enisaUuid": "085bc977-dd2c-3475-8b9c-15bbe434c2c1", "description": "Malicious code in h1-cli-device-node (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-22078"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

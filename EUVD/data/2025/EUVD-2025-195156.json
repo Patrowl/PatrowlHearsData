@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195156", "enisaUuid": "9fab5789-9673-3c23-8005-054a56cabde8", "description": "Malicious code in oberon-terser-test-pino (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45404"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112632", "enisaUuid": "08a93af2-1458-3cc3-a708-720f34db8d2c", "description": "Malicious code in hyperion-janus-install-markdown-pdf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143480"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169576", "enisaUuid": "8564ab1f-a674-3f8b-985b-cbd72037ec59", "description": "Malicious code in leadconduit-twilio (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25047"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123638", "enisaUuid": "ccd8bee3-2d66-3d7f-904c-089fe06f2f66", "description": "Malicious code in playwright-mensa-build-ganymede (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146283"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

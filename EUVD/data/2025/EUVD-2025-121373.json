@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121373", "enisaUuid": "bfc6c7c2-53e3-3272-8273-f8f2dfdf42ec", "description": "Malicious code in terser-webpack-plugin-materialize-hugo-neptune (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148555"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

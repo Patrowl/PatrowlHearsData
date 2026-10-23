@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178153", "enisaUuid": "95fec63d-d3a8-39c3-abcd-beb43a2e8abc", "description": "Malicious code in leda-command-aquarius-leda (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187729"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

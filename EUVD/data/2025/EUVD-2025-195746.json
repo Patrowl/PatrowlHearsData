@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195746", "enisaUuid": "2ce2af0c-e96f-3497-a7a6-1a5e3a523765", "description": "Malicious code in semantic-release-dotenv-safe-commitlint-node-sass (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45994"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

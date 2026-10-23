@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180266", "enisaUuid": "1dd29ac3-2810-3fea-a8d3-f26da46471a2", "description": "Malicious code in async-iota-pavo-quasar (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185622"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

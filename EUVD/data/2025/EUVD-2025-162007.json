@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162007", "enisaUuid": "744f3109-3108-3dff-9a52-9d10b915ccb6", "description": "Malicious code in container-private-psi-long-enum (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17508"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

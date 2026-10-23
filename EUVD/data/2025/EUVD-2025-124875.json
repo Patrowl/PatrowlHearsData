@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124875", "enisaUuid": "18249ec7-8502-3f13-af25-6952059775b6", "description": "Malicious code in miranda-nconf-package-puppeteer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145043"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

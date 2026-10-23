@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171112", "enisaUuid": "4bc1e79d-e88d-3b8c-8ef2-df519a9b3110", "description": "Malicious code in mock-simulate-moon-sudo-export (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26583"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

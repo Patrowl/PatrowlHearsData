@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196975", "enisaUuid": "ef11aef1-bd47-33c6-88da-5ea493ce72b3", "description": "Malicious code in pega-dependency-package (npm)", "datePublished": "2025-09-17T20:39:40", "dateUpdated": "2025-09-17T20:39:40", "baseScore": 0.0, "aliases": ["MAL-2025-47438"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

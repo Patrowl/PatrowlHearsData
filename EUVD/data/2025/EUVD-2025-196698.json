@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196698", "enisaUuid": "eee94df3-3cb7-3e8d-9f7a-e66967c7e544", "description": "Malicious code in turboscan-client (RubyGems)", "datePublished": "2025-09-01T09:53:24", "dateUpdated": "2025-09-01T09:53:24", "baseScore": 0.0, "aliases": ["MAL-2025-46946"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

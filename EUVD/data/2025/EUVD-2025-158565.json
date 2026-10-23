@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-158565", "enisaUuid": "beed3be9-2a88-3b5a-9860-91e73f651ef6", "description": "Malicious code in air-cron-moon-compress-hash (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-14182"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122634", "enisaUuid": "c69b58c1-5020-3052-958c-b8989afe0a40", "description": "Malicious code in request-callisto-apex-passport (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147288"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

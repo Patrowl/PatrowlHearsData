@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200370", "enisaUuid": "c93be13c-b1af-3a2d-ba2e-6a3af3d7e8d4", "description": "Malicious code in @gr-exports/async (npm)", "datePublished": "2025-12-01T12:57:02", "dateUpdated": "2025-12-02T21:37:28", "baseScore": 0.0, "aliases": ["MAL-2025-191560"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

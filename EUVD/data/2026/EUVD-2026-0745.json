@@ -1,0 +1,1 @@
+{"id": "EUVD-2026-0745", "enisaUuid": "6c0a8443-1cf8-3008-803d-bb12db440cfa", "description": "Malicious code in @nitaiapiiro/rand_emoji (npm)", "datePublished": "2026-01-02T21:29:26", "dateUpdated": "2026-01-02T21:29:26", "baseScore": 0.0, "aliases": ["MAL-2026-8"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

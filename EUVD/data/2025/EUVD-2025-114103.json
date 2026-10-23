@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114103", "enisaUuid": "5c0f07eb-0f1f-3805-b69a-61a9a83eb014", "description": "Malicious code in eleventy-nightwatch-betelgeuse-child-process (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142007"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

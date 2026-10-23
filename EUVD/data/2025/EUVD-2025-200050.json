@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200050", "enisaUuid": "36baa274-f218-32a4-8bda-b3a3b035adc7", "description": "Malicious code in mongodb-stitch-server-testutils (npm)", "datePublished": "2025-12-01T16:16:28", "dateUpdated": "2025-12-01T16:16:28", "baseScore": 0.0, "aliases": ["MAL-2025-191519"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

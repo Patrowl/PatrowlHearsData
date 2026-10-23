@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178636", "enisaUuid": "dd2ba15b-8c63-3296-8387-edbbdab91e47", "description": "Malicious code in grus-private-quark-prettier-plugin-markdown (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187246"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

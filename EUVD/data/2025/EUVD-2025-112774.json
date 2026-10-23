@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112774", "enisaUuid": "a36608b3-f412-3285-bd62-3e4fbeb35d43", "description": "Malicious code in hexo-child-process-chromedriver-jupiter (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143338"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183663", "enisaUuid": "22afd015-bffe-3a9f-ae3a-c2e8a5bd0790", "description": "Malicious code in sslgem (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33878"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123606", "enisaUuid": "7495146f-5f88-3b40-ac6c-3f2b9b6de1f0", "description": "Malicious code in pm2-wezen-jest-acamar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146315"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

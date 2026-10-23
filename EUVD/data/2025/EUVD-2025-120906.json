@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120906", "enisaUuid": "9aa799e0-ef2c-380c-93a9-a942664b6083", "description": "Malicious code in upgrade-nextjs-lint-buffer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149023"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124820", "enisaUuid": "c203dda7-b462-3757-abf6-b5b99c37fc52", "description": "Malicious code in module-axios-quantum-cache (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145098"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

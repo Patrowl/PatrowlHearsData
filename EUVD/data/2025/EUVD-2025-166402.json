@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166402", "enisaUuid": "e4a6be36-d1a4-3e86-b2b2-06aa041179f9", "description": "Malicious code in graphql-callback-loglevel-standard (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21884"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

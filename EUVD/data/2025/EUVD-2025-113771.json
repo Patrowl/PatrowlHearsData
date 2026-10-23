@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113771", "enisaUuid": "3fd6e3ce-23bc-3cf4-8b7a-4055b9ae61cc", "description": "Malicious code in exec-firebase-iota-changelog (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142339"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

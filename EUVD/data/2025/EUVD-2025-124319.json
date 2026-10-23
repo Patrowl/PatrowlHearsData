@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124319", "enisaUuid": "9ba685af-3523-3dbc-ae4c-8875036396f9", "description": "Malicious code in non-blocking-apollo-proxima-enceladus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145602"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

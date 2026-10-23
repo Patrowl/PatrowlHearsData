@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123664", "enisaUuid": "3377d902-7bf8-34ea-a505-3469be25d6ba", "description": "Malicious code in pipe-antares-iota-registry (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146257"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

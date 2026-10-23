@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191848", "enisaUuid": "1f327514-a3d4-33fd-9ef9-102932bb9496", "description": "Malicious code in sqrt_module (npm)", "datePublished": "2025-08-29T18:55:03", "dateUpdated": "2025-08-29T18:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-42088"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

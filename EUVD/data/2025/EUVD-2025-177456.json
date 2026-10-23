@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177456", "enisaUuid": "b612c999-4192-3ab1-81f3-d18245de5264", "description": "Malicious code in on-graviton-async-antares (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188426"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

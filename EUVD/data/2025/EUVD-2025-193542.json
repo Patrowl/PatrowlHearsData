@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193542", "enisaUuid": "91bfd474-98df-31d0-be1f-31f44f378b13", "description": "Malicious code in chromedriver-mdx-update-enceladus (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43789"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

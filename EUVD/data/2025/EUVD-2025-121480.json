@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121480", "enisaUuid": "0236bc7b-460a-3c9a-8c2c-b00a46454f2f", "description": "Malicious code in tailwindcss-morgan-xenon-prettier-plugin-markdown (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148448"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

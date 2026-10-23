@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-128822", "enisaUuid": "1d52ce44-1e8b-3310-8bd9-c75b1a9c7973", "description": "Malicious code in wtp-next (npm)", "datePublished": "2025-06-18T10:45:30", "dateUpdated": "2025-06-18T10:45:30", "baseScore": 0.0, "aliases": ["MAL-2025-5093"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

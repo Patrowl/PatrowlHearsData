@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161810", "enisaUuid": "da105dc6-c040-3414-aca0-f4ecf3578788", "description": "Malicious code in com.apple.unityplugin.core (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17311"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

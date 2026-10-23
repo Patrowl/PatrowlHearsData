@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177474", "enisaUuid": "166a9568-fec8-3572-a1e4-ef55e779ba57", "description": "Malicious code in old-reject-mu-char-decrypt (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188408"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

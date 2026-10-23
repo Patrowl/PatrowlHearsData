@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162003", "enisaUuid": "ebc04b9d-27c7-33f2-ba63-66612d67e5ac", "description": "Malicious code in consul-peerings (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17504"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

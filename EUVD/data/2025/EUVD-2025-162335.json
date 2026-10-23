@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162335", "enisaUuid": "dea8cefd-6564-3c39-b8ef-c582ab6b0d8d", "description": "Malicious code in custom-redis (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17836"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

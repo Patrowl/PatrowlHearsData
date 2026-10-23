@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177006", "enisaUuid": "4ce938c9-8bbc-38a5-ad27-7fd3e337da3c", "description": "Malicious code in prompts-commitlint-canopus-karma (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188869"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

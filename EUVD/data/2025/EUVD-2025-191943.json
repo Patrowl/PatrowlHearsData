@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191943", "enisaUuid": "7462a424-a3f2-3aaa-98a0-e76120bc780d", "description": "Malicious code in @amiga-fwk-nodejs/log (npm)", "datePublished": "2025-09-05T16:38:20", "dateUpdated": "2025-09-05T16:38:20", "baseScore": 0.0, "aliases": ["MAL-2025-42185"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

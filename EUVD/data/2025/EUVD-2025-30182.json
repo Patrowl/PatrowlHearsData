@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-30182", "enisaUuid": "34327ca9-a930-3b8a-b35a-9c4f7edb87aa", "description": "Malicious code in tml-footer (npm)", "datePublished": "2025-09-17T14:20:41", "dateUpdated": "2025-09-18T04:10:56", "baseScore": 0.0, "aliases": ["MAL-2025-47427"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

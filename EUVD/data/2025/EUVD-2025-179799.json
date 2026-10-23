@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179799", "enisaUuid": "b9ce9d1b-0483-38d6-b525-214b9118b836", "description": "Malicious code in chai-prompts-auth0-geckodriver (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186083"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

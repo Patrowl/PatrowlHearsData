@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123400", "enisaUuid": "7fb48cd6-3e61-3277-8514-82d29b8187ef", "description": "Malicious code in prettier-stylelint-tool-ora-solis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146522"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123495", "enisaUuid": "2498da6f-5364-35ae-967e-a81c72171ea6", "description": "Malicious code in postcss-xanthus-gulp-subscription (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146426"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

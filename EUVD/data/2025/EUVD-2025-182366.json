@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182366", "enisaUuid": "47db5270-4600-336e-a7ab-1ddfb0ad82f0", "description": "Malicious code in rwdisk (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32581"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

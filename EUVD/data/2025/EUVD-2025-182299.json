@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182299", "enisaUuid": "9853562b-0441-320d-8aa4-8d3c8fad89ef", "description": "Malicious code in rtc-js-sdk (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32514"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

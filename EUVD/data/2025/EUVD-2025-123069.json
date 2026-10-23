@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123069", "enisaUuid": "8a223c46-d62a-3941-8e49-f9d433a210df", "description": "Malicious code in puppeteer-ganymede-hermes-flare (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146853"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

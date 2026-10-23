@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176697", "enisaUuid": "91041950-08f4-3f6c-85da-e7a0fcece0f0", "description": "Malicious code in remark-loglevel-process-nebula (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189178"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

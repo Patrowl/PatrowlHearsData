@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123803", "enisaUuid": "2b57a562-e5ce-34e4-9715-e3a5c15fc933", "description": "Malicious code in perseus-spectron-webdriver-nconf-electron (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146118"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

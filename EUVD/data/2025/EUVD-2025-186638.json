@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-186638", "enisaUuid": "064023ec-f898-37bc-874b-237d78e5b6fe", "description": "Malicious code in thuban-spectron-passport-hapi (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-36848"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

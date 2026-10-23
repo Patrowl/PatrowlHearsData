@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115027", "enisaUuid": "6fa75533-fba2-3c29-9708-b3d2455177fd", "description": "Malicious code in convict-playwright-eris-publish (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141082"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

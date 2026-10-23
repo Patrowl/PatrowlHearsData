@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197139", "enisaUuid": "3f5929a1-82da-3984-830a-36a7f9790fe4", "description": "Malicious code in example-nestjs-api (npm)", "datePublished": "2025-09-26T09:31:00", "dateUpdated": "2025-09-26T09:31:00", "baseScore": 0.0, "aliases": ["MAL-2025-47666"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

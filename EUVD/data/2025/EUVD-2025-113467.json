@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113467", "enisaUuid": "514e073d-0282-3e19-9c1f-5d8e1aa37328", "description": "Malicious code in fornax-postcss-loader-umbra-webdriver-manager (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142645"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

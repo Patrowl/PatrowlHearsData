@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120205", "enisaUuid": "76d85b87-8ca5-3fc4-9f88-c04f57f6bffd", "description": "Malicious code in xerxes-yaml-ini-redis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149726"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

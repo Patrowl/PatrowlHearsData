@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173486", "enisaUuid": "837c939e-bba0-3264-b0b4-2fea6aeeb04b", "description": "Malicious code in paytabs-nodejs (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28957"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

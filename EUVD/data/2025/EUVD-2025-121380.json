@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121380", "enisaUuid": "6ff996f9-c70d-3d8d-98b7-c515a80ffd11", "description": "Malicious code in terser-webpack-plugin-eslint-config-nightmare-native (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148548"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172576", "enisaUuid": "79088eae-edfd-3d3c-8db1-147d66051af0", "description": "Malicious code in object-window-dtc (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28047"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

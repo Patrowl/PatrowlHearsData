@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113882", "enisaUuid": "2e86ba06-5b31-3e82-b553-aec0dfa04fb0", "description": "Malicious code in eslint-plugin-chai-lacerta-quasar (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142228"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

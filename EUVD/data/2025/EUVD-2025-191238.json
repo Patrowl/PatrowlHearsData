@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191238", "enisaUuid": "41383992-2c4a-3f7d-afc0-99314597e0ae", "description": "Malicious code in @twork-data-services/checking-account-option-statuses (npm)", "datePublished": "2025-08-28T07:15:55", "dateUpdated": "2025-08-28T07:15:55", "baseScore": 0.0, "aliases": ["MAL-2025-41469"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

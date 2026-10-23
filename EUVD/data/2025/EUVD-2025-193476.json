@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193476", "enisaUuid": "43a8e3e7-b740-3654-ac50-b647b8a0f3b4", "description": "Malicious code in centaurus-scripts-node-sass-npm (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43723"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

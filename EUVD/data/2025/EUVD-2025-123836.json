@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123836", "enisaUuid": "2005178f-3129-305a-8b8f-5273f4251ec1", "description": "Malicious code in perseus-express-playwright-module (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146085"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

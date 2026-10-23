@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113665", "enisaUuid": "18f07dfd-c6d3-3acd-8f73-912d1f74db15", "description": "Malicious code in fetch-husky-europa-redis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142446"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

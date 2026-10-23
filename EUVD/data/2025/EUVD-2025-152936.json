@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-152936", "enisaUuid": "422cfd49-e8b2-3852-ba6c-4ca3cfa2f332", "description": "Malicious code in @lineman/ui (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-8435"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

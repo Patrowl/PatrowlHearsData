@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-192718", "enisaUuid": "f29d05c3-d2f9-3b04-adb7-76c27dc6f0eb", "description": "Malicious code in @trp-ta-nitro/secrets-nodejs (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-42965"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

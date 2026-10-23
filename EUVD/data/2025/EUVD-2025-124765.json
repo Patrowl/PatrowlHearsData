@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124765", "enisaUuid": "47fecbc5-ba97-3713-8f1c-72bb49db94c9", "description": "Malicious code in mongoose-heka-vega-sequelize (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145153"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

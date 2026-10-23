@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-63515", "enisaUuid": "df5e34ab-1cce-3fee-bff1-13a2ab52a4c5", "description": "Malicious code in innocent_lungfish_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-95039"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

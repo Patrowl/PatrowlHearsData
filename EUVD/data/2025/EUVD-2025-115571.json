@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115571", "enisaUuid": "1ed08cca-d235-3c10-a820-47cf87c56707", "description": "Malicious code in centauri-resolvers-helmet-apollo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140536"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169968", "enisaUuid": "d2fec0c6-d7ed-3d7a-87b4-7bd2534b5b08", "description": "Malicious code in listtasks (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25439"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

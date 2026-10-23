@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172217", "enisaUuid": "0db86f51-f075-3d38-a659-edf8f9566ff5", "description": "Malicious code in nodemon-iota-uninstall-octans (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27688"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

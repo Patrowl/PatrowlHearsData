@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171442", "enisaUuid": "cd7d66e2-5f24-3efb-85d6-9bf162b60d68", "description": "Malicious code in mutation-child-process-repository-xerxes (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26913"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

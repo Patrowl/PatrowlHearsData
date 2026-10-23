@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183018", "enisaUuid": "bb0683b6-4018-3a60-aca6-9f0595f885af", "description": "Malicious code in sigma-reject-mock-try-simulate (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33233"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

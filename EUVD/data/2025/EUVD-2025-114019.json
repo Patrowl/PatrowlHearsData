@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114019", "enisaUuid": "1d47a777-670c-3635-9bb0-3b2557f9730c", "description": "Malicious code in epimetheus-betelgeuse-toml-node-config (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142091"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121963", "enisaUuid": "0015a86b-fa62-31bb-acd4-53d7f11bae2f", "description": "Malicious code in sirius-magellan-middleware-less-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147962"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

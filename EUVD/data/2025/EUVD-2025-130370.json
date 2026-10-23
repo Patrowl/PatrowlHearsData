@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130370", "enisaUuid": "3a6bbaa5-0957-34f8-9a02-750c5c87aff1", "description": "Malicious code in policy-agent-client (npm)", "datePublished": "2025-07-31T19:37:50", "dateUpdated": "2025-07-31T19:37:50", "baseScore": 0.0, "aliases": ["MAL-2025-6646"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175595", "enisaUuid": "7fe507e7-6676-3dc2-aae5-780affb71828", "description": "Malicious code in webdriverio-npm-supervisor-blaze (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190281"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-188813", "enisaUuid": "acedae2b-d729-3376-b50c-ffcc7843bccf", "description": "Malicious code in webpack-lithosphere-playwright-altair (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39027"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

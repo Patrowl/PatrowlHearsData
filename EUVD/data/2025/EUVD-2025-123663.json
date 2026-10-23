@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123663", "enisaUuid": "8ee6fdf6-4e6f-34c4-b092-c7f2f0ad552f", "description": "Malicious code in pipe-apex-cypress-uninstall (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146258"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

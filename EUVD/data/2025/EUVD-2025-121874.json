@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121874", "enisaUuid": "5f098497-1116-3c05-879b-f48dbce8ce96", "description": "Malicious code in socketio-eslint-koa-typeorm (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148051"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

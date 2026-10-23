@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180148", "enisaUuid": "4c910110-01f0-3db2-83a0-79615097d719", "description": "Malicious code in bad-info-encrypt-boolean-simple (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185734"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

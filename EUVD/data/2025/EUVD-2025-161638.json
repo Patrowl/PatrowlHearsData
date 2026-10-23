@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161638", "enisaUuid": "2989bad7-5786-383d-8857-9dbe57d23164", "description": "Malicious code in clipboard-parse (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17138"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

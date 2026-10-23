@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182570", "enisaUuid": "214b9dee-f826-3625-9f97-282256f79ce4", "description": "Malicious code in schibsted-core-sdk-node (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32785"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178027", "enisaUuid": "15eed9ed-86fa-327a-9cce-b3b13a14ef8b", "description": "Malicious code in long-boolean-table-compress-tree (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187855"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

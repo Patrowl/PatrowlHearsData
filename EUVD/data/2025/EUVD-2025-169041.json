@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169041", "enisaUuid": "185ef635-a0cd-341a-b278-42feb71ea3c9", "description": "Malicious code in kinetic-blackhole-meteor-global (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-24523"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

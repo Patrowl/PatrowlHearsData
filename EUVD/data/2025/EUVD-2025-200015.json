@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200015", "enisaUuid": "c3c15406-3e1a-3111-8251-ce0e68a3d7d3", "description": "Malicious code in @bingads-webui-clientcenter/instrumentation (npm)", "datePublished": "2025-12-01T16:00:47", "dateUpdated": "2025-12-23T15:09:26", "baseScore": 0.0, "aliases": ["MAL-2025-191495"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

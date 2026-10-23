@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197486", "enisaUuid": "d28509c5-c0e2-3ab8-876b-2a3f84260f7e", "description": "Malicious code in circuit-backstack-test (npm)", "datePublished": "2025-10-23T19:27:55", "dateUpdated": "2025-10-23T19:27:55", "baseScore": 0.0, "aliases": ["MAL-2025-48800"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

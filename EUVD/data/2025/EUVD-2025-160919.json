@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160919", "enisaUuid": "242de72c-d884-3cd4-b4a1-9a8fcab6828f", "description": "Malicious code in cache-buffer-relay-troposphere (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16418"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

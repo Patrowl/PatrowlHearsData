@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115332", "enisaUuid": "f46b5513-24c9-39f9-8848-eb284d455ffd", "description": "Malicious code in chromedriver-init-puppeteer-gravity (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140775"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

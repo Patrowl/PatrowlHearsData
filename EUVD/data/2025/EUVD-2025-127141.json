@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-127141", "enisaUuid": "3eda3900-b967-3cc6-9a62-27c8569a04a9", "description": "Malicious code in gemini-proxy-panel (npm)", "datePublished": "2025-04-23T15:51:27", "dateUpdated": "2025-04-23T15:51:27", "baseScore": 0.0, "aliases": ["MAL-2025-3400"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

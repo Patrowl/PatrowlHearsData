@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114710", "enisaUuid": "ce34ba4a-0c42-3f0a-af78-805fd8ace7d1", "description": "Malicious code in cypress-hexo-publish-fomalhaut (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141399"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

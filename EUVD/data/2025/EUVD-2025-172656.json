@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172656", "enisaUuid": "d9ae19fd-cb12-3551-8881-e9aa3693f0df", "description": "Malicious code in octans-run-script-cors-start (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28127"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

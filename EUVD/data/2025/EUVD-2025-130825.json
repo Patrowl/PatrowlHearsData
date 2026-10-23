@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130825", "enisaUuid": "cd076ea2-0838-3011-b67d-abf79bb63cd0", "description": "Malicious code in @avocado-team/app-center-mini-landing (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7103"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120904", "enisaUuid": "662c3c5a-bfda-3822-964b-198bb24d292e", "description": "Malicious code in upgrade-nuxtjs-express-magellan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149025"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

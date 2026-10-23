@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-189033", "enisaUuid": "456add00-f490-304d-94e6-9cb675cc97e2", "description": "Malicious code in whitedwarf-writable-mongodb-ophiuchus (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-39247"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

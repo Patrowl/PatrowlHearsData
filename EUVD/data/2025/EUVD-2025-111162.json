@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111162", "enisaUuid": "b6415061-9fea-337b-a11e-b16a8af72ad0", "description": "Malicious code in middleware-electron-builder-arcturus-lint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144953"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

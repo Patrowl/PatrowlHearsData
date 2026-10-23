@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-202792", "enisaUuid": "ed2026d8-79b8-3a2b-9643-41752cf9eb31", "description": "Malicious code in elf-stats-mistletoe-mailbag-834 (npm)", "datePublished": "2025-12-11T19:46:09", "dateUpdated": "2025-12-11T19:46:09", "baseScore": 0.0, "aliases": ["MAL-2025-192517"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

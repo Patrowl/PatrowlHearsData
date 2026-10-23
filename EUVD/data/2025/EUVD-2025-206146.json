@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-206146", "enisaUuid": "721fef42-85af-32f7-8037-139eaad0ede1", "description": "Malicious code in vite-react-setting (npm)", "datePublished": "2025-12-23T08:35:16", "dateUpdated": "2026-01-02T21:37:31", "baseScore": 0.0, "aliases": ["MAL-2025-192884"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

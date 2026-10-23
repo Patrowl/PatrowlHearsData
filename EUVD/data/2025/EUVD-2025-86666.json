@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-86666", "enisaUuid": "5b675d76-c46a-3345-8e5f-28f3436b814d", "description": "Malicious code in correct_catfish_z3n (npm)", "datePublished": "2025-11-11T04:25:34", "dateUpdated": "2025-11-11T15:48:14", "baseScore": 0.0, "aliases": ["MAL-2025-84283"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

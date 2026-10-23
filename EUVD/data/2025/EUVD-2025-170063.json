@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-170063", "enisaUuid": "3ab3fd6b-8395-37a7-8db2-e30e3e431ee7", "description": "Malicious code in logincookie-paypal (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25534"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

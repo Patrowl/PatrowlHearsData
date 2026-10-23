@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162388", "enisaUuid": "e075f485-3a56-3019-abb2-c6c786930165", "description": "Malicious code in cygnus-rocket-rate-limiter-library (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17889"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

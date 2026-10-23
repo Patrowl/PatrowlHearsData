@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123620", "enisaUuid": "2fa4602b-e7ee-38a9-adc3-faa977219bd9", "description": "Malicious code in pm2-hyperion-mysql-gatsby (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146301"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

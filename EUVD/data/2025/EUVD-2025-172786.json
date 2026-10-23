@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172786", "enisaUuid": "f06c7687-7fb1-3be1-b295-8aeba7e01a98", "description": "Malicious code in op-payment-account (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28257"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124406", "enisaUuid": "68603e64-b555-347f-a105-704742ea8a82", "description": "Malicious code in node-config-miranda-cosmiconfig-eslint-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145515"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

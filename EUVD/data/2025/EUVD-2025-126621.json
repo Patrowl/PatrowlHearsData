@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126621", "enisaUuid": "93ef43c9-b67e-3165-b66d-da6759e2f37b", "description": "Malicious code in grpc-js-repository (npm)", "datePublished": "2025-03-28T12:47:37", "dateUpdated": "2025-03-28T12:47:37", "baseScore": 0.0, "aliases": ["MAL-2025-2880"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

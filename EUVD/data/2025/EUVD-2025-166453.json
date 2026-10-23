@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166453", "enisaUuid": "1e3368d6-6a1b-3905-83cc-91e05ea9474e", "description": "Malicious code in griffin-webpack-plugin (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21935"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

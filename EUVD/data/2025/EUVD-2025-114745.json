@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114745", "enisaUuid": "b619cc91-a522-394c-9ac5-90e754e4e367", "description": "Malicious code in cygnus-cache-magellan-run-script (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141364"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

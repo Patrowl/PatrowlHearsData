@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122663", "enisaUuid": "9461dc58-64c3-3cd8-bd97-6a605d233b09", "description": "Malicious code in repository-canopus-csrf-stop (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147259"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

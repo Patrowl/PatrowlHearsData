@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-131658", "enisaUuid": "acb76d0c-fa34-3c9e-900b-b79face295b2", "description": "Malicious code in @fm-plugin/dynamic-module-provider (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-7936"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

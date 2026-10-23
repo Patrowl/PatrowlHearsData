@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113398", "enisaUuid": "28323bc5-99fa-31a6-923a-e9cdd8de73f0", "description": "Malicious code in frontend-proxima-xanthus-redis (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142714"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121222", "enisaUuid": "532decfb-9d4e-3176-8199-0de94f81a482", "description": "Malicious code in toml-convict-lyra-helios (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148706"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

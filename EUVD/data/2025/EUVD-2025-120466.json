@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120466", "enisaUuid": "edd7b5e1-33e3-306d-af16-2240e1843755", "description": "Malicious code in wezen-nodemon-spica-lint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149464"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

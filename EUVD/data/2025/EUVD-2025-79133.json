@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-79133", "enisaUuid": "cc09c10c-a4f4-3035-986b-06c65aa3bdc5", "description": "Malicious code in graceful_raven_z3n (npm)", "datePublished": "2025-11-11T07:31:13", "dateUpdated": "2025-11-11T07:31:13", "baseScore": 0.0, "aliases": ["MAL-2025-103326"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

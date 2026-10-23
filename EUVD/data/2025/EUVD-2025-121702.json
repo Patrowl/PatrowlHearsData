@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121702", "enisaUuid": "54752c4c-a9d0-3601-a31a-06b302049e84", "description": "Malicious code in sqlite-configstore-remark-vuetify (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148223"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

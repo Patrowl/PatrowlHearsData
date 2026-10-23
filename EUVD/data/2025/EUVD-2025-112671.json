@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112671", "enisaUuid": "9775040d-5e9a-344d-b6b8-b79542c6150f", "description": "Malicious code in hydra-eslint-config-nodejs-triton (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143441"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

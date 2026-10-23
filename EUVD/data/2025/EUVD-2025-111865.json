@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111865", "enisaUuid": "93e86d2a-311b-356a-8bcc-9f63b9dd2899", "description": "Malicious code in lacerta-mutation-lyra-loop (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144248"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

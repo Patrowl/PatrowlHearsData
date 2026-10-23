@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121328", "enisaUuid": "716a5666-6c96-3593-a306-7db7a9d00f47", "description": "Malicious code in testcafe-promise-eslint-plugin-canopus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148600"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

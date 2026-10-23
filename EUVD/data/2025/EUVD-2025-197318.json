@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197318", "enisaUuid": "c359c3c4-a5b3-319d-85d7-081617e5d6fa", "description": "Malicious code in api_halodoc (npm)", "datePublished": "2025-10-17T03:25:21", "dateUpdated": "2025-10-17T03:25:21", "baseScore": 0.0, "aliases": ["MAL-2025-48481"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

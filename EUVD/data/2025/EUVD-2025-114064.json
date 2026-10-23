@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114064", "enisaUuid": "b35d6cab-fb04-3ffe-aa4e-098fe8b06c72", "description": "Malicious code in enif-elektra-uninstall-grunt (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142046"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

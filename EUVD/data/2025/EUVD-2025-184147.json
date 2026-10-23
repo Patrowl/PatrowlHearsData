@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-184147", "enisaUuid": "39761c62-2b4f-3ebc-8daf-01db09c54d5a", "description": "Malicious code in table-awk-epsilon-unix-route (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-34363"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

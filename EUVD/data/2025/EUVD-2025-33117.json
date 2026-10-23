@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-33117", "enisaUuid": "9ec08394-4316-3750-9cd2-68a84e027a00", "description": "Malicious code in odoo-sfu (npm)", "datePublished": "2025-10-03T09:55:03", "dateUpdated": "2025-10-03T09:55:03", "baseScore": 0.0, "aliases": ["MAL-2025-47901"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

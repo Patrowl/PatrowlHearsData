@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121992", "enisaUuid": "45d6cb2b-6e4b-3409-976f-0610237fbcd9", "description": "Malicious code in shelljs-ursa-fornax-luna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147931"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

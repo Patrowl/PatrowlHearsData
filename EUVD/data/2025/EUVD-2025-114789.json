@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114789", "enisaUuid": "b1447d55-5891-39e9-832a-f76bff253868", "description": "Malicious code in css-minimizer-webpack-plugin-babel-shelljs-convict (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141320"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116071", "enisaUuid": "a046a2f3-8106-3a34-bd32-3e601913526d", "description": "Malicious code in blaze-request-xml-tethys (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140031"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

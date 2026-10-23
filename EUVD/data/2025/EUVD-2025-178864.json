@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178864", "enisaUuid": "10dee2fe-bae4-3745-9a87-ef022df78e42", "description": "Malicious code in fork-eslint-slidev-chakra-ui (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187018"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114355", "enisaUuid": "96e839a1-f8a6-30d1-b9a6-38743c171a6a", "description": "Malicious code in dotenv-safe-hermes-config-stop (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141754"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

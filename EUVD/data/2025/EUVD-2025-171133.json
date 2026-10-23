@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171133", "enisaUuid": "119ed944-6bdf-3b2a-bc2f-62c5c315d378", "description": "Malicious code in module-lacerta-cosmos-webdriver-mocha (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26604"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

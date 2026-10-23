@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-102994", "enisaUuid": "7e12d8ec-94d7-3499-aebe-a7b5482e58ef", "description": "Malicious code in previous_cockroach_z3n (npm)", "datePublished": "2025-11-11T20:46:25", "dateUpdated": "2025-11-11T20:46:25", "baseScore": 0.0, "aliases": ["MAL-2025-129411"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

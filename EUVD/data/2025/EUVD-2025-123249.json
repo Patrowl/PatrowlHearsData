@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123249", "enisaUuid": "9523c15d-1241-30b6-b677-e9f6c4686835", "description": "Malicious code in prompts-playwright-cli-commitlint-config-angular (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146673"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

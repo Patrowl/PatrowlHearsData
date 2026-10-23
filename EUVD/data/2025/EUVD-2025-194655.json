@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194655", "enisaUuid": "8e407679-6fde-3d46-8ba2-263c0cf71738", "description": "Malicious code in kronos-init-carpo-transform (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-44902"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

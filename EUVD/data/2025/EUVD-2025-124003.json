@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124003", "enisaUuid": "296aa5e3-8cfe-36f1-9594-d82118417048", "description": "Malicious code in orbit-websockets-scripts-pegasus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145918"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

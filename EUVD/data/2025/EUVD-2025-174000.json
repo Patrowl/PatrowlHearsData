@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174000", "enisaUuid": "81815581-e2be-39fd-8481-3553e25d6e69", "description": "Malicious code in polaris-migrator (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29471"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

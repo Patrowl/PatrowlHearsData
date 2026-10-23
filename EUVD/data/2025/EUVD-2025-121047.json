@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121047", "enisaUuid": "4b02243b-b79f-36ba-aee4-5fef4351163c", "description": "Malicious code in uglify-js-restart-delphinus-hugo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148881"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

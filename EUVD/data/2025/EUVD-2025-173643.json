@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173643", "enisaUuid": "34ffa73a-fe0f-3079-9a44-02d5991253ce", "description": "Malicious code in phantomjs-crawler-demo (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29114"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

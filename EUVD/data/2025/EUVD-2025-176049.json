@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176049", "enisaUuid": "23a588f2-2732-3db3-9562-dbbf347e1ef5", "description": "Malicious code in taurus-deimos-package-toml (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189826"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

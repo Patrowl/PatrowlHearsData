@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123183", "enisaUuid": "87eb04a2-7e57-3974-bc1f-130ad3637bc2", "description": "Malicious code in proxima-sirius-sirius-jwt (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146739"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

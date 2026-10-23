@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179373", "enisaUuid": "a50babca-8761-305e-ba35-8e6f764a518d", "description": "Malicious code in decrypt-info-meta-table-big (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186509"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

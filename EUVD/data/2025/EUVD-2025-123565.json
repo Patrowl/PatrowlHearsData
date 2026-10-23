@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123565", "enisaUuid": "9e13f3f6-c66a-3445-af88-a89481adb00f", "description": "Malicious code in polaris-module-quito-halley (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146356"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

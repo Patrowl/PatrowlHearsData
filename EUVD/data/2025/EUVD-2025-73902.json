@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-73902", "enisaUuid": "07bbebb4-0546-39f2-bdf9-1bb25c9d587d", "description": "Malicious code in roasted_vicuna_requirement (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-96388"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

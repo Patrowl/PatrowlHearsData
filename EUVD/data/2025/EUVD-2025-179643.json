@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179643", "enisaUuid": "b6f6a4fb-a929-3a42-b0e8-3eeb22b9ed9a", "description": "Malicious code in commitizen-chromedriver-redis-polaris (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186239"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

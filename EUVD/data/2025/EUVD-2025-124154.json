@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124154", "enisaUuid": "ef36d4ff-0c3d-3653-8959-d46f18e72cd7", "description": "Malicious code in octans-cross-env-json-janus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145767"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

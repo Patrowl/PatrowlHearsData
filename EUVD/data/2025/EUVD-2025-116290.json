@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116290", "enisaUuid": "8ab8dcb8-415e-31ce-b83e-65e88a0f226d", "description": "Malicious code in await-venus-oauth-deneb (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139812"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

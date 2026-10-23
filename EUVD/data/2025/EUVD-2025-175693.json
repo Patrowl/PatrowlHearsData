@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175693", "enisaUuid": "d4e31d7d-bf20-358a-ac72-7f80e7c99f1f", "description": "Malicious code in void-uglify-warn-export-zero (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190183"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

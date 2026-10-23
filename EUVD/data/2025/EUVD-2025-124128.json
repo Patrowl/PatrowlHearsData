@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124128", "enisaUuid": "15a50156-5dae-3533-a8c1-015a9d7d1b4c", "description": "Malicious code in odin-cross-env-prettier-plugin-markdown-deimos (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145793"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

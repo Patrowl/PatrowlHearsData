@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-195732", "enisaUuid": "017c7961-26b0-31bd-8111-37868a05eda6", "description": "Malicious code in scripts-mysql-package-graphql (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45980"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-146299", "enisaUuid": "21b77231-f2aa-3f0a-a38b-401bfd40af5a", "description": "Malicious code in verify-tical-bisuya (npm)", "datePublished": "2025-11-12T16:47:05", "dateUpdated": "2025-11-12T16:47:05", "baseScore": 0.0, "aliases": ["MAL-2025-170513"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

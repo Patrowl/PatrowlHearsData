@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-183499", "enisaUuid": "36b675a0-9cc1-3c67-870e-99c27e2c6c73", "description": "Malicious code in spawn-spinner-stop-callisto (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-33714"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

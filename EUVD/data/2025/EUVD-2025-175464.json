@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175464", "enisaUuid": "19fd3421-68c5-39ca-b81e-b140cf1dc523", "description": "Malicious code in xo-quasarjet-publish-npm (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190412"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

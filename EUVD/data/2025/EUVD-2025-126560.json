@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126560", "enisaUuid": "2dcf5a9e-f0ee-3224-954a-1df1efebee06", "description": "Malicious code in @uniqa/health-claim-ms-api (npm)", "datePublished": "2025-03-28T12:34:03", "dateUpdated": "2025-03-28T12:34:03", "baseScore": 0.0, "aliases": ["MAL-2025-2819"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

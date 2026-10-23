@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113436", "enisaUuid": "bbf07ee4-6a3b-3379-9286-44ba1b1d3dd9", "description": "Malicious code in framework-astro-library-wasat (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142676"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

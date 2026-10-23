@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123538", "enisaUuid": "912290e7-fd75-3d41-9b9b-9e29cc51f26a", "description": "Malicious code in postcss-charon-antares-mutation (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146383"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161282", "enisaUuid": "16932ea2-60ab-3702-8ad4-25dd5d188beb", "description": "Malicious code in change-object-path (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16781"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

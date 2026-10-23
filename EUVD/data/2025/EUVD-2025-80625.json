@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80625", "enisaUuid": "5a4253d3-40c9-39fe-ac5c-1bf3c1946642", "description": "Malicious code in select_roundworm_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-108501"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

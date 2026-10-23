@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165441", "enisaUuid": "eb7ac603-a704-3bec-9af3-2e0fcd802285", "description": "Malicious code in fql_flow (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20922"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

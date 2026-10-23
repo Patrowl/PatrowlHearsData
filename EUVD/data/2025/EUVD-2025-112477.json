@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112477", "enisaUuid": "2a1fd24c-915b-3313-86aa-0434cfa994bb", "description": "Malicious code in init-xenos-forever-grus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143636"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

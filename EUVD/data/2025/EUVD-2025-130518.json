@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130518", "enisaUuid": "0a5ae35f-eca7-3602-afdb-eb679905dd80", "description": "Malicious code in lynx-libs-mono (npm)", "datePublished": "2025-08-06T14:50:43", "dateUpdated": "2025-08-06T16:08:51", "baseScore": 0.0, "aliases": ["MAL-2025-6796"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-166413", "enisaUuid": "69ae40a7-aad8-32bd-9f86-02e8a9293287", "description": "Malicious code in gravitationalwave-node-config-equinox-commitlint (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-21895"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

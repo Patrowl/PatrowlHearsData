@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112501", "enisaUuid": "d432f6c5-5e95-3b64-9f7b-e73350f577b6", "description": "Malicious code in ini-xenos-stream-webdriverio (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143612"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

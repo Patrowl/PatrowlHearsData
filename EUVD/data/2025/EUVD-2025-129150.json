@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129150", "enisaUuid": "96c77b7e-2f1f-3707-9755-659a7a66d62a", "description": "Malicious code in intercom-pulse (npm)", "datePublished": "2025-06-26T18:45:02", "dateUpdated": "2025-06-26T18:45:02", "baseScore": 0.0, "aliases": ["MAL-2025-5421"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

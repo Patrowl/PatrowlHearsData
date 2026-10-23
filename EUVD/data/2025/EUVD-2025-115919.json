@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115919", "enisaUuid": "17d84fc6-d165-324f-b5a8-fe1ff632db44", "description": "Malicious code in build-loopback-transform-publish (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140185"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

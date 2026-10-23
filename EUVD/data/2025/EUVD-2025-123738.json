@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123738", "enisaUuid": "b10245b7-ca30-30c4-814b-d955fc33f116", "description": "Malicious code in phoebe-spectron-webdriver-eleventy-envconfig (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146183"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

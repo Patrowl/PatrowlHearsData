@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113953", "enisaUuid": "52eef4b5-fa8d-34dd-85e5-3c6fd55cc616", "description": "Malicious code in eridanus-typeorm-pino-pretty-hapi (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142157"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

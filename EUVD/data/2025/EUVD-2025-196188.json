@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-196188", "enisaUuid": "b2a395a1-94e6-3ff1-8f55-625a0f5b6a52", "description": "Malicious code in uglify-js-forever-equinox-nodejs (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-46436"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

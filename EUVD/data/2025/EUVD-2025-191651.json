@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191651", "enisaUuid": "52b5e4b3-4867-37a3-a5c2-a773c887be9a", "description": "Malicious code in @espace-client-axafr/redux-ajax-auth (npm)", "datePublished": "2025-08-25T18:35:49", "dateUpdated": "2025-08-25T18:35:49", "baseScore": 0.0, "aliases": ["MAL-2025-41885"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

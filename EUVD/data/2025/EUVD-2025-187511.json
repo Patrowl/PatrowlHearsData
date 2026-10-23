@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187511", "enisaUuid": "c301c1a9-1e98-3678-9d19-bdac8f3e03bd", "description": "Malicious code in undertow-falcon-dbg379-project (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37723"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121385", "enisaUuid": "767cf3aa-d38e-3c16-8ad6-09fa0b448d3e", "description": "Malicious code in terser-webpack-plugin-canopus-antd-hyperion (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148543"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121752", "enisaUuid": "0f4f548d-0448-3799-bd39-8627f6716633", "description": "Malicious code in spica-postcss-init-auth (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148173"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

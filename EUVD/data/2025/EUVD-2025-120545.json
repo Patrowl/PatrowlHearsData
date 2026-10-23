@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120545", "enisaUuid": "cbfd8186-e5e0-31d3-bce6-6d16d9d99806", "description": "Malicious code in webdriverio-supervisor-ignite-puppeteer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149384"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191492", "enisaUuid": "9a9e180f-314a-35bc-a24e-4bde21dc5be9", "description": "Malicious code in python-kudu (PyPI)", "datePublished": "2025-08-28T07:11:37", "dateUpdated": "2025-08-28T07:11:37", "baseScore": 0.0, "aliases": ["MAL-2025-41725"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

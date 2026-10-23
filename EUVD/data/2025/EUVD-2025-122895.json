@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122895", "enisaUuid": "28fa6698-2f2b-3e52-afa6-bf216eeaa64e", "description": "Malicious code in radiant-vuetify-pulsar-xml (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147027"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

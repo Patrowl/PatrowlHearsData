@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123048", "enisaUuid": "56762849-4b82-3572-ae92-03aa7d72f313", "description": "Malicious code in pyxis-cypress-chromedriver-canopus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146874"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

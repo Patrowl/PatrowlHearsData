@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120047", "enisaUuid": "47a985f0-45d8-3388-8ae3-c136ab573059", "description": "Malicious code in zephyr-ganymede-meteor-prettier (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149885"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

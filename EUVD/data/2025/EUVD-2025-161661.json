@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161661", "enisaUuid": "86e37822-5cb9-3166-b1e0-c10ec4cd657b", "description": "Malicious code in cloud-object-new-resolve-grid (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17162"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

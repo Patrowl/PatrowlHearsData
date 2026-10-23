@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-126339", "enisaUuid": "79e976d8-39d0-3b89-9569-4454d87c9df5", "description": "Malicious code in bsb-connector (PyPI)", "datePublished": "2025-03-19T14:42:00", "dateUpdated": "2025-03-19T14:42:00", "baseScore": 0.0, "aliases": ["MAL-2025-2598"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

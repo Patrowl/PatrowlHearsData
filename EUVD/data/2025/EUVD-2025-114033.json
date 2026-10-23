@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114033", "enisaUuid": "0b570df1-10ea-3ab4-a058-de3d1609eeb1", "description": "Malicious code in envconfig-loglevel-odin-sequelize (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142077"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

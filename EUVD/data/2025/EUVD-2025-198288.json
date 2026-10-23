@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-198288", "enisaUuid": "9160a70b-9af2-3580-a5fc-ff2166bc9973", "description": "Malicious code in identity-authn-core-ui (npm)", "datePublished": "2025-11-20T08:26:20", "dateUpdated": "2025-11-24T16:09:29", "baseScore": 0.0, "aliases": ["MAL-2025-190586"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

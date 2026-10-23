@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114926", "enisaUuid": "bb6b67ad-a951-3063-9fe7-8df8bc495291", "description": "Malicious code in cosmiconfig-google-commitlint-sagitta (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141183"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

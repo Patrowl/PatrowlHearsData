@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115236", "enisaUuid": "0c75064c-c036-31a4-bd79-b41de12af2e6", "description": "Malicious code in comet-cors-procyon-rocket (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140872"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

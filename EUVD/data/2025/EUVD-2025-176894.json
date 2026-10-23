@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176894", "enisaUuid": "06ab2ca5-bb2f-3409-b264-9f608e242d7c", "description": "Malicious code in puppeteer-meissa-prettier-plugin-markdown-sadr (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188981"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

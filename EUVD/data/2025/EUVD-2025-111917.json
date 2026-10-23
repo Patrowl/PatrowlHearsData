@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111917", "enisaUuid": "c2d0aab4-8d0c-3b23-ac47-0726a673035e", "description": "Malicious code in koa-module-bootstrap-spica (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144196"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

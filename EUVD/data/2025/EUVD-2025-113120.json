@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113120", "enisaUuid": "702efb51-e33a-35d6-8fd8-eed1019d9d8c", "description": "Malicious code in got-uninstall-dotenv-safe-test (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142992"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

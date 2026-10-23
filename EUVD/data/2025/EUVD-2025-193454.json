@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193454", "enisaUuid": "21c5b1f1-9c89-3494-ad06-254a2e0c1331", "description": "Malicious code in capella-heka-deneb-duplex (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43701"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

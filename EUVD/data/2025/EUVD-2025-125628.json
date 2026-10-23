@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125628", "enisaUuid": "bda1e9bb-591c-34bc-b7e7-784a77117385", "description": "Malicious code in mapsapi-polylabeler (npm)", "datePublished": "2025-03-03T13:31:54", "dateUpdated": "2025-03-03T13:31:54", "baseScore": 0.0, "aliases": ["MAL-2025-1886"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

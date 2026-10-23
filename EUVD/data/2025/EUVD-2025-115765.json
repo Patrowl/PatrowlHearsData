@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115765", "enisaUuid": "0602fdae-9a2c-3701-abad-f97d8bfb58b0", "description": "Malicious code in callisto-loglevel-electron-postgres (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140341"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

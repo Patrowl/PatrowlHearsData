@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176796", "enisaUuid": "3b05f36d-b3ee-38fe-8c25-23ad408d2285", "description": "Malicious code in rate-limiter-areology-dorado-apex (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189079"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-89193", "enisaUuid": "b966fcfc-e8ad-3396-a69e-4abd1e52dcc1", "description": "Malicious code in remote_donkey_z3n (npm)", "datePublished": "2025-11-11T15:19:32", "dateUpdated": "2025-11-11T15:19:32", "baseScore": 0.0, "aliases": ["MAL-2025-116691"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

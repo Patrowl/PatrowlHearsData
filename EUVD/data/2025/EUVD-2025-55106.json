@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-55106", "enisaUuid": "9a889d1b-21b0-3edf-9b9a-6f6cf66e18cb", "description": "Malicious code in critical-azure-giraffe (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-67543"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

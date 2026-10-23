@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-53504", "enisaUuid": "8b612c9c-57ba-35ed-968f-541ec9c61680", "description": "Malicious code in light-fuchsia-possum (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-69145"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

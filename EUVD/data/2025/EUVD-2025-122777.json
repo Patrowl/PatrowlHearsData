@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122777", "enisaUuid": "40438f0a-6fd3-3daf-a69e-fc3fc6ace06b", "description": "Malicious code in regulus-electron-builder-toml-convict (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147145"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

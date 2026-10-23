@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175701", "enisaUuid": "c3be0e8d-44e1-38c2-8aa1-0990dd697ae6", "description": "Malicious code in visualize-validate-array-hot-analyze (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-190174"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173465", "enisaUuid": "8e4a224e-4d93-30d7-be0b-531c926ab931", "description": "Malicious code in paychex-framework-core-ui (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28936"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

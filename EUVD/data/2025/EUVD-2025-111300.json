@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111300", "enisaUuid": "b049427c-8738-34cd-98a6-0a5c5ccf03ab", "description": "Malicious code in meissa-miranda-mongodb-pegasus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144815"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

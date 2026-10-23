@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-187038", "enisaUuid": "e7e6f086-56f7-3dc6-a08b-2e2d49c27f59", "description": "Malicious code in twilio-datasync (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-37373"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

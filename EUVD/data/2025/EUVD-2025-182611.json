@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182611", "enisaUuid": "f8c7e8ab-a3af-3aa8-a00e-e7f9cd57fc7c", "description": "Malicious code in screwdriver-plugin-jobs (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32826"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-165314", "enisaUuid": "08256e32-87c0-31d8-9580-ba105098f76a", "description": "Malicious code in fornax-express-package-metalsmith (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20795"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

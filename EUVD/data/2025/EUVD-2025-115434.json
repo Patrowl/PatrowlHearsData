@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115434", "enisaUuid": "20e5fc44-15a0-3c7e-8041-f1e06d1402b9", "description": "Malicious code in changelog-library-morgan-build (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140673"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

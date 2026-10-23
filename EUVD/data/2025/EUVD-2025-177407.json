@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177407", "enisaUuid": "dacd98c9-8410-35bb-a391-09de75479a43", "description": "Malicious code in orchestrate-web-simulate-float-abstract (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188475"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

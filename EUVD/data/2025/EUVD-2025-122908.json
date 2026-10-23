@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122908", "enisaUuid": "d8bc78e9-f6df-3f58-a7aa-34e621602985", "description": "Malicious code in radiant-equinox-pm2-restart (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147014"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

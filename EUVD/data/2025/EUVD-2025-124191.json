@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124191", "enisaUuid": "7ef2542f-44dd-3298-91d8-ca796efa7809", "description": "Malicious code in oauth-farout-corvus-init (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145730"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

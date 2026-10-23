@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160925", "enisaUuid": "42be7934-ebec-39ec-99f0-239517d40b83", "description": "Malicious code in cache-table-cloud-encrypt-reject (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16424"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

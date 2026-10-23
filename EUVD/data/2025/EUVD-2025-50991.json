@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-50991", "enisaUuid": "ec2a22d2-6004-3e76-b616-0855148dcc88", "description": "Malicious code in wrong-tomato-capybara (npm)", "datePublished": "2025-11-11T00:41:25", "dateUpdated": "2025-11-11T00:41:25", "baseScore": 0.0, "aliases": ["MAL-2025-71658"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

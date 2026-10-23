@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111204", "enisaUuid": "82943c38-9a3f-3368-99ee-f73ee31402a1", "description": "Malicious code in meteor-global-xo-sequelize (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144911"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

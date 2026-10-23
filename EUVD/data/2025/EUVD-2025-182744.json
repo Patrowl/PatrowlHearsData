@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-182744", "enisaUuid": "dd375b27-4ae1-3313-91e0-99d649260743", "description": "Malicious code in sequelize-schema-file-generator (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-32959"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

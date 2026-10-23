@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191162", "enisaUuid": "f767973a-7d36-386b-9f94-46aa782a4cd7", "description": "Malicious code in gbb-kubernetes-hackfest-webui-dashboard (npm)", "datePublished": "2025-08-19T04:02:30", "dateUpdated": "2025-08-19T04:02:30", "baseScore": 0.0, "aliases": ["MAL-2025-41385"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

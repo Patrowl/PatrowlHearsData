@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112605", "enisaUuid": "7cc2f535-3383-39c5-a9f0-11997ccbd5ca", "description": "Malicious code in ignite-callback-node-config-tool (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143507"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

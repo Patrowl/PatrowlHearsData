@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177255", "enisaUuid": "548e69c3-7bf8-3810-a72f-fc2a8b6febb9", "description": "Malicious code in perseus-lyra-css-minimizer-webpack-plugin-loop (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188627"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

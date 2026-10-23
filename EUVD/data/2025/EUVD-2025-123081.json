@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123081", "enisaUuid": "f5361470-623e-35d1-af25-ee0f19d3f53f", "description": "Malicious code in pulsar-quito-standard-pegasus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146841"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

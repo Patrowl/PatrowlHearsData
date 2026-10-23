@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115118", "enisaUuid": "d8c78436-ea0e-3590-8b1b-f6b000001fe4", "description": "Malicious code in commitlint-jovian-exec-figures (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140990"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

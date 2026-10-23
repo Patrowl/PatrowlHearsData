@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121369", "enisaUuid": "0df1d1a5-2df6-3fbe-86fc-bd5e044d08b1", "description": "Malicious code in terser-webpack-plugin-prettier-antares-tailwindcss (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148559"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

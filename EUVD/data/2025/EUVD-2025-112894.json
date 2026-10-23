@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112894", "enisaUuid": "b6218764-94be-3069-a3c4-b304593455b4", "description": "Malicious code in heka-scorpius-module-registry (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143218"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

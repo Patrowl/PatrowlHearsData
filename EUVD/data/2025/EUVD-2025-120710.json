@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120710", "enisaUuid": "0dc84001-2409-3f82-884e-39fd3eb22afb", "description": "Malicious code in vuetify-postcss-loader-mongodb-less (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149219"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

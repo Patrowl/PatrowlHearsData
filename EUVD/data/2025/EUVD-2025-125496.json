@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-125496", "enisaUuid": "e3310e60-c3f3-3ebb-891a-f8241e87e612", "description": "Malicious code in calypso-stripe (npm)", "datePublished": "2025-03-03T13:21:13", "dateUpdated": "2025-03-03T13:21:13", "baseScore": 0.0, "aliases": ["MAL-2025-1753"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

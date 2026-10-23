@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112277", "enisaUuid": "4a653325-fc36-3010-9211-dd144d3c2419", "description": "Malicious code in janus-slidev-typeorm-ini (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143836"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

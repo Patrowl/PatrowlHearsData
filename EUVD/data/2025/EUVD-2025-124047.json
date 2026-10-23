@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124047", "enisaUuid": "74a2255d-77d9-3200-bd5a-bf8489af761c", "description": "Malicious code in optimize-css-assets-webpack-plugin-yildun-hugo-nova (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145874"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

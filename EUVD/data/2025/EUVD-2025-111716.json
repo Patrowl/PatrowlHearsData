@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111716", "enisaUuid": "cccc8782-8322-305a-9a8d-67488a2decdf", "description": "Malicious code in link-await-hydra-bellatrix (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144398"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

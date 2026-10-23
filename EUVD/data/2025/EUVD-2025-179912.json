@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179912", "enisaUuid": "b11dd714-ffc5-3599-bca3-9c1789269d4e", "description": "Malicious code in cache-umbra-geoarchaeology-server (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185970"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

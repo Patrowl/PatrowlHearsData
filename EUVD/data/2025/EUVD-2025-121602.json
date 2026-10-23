@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121602", "enisaUuid": "b409de37-500b-39c5-9b71-1145e88a8efc", "description": "Malicious code in stream-lint-magellan-dependencies (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148323"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

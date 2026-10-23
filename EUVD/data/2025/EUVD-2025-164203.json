@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164203", "enisaUuid": "497f7530-991e-3d44-b73e-acffe655c012", "description": "Malicious code in envconfig-cross-env-ariel-enceladus (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19682"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

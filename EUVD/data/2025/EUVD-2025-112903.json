@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112903", "enisaUuid": "728a84e4-cc26-3ece-b83f-15f662d334a3", "description": "Malicious code in heka-nebula-rollup-plugin-inquirer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143209"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

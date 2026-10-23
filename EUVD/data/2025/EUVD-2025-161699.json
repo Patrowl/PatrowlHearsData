@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161699", "enisaUuid": "af59351e-f327-327d-8d21-04f7846a225b", "description": "Malicious code in cluster-nextjs-html-webpack-plugin-scripts (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-17200"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

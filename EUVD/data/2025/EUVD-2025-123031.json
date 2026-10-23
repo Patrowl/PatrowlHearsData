@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123031", "enisaUuid": "56664f18-fc64-3445-bed7-a7c8b33a11c5", "description": "Malicious code in pyxis-thuban-configstore-meissa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146891"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

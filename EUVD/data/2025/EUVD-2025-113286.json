@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113286", "enisaUuid": "17008d0f-7d0a-3310-be21-b2bf161bba63", "description": "Malicious code in ganymede-uglify-js-quark-dotenv (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142826"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

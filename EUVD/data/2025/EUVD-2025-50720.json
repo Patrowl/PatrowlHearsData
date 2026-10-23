@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-50720", "enisaUuid": "0e342e74-502c-39d8-b148-55f07140e950", "description": "Malicious code in alert_wallaby_z3n (npm)", "datePublished": "2025-11-10T18:02:22", "dateUpdated": "2025-11-10T18:02:22", "baseScore": 0.0, "aliases": ["MAL-2025-59949"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

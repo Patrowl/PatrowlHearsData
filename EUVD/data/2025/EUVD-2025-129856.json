@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129856", "enisaUuid": "06c39a78-9e14-3b71-9e8a-4b43ac32925f", "description": "Malicious code in spring-context (npm)", "datePublished": "2025-07-22T16:30:14", "dateUpdated": "2025-07-22T16:30:14", "baseScore": 0.0, "aliases": ["MAL-2025-6129"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

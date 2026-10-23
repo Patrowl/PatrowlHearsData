@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-175994", "enisaUuid": "c9397060-9ce0-357a-91fe-bf8baf907c74", "description": "Malicious code in test-cache-rehype-backend (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189881"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

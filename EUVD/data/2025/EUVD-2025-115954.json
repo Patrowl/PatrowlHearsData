@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115954", "enisaUuid": "d64af36a-aa4e-3ccd-8f23-81b5232793ac", "description": "Malicious code in buffer-achernar-winston-triton (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140150"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

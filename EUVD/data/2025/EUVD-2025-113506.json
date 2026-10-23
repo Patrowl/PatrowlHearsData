@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113506", "enisaUuid": "c2b4331b-51b9-3950-b971-8bc975fdbb2d", "description": "Malicious code in fornax-apollo-dependencies-sirius (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142606"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

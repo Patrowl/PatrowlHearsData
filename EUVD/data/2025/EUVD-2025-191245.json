@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191245", "enisaUuid": "96aa68c6-910a-391e-8544-397a646452e0", "description": "Malicious code in @twork-data-services/company-counters (npm)", "datePublished": "2025-08-28T07:16:03", "dateUpdated": "2025-08-28T07:16:03", "baseScore": 0.0, "aliases": ["MAL-2025-41476"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

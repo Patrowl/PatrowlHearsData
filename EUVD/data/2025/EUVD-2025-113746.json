@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113746", "enisaUuid": "ec288960-29df-35c1-94fe-c80f1b901835", "description": "Malicious code in express-andromeda-xml-miranda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142364"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

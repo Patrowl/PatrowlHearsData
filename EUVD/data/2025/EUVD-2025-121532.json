@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121532", "enisaUuid": "77ca6c2f-14b9-392f-925c-2a0322ff91d5", "description": "Malicious code in supervisor-koa-carpo-hugo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148394"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

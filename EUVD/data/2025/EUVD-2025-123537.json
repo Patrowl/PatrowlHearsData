@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123537", "enisaUuid": "ae0b3e01-d557-3dea-9217-fd5a8a45bd24", "description": "Malicious code in postcss-concurrently-envconfig-meteor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146384"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

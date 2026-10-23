@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116779", "enisaUuid": "f566b69d-4e7d-3041-a19e-764511c3606f", "description": "Malicious code in alphard-express-pulsar-schema (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139323"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

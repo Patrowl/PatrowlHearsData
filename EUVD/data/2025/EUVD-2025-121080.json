@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121080", "enisaUuid": "86146879-2d8a-36fd-aa2d-9da93ec3df19", "description": "Malicious code in typeorm-loglevel-xo-luna (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148848"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

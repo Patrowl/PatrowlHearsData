@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164354", "enisaUuid": "a8dcb6a4-f773-3b8a-9616-b8e3402592e6", "description": "Malicious code in eslint-config-kptests (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19834"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-76015", "enisaUuid": "4ef59783-c520-3ad0-883a-4f2d8b5728b7", "description": "Malicious code in plain_slug-apptea (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-107092"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176290", "enisaUuid": "17ab5183-da3b-3a5f-b524-7f402bc0584c", "description": "Malicious code in solarnebula-nextjs-start-request (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189585"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

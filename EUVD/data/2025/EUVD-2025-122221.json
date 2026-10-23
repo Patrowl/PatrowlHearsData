@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122221", "enisaUuid": "4adc3747-96e4-3e2a-9640-d2e911c7fc7d", "description": "Malicious code in schema-zenobia-lint-staged-postcss (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147701"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

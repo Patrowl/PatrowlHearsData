@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121459", "enisaUuid": "2ac5aec4-8ca4-376e-b405-8639186a1205", "description": "Malicious code in taurus-install-eslint-plugin-sadr (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148469"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115934", "enisaUuid": "e45361d6-8e29-3ecb-bb58-7610aa357d28", "description": "Malicious code in buffer-readable-geckodriver-miranda (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140170"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

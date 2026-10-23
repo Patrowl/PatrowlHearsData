@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111138", "enisaUuid": "d22b8e7f-2cf3-3f0a-985b-d177b0fc5321", "description": "Malicious code in mini-css-extract-plugin-koa-chromedriver-playwright (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144977"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

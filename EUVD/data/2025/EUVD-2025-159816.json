@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-159816", "enisaUuid": "43bea5ed-7a7a-37bc-b62d-cb19e5172e70", "description": "Malicious code in backblaze-frameio-common (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15315"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

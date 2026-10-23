@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169700", "enisaUuid": "d7509d89-11fa-3478-ae1d-de4d4c230c22", "description": "Malicious code in lerna-test-app3 (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25171"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

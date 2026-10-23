@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-168271", "enisaUuid": "53e39db4-06c1-3436-9f60-0216cc479ce6", "description": "Malicious code in jetty-shack-fmik (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-23753"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

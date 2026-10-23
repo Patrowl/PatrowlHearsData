@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113856", "enisaUuid": "d084ed75-3c83-3440-a666-4f89d2b1e5ef", "description": "Malicious code in eslint-uglify-js-prettier-stylelint-apex (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142254"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-163102", "enisaUuid": "05676a1f-b46e-314f-94cf-2dc1c946c2aa", "description": "Malicious code in dolomite-liquidator-subgraph (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18603"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

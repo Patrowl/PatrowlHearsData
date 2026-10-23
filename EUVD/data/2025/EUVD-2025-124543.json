@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124543", "enisaUuid": "24bc2b4f-f98a-39e4-85dd-3325f0972937", "description": "Malicious code in neptune-redis-centaurus-phoenix (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145377"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

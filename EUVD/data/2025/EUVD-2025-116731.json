@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116731", "enisaUuid": "540a8a4c-d61c-3a14-8be5-6642c5f7bed7", "description": "Malicious code in altair-umbriel-child-process-cross-env (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139371"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

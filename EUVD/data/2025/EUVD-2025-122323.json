@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122323", "enisaUuid": "bd2bce2c-1960-3987-89a2-2802c244654b", "description": "Malicious code in sagitta-indus-supervisor-non-blocking (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147599"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

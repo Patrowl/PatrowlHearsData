@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-161476", "enisaUuid": "0eb4605f-184e-33fa-843a-a75d3fd1e084", "description": "Malicious code in chi-old-encrypt-grep-delta (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-16975"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

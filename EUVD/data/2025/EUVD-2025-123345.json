@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123345", "enisaUuid": "67beabd4-0748-394d-b717-87de6fd91c2d", "description": "Malicious code in procyon-atlas-jest-halley (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146577"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

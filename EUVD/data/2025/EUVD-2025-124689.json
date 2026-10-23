@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124689", "enisaUuid": "67a34046-de21-30b2-9912-0e8fff48ce37", "description": "Malicious code in mutation-puppeteer-dactyl-morgan (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145229"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

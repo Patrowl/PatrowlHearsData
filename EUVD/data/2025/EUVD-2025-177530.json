@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177530", "enisaUuid": "03b7df2e-e01e-3880-964e-949b5923f6f9", "description": "Malicious code in nova-chakra-ui-css-loader-eris (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188352"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

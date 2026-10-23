@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120544", "enisaUuid": "e4dd02ff-f8d0-3d0c-b73c-d1de4b044661", "description": "Malicious code in webdriverio-telesto-equinox-html-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149385"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

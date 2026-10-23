@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178206", "enisaUuid": "c1a5f0f1-3634-3477-8cf2-7675dd88e1f9", "description": "Malicious code in kernel-encode-benchmark-interface-virtualize (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187676"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

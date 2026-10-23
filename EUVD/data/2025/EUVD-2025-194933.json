@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-194933", "enisaUuid": "400ebecc-233e-3807-81ee-02608fb75527", "description": "Malicious code in metalsmith-node-config-dotenv-safe-bellatrix (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-45180"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

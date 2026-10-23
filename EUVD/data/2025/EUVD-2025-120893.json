@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120893", "enisaUuid": "257dc955-a6de-3312-9ab2-b29f85070726", "description": "Malicious code in upgrade-vuepress-pm2-apex (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149036"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

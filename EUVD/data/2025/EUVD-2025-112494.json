@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112494", "enisaUuid": "2a2499a8-9b1d-30d6-bb17-afdf39ad7b2d", "description": "Malicious code in init-dione-server-pegasus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143619"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

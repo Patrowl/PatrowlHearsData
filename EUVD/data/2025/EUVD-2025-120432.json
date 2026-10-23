@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120432", "enisaUuid": "19e87e9d-4fdb-3374-8609-fa1d4ae04753", "description": "Malicious code in winston-init-public-prompts (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149498"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

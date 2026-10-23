@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122612", "enisaUuid": "b7c2cc82-55d5-3493-a70b-a79ed1d68b05", "description": "Malicious code in request-sagitta-rest-prettier-stylelint (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147310"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

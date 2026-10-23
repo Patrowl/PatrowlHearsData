@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114489", "enisaUuid": "ea9bc679-50a3-3584-9a17-678d2f64ff21", "description": "Malicious code in development-exec-spawn-perseus (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141620"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

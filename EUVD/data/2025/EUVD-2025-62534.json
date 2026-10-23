@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-62534", "enisaUuid": "afee54cb-e509-30a7-b58b-dbceda723acb", "description": "Malicious code in primitive_condor_z3n (npm)", "datePublished": "2025-11-11T05:18:27", "dateUpdated": "2025-11-11T05:18:27", "baseScore": 0.0, "aliases": ["MAL-2025-96020"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

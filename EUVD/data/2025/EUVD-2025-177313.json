@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177313", "enisaUuid": "250399bb-a80b-3021-b524-3977f0ba55fe", "description": "Malicious code in parsec-kaus-optimize-css-assets-webpack-plugin-triton (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188569"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

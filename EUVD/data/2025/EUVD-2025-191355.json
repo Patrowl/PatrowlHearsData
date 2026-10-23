@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191355", "enisaUuid": "a4185ea4-71e3-3830-a7e8-8569da29e41b", "description": "Malicious code in openzeppelin-contracts-5.0.2 (npm)", "datePublished": "2025-08-28T07:35:18", "dateUpdated": "2025-08-28T07:35:18", "baseScore": 0.0, "aliases": ["MAL-2025-41588"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

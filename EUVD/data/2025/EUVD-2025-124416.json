@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124416", "enisaUuid": "7274c0c4-0fff-3fcc-92c6-59cc247ebbab", "description": "Malicious code in node-config-elektra-europa-algol (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145505"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-181571", "enisaUuid": "fa678ea7-5982-3961-a486-d7ba6756285f", "description": "Malicious code in react-flex-dropdowns (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-31786"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

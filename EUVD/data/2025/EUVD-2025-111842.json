@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111842", "enisaUuid": "b38c0c6f-9e7d-3504-bf71-841fe8a6913e", "description": "Malicious code in leda-geckodriver-miranda-helios (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144271"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

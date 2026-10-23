@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112392", "enisaUuid": "f54c2cd2-f860-30db-ba1c-ca820ce499ae", "description": "Malicious code in iota-dotenv-safe-webdriver-mocha-mutation (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143721"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

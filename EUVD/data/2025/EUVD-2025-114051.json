@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114051", "enisaUuid": "0bdd68ca-b99e-3727-b87f-7a2abdc46c5c", "description": "Malicious code in enif-quito-spectron-webdriver-hapi (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142059"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

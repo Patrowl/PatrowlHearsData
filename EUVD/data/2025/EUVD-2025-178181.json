@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178181", "enisaUuid": "3ab8aa8c-ad52-3cae-aff4-0fd645cdc152", "description": "Malicious code in koa-prettier-stylelint-link-google (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187701"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

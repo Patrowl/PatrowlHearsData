@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122859", "enisaUuid": "effc100b-bba1-3df3-b36f-bdf8824f53ff", "description": "Malicious code in react-bootstrap-lint-alphard-ursa (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147063"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

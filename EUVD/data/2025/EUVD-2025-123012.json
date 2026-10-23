@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123012", "enisaUuid": "ba27fa24-a17c-3c9d-8efe-ed8352071104", "description": "Malicious code in quantum-mysql-schema-materialize (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146910"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

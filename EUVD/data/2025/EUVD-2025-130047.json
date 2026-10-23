@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130047", "enisaUuid": "d2b875da-8180-3762-9f70-3e69fd995996", "description": "Malicious code in turborepo-tests-helpers (npm)", "datePublished": "2025-07-26T21:12:36", "dateUpdated": "2025-07-26T21:12:36", "baseScore": 0.0, "aliases": ["MAL-2025-6320"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

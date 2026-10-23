@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172187", "enisaUuid": "c5be35c4-20f5-34d0-b66a-76ae97a4ce69", "description": "Malicious code in node-spdy (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-27658"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

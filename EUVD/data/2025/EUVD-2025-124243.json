@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124243", "enisaUuid": "b25cf1a0-710d-3fb8-ace0-51be1acc205a", "description": "Malicious code in npm-event-socketio-pavo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145678"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

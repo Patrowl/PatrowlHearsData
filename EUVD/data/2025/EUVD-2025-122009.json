@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-122009", "enisaUuid": "c9a92f2a-7acf-3f10-8ec7-a1f29b105881", "description": "Malicious code in shelljs-heka-sass-loader-gemini (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-147914"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

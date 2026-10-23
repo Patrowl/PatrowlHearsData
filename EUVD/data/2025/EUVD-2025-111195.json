@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-111195", "enisaUuid": "4e004d56-8829-326f-a8e0-6c37a87b14ab", "description": "Malicious code in meteor-nconf-eslint-orbit (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-144920"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

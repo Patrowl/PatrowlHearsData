@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114164", "enisaUuid": "15e5bba2-1370-350c-8920-877637c5beef", "description": "Malicious code in elektra-fornax-csrf-csv (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141946"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

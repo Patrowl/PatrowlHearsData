@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164607", "enisaUuid": "7f9e0142-fdc8-3190-989d-e28de55d4bff", "description": "Malicious code in express-uatraits-extend (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-20087"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

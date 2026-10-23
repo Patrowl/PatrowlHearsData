@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123260", "enisaUuid": "0a76df32-2aa5-3dcb-ad0a-404fdd23f055", "description": "Malicious code in prompts-dotenv-safe-meteor-terser-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146662"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

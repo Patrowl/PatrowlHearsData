@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129791", "enisaUuid": "5e6fc32b-33e2-3239-82fc-186cf4c68ea7", "description": "Malicious code in @toptal/picasso-switch (npm)", "datePublished": "2025-07-20T16:44:55", "dateUpdated": "2025-07-20T16:44:55", "baseScore": 0.0, "aliases": ["MAL-2025-6064"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

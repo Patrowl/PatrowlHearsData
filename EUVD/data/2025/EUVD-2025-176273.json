@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176273", "enisaUuid": "a5eca59f-6d1b-3f1a-8ba9-4a497d753067", "description": "Malicious code in spawn-webpack-nightwatch-slides (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189602"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

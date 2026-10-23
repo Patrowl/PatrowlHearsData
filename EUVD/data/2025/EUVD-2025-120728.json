@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120728", "enisaUuid": "a90991ff-f4c9-3e43-ab26-a46d128583c3", "description": "Malicious code in vuepress-winston-middleware-sass-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149201"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

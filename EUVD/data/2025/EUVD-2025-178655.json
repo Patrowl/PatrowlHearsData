@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-178655", "enisaUuid": "131a0a0b-975a-3d01-b436-414a29bac5b7", "description": "Malicious code in grep-dog-function-stub-tree (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-187227"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

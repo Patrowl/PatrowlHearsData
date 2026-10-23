@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-180170", "enisaUuid": "9afcf007-9e08-30ff-a37e-98949e5649dd", "description": "Malicious code in axios-astro-html-webpack-plugin-algol (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-185712"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

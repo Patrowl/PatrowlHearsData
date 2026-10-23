@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-124293", "enisaUuid": "bfe3f09d-c4eb-3861-aeb9-a3f1948c6e2e", "description": "Malicious code in non-blocking-tailwindcss-virgo-buffer (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-145628"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

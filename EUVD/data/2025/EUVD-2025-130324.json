@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-130324", "enisaUuid": "52de48a7-85da-32cc-9c0b-15ffdc07beb5", "description": "Malicious code in terraform-binary-wheel (PyPI)", "datePublished": "2025-07-31T19:16:43", "dateUpdated": "2025-07-31T19:16:43", "baseScore": 0.0, "aliases": ["MAL-2025-6599"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

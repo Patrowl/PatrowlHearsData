@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177477", "enisaUuid": "f2bf17b6-e3fd-33c3-af33-30b114cc79d4", "description": "Malicious code in old-export-class-cron-deploy (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188405"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

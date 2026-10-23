@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123577", "enisaUuid": "dbbd52b6-b850-3ba0-bb27-eb45738f1607", "description": "Malicious code in polaris-google-proxima-hercules (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146344"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

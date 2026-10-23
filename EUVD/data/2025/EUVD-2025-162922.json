@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-162922", "enisaUuid": "26693ad8-4994-3f92-add9-1b2d8e77f155", "description": "Malicious code in dh-translate (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-18423"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

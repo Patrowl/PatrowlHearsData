@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-160337", "enisaUuid": "e4dc945d-1b23-3cb2-864e-0d8c1d85336c", "description": "Malicious code in blog-post-prisma-middleware-cls-hooked (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-15836"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

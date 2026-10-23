@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-173408", "enisaUuid": "90b1e9a0-7098-3283-b0a2-ec821f547ceb", "description": "Malicious code in parse-server-hotfix (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28879"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

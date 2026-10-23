@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80737", "enisaUuid": "f2291cb5-c26c-3e0d-a6da-c1bd557688c4", "description": "Malicious code in resident_gopher_replicate_automation (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-107930"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-112884", "enisaUuid": "7a6bab4b-7c06-3a01-b37b-1cbfbb0f90e0", "description": "Malicious code in helios-configstore-orbit-meteor (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-143228"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

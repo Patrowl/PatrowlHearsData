@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191265", "enisaUuid": "2dddbfb5-3bd0-3178-b03a-cd603e58aa64", "description": "Malicious code in @twork-data-services/customer-storage-api-v5-customer (npm)", "datePublished": "2025-08-28T07:16:33", "dateUpdated": "2025-08-28T07:16:33", "baseScore": 0.0, "aliases": ["MAL-2025-41496"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

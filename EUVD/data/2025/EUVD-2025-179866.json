@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179866", "enisaUuid": "4882fcb7-55a7-3a08-8b6e-7274bb73de42", "description": "Malicious code in cassini-socketio-concurrently-forever (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186016"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

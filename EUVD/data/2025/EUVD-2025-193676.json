@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-193676", "enisaUuid": "301bc6cf-4089-3b47-a4b8-34c89f323e1a", "description": "Malicious code in cypress-private-fetch-exosphere (npm)", "datePublished": "2025-09-05T17:10:25", "dateUpdated": "2025-09-05T17:10:25", "baseScore": 0.0, "aliases": ["MAL-2025-43923"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

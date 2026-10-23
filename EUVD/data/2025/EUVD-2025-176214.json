@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176214", "enisaUuid": "e45622a7-ef5e-3921-9aac-5d93b7d1ae55", "description": "Malicious code in static-refactor-grep-yaml-emulate (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189661"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

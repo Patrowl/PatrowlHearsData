@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191136", "enisaUuid": "85676d52-cdaf-38e9-87d3-8fe8a8a8c6d0", "description": "Malicious code in @stackgl/gl-conformance (npm)", "datePublished": "2025-08-21T18:44:31", "dateUpdated": "2025-09-26T11:06:44", "baseScore": 0.0, "aliases": ["MAL-2025-41358"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

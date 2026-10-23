@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-138229", "enisaUuid": "78eb81f0-1159-3329-b94e-f70ef6033fdf", "description": "Malicious code in polymer-dsa-late (npm)", "datePublished": "2025-11-12T19:18:14", "dateUpdated": "2025-11-12T19:18:14", "baseScore": 0.0, "aliases": ["MAL-2025-177934"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

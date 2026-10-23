@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-115363", "enisaUuid": "8d273dfc-e5d3-364d-a3e8-e3c29ea1de1a", "description": "Malicious code in child-process-dotenv-antares-dione (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-140744"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

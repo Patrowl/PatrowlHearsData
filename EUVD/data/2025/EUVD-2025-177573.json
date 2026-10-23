@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-177573", "enisaUuid": "3c5814fb-a62b-37e0-800f-e71b3b97fe13", "description": "Malicious code in node-config-phoenix-regulus-html-webpack-plugin (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-188309"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

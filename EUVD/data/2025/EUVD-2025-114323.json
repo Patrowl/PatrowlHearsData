@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114323", "enisaUuid": "8333a322-ed51-34de-8b86-63dd4668be61", "description": "Malicious code in dotenv-winston-yakutsk-csrf (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141786"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

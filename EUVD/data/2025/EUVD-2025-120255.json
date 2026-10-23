@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-120255", "enisaUuid": "088ddeab-4a33-3118-9aca-d006c6be967f", "description": "Malicious code in xenos-framework-semantic-release-query (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-149676"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

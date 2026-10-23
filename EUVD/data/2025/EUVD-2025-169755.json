@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-169755", "enisaUuid": "44332ad6-4b06-30ee-861b-e68ebab01df5", "description": "Malicious code in libblp (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-25226"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

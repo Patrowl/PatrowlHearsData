@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-171307", "enisaUuid": "c854d321-4863-3880-ae1d-8c85b02c2760", "description": "Malicious code in moxilua (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-26778"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121132", "enisaUuid": "2f72f80e-d7c3-3258-a457-cbeee0b2b8fd", "description": "Malicious code in transport-playwright-zenobia-orbit (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148796"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

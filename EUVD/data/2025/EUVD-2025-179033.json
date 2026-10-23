@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-179033", "enisaUuid": "01d99e4b-8b7e-3cba-80ae-2184ceab04b6", "description": "Malicious code in eslint-plugin-semantic-release-chalk-fusion (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-186849"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

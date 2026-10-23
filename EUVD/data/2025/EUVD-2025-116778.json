@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116778", "enisaUuid": "aaa7e149-b5ee-3848-a744-b72964ecd372", "description": "Malicious code in alphard-fetch-corvus-command (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139324"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

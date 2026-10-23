@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-197202", "enisaUuid": "ddc3e62c-516f-33ca-bab8-e17c252fdd45", "description": "Malicious code in swagger-generation (npm)", "datePublished": "2025-09-26T09:44:48", "dateUpdated": "2025-09-26T09:44:48", "baseScore": 0.0, "aliases": ["MAL-2025-47729"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

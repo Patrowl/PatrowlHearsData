@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121695", "enisaUuid": "5d08f777-718a-3e45-abd9-3d1b7a07b22e", "description": "Malicious code in sqlite-jabbah-cross-env-postcss-loader (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148230"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

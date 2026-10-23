@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-164234", "enisaUuid": "4eed237b-5bc3-39eb-ae05-d88f2c7d1673", "description": "Malicious code in epimetheus-bunyan-antares-pulsar (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-19713"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

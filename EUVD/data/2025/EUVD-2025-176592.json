@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-176592", "enisaUuid": "d9e7161b-6995-3a1f-9dc9-859e20028b5a", "description": "Malicious code in root-user-await-validate-iota (npm)", "datePublished": "2025-11-13T03:23:14", "dateUpdated": "2025-11-13T03:23:14", "baseScore": 0.0, "aliases": ["MAL-2025-189283"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

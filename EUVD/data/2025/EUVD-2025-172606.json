@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-172606", "enisaUuid": "9a6b8aac-a4c7-313c-94bc-8ff479a46c9a", "description": "Malicious code in ocamlmath (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-28077"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

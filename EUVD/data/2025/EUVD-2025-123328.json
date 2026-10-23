@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123328", "enisaUuid": "74afd40f-e940-3379-b57a-ec4b810198bd", "description": "Malicious code in procyon-hapi-csv-flare (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146594"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

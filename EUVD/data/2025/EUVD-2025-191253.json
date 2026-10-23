@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-191253", "enisaUuid": "3059a4c3-4027-31db-948f-62e03f6f46fb", "description": "Malicious code in @twork-data-services/company-sms-phones (npm)", "datePublished": "2025-08-28T07:16:15", "dateUpdated": "2025-08-28T07:16:15", "baseScore": 0.0, "aliases": ["MAL-2025-41484"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

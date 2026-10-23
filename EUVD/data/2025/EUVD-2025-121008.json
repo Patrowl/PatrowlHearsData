@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-121008", "enisaUuid": "d053cd57-7f95-3787-97ca-63d3e8f583db", "description": "Malicious code in umbra-mdx-algol-webdriver-mocha (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-148920"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

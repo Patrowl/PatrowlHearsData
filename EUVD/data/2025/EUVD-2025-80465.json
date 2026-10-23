@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-80465", "enisaUuid": "7cac027e-00e0-3b08-8ed2-5e0a5b7e9493", "description": "Malicious code in stable_mackerel_0xrequest (npm)", "datePublished": "2025-11-11T07:26:13", "dateUpdated": "2025-11-11T07:26:13", "baseScore": 0.0, "aliases": ["MAL-2025-109058"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

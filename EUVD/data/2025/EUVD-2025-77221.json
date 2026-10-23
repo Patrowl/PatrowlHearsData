@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-77221", "enisaUuid": "e12dd1a9-5c1b-30f1-9331-d009af8de877", "description": "Malicious code in cooperative_cougar-tool (npm)", "datePublished": "2025-11-11T07:44:04", "dateUpdated": "2025-11-11T07:44:04", "baseScore": 0.0, "aliases": ["MAL-2025-100999"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

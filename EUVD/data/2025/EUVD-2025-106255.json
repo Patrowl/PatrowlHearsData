@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-106255", "enisaUuid": "d8a74856-d502-326a-a739-b903dd0d4a78", "description": "Malicious code in candra-ubi11-breki (npm)", "datePublished": "2025-11-11T20:11:48", "dateUpdated": "2025-11-11T20:11:48", "baseScore": 0.0, "aliases": ["MAL-2025-119049"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

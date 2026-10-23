@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-200848", "enisaUuid": "dabfcaf9-2e04-3734-ad0a-44d081694341", "description": "Malicious code in elf-stats-northbound-garland-782 (npm)", "datePublished": "2025-12-03T15:59:29", "dateUpdated": "2025-12-03T15:59:29", "baseScore": 0.0, "aliases": ["MAL-2025-192104"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

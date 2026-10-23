@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-114320", "enisaUuid": "f873a1f6-0dbe-35cb-b6a0-d74ab800a53e", "description": "Malicious code in draco-auth-resolvers-html-webpack-plugin (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-141789"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

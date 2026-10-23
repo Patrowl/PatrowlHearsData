@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-113727", "enisaUuid": "593a267b-0d15-3926-9741-c84a27681cfd", "description": "Malicious code in express-meteor-colors-chariklo (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-142383"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-123603", "enisaUuid": "aa7fdfdb-e95f-31e8-b46a-a4c6697942c3", "description": "Malicious code in pm2-zenobia-dependencies-phoebe (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-146318"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

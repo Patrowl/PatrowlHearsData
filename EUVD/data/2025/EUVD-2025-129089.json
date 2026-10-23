@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-129089", "enisaUuid": "880d008b-f849-3ac5-8e3e-5ffa8a91d200", "description": "Malicious code in always-target (npm)", "datePublished": "2025-06-18T03:32:48", "dateUpdated": "2025-06-18T03:32:48", "baseScore": 0.0, "aliases": ["MAL-2025-5360"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

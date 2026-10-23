@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-116574", "enisaUuid": "8075e8bf-7352-3e17-8568-d4cfd8acc2cb", "description": "Malicious code in apollo-sails-vuepress-chai (npm)", "datePublished": "2025-11-12T04:29:11", "dateUpdated": "2025-11-12T04:29:11", "baseScore": 0.0, "aliases": ["MAL-2025-139528"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}

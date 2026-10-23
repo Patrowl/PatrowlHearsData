@@ -1,0 +1,1 @@
+{"id": "EUVD-2025-174209", "enisaUuid": "f1832603-997f-304c-bb71-4e45b1af004a", "description": "Malicious code in process-compress-nu-code-socket (npm)", "datePublished": "2025-08-14T18:52:04", "dateUpdated": "2025-08-14T18:52:04", "baseScore": 0.0, "aliases": ["MAL-2025-29680"], "epss": 0.0, "enisaIdProduct": [], "enisaIdVendor": [], "isExploited": false}
