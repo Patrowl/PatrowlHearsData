@@ -64,6 +64,8 @@ git pull
 	env/bin/python VIA/fetch-and-update.py
 	env/bin/python EPSS/fetch-and-update.py
 	env/bin/python KEV/fetch-and-update.py
+	env/bin/python GHSA/fetch-and-update.py
+	env/bin/python SSVC/fetch-and-update.py
 }
 
 echo "${current_datetime}" > lastupdate.txt

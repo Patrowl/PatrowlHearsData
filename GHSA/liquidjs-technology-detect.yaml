@@ -1,0 +1,58 @@
+id: liquidjs-technology-detect
+
+info:
+  name: LiquidJS - Technology Detection
+  author: codex
+  severity: info
+  description: |
+    Detects LiquidJS from an exposed npm manifest, lockfile, installed package
+    manifest, or an explicit LiquidJS browser bundle reference. LiquidJS is
+    normally server-side and leaves no mandatory HTTP fingerprint, so this
+    template intentionally favors confidence over coverage.
+  reference:
+    - https://github.com/harttle/liquidjs
+    - https://www.npmjs.com/package/liquidjs
+  metadata:
+    max-request: 5
+  tags: tech,liquidjs,liquid,nodejs
+
+http:
+  - method: GET
+    path:
+      - "{{BaseURL}}"
+      - "{{BaseURL}}/package.json"
+      - "{{BaseURL}}/package-lock.json"
+      - "{{BaseURL}}/npm-shrinkwrap.json"
+      - "{{BaseURL}}/node_modules/liquidjs/package.json"
+
+    redirects: true
+    max-redirects: 2
+    stop-at-first-match: true
+    matchers-condition: or
+    matchers:
+      - type: regex
+        name: npm-manifest
+        part: body
+        regex:
+          - '(?i)["''](?:node_modules/)?liquidjs["'']\s*:\s*(?:["''][^"'']+["'']|\{)'
+
+      - type: regex
+        name: package-manifest
+        part: body
+        regex:
+          - '(?is)["'']name["'']\s*:\s*["'']liquidjs["''].{0,500}?["'']version["'']\s*:\s*["''][0-9]+\.[0-9]+\.[0-9]+'
+
+      - type: regex
+        name: browser-bundle
+        part: body
+        regex:
+          - '(?i)(?:src|href)\s*=\s*["''][^"'']*(?:liquidjs[^"'']*\.js|liquid\.browser(?:\.min)?\.js)(?:\?[^"'']*)?["'']'
+
+    extractors:
+      - type: regex
+        name: version
+        group: 1
+        part: body
+        regex:
+          - '(?i)["'']liquidjs["'']\s*:\s*["''][\^~<>= ]*([0-9]+\.[0-9]+\.[0-9]+)'
+          - '(?is)["'']name["'']\s*:\s*["'']liquidjs["''].{0,500}?["'']version["'']\s*:\s*["'']([0-9]+\.[0-9]+\.[0-9]+)'

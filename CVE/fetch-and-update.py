@@ -25,6 +25,8 @@
 # OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 import os
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 import zipfile
 import json
 from datetime import datetime, timedelta
@@ -33,7 +35,7 @@ from tqdm import tqdm
 from libs import probe, get_cpe_matches, get_monitored_technologies
 BASEDIR = os.path.dirname(os.path.realpath(__file__))
 DAYS_BEFORE = int(os.environ.get("DAYS_BEFORE", 2))
-START_YEAR = 2002
+START_YEAR = int(os.environ.get("START_YEAR", 2002))
 NUCLEI_VENDORS_FILE = os.path.join(BASEDIR, "nuclei_vendors.txt")
 
 last_check_date = datetime.now() - timedelta(days=DAYS_BEFORE)
@@ -204,6 +206,19 @@ def format_cpes(configurations):
 
     return cpes
 
+def make_session():
+    session = requests.Session()
+    retries = Retry(
+        total=5,
+        backoff_factor=1,            # waits 1s, 2s, 4s, 8s... between retries
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=["GET"],
+    )
+    session.mount("https://", HTTPAdapter(max_retries=retries))
+    return session
+
+session = make_session()
+
 # Create a temporary directory to store downloaded files
 if not os.path.exists(BASEDIR+'/tmp-nvd/'):
     os.makedirs(BASEDIR+'/tmp-nvd/')
@@ -215,16 +230,17 @@ cpe_matches = get_cpe_matches(BASEDIR)
 patrowl_vendors = get_monitored_technologies(NUCLEI_VENDORS_FILE)
 
 print("[+] Downloading CVE dictionaries by year from NVD v2")
-for year in range(2002, datetime.now().year + 1):
+for year in range(START_YEAR, datetime.now().year + 1):
     filename = f"nvdcve-2.0-{year}.json.zip"
-    r_file = requests.get(f"https://nvd.nist.gov/feeds/json/cve/2.0/{filename}", stream=True)
+    with session.get(f"https://nvd.nist.gov/feeds/json/cve/2.0/{filename}", stream=True, timeout=(10, 30)) as r_file:
+        r_file.raise_for_status()
 
-    with open(BASEDIR+"/tmp-nvd/" + filename, 'wb') as f:
-        pbar = tqdm(unit="B", unit_scale=True, total=int(r_file.headers['Content-Length']), desc=filename)
-        for chunk in r_file.iter_content(chunk_size=1024):
-            f.write(chunk)
-            pbar.update(1024)
-        pbar.close()
+        with open(BASEDIR+"/tmp-nvd/" + filename, 'wb') as f:
+            pbar = tqdm(unit="B", unit_scale=True, total=int(r_file.headers['Content-Length']), desc=filename)
+            for chunk in r_file.iter_content(chunk_size=1024):
+                f.write(chunk)
+                pbar.update(1024)
+            pbar.close()
 
 print("[+] CVE dictionaries downloaded successfully!")
 print("[+] Unzipping and processing CVE dictionaries...")
@@ -233,7 +249,7 @@ for year in range(START_YEAR, datetime.now().year + 1):
     jsonfile = archive.open(archive.namelist()[0])
     cves_dict = json.loads(jsonfile.read())["vulnerabilities"]
 
-    for cve_entry in tqdm(cves_dict):
+    for cve_entry in tqdm(cves_dict, desc=f"{year}"):
         # print(cve_entry)
         cve = cve_entry["cve"]
         date_updated = parse(cve["lastModified"], ignoretz=True)
