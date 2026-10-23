@@ -28,10 +28,11 @@
 
 import requests
 import os
+# import time
 from datetime import datetime, timedelta
 from dateutil.parser import parse
 import json
-from tqdm import tqdm
+# from tqdm import tqdm
 
 BASEDIR = os.path.dirname(os.path.realpath(__file__))
 DAYS_BEFORE = int(os.environ.get("EUVD_DAYS_BEFORE", 1))
@@ -46,6 +47,7 @@ KEV_FILENAME = os.environ.get("KEV_FILENAME", f"{BASEDIR}/data/kev.json")
 def get_vulns(days_before:int=1, page:int=0, is_exploited:bool=False):
     from_date = (datetime.now() - timedelta(days=days_before)).strftime("%Y-%m-%d")
     params = {"fromDate": from_date, "page": page, "size": RESULTS_PER_PAGE}
+    res = {}
     if TO_DATE != "":
         params["toUpdatedDate"] = TO_DATE
     if is_exploited:
@@ -56,12 +58,13 @@ def get_vulns(days_before:int=1, page:int=0, is_exploited:bool=False):
             params=params, headers=EUVD_API_HEADERS,
             timeout=(10, 30),
         )
+        res = r.json()
     except Exception as e:
         print(r.request.url)
         print(f"[-] Error querying EUVD: {e}")
         return {}
 
-    return r.json()
+    return res
 
 def parse_vuln(vuln):
     if "datePublished" in vuln and vuln["datePublished"] != "":
@@ -107,65 +110,91 @@ def parse_vuln(vuln):
 if not os.path.exists(BASEDIR + "/data/"):
     os.makedirs(BASEDIR + "/data/")
 
-print(f"[+] Querying EUVD for vulnerabilities updated in the last {DAYS_BEFORE} days...")
-page = FIRST_PAGE
-vulns = get_vulns(days_before=DAYS_BEFORE, page=page)
-pbar = tqdm(total=vulns['total'], unit='vulns')
-nb_new_vulns = 0
-print(f"[+] Retrieving {vulns['total']} vulnerabilities from EUVD.")
-while "items" in vulns and len(vulns["items"]) > 0:
-    for vuln in vulns["items"]:
-        v = parse_vuln(vuln)
-        v_id = v["id"]
-        v_year = v_id.split('-')[1]
-        year_dir = BASEDIR+'/data/'+v_year
-        if not os.path.exists(year_dir):
-            os.makedirs(year_dir)
+# print(f"[+] Querying EUVD for vulnerabilities updated in the last {DAYS_BEFORE} days...")
+# page = FIRST_PAGE
+# vulns = get_vulns(days_before=DAYS_BEFORE, page=page)
+# pbar = tqdm(total=vulns['total'], unit='vulns')
+# nb_new_vulns = 0
+# print(f"[+] Retrieving {vulns['total']} vulnerabilities from EUVD.")
+# while "items" in vulns and len(vulns["items"]) > 0:
+#     for vuln in vulns["items"]:
+#         v = parse_vuln(vuln)
+#         v_id = v["id"]
+#         v_year = v_id.split('-')[1]
+#         year_dir = BASEDIR+'/data/'+v_year
+#         if not os.path.exists(year_dir):
+#             os.makedirs(year_dir)
 
-        # print(f"[+] Saving vulnerability {v_id}, exploitable={v["isExploited"]}...")
-        vuln_path = f"{year_dir}/{v_id}.json"
-        if os.path.exists(vuln_path) is False:
-            nb_new_vulns += 1
+#         # print(f"[+] Saving vulnerability {v_id}, exploitable={v["isExploited"]}...")
+#         vuln_path = f"{year_dir}/{v_id}.json"
+#         if os.path.exists(vuln_path) is False:
+#             nb_new_vulns += 1
             
-        with open(vuln_path, 'w') as outfile:
-            json.dump(v, outfile)
-        pbar.update(1)
-    page += 1
-    vulns = get_vulns(days_before=DAYS_BEFORE, page=page)
+#         with open(vuln_path, 'w') as outfile:
+#             json.dump(v, outfile)
+#         pbar.update(1)
+#     page += 1
+#     time.sleep(6)
+#     vulns = get_vulns(days_before=DAYS_BEFORE, page=page)
 
-pbar.close()
-print(f"[+] EUVD vulns fetch-and-update completed. {nb_new_vulns} new vulnerabilities added.")
+# pbar.close()
+# print(f"[+] EUVD vulns fetch-and-update completed. {nb_new_vulns} new vulnerabilities added.")
 
+# print(f"[+] Querying EUVD for known vulnerabilities vulnerabilities in the last {DAYS_BEFORE} days...")
+# page = 0
+# vulns = get_vulns(days_before=DAYS_BEFORE, page=page, is_exploited=True)
+# pbar = tqdm(total=vulns['total'], unit='KEV')
+# nb_new_kev_vulns = 0
+# kev_vulns = {}
+# if os.path.exists(KEV_FILENAME):
+#     with open(KEV_FILENAME, 'r') as infile:
+#         kev_vulns = json.load(infile)
 
-print(f"[+] Querying EUVD for known vulnerabilities vulnerabilities in the last {DAYS_BEFORE} days...")
-page = 0
-vulns = get_vulns(days_before=DAYS_BEFORE, page=page, is_exploited=True)
-pbar = tqdm(total=vulns['total'], unit='KEV')
-nb_new_kev_vulns = 0
-kev_vulns = {}
-if os.path.exists(KEV_FILENAME):
-    with open(KEV_FILENAME, 'r') as infile:
-        kev_vulns = json.load(infile)
-
-print(f"[+] Retrieving {vulns['total']} vulnerabilities from EUVD.")
-while "items" in vulns and len(vulns["items"]) > 0:
-    for vuln in vulns["items"]:
-        v = parse_vuln(vuln)
-        v_id = v["id"]
-        if v_id not in kev_vulns:
-            kev_vulns[v_id] = {
-                "datePublished": v["datePublished"],
-                "dateUpdated": v["dateUpdated"],
-                "exploitedSince": v["exploitedSince"],
-                "aliases": v["aliases"],
-            }
-            nb_new_kev_vulns += 1
+# print(f"[+] Retrieving {vulns['total']} vulnerabilities from EUVD.")
+# while "items" in vulns and len(vulns["items"]) > 0:
+#     for vuln in vulns["items"]:
+#         v = parse_vuln(vuln)
+#         v_id = v["id"]
+#         if v_id not in kev_vulns:
+#             kev_vulns[v_id] = {
+#                 "datePublished": v["datePublished"],
+#                 "dateUpdated": v["dateUpdated"],
+#                 "exploitedSince": v["exploitedSince"],
+#                 "aliases": v["aliases"],
+#             }
+#             nb_new_kev_vulns += 1
             
-        pbar.update(1)
-    page += 1
-    vulns = get_vulns(days_before=DAYS_BEFORE, page=page, is_exploited=True)
+#         pbar.update(1)
+#     page += 1
+#     vulns = get_vulns(days_before=DAYS_BEFORE, page=page, is_exploited=True)
 
-pbar.close()
-with open(KEV_FILENAME, 'w') as outfile:
-    json.dump(kev_vulns, outfile)
-print(f"[+] EUVD KEV fetch-and-update completed. {nb_new_kev_vulns} new vulnerabilities added.")
+# pbar.close()
+# with open(KEV_FILENAME, 'w') as outfile:
+#     json.dump(kev_vulns, outfile)
+# print(f"[+] EUVD KEV fetch-and-update completed. {nb_new_kev_vulns} new vulnerabilities added.")
+
+print(f"[+] Downloading CVE-to-EUVD ID Mapping (CSV)")
+mapping_url = f"{EUVD_BASEURL}/api/dump/cve-euvd-mapping"
+mapping_path = f"{BASEDIR}/data/cve-euvd-mapping.csv"
+try:
+    mapping_response = requests.get(mapping_url, headers=EUVD_API_HEADERS, timeout=(10, 30))
+    mapping_response.raise_for_status()
+    with open(mapping_path, "wb") as outfile:
+        outfile.write(mapping_response.content)
+    print(f"[+] CVE-to-EUVD ID Mapping saved to {mapping_path}.")
+except requests.RequestException as e:
+    print(f"[-] Error downloading CVE-to-EUVD ID Mapping: {e}")
+print(f"[+] CVE-to-EUVD ID Mapping download completed.")
+
+print(f"[+] Downloading KEV Dump (JSON)")
+kev_dump_url = f"{EUVD_BASEURL}/api/kev/dump"
+kev_dump_path = f"{BASEDIR}/data/kev-dump.json"
+try:
+    kev_dump_response = requests.get(kev_dump_url, headers=EUVD_API_HEADERS, timeout=(10, 30))
+    kev_dump_response.raise_for_status()
+    with open(kev_dump_path, "wb") as outfile:
+        outfile.write(kev_dump_response.content)
+    print(f"[+] KEV Dump saved to {kev_dump_path}.")
+except requests.RequestException as e:
+    print(f"[-] Error downloading KEV Dump: {e}")
+print(f"[+] EUVD KEV Dump download completed.")
