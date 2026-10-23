@@ -48,6 +48,7 @@ RESULTS_PER_PAGE = 2000             # API maximum
 MAX_RANGE_DAYS = 120                # API maximum for any date range
 # Rate limits: 5 requests / 30s without API key, 50 requests / 30s with an API key
 REQUEST_DELAY = 0.6 if NVD_API_KEY else 6
+PAGE_ATTEMPTS = 5                   # attempts per page on truncated/broken responses
 
 # Filled in main(), used by format_cpes()
 cpe_matches = {}
@@ -281,14 +282,30 @@ def date_ranges(start, end):
 def format_api_date(date):
     return date.strftime("%Y-%m-%dT%H:%M:%S.000+00:00")
 
+# Get one page of results. The session retries don't cover a response body
+# cut mid-transfer (NVD often does it on large pages), so retry it here
+def fetch_page(session, params):
+    for attempt in range(1, PAGE_ATTEMPTS + 1):
+        try:
+            r = session.get(NVD_API_URL, params=params, timeout=(10, 120))
+            r.raise_for_status()
+            return r.json()
+        except (requests.exceptions.ChunkedEncodingError,
+                requests.exceptions.ConnectionError,
+                requests.exceptions.Timeout,
+                requests.exceptions.JSONDecodeError) as e:
+            if attempt == PAGE_ATTEMPTS:
+                raise
+            delay = REQUEST_DELAY * 2 ** attempt
+            tqdm.write(f"[!] {type(e).__name__} on startIndex={params['startIndex']}, retrying in {delay:.0f}s ({attempt}/{PAGE_ATTEMPTS - 1})")
+            time.sleep(delay)
+
 # Yield raw CVE entries from the NVD API, following pagination
 def fetch_cves(session, params, desc):
     start_index = 0
     pbar = None
     while True:
-        r = session.get(NVD_API_URL, params={**params, "resultsPerPage": RESULTS_PER_PAGE, "startIndex": start_index}, timeout=(10, 120))
-        r.raise_for_status()
-        data = r.json()
+        data = fetch_page(session, {**params, "resultsPerPage": RESULTS_PER_PAGE, "startIndex": start_index})
 
         if pbar is None:
             pbar = tqdm(total=data["totalResults"], desc=desc)
