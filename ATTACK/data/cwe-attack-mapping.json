@@ -1,0 +1,6840 @@
+{
+ "sources": {
+  "capec_version": "3.9",
+  "attack_version": "20.0"
+ },
+ "tactics": {
+  "collection": {
+   "id": "TA0009",
+   "name": "Collection"
+  },
+  "command-and-control": {
+   "id": "TA0011",
+   "name": "Command and Control"
+  },
+  "credential-access": {
+   "id": "TA0006",
+   "name": "Credential Access"
+  },
+  "defense-impairment": {
+   "id": "TA0112",
+   "name": "Defense Impairment"
+  },
+  "discovery": {
+   "id": "TA0007",
+   "name": "Discovery"
+  },
+  "execution": {
+   "id": "TA0002",
+   "name": "Execution"
+  },
+  "exfiltration": {
+   "id": "TA0010",
+   "name": "Exfiltration"
+  },
+  "impact": {
+   "id": "TA0040",
+   "name": "Impact"
+  },
+  "initial-access": {
+   "id": "TA0001",
+   "name": "Initial Access"
+  },
+  "lateral-movement": {
+   "id": "TA0008",
+   "name": "Lateral Movement"
+  },
+  "persistence": {
+   "id": "TA0003",
+   "name": "Persistence"
+  },
+  "privilege-escalation": {
+   "id": "TA0004",
+   "name": "Privilege Escalation"
+  },
+  "reconnaissance": {
+   "id": "TA0043",
+   "name": "Reconnaissance"
+  },
+  "resource-development": {
+   "id": "TA0042",
+   "name": "Resource Development"
+  },
+  "stealth": {
+   "id": "TA0005",
+   "name": "Stealth"
+  }
+ },
+ "mappings": {
+  "CWE-6": [
+   {
+    "technique_id": "T1134",
+    "name": "Access Token Manipulation",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134",
+    "capec_ids": [
+     "CAPEC-21"
+    ]
+   },
+   {
+    "technique_id": "T1528",
+    "name": "Steal Application Access Token",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1528",
+    "capec_ids": [
+     "CAPEC-21"
+    ]
+   },
+   {
+    "technique_id": "T1539",
+    "name": "Steal Web Session Cookie",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1539",
+    "capec_ids": [
+     "CAPEC-21"
+    ]
+   }
+  ],
+  "CWE-15": [
+   {
+    "technique_id": "T1112",
+    "name": "Modify Registry",
+    "tactics": [
+     "defense-impairment",
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1112",
+    "capec_ids": [
+     "CAPEC-203"
+    ]
+   },
+   {
+    "technique_id": "T1547.001",
+    "name": "Registry Run Keys / Startup Folder",
+    "tactics": [
+     "persistence",
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1547/001",
+    "capec_ids": [
+     "CAPEC-270"
+    ]
+   },
+   {
+    "technique_id": "T1547.004",
+    "name": "Winlogon Helper DLL",
+    "tactics": [
+     "persistence",
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1547/004",
+    "capec_ids": [
+     "CAPEC-579"
+    ]
+   },
+   {
+    "technique_id": "T1547.014",
+    "name": "Active Setup",
+    "tactics": [
+     "persistence",
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1547/014",
+    "capec_ids": [
+     "CAPEC-270"
+    ]
+   },
+   {
+    "technique_id": "T1574.006",
+    "name": "Dynamic Linker Hijacking",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/006",
+    "capec_ids": [
+     "CAPEC-13"
+    ]
+   },
+   {
+    "technique_id": "T1574.007",
+    "name": "Path Interception by PATH Environment Variable",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/007",
+    "capec_ids": [
+     "CAPEC-13"
+    ]
+   },
+   {
+    "technique_id": "T1647",
+    "name": "Plist File Modification",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1647",
+    "capec_ids": [
+     "CAPEC-203"
+    ]
+   },
+   {
+    "technique_id": "T1690",
+    "name": "Prevent Command History Logging",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1690",
+    "capec_ids": [
+     "CAPEC-13"
+    ]
+   }
+  ],
+  "CWE-20": [
+   {
+    "technique_id": "T1027",
+    "name": "Obfuscated Files or Information",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027",
+    "capec_ids": [
+     "CAPEC-267"
+    ]
+   },
+   {
+    "technique_id": "T1036.001",
+    "name": "Invalid Code Signature",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1036/001",
+    "capec_ids": [
+     "CAPEC-473"
+    ]
+   },
+   {
+    "technique_id": "T1539",
+    "name": "Steal Web Session Cookie",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1539",
+    "capec_ids": [
+     "CAPEC-31"
+    ]
+   },
+   {
+    "technique_id": "T1553.002",
+    "name": "Code Signing",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1553/002",
+    "capec_ids": [
+     "CAPEC-473"
+    ]
+   },
+   {
+    "technique_id": "T1574.006",
+    "name": "Dynamic Linker Hijacking",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/006",
+    "capec_ids": [
+     "CAPEC-13"
+    ]
+   },
+   {
+    "technique_id": "T1574.007",
+    "name": "Path Interception by PATH Environment Variable",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/007",
+    "capec_ids": [
+     "CAPEC-13"
+    ]
+   },
+   {
+    "technique_id": "T1690",
+    "name": "Prevent Command History Logging",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1690",
+    "capec_ids": [
+     "CAPEC-13"
+    ]
+   }
+  ],
+  "CWE-46": [
+   {
+    "technique_id": "T1036.006",
+    "name": "Space after Filename",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1036/006",
+    "capec_ids": [
+     "CAPEC-649"
+    ]
+   }
+  ],
+  "CWE-59": [
+   {
+    "technique_id": "T1027.006",
+    "name": "HTML Smuggling",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027/006",
+    "capec_ids": [
+     "CAPEC-35"
+    ]
+   },
+   {
+    "technique_id": "T1027.009",
+    "name": "Embedded Payloads",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027/009",
+    "capec_ids": [
+     "CAPEC-35"
+    ]
+   },
+   {
+    "technique_id": "T1547.009",
+    "name": "Shortcut Modification",
+    "tactics": [
+     "persistence",
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1547/009",
+    "capec_ids": [
+     "CAPEC-132"
+    ]
+   },
+   {
+    "technique_id": "T1564.009",
+    "name": "Resource Forking",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1564/009",
+    "capec_ids": [
+     "CAPEC-35"
+    ]
+   },
+   {
+    "technique_id": "T1574.005",
+    "name": "Executable Installer File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/005",
+    "capec_ids": [
+     "CAPEC-17"
+    ]
+   },
+   {
+    "technique_id": "T1574.010",
+    "name": "Services File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/010",
+    "capec_ids": [
+     "CAPEC-17"
+    ]
+   }
+  ],
+  "CWE-73": [
+   {
+    "technique_id": "T1027",
+    "name": "Obfuscated Files or Information",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027",
+    "capec_ids": [
+     "CAPEC-267"
+    ]
+   },
+   {
+    "technique_id": "T1574.006",
+    "name": "Dynamic Linker Hijacking",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/006",
+    "capec_ids": [
+     "CAPEC-13"
+    ]
+   },
+   {
+    "technique_id": "T1574.007",
+    "name": "Path Interception by PATH Environment Variable",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/007",
+    "capec_ids": [
+     "CAPEC-13"
+    ]
+   },
+   {
+    "technique_id": "T1690",
+    "name": "Prevent Command History Logging",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1690",
+    "capec_ids": [
+     "CAPEC-13"
+    ]
+   }
+  ],
+  "CWE-74": [
+   {
+    "technique_id": "T1027",
+    "name": "Obfuscated Files or Information",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027",
+    "capec_ids": [
+     "CAPEC-267"
+    ]
+   },
+   {
+    "technique_id": "T1574.006",
+    "name": "Dynamic Linker Hijacking",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/006",
+    "capec_ids": [
+     "CAPEC-13"
+    ]
+   },
+   {
+    "technique_id": "T1574.007",
+    "name": "Path Interception by PATH Environment Variable",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/007",
+    "capec_ids": [
+     "CAPEC-13"
+    ]
+   },
+   {
+    "technique_id": "T1690",
+    "name": "Prevent Command History Logging",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1690",
+    "capec_ids": [
+     "CAPEC-13"
+    ]
+   }
+  ],
+  "CWE-94": [
+   {
+    "technique_id": "T1027.006",
+    "name": "HTML Smuggling",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027/006",
+    "capec_ids": [
+     "CAPEC-35"
+    ]
+   },
+   {
+    "technique_id": "T1027.009",
+    "name": "Embedded Payloads",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027/009",
+    "capec_ids": [
+     "CAPEC-35"
+    ]
+   },
+   {
+    "technique_id": "T1564.009",
+    "name": "Resource Forking",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1564/009",
+    "capec_ids": [
+     "CAPEC-35"
+    ]
+   }
+  ],
+  "CWE-95": [
+   {
+    "technique_id": "T1027.006",
+    "name": "HTML Smuggling",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027/006",
+    "capec_ids": [
+     "CAPEC-35"
+    ]
+   },
+   {
+    "technique_id": "T1027.009",
+    "name": "Embedded Payloads",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027/009",
+    "capec_ids": [
+     "CAPEC-35"
+    ]
+   },
+   {
+    "technique_id": "T1564.009",
+    "name": "Resource Forking",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1564/009",
+    "capec_ids": [
+     "CAPEC-35"
+    ]
+   }
+  ],
+  "CWE-96": [
+   {
+    "technique_id": "T1027.006",
+    "name": "HTML Smuggling",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027/006",
+    "capec_ids": [
+     "CAPEC-35"
+    ]
+   },
+   {
+    "technique_id": "T1027.009",
+    "name": "Embedded Payloads",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027/009",
+    "capec_ids": [
+     "CAPEC-35"
+    ]
+   },
+   {
+    "technique_id": "T1564.009",
+    "name": "Resource Forking",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1564/009",
+    "capec_ids": [
+     "CAPEC-35"
+    ]
+   }
+  ],
+  "CWE-97": [
+   {
+    "technique_id": "T1027.006",
+    "name": "HTML Smuggling",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027/006",
+    "capec_ids": [
+     "CAPEC-35"
+    ]
+   },
+   {
+    "technique_id": "T1027.009",
+    "name": "Embedded Payloads",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027/009",
+    "capec_ids": [
+     "CAPEC-35"
+    ]
+   },
+   {
+    "technique_id": "T1564.009",
+    "name": "Resource Forking",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1564/009",
+    "capec_ids": [
+     "CAPEC-35"
+    ]
+   }
+  ],
+  "CWE-113": [
+   {
+    "technique_id": "T1539",
+    "name": "Steal Web Session Cookie",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1539",
+    "capec_ids": [
+     "CAPEC-31"
+    ]
+   }
+  ],
+  "CWE-114": [
+   {
+    "technique_id": "T1505.005",
+    "name": "Terminal Services DLL",
+    "tactics": [
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1505/005",
+    "capec_ids": [
+     "CAPEC-640"
+    ]
+   },
+   {
+    "technique_id": "T1574.006",
+    "name": "Dynamic Linker Hijacking",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/006",
+    "capec_ids": [
+     "CAPEC-640"
+    ]
+   },
+   {
+    "technique_id": "T1574.013",
+    "name": "KernelCallbackTable",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/013",
+    "capec_ids": [
+     "CAPEC-640"
+    ]
+   },
+   {
+    "technique_id": "T1620",
+    "name": "Reflective Code Loading",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1620",
+    "capec_ids": [
+     "CAPEC-640"
+    ]
+   }
+  ],
+  "CWE-117": [
+   {
+    "technique_id": "T1070",
+    "name": "Indicator Removal",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1070",
+    "capec_ids": [
+     "CAPEC-268"
+    ]
+   },
+   {
+    "technique_id": "T1685.001",
+    "name": "Disable or Modify Windows Event Log",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1685/001",
+    "capec_ids": [
+     "CAPEC-268"
+    ]
+   },
+   {
+    "technique_id": "T1685.002",
+    "name": "Disable or Modify Cloud Log",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1685/002",
+    "capec_ids": [
+     "CAPEC-268"
+    ]
+   },
+   {
+    "technique_id": "T1690",
+    "name": "Prevent Command History Logging",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1690",
+    "capec_ids": [
+     "CAPEC-268"
+    ]
+   }
+  ],
+  "CWE-162": [
+   {
+    "technique_id": "T1036.007",
+    "name": "Double File Extension",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1036/007",
+    "capec_ids": [
+     "CAPEC-635"
+    ]
+   }
+  ],
+  "CWE-172": [
+   {
+    "technique_id": "T1027",
+    "name": "Obfuscated Files or Information",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027",
+    "capec_ids": [
+     "CAPEC-267"
+    ]
+   }
+  ],
+  "CWE-173": [
+   {
+    "technique_id": "T1027",
+    "name": "Obfuscated Files or Information",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027",
+    "capec_ids": [
+     "CAPEC-267"
+    ]
+   }
+  ],
+  "CWE-180": [
+   {
+    "technique_id": "T1027",
+    "name": "Obfuscated Files or Information",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027",
+    "capec_ids": [
+     "CAPEC-267"
+    ]
+   }
+  ],
+  "CWE-181": [
+   {
+    "technique_id": "T1027",
+    "name": "Obfuscated Files or Information",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027",
+    "capec_ids": [
+     "CAPEC-267"
+    ]
+   }
+  ],
+  "CWE-200": [
+   {
+    "technique_id": "T1007",
+    "name": "System Service Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1007",
+    "capec_ids": [
+     "CAPEC-574"
+    ]
+   },
+   {
+    "technique_id": "T1016",
+    "name": "System Network Configuration Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1016",
+    "capec_ids": [
+     "CAPEC-309"
+    ]
+   },
+   {
+    "technique_id": "T1018",
+    "name": "Remote System Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1018",
+    "capec_ids": [
+     "CAPEC-292"
+    ]
+   },
+   {
+    "technique_id": "T1033",
+    "name": "System Owner/User Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1033",
+    "capec_ids": [
+     "CAPEC-577"
+    ]
+   },
+   {
+    "technique_id": "T1036.005",
+    "name": "Match Legitimate Resource Name or Location",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1036/005",
+    "capec_ids": [
+     "CAPEC-616"
+    ]
+   },
+   {
+    "technique_id": "T1046",
+    "name": "Network Service Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1046",
+    "capec_ids": [
+     "CAPEC-300"
+    ]
+   },
+   {
+    "technique_id": "T1049",
+    "name": "System Network Connections Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1049",
+    "capec_ids": [
+     "CAPEC-309"
+    ]
+   },
+   {
+    "technique_id": "T1057",
+    "name": "Process Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1057",
+    "capec_ids": [
+     "CAPEC-573"
+    ]
+   },
+   {
+    "technique_id": "T1069",
+    "name": "Permission Groups Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1069",
+    "capec_ids": [
+     "CAPEC-576"
+    ]
+   },
+   {
+    "technique_id": "T1082",
+    "name": "System Information Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1082",
+    "capec_ids": [
+     "CAPEC-312",
+     "CAPEC-313"
+    ]
+   },
+   {
+    "technique_id": "T1083",
+    "name": "File and Directory Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1083",
+    "capec_ids": [
+     "CAPEC-497"
+    ]
+   },
+   {
+    "technique_id": "T1087",
+    "name": "Account Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1087",
+    "capec_ids": [
+     "CAPEC-575"
+    ]
+   },
+   {
+    "technique_id": "T1111",
+    "name": "Multi-Factor Authentication Interception",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1111",
+    "capec_ids": [
+     "CAPEC-651"
+    ]
+   },
+   {
+    "technique_id": "T1120",
+    "name": "Peripheral Device Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1120",
+    "capec_ids": [
+     "CAPEC-646"
+    ]
+   },
+   {
+    "technique_id": "T1124",
+    "name": "System Time Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1124",
+    "capec_ids": [
+     "CAPEC-295"
+    ]
+   },
+   {
+    "technique_id": "T1134.001",
+    "name": "Token Impersonation/Theft",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134/001",
+    "capec_ids": [
+     "CAPEC-60"
+    ]
+   },
+   {
+    "technique_id": "T1135",
+    "name": "Network Share Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1135",
+    "capec_ids": [
+     "CAPEC-643"
+    ]
+   },
+   {
+    "technique_id": "T1217",
+    "name": "Browser Information Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1217",
+    "capec_ids": [
+     "CAPEC-169"
+    ]
+   },
+   {
+    "technique_id": "T1550.004",
+    "name": "Web Session Cookie",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1550/004",
+    "capec_ids": [
+     "CAPEC-60"
+    ]
+   },
+   {
+    "technique_id": "T1574.006",
+    "name": "Dynamic Linker Hijacking",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/006",
+    "capec_ids": [
+     "CAPEC-13"
+    ]
+   },
+   {
+    "technique_id": "T1574.007",
+    "name": "Path Interception by PATH Environment Variable",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/007",
+    "capec_ids": [
+     "CAPEC-13"
+    ]
+   },
+   {
+    "technique_id": "T1590",
+    "name": "Gather Victim Network Information",
+    "tactics": [
+     "reconnaissance"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1590",
+    "capec_ids": [
+     "CAPEC-309"
+    ]
+   },
+   {
+    "technique_id": "T1592",
+    "name": "Gather Victim Host Information",
+    "tactics": [
+     "reconnaissance"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1592",
+    "capec_ids": [
+     "CAPEC-169"
+    ]
+   },
+   {
+    "technique_id": "T1595",
+    "name": "Active Scanning",
+    "tactics": [
+     "reconnaissance"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1595",
+    "capec_ids": [
+     "CAPEC-169"
+    ]
+   },
+   {
+    "technique_id": "T1615",
+    "name": "Group Policy Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1615",
+    "capec_ids": [
+     "CAPEC-576"
+    ]
+   },
+   {
+    "technique_id": "T1690",
+    "name": "Prevent Command History Logging",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1690",
+    "capec_ids": [
+     "CAPEC-13"
+    ]
+   }
+  ],
+  "CWE-204": [
+   {
+    "technique_id": "T1082",
+    "name": "System Information Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1082",
+    "capec_ids": [
+     "CAPEC-580"
+    ]
+   },
+   {
+    "technique_id": "T1592.002",
+    "name": "Software",
+    "tactics": [
+     "reconnaissance"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1592/002",
+    "capec_ids": [
+     "CAPEC-541"
+    ]
+   }
+  ],
+  "CWE-205": [
+   {
+    "technique_id": "T1082",
+    "name": "System Information Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1082",
+    "capec_ids": [
+     "CAPEC-580"
+    ]
+   },
+   {
+    "technique_id": "T1592.002",
+    "name": "Software",
+    "tactics": [
+     "reconnaissance"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1592/002",
+    "capec_ids": [
+     "CAPEC-541"
+    ]
+   }
+  ],
+  "CWE-208": [
+   {
+    "technique_id": "T1082",
+    "name": "System Information Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1082",
+    "capec_ids": [
+     "CAPEC-580"
+    ]
+   },
+   {
+    "technique_id": "T1592.002",
+    "name": "Software",
+    "tactics": [
+     "reconnaissance"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1592/002",
+    "capec_ids": [
+     "CAPEC-541"
+    ]
+   }
+  ],
+  "CWE-226": [
+   {
+    "technique_id": "T1005",
+    "name": "Data from Local System",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1005",
+    "capec_ids": [
+     "CAPEC-37"
+    ]
+   },
+   {
+    "technique_id": "T1552.004",
+    "name": "Private Keys",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1552/004",
+    "capec_ids": [
+     "CAPEC-37"
+    ]
+   }
+  ],
+  "CWE-257": [
+   {
+    "technique_id": "T1110.001",
+    "name": "Password Guessing",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/001",
+    "capec_ids": [
+     "CAPEC-49"
+    ]
+   }
+  ],
+  "CWE-261": [
+   {
+    "technique_id": "T1110.002",
+    "name": "Password Cracking",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/002",
+    "capec_ids": [
+     "CAPEC-55"
+    ]
+   }
+  ],
+  "CWE-262": [
+   {
+    "technique_id": "T1021",
+    "name": "Remote Services",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1021",
+    "capec_ids": [
+     "CAPEC-555"
+    ]
+   },
+   {
+    "technique_id": "T1021.002",
+    "name": "SMB/Windows Admin Shares",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1021/002",
+    "capec_ids": [
+     "CAPEC-561"
+    ]
+   },
+   {
+    "technique_id": "T1078",
+    "name": "Valid Accounts",
+    "tactics": [
+     "initial-access",
+     "persistence",
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1078",
+    "capec_ids": [
+     "CAPEC-560"
+    ]
+   },
+   {
+    "technique_id": "T1078.001",
+    "name": "Default Accounts",
+    "tactics": [
+     "initial-access",
+     "persistence",
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1078/001",
+    "capec_ids": [
+     "CAPEC-70"
+    ]
+   },
+   {
+    "technique_id": "T1110.001",
+    "name": "Password Guessing",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/001",
+    "capec_ids": [
+     "CAPEC-49"
+    ]
+   },
+   {
+    "technique_id": "T1110.002",
+    "name": "Password Cracking",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/002",
+    "capec_ids": [
+     "CAPEC-55"
+    ]
+   },
+   {
+    "technique_id": "T1110.003",
+    "name": "Password Spraying",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/003",
+    "capec_ids": [
+     "CAPEC-565"
+    ]
+   },
+   {
+    "technique_id": "T1110.004",
+    "name": "Credential Stuffing",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/004",
+    "capec_ids": [
+     "CAPEC-600"
+    ]
+   },
+   {
+    "technique_id": "T1114.002",
+    "name": "Remote Email Collection",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1114/002",
+    "capec_ids": [
+     "CAPEC-555"
+    ]
+   },
+   {
+    "technique_id": "T1133",
+    "name": "External Remote Services",
+    "tactics": [
+     "initial-access",
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1133",
+    "capec_ids": [
+     "CAPEC-555"
+    ]
+   },
+   {
+    "technique_id": "T1558",
+    "name": "Steal or Forge Kerberos Tickets",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1558",
+    "capec_ids": [
+     "CAPEC-652"
+    ]
+   },
+   {
+    "technique_id": "T1558.003",
+    "name": "Kerberoasting",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1558/003",
+    "capec_ids": [
+     "CAPEC-509"
+    ]
+   }
+  ],
+  "CWE-263": [
+   {
+    "technique_id": "T1021",
+    "name": "Remote Services",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1021",
+    "capec_ids": [
+     "CAPEC-555"
+    ]
+   },
+   {
+    "technique_id": "T1021.002",
+    "name": "SMB/Windows Admin Shares",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1021/002",
+    "capec_ids": [
+     "CAPEC-561"
+    ]
+   },
+   {
+    "technique_id": "T1078",
+    "name": "Valid Accounts",
+    "tactics": [
+     "initial-access",
+     "persistence",
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1078",
+    "capec_ids": [
+     "CAPEC-560"
+    ]
+   },
+   {
+    "technique_id": "T1078.001",
+    "name": "Default Accounts",
+    "tactics": [
+     "initial-access",
+     "persistence",
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1078/001",
+    "capec_ids": [
+     "CAPEC-70"
+    ]
+   },
+   {
+    "technique_id": "T1110.001",
+    "name": "Password Guessing",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/001",
+    "capec_ids": [
+     "CAPEC-49"
+    ]
+   },
+   {
+    "technique_id": "T1110.002",
+    "name": "Password Cracking",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/002",
+    "capec_ids": [
+     "CAPEC-55"
+    ]
+   },
+   {
+    "technique_id": "T1110.003",
+    "name": "Password Spraying",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/003",
+    "capec_ids": [
+     "CAPEC-565"
+    ]
+   },
+   {
+    "technique_id": "T1110.004",
+    "name": "Credential Stuffing",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/004",
+    "capec_ids": [
+     "CAPEC-600"
+    ]
+   },
+   {
+    "technique_id": "T1114.002",
+    "name": "Remote Email Collection",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1114/002",
+    "capec_ids": [
+     "CAPEC-555"
+    ]
+   },
+   {
+    "technique_id": "T1133",
+    "name": "External Remote Services",
+    "tactics": [
+     "initial-access",
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1133",
+    "capec_ids": [
+     "CAPEC-555"
+    ]
+   },
+   {
+    "technique_id": "T1558",
+    "name": "Steal or Forge Kerberos Tickets",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1558",
+    "capec_ids": [
+     "CAPEC-652"
+    ]
+   },
+   {
+    "technique_id": "T1558.003",
+    "name": "Kerberoasting",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1558/003",
+    "capec_ids": [
+     "CAPEC-509"
+    ]
+   }
+  ],
+  "CWE-267": [
+   {
+    "technique_id": "T1113",
+    "name": "Screen Capture",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1113",
+    "capec_ids": [
+     "CAPEC-648"
+    ]
+   },
+   {
+    "technique_id": "T1115",
+    "name": "Clipboard Data",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1115",
+    "capec_ids": [
+     "CAPEC-637"
+    ]
+   },
+   {
+    "technique_id": "T1123",
+    "name": "Audio Capture",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1123",
+    "capec_ids": [
+     "CAPEC-634"
+    ]
+   },
+   {
+    "technique_id": "T1125",
+    "name": "Video Capture",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1125",
+    "capec_ids": [
+     "CAPEC-634"
+    ]
+   },
+   {
+    "technique_id": "T1135",
+    "name": "Network Share Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1135",
+    "capec_ids": [
+     "CAPEC-643"
+    ]
+   }
+  ],
+  "CWE-269": [
+   {
+    "technique_id": "T1548",
+    "name": "Abuse Elevation Control Mechanism",
+    "tactics": [
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1548",
+    "capec_ids": [
+     "CAPEC-122",
+     "CAPEC-233"
+    ]
+   }
+  ],
+  "CWE-270": [
+   {
+    "technique_id": "T1027.006",
+    "name": "HTML Smuggling",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027/006",
+    "capec_ids": [
+     "CAPEC-35"
+    ]
+   },
+   {
+    "technique_id": "T1027.009",
+    "name": "Embedded Payloads",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027/009",
+    "capec_ids": [
+     "CAPEC-35"
+    ]
+   },
+   {
+    "technique_id": "T1055.003",
+    "name": "Thread Execution Hijacking",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1055/003",
+    "capec_ids": [
+     "CAPEC-30"
+    ]
+   },
+   {
+    "technique_id": "T1564.009",
+    "name": "Resource Forking",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1564/009",
+    "capec_ids": [
+     "CAPEC-35"
+    ]
+   },
+   {
+    "technique_id": "T1574.005",
+    "name": "Executable Installer File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/005",
+    "capec_ids": [
+     "CAPEC-17"
+    ]
+   },
+   {
+    "technique_id": "T1574.010",
+    "name": "Services File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/010",
+    "capec_ids": [
+     "CAPEC-17"
+    ]
+   }
+  ],
+  "CWE-272": [
+   {
+    "technique_id": "T1027.006",
+    "name": "HTML Smuggling",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027/006",
+    "capec_ids": [
+     "CAPEC-35"
+    ]
+   },
+   {
+    "technique_id": "T1027.009",
+    "name": "Embedded Payloads",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027/009",
+    "capec_ids": [
+     "CAPEC-35"
+    ]
+   },
+   {
+    "technique_id": "T1564.009",
+    "name": "Resource Forking",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1564/009",
+    "capec_ids": [
+     "CAPEC-35"
+    ]
+   },
+   {
+    "technique_id": "T1574.005",
+    "name": "Executable Installer File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/005",
+    "capec_ids": [
+     "CAPEC-17"
+    ]
+   },
+   {
+    "technique_id": "T1574.010",
+    "name": "Services File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/010",
+    "capec_ids": [
+     "CAPEC-17"
+    ]
+   }
+  ],
+  "CWE-276": [
+   {
+    "technique_id": "T1083",
+    "name": "File and Directory Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1083",
+    "capec_ids": [
+     "CAPEC-127"
+    ]
+   },
+   {
+    "technique_id": "T1574.010",
+    "name": "Services File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/010",
+    "capec_ids": [
+     "CAPEC-1"
+    ]
+   }
+  ],
+  "CWE-282": [
+   {
+    "technique_id": "T1027.006",
+    "name": "HTML Smuggling",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027/006",
+    "capec_ids": [
+     "CAPEC-35"
+    ]
+   },
+   {
+    "technique_id": "T1027.009",
+    "name": "Embedded Payloads",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027/009",
+    "capec_ids": [
+     "CAPEC-35"
+    ]
+   },
+   {
+    "technique_id": "T1564.009",
+    "name": "Resource Forking",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1564/009",
+    "capec_ids": [
+     "CAPEC-35"
+    ]
+   },
+   {
+    "technique_id": "T1574.005",
+    "name": "Executable Installer File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/005",
+    "capec_ids": [
+     "CAPEC-17"
+    ]
+   },
+   {
+    "technique_id": "T1574.010",
+    "name": "Services File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/010",
+    "capec_ids": [
+     "CAPEC-17"
+    ]
+   }
+  ],
+  "CWE-284": [
+   {
+    "technique_id": "T1014",
+    "name": "Rootkit",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1014",
+    "capec_ids": [
+     "CAPEC-552"
+    ]
+   },
+   {
+    "technique_id": "T1027.009",
+    "name": "Embedded Payloads",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027/009",
+    "capec_ids": [
+     "CAPEC-19"
+    ]
+   },
+   {
+    "technique_id": "T1037",
+    "name": "Boot or Logon Initialization Scripts",
+    "tactics": [
+     "persistence",
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1037",
+    "capec_ids": [
+     "CAPEC-564"
+    ]
+   },
+   {
+    "technique_id": "T1080",
+    "name": "Taint Shared Content",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1080",
+    "capec_ids": [
+     "CAPEC-562"
+    ]
+   },
+   {
+    "technique_id": "T1505.005",
+    "name": "Terminal Services DLL",
+    "tactics": [
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1505/005",
+    "capec_ids": [
+     "CAPEC-558"
+    ]
+   },
+   {
+    "technique_id": "T1542.003",
+    "name": "Bootkit",
+    "tactics": [
+     "persistence",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1542/003",
+    "capec_ids": [
+     "CAPEC-552"
+    ]
+   },
+   {
+    "technique_id": "T1543",
+    "name": "Create or Modify System Process",
+    "tactics": [
+     "persistence",
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1543",
+    "capec_ids": [
+     "CAPEC-550",
+     "CAPEC-551"
+    ]
+   },
+   {
+    "technique_id": "T1543.001",
+    "name": "Launch Agent",
+    "tactics": [
+     "persistence",
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1543/001",
+    "capec_ids": [
+     "CAPEC-564"
+    ]
+   },
+   {
+    "technique_id": "T1543.003",
+    "name": "Windows Service",
+    "tactics": [
+     "persistence",
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1543/003",
+    "capec_ids": [
+     "CAPEC-478"
+    ]
+   },
+   {
+    "technique_id": "T1543.004",
+    "name": "Launch Daemon",
+    "tactics": [
+     "persistence",
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1543/004",
+    "capec_ids": [
+     "CAPEC-564"
+    ]
+   },
+   {
+    "technique_id": "T1546.001",
+    "name": "Change Default File Association",
+    "tactics": [
+     "persistence",
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1546/001",
+    "capec_ids": [
+     "CAPEC-556"
+    ]
+   },
+   {
+    "technique_id": "T1546.004",
+    "name": "Unix Shell Configuration Modification",
+    "tactics": [
+     "persistence",
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1546/004",
+    "capec_ids": [
+     "CAPEC-19"
+    ]
+   },
+   {
+    "technique_id": "T1546.008",
+    "name": "Accessibility Features",
+    "tactics": [
+     "persistence",
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1546/008",
+    "capec_ids": [
+     "CAPEC-558"
+    ]
+   },
+   {
+    "technique_id": "T1546.016",
+    "name": "Installer Packages",
+    "tactics": [
+     "persistence",
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1546/016",
+    "capec_ids": [
+     "CAPEC-19"
+    ]
+   },
+   {
+    "technique_id": "T1547",
+    "name": "Boot or Logon Autostart Execution",
+    "tactics": [
+     "persistence",
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1547",
+    "capec_ids": [
+     "CAPEC-564"
+    ]
+   },
+   {
+    "technique_id": "T1547.006",
+    "name": "Kernel Modules and Extensions",
+    "tactics": [
+     "persistence",
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1547/006",
+    "capec_ids": [
+     "CAPEC-552"
+    ]
+   },
+   {
+    "technique_id": "T1553.004",
+    "name": "Install Root Certificate",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1553/004",
+    "capec_ids": [
+     "CAPEC-479"
+    ]
+   },
+   {
+    "technique_id": "T1556.006",
+    "name": "Multi-Factor Authentication",
+    "tactics": [
+     "credential-access",
+     "defense-impairment",
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1556/006",
+    "capec_ids": [
+     "CAPEC-578"
+    ]
+   },
+   {
+    "technique_id": "T1574.011",
+    "name": "Services Registry Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/011",
+    "capec_ids": [
+     "CAPEC-478"
+    ]
+   },
+   {
+    "technique_id": "T1685",
+    "name": "Disable or Modify Tools",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1685",
+    "capec_ids": [
+     "CAPEC-578"
+    ]
+   },
+   {
+    "technique_id": "T1685.001",
+    "name": "Disable or Modify Windows Event Log",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1685/001",
+    "capec_ids": [
+     "CAPEC-578"
+    ]
+   },
+   {
+    "technique_id": "T1685.002",
+    "name": "Disable or Modify Cloud Log",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1685/002",
+    "capec_ids": [
+     "CAPEC-578"
+    ]
+   },
+   {
+    "technique_id": "T1686",
+    "name": "Disable or Modify System Firewall",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1686",
+    "capec_ids": [
+     "CAPEC-578"
+    ]
+   },
+   {
+    "technique_id": "T1686.001",
+    "name": "Cloud Firewall",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1686/001",
+    "capec_ids": [
+     "CAPEC-578"
+    ]
+   },
+   {
+    "technique_id": "T1688",
+    "name": "Safe Mode Boot",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1688",
+    "capec_ids": [
+     "CAPEC-578"
+    ]
+   }
+  ],
+  "CWE-285": [
+   {
+    "technique_id": "T1005",
+    "name": "Data from Local System",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1005",
+    "capec_ids": [
+     "CAPEC-647"
+    ]
+   },
+   {
+    "technique_id": "T1012",
+    "name": "Query Registry",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1012",
+    "capec_ids": [
+     "CAPEC-647"
+    ]
+   },
+   {
+    "technique_id": "T1083",
+    "name": "File and Directory Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1083",
+    "capec_ids": [
+     "CAPEC-127"
+    ]
+   },
+   {
+    "technique_id": "T1134.001",
+    "name": "Token Impersonation/Theft",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134/001",
+    "capec_ids": [
+     "CAPEC-60"
+    ]
+   },
+   {
+    "technique_id": "T1550.004",
+    "name": "Web Session Cookie",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1550/004",
+    "capec_ids": [
+     "CAPEC-60"
+    ]
+   },
+   {
+    "technique_id": "T1552.002",
+    "name": "Credentials in Registry",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1552/002",
+    "capec_ids": [
+     "CAPEC-647"
+    ]
+   },
+   {
+    "technique_id": "T1565.002",
+    "name": "Transmitted Data Manipulation",
+    "tactics": [
+     "impact"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1565/002",
+    "capec_ids": [
+     "CAPEC-668"
+    ]
+   },
+   {
+    "technique_id": "T1574.005",
+    "name": "Executable Installer File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/005",
+    "capec_ids": [
+     "CAPEC-17"
+    ]
+   },
+   {
+    "technique_id": "T1574.006",
+    "name": "Dynamic Linker Hijacking",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/006",
+    "capec_ids": [
+     "CAPEC-13"
+    ]
+   },
+   {
+    "technique_id": "T1574.007",
+    "name": "Path Interception by PATH Environment Variable",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/007",
+    "capec_ids": [
+     "CAPEC-13"
+    ]
+   },
+   {
+    "technique_id": "T1574.010",
+    "name": "Services File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/010",
+    "capec_ids": [
+     "CAPEC-1",
+     "CAPEC-17"
+    ]
+   },
+   {
+    "technique_id": "T1690",
+    "name": "Prevent Command History Logging",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1690",
+    "capec_ids": [
+     "CAPEC-13"
+    ]
+   }
+  ],
+  "CWE-287": [
+   {
+    "technique_id": "T1040",
+    "name": "Network Sniffing",
+    "tactics": [
+     "credential-access",
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1040",
+    "capec_ids": [
+     "CAPEC-57"
+    ]
+   },
+   {
+    "technique_id": "T1134",
+    "name": "Access Token Manipulation",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134",
+    "capec_ids": [
+     "CAPEC-633"
+    ]
+   },
+   {
+    "technique_id": "T1185",
+    "name": "Browser Session Hijacking",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1185",
+    "capec_ids": [
+     "CAPEC-593"
+    ]
+   },
+   {
+    "technique_id": "T1505.003",
+    "name": "Web Shell",
+    "tactics": [
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1505/003",
+    "capec_ids": [
+     "CAPEC-650"
+    ]
+   },
+   {
+    "technique_id": "T1548",
+    "name": "Abuse Elevation Control Mechanism",
+    "tactics": [
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1548",
+    "capec_ids": [
+     "CAPEC-114",
+     "CAPEC-115"
+    ]
+   },
+   {
+    "technique_id": "T1550.001",
+    "name": "Application Access Token",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1550/001",
+    "capec_ids": [
+     "CAPEC-593"
+    ]
+   },
+   {
+    "technique_id": "T1557",
+    "name": "Adversary-in-the-Middle",
+    "tactics": [
+     "collection",
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1557",
+    "capec_ids": [
+     "CAPEC-94"
+    ]
+   },
+   {
+    "technique_id": "T1563",
+    "name": "Remote Service Session Hijacking",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1563",
+    "capec_ids": [
+     "CAPEC-593"
+    ]
+   }
+  ],
+  "CWE-288": [
+   {
+    "technique_id": "T1083",
+    "name": "File and Directory Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1083",
+    "capec_ids": [
+     "CAPEC-127"
+    ]
+   },
+   {
+    "technique_id": "T1211",
+    "name": "Exploitation for Stealth",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1211",
+    "capec_ids": [
+     "CAPEC-665"
+    ]
+   },
+   {
+    "technique_id": "T1542.002",
+    "name": "Component Firmware",
+    "tactics": [
+     "persistence",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1542/002",
+    "capec_ids": [
+     "CAPEC-665"
+    ]
+   },
+   {
+    "technique_id": "T1556",
+    "name": "Modify Authentication Process",
+    "tactics": [
+     "credential-access",
+     "defense-impairment",
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1556",
+    "capec_ids": [
+     "CAPEC-665"
+    ]
+   }
+  ],
+  "CWE-290": [
+   {
+    "technique_id": "T1036.001",
+    "name": "Invalid Code Signature",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1036/001",
+    "capec_ids": [
+     "CAPEC-473"
+    ]
+   },
+   {
+    "technique_id": "T1134",
+    "name": "Access Token Manipulation",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134",
+    "capec_ids": [
+     "CAPEC-21"
+    ]
+   },
+   {
+    "technique_id": "T1134.001",
+    "name": "Token Impersonation/Theft",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134/001",
+    "capec_ids": [
+     "CAPEC-60"
+    ]
+   },
+   {
+    "technique_id": "T1528",
+    "name": "Steal Application Access Token",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1528",
+    "capec_ids": [
+     "CAPEC-21"
+    ]
+   },
+   {
+    "technique_id": "T1539",
+    "name": "Steal Web Session Cookie",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1539",
+    "capec_ids": [
+     "CAPEC-21"
+    ]
+   },
+   {
+    "technique_id": "T1550.004",
+    "name": "Web Session Cookie",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1550/004",
+    "capec_ids": [
+     "CAPEC-60"
+    ]
+   },
+   {
+    "technique_id": "T1553.002",
+    "name": "Code Signing",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1553/002",
+    "capec_ids": [
+     "CAPEC-473"
+    ]
+   },
+   {
+    "technique_id": "T1557",
+    "name": "Adversary-in-the-Middle",
+    "tactics": [
+     "collection",
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1557",
+    "capec_ids": [
+     "CAPEC-94"
+    ]
+   }
+  ],
+  "CWE-294": [
+   {
+    "technique_id": "T1021",
+    "name": "Remote Services",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1021",
+    "capec_ids": [
+     "CAPEC-555"
+    ]
+   },
+   {
+    "technique_id": "T1021.002",
+    "name": "SMB/Windows Admin Shares",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1021/002",
+    "capec_ids": [
+     "CAPEC-561"
+    ]
+   },
+   {
+    "technique_id": "T1114.002",
+    "name": "Remote Email Collection",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1114/002",
+    "capec_ids": [
+     "CAPEC-555"
+    ]
+   },
+   {
+    "technique_id": "T1133",
+    "name": "External Remote Services",
+    "tactics": [
+     "initial-access",
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1133",
+    "capec_ids": [
+     "CAPEC-555"
+    ]
+   },
+   {
+    "technique_id": "T1134.001",
+    "name": "Token Impersonation/Theft",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134/001",
+    "capec_ids": [
+     "CAPEC-60"
+    ]
+   },
+   {
+    "technique_id": "T1550.002",
+    "name": "Pass the Hash",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1550/002",
+    "capec_ids": [
+     "CAPEC-644"
+    ]
+   },
+   {
+    "technique_id": "T1550.003",
+    "name": "Pass the Ticket",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1550/003",
+    "capec_ids": [
+     "CAPEC-645"
+    ]
+   },
+   {
+    "technique_id": "T1550.004",
+    "name": "Web Session Cookie",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1550/004",
+    "capec_ids": [
+     "CAPEC-60"
+    ]
+   },
+   {
+    "technique_id": "T1557",
+    "name": "Adversary-in-the-Middle",
+    "tactics": [
+     "collection",
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1557",
+    "capec_ids": [
+     "CAPEC-94"
+    ]
+   },
+   {
+    "technique_id": "T1558",
+    "name": "Steal or Forge Kerberos Tickets",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1558",
+    "capec_ids": [
+     "CAPEC-652"
+    ]
+   },
+   {
+    "technique_id": "T1558.003",
+    "name": "Kerberoasting",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1558/003",
+    "capec_ids": [
+     "CAPEC-509"
+    ]
+   }
+  ],
+  "CWE-300": [
+   {
+    "technique_id": "T1040",
+    "name": "Network Sniffing",
+    "tactics": [
+     "credential-access",
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1040",
+    "capec_ids": [
+     "CAPEC-57"
+    ]
+   },
+   {
+    "technique_id": "T1185",
+    "name": "Browser Session Hijacking",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1185",
+    "capec_ids": [
+     "CAPEC-662"
+    ]
+   },
+   {
+    "technique_id": "T1557",
+    "name": "Adversary-in-the-Middle",
+    "tactics": [
+     "collection",
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1557",
+    "capec_ids": [
+     "CAPEC-94"
+    ]
+   }
+  ],
+  "CWE-302": [
+   {
+    "technique_id": "T1134",
+    "name": "Access Token Manipulation",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134",
+    "capec_ids": [
+     "CAPEC-21"
+    ]
+   },
+   {
+    "technique_id": "T1528",
+    "name": "Steal Application Access Token",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1528",
+    "capec_ids": [
+     "CAPEC-21"
+    ]
+   },
+   {
+    "technique_id": "T1539",
+    "name": "Steal Web Session Cookie",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1539",
+    "capec_ids": [
+     "CAPEC-21",
+     "CAPEC-31"
+    ]
+   },
+   {
+    "technique_id": "T1574.006",
+    "name": "Dynamic Linker Hijacking",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/006",
+    "capec_ids": [
+     "CAPEC-13"
+    ]
+   },
+   {
+    "technique_id": "T1574.007",
+    "name": "Path Interception by PATH Environment Variable",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/007",
+    "capec_ids": [
+     "CAPEC-13"
+    ]
+   },
+   {
+    "technique_id": "T1690",
+    "name": "Prevent Command History Logging",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1690",
+    "capec_ids": [
+     "CAPEC-13"
+    ]
+   }
+  ],
+  "CWE-307": [
+   {
+    "technique_id": "T1078",
+    "name": "Valid Accounts",
+    "tactics": [
+     "initial-access",
+     "persistence",
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1078",
+    "capec_ids": [
+     "CAPEC-560"
+    ]
+   },
+   {
+    "technique_id": "T1110.001",
+    "name": "Password Guessing",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/001",
+    "capec_ids": [
+     "CAPEC-49"
+    ]
+   },
+   {
+    "technique_id": "T1110.003",
+    "name": "Password Spraying",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/003",
+    "capec_ids": [
+     "CAPEC-565"
+    ]
+   },
+   {
+    "technique_id": "T1110.004",
+    "name": "Credential Stuffing",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/004",
+    "capec_ids": [
+     "CAPEC-600"
+    ]
+   },
+   {
+    "technique_id": "T1558",
+    "name": "Steal or Forge Kerberos Tickets",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1558",
+    "capec_ids": [
+     "CAPEC-652"
+    ]
+   }
+  ],
+  "CWE-308": [
+   {
+    "technique_id": "T1021",
+    "name": "Remote Services",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1021",
+    "capec_ids": [
+     "CAPEC-555"
+    ]
+   },
+   {
+    "technique_id": "T1021.002",
+    "name": "SMB/Windows Admin Shares",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1021/002",
+    "capec_ids": [
+     "CAPEC-561"
+    ]
+   },
+   {
+    "technique_id": "T1078",
+    "name": "Valid Accounts",
+    "tactics": [
+     "initial-access",
+     "persistence",
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1078",
+    "capec_ids": [
+     "CAPEC-560"
+    ]
+   },
+   {
+    "technique_id": "T1078.001",
+    "name": "Default Accounts",
+    "tactics": [
+     "initial-access",
+     "persistence",
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1078/001",
+    "capec_ids": [
+     "CAPEC-70"
+    ]
+   },
+   {
+    "technique_id": "T1110.001",
+    "name": "Password Guessing",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/001",
+    "capec_ids": [
+     "CAPEC-49"
+    ]
+   },
+   {
+    "technique_id": "T1110.002",
+    "name": "Password Cracking",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/002",
+    "capec_ids": [
+     "CAPEC-55"
+    ]
+   },
+   {
+    "technique_id": "T1110.003",
+    "name": "Password Spraying",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/003",
+    "capec_ids": [
+     "CAPEC-565"
+    ]
+   },
+   {
+    "technique_id": "T1110.004",
+    "name": "Credential Stuffing",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/004",
+    "capec_ids": [
+     "CAPEC-600"
+    ]
+   },
+   {
+    "technique_id": "T1114.002",
+    "name": "Remote Email Collection",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1114/002",
+    "capec_ids": [
+     "CAPEC-555"
+    ]
+   },
+   {
+    "technique_id": "T1133",
+    "name": "External Remote Services",
+    "tactics": [
+     "initial-access",
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1133",
+    "capec_ids": [
+     "CAPEC-555"
+    ]
+   },
+   {
+    "technique_id": "T1550.002",
+    "name": "Pass the Hash",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1550/002",
+    "capec_ids": [
+     "CAPEC-644"
+    ]
+   },
+   {
+    "technique_id": "T1550.003",
+    "name": "Pass the Ticket",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1550/003",
+    "capec_ids": [
+     "CAPEC-645"
+    ]
+   },
+   {
+    "technique_id": "T1558",
+    "name": "Steal or Forge Kerberos Tickets",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1558",
+    "capec_ids": [
+     "CAPEC-652"
+    ]
+   },
+   {
+    "technique_id": "T1558.003",
+    "name": "Kerberoasting",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1558/003",
+    "capec_ids": [
+     "CAPEC-509"
+    ]
+   }
+  ],
+  "CWE-309": [
+   {
+    "technique_id": "T1021",
+    "name": "Remote Services",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1021",
+    "capec_ids": [
+     "CAPEC-555"
+    ]
+   },
+   {
+    "technique_id": "T1021.002",
+    "name": "SMB/Windows Admin Shares",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1021/002",
+    "capec_ids": [
+     "CAPEC-561"
+    ]
+   },
+   {
+    "technique_id": "T1078",
+    "name": "Valid Accounts",
+    "tactics": [
+     "initial-access",
+     "persistence",
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1078",
+    "capec_ids": [
+     "CAPEC-560"
+    ]
+   },
+   {
+    "technique_id": "T1078.001",
+    "name": "Default Accounts",
+    "tactics": [
+     "initial-access",
+     "persistence",
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1078/001",
+    "capec_ids": [
+     "CAPEC-70"
+    ]
+   },
+   {
+    "technique_id": "T1110.001",
+    "name": "Password Guessing",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/001",
+    "capec_ids": [
+     "CAPEC-49"
+    ]
+   },
+   {
+    "technique_id": "T1110.002",
+    "name": "Password Cracking",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/002",
+    "capec_ids": [
+     "CAPEC-55"
+    ]
+   },
+   {
+    "technique_id": "T1110.003",
+    "name": "Password Spraying",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/003",
+    "capec_ids": [
+     "CAPEC-565"
+    ]
+   },
+   {
+    "technique_id": "T1110.004",
+    "name": "Credential Stuffing",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/004",
+    "capec_ids": [
+     "CAPEC-600"
+    ]
+   },
+   {
+    "technique_id": "T1114.002",
+    "name": "Remote Email Collection",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1114/002",
+    "capec_ids": [
+     "CAPEC-555"
+    ]
+   },
+   {
+    "technique_id": "T1133",
+    "name": "External Remote Services",
+    "tactics": [
+     "initial-access",
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1133",
+    "capec_ids": [
+     "CAPEC-555"
+    ]
+   },
+   {
+    "technique_id": "T1558",
+    "name": "Steal or Forge Kerberos Tickets",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1558",
+    "capec_ids": [
+     "CAPEC-652"
+    ]
+   },
+   {
+    "technique_id": "T1558.003",
+    "name": "Kerberoasting",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1558/003",
+    "capec_ids": [
+     "CAPEC-509"
+    ]
+   }
+  ],
+  "CWE-311": [
+   {
+    "technique_id": "T1005",
+    "name": "Data from Local System",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1005",
+    "capec_ids": [
+     "CAPEC-37",
+     "CAPEC-204"
+    ]
+   },
+   {
+    "technique_id": "T1040",
+    "name": "Network Sniffing",
+    "tactics": [
+     "credential-access",
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1040",
+    "capec_ids": [
+     "CAPEC-65",
+     "CAPEC-158"
+    ]
+   },
+   {
+    "technique_id": "T1056.004",
+    "name": "Credential API Hooking",
+    "tactics": [
+     "collection",
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1056/004",
+    "capec_ids": [
+     "CAPEC-383"
+    ]
+   },
+   {
+    "technique_id": "T1111",
+    "name": "Multi-Factor Authentication Interception",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1111",
+    "capec_ids": [
+     "CAPEC-158",
+     "CAPEC-609"
+    ]
+   },
+   {
+    "technique_id": "T1539",
+    "name": "Steal Web Session Cookie",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1539",
+    "capec_ids": [
+     "CAPEC-31"
+    ]
+   },
+   {
+    "technique_id": "T1552.004",
+    "name": "Private Keys",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1552/004",
+    "capec_ids": [
+     "CAPEC-37"
+    ]
+   }
+  ],
+  "CWE-312": [
+   {
+    "technique_id": "T1005",
+    "name": "Data from Local System",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1005",
+    "capec_ids": [
+     "CAPEC-37"
+    ]
+   },
+   {
+    "technique_id": "T1552.004",
+    "name": "Private Keys",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1552/004",
+    "capec_ids": [
+     "CAPEC-37"
+    ]
+   }
+  ],
+  "CWE-314": [
+   {
+    "technique_id": "T1005",
+    "name": "Data from Local System",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1005",
+    "capec_ids": [
+     "CAPEC-37"
+    ]
+   },
+   {
+    "technique_id": "T1552.004",
+    "name": "Private Keys",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1552/004",
+    "capec_ids": [
+     "CAPEC-37"
+    ]
+   }
+  ],
+  "CWE-315": [
+   {
+    "technique_id": "T1005",
+    "name": "Data from Local System",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1005",
+    "capec_ids": [
+     "CAPEC-37"
+    ]
+   },
+   {
+    "technique_id": "T1539",
+    "name": "Steal Web Session Cookie",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1539",
+    "capec_ids": [
+     "CAPEC-31"
+    ]
+   },
+   {
+    "technique_id": "T1552.004",
+    "name": "Private Keys",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1552/004",
+    "capec_ids": [
+     "CAPEC-37"
+    ]
+   }
+  ],
+  "CWE-318": [
+   {
+    "technique_id": "T1005",
+    "name": "Data from Local System",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1005",
+    "capec_ids": [
+     "CAPEC-37"
+    ]
+   },
+   {
+    "technique_id": "T1040",
+    "name": "Network Sniffing",
+    "tactics": [
+     "credential-access",
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1040",
+    "capec_ids": [
+     "CAPEC-65"
+    ]
+   },
+   {
+    "technique_id": "T1552.004",
+    "name": "Private Keys",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1552/004",
+    "capec_ids": [
+     "CAPEC-37"
+    ]
+   }
+  ],
+  "CWE-319": [
+   {
+    "technique_id": "T1040",
+    "name": "Network Sniffing",
+    "tactics": [
+     "credential-access",
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1040",
+    "capec_ids": [
+     "CAPEC-65"
+    ]
+   },
+   {
+    "technique_id": "T1056.004",
+    "name": "Credential API Hooking",
+    "tactics": [
+     "collection",
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1056/004",
+    "capec_ids": [
+     "CAPEC-383"
+    ]
+   }
+  ],
+  "CWE-325": [
+   {
+    "technique_id": "T1553.002",
+    "name": "Code Signing",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1553/002",
+    "capec_ids": [
+     "CAPEC-68"
+    ]
+   }
+  ],
+  "CWE-326": [
+   {
+    "technique_id": "T1110",
+    "name": "Brute Force",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110",
+    "capec_ids": [
+     "CAPEC-112"
+    ]
+   }
+  ],
+  "CWE-327": [
+   {
+    "technique_id": "T1036.001",
+    "name": "Invalid Code Signature",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1036/001",
+    "capec_ids": [
+     "CAPEC-473"
+    ]
+   },
+   {
+    "technique_id": "T1553.002",
+    "name": "Code Signing",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1553/002",
+    "capec_ids": [
+     "CAPEC-473"
+    ]
+   }
+  ],
+  "CWE-328": [
+   {
+    "technique_id": "T1553.002",
+    "name": "Code Signing",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1553/002",
+    "capec_ids": [
+     "CAPEC-68"
+    ]
+   }
+  ],
+  "CWE-330": [
+   {
+    "technique_id": "T1110",
+    "name": "Brute Force",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110",
+    "capec_ids": [
+     "CAPEC-112"
+    ]
+   },
+   {
+    "technique_id": "T1552.004",
+    "name": "Private Keys",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1552/004",
+    "capec_ids": [
+     "CAPEC-485"
+    ]
+   }
+  ],
+  "CWE-345": [
+   {
+    "technique_id": "T1211",
+    "name": "Exploitation for Stealth",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1211",
+    "capec_ids": [
+     "CAPEC-665"
+    ]
+   },
+   {
+    "technique_id": "T1491",
+    "name": "Defacement",
+    "tactics": [
+     "impact"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1491",
+    "capec_ids": [
+     "CAPEC-148"
+    ]
+   },
+   {
+    "technique_id": "T1542.002",
+    "name": "Component Firmware",
+    "tactics": [
+     "persistence",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1542/002",
+    "capec_ids": [
+     "CAPEC-665"
+    ]
+   },
+   {
+    "technique_id": "T1556",
+    "name": "Modify Authentication Process",
+    "tactics": [
+     "credential-access",
+     "defense-impairment",
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1556",
+    "capec_ids": [
+     "CAPEC-665"
+    ]
+   },
+   {
+    "technique_id": "T1557.002",
+    "name": "ARP Cache Poisoning",
+    "tactics": [
+     "collection",
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1557/002",
+    "capec_ids": [
+     "CAPEC-141"
+    ]
+   },
+   {
+    "technique_id": "T1584.002",
+    "name": "DNS Server",
+    "tactics": [
+     "resource-development"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1584/002",
+    "capec_ids": [
+     "CAPEC-142"
+    ]
+   }
+  ],
+  "CWE-346": [
+   {
+    "technique_id": "T1134",
+    "name": "Access Token Manipulation",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134",
+    "capec_ids": [
+     "CAPEC-21"
+    ]
+   },
+   {
+    "technique_id": "T1134.001",
+    "name": "Token Impersonation/Theft",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134/001",
+    "capec_ids": [
+     "CAPEC-60"
+    ]
+   },
+   {
+    "technique_id": "T1528",
+    "name": "Steal Application Access Token",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1528",
+    "capec_ids": [
+     "CAPEC-21"
+    ]
+   },
+   {
+    "technique_id": "T1539",
+    "name": "Steal Web Session Cookie",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1539",
+    "capec_ids": [
+     "CAPEC-21"
+    ]
+   },
+   {
+    "technique_id": "T1550.004",
+    "name": "Web Session Cookie",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1550/004",
+    "capec_ids": [
+     "CAPEC-60"
+    ]
+   },
+   {
+    "technique_id": "T1557.002",
+    "name": "ARP Cache Poisoning",
+    "tactics": [
+     "collection",
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1557/002",
+    "capec_ids": [
+     "CAPEC-141"
+    ]
+   },
+   {
+    "technique_id": "T1584.002",
+    "name": "DNS Server",
+    "tactics": [
+     "resource-development"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1584/002",
+    "capec_ids": [
+     "CAPEC-142"
+    ]
+   }
+  ],
+  "CWE-348": [
+   {
+    "technique_id": "T1557.002",
+    "name": "ARP Cache Poisoning",
+    "tactics": [
+     "collection",
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1557/002",
+    "capec_ids": [
+     "CAPEC-141"
+    ]
+   },
+   {
+    "technique_id": "T1584.002",
+    "name": "DNS Server",
+    "tactics": [
+     "resource-development"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1584/002",
+    "capec_ids": [
+     "CAPEC-142"
+    ]
+   }
+  ],
+  "CWE-349": [
+   {
+    "technique_id": "T1557.002",
+    "name": "ARP Cache Poisoning",
+    "tactics": [
+     "collection",
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1557/002",
+    "capec_ids": [
+     "CAPEC-141"
+    ]
+   },
+   {
+    "technique_id": "T1584.002",
+    "name": "DNS Server",
+    "tactics": [
+     "resource-development"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1584/002",
+    "capec_ids": [
+     "CAPEC-142"
+    ]
+   }
+  ],
+  "CWE-350": [
+   {
+    "technique_id": "T1584.002",
+    "name": "DNS Server",
+    "tactics": [
+     "resource-development"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1584/002",
+    "capec_ids": [
+     "CAPEC-142"
+    ]
+   }
+  ],
+  "CWE-353": [
+   {
+    "technique_id": "T1211",
+    "name": "Exploitation for Stealth",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1211",
+    "capec_ids": [
+     "CAPEC-665"
+    ]
+   },
+   {
+    "technique_id": "T1542.002",
+    "name": "Component Firmware",
+    "tactics": [
+     "persistence",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1542/002",
+    "capec_ids": [
+     "CAPEC-665"
+    ]
+   },
+   {
+    "technique_id": "T1556",
+    "name": "Modify Authentication Process",
+    "tactics": [
+     "credential-access",
+     "defense-impairment",
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1556",
+    "capec_ids": [
+     "CAPEC-665"
+    ]
+   },
+   {
+    "technique_id": "T1574.006",
+    "name": "Dynamic Linker Hijacking",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/006",
+    "capec_ids": [
+     "CAPEC-13"
+    ]
+   },
+   {
+    "technique_id": "T1574.007",
+    "name": "Path Interception by PATH Environment Variable",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/007",
+    "capec_ids": [
+     "CAPEC-13"
+    ]
+   },
+   {
+    "technique_id": "T1690",
+    "name": "Prevent Command History Logging",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1690",
+    "capec_ids": [
+     "CAPEC-13"
+    ]
+   }
+  ],
+  "CWE-359": [
+   {
+    "technique_id": "T1606.001",
+    "name": "Web Cookies",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1606/001",
+    "capec_ids": [
+     "CAPEC-464"
+    ]
+   }
+  ],
+  "CWE-384": [
+   {
+    "technique_id": "T1134",
+    "name": "Access Token Manipulation",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134",
+    "capec_ids": [
+     "CAPEC-21"
+    ]
+   },
+   {
+    "technique_id": "T1134.001",
+    "name": "Token Impersonation/Theft",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134/001",
+    "capec_ids": [
+     "CAPEC-60"
+    ]
+   },
+   {
+    "technique_id": "T1134.002",
+    "name": "Create Process with Token",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134/002",
+    "capec_ids": [
+     "CAPEC-196"
+    ]
+   },
+   {
+    "technique_id": "T1134.003",
+    "name": "Make and Impersonate Token",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134/003",
+    "capec_ids": [
+     "CAPEC-196"
+    ]
+   },
+   {
+    "technique_id": "T1528",
+    "name": "Steal Application Access Token",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1528",
+    "capec_ids": [
+     "CAPEC-21"
+    ]
+   },
+   {
+    "technique_id": "T1539",
+    "name": "Steal Web Session Cookie",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1539",
+    "capec_ids": [
+     "CAPEC-21",
+     "CAPEC-31"
+    ]
+   },
+   {
+    "technique_id": "T1550.004",
+    "name": "Web Session Cookie",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1550/004",
+    "capec_ids": [
+     "CAPEC-60"
+    ]
+   },
+   {
+    "technique_id": "T1606",
+    "name": "Forge Web Credentials",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1606",
+    "capec_ids": [
+     "CAPEC-196"
+    ]
+   }
+  ],
+  "CWE-400": [
+   {
+    "technique_id": "T1499",
+    "name": "Endpoint Denial of Service",
+    "tactics": [
+     "impact"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1499",
+    "capec_ids": [
+     "CAPEC-227"
+    ]
+   }
+  ],
+  "CWE-404": [
+   {
+    "technique_id": "T1498.001",
+    "name": "Direct Network Flood",
+    "tactics": [
+     "impact"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1498/001",
+    "capec_ids": [
+     "CAPEC-125",
+     "CAPEC-666"
+    ]
+   },
+   {
+    "technique_id": "T1499",
+    "name": "Endpoint Denial of Service",
+    "tactics": [
+     "impact"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1499",
+    "capec_ids": [
+     "CAPEC-125",
+     "CAPEC-131"
+    ]
+   },
+   {
+    "technique_id": "T1499.001",
+    "name": "OS Exhaustion Flood",
+    "tactics": [
+     "impact"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1499/001",
+    "capec_ids": [
+     "CAPEC-666"
+    ]
+   },
+   {
+    "technique_id": "T1499.003",
+    "name": "Application Exhaustion Flood",
+    "tactics": [
+     "impact"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1499/003",
+    "capec_ids": [
+     "CAPEC-130"
+    ]
+   }
+  ],
+  "CWE-412": [
+   {
+    "technique_id": "T1499.004",
+    "name": "Application or System Exploitation",
+    "tactics": [
+     "impact"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1499/004",
+    "capec_ids": [
+     "CAPEC-25"
+    ]
+   }
+  ],
+  "CWE-419": [
+   {
+    "technique_id": "T1056.004",
+    "name": "Credential API Hooking",
+    "tactics": [
+     "collection",
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1056/004",
+    "capec_ids": [
+     "CAPEC-383"
+    ]
+   }
+  ],
+  "CWE-424": [
+   {
+    "technique_id": "T1083",
+    "name": "File and Directory Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1083",
+    "capec_ids": [
+     "CAPEC-127"
+    ]
+   }
+  ],
+  "CWE-425": [
+   {
+    "technique_id": "T1083",
+    "name": "File and Directory Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1083",
+    "capec_ids": [
+     "CAPEC-127"
+    ]
+   },
+   {
+    "technique_id": "T1565.002",
+    "name": "Transmitted Data Manipulation",
+    "tactics": [
+     "impact"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1565/002",
+    "capec_ids": [
+     "CAPEC-668"
+    ]
+   }
+  ],
+  "CWE-426": [
+   {
+    "technique_id": "T1574.007",
+    "name": "Path Interception by PATH Environment Variable",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/007",
+    "capec_ids": [
+     "CAPEC-38"
+    ]
+   },
+   {
+    "technique_id": "T1574.009",
+    "name": "Path Interception by Unquoted Path",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/009",
+    "capec_ids": [
+     "CAPEC-38"
+    ]
+   }
+  ],
+  "CWE-427": [
+   {
+    "technique_id": "T1574.001",
+    "name": "DLL",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/001",
+    "capec_ids": [
+     "CAPEC-471"
+    ]
+   },
+   {
+    "technique_id": "T1574.004",
+    "name": "Dylib Hijacking",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/004",
+    "capec_ids": [
+     "CAPEC-471"
+    ]
+   },
+   {
+    "technique_id": "T1574.007",
+    "name": "Path Interception by PATH Environment Variable",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/007",
+    "capec_ids": [
+     "CAPEC-38"
+    ]
+   },
+   {
+    "technique_id": "T1574.008",
+    "name": "Path Interception by Search Order Hijacking",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/008",
+    "capec_ids": [
+     "CAPEC-471"
+    ]
+   },
+   {
+    "technique_id": "T1574.009",
+    "name": "Path Interception by Unquoted Path",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/009",
+    "capec_ids": [
+     "CAPEC-38"
+    ]
+   }
+  ],
+  "CWE-430": [
+   {
+    "technique_id": "T1036.006",
+    "name": "Space after Filename",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1036/006",
+    "capec_ids": [
+     "CAPEC-11"
+    ]
+   }
+  ],
+  "CWE-434": [
+   {
+    "technique_id": "T1574.010",
+    "name": "Services File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/010",
+    "capec_ids": [
+     "CAPEC-1"
+    ]
+   }
+  ],
+  "CWE-441": [
+   {
+    "technique_id": "T1090.001",
+    "name": "Internal Proxy",
+    "tactics": [
+     "command-and-control"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1090/001",
+    "capec_ids": [
+     "CAPEC-465"
+    ]
+   }
+  ],
+  "CWE-451": [
+   {
+    "technique_id": "T1534",
+    "name": "Internal Spearphishing",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1534",
+    "capec_ids": [
+     "CAPEC-163"
+    ]
+   },
+   {
+    "technique_id": "T1566",
+    "name": "Phishing",
+    "tactics": [
+     "initial-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1566",
+    "capec_ids": [
+     "CAPEC-98"
+    ]
+   },
+   {
+    "technique_id": "T1566.001",
+    "name": "Spearphishing Attachment",
+    "tactics": [
+     "initial-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1566/001",
+    "capec_ids": [
+     "CAPEC-163"
+    ]
+   },
+   {
+    "technique_id": "T1566.002",
+    "name": "Spearphishing Link",
+    "tactics": [
+     "initial-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1566/002",
+    "capec_ids": [
+     "CAPEC-163"
+    ]
+   },
+   {
+    "technique_id": "T1566.003",
+    "name": "Spearphishing via Service",
+    "tactics": [
+     "initial-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1566/003",
+    "capec_ids": [
+     "CAPEC-163"
+    ]
+   },
+   {
+    "technique_id": "T1598",
+    "name": "Phishing for Information",
+    "tactics": [
+     "reconnaissance"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1598",
+    "capec_ids": [
+     "CAPEC-98"
+    ]
+   },
+   {
+    "technique_id": "T1598.001",
+    "name": "Spearphishing Service",
+    "tactics": [
+     "reconnaissance"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1598/001",
+    "capec_ids": [
+     "CAPEC-163"
+    ]
+   },
+   {
+    "technique_id": "T1598.002",
+    "name": "Spearphishing Attachment",
+    "tactics": [
+     "reconnaissance"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1598/002",
+    "capec_ids": [
+     "CAPEC-163"
+    ]
+   },
+   {
+    "technique_id": "T1598.003",
+    "name": "Spearphishing Link",
+    "tactics": [
+     "reconnaissance"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1598/003",
+    "capec_ids": [
+     "CAPEC-163"
+    ]
+   }
+  ],
+  "CWE-472": [
+   {
+    "technique_id": "T1539",
+    "name": "Steal Web Session Cookie",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1539",
+    "capec_ids": [
+     "CAPEC-31"
+    ]
+   }
+  ],
+  "CWE-488": [
+   {
+    "technique_id": "T1134.001",
+    "name": "Token Impersonation/Theft",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134/001",
+    "capec_ids": [
+     "CAPEC-60"
+    ]
+   },
+   {
+    "technique_id": "T1550.004",
+    "name": "Web Session Cookie",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1550/004",
+    "capec_ids": [
+     "CAPEC-60"
+    ]
+   }
+  ],
+  "CWE-494": [
+   {
+    "technique_id": "T1072",
+    "name": "Software Deployment Tools",
+    "tactics": [
+     "execution",
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1072",
+    "capec_ids": [
+     "CAPEC-187",
+     "CAPEC-657"
+    ]
+   },
+   {
+    "technique_id": "T1185",
+    "name": "Browser Session Hijacking",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1185",
+    "capec_ids": [
+     "CAPEC-662"
+    ]
+   },
+   {
+    "technique_id": "T1195.001",
+    "name": "Compromise Software Dependencies and Development Tools",
+    "tactics": [
+     "initial-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1195/001",
+    "capec_ids": [
+     "CAPEC-538",
+     "CAPEC-691",
+     "CAPEC-695"
+    ]
+   },
+   {
+    "technique_id": "T1195.002",
+    "name": "Compromise Software Supply Chain",
+    "tactics": [
+     "initial-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1195/002",
+    "capec_ids": [
+     "CAPEC-186",
+     "CAPEC-691"
+    ]
+   }
+  ],
+  "CWE-497": [
+   {
+    "technique_id": "T1614",
+    "name": "System Location Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1614",
+    "capec_ids": [
+     "CAPEC-694"
+    ]
+   }
+  ],
+  "CWE-506": [
+   {
+    "technique_id": "T1001.002",
+    "name": "Steganography",
+    "tactics": [
+     "command-and-control"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1001/002",
+    "capec_ids": [
+     "CAPEC-636"
+    ]
+   },
+   {
+    "technique_id": "T1027.003",
+    "name": "Steganography",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027/003",
+    "capec_ids": [
+     "CAPEC-636"
+    ]
+   },
+   {
+    "technique_id": "T1027.004",
+    "name": "Compile After Delivery",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027/004",
+    "capec_ids": [
+     "CAPEC-636"
+    ]
+   },
+   {
+    "technique_id": "T1027.009",
+    "name": "Embedded Payloads",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027/009",
+    "capec_ids": [
+     "CAPEC-448"
+    ]
+   },
+   {
+    "technique_id": "T1195.001",
+    "name": "Compromise Software Dependencies and Development Tools",
+    "tactics": [
+     "initial-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1195/001",
+    "capec_ids": [
+     "CAPEC-442"
+    ]
+   },
+   {
+    "technique_id": "T1195.002",
+    "name": "Compromise Software Supply Chain",
+    "tactics": [
+     "initial-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1195/002",
+    "capec_ids": [
+     "CAPEC-442"
+    ]
+   },
+   {
+    "technique_id": "T1218.001",
+    "name": "Compiled HTML File",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1218/001",
+    "capec_ids": [
+     "CAPEC-636"
+    ]
+   },
+   {
+    "technique_id": "T1221",
+    "name": "Template Injection",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1221",
+    "capec_ids": [
+     "CAPEC-636"
+    ]
+   }
+  ],
+  "CWE-507": [
+   {
+    "technique_id": "T1176",
+    "name": "Software Extensions",
+    "tactics": [
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1176",
+    "capec_ids": [
+     "CAPEC-698"
+    ]
+   },
+   {
+    "technique_id": "T1505.004",
+    "name": "IIS Components",
+    "tactics": [
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1505/004",
+    "capec_ids": [
+     "CAPEC-698"
+    ]
+   }
+  ],
+  "CWE-521": [
+   {
+    "technique_id": "T1021",
+    "name": "Remote Services",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1021",
+    "capec_ids": [
+     "CAPEC-555"
+    ]
+   },
+   {
+    "technique_id": "T1021.002",
+    "name": "SMB/Windows Admin Shares",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1021/002",
+    "capec_ids": [
+     "CAPEC-561"
+    ]
+   },
+   {
+    "technique_id": "T1078.001",
+    "name": "Default Accounts",
+    "tactics": [
+     "initial-access",
+     "persistence",
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1078/001",
+    "capec_ids": [
+     "CAPEC-70"
+    ]
+   },
+   {
+    "technique_id": "T1110",
+    "name": "Brute Force",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110",
+    "capec_ids": [
+     "CAPEC-112"
+    ]
+   },
+   {
+    "technique_id": "T1110.001",
+    "name": "Password Guessing",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/001",
+    "capec_ids": [
+     "CAPEC-49"
+    ]
+   },
+   {
+    "technique_id": "T1110.002",
+    "name": "Password Cracking",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/002",
+    "capec_ids": [
+     "CAPEC-55"
+    ]
+   },
+   {
+    "technique_id": "T1110.003",
+    "name": "Password Spraying",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/003",
+    "capec_ids": [
+     "CAPEC-565"
+    ]
+   },
+   {
+    "technique_id": "T1114.002",
+    "name": "Remote Email Collection",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1114/002",
+    "capec_ids": [
+     "CAPEC-555"
+    ]
+   },
+   {
+    "technique_id": "T1133",
+    "name": "External Remote Services",
+    "tactics": [
+     "initial-access",
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1133",
+    "capec_ids": [
+     "CAPEC-555"
+    ]
+   },
+   {
+    "technique_id": "T1558.003",
+    "name": "Kerberoasting",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1558/003",
+    "capec_ids": [
+     "CAPEC-509"
+    ]
+   }
+  ],
+  "CWE-522": [
+   {
+    "technique_id": "T1021",
+    "name": "Remote Services",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1021",
+    "capec_ids": [
+     "CAPEC-555"
+    ]
+   },
+   {
+    "technique_id": "T1021.002",
+    "name": "SMB/Windows Admin Shares",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1021/002",
+    "capec_ids": [
+     "CAPEC-561"
+    ]
+   },
+   {
+    "technique_id": "T1078",
+    "name": "Valid Accounts",
+    "tactics": [
+     "initial-access",
+     "persistence",
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1078",
+    "capec_ids": [
+     "CAPEC-560"
+    ]
+   },
+   {
+    "technique_id": "T1110.004",
+    "name": "Credential Stuffing",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/004",
+    "capec_ids": [
+     "CAPEC-600"
+    ]
+   },
+   {
+    "technique_id": "T1114.002",
+    "name": "Remote Email Collection",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1114/002",
+    "capec_ids": [
+     "CAPEC-555"
+    ]
+   },
+   {
+    "technique_id": "T1133",
+    "name": "External Remote Services",
+    "tactics": [
+     "initial-access",
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1133",
+    "capec_ids": [
+     "CAPEC-555"
+    ]
+   },
+   {
+    "technique_id": "T1543",
+    "name": "Create or Modify System Process",
+    "tactics": [
+     "persistence",
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1543",
+    "capec_ids": [
+     "CAPEC-551"
+    ]
+   },
+   {
+    "technique_id": "T1550.002",
+    "name": "Pass the Hash",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1550/002",
+    "capec_ids": [
+     "CAPEC-644"
+    ]
+   },
+   {
+    "technique_id": "T1550.003",
+    "name": "Pass the Ticket",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1550/003",
+    "capec_ids": [
+     "CAPEC-645"
+    ]
+   },
+   {
+    "technique_id": "T1552.004",
+    "name": "Private Keys",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1552/004",
+    "capec_ids": [
+     "CAPEC-474"
+    ]
+   },
+   {
+    "technique_id": "T1558",
+    "name": "Steal or Forge Kerberos Tickets",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1558",
+    "capec_ids": [
+     "CAPEC-652"
+    ]
+   },
+   {
+    "technique_id": "T1558.003",
+    "name": "Kerberoasting",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1558/003",
+    "capec_ids": [
+     "CAPEC-509"
+    ]
+   }
+  ],
+  "CWE-524": [
+   {
+    "technique_id": "T1005",
+    "name": "Data from Local System",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1005",
+    "capec_ids": [
+     "CAPEC-204"
+    ]
+   }
+  ],
+  "CWE-525": [
+   {
+    "technique_id": "T1005",
+    "name": "Data from Local System",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1005",
+    "capec_ids": [
+     "CAPEC-37"
+    ]
+   },
+   {
+    "technique_id": "T1552.004",
+    "name": "Private Keys",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1552/004",
+    "capec_ids": [
+     "CAPEC-37"
+    ]
+   }
+  ],
+  "CWE-539": [
+   {
+    "technique_id": "T1134",
+    "name": "Access Token Manipulation",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134",
+    "capec_ids": [
+     "CAPEC-21"
+    ]
+   },
+   {
+    "technique_id": "T1134.001",
+    "name": "Token Impersonation/Theft",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134/001",
+    "capec_ids": [
+     "CAPEC-60"
+    ]
+   },
+   {
+    "technique_id": "T1528",
+    "name": "Steal Application Access Token",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1528",
+    "capec_ids": [
+     "CAPEC-21"
+    ]
+   },
+   {
+    "technique_id": "T1539",
+    "name": "Steal Web Session Cookie",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1539",
+    "capec_ids": [
+     "CAPEC-21",
+     "CAPEC-31"
+    ]
+   },
+   {
+    "technique_id": "T1550.004",
+    "name": "Web Session Cookie",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1550/004",
+    "capec_ids": [
+     "CAPEC-60"
+    ]
+   }
+  ],
+  "CWE-552": [
+   {
+    "technique_id": "T1003",
+    "name": "OS Credential Dumping",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1003",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1039",
+    "name": "Data from Network Shared Drive",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1039",
+    "capec_ids": [
+     "CAPEC-639"
+    ]
+   },
+   {
+    "technique_id": "T1119",
+    "name": "Automated Collection",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1119",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1213",
+    "name": "Data from Information Repositories",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1213",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1530",
+    "name": "Data from Cloud Storage",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1530",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1552.001",
+    "name": "Credentials In Files",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1552/001",
+    "capec_ids": [
+     "CAPEC-639"
+    ]
+   },
+   {
+    "technique_id": "T1552.003",
+    "name": "Shell History",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1552/003",
+    "capec_ids": [
+     "CAPEC-639"
+    ]
+   },
+   {
+    "technique_id": "T1552.004",
+    "name": "Private Keys",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1552/004",
+    "capec_ids": [
+     "CAPEC-639"
+    ]
+   },
+   {
+    "technique_id": "T1552.006",
+    "name": "Group Policy Preferences",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1552/006",
+    "capec_ids": [
+     "CAPEC-639"
+    ]
+   },
+   {
+    "technique_id": "T1555",
+    "name": "Credentials from Password Stores",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1555",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1602",
+    "name": "Data from Configuration Repository",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1602",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   }
+  ],
+  "CWE-553": [
+   {
+    "technique_id": "T1505.003",
+    "name": "Web Shell",
+    "tactics": [
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1505/003",
+    "capec_ids": [
+     "CAPEC-650"
+    ]
+   }
+  ],
+  "CWE-565": [
+   {
+    "technique_id": "T1539",
+    "name": "Steal Web Session Cookie",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1539",
+    "capec_ids": [
+     "CAPEC-31"
+    ]
+   }
+  ],
+  "CWE-567": [
+   {
+    "technique_id": "T1499.004",
+    "name": "Application or System Exploitation",
+    "tactics": [
+     "impact"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1499/004",
+    "capec_ids": [
+     "CAPEC-25"
+    ]
+   }
+  ],
+  "CWE-593": [
+   {
+    "technique_id": "T1557",
+    "name": "Adversary-in-the-Middle",
+    "tactics": [
+     "collection",
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1557",
+    "capec_ids": [
+     "CAPEC-94"
+    ]
+   }
+  ],
+  "CWE-602": [
+   {
+    "technique_id": "T1056.004",
+    "name": "Credential API Hooking",
+    "tactics": [
+     "collection",
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1056/004",
+    "capec_ids": [
+     "CAPEC-383"
+    ]
+   },
+   {
+    "technique_id": "T1134",
+    "name": "Access Token Manipulation",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134",
+    "capec_ids": [
+     "CAPEC-21"
+    ]
+   },
+   {
+    "technique_id": "T1528",
+    "name": "Steal Application Access Token",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1528",
+    "capec_ids": [
+     "CAPEC-21"
+    ]
+   },
+   {
+    "technique_id": "T1539",
+    "name": "Steal Web Session Cookie",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1539",
+    "capec_ids": [
+     "CAPEC-21",
+     "CAPEC-31"
+    ]
+   }
+  ],
+  "CWE-642": [
+   {
+    "technique_id": "T1134",
+    "name": "Access Token Manipulation",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134",
+    "capec_ids": [
+     "CAPEC-21"
+    ]
+   },
+   {
+    "technique_id": "T1528",
+    "name": "Steal Application Access Token",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1528",
+    "capec_ids": [
+     "CAPEC-21"
+    ]
+   },
+   {
+    "technique_id": "T1539",
+    "name": "Steal Web Session Cookie",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1539",
+    "capec_ids": [
+     "CAPEC-21",
+     "CAPEC-31"
+    ]
+   }
+  ],
+  "CWE-645": [
+   {
+    "technique_id": "T1531",
+    "name": "Account Access Removal",
+    "tactics": [
+     "impact"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1531",
+    "capec_ids": [
+     "CAPEC-2"
+    ]
+   }
+  ],
+  "CWE-654": [
+   {
+    "technique_id": "T1078",
+    "name": "Valid Accounts",
+    "tactics": [
+     "initial-access",
+     "persistence",
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1078",
+    "capec_ids": [
+     "CAPEC-560"
+    ]
+   },
+   {
+    "technique_id": "T1078.001",
+    "name": "Default Accounts",
+    "tactics": [
+     "initial-access",
+     "persistence",
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1078/001",
+    "capec_ids": [
+     "CAPEC-70"
+    ]
+   },
+   {
+    "technique_id": "T1110.001",
+    "name": "Password Guessing",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/001",
+    "capec_ids": [
+     "CAPEC-49"
+    ]
+   },
+   {
+    "technique_id": "T1110.002",
+    "name": "Password Cracking",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/002",
+    "capec_ids": [
+     "CAPEC-55"
+    ]
+   },
+   {
+    "technique_id": "T1110.003",
+    "name": "Password Spraying",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/003",
+    "capec_ids": [
+     "CAPEC-565"
+    ]
+   },
+   {
+    "technique_id": "T1110.004",
+    "name": "Credential Stuffing",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/004",
+    "capec_ids": [
+     "CAPEC-600"
+    ]
+   },
+   {
+    "technique_id": "T1558",
+    "name": "Steal or Forge Kerberos Tickets",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1558",
+    "capec_ids": [
+     "CAPEC-652"
+    ]
+   }
+  ],
+  "CWE-662": [
+   {
+    "technique_id": "T1499.004",
+    "name": "Application or System Exploitation",
+    "tactics": [
+     "impact"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1499/004",
+    "capec_ids": [
+     "CAPEC-25"
+    ]
+   }
+  ],
+  "CWE-664": [
+   {
+    "technique_id": "T1134",
+    "name": "Access Token Manipulation",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134",
+    "capec_ids": [
+     "CAPEC-21"
+    ]
+   },
+   {
+    "technique_id": "T1134.001",
+    "name": "Token Impersonation/Theft",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134/001",
+    "capec_ids": [
+     "CAPEC-60"
+    ]
+   },
+   {
+    "technique_id": "T1134.002",
+    "name": "Create Process with Token",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134/002",
+    "capec_ids": [
+     "CAPEC-196"
+    ]
+   },
+   {
+    "technique_id": "T1134.003",
+    "name": "Make and Impersonate Token",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134/003",
+    "capec_ids": [
+     "CAPEC-196"
+    ]
+   },
+   {
+    "technique_id": "T1528",
+    "name": "Steal Application Access Token",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1528",
+    "capec_ids": [
+     "CAPEC-21"
+    ]
+   },
+   {
+    "technique_id": "T1539",
+    "name": "Steal Web Session Cookie",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1539",
+    "capec_ids": [
+     "CAPEC-21"
+    ]
+   },
+   {
+    "technique_id": "T1550.004",
+    "name": "Web Session Cookie",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1550/004",
+    "capec_ids": [
+     "CAPEC-60"
+    ]
+   },
+   {
+    "technique_id": "T1606",
+    "name": "Forge Web Credentials",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1606",
+    "capec_ids": [
+     "CAPEC-196"
+    ]
+   }
+  ],
+  "CWE-667": [
+   {
+    "technique_id": "T1499.004",
+    "name": "Application or System Exploitation",
+    "tactics": [
+     "impact"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1499/004",
+    "capec_ids": [
+     "CAPEC-25"
+    ]
+   }
+  ],
+  "CWE-692": [
+   {
+    "technique_id": "T1027",
+    "name": "Obfuscated Files or Information",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027",
+    "capec_ids": [
+     "CAPEC-267"
+    ]
+   }
+  ],
+  "CWE-693": [
+   {
+    "technique_id": "T1040",
+    "name": "Network Sniffing",
+    "tactics": [
+     "credential-access",
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1040",
+    "capec_ids": [
+     "CAPEC-57",
+     "CAPEC-65"
+    ]
+   },
+   {
+    "technique_id": "T1083",
+    "name": "File and Directory Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1083",
+    "capec_ids": [
+     "CAPEC-127"
+    ]
+   },
+   {
+    "technique_id": "T1565.002",
+    "name": "Transmitted Data Manipulation",
+    "tactics": [
+     "impact"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1565/002",
+    "capec_ids": [
+     "CAPEC-668"
+    ]
+   },
+   {
+    "technique_id": "T1574.005",
+    "name": "Executable Installer File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/005",
+    "capec_ids": [
+     "CAPEC-17"
+    ]
+   },
+   {
+    "technique_id": "T1574.010",
+    "name": "Services File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/010",
+    "capec_ids": [
+     "CAPEC-1",
+     "CAPEC-17"
+    ]
+   },
+   {
+    "technique_id": "T1611",
+    "name": "Escape to Host",
+    "tactics": [
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1611",
+    "capec_ids": [
+     "CAPEC-480"
+    ]
+   }
+  ],
+  "CWE-697": [
+   {
+    "technique_id": "T1027",
+    "name": "Obfuscated Files or Information",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1027",
+    "capec_ids": [
+     "CAPEC-267"
+    ]
+   }
+  ],
+  "CWE-706": [
+   {
+    "technique_id": "T1036",
+    "name": "Masquerading",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1036",
+    "capec_ids": [
+     "CAPEC-177"
+    ]
+   },
+   {
+    "technique_id": "T1574.001",
+    "name": "DLL",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/001",
+    "capec_ids": [
+     "CAPEC-641"
+    ]
+   },
+   {
+    "technique_id": "T1574.008",
+    "name": "Path Interception by Search Order Hijacking",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/008",
+    "capec_ids": [
+     "CAPEC-159"
+    ]
+   }
+  ],
+  "CWE-732": [
+   {
+    "technique_id": "T1083",
+    "name": "File and Directory Discovery",
+    "tactics": [
+     "discovery"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1083",
+    "capec_ids": [
+     "CAPEC-127"
+    ]
+   },
+   {
+    "technique_id": "T1134.001",
+    "name": "Token Impersonation/Theft",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134/001",
+    "capec_ids": [
+     "CAPEC-60"
+    ]
+   },
+   {
+    "technique_id": "T1505.005",
+    "name": "Terminal Services DLL",
+    "tactics": [
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1505/005",
+    "capec_ids": [
+     "CAPEC-642"
+    ]
+   },
+   {
+    "technique_id": "T1548",
+    "name": "Abuse Elevation Control Mechanism",
+    "tactics": [
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1548",
+    "capec_ids": [
+     "CAPEC-122"
+    ]
+   },
+   {
+    "technique_id": "T1550.004",
+    "name": "Web Session Cookie",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1550/004",
+    "capec_ids": [
+     "CAPEC-60"
+    ]
+   },
+   {
+    "technique_id": "T1553.002",
+    "name": "Code Signing",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1553/002",
+    "capec_ids": [
+     "CAPEC-206"
+    ]
+   },
+   {
+    "technique_id": "T1554",
+    "name": "Compromise Host Software Binary",
+    "tactics": [
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1554",
+    "capec_ids": [
+     "CAPEC-642"
+    ]
+   },
+   {
+    "technique_id": "T1574.005",
+    "name": "Executable Installer File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/005",
+    "capec_ids": [
+     "CAPEC-17",
+     "CAPEC-642"
+    ]
+   },
+   {
+    "technique_id": "T1574.010",
+    "name": "Services File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/010",
+    "capec_ids": [
+     "CAPEC-1",
+     "CAPEC-17",
+     "CAPEC-180"
+    ]
+   }
+  ],
+  "CWE-757": [
+   {
+    "technique_id": "T1600",
+    "name": "Weaken Encryption",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1600",
+    "capec_ids": [
+     "CAPEC-620"
+    ]
+   }
+  ],
+  "CWE-770": [
+   {
+    "technique_id": "T1498.001",
+    "name": "Direct Network Flood",
+    "tactics": [
+     "impact"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1498/001",
+    "capec_ids": [
+     "CAPEC-125",
+     "CAPEC-482",
+     "CAPEC-528"
+    ]
+   },
+   {
+    "technique_id": "T1498.002",
+    "name": "Reflection Amplification",
+    "tactics": [
+     "impact"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1498/002",
+    "capec_ids": [
+     "CAPEC-490"
+    ]
+   },
+   {
+    "technique_id": "T1499",
+    "name": "Endpoint Denial of Service",
+    "tactics": [
+     "impact"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1499",
+    "capec_ids": [
+     "CAPEC-125"
+    ]
+   },
+   {
+    "technique_id": "T1499.001",
+    "name": "OS Exhaustion Flood",
+    "tactics": [
+     "impact"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1499/001",
+    "capec_ids": [
+     "CAPEC-482"
+    ]
+   },
+   {
+    "technique_id": "T1499.002",
+    "name": "Service Exhaustion Flood",
+    "tactics": [
+     "impact"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1499/002",
+    "capec_ids": [
+     "CAPEC-469",
+     "CAPEC-482",
+     "CAPEC-488",
+     "CAPEC-489",
+     "CAPEC-528"
+    ]
+   },
+   {
+    "technique_id": "T1499.003",
+    "name": "Application Exhaustion Flood",
+    "tactics": [
+     "impact"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1499/003",
+    "capec_ids": [
+     "CAPEC-130"
+    ]
+   }
+  ],
+  "CWE-772": [
+   {
+    "technique_id": "T1499.002",
+    "name": "Service Exhaustion Flood",
+    "tactics": [
+     "impact"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1499/002",
+    "capec_ids": [
+     "CAPEC-469"
+    ]
+   }
+  ],
+  "CWE-798": [
+   {
+    "technique_id": "T1078.001",
+    "name": "Default Accounts",
+    "tactics": [
+     "initial-access",
+     "persistence",
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1078/001",
+    "capec_ids": [
+     "CAPEC-70"
+    ]
+   },
+   {
+    "technique_id": "T1552.001",
+    "name": "Credentials In Files",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1552/001",
+    "capec_ids": [
+     "CAPEC-191"
+    ]
+   }
+  ],
+  "CWE-829": [
+   {
+    "technique_id": "T1055",
+    "name": "Process Injection",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1055",
+    "capec_ids": [
+     "CAPEC-251",
+     "CAPEC-660"
+    ]
+   },
+   {
+    "technique_id": "T1176",
+    "name": "Software Extensions",
+    "tactics": [
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1176",
+    "capec_ids": [
+     "CAPEC-698"
+    ]
+   },
+   {
+    "technique_id": "T1195.001",
+    "name": "Compromise Software Dependencies and Development Tools",
+    "tactics": [
+     "initial-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1195/001",
+    "capec_ids": [
+     "CAPEC-538",
+     "CAPEC-695"
+    ]
+   },
+   {
+    "technique_id": "T1505.004",
+    "name": "IIS Components",
+    "tactics": [
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1505/004",
+    "capec_ids": [
+     "CAPEC-698"
+    ]
+   },
+   {
+    "technique_id": "T1505.005",
+    "name": "Terminal Services DLL",
+    "tactics": [
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1505/005",
+    "capec_ids": [
+     "CAPEC-640"
+    ]
+   },
+   {
+    "technique_id": "T1574.006",
+    "name": "Dynamic Linker Hijacking",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/006",
+    "capec_ids": [
+     "CAPEC-640"
+    ]
+   },
+   {
+    "technique_id": "T1574.013",
+    "name": "KernelCallbackTable",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/013",
+    "capec_ids": [
+     "CAPEC-640"
+    ]
+   },
+   {
+    "technique_id": "T1620",
+    "name": "Reflective Code Loading",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1620",
+    "capec_ids": [
+     "CAPEC-640"
+    ]
+   }
+  ],
+  "CWE-833": [
+   {
+    "technique_id": "T1499.004",
+    "name": "Application or System Exploitation",
+    "tactics": [
+     "impact"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1499/004",
+    "capec_ids": [
+     "CAPEC-25"
+    ]
+   }
+  ],
+  "CWE-836": [
+   {
+    "technique_id": "T1550.002",
+    "name": "Pass the Hash",
+    "tactics": [
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1550/002",
+    "capec_ids": [
+     "CAPEC-644"
+    ]
+   },
+   {
+    "technique_id": "T1558",
+    "name": "Steal or Forge Kerberos Tickets",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1558",
+    "capec_ids": [
+     "CAPEC-652"
+    ]
+   }
+  ],
+  "CWE-862": [
+   {
+    "technique_id": "T1211",
+    "name": "Exploitation for Stealth",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1211",
+    "capec_ids": [
+     "CAPEC-665"
+    ]
+   },
+   {
+    "technique_id": "T1542.002",
+    "name": "Component Firmware",
+    "tactics": [
+     "persistence",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1542/002",
+    "capec_ids": [
+     "CAPEC-665"
+    ]
+   },
+   {
+    "technique_id": "T1556",
+    "name": "Modify Authentication Process",
+    "tactics": [
+     "credential-access",
+     "defense-impairment",
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1556",
+    "capec_ids": [
+     "CAPEC-665"
+    ]
+   }
+  ],
+  "CWE-916": [
+   {
+    "technique_id": "T1110.002",
+    "name": "Password Cracking",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1110/002",
+    "capec_ids": [
+     "CAPEC-55"
+    ]
+   }
+  ],
+  "CWE-923": [
+   {
+    "technique_id": "T1090.004",
+    "name": "Domain Fronting",
+    "tactics": [
+     "command-and-control"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1090/004",
+    "capec_ids": [
+     "CAPEC-481"
+    ]
+   },
+   {
+    "technique_id": "T1557.003",
+    "name": "DHCP Spoofing",
+    "tactics": [
+     "collection",
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1557/003",
+    "capec_ids": [
+     "CAPEC-697"
+    ]
+   }
+  ],
+  "CWE-1021": [
+   {
+    "technique_id": "T1036.004",
+    "name": "Masquerade Task or Service",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1036/004",
+    "capec_ids": [
+     "CAPEC-504"
+    ]
+   },
+   {
+    "technique_id": "T1056",
+    "name": "Input Capture",
+    "tactics": [
+     "collection",
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1056",
+    "capec_ids": [
+     "CAPEC-654"
+    ]
+   },
+   {
+    "technique_id": "T1548.004",
+    "name": "Elevated Execution with Prompt",
+    "tactics": [
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1548/004",
+    "capec_ids": [
+     "CAPEC-654"
+    ]
+   }
+  ],
+  "CWE-1188": [
+   {
+    "technique_id": "T1211",
+    "name": "Exploitation for Stealth",
+    "tactics": [
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1211",
+    "capec_ids": [
+     "CAPEC-665"
+    ]
+   },
+   {
+    "technique_id": "T1542.002",
+    "name": "Component Firmware",
+    "tactics": [
+     "persistence",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1542/002",
+    "capec_ids": [
+     "CAPEC-665"
+    ]
+   },
+   {
+    "technique_id": "T1556",
+    "name": "Modify Authentication Process",
+    "tactics": [
+     "credential-access",
+     "defense-impairment",
+     "persistence"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1556",
+    "capec_ids": [
+     "CAPEC-665"
+    ]
+   }
+  ],
+  "CWE-1190": [
+   {
+    "technique_id": "T1574.010",
+    "name": "Services File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/010",
+    "capec_ids": [
+     "CAPEC-180"
+    ]
+   }
+  ],
+  "CWE-1191": [
+   {
+    "technique_id": "T1574.010",
+    "name": "Services File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/010",
+    "capec_ids": [
+     "CAPEC-1",
+     "CAPEC-180"
+    ]
+   }
+  ],
+  "CWE-1193": [
+   {
+    "technique_id": "T1574.010",
+    "name": "Services File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/010",
+    "capec_ids": [
+     "CAPEC-1",
+     "CAPEC-180"
+    ]
+   }
+  ],
+  "CWE-1220": [
+   {
+    "technique_id": "T1574.010",
+    "name": "Services File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/010",
+    "capec_ids": [
+     "CAPEC-1",
+     "CAPEC-180"
+    ]
+   }
+  ],
+  "CWE-1239": [
+   {
+    "technique_id": "T1003",
+    "name": "OS Credential Dumping",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1003",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1005",
+    "name": "Data from Local System",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1005",
+    "capec_ids": [
+     "CAPEC-37",
+     "CAPEC-204",
+     "CAPEC-545"
+    ]
+   },
+   {
+    "technique_id": "T1119",
+    "name": "Automated Collection",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1119",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1213",
+    "name": "Data from Information Repositories",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1213",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1530",
+    "name": "Data from Cloud Storage",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1530",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1552.004",
+    "name": "Private Keys",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1552/004",
+    "capec_ids": [
+     "CAPEC-37"
+    ]
+   },
+   {
+    "technique_id": "T1555",
+    "name": "Credentials from Password Stores",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1555",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1555.001",
+    "name": "Keychain",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1555/001",
+    "capec_ids": [
+     "CAPEC-545"
+    ]
+   },
+   {
+    "technique_id": "T1602",
+    "name": "Data from Configuration Repository",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1602",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   }
+  ],
+  "CWE-1243": [
+   {
+    "technique_id": "T1005",
+    "name": "Data from Local System",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1005",
+    "capec_ids": [
+     "CAPEC-545"
+    ]
+   },
+   {
+    "technique_id": "T1555.001",
+    "name": "Keychain",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1555/001",
+    "capec_ids": [
+     "CAPEC-545"
+    ]
+   }
+  ],
+  "CWE-1244": [
+   {
+    "technique_id": "T1548",
+    "name": "Abuse Elevation Control Mechanism",
+    "tactics": [
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1548",
+    "capec_ids": [
+     "CAPEC-114"
+    ]
+   }
+  ],
+  "CWE-1258": [
+   {
+    "technique_id": "T1003",
+    "name": "OS Credential Dumping",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1003",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1005",
+    "name": "Data from Local System",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1005",
+    "capec_ids": [
+     "CAPEC-37",
+     "CAPEC-204",
+     "CAPEC-545"
+    ]
+   },
+   {
+    "technique_id": "T1119",
+    "name": "Automated Collection",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1119",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1213",
+    "name": "Data from Information Repositories",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1213",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1530",
+    "name": "Data from Cloud Storage",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1530",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1552.004",
+    "name": "Private Keys",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1552/004",
+    "capec_ids": [
+     "CAPEC-37"
+    ]
+   },
+   {
+    "technique_id": "T1555",
+    "name": "Credentials from Password Stores",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1555",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1555.001",
+    "name": "Keychain",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1555/001",
+    "capec_ids": [
+     "CAPEC-545"
+    ]
+   },
+   {
+    "technique_id": "T1602",
+    "name": "Data from Configuration Repository",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1602",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   }
+  ],
+  "CWE-1264": [
+   {
+    "technique_id": "T1548",
+    "name": "Abuse Elevation Control Mechanism",
+    "tactics": [
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1548",
+    "capec_ids": [
+     "CAPEC-233"
+    ]
+   }
+  ],
+  "CWE-1266": [
+   {
+    "technique_id": "T1003",
+    "name": "OS Credential Dumping",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1003",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1005",
+    "name": "Data from Local System",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1005",
+    "capec_ids": [
+     "CAPEC-37",
+     "CAPEC-545"
+    ]
+   },
+   {
+    "technique_id": "T1052",
+    "name": "Exfiltration Over Physical Medium",
+    "tactics": [
+     "exfiltration"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1052",
+    "capec_ids": [
+     "CAPEC-675"
+    ]
+   },
+   {
+    "technique_id": "T1119",
+    "name": "Automated Collection",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1119",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1213",
+    "name": "Data from Information Repositories",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1213",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1530",
+    "name": "Data from Cloud Storage",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1530",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1552.004",
+    "name": "Private Keys",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1552/004",
+    "capec_ids": [
+     "CAPEC-37"
+    ]
+   },
+   {
+    "technique_id": "T1555",
+    "name": "Credentials from Password Stores",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1555",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1555.001",
+    "name": "Keychain",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1555/001",
+    "capec_ids": [
+     "CAPEC-545"
+    ]
+   },
+   {
+    "technique_id": "T1602",
+    "name": "Data from Configuration Repository",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1602",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   }
+  ],
+  "CWE-1268": [
+   {
+    "technique_id": "T1574.010",
+    "name": "Services File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/010",
+    "capec_ids": [
+     "CAPEC-180"
+    ]
+   }
+  ],
+  "CWE-1269": [
+   {
+    "technique_id": "T1195",
+    "name": "Supply Chain Compromise",
+    "tactics": [
+     "initial-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1195",
+    "capec_ids": [
+     "CAPEC-439"
+    ]
+   }
+  ],
+  "CWE-1270": [
+   {
+    "technique_id": "T1134",
+    "name": "Access Token Manipulation",
+    "tactics": [
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1134",
+    "capec_ids": [
+     "CAPEC-633"
+    ]
+   }
+  ],
+  "CWE-1272": [
+   {
+    "technique_id": "T1003",
+    "name": "OS Credential Dumping",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1003",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1005",
+    "name": "Data from Local System",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1005",
+    "capec_ids": [
+     "CAPEC-37",
+     "CAPEC-545"
+    ]
+   },
+   {
+    "technique_id": "T1119",
+    "name": "Automated Collection",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1119",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1213",
+    "name": "Data from Information Repositories",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1213",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1530",
+    "name": "Data from Cloud Storage",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1530",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1552.004",
+    "name": "Private Keys",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1552/004",
+    "capec_ids": [
+     "CAPEC-37"
+    ]
+   },
+   {
+    "technique_id": "T1555",
+    "name": "Credentials from Password Stores",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1555",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1555.001",
+    "name": "Keychain",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1555/001",
+    "capec_ids": [
+     "CAPEC-545"
+    ]
+   },
+   {
+    "technique_id": "T1602",
+    "name": "Data from Configuration Repository",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1602",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   }
+  ],
+  "CWE-1273": [
+   {
+    "technique_id": "T1078",
+    "name": "Valid Accounts",
+    "tactics": [
+     "initial-access",
+     "persistence",
+     "privilege-escalation",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1078",
+    "capec_ids": [
+     "CAPEC-560"
+    ]
+   }
+  ],
+  "CWE-1278": [
+   {
+    "technique_id": "T1005",
+    "name": "Data from Local System",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1005",
+    "capec_ids": [
+     "CAPEC-37",
+     "CAPEC-545"
+    ]
+   },
+   {
+    "technique_id": "T1552.004",
+    "name": "Private Keys",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1552/004",
+    "capec_ids": [
+     "CAPEC-37"
+    ]
+   },
+   {
+    "technique_id": "T1555.001",
+    "name": "Keychain",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1555/001",
+    "capec_ids": [
+     "CAPEC-545"
+    ]
+   }
+  ],
+  "CWE-1280": [
+   {
+    "technique_id": "T1574.010",
+    "name": "Services File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/010",
+    "capec_ids": [
+     "CAPEC-180"
+    ]
+   }
+  ],
+  "CWE-1297": [
+   {
+    "technique_id": "T1574.010",
+    "name": "Services File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/010",
+    "capec_ids": [
+     "CAPEC-1",
+     "CAPEC-180"
+    ]
+   }
+  ],
+  "CWE-1299": [
+   {
+    "technique_id": "T1091",
+    "name": "Replication Through Removable Media",
+    "tactics": [
+     "initial-access",
+     "lateral-movement"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1091",
+    "capec_ids": [
+     "CAPEC-457"
+    ]
+   },
+   {
+    "technique_id": "T1092",
+    "name": "Communication Through Removable Media",
+    "tactics": [
+     "command-and-control"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1092",
+    "capec_ids": [
+     "CAPEC-457"
+    ]
+   }
+  ],
+  "CWE-1301": [
+   {
+    "technique_id": "T1005",
+    "name": "Data from Local System",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1005",
+    "capec_ids": [
+     "CAPEC-37"
+    ]
+   },
+   {
+    "technique_id": "T1552.004",
+    "name": "Private Keys",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1552/004",
+    "capec_ids": [
+     "CAPEC-37"
+    ]
+   }
+  ],
+  "CWE-1311": [
+   {
+    "technique_id": "T1548",
+    "name": "Abuse Elevation Control Mechanism",
+    "tactics": [
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1548",
+    "capec_ids": [
+     "CAPEC-233"
+    ]
+   },
+   {
+    "technique_id": "T1574.010",
+    "name": "Services File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/010",
+    "capec_ids": [
+     "CAPEC-1",
+     "CAPEC-180"
+    ]
+   }
+  ],
+  "CWE-1314": [
+   {
+    "technique_id": "T1574.010",
+    "name": "Services File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/010",
+    "capec_ids": [
+     "CAPEC-1"
+    ]
+   }
+  ],
+  "CWE-1315": [
+   {
+    "technique_id": "T1574.010",
+    "name": "Services File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/010",
+    "capec_ids": [
+     "CAPEC-1",
+     "CAPEC-180"
+    ]
+   }
+  ],
+  "CWE-1317": [
+   {
+    "technique_id": "T1548",
+    "name": "Abuse Elevation Control Mechanism",
+    "tactics": [
+     "privilege-escalation"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1548",
+    "capec_ids": [
+     "CAPEC-122"
+    ]
+   }
+  ],
+  "CWE-1318": [
+   {
+    "technique_id": "T1574.010",
+    "name": "Services File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/010",
+    "capec_ids": [
+     "CAPEC-1",
+     "CAPEC-180"
+    ]
+   }
+  ],
+  "CWE-1320": [
+   {
+    "technique_id": "T1574.010",
+    "name": "Services File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/010",
+    "capec_ids": [
+     "CAPEC-1",
+     "CAPEC-180"
+    ]
+   }
+  ],
+  "CWE-1321": [
+   {
+    "technique_id": "T1574.010",
+    "name": "Services File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/010",
+    "capec_ids": [
+     "CAPEC-1",
+     "CAPEC-180"
+    ]
+   }
+  ],
+  "CWE-1322": [
+   {
+    "technique_id": "T1499.004",
+    "name": "Application or System Exploitation",
+    "tactics": [
+     "impact"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1499/004",
+    "capec_ids": [
+     "CAPEC-25"
+    ]
+   }
+  ],
+  "CWE-1323": [
+   {
+    "technique_id": "T1003",
+    "name": "OS Credential Dumping",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1003",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1005",
+    "name": "Data from Local System",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1005",
+    "capec_ids": [
+     "CAPEC-545"
+    ]
+   },
+   {
+    "technique_id": "T1119",
+    "name": "Automated Collection",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1119",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1213",
+    "name": "Data from Information Repositories",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1213",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1530",
+    "name": "Data from Cloud Storage",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1530",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1555",
+    "name": "Credentials from Password Stores",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1555",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1555.001",
+    "name": "Keychain",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1555/001",
+    "capec_ids": [
+     "CAPEC-545"
+    ]
+   },
+   {
+    "technique_id": "T1602",
+    "name": "Data from Configuration Repository",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1602",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   }
+  ],
+  "CWE-1325": [
+   {
+    "technique_id": "T1499.003",
+    "name": "Application Exhaustion Flood",
+    "tactics": [
+     "impact"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1499/003",
+    "capec_ids": [
+     "CAPEC-130"
+    ]
+   }
+  ],
+  "CWE-1326": [
+   {
+    "technique_id": "T1553.002",
+    "name": "Code Signing",
+    "tactics": [
+     "defense-impairment"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1553/002",
+    "capec_ids": [
+     "CAPEC-68"
+    ]
+   }
+  ],
+  "CWE-1327": [
+   {
+    "technique_id": "T1574.010",
+    "name": "Services File Permissions Weakness",
+    "tactics": [
+     "execution",
+     "stealth"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1574/010",
+    "capec_ids": [
+     "CAPEC-1"
+    ]
+   }
+  ],
+  "CWE-1330": [
+   {
+    "technique_id": "T1003",
+    "name": "OS Credential Dumping",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1003",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1005",
+    "name": "Data from Local System",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1005",
+    "capec_ids": [
+     "CAPEC-37",
+     "CAPEC-545"
+    ]
+   },
+   {
+    "technique_id": "T1119",
+    "name": "Automated Collection",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1119",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1213",
+    "name": "Data from Information Repositories",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1213",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1530",
+    "name": "Data from Cloud Storage",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1530",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1552.004",
+    "name": "Private Keys",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1552/004",
+    "capec_ids": [
+     "CAPEC-37"
+    ]
+   },
+   {
+    "technique_id": "T1555",
+    "name": "Credentials from Password Stores",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1555",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   },
+   {
+    "technique_id": "T1555.001",
+    "name": "Keychain",
+    "tactics": [
+     "credential-access"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1555/001",
+    "capec_ids": [
+     "CAPEC-545"
+    ]
+   },
+   {
+    "technique_id": "T1602",
+    "name": "Data from Configuration Repository",
+    "tactics": [
+     "collection"
+    ],
+    "url": "https://attack.mitre.org/techniques/T1602",
+    "capec_ids": [
+     "CAPEC-150"
+    ]
+   }
+  ]
+ }
+}

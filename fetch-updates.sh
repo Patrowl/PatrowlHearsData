@@ -59,6 +59,7 @@ git pull
 
 [ $DO_DATA_UPDATE -eq 1 ] && {
 	env/bin/python CWE/fetch-and-update.py
+	env/bin/python ATTACK/fetch-and-update.py
 	env/bin/python CPE/fetch-and-update.py
 	env/bin/python CVE/fetch-and-update.py
 	env/bin/python EUVD/fetch-and-update.py
