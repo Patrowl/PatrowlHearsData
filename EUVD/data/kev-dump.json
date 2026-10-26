@@ -14264,17 +14264,23 @@
   {
     "cveId": "CVE-2026-105133",
     "euvdId": "EUVD-2026-92079",
+    "vendorProject": "Ahsay",
+    "product": "AhsayCBS",
     "dateAdded": "2026-10-14",
     "sources": [
-      "cisa_kev"
+      "cisa_kev",
+      "eukev_kev"
     ]
   },
   {
     "cveId": "CVE-2026-105134",
     "euvdId": "EUVD-2026-92078",
+    "vendorProject": "Ahsay",
+    "product": "AhsayCBS",
     "dateAdded": "2026-10-14",
     "sources": [
-      "cisa_kev"
+      "cisa_kev",
+      "eukev_kev"
     ]
   },
   {
