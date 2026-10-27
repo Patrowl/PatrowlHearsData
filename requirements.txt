@@ -3,7 +3,7 @@ chardet==3.0.4
 idna==2.10
 requests==2.25.0
 tqdm==4.54.1
-urllib3==1.26.2
+urllib3==2.8.0
 GitPython==3.1.43
 python-dateutil
 cvss==3.6
