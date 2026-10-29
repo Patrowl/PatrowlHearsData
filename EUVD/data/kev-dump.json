@@ -14240,9 +14240,12 @@
   {
     "cveId": "CVE-2026-96951",
     "euvdId": "EUVD-2026-100274",
-    "dateAdded": "2026-10-13",
+    "vendorProject": "Microsoft",
+    "product": "Windows version 8.1 and above",
+    "dateAdded": "2026-09-25",
     "sources": [
-      "cisa_kev"
+      "cisa_kev",
+      "eukev_kev"
     ]
   },
   {
@@ -14450,6 +14453,16 @@
     "dateAdded": "2026-10-28",
     "sources": [
       "cisa_kev"
+    ]
+  },
+  {
+    "cveId": "CVE-2015-0279",
+    "euvdId": "EUVD-2015-0292",
+    "vendorProject": "Red Hat",
+    "product": "JBoss RichFaces",
+    "dateAdded": "2026-10-25",
+    "sources": [
+      "eukev_kev"
     ]
   }
 ]
