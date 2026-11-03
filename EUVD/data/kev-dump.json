@@ -14491,6 +14491,7 @@
   },
   {
     "cveId": "CVE-2026-118527",
+    "euvdId": "EUVD-2026-115872",
     "dateAdded": "2026-10-30",
     "sources": [
       "cisa_kev"
