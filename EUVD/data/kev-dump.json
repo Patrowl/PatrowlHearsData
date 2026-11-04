@@ -14504,5 +14504,13 @@
     "sources": [
       "cisa_kev"
     ]
+  },
+  {
+    "cveId": "CVE-2024-27834",
+    "euvdId": "EUVD-2024-25027",
+    "dateAdded": "2026-11-04",
+    "sources": [
+      "cisa_kev"
+    ]
   }
 ]
