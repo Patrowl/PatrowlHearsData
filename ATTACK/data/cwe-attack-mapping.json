@@ -1,7 +1,7 @@
 {
  "sources": {
   "capec_version": "3.9",
-  "attack_version": "20.0"
+  "attack_version": "20.1"
  },
  "tactics": {
   "collection": {
