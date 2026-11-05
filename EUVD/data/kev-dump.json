@@ -14512,5 +14512,15 @@
     "sources": [
       "cisa_kev"
     ]
+  },
+  {
+    "cveId": "CVE-2026-58115",
+    "euvdId": "EUVD-2026-56119",
+    "vendorProject": "Siemens",
+    "product": "SIMATIC IoT2050",
+    "dateAdded": "2026-11-03",
+    "sources": [
+      "eukev_kev"
+    ]
   }
 ]
