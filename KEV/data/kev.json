@@ -1,7 +1,7 @@
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
-    "catalogVersion": "2026.11.13",
-    "dateReleased": "2026-11-13T20:24:18.3008Z",
+    "catalogVersion": "2026.11.17",
+    "dateReleased": "2026-11-17T17:00:49.4895Z",
     "count": 1781,
     "vulnerabilities": [
         {
@@ -2444,7 +2444,7 @@
         },
         {
             "cveID": "CVE-2026-48558",
-            "vendorProject": "SimpleHelp ",
+            "vendorProject": "SimpleHelp",
             "product": "SimpleHelp",
             "vulnerabilityName": "SimpleHelp Authentication Bypass Vulnerability",
             "dateAdded": "2026-06-29",
@@ -3226,7 +3226,7 @@
         },
         {
             "cveID": "CVE-2024-57728",
-            "vendorProject": "SimpleHelp ",
+            "vendorProject": "SimpleHelp",
             "product": "SimpleHelp",
             "vulnerabilityName": "SimpleHelp Path Traversal Vulnerability",
             "dateAdded": "2026-04-24",
@@ -3242,7 +3242,7 @@
         },
         {
             "cveID": "CVE-2024-57726",
-            "vendorProject": "SimpleHelp ",
+            "vendorProject": "SimpleHelp",
             "product": "SimpleHelp",
             "vulnerabilityName": "SimpleHelp Missing Authorization Vulnerability",
             "dateAdded": "2026-04-24",
@@ -5021,7 +5021,7 @@
         },
         {
             "cveID": "CVE-2025-66644",
-            "vendorProject": "Array Networks ",
+            "vendorProject": "Array Networks",
             "product": "ArrayOS AG",
             "vulnerabilityName": "Array Networks ArrayOS AG OS Command Injection Vulnerability",
             "dateAdded": "2025-12-08",
@@ -8154,7 +8154,7 @@
         },
         {
             "cveID": "CVE-2024-57727",
-            "vendorProject": "SimpleHelp ",
+            "vendorProject": "SimpleHelp",
             "product": "SimpleHelp",
             "vulnerabilityName": "SimpleHelp Path Traversal Vulnerability",
             "dateAdded": "2025-02-13",
@@ -8918,7 +8918,7 @@
         },
         {
             "cveID": "CVE-2023-28461",
-            "vendorProject": "Array Networks ",
+            "vendorProject": "Array Networks",
             "product": "AG\/vxAG ArrayOS",
             "vulnerabilityName": "Array Networks AG and vxAG ArrayOS Missing Authentication for Critical Function Vulnerability",
             "dateAdded": "2024-11-25",
