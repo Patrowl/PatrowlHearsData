@@ -14704,5 +14704,28 @@
     "sources": [
       "cisa_kev"
     ]
+  },
+  {
+    "cveId": "CVE-2026-132224",
+    "euvdId": "EUVD-2026-129010",
+    "dateAdded": "2026-11-24",
+    "sources": [
+      "cisa_kev"
+    ]
+  },
+  {
+    "cveId": "CVE-2026-132165",
+    "dateAdded": "2026-11-24",
+    "sources": [
+      "cisa_kev"
+    ]
+  },
+  {
+    "cveId": "CVE-2026-131914",
+    "euvdId": "EUVD-2026-129432",
+    "dateAdded": "2026-11-24",
+    "sources": [
+      "cisa_kev"
+    ]
   }
 ]
