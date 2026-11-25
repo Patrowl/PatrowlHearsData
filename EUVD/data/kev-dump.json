@@ -14790,5 +14790,77 @@
     "sources": [
       "cisa_kev"
     ]
+  },
+  {
+    "cveId": "CVE-2025-41450",
+    "euvdId": "EUVD-2025-13996",
+    "dateAdded": "2026-11-25",
+    "sources": [
+      "cisa_kev"
+    ]
+  },
+  {
+    "cveId": "CVE-2026-133469",
+    "euvdId": "EUVD-2026-133254",
+    "dateAdded": "2026-11-25",
+    "sources": [
+      "cisa_kev"
+    ]
+  },
+  {
+    "cveId": "CVE-2026-133323",
+    "euvdId": "EUVD-2026-130382",
+    "dateAdded": "2026-11-25",
+    "sources": [
+      "cisa_kev"
+    ]
+  },
+  {
+    "cveId": "CVE-2026-133324",
+    "euvdId": "EUVD-2026-130384",
+    "dateAdded": "2026-11-25",
+    "sources": [
+      "cisa_kev"
+    ]
+  },
+  {
+    "cveId": "CVE-2026-133303",
+    "euvdId": "EUVD-2026-130376",
+    "dateAdded": "2026-11-25",
+    "sources": [
+      "cisa_kev"
+    ]
+  },
+  {
+    "cveId": "CVE-2026-133311",
+    "euvdId": "EUVD-2026-130381",
+    "dateAdded": "2026-11-25",
+    "sources": [
+      "cisa_kev"
+    ]
+  },
+  {
+    "cveId": "CVE-2023-25914",
+    "euvdId": "EUVD-2023-29802",
+    "dateAdded": "2026-11-25",
+    "sources": [
+      "cisa_kev"
+    ]
+  },
+  {
+    "cveId": "CVE-2023-25915",
+    "euvdId": "EUVD-2023-29803",
+    "dateAdded": "2026-11-25",
+    "sources": [
+      "cisa_kev"
+    ]
+  },
+  {
+    "cveId": "CVE-2026-133275",
+    "euvdId": "EUVD-2026-130372",
+    "dateAdded": "2026-11-25",
+    "sources": [
+      "cisa_kev"
+    ]
   }
 ]
