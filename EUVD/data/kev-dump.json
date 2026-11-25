@@ -13995,9 +13995,12 @@
   {
     "cveId": "CVE-2026-7273",
     "euvdId": "EUVD-2026-37030",
+    "vendorProject": "Zyxel",
+    "product": "Multiple firmware versions",
     "dateAdded": "2026-09-21",
     "sources": [
-      "cisa_kev"
+      "cisa_kev",
+      "eukev_kev"
     ]
   },
   {
@@ -14130,9 +14133,12 @@
   {
     "cveId": "CVE-2026-76504",
     "euvdId": "EUVD-2026-89950",
+    "vendorProject": "Cisco",
+    "product": "Cisco Catalyst SD-WAN Manager",
     "dateAdded": "2026-09-30",
     "sources": [
-      "cisa_kev"
+      "cisa_kev",
+      "eukev_kev"
     ]
   },
   {
@@ -14259,9 +14265,12 @@
   {
     "cveId": "CVE-2026-76519",
     "euvdId": "EUVD-2026-101420",
+    "vendorProject": "Cisco",
+    "product": "Cisco Secure Email",
     "dateAdded": "2026-10-14",
     "sources": [
-      "cisa_kev"
+      "cisa_kev",
+      "eukev_kev"
     ]
   },
   {
@@ -14687,9 +14696,12 @@
   {
     "cveId": "CVE-2026-123890",
     "euvdId": "EUVD-2026-130196",
+    "vendorProject": "VMware",
+    "product": "vCenter, Telco Cloud Platform, Telco Cloud Infrastructure",
     "dateAdded": "2026-11-20",
     "sources": [
-      "cisa_kev"
+      "cisa_kev",
+      "eukev_kev"
     ]
   },
   {
@@ -14737,6 +14749,36 @@
     "vendorProject": "Danfoss",
     "product": "AK-SC 355, AK-SM 800",
     "dateAdded": "2026-11-20",
+    "sources": [
+      "eukev_kev"
+    ]
+  },
+  {
+    "cveId": "CVE-2026-3496",
+    "euvdId": "EUVD-2026-11158",
+    "vendorProject": "Crocoblock",
+    "product": "JetBooking",
+    "dateAdded": "2026-11-25",
+    "sources": [
+      "eukev_kev"
+    ]
+  },
+  {
+    "cveId": "CVE-2025-49931",
+    "euvdId": "EUVD-2025-35527",
+    "vendorProject": "Crocoblock",
+    "product": "JetSearch",
+    "dateAdded": "2026-11-25",
+    "sources": [
+      "eukev_kev"
+    ]
+  },
+  {
+    "cveId": "CVE-2025-34035",
+    "euvdId": "EUVD-2025-18966",
+    "vendorProject": "EnGenius",
+    "product": "EnShare IoT Gigabit Cloud Service",
+    "dateAdded": "2026-11-25",
     "sources": [
       "eukev_kev"
     ]
