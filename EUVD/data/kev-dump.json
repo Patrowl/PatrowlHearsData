@@ -14298,9 +14298,12 @@
   {
     "cveId": "CVE-2026-21589",
     "euvdId": "EUVD-2026-92807",
+    "vendorProject": "Atlassian",
+    "product": "Bamboo Data Center",
     "dateAdded": "2026-10-15",
     "sources": [
-      "cisa_kev"
+      "cisa_kev",
+      "eukev_kev"
     ]
   },
   {
